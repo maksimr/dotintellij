@@ -1,0 +1,82 @@
+<keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="control SPACE" />
+    <keyboard-shortcut first-keystroke="shift SPACE" />
+  </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="F3" />
+    <keyboard-shortcut first-keystroke="alt N" />
+  </action>
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="shift F3" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt F7" />
+    <keyboard-shortcut first-keystroke="control G" />
+  </action>
+  <action id="FindUsagesInFile">
+    <keyboard-shortcut first-keystroke="control F7" />
+    <keyboard-shortcut first-keystroke="alt F" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="alt INSERT" />
+    <keyboard-shortcut first-keystroke="alt L" />
+  </action>
+  <action id="GotoLine" />
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="shift control alt N" />
+    <keyboard-shortcut first-keystroke="shift control L" />
+  </action>
+  <action id="InsertNewLineAbove">
+    <keyboard-shortcut first-keystroke="shift alt ENTER" />
+  </action>
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="alt INSERT" />
+    <keyboard-shortcut first-keystroke="shift alt 5" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="alt PERIOD" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift F6" />
+    <keyboard-shortcut first-keystroke="control alt R" />
+  </action>
+  <action id="Rerun" />
+  <action id="RerunTests">
+    <keyboard-shortcut first-keystroke="control F5" />
+    <keyboard-shortcut first-keystroke="shift alt R" />
+  </action>
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="shift alt MINUS" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="shift alt BACK_SLASH" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="shift alt ENTER" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="shift alt DOWN" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="shift alt LEFT" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="shift alt RIGHT" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="shift alt UP" />
+  </action>
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="shift alt U" />
+  </action>
+  <action id="com.wallaby.javascript.actions.ShowLineTestsAction">
+    <keyboard-shortcut first-keystroke="alt COMMA" second-keystroke="I" />
+  </action>
+  <action id="org.intellij.ideaplugins.tabswitch.action.NextTabAction">
+    <keyboard-shortcut first-keystroke="alt A" />
+  </action>
+  <action id="org.jetbrains.plugins.terminal.OpenLocalTerminalAction">
+    <keyboard-shortcut first-keystroke="shift alt PERIOD" />
+  </action>
+</keymap>

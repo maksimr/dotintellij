@@ -1,0 +1,111 @@
+<application>
+  <component name="AlternateApplicationComponent">
+    <option name="freeRegexActive" value="true" />
+    <option name="freeRegexItems">
+      <list>
+        <AlternateFreeRegexItem>
+          <option name="matchExpression" value="^Test(.*?)\.java$" />
+          <option name="replaceExpression" value="$1.java" />
+        </AlternateFreeRegexItem>
+        <AlternateFreeRegexItem>
+          <option name="matchExpression" value="^(.*?)\.java$" />
+          <option name="replaceExpression" value="Test$1.java" />
+        </AlternateFreeRegexItem>
+        <AlternateFreeRegexItem>
+          <option name="matchExpression" value="^(.*?)Test\.java$" />
+          <option name="replaceExpression" value="$1.java" />
+        </AlternateFreeRegexItem>
+        <AlternateFreeRegexItem>
+          <option name="matchExpression" value="^(.*?)\.java$" />
+          <option name="replaceExpression" value="$1Test.java" />
+        </AlternateFreeRegexItem>
+        <AlternateFreeRegexItem>
+          <option name="matchExpression" value="^(.*?)\.test.js$" />
+          <option name="replaceExpression" value="$1.js" />
+        </AlternateFreeRegexItem>
+        <AlternateFreeRegexItem>
+          <option name="matchExpression" value="^(.*?)\.jsx?$" />
+          <option name="replaceExpression" value="$1.test.js" />
+        </AlternateFreeRegexItem>
+        <AlternateFreeRegexItem>
+          <option name="matchExpression" value="^(.*?)\.(js|jsx)$" />
+          <option name="replaceExpression" value="tests/$1.$2" />
+        </AlternateFreeRegexItem>
+        <AlternateFreeRegexItem>
+          <option name="matchExpression" value="^(.*?)\.test.js$" />
+          <option name="replaceExpression" value="$1.jsx" />
+        </AlternateFreeRegexItem>
+        <AlternateFreeRegexItem>
+          <option name="matchExpression" value="^(.*?)\.(js|jsx)$" />
+          <option name="replaceExpression" value="test/$1.$2" />
+        </AlternateFreeRegexItem>
+      </list>
+    </option>
+    <option name="genericPostfixRegexItems">
+      <AlternateGenericPrefixPostfixRegexItem>
+        <option name="type" value="POSTFIX" />
+        <option name="expression" value="Impl" />
+        <option name="grouping" value="true" />
+        <option name="description" value="Implementations" />
+      </AlternateGenericPrefixPostfixRegexItem>
+      <AlternateGenericPrefixPostfixRegexItem>
+        <option name="type" value="POSTFIX" />
+        <option name="expression" value="[Tt]est" />
+        <option name="grouping" value="true" />
+        <option name="description" value="Test classes and files" />
+      </AlternateGenericPrefixPostfixRegexItem>
+      <AlternateGenericPrefixPostfixRegexItem>
+        <option name="type" value="POSTFIX" />
+        <option name="expression" value="(?:_\w{2}(?:_\w{2})?)" />
+        <option name="description" value="Locales (ex: 'description_en_UK.properties')" />
+      </AlternateGenericPrefixPostfixRegexItem>
+      <AlternateGenericPrefixPostfixRegexItem>
+        <option name="type" value="POSTFIX" />
+        <option name="expression" value="\.[Tt]est" />
+        <option name="grouping" value="true" />
+        <option name="description" value="Test file &lt;base_name&gt;.test.js" />
+      </AlternateGenericPrefixPostfixRegexItem>
+    </option>
+    <option name="genericFileExtensionRegexItems">
+      <AlternateGenericFileExtensionRegexItem>
+        <option name="fileExtension" value="java" />
+      </AlternateGenericFileExtensionRegexItem>
+      <AlternateGenericFileExtensionRegexItem>
+        <option name="fileExtension" value="properties" />
+      </AlternateGenericFileExtensionRegexItem>
+      <AlternateGenericFileExtensionRegexItem>
+        <option name="fileExtension" value="html?" />
+      </AlternateGenericFileExtensionRegexItem>
+      <AlternateGenericFileExtensionRegexItem>
+        <option name="fileExtension" value="sql" />
+      </AlternateGenericFileExtensionRegexItem>
+      <AlternateGenericFileExtensionRegexItem>
+        <option name="fileExtension" value="xml" />
+      </AlternateGenericFileExtensionRegexItem>
+      <AlternateGenericFileExtensionRegexItem>
+        <option name="fileExtension" value="dtd" />
+      </AlternateGenericFileExtensionRegexItem>
+      <AlternateGenericFileExtensionRegexItem>
+        <option name="fileExtension" value="xsd" />
+      </AlternateGenericFileExtensionRegexItem>
+      <AlternateGenericFileExtensionRegexItem>
+        <option name="fileExtension" value="rb" />
+      </AlternateGenericFileExtensionRegexItem>
+      <AlternateGenericFileExtensionRegexItem>
+        <option name="fileExtension" value="py" />
+      </AlternateGenericFileExtensionRegexItem>
+      <AlternateGenericFileExtensionRegexItem>
+        <option name="fileExtension" value="php" />
+      </AlternateGenericFileExtensionRegexItem>
+      <AlternateGenericFileExtensionRegexItem>
+        <option name="fileExtension" value="pl" />
+      </AlternateGenericFileExtensionRegexItem>
+      <AlternateGenericFileExtensionRegexItem>
+        <option name="fileExtension" value="pm" />
+      </AlternateGenericFileExtensionRegexItem>
+      <AlternateGenericFileExtensionRegexItem>
+        <option name="fileExtension" value="js" />
+      </AlternateGenericFileExtensionRegexItem>
+    </option>
+  </component>
+</application>
