@@ -86,6 +86,20 @@
     <ignored-resource url="http://www.w3.org/2000/svg" />
   </component>
   <component name="RecentTaskRepositories">
+    <YouTrack shared="false" url="https://youtrack.jetbrains.com">
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <customStates>
+        <entry state="IN_PROGRESS" name="In Progress" />
+        <entry state="RESOLVED" name="Fixed" />
+      </customStates>
+      <option name="defaultSearch" value="Assignee: me sort by: updated #Unresolved" />
+      <password>df9ddfe0dfcddfd8dfe9df98dfe2df99dfebdfc9</password>
+      <option name="loginAnonymously" value="false" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username>maksim.ryzhikov</username>
+    </YouTrack>
     <YouTrack shared="false" url="http://youtrack.jetbrains.com">
       <commitMessageFormat>{id} {summary}</commitMessageFormat>
       <customStates>
