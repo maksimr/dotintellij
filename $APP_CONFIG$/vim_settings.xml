@@ -284,8 +284,8 @@
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/bower_components/ring-ui/blocks/dialog/dialog.ng.js" timestamp="1423397704247">
         <mark key="'" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/script/run-e2e.sh" timestamp="1423499728244">
-        <mark key="'" line="36" column="16" />
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/script/run-e2e.sh" timestamp="1423665896075">
+        <mark key="'" line="42" column="0" />
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
@@ -339,12 +339,12 @@
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/e2e.conf.js" timestamp="1423662179782">
-        <mark key="'" line="59" column="0" />
-        <mark key="]" line="31" column="25" />
-        <mark key="^" line="31" column="25" />
-        <mark key="." line="31" column="25" />
-        <mark key="[" line="31" column="25" />
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/e2e.conf.js" timestamp="1423665769115">
+        <mark key="'" line="28" column="25" />
+        <mark key="]" line="91" column="0" />
+        <mark key="^" line="97" column="8" />
+        <mark key="." line="91" column="0" />
+        <mark key="[" line="91" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/reports/_reports/types/time/time.html" timestamp="1422886465715">
         <mark key="'" line="48" column="0" />
@@ -807,10 +807,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="30" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/node_modules/ring-dashboard/package.json" />
-      <jump line="6" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/node_modules/ring-dashboard/package.json" />
-      <jump line="79" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/node_modules/ring-dashboard/package.json" />
-      <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/select/test/directive/yt-select.js" />
       <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/select/test/directive/yt-select.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/select/test/directive/yt-select.js" />
       <jump line="28" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/select/test/directive/yt-select.js" />
@@ -907,46 +903,50 @@
       <jump line="73" column="2" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/e2e.conf.js" />
       <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/e2e.conf.js" />
       <jump line="58" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/e2e.conf.js" />
+      <jump line="32" column="19" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/e2e.conf.js" />
+      <jump line="28" column="25" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/e2e.conf.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/script/run-e2e.sh" />
+      <jump line="42" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/script/run-e2e.sh" />
     </jumps>
     <registers>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>driver.findElement</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJy0tLS0tLS0tLS0tLS0tLS0nKTsKICAgICAgY29uc29sZS5sb2codXJsKTsKICAgICAgY29uc29sZS5sb2coJy0tLS0tLS0tLS0tLS0tLS0nKTsK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CiAgLyoqCiAgICogU2F1Y2UgTGFicyBjb25maWd1cmF0aW9uCiAgICovCiAgc2F1Y2VVc2VyOiBlbnYuU0FVQ0VfVVNFUk5BTUUsCiAgc2F1Y2VLZXk6IGVudi5TQVVDRV9BQ0NFU1NfS0VZCg==</text>
+      <register name="2" type="4">
+        <text>driver.findElement</text>
       </register>
-      <register name="1" type="4">
-        <text>,</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJy0tLS0tLS0tLS0tLS0tLS0nKTsKICAgICAgY29uc29sZS5sb2codXJsKTsKICAgICAgY29uc29sZS5sb2coJy0tLS0tLS0tLS0tLS0tLS0nKTsK</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICckdGltZW91dCcsCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJy0tLS0tLS0tLS0tLS0tLS0nKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgKiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgKiAK</text>
+      <register name="6" type="4">
+        <text>id</text>
       </register>
       <register name="5" type="4">
-        <text>.dropdown.</text>
+        <text>id</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBpdCgnc2hvdWxkIG9wZW4gZHJvcGRvd24gb24gY2xpY2snLCBmdW5jdGlvbigpIHsKICAgIGV4cGVjdCgkKCcuZmlyc3Qtc2VsZWN0IC5kcm9wZG93bi55dC1saXN0JykuaXNQcmVzZW50KCkpCiAgICAgIC50b0JlKGZhbHNlKTsKCiAgICBlbGVtZW50KGJ5LmNzcygnLmZpcnN0LXNlbGVjdCAueXQtc2VsZWN0X19pbnB1dCcpKQogICAgICAuc2VuZEtleXMoJ0hlbGxvIFdvcmxkIScpOwoKICAgIGV4cGVjdCgkKCcuZmlyc3Qtc2VsZWN0IC55dC1saXN0JykuaXNQcmVzZW50KCkpCiAgICAgIC50b0JlKHRydWUpOwogIH0pOwo=</text>
+      <register name="4" type="4">
+        <text>driver.findElement</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PHVsIGNsYXNzPSJkcm9wZG93bi1tZW51IiByb2xlPSJtZW51IiA+PGxpIG5nLXJlcGVhdD0iaXRlbSBpbiBpdGVtcyIgbmctY2xhc3M9Int0cnVlOiAiYWN0aXZlIn1bJGluZGV4ID09IGhpZ2hsaWdodEluZGV4XSI+PGEgbmctY2xpY2s9ImhpZ2hsaWdodEl0ZW0oaXRlbSkiIGhyZWY9ImphdmFzY3JpcHQ6dm9pZCgwKSIgdGFiaW5kZXg9Ii0xIj48L2E+PC9saT48L3VsPg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJy0tLS0tLS0tLS0tLS0tLS0nKTsKICAgICAgY29uc29sZS5sb2codXJsKTsKICAgICAgY29uc29sZS5sb2coJy0tLS0tLS0tLS0tLS0tLS0nKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PGxpIG5nLXJlcGVhdD0iaXRlbSBpbiBpdGVtcyIgbmctY2xhc3M9Int0cnVlOiAiYWN0aXZlIn1bJGluZGV4ID09IGhpZ2hsaWdodEluZGV4XSI+PGEgbmctY2xpY2s9ImhpZ2hsaWdodEl0ZW0oaXRlbSkiIGhyZWY9ImphdmFzY3JpcHQ6dm9pZCgwKSIgdGFiaW5kZXg9Ii0xIj48c3Bhbj46Oml0ZW1UcGw8L3NwYW4+PC9hPjwvbGk+</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBkcml2ZXIuc2xlZXAoMzAwMCk7Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -986,7 +986,7 @@
         <text>sauce</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>driver.findElement</text>
       </register>
     </registers>
     <search>
