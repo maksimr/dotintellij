@@ -46,8 +46,10 @@
         <mark key="." line="36" column="0" />
         <mark key="[" line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/script/start-webdriver.sh" timestamp="1423748663695">
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/script/start-webdriver.sh" timestamp="1423849415624">
         <mark key="'" line="4" column="0" />
+        <mark key="]" line="4" column="73" />
+        <mark key="[" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/ring/src/components/query-assist/query-assist.jsx" timestamp="1422634524670">
         <mark key="'" line="388" column="0" />
@@ -160,11 +162,6 @@
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/bower_components/ring-ui/blocks/dropdown-select/dropdown-select.ng.html" timestamp="1423397126632">
         <mark key="'" line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/form/directive/yt-form-input.js" timestamp="1423819264404">
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
-        <mark key="[" line="55" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/reports/reports.js" timestamp="1422994087130">
         <mark key="'" line="5" column="0" />
@@ -869,6 +866,9 @@
         <mark key="." line="20" column="68" />
         <mark key="[" line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/node_modules/protractor/node_modules/selenium-webdriver/package.json" timestamp="1423848503047">
+        <mark key="'" line="53" column="30" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/bower_components/ring-ui/blocks/dropdown-select/dropdown-select.ng.js" timestamp="1423399711993">
         <mark key="'" line="177" column="0" />
       </file>
@@ -888,10 +888,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="127" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/search-query-panel/test/directive/search-query-panel.js" />
-      <jump line="37" column="68" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/search-query-panel/test/directive/search-query-panel.js" />
-      <jump line="53" column="17" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/search-query-panel/test/directive/search-query-panel.js" />
-      <jump line="12" column="5" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/form/test/directive/yt-form-input.js" />
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/form/test/directive/yt-form-input.js" />
       <jump line="70" column="25" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/search-query-panel/test/directive/search-query-panel.js" />
       <jump line="136" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/search-query-panel/test/directive/search-query-panel.js" />
@@ -988,13 +984,17 @@
       <jump line="203" column="2" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/reports/_reports/graphics/legend.js" />
       <jump line="12" column="16" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/reports/_reports/graphics/reportLegend.html" />
       <jump line="17" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/reports/_reports/graphics/reportLegend.html" />
+      <jump line="53" column="30" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/node_modules/protractor/node_modules/selenium-webdriver/package.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/script/start-webdriver.sh" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/script/start-webdriver.sh" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/script/start-webdriver.sh" />
     </jumps>
     <registers>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JChucG0gYmluKS93ZWJkcml2ZXItbWFuYWdlciBzdGFydCAmCnVudGlsICQod2dldCAtTyAvZGV2L251bGwgaHR0cDovLzEyNy4wLjAuMTo0NDQ0L3dkL2h1Yi8pOyBkbyBzbGVlcCAxOyBkb25lCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAuZHJvcGRvd24tc2VsZWN0IHsKICAgIHdpZHRoOiAxOTBweDsKICAgIGhlaWdodDogJHNlYXJjaC1jb250ZXh0LWhlaWdodDsKICAgIGJhY2tncm91bmQtY29sb3I6ICNmZmY7CiAgfQoKICAucmluZy1pbnB1dF9pY29uICsgLmRyb3Bkb3duLXNlbGVjdF9fdG9nZ2xlIHsKICAgIHRvcDogMnB4OwogICAgY3Vyc29yOiBwb2ludGVyOwogIH0K</text>
@@ -1003,7 +1003,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JChucG0gYmluKS93ZWJkcml2ZXItbWFuYWdlciBzdGFydCAmCnVudGlsICQod2dldCAtTyAvZGV2L251bGwgaHR0cDovLzEyNy4wLjAuMTo0NDQ0L3dkL2h1Yi8pOyBkbyBzbGVlcCAxOyBkb25lCg==</text>
       </register>
       <register name="7" type="4">
         <text>,</text>
@@ -1021,7 +1021,7 @@
         <text encoding="base64">LnNlYXJjaC1wYW5lbF9fY29udGV4dCB7CiAgZmxvYXQ6IGxlZnQ7Cgp9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>106</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICRzY29wZS4kZGlnZXN0KCk7Cg==</text>
@@ -1033,26 +1033,23 @@
         <text>kkkkkkjjkkjjkkllljkjkkjjjkk0wwwwjjkkllljjkjjjjjjjjjjjjjjjjjjjjjjjjjjjjjGgg</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsZWdlbmRDb2xvclNlbGVjdFw+</text>
+        <text>unrea</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsZWdlbmRDb2xvclNlbGVjdFw+</last-search>
+      <last-search>unrea</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsZWdlbmRDb2xvclNlbGVjdFw+</last-pattern>
+      <last-pattern>unrea</last-pattern>
       <last-replace>this.sinon</last-replace>
       <last-substitute>sinon</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>contextChange</entry>
-        <entry>watch</entry>
-        <entry>sve</entry>
         <entry>query</entry>
         <entry>case</entry>
         <entry>current</entry>
@@ -1070,11 +1067,11 @@
         <entry>dropdown</entry>
         <entry>dropdo</entry>
         <entry encoding="base64">XDxsZWdlbmRDb2xvclNlbGVjdFw+</entry>
+        <entry>unreach</entry>
+        <entry>unre</entry>
+        <entry>unrea</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/context.item/context.selected/gc</entry>
-        <entry>e!</entry>
-        <entry encoding="base64">JzwsJz5x</entry>
         <entry>%/sinon/this.sinon/gc</entry>
         <entry>%s/sinon/this.sinon/</entry>
         <entry>9</entry>
@@ -1083,7 +1080,6 @@
         <entry>31</entry>
         <entry>29</entry>
         <entry>77</entry>
-        <entry>106</entry>
         <entry>177</entry>
         <entry>28</entry>
         <entry>196</entry>
@@ -1092,6 +1088,10 @@
         <entry>48</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>113</entry>
+        <entry>1582</entry>
+        <entry>152</entry>
+        <entry>106</entry>
       </history-cmd>
       <history-expr />
       <history-input />
