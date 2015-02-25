@@ -182,6 +182,11 @@
         <mark key="^" line="3" column="26" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/timeline-rest.js" timestamp="1424854147667">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="8" column="2" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/reports/test/e2e/reports.po.js" timestamp="1423392203994">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="1" column="7" />
@@ -352,6 +357,12 @@
         <mark key="]" line="91" column="0" />
         <mark key="^" line="97" column="8" />
         <mark key="." line="91" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/upsource-rest.js" timestamp="1424854266473">
+        <mark key="[" line="10" column="13" />
+        <mark key="]" line="10" column="28" />
+        <mark key="^" line="10" column="28" />
+        <mark key="." line="10" column="28" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/dashboard/dashboard.js" timestamp="1423396386957">
         <mark key="'" line="41" column="5" />
@@ -715,9 +726,6 @@
         <mark key="^" line="27" column="39" />
         <mark key="." line="27" column="39" />
       </file>
-      <file name="/a.regexp" timestamp="1424250487829">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/styles/youtrack.scss" timestamp="1423755776989">
         <mark key="'" line="10" column="37" />
         <mark key="[" line="11" column="34" />
@@ -797,8 +805,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="268" column="2" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/app.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/tmp/karma-mocha/node_modules/mocha/package.json" />
       <jump line="67" column="3" filename="$USER_HOME$/tmp/karma-mocha/node_modules/mocha/package.json" />
       <jump line="53" column="3" filename="$USER_HOME$/tmp/karma-mocha/node_modules/mocha/package.json" />
       <jump line="3" column="0" filename="$USER_HOME$/tmp/karma-mocha/node_modules/mocha/lib/mocha.js" />
@@ -897,10 +903,12 @@
       <jump line="12" column="13" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/service/hub-rest.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/error/error.js" />
       <jump line="11" column="2" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/error/error.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/timeline-rest.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/upsource-rest.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnd2FsbGFieS5qcycsIGZpbGUpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>export factory</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -937,43 +945,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">d2FsbGFieWpzIA==</text>
+        <text>export factory</text>
       </register>
       <register name="/" type="4">
         <text>runner</text>
       </register>
-      <register name="0" type="4">
-        <text>testFramework</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZGVzY3JpYmUoJ3RpbWVsaW5lUmVzdCcsIGZ1bmN0aW9uKCkgewogIGJlZm9yZUVhY2gobW9kdWxlKAogICAgJ3lvdXRyYWNrLmNvbXBvbmVudHMucmVzb3VyY2VzJwogICkpOwoKICBpdCgnc2hvdWxkIGV4cG9ydCBmYWN0b3J5JywgaW5qZWN0KGZ1bmN0aW9uKHRpbWVsaW5lUmVzdCkgewogICAgZXhwZWN0KHRpbWVsaW5lUmVzdCkudG9CZURlZmluZWQoKTsKICB9KSk7Cn0pOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnd2FsbGFieS5qcycsIGZpbGUpOwo=</text>
+      <register name="1" type="4">
+        <text>export factory</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>upsourceRestst</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">d2FsbGFieWpzIA==</text>
+        <text>upsourceRest</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICogV2FsbGFieWpzIGNvbmZpZ3VyYXRpb24K</text>
+      <register name="4" type="4">
+        <text>inject(</text>
       </register>
-      <register name="5" type="4">
-        <text>doen</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>doen</text>
+        <text>timelineRest</text>
       </register>
       <register name="7" type="4">
-        <text>Spec</text>
+        <text>timelineRest</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJmaWxlcyI6IFsic3JjLyoqLyouanMiXSwK</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbWFrc2ltcnYgb24gMjUuMDIuMTUuCiAqLwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnd2FsbGFieS5qcycsIGZpbGUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
