@@ -1,5 +1,6 @@
 <application>
   <component name="AlternateApplicationComponent">
+    <option name="onlyFromModule" value="true" />
     <option name="freeRegexActive" value="true" />
     <option name="freeRegexItems">
       <list>
@@ -29,15 +30,15 @@
         </AlternateFreeRegexItem>
         <AlternateFreeRegexItem>
           <option name="matchExpression" value="^(.*?)\.(js|jsx)$" />
-          <option name="replaceExpression" value="tests/$1.$2" />
+          <option name="replaceExpression" value="test/$1.$2" />
         </AlternateFreeRegexItem>
         <AlternateFreeRegexItem>
           <option name="matchExpression" value="^(.*?)\.test.js$" />
           <option name="replaceExpression" value="$1.jsx" />
         </AlternateFreeRegexItem>
         <AlternateFreeRegexItem>
-          <option name="matchExpression" value="^(.*?)\.(js|jsx)$" />
-          <option name="replaceExpression" value="test/$1.$2" />
+          <option name="matchExpression" value="test/(.*?)\.(js|jsx)$" />
+          <option name="replaceExpression" value="$1.$2" />
         </AlternateFreeRegexItem>
       </list>
     </option>
