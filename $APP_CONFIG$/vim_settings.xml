@@ -493,12 +493,12 @@
         <mark key="^" line="275" column="22" />
         <mark key="." line="275" column="22" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/header/directive/yt-header.js" timestamp="1424955495618">
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/header/directive/yt-header.js" timestamp="1424955611504">
         <mark key="'" line="51" column="15" />
-        <mark key="[" line="94" column="68" />
-        <mark key="]" line="94" column="68" />
-        <mark key="^" line="94" column="68" />
-        <mark key="." line="94" column="68" />
+        <mark key="[" line="87" column="14" />
+        <mark key="]" line="87" column="19" />
+        <mark key="^" line="87" column="19" />
+        <mark key="." line="87" column="19" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/ReportDirectiveGruntfile.js" timestamp="1424079550232">
         <mark key="'" line="249" column="0" />
@@ -932,7 +932,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>setOpens</text>
+        <text>$scope.iPopupMenu =</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -969,43 +969,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>setOpens</text>
+        <text>$scope.iPopupMenu =</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNZW51SXRlbVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLyoqCiAgICAgICAgICAgICAqIEBwYXJhbSB7T2JqZWN0fSBpUmVhY3RIZWFkZXIgSW5zdGFuY2Ugb2YgcmVhY3Qgbm9kZQogICAgICAgICAgICAgKi8K</text>
+      <register name="0" type="4">
+        <text>$scope.iPopupMenu =</text>
       </register>
       <register name="1" type="4">
-        <text>setOpens</text>
+        <text>$scope.iPopupMenu =</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>settins</text>
+        <text>setOpens</text>
       </register>
       <register name="3" type="4">
-        <text>(false);</text>
+        <text>settins</text>
       </register>
       <register name="4" type="4">
-        <text>setSettingsShown</text>
+        <text>(false);</text>
       </register>
       <register name="5" type="4">
-        <text>setProps</text>
+        <text>setSettingsShown</text>
       </register>
       <register name="6" type="4">
+        <text>setProps</text>
+      </register>
+      <register name="7" type="4">
         <text>$scope.header</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICB2YXIgc2V0dGluZ3NOb2RlID0gJHNjb3BlLmhlYWRlci5yZWZzLnNldHRpbmdzLmdldERPTU5vZGUoKTsKICAgICAgICAgICAgICB2YXIgUG9wdXBNZW51ID0gcmluZ0NvbXBvbmVudHMoJ1BvcHVwTWVudScpOwoKICAgICAgICAgICAgICAkc2NvcGUuaVBvcHVwTWVudSA9IFBvcHVwTWVudS5yZW5kZXJDb21wb25lbnQobmV3IFBvcHVwTWVudSh7CiAgICAgICAgICAgICAgICBhbmNob3JFbGVtZW50OiBzZXR0aW5nc05vZGUsCiAgICAgICAgICAgICAgICBvbkNsb3NlOiBmdW5jdGlvbigpIHsKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICBkYXRhOiBbCiAgICAgICAgICAgICAgICAgIHsnbGFiZWwnOiAnT25lJ30sCiAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAnbGFiZWwnOiAnVHdvJywKICAgICAgICAgICAgICAgICAgICAnaHJlZic6ICdodHRwOi8vd3d3LmpldGJyYWlucy5jb20nCiAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAnbGFiZWwnOiAnVGhyZWUnLAogICAgICAgICAgICAgICAgICAgICd0eXBlJzogUG9wdXBNZW51Lkxpc3RQcm9wcy5UeXBlLklURU0sCiAgICAgICAgICAgICAgICAgICAgJ2hyZWYnOiAnaHR0cDovL3d3dy5qZXRicmFpbnMuY29tJwogICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICB7J3R5cGUnOiBQb3B1cE1lbnUuTGlzdFByb3BzLlR5cGUuU0VQQVJBVE9SfSwKICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICdsYWJlbCc6ICdGb3VyJywKICAgICAgICAgICAgICAgICAgICAndHlwZSc6IFBvcHVwTWVudS5MaXN0UHJvcHMuVHlwZS5MSU5LCiAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAnbGFiZWwnOiAnRml2ZScsCiAgICAgICAgICAgICAgICAgICAgJ3R5cGUnOiBQb3B1cE1lbnUuTGlzdFByb3BzLlR5cGUuTElOSywKICAgICAgICAgICAgICAgICAgICAnaHJlZic6ICdodHRwOi8vd3d3LmpldGJyYWlucy5jb20nLAogICAgICAgICAgICAgICAgICAgICdjbGFzc05hbWUnOiAndGVzdCcKICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICd0eXBlJzogUG9wdXBNZW51Lkxpc3RQcm9wcy5UeXBlLlNFUEFSQVRPUiwKICAgICAgICAgICAgICAgICAgICAnZGVzY3JpcHRpb24nOiAnVGVzdCBncm91cCcKICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICdsYWJlbCc6ICcxIEVsZW1lbnQgaW4gZ3JvdXAnLAogICAgICAgICAgICAgICAgICAgICd0eXBlJzogUG9wdXBNZW51Lkxpc3RQcm9wcy5UeXBlLklURU0KICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICdsYWJlbCc6ICcyIEVsZW1lbnQgaW4gZ3JvdXAnLAogICAgICAgICAgICAgICAgICAgICd0eXBlJzogUG9wdXBNZW51Lkxpc3RQcm9wcy5UeXBlLklURU0KICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgXQogICAgICAgICAgICAgIH0pKTs=</text>
-      </register>
       <register name="9" type="4">
-        <text>iReactHeader</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB2YXIgc2V0dGluZ3NOb2RlID0gJHNjb3BlLmhlYWRlci5yZWZzLnNldHRpbmdzLmdldERPTU5vZGUoKTsKICAgICAgICAgICAgICB2YXIgUG9wdXBNZW51ID0gcmluZ0NvbXBvbmVudHMoJ1BvcHVwTWVudScpOwoKICAgICAgICAgICAgICAkc2NvcGUuaVBvcHVwTWVudSA9IFBvcHVwTWVudS5yZW5kZXJDb21wb25lbnQobmV3IFBvcHVwTWVudSh7CiAgICAgICAgICAgICAgICBhbmNob3JFbGVtZW50OiBzZXR0aW5nc05vZGUsCiAgICAgICAgICAgICAgICBvbkNsb3NlOiBmdW5jdGlvbigpIHsKICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICBkYXRhOiBbCiAgICAgICAgICAgICAgICAgIHsnbGFiZWwnOiAnT25lJ30sCiAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAnbGFiZWwnOiAnVHdvJywKICAgICAgICAgICAgICAgICAgICAnaHJlZic6ICdodHRwOi8vd3d3LmpldGJyYWlucy5jb20nCiAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAnbGFiZWwnOiAnVGhyZWUnLAogICAgICAgICAgICAgICAgICAgICd0eXBlJzogUG9wdXBNZW51Lkxpc3RQcm9wcy5UeXBlLklURU0sCiAgICAgICAgICAgICAgICAgICAgJ2hyZWYnOiAnaHR0cDovL3d3dy5qZXRicmFpbnMuY29tJwogICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICB7J3R5cGUnOiBQb3B1cE1lbnUuTGlzdFByb3BzLlR5cGUuU0VQQVJBVE9SfSwKICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICdsYWJlbCc6ICdGb3VyJywKICAgICAgICAgICAgICAgICAgICAndHlwZSc6IFBvcHVwTWVudS5MaXN0UHJvcHMuVHlwZS5MSU5LCiAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAnbGFiZWwnOiAnRml2ZScsCiAgICAgICAgICAgICAgICAgICAgJ3R5cGUnOiBQb3B1cE1lbnUuTGlzdFByb3BzLlR5cGUuTElOSywKICAgICAgICAgICAgICAgICAgICAnaHJlZic6ICdodHRwOi8vd3d3LmpldGJyYWlucy5jb20nLAogICAgICAgICAgICAgICAgICAgICdjbGFzc05hbWUnOiAndGVzdCcKICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICd0eXBlJzogUG9wdXBNZW51Lkxpc3RQcm9wcy5UeXBlLlNFUEFSQVRPUiwKICAgICAgICAgICAgICAgICAgICAnZGVzY3JpcHRpb24nOiAnVGVzdCBncm91cCcKICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICdsYWJlbCc6ICcxIEVsZW1lbnQgaW4gZ3JvdXAnLAogICAgICAgICAgICAgICAgICAgICd0eXBlJzogUG9wdXBNZW51Lkxpc3RQcm9wcy5UeXBlLklURU0KICAgICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICdsYWJlbCc6ICcyIEVsZW1lbnQgaW4gZ3JvdXAnLAogICAgICAgICAgICAgICAgICAgICd0eXBlJzogUG9wdXBNZW51Lkxpc3RQcm9wcy5UeXBlLklURU0KICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgXQogICAgICAgICAgICAgIH0pKTs=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
