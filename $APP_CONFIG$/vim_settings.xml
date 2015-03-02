@@ -74,12 +74,12 @@
       <file name="$USER_HOME$/tmp/wallaby-examples/nodejs/test/calculatorModelSpec.js" timestamp="1425060431427">
         <mark key="'" line="12" column="4" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/upsource/test/e2e/yt-upsource-commits.html" timestamp="1425304110483">
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/upsource/test/e2e/yt-upsource-commits.html" timestamp="1425305189944">
         <mark key="'" line="10" column="2" />
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="26" />
-        <mark key="^" line="55" column="30" />
+        <mark key="[" line="60" column="8" />
+        <mark key="]" line="60" column="8" />
+        <mark key="." line="60" column="8" />
+        <mark key="^" line="60" column="8" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/upsource/test/upsource.js" timestamp="1425299741031">
         <mark key="'" line="5" column="0" />
@@ -1010,8 +1010,8 @@
       <jump line="10" column="2" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/upsource/test/e2e/yt-upsource-commits.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>id</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1048,7 +1048,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>revision</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text>commits</text>
@@ -1056,35 +1056,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICc8L2Rpdj4nCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>id</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text>id</text>
       </register>
       <register name="3" type="4">
-        <text>revision</text>
+        <text>[new Revision()];</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="6" type="4">
-        <text>}}</text>
+        <text>revision</text>
       </register>
-      <register name="7" type="4">
-        <text>user</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>user</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>avatart</text>
+        <text>}}</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
