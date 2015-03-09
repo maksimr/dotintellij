@@ -84,7 +84,7 @@
         <mark key="^" line="49" column="58" />
         <mark key="." line="49" column="58" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/select/template/select.html" timestamp="1425942020923">
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/select/template/select.html" timestamp="1425942839378">
         <mark key="'" line="42" column="0" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="56" />
@@ -537,12 +537,12 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/select/test/directive/yt-select.js" timestamp="1424024614425">
-        <mark key="'" line="185" column="0" />
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="118" column="0" />
-        <mark key="." line="118" column="0" />
-        <mark key="^" line="117" column="71" />
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/select/test/directive/yt-select.js" timestamp="1425944327950">
+        <mark key="'" line="75" column="8" />
+        <mark key="[" line="175" column="28" />
+        <mark key="]" line="175" column="31" />
+        <mark key="." line="175" column="31" />
+        <mark key="^" line="175" column="31" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/reports/_reports/types/time/time.js" timestamp="1422019847898">
         <mark key="'" line="135" column="2" />
@@ -993,8 +993,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/header/directive/yt-header.js" />
-      <jump line="26" column="2" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/header/directive/yt-header.js" />
       <jump line="14" column="53" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/header/test/directive/yt-header.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/header/test/directive/yt-header.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/header/directive/yt-header-navigation-menu.js" />
@@ -1092,11 +1090,13 @@
       <jump line="26" column="23" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/select/template/select.html" />
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/select/template/select.html" />
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/select/template/select.html" />
+      <jump line="19" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/select/template/select.html" />
       <jump line="42" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/select/template/select.html" />
+      <jump line="75" column="8" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/select/test/directive/yt-select.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>webpackPreprocessor</text>
+        <text>false</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1133,7 +1133,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>webpackPreprocessor</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>map</text>
@@ -1142,34 +1142,34 @@
         <text encoding="base64">ICAgIHZhciBjb250ZW50ID0gY29tcGlsZXIKICAgICAgLm91dHB1dEZpbGVTeXN0ZW0KICAgICAgLnJlYWRGaWxlU3luYyhwYXRoLnJlc29sdmUoY29uZmlnLm91dHB1dC5wYXRoLCBjb25maWcub3V0cHV0LmZpbGVuYW1lKSkKICAgICAgLnRvU3RyaW5nKCk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>webpackPreprocessor</text>
+        <text>false</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>webpackPreprocessor</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJ0ZXN0RnJhbWV3b3JrIjogJ21vY2hhQDIuMC4xJywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICJ0ZXN0RnJhbWV3b3JrIjogJ21vY2hhQDIuMC4xJywK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICJmaWxlcyI6IFsic3JjLyoqLyouanMiXSwK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>mapUrl</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>inlineMap</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICB2YXIgbGluZXMgPSBjb250ZW50LnNwbGl0KC9cbi8pOwogICAgdmFyIGxhc3RMaW5lID0gbGluZXMucG9wKCk7CiAgICB3aGlsZSAobmV3IFJlZ0V4cCgiXlxccyokIikudGVzdChsYXN0TGluZSkpIHsKICAgICAgbGFzdExpbmUgPSBsaW5lcy5wb3AoKTsKICAgIH0KICAgIAogICAgdmFyIG1hdGNoID0gbGFzdExpbmUubWF0Y2goL15cL1wvI1xzKnNvdXJjZU1hcHBpbmdVUkw9KC4rKSQvKTsKICAgIHZhciBtYXBVcmwgPSBtYXRjaCAmJiBtYXRjaFsxXTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

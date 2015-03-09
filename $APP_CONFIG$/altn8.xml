@@ -4,22 +4,6 @@
     <option name="freeRegexItems">
       <list>
         <AlternateFreeRegexItem>
-          <option name="matchExpression" value="^Test(.*?)\.java$" />
-          <option name="replaceExpression" value="$1.java" />
-        </AlternateFreeRegexItem>
-        <AlternateFreeRegexItem>
-          <option name="matchExpression" value="^(.*?)\.java$" />
-          <option name="replaceExpression" value="Test$1.java" />
-        </AlternateFreeRegexItem>
-        <AlternateFreeRegexItem>
-          <option name="matchExpression" value="^(.*?)Test\.java$" />
-          <option name="replaceExpression" value="$1.java" />
-        </AlternateFreeRegexItem>
-        <AlternateFreeRegexItem>
-          <option name="matchExpression" value="^(.*?)\.java$" />
-          <option name="replaceExpression" value="$1Test.java" />
-        </AlternateFreeRegexItem>
-        <AlternateFreeRegexItem>
           <option name="matchExpression" value="^(.*?)\.test.js$" />
           <option name="replaceExpression" value="$1.js" />
         </AlternateFreeRegexItem>
@@ -38,6 +22,10 @@
         <AlternateFreeRegexItem>
           <option name="matchExpression" value="^(.*?)\.(js|jsx)$" />
           <option name="replaceExpression" value="test/$1.$2" />
+        </AlternateFreeRegexItem>
+        <AlternateFreeRegexItem>
+          <option name="matchExpression" value="^(.*?)/test/(.*?)\.js" />
+          <option name="replaceExpression" value="$1/$2.js" />
         </AlternateFreeRegexItem>
       </list>
     </option>
