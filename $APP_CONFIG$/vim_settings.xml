@@ -491,7 +491,6 @@
         <mark key="^" line="94" column="24" />
         <mark key="." line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/www/karma/mocha-watch.sh" timestamp="1427756400977" />
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/upsource-rest.js" timestamp="1424856742096">
         <mark key="'" line="0" column="36" />
         <mark key="[" line="11" column="29" />
@@ -518,6 +517,9 @@
         <mark key="]" line="4" column="26" />
         <mark key="^" line="4" column="26" />
         <mark key="." line="4" column="26" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/ring/tools/generate-documentation.js" timestamp="1427991127971">
+        <mark key="'" line="262" column="20" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/app.js" timestamp="1425299800052">
         <mark key="'" line="156" column="0" />
@@ -1048,18 +1050,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/select/directive/yt-select.js" />
-      <jump line="46" column="29" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/select/directive/yt-select.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/select/directive/yt-select.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/select/directive/yt-select.js" />
-      <jump line="149" column="2" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/select/directive/yt-select.js" />
-      <jump line="104" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/e2e.conf.js" />
-      <jump line="57" column="14" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/select/directive/yt-select.js" />
-      <jump line="11" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/reports/test/e2e/reports.js" />
-      <jump line="79" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/e2e.conf.js" />
-      <jump line="6" column="26" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/dashboard/test/e2e/dashboard.js" />
-      <jump line="24" column="37" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/package.json" />
-      <jump line="33" column="11" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/package.json" />
       <jump line="138" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/e2e.conf.js" />
       <jump line="3" column="0" filename="$USER_HOME$/tmp/introtask-space/src/task.js" />
       <jump line="20" column="0" filename="$USER_HOME$/tmp/introtask-space/src/task.js" />
@@ -1148,6 +1138,18 @@
       <jump line="31" column="18" filename="$USER_HOME$/www/karma/test/unit/config.spec.coffee" />
       <jump line="15" column="19" filename="$USER_HOME$/www/karma/wallaby.js" />
       <jump line="32" column="0" filename="$USER_HOME$/www/karma/wallaby.js" />
+      <jump line="107" column="0" filename="$USER_HOME$/www/jetbrains/ring/tools/generate-documentation.js" />
+      <jump line="149" column="10" filename="$USER_HOME$/www/jetbrains/ring/tools/generate-documentation.js" />
+      <jump line="239" column="23" filename="$USER_HOME$/www/jetbrains/ring/tools/generate-documentation.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/www/jetbrains/ring/tools/generate-documentation.js" />
+      <jump line="93" column="12" filename="$USER_HOME$/www/jetbrains/ring/tools/generate-documentation.js" />
+      <jump line="131" column="12" filename="$USER_HOME$/www/jetbrains/ring/tools/generate-documentation.js" />
+      <jump line="132" column="13" filename="$USER_HOME$/www/jetbrains/ring/tools/generate-documentation.js" />
+      <jump line="165" column="9" filename="$USER_HOME$/www/jetbrains/ring/tools/generate-documentation.js" />
+      <jump line="130" column="0" filename="$USER_HOME$/www/jetbrains/ring/tools/generate-documentation.js" />
+      <jump line="258" column="28" filename="$USER_HOME$/www/jetbrains/ring/tools/generate-documentation.js" />
+      <jump line="260" column="26" filename="$USER_HOME$/www/jetbrains/ring/tools/generate-documentation.js" />
+      <jump line="262" column="20" filename="$USER_HOME$/www/jetbrains/ring/tools/generate-documentation.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1191,7 +1193,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>sinon</text>
+        <text>jsx</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgInRlc3QvdW5pdC9tb2NoYS1nbG9iYWxzLmNvZmZlZSIsCg==</text>
@@ -1231,9 +1233,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sinon</last-search>
+      <last-search>jsx</last-search>
       <last-offset />
-      <last-pattern>sinon</last-pattern>
+      <last-pattern>jsx</last-pattern>
       <last-replace>review</last-replace>
       <last-substitute>revision</last-substitute>
       <last-dir>1</last-dir>
@@ -1241,10 +1243,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Are you</entry>
-        <entry>{{name</entry>
-        <entry>Are you sure you want to delete</entry>
-        <entry>Are you sure you</entry>
         <entry>reviewsLoading</entry>
         <entry encoding="base64">XDxyZXZpZXdzTG9hZGluZ1w+</entry>
         <entry encoding="base64">XDxoZWxwTWVudUl0ZW1zXD4=</entry>
@@ -1261,6 +1259,10 @@
         <entry>12</entry>
         <entry>expect</entry>
         <entry>sinon</entry>
+        <entry>inline</entry>
+        <entry>webpack</entry>
+        <entry>XXX</entry>
+        <entry>jsx</entry>
       </history-search>
       <history-cmd>
         <entry>47</entry>
