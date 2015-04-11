@@ -3,8 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/tmp/karma-mocha/karma.conf.js" timestamp="1428790144244">
-        <mark key="'" line="17" column="0" />
+      <file name="$USER_HOME$/tmp/karma-mocha/karma.conf.js" timestamp="1428792542677">
+        <mark key="'" line="2" column="16" />
+        <mark key="[" line="13" column="8" />
+        <mark key="]" line="13" column="12" />
+        <mark key="." line="13" column="12" />
+        <mark key="^" line="13" column="12" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/reports/test/directive/yt-legend-color-select.js" timestamp="1424075192382">
         <mark key="'" line="1" column="0" />
@@ -1092,8 +1096,12 @@
         <mark key="^" line="5" column="11" />
         <mark key="." line="5" column="11" />
       </file>
-      <file name="$USER_HOME$/tmp/karma-mocha/foo.test.js" timestamp="1428790134419">
-        <mark key="'" line="4" column="0" />
+      <file name="$USER_HOME$/tmp/karma-mocha/foo.test.js" timestamp="1428792247438">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="3" column="26" />
+        <mark key="." line="3" column="26" />
+        <mark key="^" line="2" column="9" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/upsource/upsource.js" timestamp="1425372423383">
         <mark key="'" line="22" column="0" />
@@ -1176,14 +1184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="9" filename="$USER_HOME$/www/jetbrains/project-wizard/client/wallaby.config.js" />
-      <jump line="36" column="0" filename="$USER_HOME$/www/jetbrains/project-wizard/client/wallaby.config.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/project-wizard/client/test-tools/empty-module.js" />
-      <jump line="2" column="1" filename="$USER_HOME$/www/jetbrains/project-wizard/client/test-tools/empty-module.js" />
-      <jump line="6" column="3" filename="$USER_HOME$/www/jetbrains/project-wizard/client/src/pages/hub/hub.spec.js" />
-      <jump line="47" column="0" filename="$USER_HOME$/www/jetbrains/project-wizard/client/src/pages/hub/hub.spec.js" />
-      <jump line="1" column="2" filename="$USER_HOME$/www/jetbrains/project-wizard/client/src/pages/hub/hub.spec.js" />
-      <jump line="158" column="0" filename="$USER_HOME$/www/jetbrains/project-wizard/client/src/pages/hub/hub.spec.js" />
       <jump line="9" column="0" filename="$USER_HOME$/www/jetbrains/project-wizard/client/src/pages/hub/hub.js" />
       <jump line="12" column="43" filename="$USER_HOME$/www/jetbrains/project-wizard/client/src/pages/hub/hub.js" />
       <jump line="55" column="3" filename="$USER_HOME$/www/jetbrains/project-wizard/client/src/pages/hub/hub.spec.js" />
@@ -1272,14 +1272,22 @@
       <jump line="18" column="0" filename="$USER_HOME$/www/karma-runner/karma-mocha/lib/index.js" />
       <jump line="13" column="0" filename="$USER_HOME$/www/karma-runner/karma-mocha/package.json" />
       <jump line="81" column="0" filename="$USER_HOME$/www/karma-runner/karma-mocha/README.md" />
-      <jump line="6" column="0" filename="$USER_HOME$/tmp/karma-mocha/foo.test.js" />
       <jump line="4" column="0" filename="$USER_HOME$/tmp/karma-mocha/foo.test.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/tmp/karma-mocha/karma.conf.js" />
       <jump line="17" column="0" filename="$USER_HOME$/tmp/karma-mocha/karma.conf.js" />
+      <jump line="13" column="9" filename="$USER_HOME$/tmp/karma-mocha/karma.conf.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/tmp/karma-mocha/karma.conf.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/tmp/karma-mocha/karma.conf.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/tmp/karma-mocha/karma.conf.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/tmp/karma-mocha/karma.conf.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/tmp/karma-mocha/foo.test.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/tmp/karma-mocha/foo.test.js" />
+      <jump line="9" column="13" filename="$USER_HOME$/tmp/karma-mocha/karma.conf.js" />
+      <jump line="14" column="19" filename="$USER_HOME$/tmp/karma-mocha/karma.conf.js" />
+      <jump line="2" column="16" filename="$USER_HOME$/tmp/karma-mocha/karma.conf.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXBvcnRlcjogJ2h0bWwnLCAvLyBjaGFuZ2UgS2FybWEncyBkZWJ1Zy5odG1sIHRvIHRoZSBtb2NoYSB3ZWIgcmVwb3J0ZXIKICAgICAgICB1aTogJ3RkZCcK</text>
+      <register name="&quot;" type="4">
+        <text>**/</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1316,7 +1324,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>**/</text>
       </register>
       <register name="/" type="4">
         <text>tdd</text>
@@ -1324,35 +1332,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXBvcnRlcjogJ2h0bWwnLCAvLyBjaGFuZ2UgS2FybWEncyBkZWJ1Zy5odG1sIHRvIHRoZSBtb2NoYSB3ZWIgcmVwb3J0ZXIKICAgICAgICB1aTogJ3RkZCcK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="1" type="4">
+        <text>**/</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>false</text>
+        <text>tests/</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CgogICAgLy8gQ29udGludW91cyBJbnRlZ3JhdGlvbiBtb2RlCiAgICAvLyBpZiB0cnVlLCBLYXJtYSBjYXB0dXJlcyBicm93c2VycywgcnVucyB0aGUgdGVzdHMgYW5kIGV4aXRzCg==</text>
+      <register name="3" type="4">
+        <text>,</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIGF2YWlsYWJsZSBicm93c2VyIGxhdW5jaGVyczogaHR0cHM6Ly9ucG1qcy5vcmcvYnJvd3NlL2tleXdvcmQva2FybWEtbGF1bmNoZXIK</text>
+        <text encoding="base64">ICAgICAgJ3t0cnVuayx1dGlsc30vKiovKi5qcyc6IFsgJ2NvdmVyYWdlJyBdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIHN0YXJ0IHRoZXNlIGJyb3dzZXJzCg==</text>
+        <text encoding="base64">ICAgIHBvcnQ6IDkwMDEsCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>be.</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>],</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGF1dG9XYXRjaDogdHJ1ZSwK</text>
+      <register name="8" type="4">
+        <text>'expect'</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGVuYWJsZSAvIGRpc2FibGUgd2F0Y2hpbmcgZmlsZSBhbmQgZXhlY3V0aW5nIHRlc3RzIHdoZW5ldmVyIGFueSBmaWxlIGNoYW5nZXMK</text>
+      <register name="9" type="4">
+        <text>test</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
