@@ -960,8 +960,8 @@
         <mark key="^" line="77" column="34" />
         <mark key="." line="77" column="34" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/index.html" timestamp="1429522949947">
-        <mark key="'" line="61" column="29" />
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/index.html" timestamp="1429525227046">
+        <mark key="'" line="40" column="30" />
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
         <mark key="." line="64" column="0" />
@@ -1256,8 +1256,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="0" filename="$USER_HOME$/tmp/introtask-space/src/task.js" />
-      <jump line="7" column="30" filename="$USER_HOME$/www/karma-runner/karma-mocha/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/regex-cache/node_modules/benchmarked/node_modules/file-reader/node_modules/read-yaml/node_modules/js-yaml/node_modules/argparse/node_modules/sprintf-js/gruntfile.js" />
       <jump line="29" column="0" filename="$USER_HOME$/www/karma-runner/karma-mocha/node_modules/karma/node_modules/chokidar/node_modules/anymatch/node_modules/micromatch/node_modules/regex-cache/node_modules/benchmarked/node_modules/file-reader/node_modules/read-yaml/node_modules/js-yaml/node_modules/argparse/node_modules/sprintf-js/gruntfile.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/karma-runner/karma-mocha/Gruntfile.coffee" />
       <jump line="74" column="4" filename="$USER_HOME$/www/karma-runner/karma-mocha/Gruntfile.coffee" />
@@ -1356,6 +1354,8 @@
       <jump line="4" column="5" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/bower.json" />
       <jump line="5" column="42" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/bower.json" />
       <jump line="26" column="5" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/bower.json" />
+      <jump line="73" column="29" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/index.html" />
+      <jump line="40" column="30" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1399,7 +1399,7 @@
         <text>boweModule</text>
       </register>
       <register name="/" type="4">
-        <text>d3</text>
+        <text>jso</text>
       </register>
       <register name="0" type="4">
         <text>github.com/bestiejs/json3</text>
@@ -1439,9 +1439,9 @@
       </register>
     </registers>
     <search>
-      <last-search>d3</last-search>
+      <last-search>jso</last-search>
       <last-offset />
-      <last-pattern>d3</last-pattern>
+      <last-pattern>jso</last-pattern>
       <last-replace>review</last-replace>
       <last-substitute>revision</last-substitute>
       <last-dir>1</last-dir>
@@ -1449,7 +1449,6 @@
     </search>
     <history>
       <history-search>
-        <entry>test</entry>
         <entry>yout</entry>
         <entry>start</entry>
         <entry>$jquery</entry>
@@ -1469,6 +1468,7 @@
         <entry>jquery</entry>
         <entry>ui</entry>
         <entry>d3</entry>
+        <entry>jso</entry>
       </history-search>
       <history-cmd>
         <entry>47</entry>
