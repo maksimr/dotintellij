@@ -482,6 +482,13 @@
         <mark key="^" line="55" column="36" />
         <mark key="." line="73" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/header/template/yt-header-navigation-menu.html" timestamp="1429624956243">
+        <mark key="'" line="4" column="15" />
+        <mark key="[" line="4" column="40" />
+        <mark key="]" line="4" column="47" />
+        <mark key="." line="4" column="47" />
+        <mark key="^" line="4" column="47" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/icon/test/directive/yt-icon.js" timestamp="1424018693800">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="16" column="0" />
@@ -1345,13 +1352,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="8" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/reports/_reports/edit/query.html" />
-      <jump line="236" column="2" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/node_modules/ring-ui/components/dialog-ng/dialog-ng.js" />
-      <jump line="7" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/reports/_reports/_report-edit.scss" />
-      <jump line="12" column="23" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/reports/_reports/edit/query.html" />
-      <jump line="18" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/reports/_reports/edit/query.html" />
-      <jump line="53" column="26" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/package.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/package.json" />
       <jump line="26" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/package.json" />
       <jump line="94" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/package.json" />
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/grunt-tasks/grunt-connect.js" />
@@ -1445,10 +1445,17 @@
       <jump line="142" column="23" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/projects/controller/projects.js" />
       <jump line="141" column="40" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/projects/controller/projects.js" />
       <jump line="52" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/projects/controller/projects.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/header/template/yt-header-navigation-menu.html" />
+      <jump line="74" column="10" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/header/template/yt-header-navigation-menu.html" />
+      <jump line="39" column="22" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/header/template/yt-header-navigation-menu.html" />
+      <jump line="40" column="35" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/header/template/yt-header-navigation-menu.html" />
+      <jump line="44" column="34" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/header/template/yt-header-navigation-menu.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/header/template/yt-header-navigation-menu.html" />
+      <jump line="4" column="15" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/header/template/yt-header-navigation-menu.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncHJvamVjdHMuanMnLCAnPj4+Jyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>projectsOld</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1485,61 +1492,59 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>10</text>
+        <text>projectsOld</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcm9qZWN0c1NraXBcPg==</text>
+        <text>projectsOld</text>
       </register>
       <register name="0" type="4">
         <text>projectsCtrl.projectsSkip</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncHJvamVjdHMuanMnLCAnPj4+Jyk7Cg==</text>
+      <register name="1" type="4">
+        <text>projectsOld</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text>'projectsOld'</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncHJvamVjdHMuanMnLCAnPj4+Jyk7Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHt7cHJvamVjdHNDdHJsLmlzTG9hZGluZ319Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>10</text>
       </register>
-      <register name="4" type="4">
-        <text>statistics/</text>
-      </register>
-      <register name="5" type="4">
-        <text>statistics/</text>
-      </register>
       <register name="6" type="4">
-        <text>rest</text>
+        <text>statistics/</text>
       </register>
       <register name="7" type="4">
-        <text>.value</text>
+        <text>statistics/</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">cmVzb3VyY2UuaXNzdWVzLmNvdW50ID0g</text>
+        <text>rest</text>
       </register>
       <register name="9" type="4">
-        <text>issueCount</text>
+        <text>.value</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcm9qZWN0c1NraXBcPg==</last-search>
+      <last-search>projectsOld</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcm9qZWN0c1NraXBcPg==</last-pattern>
+      <last-pattern>projectsOld</last-pattern>
       <last-replace>lib</last-replace>
       <last-substitute>bower_components</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>clas</entry>
-        <entry>wiz</entry>
         <entry>bower</entry>
         <entry>wia</entry>
         <entry>conf</entry>
@@ -1558,6 +1563,8 @@
         <entry>loadMore</entry>
         <entry encoding="base64">XDxwcm9qZWN0c1RvdGFsXD4=</entry>
         <entry encoding="base64">XDxwcm9qZWN0c1NraXBcPg==</entry>
+        <entry>old</entry>
+        <entry>projectsOld</entry>
       </history-search>
       <history-cmd>
         <entry>80</entry>
