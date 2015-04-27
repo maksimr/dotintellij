@@ -849,12 +849,12 @@
         <mark key="." line="18" column="27" />
         <mark key="^" line="18" column="27" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/hub-resource.js" timestamp="1430132261828">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="30" column="59" />
-        <mark key="]" line="30" column="65" />
-        <mark key="." line="30" column="65" />
-        <mark key="^" line="30" column="65" />
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/hub-resource.js" timestamp="1430133635752">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="32" column="30" />
+        <mark key="]" line="33" column="18" />
+        <mark key="." line="33" column="18" />
+        <mark key="^" line="33" column="18" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/reports/test/controller/report-sidebar.js" timestamp="1422999292243">
         <mark key="'" line="53" column="0" />
@@ -1599,11 +1599,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="$USER_HOME$/www/karma-runner/karma/Gruntfile.coffee" />
-      <jump line="108" column="12" filename="$USER_HOME$/www/karma-runner/karma/lib/middleware/proxy.js" />
-      <jump line="95" column="0" filename="$USER_HOME$/www/karma-runner/karma/test/unit/launcher.spec.coffee" />
-      <jump line="93" column="3" filename="$USER_HOME$/www/karma-runner/karma/lib/launcher.js" />
-      <jump line="23" column="0" filename="$USER_HOME$/www/karma-runner/karma/lib/launcher.js" />
       <jump line="1" column="0" filename="$USER_HOME$/www/karma-runner/karma/wallaby.js" />
       <jump line="48" column="0" filename="$USER_HOME$/www/karma-runner/karma/wallaby.js" />
       <jump line="88" column="0" filename="$USER_HOME$/www/karma-runner/karma/lib/launcher.js" />
@@ -1699,10 +1694,15 @@
       <jump line="120" column="29" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/projects/controller/projects.js" />
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/hub-resource.js" />
       <jump line="18" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/hub-resource.js" />
+      <jump line="26" column="4" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/hub-resource.js" />
+      <jump line="36" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/hub-resource.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/hub-resource.js" />
+      <jump line="37" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/hub-resource.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/hub-resource.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>services</text>
+        <text>post</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1739,7 +1739,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>services</text>
+        <text>post</text>
       </register>
       <register name="/" type="4">
         <text>Change</text>
@@ -1748,34 +1748,34 @@
         <text encoding="base64">ICBpdCgnc2hvdWxkIGdldCBodWIgcmVzb3VyY2UnLCBmdW5jdGlvbigpIHsKICAgIHZhciBjYWxsYmFjayA9IGphc21pbmUuY3JlYXRlU3B5KCdodWJSZXN0SGFuZGxlcicpOwogICAgJGh0dHBCYWNrZW5kLmV4cGVjdEdFVChjb25maWdNb2NrLmJhY2tlbmQudXJsICsgJy9yZXN0L3NlcnZpY2VzJykucmVzcG9uZCh7fSk7CgogICAgaHViUmVzb3VyY2Uuc2VydmljZXMuZ2V0QWxsKCkuJHByb21pc2UudGhlbihjYWxsYmFjayk7CiAgICAkaHR0cEJhY2tlbmQuZmx1c2goKTsKCiAgICBleHBlY3QoY2FsbGJhY2spLnRvSGF2ZUJlZW5DYWxsZWQoKTsKICB9KTsK</text>
       </register>
       <register name="1" type="4">
-        <text>services</text>
+        <text>post</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>hubRestHandler</text>
+        <text>archive</text>
       </register>
       <register name="3" type="4">
-        <text>get hub resource</text>
+        <text>getAll</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="4" type="4">
+        <text>services</text>
       </register>
       <register name="5" type="4">
-        <text>processAnswersj</text>
+        <text>services</text>
       </register>
       <register name="6" type="4">
-        <text>href=&quot;&quot;</text>
+        <text>hubRestHandler</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAuZmFjdG9yeSgncmVwb3J0RXhhbXBsZXNVdGlsJywgZnVuY3Rpb24oKSB7CiAgICBmdW5jdGlvbiBzZXRUb3AoZWxlbWVudCwgcm9vdCkgewogICAgICBpZiAocm9vdCA9PT0gdW5kZWZpbmVkIHx8IGVsZW1lbnQgPT09IHVuZGVmaW5lZCkgewogICAgICAgIHJldHVybjsKICAgICAgfQoKICAgICAgdmFyIHRvcFBvcyA9ICcnOwogICAgICBpZiAoZWxlbWVudCAhPT0gbnVsbCAmJiByb290LmlzKCc6dmlzaWJsZScpKSB7CiAgICAgICAgdmFyIHdpblNjcm9sbFRvcCA9IGFuZ3VsYXIuZWxlbWVudCh3aW5kb3cpLnNjcm9sbFRvcCgpOwogICAgICAgIHZhciBwb3B1cFRvcFBvcyA9IHJvb3Qub2Zmc2V0KCkudG9wOwogICAgICAgIGlmICh3aW5TY3JvbGxUb3AgPj0gcG9wdXBUb3BQb3MpIHsKICAgICAgICAgIHRvcFBvcyA9IHdpblNjcm9sbFRvcCAtIHBvcHVwVG9wUG9zOwogICAgICAgIH0KICAgICAgfQogICAgICBlbGVtZW50LmNzcygndG9wJywgdG9wUG9zKTsKICAgIH0KCiAgICByZXR1cm4gewogICAgICBzZXRUb3A6IHNldFRvcCwKICAgICAgZXZlbnRUeXBlOiAneW91dHJhY2svcmVwb3J0L2V4YW1wbGVzJwogICAgfTsKICB9KQo=</text>
+      <register name="7" type="4">
+        <text>get hub resource</text>
       </register>
-      <register name="8" type="4">
-        <text>examples-popup/report-examples-popup.js</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="4">
-        <text>_reports</text>
+        <text>processAnswersj</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
