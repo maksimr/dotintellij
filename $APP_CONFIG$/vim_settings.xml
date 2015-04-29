@@ -1386,6 +1386,9 @@
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/wiki/service/wikify.js" timestamp="1429521078556">
         <mark key="'" line="15" column="2" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/project-wizard/project-wizard.js" timestamp="1430307412795">
+        <mark key="'" line="4" column="56" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/projects/style/projects.scss" timestamp="1430137741057">
         <mark key="'" line="9" column="1" />
         <mark key="[" line="11" column="23" />
@@ -1404,11 +1407,11 @@
         <mark key="'" line="186" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/package.json" timestamp="1430305964696">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="26" column="136" />
-        <mark key="]" line="26" column="142" />
-        <mark key="." line="26" column="142" />
-        <mark key="^" line="26" column="142" />
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="24" column="136" />
+        <mark key="]" line="24" column="142" />
+        <mark key="." line="24" column="142" />
+        <mark key="^" line="24" column="142" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/footer/footer.js" timestamp="1424869713027">
         <mark key="'" line="41" column="2" />
@@ -1726,12 +1729,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="1" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/webpack.config.js" />
-      <jump line="59" column="2" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/webpack.config.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/webpack.config.js" />
-      <jump line="20" column="12" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/webpack.config.js" />
-      <jump line="38" column="17" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/webpack.config.js" />
-      <jump line="28" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/node_modules/ring-ui/components/query-assist/query-assist.jsx" />
       <jump line="41304" column="4" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/node_modules/project-wizard/dist/main.js" />
       <jump line="523" column="25" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/node_modules/ring-ui/components/query-assist/query-assist.jsx" />
       <jump line="280" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/node_modules/ring-ui/components/query-assist/query-assist.jsx" />
@@ -1826,6 +1823,12 @@
       <jump line="14" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/dashboard/service/issues.js" />
       <jump line="25" column="16" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/dashboard/service/issues.js" />
       <jump line="26" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/package.json" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/project-wizard/project-wizard.js" />
+      <jump line="9" column="57" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/project-wizard/project-wizard.js" />
+      <jump line="31" column="5" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/project-wizard/project-wizard.js" />
+      <jump line="43" column="14" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/project-wizard/project-wizard.js" />
+      <jump line="1" column="5" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/project-wizard/project-wizard.js" />
+      <jump line="4" column="56" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/project-wizard/project-wizard.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1869,7 +1872,7 @@
         <text encoding="base64">ICsgJzwvZGl2Pic=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjYXB0aW9uXD4=</text>
+        <text>is</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY2FuQ3JlYXRlUHJvamVjdCA/CiAgICAgICAgICAgICQoY3JlYXRlSXNzdWUuYWxlcnRNZXNzYWdlLkNBTl9DUkVBVEVfUFJPSkVDVF9NU0cpLmdldCgwKSA6ICQoY3JlYXRlSXNzdWUuYWxlcnRNZXNzYWdlLkNBTk5PVF9DUkVBVEVfUFJPSkVDVF9NU0cpLmdldCgwKSwK</text>
@@ -1909,17 +1912,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjYXB0aW9uXD4=</last-search>
+      <last-search>is</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjYXB0aW9uXD4=</last-pattern>
+      <last-pattern>is</last-pattern>
       <last-replace>lib</last-replace>
       <last-substitute>bower_components</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>handleCom</entry>
         <entry encoding="base64">XDxoYW5kbGVDb21wbGV0ZVw+</entry>
         <entry encoding="base64">XDxzaG9ydGN1dHNcPg==</entry>
         <entry>ma</entry>
@@ -1939,6 +1941,7 @@
         <entry>html</entry>
         <entry>render</entry>
         <entry encoding="base64">XDxjYXB0aW9uXD4=</entry>
+        <entry>is</entry>
       </history-search>
       <history-cmd>
         <entry>106</entry>
