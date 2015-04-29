@@ -405,6 +405,9 @@
       <file name="$USER_HOME$/www/karma-runner/karma/lib/constants.js" timestamp="1429295928153">
         <mark key="'" line="29" column="0" />
       </file>
+      <file name="/DummyFile.xpath" timestamp="1429967891445">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/node_modules/ring-dashboard/package.json" timestamp="1430211525326">
         <mark key="'" line="42" column="25" />
       </file>
@@ -718,8 +721,8 @@
       <file name="$USER_HOME$/tmp/wallaby-examples/nodejs/wallaby.js" timestamp="1424765982351">
         <mark key="'" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/admin.js" timestamp="1430318309150">
-        <mark key="'" line="166" column="2" />
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/admin.js" timestamp="1430318622806">
+        <mark key="'" line="30" column="0" />
         <mark key="[" line="48" column="22" />
         <mark key="]" line="48" column="29" />
         <mark key="." line="48" column="29" />
@@ -780,6 +783,9 @@
         <mark key="]" line="2" column="50" />
         <mark key="^" line="2" column="53" />
         <mark key="." line="2" column="50" />
+      </file>
+      <file name="/a.regexp" timestamp="1430318509447">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/node_modules/ring-ui/components/shortcuts/shortcuts__mixin.js" timestamp="1430241196981">
         <mark key="'" line="58" column="0" />
@@ -906,12 +912,12 @@
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/upsource/style/yt-upsource-reviews.scss" timestamp="1425371807919">
         <mark key="'" line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/dashboard/service/issues.js" timestamp="1430317988270">
-        <mark key="'" line="64" column="2" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="30" column="12" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="26" column="38" />
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/dashboard/service/issues.js" timestamp="1430321382509">
+        <mark key="'" line="26" column="41" />
+        <mark key="[" line="32" column="49" />
+        <mark key="]" line="32" column="49" />
+        <mark key="." line="32" column="49" />
+        <mark key="^" line="32" column="49" />
       </file>
       <file name="$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/core-scripting.rnc" timestamp="1425285514085">
         <mark key="'" line="51" column="22" />
@@ -1753,9 +1759,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="11" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/node_modules/ring-ui/components/alert-ng/alert-ng.js" />
-      <jump line="12" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/node_modules/ring-ui/components/alert/alert.jsx" />
-      <jump line="188" column="3" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/node_modules/ring-ui/components/alert/alert.jsx" />
       <jump line="96" column="58" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/node_modules/ring-ui/components/alert/alert.jsx" />
       <jump line="1" column="47" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/node_modules/ring-ui/components/alert/alert.jsx" />
       <jump line="2" column="42" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/node_modules/ring-ui/components/alert/alert.jsx" />
@@ -1853,10 +1856,13 @@
       <jump line="37" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/admin.js" />
       <jump line="31" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/admin.js" />
       <jump line="166" column="2" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/admin.js" />
+      <jump line="32" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/admin.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/admin.js" />
+      <jump line="26" column="41" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/dashboard/service/issues.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Global</text>
+        <text>WARNING_DELAY</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1893,7 +1899,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Global</text>
+        <text>WARNING_DELAY</text>
       </register>
       <register name="/" type="4">
         <text>settings</text>
@@ -1902,34 +1908,34 @@
         <text encoding="base64">ICAgICAgICAgIHZhciBNZXNzYWdlQ29tcG9uZW50ID0gYWxlcnQuRE9NLnNwYW4oewogICAgICAgICAgICBkYW5nZXJvdXNseVNldElubmVySFRNTDogewogICAgICAgICAgICAgIF9faHRtbDogbWVzc2FnZQogICAgICAgICAgICB9CiAgICAgICAgICB9KTsK</text>
       </register>
       <register name="1" type="4">
-        <text>Global</text>
+        <text>WARNING_DELAY</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text>Global</text>
+      </register>
+      <register name="3" type="4">
         <text>}</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAnL3NldHRpbmdzJywK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>admin/</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>globalSettings</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaXQoJ3Nob3VsZCBzaG93IGFsZXJ0IHRoYXQgdXNlciBzaG91bGQgY3JlYXRlIGEgcHJvamVjdCBmaXJzdCcsIGZ1bmN0aW9uKCkgewogICAgICAgIHBlcm1pc3Npb25zTW9jawogICAgICAgICAgLmhhcwogICAgICAgICAgLndpdGhBcmdzKCdodWIucHJvamVjdC1jcmVhdGUnKS5yZXR1cm5zKHRydWUpOwoKICAgICAgICBjcmVhdGVJc3N1ZSgpOwoKICAgICAgICBleHBlY3QoYWxlcnQubWVzc2FnZSkKICAgICAgICAgIC50b0hhdmVCZWVuQ2FsbGVkV2l0aChpc3N1ZXMuY3JlYXRlSXNzdWUuYWxlcnRNZXNzYWdlLkNBTl9DUkVBVEVfUFJPSkVDVF9NU0csCiAgICAgICAgICAgIDQwMDAsIHRydWUpOwogICAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaXQoJ3Nob3VsZCBzaG93IGFsZXJ0IHRoYXQgdXNlciBzaG91bGQgY3JlYXRlIGEgcHJvamVjdCBmaXJzdCcsIGZ1bmN0aW9uKCkgewogICAgICAgIHBlcm1pc3Npb25zTW9jawogICAgICAgICAgLmhhcwogICAgICAgICAgLndpdGhBcmdzKCdodWIucHJvamVjdC1jcmVhdGUnKS5yZXR1cm5zKHRydWUpOwoKICAgICAgICBjcmVhdGVJc3N1ZSgpOwoKICAgICAgICBleHBlY3QoYWxlcnQubWVzc2FnZSkKICAgICAgICAgIC50b0hhdmVCZWVuQ2FsbGVkV2l0aChpc3N1ZXMuY3JlYXRlSXNzdWUuYWxlcnRNZXNzYWdlLkNBTl9DUkVBVEVfUFJPSkVDVF9NU0csCiAgICAgICAgICAgIDQwMDAsIHRydWUpOwogICAgICB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaXQoJ3Nob3VsZCBzaG93IGFsZXJ0IHRoYXQgdXNlciBjYW4gbm90IGNyZWF0ZSBwcm9qZWN0JywgZnVuY3Rpb24oKSB7CiAgICAgICAgcGVybWlzc2lvbnNNb2NrCiAgICAgICAgICAuaGFzCiAgICAgICAgICAud2l0aEFyZ3MoJ2h1Yi5wcm9qZWN0LWNyZWF0ZScpLnJldHVybnMoZmFsc2UpOwoKICAgICAgICBjcmVhdGVJc3N1ZSgpOwoKICAgICAgICBleHBlY3QoYWxlcnQubWVzc2FnZSkKICAgICAgICAgIC50b0hhdmVCZWVuQ2FsbGVkV2l0aChpc3N1ZXMuY3JlYXRlSXNzdWUuYWxlcnRNZXNzYWdlLkNBTk5PVF9DUkVBVEVfUFJPSkVDVF9NU0csCiAgICAgICAgICAgIDQwMDAsIHRydWUpOwogICAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
