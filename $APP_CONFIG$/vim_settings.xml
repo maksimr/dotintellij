@@ -284,12 +284,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/form/style/yt-form-input.scss" timestamp="1424078840538">
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/form/style/yt-form-input.scss" timestamp="1430829250237">
         <mark key="'" line="46" column="0" />
-        <mark key="[" line="20" column="37" />
-        <mark key="]" line="20" column="60" />
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="6" column="13" />
         <mark key="^" line="20" column="60" />
-        <mark key="." line="20" column="60" />
+        <mark key="." line="6" column="13" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/timeline/test/directive/timeline-custom-field.js" timestamp="1421849264015">
         <mark key="'" line="11" column="0" />
@@ -1225,6 +1225,9 @@
         <mark key="." line="49" column="38" />
         <mark key="^" line="49" column="38" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/form/style/yt-file-input.scss" timestamp="1430829241521">
+        <mark key="'" line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/ring/tools/generate-documentation.js" timestamp="1427991127971">
         <mark key="'" line="262" column="20" />
       </file>
@@ -1400,6 +1403,9 @@
         <mark key="]" line="6" column="1" />
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/form/directive/yt-form-input.js" timestamp="1430829229185">
+        <mark key="'" line="121" column="2" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/node_modules/ring-ui/components/dropdown-ng/dropdown-ng.js" timestamp="1424951206610">
         <mark key="'" line="34" column="8" />
@@ -1676,10 +1682,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="31" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/global-settings-resource.js" />
-      <jump line="19" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/global-settings-resource.js" />
-      <jump line="16" column="12" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/global-settings-resource.js" />
-      <jump line="30" column="30" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/global-settings-resource.js" />
       <jump line="62" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/global-settings-resource.js" />
       <jump line="17" column="3" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/global-settings-resource.js" />
       <jump line="61" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/global-settings-resource.js" />
@@ -1776,6 +1778,10 @@
       <jump line="99" column="9" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/settings/notifications.html" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/settings/notifications.html" />
       <jump line="50" column="13" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/settings/notifications.html" />
+      <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/form/directive/yt-form-input.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/form/directive/yt-form-input.js" />
+      <jump line="121" column="2" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/form/directive/yt-form-input.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/form/style/yt-file-input.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1819,7 +1825,7 @@
         <text>mailProtocol</text>
       </register>
       <register name="/" type="4">
-        <text>pass</text>
+        <text>sm</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBuZy1tb2RlbD0ic2V0dGluZ3Mubm90aWZpY2F0aW9uU2V0dGluZ3MuZW1haWxTZXR0aW5ncy5tYWlsUHJvdG9jb2wiCg==</text>
@@ -1859,9 +1865,9 @@
       </register>
     </registers>
     <search>
-      <last-search>pass</last-search>
+      <last-search>sm</last-search>
       <last-offset />
-      <last-pattern>pass</last-pattern>
+      <last-pattern>sm</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1869,7 +1875,6 @@
     </search>
     <history>
       <history-search>
-        <entry>api</entry>
         <entry>&quot;</entry>
         <entry>components</entry>
         <entry>resoureces</entry>
@@ -1889,6 +1894,7 @@
         <entry>button</entry>
         <entry>host</entry>
         <entry>pass</entry>
+        <entry>sm</entry>
       </history-search>
       <history-cmd>
         <entry>196</entry>
