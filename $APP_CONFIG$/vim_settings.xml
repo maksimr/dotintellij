@@ -196,6 +196,9 @@
         <mark key="^" line="40" column="27" />
         <mark key="." line="40" column="27" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/select/style/select.scss" timestamp="1430900937008">
+        <mark key="'" line="76" column="21" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/service/settings-resource.js" timestamp="1430385854414">
         <mark key="'" line="6" column="40" />
         <mark key="[" line="6" column="40" />
@@ -1695,11 +1698,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="17" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/settings/notifications.html" />
-      <jump line="30" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/test/controller/settings.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/settings/language.html" />
-      <jump line="22" column="16" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/ring/ring.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/ring/ring.js" />
       <jump line="27" column="22" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/ring/ring.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/form/directive/yt-button.js" />
       <jump line="16" column="46" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/icon/directive/yt-icon.js" />
@@ -1795,6 +1793,11 @@
       <jump line="3" column="2" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/styles/main-core.scss" />
       <jump line="58" column="2" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/styles/main-core.scss" />
       <jump line="56" column="25" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/settings/system.html" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/select/style/select.scss" />
+      <jump line="39" column="4" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/select/style/select.scss" />
+      <jump line="40" column="12" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/select/style/select.scss" />
+      <jump line="75" column="19" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/select/style/select.scss" />
+      <jump line="76" column="21" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/select/style/select.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1838,7 +1841,7 @@
         <text encoding="base64">Lmdsb2JhbCA=</text>
       </register>
       <register name="/" type="4">
-        <text>lan</text>
+        <text>input</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAueXQtdmd1dHRlci0xIHsKICAgIG1hcmdpbi10b3A6ICRyaW5nLXVuaXQ7CiAgfQo=</text>
@@ -1878,9 +1881,9 @@
       </register>
     </registers>
     <search>
-      <last-search>lan</last-search>
+      <last-search>input</last-search>
       <last-offset />
-      <last-pattern>lan</last-pattern>
+      <last-pattern>input</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1888,7 +1891,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sm</entry>
         <entry>button</entry>
         <entry>yt-bu</entry>
         <entry encoding="base64">XDxUaW1lVHJhY2tpbmdSZXNvdXJjZVw+</entry>
@@ -1908,6 +1910,7 @@
         <entry>gutt</entry>
         <entry>padd</entry>
         <entry>lan</entry>
+        <entry>input</entry>
       </history-search>
       <history-cmd>
         <entry>196</entry>
