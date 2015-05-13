@@ -236,8 +236,9 @@
         <mark key="^" line="1" column="14" />
         <mark key="." line="1" column="14" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/upsource/directive/yt-upsource-reviews.js" timestamp="1425372879093">
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/upsource/directive/yt-upsource-reviews.js" timestamp="1431506982307">
         <mark key="'" line="17" column="20" />
+        <mark key="j" line="0" column="0" />
         <mark key="[" line="25" column="55" />
         <mark key="]" line="25" column="54" />
         <mark key="^" line="25" column="54" />
@@ -1007,8 +1008,8 @@
         <mark key="]" line="3" column="9" />
         <mark key="." line="3" column="9" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/upsource/controller/upsource.js" timestamp="1425313624563">
-        <mark key="'" line="11" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/upsource/controller/upsource.js" timestamp="1431507361562">
+        <mark key="'" line="104" column="33" />
         <mark key="[" line="8" column="25" />
         <mark key="]" line="8" column="33" />
         <mark key="^" line="8" column="33" />
@@ -1223,10 +1224,6 @@
         <mark key="]" line="23" column="37" />
         <mark key="." line="25" column="40" />
         <mark key="^" line="25" column="40" />
-      </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/styles/main-core.scss" timestamp="1430841664383">
-        <mark key="'" line="63" column="2" />
-        <mark key="[" line="28" column="9" />
       </file>
       <file name="$USER_HOME$/www/karma-runner/karma/lib/executor.js" timestamp="1429710139162">
         <mark key="'" line="29" column="40" />
@@ -1876,15 +1873,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="0" filename="$USER_HOME$/IdeaProjects/test/app.js" />
-      <jump line="50" column="4" filename="$USER_HOME$/IdeaProjects/test/app.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/IdeaProjects/test/app.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/IdeaProjects/test/app.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/IdeaProjects/test/app.js" />
-      <jump line="59" column="0" filename="$USER_HOME$/IdeaProjects/test/app.js" />
-      <jump line="10" column="0" filename="$USER_HOME$/www/karma-runner/karma/wallaby.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/www/karma-runner/karma/wallaby.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/www/karma-runner/karma/wallaby.js" />
       <jump line="20" column="0" filename="$USER_HOME$/www/karma-runner/karma/wallaby.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/karma-runner/karma/wallaby.js" />
       <jump line="19" column="0" filename="$USER_HOME$/www/karma-runner/karma/wallaby.js" />
@@ -1976,6 +1964,15 @@
       <jump line="11" column="0" filename="$USER_HOME$/www/karma-runner/karma-jasmine/node_modules/karma/static/karma.js" />
       <jump line="409" column="0" filename="$USER_HOME$/www/karma-runner/karma-jasmine/node_modules/karma/static/karma.js" />
       <jump line="41" column="2" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/hub-integration.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/upsource/controller/upsource.js" />
+      <jump line="59" column="13" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/upsource/controller/upsource.js" />
+      <jump line="68" column="29" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/upsource/controller/upsource.js" />
+      <jump line="35" column="17" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/upsource/controller/upsource.js" />
+      <jump line="37" column="11" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/upsource/controller/upsource.js" />
+      <jump line="67" column="13" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/upsource/controller/upsource.js" />
+      <jump line="150" column="15" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/upsource/controller/upsource.js" />
+      <jump line="103" column="13" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/upsource/controller/upsource.js" />
+      <jump line="104" column="33" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/upsource/controller/upsource.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2019,7 +2016,7 @@
         <text>),</text>
       </register>
       <register name="/" type="4">
-        <text>.\/util</text>
+        <text encoding="base64">XDxyZXRyaWV2ZVJldmlld3NGcm9tVXBzb3VyY2VcPg==</text>
       </register>
       <register name="0" type="4">
         <text>require.resolve('karma/static/karma.js')</text>
@@ -2059,19 +2056,16 @@
       </register>
     </registers>
     <search>
-      <last-search>.\/util</last-search>
+      <last-search encoding="base64">XDxyZXRyaWV2ZVJldmlld3NGcm9tVXBzb3VyY2VcPg==</last-search>
       <last-offset />
-      <last-pattern>.\/util</last-pattern>
+      <last-pattern encoding="base64">XDxyZXRyaWV2ZVJldmlld3NGcm9tVXBzb3VyY2VcPg==</last-pattern>
       <last-replace>lib</last-replace>
       <last-substitute>bower_components</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>passwo</entry>
-        <entry>host</entry>
-        <entry>not</entry>
         <entry>Sett</entry>
         <entry>check</entry>
         <entry>desc</entry>
@@ -2089,6 +2083,9 @@
         <entry>jquery</entry>
         <entry>anch</entry>
         <entry>sear</entry>
+        <entry>reduce</entry>
+        <entry encoding="base64">XDx1cGRhdGVVc2Vyc0luUmV2aWV3c1w+</entry>
+        <entry encoding="base64">XDxyZXRyaWV2ZVJldmlld3NGcm9tVXBzb3VyY2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>196</entry>
