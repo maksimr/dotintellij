@@ -1141,6 +1141,9 @@
         <mark key="." line="9" column="3" />
         <mark key="^" line="9" column="3" />
       </file>
+      <file name="$USER_HOME$/www/karma-runner/karma/lib/server.js" timestamp="1431688877694">
+        <mark key="'" line="233" column="34" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/reports/_reports/edit/create.js" timestamp="1425114631694">
         <mark key="'" line="30" column="8" />
       </file>
@@ -1409,8 +1412,8 @@
         <mark key="^" line="2" column="26" />
         <mark key="." line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/www/karma-runner/karma/lib/launcher.js" timestamp="1429710627138">
-        <mark key="'" line="21" column="6" />
+      <file name="$USER_HOME$/www/karma-runner/karma/lib/launcher.js" timestamp="1431688658172">
+        <mark key="'" line="9" column="0" />
         <mark key="[" line="36" column="19" />
         <mark key="]" line="36" column="19" />
         <mark key="^" line="36" column="19" />
@@ -1887,12 +1890,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="26" filename="$USER_HOME$/www/karma-runner/karma/test/unit/browser.spec.coffee" />
-      <jump line="30" column="44" filename="$USER_HOME$/www/karma-runner/karma/lib/web-server.js" />
-      <jump line="75" column="15" filename="$USER_HOME$/www/karma-runner/karma/lib/web-server.js" />
-      <jump line="68" column="4" filename="$USER_HOME$/www/karma-runner/karma/lib/web-server.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/www/karma-runner/karma/lib/web-server.js" />
-      <jump line="63" column="15" filename="$USER_HOME$/www/karma-runner/karma/lib/web-server.js" />
       <jump line="1" column="20" filename="$USER_HOME$/www/karma-runner/karma/lib/web-server.js" />
       <jump line="69" column="0" filename="$USER_HOME$/www/karma-runner/karma/lib/web-server.js" />
       <jump line="276" column="0" filename="$USER_HOME$/www/karma-runner/karma/lib/config.js" />
@@ -1987,6 +1984,12 @@
       <jump line="3" column="0" filename="$USER_HOME$/www/karma-runner/karma-jasmine/lib/adapter.js" />
       <jump line="1" column="0" filename="$USER_HOME$/www/karma-runner/karma-jasmine/lib/adapter.js" />
       <jump line="222" column="0" filename="$USER_HOME$/www/karma-runner/karma-jasmine/lib/adapter.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/www/karma-runner/karma/lib/launcher.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/www/karma-runner/karma/lib/launcher.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/karma-runner/karma/lib/server.js" />
+      <jump line="270" column="4" filename="$USER_HOME$/www/karma-runner/karma/lib/server.js" />
+      <jump line="222" column="4" filename="$USER_HOME$/www/karma-runner/karma/lib/server.js" />
+      <jump line="233" column="34" filename="$USER_HOME$/www/karma-runner/karma/lib/server.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2030,7 +2033,7 @@
         <text>),</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aGlzXD4=</text>
+        <text>transport</text>
       </register>
       <register name="0" type="4">
         <text>window.jasmine.getEnv()</text>
@@ -2070,17 +2073,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0aGlzXD4=</last-search>
+      <last-search>transport</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aGlzXD4=</last-pattern>
+      <last-pattern>transport</last-pattern>
       <last-replace>lib</last-replace>
       <last-substitute>bower_components</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sele</entry>
         <entry>gutt</entry>
         <entry>padd</entry>
         <entry>lan</entry>
@@ -2100,6 +2102,7 @@
         <entry>event</entry>
         <entry encoding="base64">XDxqYXNtaW5lRG9uZVw+</entry>
         <entry encoding="base64">XDx0aGlzXD4=</entry>
+        <entry>transport</entry>
       </history-search>
       <history-cmd>
         <entry>196</entry>
