@@ -2047,16 +2047,16 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>post</text>
+        <text>update</text>
       </register>
       <register name="-" type="4">
         <text>, restoreLocation</text>
       </register>
     </registers>
     <search>
-      <last-search>post</last-search>
+      <last-search>update</last-search>
       <last-offset />
-      <last-pattern>post</last-pattern>
+      <last-pattern>update</last-pattern>
       <last-replace>lib</last-replace>
       <last-substitute>bower_components</last-substitute>
       <last-dir>1</last-dir>
@@ -2069,6 +2069,8 @@
         <entry>login</entry>
         <entry>get</entry>
         <entry>post</entry>
+        <entry>list</entry>
+        <entry>update</entry>
       </history-search>
       <history-cmd />
       <history-expr />
