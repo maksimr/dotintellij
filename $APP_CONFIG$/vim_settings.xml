@@ -68,12 +68,12 @@
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/node_modules/ring-ui/components/confirm-ng/confirm-ng.js" timestamp="1429545973876">
         <mark key="'" line="2" column="9" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/sidebar-table/test/service/toggleable-tree-view-data.js" timestamp="1432544515875">
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/sidebar-table/test/service/toggleable-tree-view-data.js" timestamp="1432545299172">
         <mark key="'" line="14" column="16" />
-        <mark key="[" line="17" column="14" />
-        <mark key="]" line="18" column="23" />
-        <mark key="." line="18" column="23" />
-        <mark key="^" line="18" column="23" />
+        <mark key="[" line="93" column="17" />
+        <mark key="]" line="87" column="28" />
+        <mark key="^" line="87" column="28" />
+        <mark key="." line="93" column="20" />
       </file>
       <file name="$USER_HOME$/tmp/wallaby-examples/nodejs/test/calculatorModelSpec.js" timestamp="1425060431427">
         <mark key="'" line="12" column="4" />
@@ -966,8 +966,8 @@
         <mark key="^" line="8" column="33" />
         <mark key="." line="8" column="33" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/sidebar-table/service/toggleable-tree-view-data.js" timestamp="1432543569907">
-        <mark key="'" line="121" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/sidebar-table/service/toggleable-tree-view-data.js" timestamp="1432545058122">
+        <mark key="'" line="58" column="36" />
         <mark key="[" line="56" column="25" />
         <mark key="]" line="56" column="45" />
         <mark key="^" line="56" column="45" />
@@ -1789,7 +1789,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="14" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/vcs-integration-resource.js" />
       <jump line="45" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/vcs-integration-resource.js" />
       <jump line="57" column="4" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/vcs-integration-resource.js" />
       <jump line="63" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/vcs-integration-resource.js" />
@@ -1889,10 +1888,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/sidebar-table/test/service/toggleable-tree-view-data.js" />
       <jump line="213" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/sidebar-table/test/service/toggleable-tree-view-data.js" />
       <jump line="14" column="16" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/sidebar-table/test/service/toggleable-tree-view-data.js" />
+      <jump line="58" column="36" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/sidebar-table/service/toggleable-tree-view-data.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>[2]</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1929,43 +1929,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>firstEntityChild1</text>
+        <text>[2]</text>
       </register>
       <register name="/" type="4">
         <text>name</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgKiBAdHlwZSB7QXJyYXl9Cg==</text>
+        <text encoding="base64">ICAgICAgY3JlYXRlTm9kZShtb2NrUmVzb3VyY2VbMV0sIDApLAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text>[2]</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>firstEntityChild1</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnd2FsbGFieS5qcycsICc+Pj4+Jyk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgKgo=</text>
-      </register>
-      <register name="5" type="4">
-        <text>Array</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvL1RPRE86IHJlbW92ZSBwdXNoIHBhcmVudCB0byBlbGVtZW50Cg==</text>
-      </register>
-      <register name="7" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHZhciBleHBlY3RlZEl0ZW1TdGF0ZXMgPSBbCiAgICAgIHsKICAgICAgICBsZXZlbElkOiAwLAogICAgICAgIGRhdGE6IGZpcnN0RW50aXR5CiAgICAgIH0sCiAgICAgIHsKICAgICAgICBsZXZlbElkOiAxLAogICAgICAgIGRhdGE6IGZpcnN0RW50aXR5Q2hpbGQxCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBsZXZlbElkOiAxLAogICAgICAgIGRhdGE6IGZpcnN0RW50aXR5Q2hpbGQyCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBsZXZlbElkOiAwLAogICAgICAgIGRhdGE6IHNlY29uZEVudGl0eQogICAgICB9LAogICAgICB7CiAgICAgICAgbGV2ZWxJZDogMSwKICAgICAgICBkYXRhOiBzZWNvbmRFbnRpdHlDaGlsZDEKICAgICAgfSwKICAgICAgewogICAgICAgIGxldmVsSWQ6IDEsCiAgICAgICAgZGF0YTogc2Vjb25kRW50aXR5Q2hpbGQyCiAgICAgIH0sCiAgICAgIHsKICAgICAgICBsZXZlbElkOiAxLAogICAgICAgIGRhdGE6IHNlY29uZEVudGl0eUNoaWxkMwogICAgICB9LAogICAgICB7CiAgICAgICAgbGV2ZWxJZDogMCwKICAgICAgICBkYXRhOiB0aGlyZEVudGl0eQogICAgICB9CiAgICBdOwo=</text>
+      </register>
+      <register name="4" type="4">
+        <text>,</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBsZXZlbElkOiBsZXZlbElkCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHZhciAK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY3JlYXRlUmF3S2V5KCdmb28nKQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="4">
-        <text>sslResource</text>
+        <text>,</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
