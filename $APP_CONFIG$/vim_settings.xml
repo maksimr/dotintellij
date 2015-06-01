@@ -66,8 +66,8 @@
         <mark key="." line="25" column="0" />
         <mark key="[" line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/settings.js" timestamp="1433163528365">
-        <mark key="'" line="162" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/settings.js" timestamp="1433166631546">
+        <mark key="'" line="119" column="0" />
         <mark key="]" line="162" column="23" />
         <mark key="." line="162" column="23" />
         <mark key="[" line="162" column="23" />
@@ -2036,7 +2036,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/sidebar-table/service/toggleable-tree-view-data.js" />
       <jump line="23" column="5" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/vcs/integration-connect-step.html" />
       <jump line="9" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/vcs/integration-connect-step.html" />
       <jump line="45" column="30" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/vcs/integration-connect-step.html" />
@@ -2136,6 +2135,7 @@
       <jump line="220" column="42" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/settings.js" />
       <jump line="162" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/settings.js" />
       <jump line="24" column="1" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/test/controller/settings.js" />
+      <jump line="119" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/settings.js" />
     </jumps>
     <registers>
       <register name="3" type="2">
@@ -2212,16 +2212,16 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>save</text>
+        <text>fields</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
       </register>
     </registers>
     <search>
-      <last-search>save</last-search>
+      <last-search>fields</last-search>
       <last-offset />
-      <last-pattern>save</last-pattern>
+      <last-pattern>fields</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2229,7 +2229,6 @@
     </search>
     <history>
       <history-search>
-        <entry>$type</entry>
         <entry>ype</entry>
         <entry>project</entry>
         <entry>routeChange</entry>
@@ -2249,6 +2248,7 @@
         <entry>lice</entry>
         <entry>post</entry>
         <entry>save</entry>
+        <entry>fields</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
