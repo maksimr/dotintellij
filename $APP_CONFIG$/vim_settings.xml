@@ -66,12 +66,12 @@
         <mark key="." line="25" column="0" />
         <mark key="[" line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/settings.js" timestamp="1433151051581">
-        <mark key="'" line="3" column="0" />
-        <mark key="]" line="28" column="24" />
-        <mark key="^" line="28" column="24" />
-        <mark key="." line="28" column="24" />
-        <mark key="[" line="27" column="16" />
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/settings.js" timestamp="1433152228675">
+        <mark key="'" line="225" column="2" />
+        <mark key="]" line="18" column="86" />
+        <mark key="^" line="22" column="126" />
+        <mark key="." line="22" column="126" />
+        <mark key="[" line="18" column="9" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/dashboard/service/issues.js" timestamp="1424855417032">
         <mark key="'" line="56" column="21" />
@@ -609,8 +609,8 @@
         <mark key="." line="240" column="21" />
         <mark key="[" line="240" column="17" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/global-settings-resource.js" timestamp="1433150738854">
-        <mark key="'" line="22" column="38" />
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/global-settings-resource.js" timestamp="1433152252005">
+        <mark key="'" line="19" column="0" />
         <mark key="]" line="177" column="46" />
         <mark key="[" line="177" column="26" />
       </file>
@@ -2028,12 +2028,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="49" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/jira-import/connection-step.html" />
-      <jump line="25" column="25" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/jira-import/connection-step.html" />
-      <jump line="26" column="38" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/jira-import/connection-step.html" />
-      <jump line="33" column="49" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/jira-import/connection-step.html" />
-      <jump line="40" column="25" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/jira-import/connection-step.html" />
-      <jump line="41" column="38" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/jira-import/connection-step.html" />
       <jump line="53" column="72" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/jira-import/connection-step.html" />
       <jump line="55" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/jira-import/connection-step.html" />
       <jump line="5" column="11" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/vcs/integration-connect-step.html" />
@@ -2128,46 +2122,52 @@
       <jump line="23" column="14" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/global-settings-resource.js" />
       <jump line="190" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/global-settings-resource.js" />
       <jump line="22" column="38" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/global-settings-resource.js" />
+      <jump line="155" column="9" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/global-settings-resource.js" />
+      <jump line="75" column="7" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/global-settings-resource.js" />
+      <jump line="21" column="9" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/settings.js" />
+      <jump line="225" column="2" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/settings.js" />
+      <jump line="24" column="7" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/global-settings-resource.js" />
+      <jump line="19" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/global-settings-resource.js" />
     </jumps>
     <registers>
-      <register name="3" type="4">
-        <text>,</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgY29udmVydGVyID0gZnVuY3Rpb24gKGZpZWxkKSB7CiAgICAgICAgICBpZiAoYW5ndWxhci5pc0FycmF5KGZpZWxkKSkgewogICAgICAgICAgICByZXR1cm4gZmllbGRbMF0gKyAnKCcgKyAgKyAnKSc7CiAgICAgICAgICB9CiAgICAgICAgICAKICAgICAgICAgIHJldHVybiBmaWVsZDsKICAgICAgICB9Owo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>appearanceSettings(dateFieldFormat(id,presentation),timeZone(id,presentation))</text>
       </register>
-      <register name="2" type="4">
-        <text>id</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAnamFiYmVyU2V0dGluZ3MnLAo=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2lkJwo=</text>
+      <register name="0" type="4">
+        <text>appearanceSettings(dateFieldFormat(id,presentation),timeZone(id,presentation))</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBdLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBbCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBdLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICcnCg==</text>
+        <text encoding="base64">ICAgICAgICAgIFsKICAgICAgICAgICAgJ2RhdGVGaWVsZEZvcm1hdCcsCiAgICAgICAgICAgICdpZCcsCiAgICAgICAgICAgICdwcmVzZW50YXRpb24nCiAgICAgICAgICBdLAogICAgICAgICAgWwogICAgICAgICAgICAndGltZVpvbmUnLAogICAgICAgICAgICAnaWQnLAogICAgICAgICAgICAncHJlc2VudGF0aW9uJwogICAgICAgICAgXSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>Object</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICdhcHBlYXJhbmNlU2V0dGluZ3MnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2204,27 +2204,23 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>appear</text>
+        <text>be</text>
       </register>
       <register name="-" type="4">
         <text>id</text>
       </register>
     </registers>
     <search>
-      <last-search>appear</last-search>
+      <last-search>be</last-search>
       <last-offset />
-      <last-pattern>appear</last-pattern>
+      <last-pattern>be</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>console.log</entry>
-        <entry>console</entry>
-        <entry>table</entry>
-        <entry>on</entry>
         <entry>$rootScope</entry>
         <entry>$on</entry>
         <entry>update</entry>
@@ -2241,6 +2237,10 @@
         <entry>runjar</entry>
         <entry>testJa</entry>
         <entry>appear</entry>
+        <entry>rest</entry>
+        <entry>localeSe</entry>
+        <entry>systemSett</entry>
+        <entry>be</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
