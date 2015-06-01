@@ -66,12 +66,12 @@
         <mark key="." line="25" column="0" />
         <mark key="[" line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/settings.js" timestamp="1433159358243">
-        <mark key="'" line="160" column="0" />
-        <mark key="]" line="18" column="86" />
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/settings.js" timestamp="1433160591534">
+        <mark key="'" line="0" column="0" />
+        <mark key="]" line="185" column="25" />
         <mark key="^" line="22" column="126" />
-        <mark key="." line="22" column="126" />
-        <mark key="[" line="18" column="9" />
+        <mark key="." line="185" column="25" />
+        <mark key="[" line="185" column="25" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/dashboard/service/issues.js" timestamp="1424855417032">
         <mark key="'" line="56" column="21" />
@@ -612,10 +612,12 @@
         <mark key="." line="240" column="21" />
         <mark key="[" line="240" column="17" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/global-settings-resource.js" timestamp="1433152252005">
-        <mark key="'" line="19" column="0" />
-        <mark key="]" line="177" column="46" />
-        <mark key="[" line="177" column="26" />
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/global-settings-resource.js" timestamp="1433160727313">
+        <mark key="'" line="2" column="0" />
+        <mark key="]" line="183" column="46" />
+        <mark key="^" line="183" column="25" />
+        <mark key="." line="183" column="25" />
+        <mark key="[" line="183" column="26" />
       </file>
       <file name="/a.dummy" timestamp="1432060084241">
         <mark key="[" line="0" column="0" />
@@ -2040,12 +2042,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/vcs/sidebar.html" />
-      <jump line="30" column="41" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/sidebar-table/template/yt-sidebar-table.html" />
-      <jump line="26" column="21" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/sidebar-table/directive/yt-sidebar-table.js" />
-      <jump line="75" column="25" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/sidebar-table/directive/yt-sidebar-table.js" />
-      <jump line="76" column="31" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/sidebar-table/directive/yt-sidebar-table.js" />
-      <jump line="80" column="16" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/sidebar-table/directive/yt-sidebar-table.js" />
       <jump line="14" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/sidebar-table/service/toggleable-tree-view-data.js" />
       <jump line="50" column="37" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/sidebar-table/directive/yt-sidebar-table.js" />
       <jump line="87" column="51" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/sidebar-table/directive/yt-sidebar-table.js" />
@@ -2140,46 +2136,52 @@
       <jump line="60" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-standalone/build.gradle" />
       <jump line="40" column="23" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-standalone/build.gradle" />
       <jump line="160" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/settings.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/global-settings-resource.js" />
+      <jump line="184" column="17" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/global-settings-resource.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/settings.js" />
+      <jump line="214" column="2" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/settings.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/settings.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/global-settings-resource.js" />
     </jumps>
     <registers>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgY29udmVydGVyID0gZnVuY3Rpb24gKGZpZWxkKSB7CiAgICAgICAgICBpZiAoYW5ndWxhci5pc0FycmF5KGZpZWxkKSkgewogICAgICAgICAgICByZXR1cm4gZmllbGRbMF0gKyAnKCcgKyAgKyAnKSc7CiAgICAgICAgICB9CiAgICAgICAgICAKICAgICAgICAgIHJldHVybiBmaWVsZDsKICAgICAgICB9Owo=</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>appearanceSettings(dateFieldFormat(id,presentation),timeZone(id,presentation))</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAnamFiYmVyU2V0dGluZ3MnLAo=</text>
       </register>
+      <register name="&quot;" type="4">
+        <text>,</text>
+      </register>
+      <register name="2" type="4">
+        <text>example@jetbrains.com</text>
+      </register>
+      <register name="1" type="4">
+        <text>,</text>
+      </register>
       <register name="0" type="4">
-        <text>appearanceSettings(dateFieldFormat(id,presentation),timeZone(id,presentation))</text>
+        <text>example@jetbrains.com</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBdLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBbCg==</text>
+        <text encoding="base64">ICAgICAgICAgIFsKICAgICAgICAgICAgJ2RhdGVGaWVsZEZvcm1hdCcsCiAgICAgICAgICAgICdpZCcsCiAgICAgICAgICAgICdwcmVzZW50YXRpb24nCiAgICAgICAgICBdLAogICAgICAgICAgWwogICAgICAgICAgICAndGltZVpvbmUnLAogICAgICAgICAgICAnaWQnLAogICAgICAgICAgICAncHJlc2VudGF0aW9uJwogICAgICAgICAgXSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBdLAo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgY29udmVydGVyID0gZnVuY3Rpb24gKGZpZWxkKSB7CiAgICAgICAgICBpZiAoYW5ndWxhci5pc0FycmF5KGZpZWxkKSkgewogICAgICAgICAgICByZXR1cm4gZmllbGRbMF0gKyAnKCcgKyAgKyAnKSc7CiAgICAgICAgICB9CiAgICAgICAgICAKICAgICAgICAgIHJldHVybiBmaWVsZDsKICAgICAgICB9Owo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIFsKICAgICAgICAgICAgJ2RhdGVGaWVsZEZvcm1hdCcsCiAgICAgICAgICAgICdpZCcsCiAgICAgICAgICAgICdwcmVzZW50YXRpb24nCiAgICAgICAgICBdLAogICAgICAgICAgWwogICAgICAgICAgICAndGltZVpvbmUnLAogICAgICAgICAgICAnaWQnLAogICAgICAgICAgICAncHJlc2VudGF0aW9uJwogICAgICAgICAgXSwK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBbCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2219,7 +2221,7 @@
         <text>port</text>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>,</text>
       </register>
     </registers>
     <search>
