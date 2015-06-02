@@ -66,12 +66,12 @@
         <mark key="." line="25" column="0" />
         <mark key="[" line="25" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/settings.js" timestamp="1433174945178">
-        <mark key="'" line="201" column="25" />
-        <mark key="]" line="218" column="24" />
-        <mark key="^" line="218" column="24" />
-        <mark key="." line="218" column="24" />
-        <mark key="[" line="218" column="16" />
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/settings.js" timestamp="1433238130024">
+        <mark key="'" line="45" column="31" />
+        <mark key="]" line="277" column="21" />
+        <mark key="^" line="280" column="35" />
+        <mark key="." line="277" column="27" />
+        <mark key="[" line="277" column="21" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/dashboard/service/issues.js" timestamp="1433162005081">
         <mark key="'" line="26" column="0" />
@@ -583,11 +583,12 @@
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/settings/visual.html" timestamp="1430395232686">
         <mark key="'" line="56" column="44" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/settings/notifications.html" timestamp="1430840812751">
-        <mark key="'" line="10" column="0" />
-        <mark key="]" line="60" column="19" />
-        <mark key="." line="132" column="14" />
-        <mark key="[" line="57" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/settings/notifications.html" timestamp="1433238088682">
+        <mark key="'" line="174" column="13" />
+        <mark key="]" line="257" column="23" />
+        <mark key="^" line="257" column="23" />
+        <mark key="." line="257" column="23" />
+        <mark key="[" line="257" column="23" />
       </file>
       <file name="$USER_HOME$/tmp/wallaby-examples/webpack/node_modules/karma-webpack/index.js" timestamp="1424900096755">
         <mark key="'" line="60" column="0" />
@@ -1137,6 +1138,10 @@
       </file>
       <file name="$USER_HOME$/www/jetbrains/ring/wallaby.config.js" timestamp="1427994603387">
         <mark key="'" line="21" column="48" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/settings/update-info.html" timestamp="1433237942586">
+        <mark key="]" line="12" column="11" />
+        <mark key="[" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/widget/test/directive/yt-notes-widget.js" timestamp="1421848695419">
         <mark key="'" line="2" column="0" />
@@ -2053,14 +2058,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-vcs-ci-integration/src/main/kotlin/jetbrains/youtrack/integration/gaprest/ChangesProcessor.kt" />
-      <jump line="70" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-vcs-ci-integration/src/main/kotlin/jetbrains/youtrack/integration/gaprest/ChangesProcessor.kt" />
-      <jump line="34" column="10" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/vcs/vcs-integration-form.js" />
-      <jump line="65" column="2" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/vcs/vcs-integration-form.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/vcs/vcs-integration-form.js" />
-      <jump line="50" column="16" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-vcs-ci-integration/src/main/kotlin/jetbrains/youtrack/integration/gaprest/ChangesProcessor.kt" />
-      <jump line="66" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/charisma-app/src/main/kotlin/jetbrains/charisma/persistent/security/Principals.kt" />
-      <jump line="35" column="22" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/charisma-app/src/main/kotlin/jetbrains/charisma/persistent/security/Principals.kt" />
       <jump line="58" column="2" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/vcs/vcs-integration-form.js" />
       <jump line="88" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/vcs.js" />
       <jump line="115" column="4" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/vcs.js" />
@@ -2153,46 +2150,54 @@
       <jump line="15" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/form/style/yt-form-input.scss" />
       <jump line="5" column="7" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/settings/dialog-test-jabber.html" />
       <jump line="7" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/settings/dialog-test-email.html" />
+      <jump line="237" column="24" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/settings.js" />
+      <jump line="276" column="2" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/settings.js" />
+      <jump line="82" column="1" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/settings.js" />
+      <jump line="266" column="2" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/settings.js" />
+      <jump line="48" column="12" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/settings.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/settings/notifications.html" />
+      <jump line="174" column="13" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/settings/notifications.html" />
+      <jump line="45" column="31" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/settings.js" />
     </jumps>
     <registers>
-      <register name="3" type="4">
-        <text>testJabberAccount</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIDxzcGFuIHRyYW5zbGF0ZT5UZXN0IGphYmJlciBub3RpZmljYXRpb24uLi48L3NwYW4+Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICogCg==</text>
+      <register name="&quot;" type="4">
+        <text>notificationSettings</text>
       </register>
       <register name="2" type="4">
-        <text>Jabber</text>
+        <text>notificationSettings</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICogCg==</text>
+      <register name="1" type="4">
+        <text>notificationSettings</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgZGlhbG9nRGF0YSA9IHsKICAgICAgICAgIHRlc3RKYWJiZXJBY2NvdW50OiAkc2NvcGUuc2V0dGluZ3Mubm90aWZpY2F0aW9uU2V0dGluZ3MuamFiYmVyU2V0dGluZ3MubG9naW4KICAgICAgICB9OwoKICAgICAgICBkaWFsb2cuc2hvdyh7CiAgICAgICAgICB0aXRsZTogaTE4bignVGVzdCBqYWJiZXInKSwKICAgICAgICAgIGRhdGE6IGRpYWxvZ0RhdGEsCiAgICAgICAgICBjb250ZW50OiBhZG1pblRlbXBsYXRlVXJsKCd0ZW1wbGF0ZS9zZXR0aW5ncy9kaWFsb2ctdGVzdC1qYWJiZXIuaHRtbCcpLAogICAgICAgICAgYnV0dG9uczogW3sKICAgICAgICAgICAgZGVmYXVsdDogdHJ1ZSwKICAgICAgICAgICAgbGFiZWw6IGkxOG4oJ1NlbmQnKSwKICAgICAgICAgICAgYWN0aW9uOiBmdW5jdGlvbigpIHsKICAgICAgICAgICAgICAkc2NvcGUuc2VuZFRlc3RKYWJiZXJNZXNzYWdlKGRpYWxvZ0RhdGEudGVzdEphYmJlckFjY291bnQpOwogICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICB9CiAgICAgICAgICB9LCB7CiAgICAgICAgICAgIGxhYmVsOiBpMThuKCdDYW5jZWwnKSwKICAgICAgICAgICAgY2xvc2U6IHRydWUKICAgICAgICAgIH1dCiAgICAgICAgfSk7Cg==</text>
+      <register name="0" type="4">
+        <text>notifications.isTestJabber</text>
       </register>
       <register name="7" type="4">
-        <text>testJabberAccount</text>
+        <text>for</text>
       </register>
       <register name="6" type="4">
-        <text>$scope.settings.notificationSettings.jabberSettings.login</text>
+        <text>update</text>
       </register>
       <register name="5" type="4">
-        <text>jabber</text>
+        <text>ng-if=&quot;notifications.isTestJabber&quot;</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="4" type="4">
-        <text>jabber</text>
+        <text>Test jabber notification...</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>isChecking</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>Checking</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2229,16 +2234,16 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>input</text>
+        <text>jabber</text>
       </register>
       <register name="-" type="4">
-        <text>Jabber</text>
+        <text>notificationSettings</text>
       </register>
     </registers>
     <search>
-      <last-search>input</last-search>
+      <last-search>jabber</last-search>
       <last-offset />
-      <last-pattern>input</last-pattern>
+      <last-pattern>jabber</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2246,7 +2251,6 @@
     </search>
     <history>
       <history-search>
-        <entry>routeChange</entry>
         <entry>runjar</entry>
         <entry>testJa</entry>
         <entry>appear</entry>
@@ -2266,6 +2270,7 @@
         <entry>fields</entry>
         <entry>save(</entry>
         <entry>input</entry>
+        <entry>jabber</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
