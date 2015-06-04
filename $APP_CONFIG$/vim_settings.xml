@@ -530,12 +530,12 @@
         <mark key="." line="13" column="52" />
         <mark key="[" line="55" column="27" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/settings/notifications.html" timestamp="1433333709213">
-        <mark key="'" line="281" column="0" />
-        <mark key="]" line="140" column="15" />
-        <mark key="^" line="263" column="56" />
-        <mark key="." line="263" column="56" />
-        <mark key="[" line="139" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/settings/notifications.html" timestamp="1433407077068">
+        <mark key="'" line="238" column="50" />
+        <mark key="]" line="247" column="37" />
+        <mark key="^" line="252" column="28" />
+        <mark key="." line="247" column="37" />
+        <mark key="[" line="247" column="37" />
       </file>
       <file name="$USER_HOME$/tmp/wallaby-examples/webpack/node_modules/karma-webpack/index.js" timestamp="1424900096755">
         <mark key="'" line="60" column="0" />
@@ -1931,13 +1931,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="216" column="35" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/global-settings-resource.js" />
-      <jump line="222" column="18" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/global-settings-resource.js" />
-      <jump line="220" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/global-settings-resource.js" />
-      <jump line="224" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/global-settings-resource.js" />
-      <jump line="227" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/global-settings-resource.js" />
-      <jump line="241" column="3" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/global-settings-resource.js" />
-      <jump line="225" column="20" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/global-settings-resource.js" />
       <jump line="31" column="3" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/package.json" />
       <jump line="97" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/package.json" />
       <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/externalsGruntfile.js" />
@@ -2031,46 +2024,53 @@
       <jump line="249" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/settings.js" />
       <jump line="390" column="9" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/settings.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/settings.js" />
+      <jump line="139" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/settings/notifications.html" />
+      <jump line="164" column="56" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/settings/notifications.html" />
+      <jump line="172" column="44" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/settings/notifications.html" />
+      <jump line="181" column="50" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/settings/notifications.html" />
+      <jump line="218" column="47" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/settings/notifications.html" />
+      <jump line="224" column="50" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/settings/notifications.html" />
+      <jump line="238" column="50" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/settings/notifications.html" />
     </jumps>
     <registers>
-      <register name="3" type="4">
-        <text>shortcutId</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>null</text>
-      </register>
-      <register name="2" type="4">
-        <text>getShortcut(shortcutId)</text>
-      </register>
-      <register name="1" type="4">
-        <text>null</text>
-      </register>
-      <register name="0" type="4">
-        <text>$scope.settings.shortcutSettings.shortcuts</text>
-      </register>
-      <register name="7" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgY3VycmVudFNob3J0Y3V0ID0gZ2V0U2hvcnRjdXQoJHNjb3BlLnNldHRpbmdzLnNob3J0Y3V0U2V0dGluZ3Muc2VydmVyU2hvcnRjdXRzKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHRyYW5zbGF0ZQ==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">IHRyYW5zbGF0ZQ==</text>
+      </register>
+      <register name="0" type="4">
+        <text>notifications.isTestJabber</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">IHRyYW5zbGF0ZQ==</text>
+      </register>
+      <register name="6" type="4">
+        <text>if</text>
       </register>
       <register name="5" type="4">
-        <text>currentShortcutshortcutId</text>
+        <text>notifications.isTestEmail</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="4" type="4">
-        <text>shortcutId</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGl2IG5nLWlmPSJub3RpZmljYXRpb25zLmlzVGVzdEphYmJlciI+CiAgICAgICAgICA8ZGl2IGNsYXNzPSJyaW5nLWxvYWRlciByaW5nLWxvYWRlcl9pbmxpbmUgeXQtZ3V0dGVyLTEiPgogICAgICAgICAgPC9kaXY+CgogICAgICAgICAgPHNwYW4gdHJhbnNsYXRlPlNlbmRpbmcgdGVzdCBqYWJiZXIgbWVzc2FnZSAuLi48L3NwYW4+CiAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IG5nLWlmPSJub3RpZmljYXRpb25zLmlzVGVzdEVtYWlsIj4KCiAgICAgICAgICA8c3BhbiB0cmFuc2xhdGU9IiI+CiAgICAgICAgICAgICAgU2VuZGluZyB0ZXN0IGVtYWlsIC4uLgogICAgICAgICAgPC9zcGFuPgogICAgICAgIDwvZGl2Pgo=</text>
       </register>
-      <register name="8" type="4">
-        <text>shortcutId</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2107,16 +2107,16 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>htn</text>
+        <text>jabber</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text encoding="base64">IHRyYW5zbGF0ZQ==</text>
       </register>
     </registers>
     <search>
-      <last-search>htn</last-search>
+      <last-search>jabber</last-search>
       <last-offset />
-      <last-pattern>htn</last-pattern>
+      <last-pattern>jabber</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2124,8 +2124,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rest</entry>
-        <entry>fileUploader</entry>
         <entry>fileUpload</entry>
         <entry encoding="base64">XDxmaWxlVXBsb2FkZXJcPg==</entry>
         <entry>onChangeCall</entry>
@@ -2144,6 +2142,8 @@
         <entry>onRese</entry>
         <entry>onC</entry>
         <entry>htn</entry>
+        <entry>test</entry>
+        <entry>jabber</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;/'/gc</entry>
