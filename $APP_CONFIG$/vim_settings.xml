@@ -1580,6 +1580,9 @@
         <mark key="." line="11" column="40" />
         <mark key="[" line="11" column="29" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/charisma-app/src/main/kotlin/jetbrains/charisma/persistent/Project.kt" timestamp="1434453159860">
+        <mark key="'" line="69" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/node_modules/ring-ui/components/dropdown-ng/dropdown-ng.js" timestamp="1424951206610">
         <mark key="'" line="34" column="8" />
       </file>
@@ -1938,8 +1941,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="13" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/charisma-app/src/main/kotlin/jetbrains/charisma/persistent/globalSettings/AppearanceSettings.kt" />
-      <jump line="173" column="23" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/settings.js" />
       <jump line="303" column="12" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/settings.js" />
       <jump line="324" column="12" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/settings.js" />
       <jump line="335" column="12" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/settings.js" />
@@ -2038,6 +2039,8 @@
       <jump line="23" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/charisma-app/src/main/kotlin/jetbrains/charisma/persistent/Project.kt" />
       <jump line="55" column="42" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/charisma-app/src/main/kotlin/jetbrains/charisma/persistent/Project.kt" />
       <jump line="25" column="8" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/charisma-app/src/main/kotlin/jetbrains/charisma/persistent/Project.kt" />
+      <jump line="38" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/charisma-app/src/main/kotlin/jetbrains/charisma/persistent/Project.kt" />
+      <jump line="69" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/charisma-app/src/main/kotlin/jetbrains/charisma/persistent/Project.kt" />
     </jumps>
     <registers>
       <register name="3" type="4">
@@ -2114,16 +2117,16 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>leader</text>
+        <text>archive</text>
       </register>
       <register name="-" type="4">
         <text>login</text>
       </register>
     </registers>
     <search>
-      <last-search>leader</last-search>
+      <last-search>archive</last-search>
       <last-offset />
-      <last-pattern>leader</last-pattern>
+      <last-pattern>archive</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2131,7 +2134,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">ZW1haWwg</entry>
         <entry>reloa</entry>
         <entry>locale</entry>
         <entry>import</entry>
@@ -2151,6 +2153,7 @@
         <entry>jabber</entry>
         <entry>create</entry>
         <entry>leader</entry>
+        <entry>archive</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;/'/gc</entry>
