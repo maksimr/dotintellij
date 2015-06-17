@@ -250,8 +250,8 @@
         <mark key="." line="2" column="0" />
         <mark key="[" line="2" column="1" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-workflow/src/main/kotlin/jetbrains/charisma/workflow/gaprest/Workflow.kt" timestamp="1434473874554">
-        <mark key="'" line="2" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-workflow/src/main/kotlin/jetbrains/charisma/workflow/gaprest/Workflow.kt" timestamp="1434529873109">
+        <mark key="'" line="168" column="13" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/jasmine-global.js" timestamp="1423156122900">
         <mark key="'" line="37" column="5" />
@@ -446,6 +446,9 @@
       </file>
       <file name="$USER_HOME$/tmp/introtask-space/node_modules/jasmine-core/lib/jasmine-core.js" timestamp="1428738317503">
         <mark key="'" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-webapp/src/test/kotlin/jetbrains/charisma/workflow/ProjectWorkflowsTest.kt" timestamp="1434529671876">
+        <mark key="'" line="24" column="24" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/service/database-backup-rest.js" timestamp="1430385227344">
         <mark key="'" line="14" column="2" />
@@ -1932,13 +1935,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="324" column="12" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/settings.js" />
-      <jump line="335" column="12" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/settings.js" />
-      <jump line="343" column="31" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/settings.js" />
-      <jump line="379" column="12" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/settings.js" />
-      <jump line="387" column="31" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/settings.js" />
-      <jump line="15" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/file-uploader/service/file-uploader.js" />
-      <jump line="30" column="26" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/workflow.js" />
       <jump line="8" column="5" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/workflow.js" />
       <jump line="16" column="65" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/workflow.js" />
       <jump line="46" column="38" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/workflow.js" />
@@ -2032,6 +2028,13 @@
       <jump line="38" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/charisma-app/src/main/kotlin/jetbrains/charisma/persistent/Project.kt" />
       <jump line="69" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/charisma-app/src/main/kotlin/jetbrains/charisma/persistent/Project.kt" />
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-workflow/src/main/kotlin/jetbrains/charisma/workflow/gaprest/Workflow.kt" />
+      <jump line="0" column="25" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-webapp/src/test/kotlin/jetbrains/charisma/workflow/ProjectWorkflowsTest.kt" />
+      <jump line="17" column="15" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-webapp/src/test/kotlin/jetbrains/charisma/workflow/ProjectWorkflowsTest.kt" />
+      <jump line="18" column="26" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-webapp/src/test/kotlin/jetbrains/charisma/workflow/ProjectWorkflowsTest.kt" />
+      <jump line="24" column="24" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-webapp/src/test/kotlin/jetbrains/charisma/workflow/ProjectWorkflowsTest.kt" />
+      <jump line="182" column="23" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-workflow/src/main/kotlin/jetbrains/charisma/workflow/gaprest/Workflow.kt" />
+      <jump line="188" column="13" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-workflow/src/main/kotlin/jetbrains/charisma/workflow/gaprest/Workflow.kt" />
+      <jump line="168" column="13" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-workflow/src/main/kotlin/jetbrains/charisma/workflow/gaprest/Workflow.kt" />
     </jumps>
     <registers>
       <register name="3" type="4">
@@ -2108,16 +2111,16 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>rule</text>
+        <text>isBroken</text>
       </register>
       <register name="-" type="4">
         <text>login</text>
       </register>
     </registers>
     <search>
-      <last-search>rule</last-search>
+      <last-search>isBroken</last-search>
       <last-offset />
-      <last-pattern>rule</last-pattern>
+      <last-pattern>isBroken</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2125,7 +2128,6 @@
     </search>
     <history>
       <history-search>
-        <entry>locale</entry>
         <entry>import</entry>
         <entry>$location</entry>
         <entry>$window.rel</entry>
@@ -2145,6 +2147,7 @@
         <entry>leader</entry>
         <entry>archive</entry>
         <entry>rule</entry>
+        <entry>isBroken</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;/'/gc</entry>
