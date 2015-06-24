@@ -10,9 +10,6 @@
         <mark key="." line="13" column="12" />
         <mark key="^" line="13" column="12" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/edit-project/workflows.js" timestamp="1435130569921">
-        <mark key="'" line="50" column="39" />
-      </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/reports/test/directive/yt-legend-color-select.js" timestamp="1424075192382">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="13" column="37" />
@@ -735,8 +732,8 @@
       <file name="$USER_HOME$/tmp/wallaby-examples/nodejs/wallaby.js" timestamp="1424765982351">
         <mark key="'" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/admin.js" timestamp="1435069537978">
-        <mark key="'" line="228" column="4" />
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/admin.js" timestamp="1435135932564">
+        <mark key="'" line="2" column="0" />
         <mark key="[" line="47" column="43" />
         <mark key="]" line="47" column="58" />
         <mark key="." line="47" column="58" />
@@ -840,6 +837,9 @@
       </file>
       <file name="$USER_HOME$/www/karma-runner/karma/Gruntfile.coffee" timestamp="1429828639291">
         <mark key="'" line="23" column="0" />
+      </file>
+      <file name="/injection.txt" timestamp="1435136023697">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/reports/_reports/edit/axis.js" timestamp="1425164306331">
         <mark key="'" line="1" column="0" />
@@ -1475,6 +1475,9 @@
         <mark key="." line="10" column="55" />
         <mark key="^" line="10" column="69" />
       </file>
+      <file name="/Dummy.regexp" timestamp="1435136023712">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/www/karma/lib/config.js" timestamp="1427747504972">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="274" column="22" />
@@ -1843,7 +1846,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="221" column="41" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/admin.js" />
       <jump line="214" column="41" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/admin.js" />
       <jump line="172" column="10" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/admin.js" />
       <jump line="166" column="52" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/admin.js" />
@@ -1943,6 +1945,7 @@
       <jump line="33" column="8" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/edit-project/workflows.js" />
       <jump line="373" column="8" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/edit-project/workflows.js" />
       <jump line="50" column="39" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/edit-project/workflows.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/admin.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1986,7 +1989,7 @@
         <text>restoreToDefaultWorkflow</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cGRhdGVXb3JrZmxvd1RhYmxlXD4=</text>
+        <text>createRoute</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIC5maWx0ZXIoaXNXb3JrZmxvdykK</text>
@@ -2026,17 +2029,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cGRhdGVXb3JrZmxvd1RhYmxlXD4=</last-search>
+      <last-search>createRoute</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cGRhdGVXb3JrZmxvd1RhYmxlXD4=</last-pattern>
+      <last-pattern>createRoute</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>templateUrl</entry>
         <entry>templateUrl(</entry>
         <entry>time-tra</entry>
         <entry encoding="base64">XDxjYXNlSW5zZW5zaXRpdmVNYXRjaFw+</entry>
@@ -2056,6 +2058,7 @@
         <entry>resto</entry>
         <entry encoding="base64">XDxyZXN0b3JlVG9EZWZhdWx0V29ya2Zsb3dcPg==</entry>
         <entry encoding="base64">XDx1cGRhdGVXb3JrZmxvd1RhYmxlXD4=</entry>
+        <entry>createRoute</entry>
       </history-search>
       <history-cmd>
         <entry>196</entry>
