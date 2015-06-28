@@ -262,8 +262,8 @@
         <mark key="^" line="8" column="44" />
         <mark key="." line="3" column="25" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/workflow/toolbar.html" timestamp="1435172765045">
-        <mark key="'" line="13" column="28" />
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/workflow/toolbar.html" timestamp="1435521390753">
+        <mark key="'" line="35" column="0" />
         <mark key="[" line="33" column="82" />
         <mark key="]" line="33" column="90" />
         <mark key="^" line="33" column="90" />
@@ -308,6 +308,10 @@
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/webpack.config.js" timestamp="1430224565993">
         <mark key="'" line="38" column="17" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/workflow/table.html" timestamp="1435521348221">
+        <mark key="'" line="10" column="42" />
+        <mark key="[" line="19" column="94" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/settings/language.html" timestamp="1430839558967">
         <mark key="'" line="7" column="0" />
@@ -390,8 +394,12 @@
       <file name="$USER_HOME$/www/karma-runner/karma/test/unit/mocha-globals.coffee" timestamp="1429861452124">
         <mark key="'" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/workflows.html" timestamp="1435076604099">
-        <mark key="[" line="4" column="52" />
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/workflows.html" timestamp="1435521437749">
+        <mark key="'" line="6" column="51" />
+        <mark key="[" line="6" column="67" />
+        <mark key="]" line="6" column="67" />
+        <mark key="^" line="6" column="66" />
+        <mark key="." line="6" column="67" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/karma.conf.js" timestamp="1429539680487">
         <mark key="'" line="77" column="26" />
@@ -1324,6 +1332,10 @@
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/analytics/analytics.js" timestamp="1432123542858">
         <mark key="'" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/workflows.js" timestamp="1435521207236">
+        <mark key="'" line="34" column="62" />
+        <mark key="[" line="28" column="45" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/project-wizard/client/src/pages/project-list/project-list.js" timestamp="1428685010415">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="81" column="0" />
@@ -1848,17 +1860,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/test/controller/workflows.js" />
-      <jump line="136" column="29" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/workflows.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/workflow/toolbar.html" />
-      <jump line="28" column="22" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/workflow/toolbar.html" />
-      <jump line="27" column="15" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/workflow/toolbar.html" />
-      <jump line="32" column="15" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/workflow/toolbar.html" />
-      <jump line="85" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/workflows.js" />
-      <jump line="3" column="21" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/workflow/toolbar.html" />
-      <jump line="37" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/workflow/toolbar.html" />
-      <jump line="82" column="2" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/workflows.js" />
-      <jump line="38" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/test/controller/workflows.js" />
       <jump line="54" column="4" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/test/controller/workflows.js" />
       <jump line="57" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/test/controller/workflows.js" />
       <jump line="69" column="6" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/test/controller/workflows.js" />
@@ -1948,10 +1949,21 @@
       <jump line="32" column="24" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/workflows.js" />
       <jump line="198" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/workflows.js" />
       <jump line="97" column="7" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/edit-project/workflows.js" />
+      <jump line="145" column="10" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/workflows.js" />
+      <jump line="33" column="62" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/workflows.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/workflow/table.html" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/workflow/table.html" />
+      <jump line="19" column="81" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/workflow/table.html" />
+      <jump line="18" column="81" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/workflow/table.html" />
+      <jump line="10" column="42" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/workflow/table.html" />
+      <jump line="18" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/workflow/toolbar.html" />
+      <jump line="35" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/workflow/toolbar.html" />
+      <jump line="20" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/workflows.html" />
+      <jump line="6" column="51" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/workflows.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgKiBAcGFyYW0ge0FycmF5fSB1cGxvYWRlZEZpbGVzIGxpc3Qgb2YgdXBsb2FkZWQgd29ya2Zsb3dzYCBmaWxlcwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ID09PSAw</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1988,52 +2000,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>tableSelectedItems</text>
+        <text encoding="base64">ID09PSAw</text>
       </register>
       <register name="/" type="4">
-        <text>i18n</text>
+        <text>level</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgd29ya2Zsb3dzID0gdGFibGVTZWxlY3RlZEl0ZW1zCiAgICAgICAgICAubWFwKHVud3JhcFRhYmxlSXRlbSkKICAgICAgICAgIC5maWx0ZXIoaXNXb3JrZmxvdykK</text>
+      <register name="0" type="4">
+        <text>isWorkflow(item.data)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgKiBAcGFyYW0ge0FycmF5fSB1cGxvYWRlZEZpbGVzIGxpc3Qgb2YgdXBsb2FkZWQgd29ya2Zsb3dzYCBmaWxlcwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ID09PSAw</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5tYXAodW53cmFwVGFibGVJdGVtKQo=</text>
+      <register name="2" type="4">
+        <text>levelId</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5tYXAodW53cmFwVGFibGVJdGVtKQogICAgICAgICAgLmZpbHRlcihpc1dvcmtmbG93KQo=</text>
+      <register name="3" type="4">
+        <text>item.levelId === 0</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CiAgICAgIC8qKgogICAgICAgKiBAcGFyYW0ge09iamVjdH0gdGFibGVJdGVtCiAgICAgICAqIEByZXR1cm5zIHsqfQogICAgICAgKi8KICAgICAgdmFyIHVud3JhcFRhYmxlSXRlbSA9IGZ1bmN0aW9uKHRhYmxlSXRlbSkgewogICAgICAgIHJldHVybiB0YWJsZUl0ZW0uZGF0YTsKICAgICAgfTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">ID09PSAw</text>
       </register>
       <register name="5" type="4">
-        <text>tableSelectedItems</text>
+        <text>levelId</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>hasType</text>
       </register>
       <register name="7" type="4">
-        <text>.map(unwrapTableItem) .filter(isWorkflow);</text>
+        <text>param</text>
       </register>
-      <register name="8" type="4">
-        <text>tableSelectedItems</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgKiBAcGFyYW0ge0FycmF5fSB1cGxvYWRlZEZpbGVzIGxpc3Qgb2YgdXBsb2FkZWQgd29ya2Zsb3dzYCBmaWxlcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5tYXAodW53cmFwVGFibGVJdGVtKQogICAgICAgICAgLmZpbHRlcihpc1dvcmtmbG93KQo=</text>
+        <text encoding="base64">ICAgICAgICAgIC5tYXAodW53cmFwVGFibGVJdGVtKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>i18n</last-search>
+      <last-search>level</last-search>
       <last-offset />
-      <last-pattern>i18n</last-pattern>
+      <last-pattern>level</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2041,11 +2053,6 @@
     </search>
     <history>
       <history-search>
-        <entry>restore</entry>
-        <entry encoding="base64">XDx3cmFwVG9JdGVtXD4=</entry>
-        <entry>rest</entry>
-        <entry>restoreTo</entry>
-        <entry>resto</entry>
         <entry encoding="base64">XDxyZXN0b3JlVG9EZWZhdWx0V29ya2Zsb3dcPg==</entry>
         <entry encoding="base64">XDx1cGRhdGVXb3JrZmxvd1RhYmxlXD4=</entry>
         <entry>createRoute</entry>
@@ -2061,6 +2068,11 @@
         <entry>isDefault</entry>
         <entry>callH</entry>
         <entry>i18n</entry>
+        <entry>hasWork</entry>
+        <entry>isWor</entry>
+        <entry>leve</entry>
+        <entry>isWork</entry>
+        <entry>level</entry>
       </history-search>
       <history-cmd>
         <entry>196</entry>
