@@ -806,6 +806,13 @@
       <file name="$USER_HOME$/www/karma-runner/karma/lib/middleware/strip_host.js" timestamp="1429827502276">
         <mark key="'" line="16" column="12" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/ring/components/popup/popup.test.js" timestamp="1435679051137">
+        <mark key="'" line="39" column="4" />
+        <mark key="[" line="137" column="4" />
+        <mark key="]" line="137" column="4" />
+        <mark key="^" line="137" column="4" />
+        <mark key="." line="137" column="4" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/widget/directive/yt-notes-widget.js" timestamp="1421767659144">
         <mark key="'" line="84" column="0" />
         <mark key="[" line="1" column="33" />
@@ -1457,6 +1464,13 @@
         <mark key="^" line="132" column="48" />
         <mark key="." line="132" column="48" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/ring/components/permissions/permissions__cache.js" timestamp="1435679202985">
+        <mark key="'" line="237" column="0" />
+        <mark key="[" line="36" column="24" />
+        <mark key="]" line="36" column="24" />
+        <mark key="." line="36" column="24" />
+        <mark key="^" line="36" column="24" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/select/test/directive/yt-select.js" timestamp="1428439836407">
         <mark key="'" line="178" column="0" />
         <mark key="[" line="25" column="0" />
@@ -1863,13 +1877,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="37" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/workflow/toolbar.html" />
-      <jump line="21" column="92" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/workflow/toolbar.html" />
-      <jump line="22" column="22" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/workflow/toolbar.html" />
-      <jump line="129" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/workflows.js" />
-      <jump line="92" column="15" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/workflows.js" />
-      <jump line="147" column="15" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/workflows.js" />
-      <jump line="33" column="8" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/edit-project/workflows.js" />
       <jump line="373" column="8" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/edit-project/workflows.js" />
       <jump line="50" column="39" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/edit-project/workflows.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/admin.js" />
@@ -1963,10 +1970,17 @@
       <jump line="9" column="4" filename="$USER_HOME$/www/jetbrains/ring/wallaby.config.js" />
       <jump line="17" column="0" filename="$USER_HOME$/www/jetbrains/ring/wallaby.config.js" />
       <jump line="107" column="0" filename="$USER_HOME$/www/jetbrains/ring/wallaby.config.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/www/jetbrains/ring/components/popup/popup.test.js" />
+      <jump line="195" column="0" filename="$USER_HOME$/www/jetbrains/ring/components/popup/popup.test.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/ring/components/popup/popup.test.js" />
+      <jump line="39" column="4" filename="$USER_HOME$/www/jetbrains/ring/components/popup/popup.test.js" />
+      <jump line="46" column="1" filename="$USER_HOME$/www/jetbrains/ring/components/permissions/permissions__cache.js" />
+      <jump line="10" column="10" filename="$USER_HOME$/www/jetbrains/ring/components/permissions/permissions__cache.js" />
+      <jump line="237" column="0" filename="$USER_HOME$/www/jetbrains/ring/components/permissions/permissions__cache.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ID09PSAw</text>
+        <text>cachedPermissions</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2003,7 +2017,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID09PSAw</text>
+        <text>cachedPermissions</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWVsZHNQZXJQcm9qZWN0Q3RybFw+</text>
@@ -2012,34 +2026,34 @@
         <text>isWorkflow(item.data)</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ID09PSAw</text>
+        <text>cachedPermissions</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>levelId</text>
-      </register>
-      <register name="3" type="4">
-        <text>item.levelId === 0</text>
-      </register>
-      <register name="4" type="4">
         <text encoding="base64">ID09PSAw</text>
       </register>
-      <register name="5" type="4">
+      <register name="3" type="4">
         <text>levelId</text>
       </register>
+      <register name="4" type="4">
+        <text>item.levelId === 0</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ID09PSAw</text>
+      </register>
       <register name="6" type="4">
-        <text>hasType</text>
+        <text>levelId</text>
       </register>
       <register name="7" type="4">
+        <text>hasType</text>
+      </register>
+      <register name="8" type="4">
         <text>param</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgKiBAcGFyYW0ge0FycmF5fSB1cGxvYWRlZEZpbGVzIGxpc3Qgb2YgdXBsb2FkZWQgd29ya2Zsb3dzYCBmaWxlcwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5tYXAodW53cmFwVGFibGVJdGVtKQo=</text>
+        <text encoding="base64">ICAgICAgICAgKiBAcGFyYW0ge0FycmF5fSB1cGxvYWRlZEZpbGVzIGxpc3Qgb2YgdXBsb2FkZWQgd29ya2Zsb3dzYCBmaWxlcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
