@@ -330,12 +330,12 @@
       <file name="$USER_HOME$/tmp/wallaby-examples/webpack/node_modules/karma-webpack/index.js" timestamp="1424900096755">
         <mark key="'" line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/projects/projects.js" timestamp="1435931931656">
-        <mark key="'" line="18" column="14" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="33" column="44" />
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/projects/projects.js" timestamp="1435939886663">
+        <mark key="'" line="40" column="10" />
+        <mark key="[" line="42" column="66" />
+        <mark key="]" line="42" column="87" />
+        <mark key="." line="42" column="87" />
+        <mark key="^" line="42" column="87" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/analytics/test/analytics-configuration.js" timestamp="1429824984135">
         <mark key="'" line="8" column="0" />
@@ -467,8 +467,8 @@
         <mark key="." line="18" column="1" />
         <mark key="^" line="18" column="1" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/app.js" timestamp="1435930952877">
-        <mark key="'" line="52" column="23" />
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/app.js" timestamp="1435939843560">
+        <mark key="'" line="53" column="23" />
         <mark key="[" line="59" column="18" />
         <mark key="]" line="59" column="25" />
         <mark key="." line="59" column="25" />
@@ -1939,8 +1939,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/sidebar-table/directive/yt-sidebar-table.js" />
-      <jump line="19" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/projects/template/projects.html" />
       <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/projects/template/projects.html" />
       <jump line="30" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/projects/template/projects.html" />
       <jump line="26" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/package.json" />
@@ -2039,10 +2037,12 @@
       <jump line="19" column="7" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/projects/projects.js" />
       <jump line="15" column="6" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/projects/projects.js" />
       <jump line="18" column="14" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/projects/projects.js" />
+      <jump line="40" column="10" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/projects/projects.js" />
+      <jump line="53" column="23" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMucGVybWlzc2lvbik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>{}</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2079,52 +2079,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.permission</text>
+        <text>{}</text>
       </register>
       <register name="/" type="4">
-        <text>route</text>
+        <text>onError</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAndXNlclBlcm1pc3Npb25zJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAnJHJvdXRlJywK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMucGVybWlzc2lvbik7Cg==</text>
+      <register name="1" type="4">
+        <text>{}</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdwcm9qZWN0cy5qcycsICRyb3V0ZS4kJHJvdXRlKTsK</text>
+      <register name="2" type="4">
+        <text>,</text>
       </register>
-      <register name="3" type="4">
-        <text>.permission</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGRlc2NyaXB0aW9uOiAnJwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAnJHJvdXRlJywK</text>
+      <register name="4" type="4">
+        <text>Jk</text>
       </register>
-      <register name="5" type="4">
-        <text>userPermissions</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIG9uRXJyb3JVcmw6ICcvZGFzYmhvYXJkJywK</text>
       </register>
-      <register name="6" type="4">
-        <text>userPermissions</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coaGFzUGVybWlzc2lvbnMpOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>route</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="8" type="4">
+        <text>$route</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRoaXMucGVybWlzc2lvbik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>route</last-search>
+      <last-search>onError</last-search>
       <last-offset />
-      <last-pattern>route</last-pattern>
+      <last-pattern>onError</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2132,7 +2132,6 @@
     </search>
     <history>
       <history-search>
-        <entry>context</entry>
         <entry>getConte</entry>
         <entry encoding="base64">XDxnZXRBdmF0YXJcPg==</entry>
         <entry>avat</entry>
@@ -2152,6 +2151,7 @@
         <entry encoding="base64">XDxwZXJtaXNzaW9uXD4=</entry>
         <entry>permission</entry>
         <entry>route</entry>
+        <entry>onError</entry>
       </history-search>
       <history-cmd>
         <entry>196</entry>
