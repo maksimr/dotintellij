@@ -928,6 +928,11 @@
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/node_modules/ring-dashboard/node_modules/youtracknewui/static/scripts/youtrack-reports.js" timestamp="1425070118588">
         <mark key="'" line="5366" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/hub/node_modules/hub/node_modules/angular/angular.js" timestamp="1435922485252">
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/project-wizard/client/src/blocks/youtrack-integration/youtrack-integration.spec.js" timestamp="1428684343428">
         <mark key="'" line="52" column="0" />
         <mark key="[" line="52" column="20" />
@@ -1002,12 +1007,6 @@
         <mark key="]" line="18" column="27" />
         <mark key="." line="18" column="27" />
         <mark key="^" line="18" column="27" />
-      </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/node_modules/ring-dashboard/app/widgets/youtrack-report/youtrack-report__simple-bars-widget/youtrack-report__simple-bars-widget.js" timestamp="1435926157467">
-        <mark key="'" line="5" column="10" />
-        <mark key="[" line="124" column="0" />
-        <mark key="]" line="124" column="0" />
-        <mark key="." line="124" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/hub-resource.js" timestamp="1430138516470">
         <mark key="'" line="42" column="0" />
@@ -1509,11 +1508,10 @@
         <mark key="^" line="77" column="34" />
         <mark key="." line="77" column="34" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/index.html" timestamp="1436174228333">
-        <mark key="'" line="477" column="0" />
-        <mark key="[" line="264" column="0" />
-        <mark key="]" line="264" column="0" />
-        <mark key="." line="264" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/index.html" timestamp="1436190449430">
+        <mark key="[" line="363" column="0" />
+        <mark key="]" line="363" column="0" />
+        <mark key="." line="363" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/ring/components/permissions/permissions__cache.js" timestamp="1435679939671">
         <mark key="'" line="97" column="18" />
@@ -1948,8 +1946,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="532" column="9" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/index.html" />
-      <jump line="27" column="79" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/index.html" />
       <jump line="29" column="35" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/index.html" />
       <jump line="68" column="14" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/projects/projects.js" />
       <jump line="255" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/app.js" />
@@ -2048,10 +2044,12 @@
       <jump line="30" column="15" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/directive/workflow/yt-project-usage-collection.js" />
       <jump line="24" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/directive/workflow/yt-project-usage-collection.js" />
       <jump line="82" column="2" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/directive/workflow/yt-project-usage-collection.js" />
+      <jump line="57" column="15" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/index.html" />
+      <jump line="363" column="53" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/index.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ctrl.usages</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PHNjcmlwdCBzcmM9InBhZ2VzL2FkbWluL2NvbnRyb2xsZXIvd29ya2Zsb3dzL2NoYW5nZS13b3JrZmxvdy11c2FnZXMuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2091,49 +2089,49 @@
         <text>ctrl.usages</text>
       </register>
       <register name="/" type="4">
-        <text>values</text>
+        <text>workflow-usages</text>
       </register>
       <register name="0" type="4">
         <text>ctrl.usages</text>
       </register>
-      <register name="1" type="4">
-        <text>ctrl.usages</text>
+      <register name="1" type="2">
+        <text encoding="base64">PHNjcmlwdCBzcmM9InBhZ2VzL2FkbWluL2NvbnRyb2xsZXIvd29ya2Zsb3dzL2NoYW5nZS13b3JrZmxvdy11c2FnZXMuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text>ctrl.usages</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgIG5nLWluaXQ9InZhbHVlcyA9IGN0cmwudXNhZ2VzIgo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>values</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgIG5nLWluaXQ9InZhbHVlcyA9IGN0cmwudXNhZ2VzIgo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>true</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>rg-error-page=&quot;workflowSource&quot;</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGl0KCdzaG91bGQgbm90IHJlc3RvcmUgaWYgd29ya2Zsb3cgYWxyZWFkeSBkZWZhdWx0JywgZnVuY3Rpb24oKSB7CiAgICAgIHZhciB3b3JrZmxvd01vY2sgPSBjcmVhdGVSZXN0b3JlV29ya2Zsb3coJ2RlZmF1bHQnKTsKICAgICAgdmFyIHNlbGVjdGVkSXRlbXNNb2NrID0gW3dyYXBUb0l0ZW0od29ya2Zsb3dNb2NrKV07CgogICAgICAkc2NvcGUucmVzdG9yZVRvRGVmYXVsdFdvcmtmbG93KHNlbGVjdGVkSXRlbXNNb2NrKTsKICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>values</last-search>
+      <last-search>workflow-usages</last-search>
       <last-offset />
-      <last-pattern>values</last-pattern>
+      <last-pattern>workflow-usages</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2141,7 +2139,6 @@
     </search>
     <history>
       <history-search>
-        <entry>permissions</entry>
         <entry>read</entry>
         <entry>permis</entry>
         <entry encoding="base64">XDx3b3JrZmxvd1NvdXJjZVw+</entry>
@@ -2161,6 +2158,7 @@
         <entry encoding="base64">XDx2YWx1ZXNcPg==</entry>
         <entry>usages</entry>
         <entry>values</entry>
+        <entry>workflow-usages</entry>
       </history-search>
       <history-cmd>
         <entry>196</entry>
