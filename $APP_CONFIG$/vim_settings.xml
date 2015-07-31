@@ -1133,6 +1133,9 @@
       <file name="$USER_HOME$/tmp/wallaby-examples/webpack/node_modules/webpack/lib/Compiler.js" timestamp="1424900116729">
         <mark key="'" line="247" column="10" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/custom-fields/custom-field-template-edit-form.html" timestamp="1438340561260">
+        <mark key="'" line="127" column="21" />
+      </file>
       <file name="$USER_HOME$/www/karma/lib/runner.js" timestamp="1427756415310">
         <mark key="'" line="69" column="0" />
       </file>
@@ -2063,12 +2066,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="491" column="12" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/node_modules/ring-ui/components/select-ng/select-ng.js" />
-      <jump line="46" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/node_modules/ring-ui/components/select-ng/select-ng.js" />
-      <jump line="41" column="0" filename="$USER_HOME$/www/jetbrains/ring/components/select-ng/select-ng.js" />
-      <jump line="184" column="8" filename="$USER_HOME$/www/jetbrains/ring/components/select-ng/select-ng.js" />
-      <jump line="166" column="27" filename="$USER_HOME$/www/jetbrains/ring/components/select-ng/select-ng.js" />
-      <jump line="170" column="100" filename="$USER_HOME$/www/jetbrains/ring/components/select-ng/select-ng.js" />
       <jump line="266" column="98" filename="$USER_HOME$/www/jetbrains/ring/components/select-ng/select-ng.js" />
       <jump line="262" column="15" filename="$USER_HOME$/www/jetbrains/ring/components/select-ng/select-ng.js" />
       <jump line="267" column="8" filename="$USER_HOME$/www/jetbrains/ring/components/select-ng/select-ng.js" />
@@ -2163,6 +2160,12 @@
       <jump line="367" column="64" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/index.html" />
       <jump line="25" column="20" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/index.html" />
       <jump line="61" column="31" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields/custom-fields-per-project.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/custom-fields/custom-field-template-edit-form.html" />
+      <jump line="29" column="26" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/custom-fields/custom-field-template-edit-form.html" />
+      <jump line="84" column="9" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/custom-fields/custom-field-template-edit-form.html" />
+      <jump line="104" column="26" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/custom-fields/custom-field-template-edit-form.html" />
+      <jump line="108" column="26" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/custom-fields/custom-field-template-edit-form.html" />
+      <jump line="127" column="21" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/custom-fields/custom-field-template-edit-form.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2206,7 +2209,7 @@
         <text>sting</text>
       </register>
       <register name="/" type="4">
-        <text>custom-field</text>
+        <text>type</text>
       </register>
       <register name="0" type="4">
         <text>UseExistingProjectFieldCreateFormCtrl</text>
@@ -2246,9 +2249,9 @@
       </register>
     </registers>
     <search>
-      <last-search>custom-field</last-search>
+      <last-search>type</last-search>
       <last-offset />
-      <last-pattern>custom-field</last-pattern>
+      <last-pattern>type</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2256,7 +2259,6 @@
     </search>
     <history>
       <history-search>
-        <entry>config</entry>
         <entry>filter:</entry>
         <entry>multi</entry>
         <entry encoding="base64">XDxtdWx0aXBsZVw+</entry>
@@ -2276,6 +2278,7 @@
         <entry>owners</entry>
         <entry encoding="base64">XDxlZGl0QnVuZGxlVmFsdWVGb3JtXD4=</entry>
         <entry>custom-field</entry>
+        <entry>type</entry>
       </history-search>
       <history-cmd>
         <entry>196</entry>
