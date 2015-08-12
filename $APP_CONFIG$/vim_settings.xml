@@ -53,12 +53,12 @@
         <mark key="." line="22" column="1" />
         <mark key="[" line="21" column="5" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/package.json" timestamp="1433320033757">
-        <mark key="'" line="97" column="0" />
-        <mark key="]" line="27" column="143" />
-        <mark key="^" line="25" column="25" />
-        <mark key="." line="27" column="143" />
-        <mark key="[" line="27" column="142" />
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/package.json" timestamp="1439381062806">
+        <mark key="'" line="0" column="0" />
+        <mark key="]" line="94" column="115" />
+        <mark key="^" line="94" column="115" />
+        <mark key="." line="94" column="115" />
+        <mark key="[" line="94" column="115" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/mailbox-settings/table.html" timestamp="1433255240126">
         <mark key="'" line="30" column="0" />
@@ -171,7 +171,7 @@
         <mark key="'" line="74" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/externals/vcs-changes/directive/yt-vcs-change.js" timestamp="1439377289494">
-        <mark key="'" line="194" column="2" />
+        <mark key="'" line="191" column="2" />
       </file>
       <file name="$USER_HOME$/www/karma-runner/karma-jasmine/node_modules/karma/static/karma.js" timestamp="1431546528789">
         <mark key="'" line="409" column="0" />
@@ -1413,6 +1413,12 @@
         <mark key="." line="5" column="0" />
         <mark key="[" line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/externals/vcs-changes/vcs-changes.js" timestamp="1439381284989">
+        <mark key="'" line="41" column="0" />
+        <mark key="]" line="0" column="42" />
+        <mark key="^" line="0" column="42" />
+        <mark key="." line="0" column="42" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/test/service/get-update-info.js" timestamp="1432215972371">
         <mark key="'" line="63" column="0" />
         <mark key="]" line="63" column="0" />
@@ -1833,7 +1839,7 @@
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/upsource/style/yt-upsource-reviews.scss" timestamp="1425371807919">
         <mark key="'" line="34" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1439377334745">
+      <file name="/Dummy.txt" timestamp="1439380872709">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-vcs-ci-integration/source_gen/jetbrains/youtrack/integration/rest/ChangesProcessor.java" timestamp="1432290963251">
@@ -1938,10 +1944,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="21" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/settings/language.html" />
-      <jump line="47" column="39" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/settings.js" />
-      <jump line="126" column="32" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/settings.js" />
-      <jump line="198" column="43" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/settings.js" />
       <jump line="252" column="10" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/settings.js" />
       <jump line="17" column="21" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/settings.js" />
       <jump line="122" column="42" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/settings.js" />
@@ -2038,46 +2040,50 @@
       <jump line="203" column="2" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/externals/vcs-changes/directive/yt-vcs-change.js" />
       <jump line="16" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/externals/vcs-changes/directive/yt-vcs-change.js" />
       <jump line="194" column="2" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/externals/vcs-changes/directive/yt-vcs-change.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/package.json" />
+      <jump line="21" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/externals/vcs-changes/vcs-changes.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/externals/vcs-changes/vcs-changes.js" />
+      <jump line="41" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/externals/vcs-changes/vcs-changes.js" />
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text>null</text>
+        <text>login</text>
       </register>
       <register name="&quot;" type="4">
-        <text>login</text>
+        <text encoding="base64">JiYgY2QgaHViLyAmJiBucG0gaW5zdGFsbCAmJiBucG0gcnVuIGJ1aWxkICYmIG1rZGlyIC4uL2Rpc3QvYWRtaW4gJiYgbXYgZGlzdCAuLi9kaXN0L2FkbWluL2h1Yg==</text>
       </register>
       <register name="2" type="4">
         <text>login</text>
       </register>
       <register name="1" type="4">
-        <text>login</text>
+        <text encoding="base64">JiYgY2QgaHViLyAmJiBucG0gaW5zdGFsbCAmJiBucG0gcnVuIGJ1aWxkICYmIG1rZGlyIC4uL2Rpc3QvYWRtaW4gJiYgbXYgZGlzdCAuLi9kaXN0L2FkbWluL2h1Yg==</text>
       </register>
-      <register name="0" type="4">
-        <text>$scope.currentUser.login</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICJidWlsZCI6ICJncnVudCAmJiBjZCBodWIvICYmIG5wbSBpbnN0YWxsICYmIG5wbSBydW4gYnVpbGQgJiYgbWtkaXIgLi4vZGlzdC9hZG1pbiAmJiBtdiBkaXN0IC4uL2Rpc3QvYWRtaW4vaHViIgo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICRodHRwQmFja2VuZC5leHBlY3RHRVQoJy9yZXN0L2FkbWluL3VzZXIvY3VycmVudCcpCiAgICAgIC5yZXNwb25kKHt9KTsK</text>
-      </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>admin/</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHt7Y3VycmVudFVzZXIgfCBqc29ufX0K</text>
+      </register>
+      <register name="5" type="4">
+        <text>settings.notificationSettings.jabberSettings</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="4" type="4">
-        <text>settings.notificationSettings.jabberSettings</text>
+        <text>null</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>/api/admin/globalSettings?fields=</text>
-      </register>
-      <register name="8" type="4">
         <text encoding="base64">ICsgJHNjb3BlLmZpZWxkc1NldHRpbmdzUXVlcnk=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICRodHRwQmFja2VuZC5leHBlY3RHRVQoJy9yZXN0L2FkbWluL3VzZXIvY3VycmVudCcpCiAgICAgIC5yZXNwb25kKHt9KTsK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2117,7 +2123,7 @@
         <text encoding="base64">XDxXb3JrZmxvd1J1bGVVc2FnZVw+</text>
       </register>
       <register name="-" type="4">
-        <text>login</text>
+        <text encoding="base64">JiYgY2QgaHViLyAmJiBucG0gaW5zdGFsbCAmJiBucG0gcnVuIGJ1aWxkICYmIG1rZGlyIC4uL2Rpc3QvYWRtaW4gJiYgbXYgZGlzdCAuLi9kaXN0L2FkbWluL2h1Yg==</text>
       </register>
     </registers>
     <search>
