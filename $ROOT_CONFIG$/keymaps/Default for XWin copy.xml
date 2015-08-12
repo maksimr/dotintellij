@@ -11,6 +11,14 @@
     <keyboard-shortcut first-keystroke="control L" />
     <keyboard-shortcut first-keystroke="alt N" />
   </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt F7" />
+    <keyboard-shortcut first-keystroke="alt F" second-keystroke="shift U" />
+  </action>
+  <action id="FindUsagesInFile">
+    <keyboard-shortcut first-keystroke="control F7" />
+    <keyboard-shortcut first-keystroke="alt F" second-keystroke="U" />
+  </action>
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="F2" />
     <keyboard-shortcut first-keystroke="alt E" />
