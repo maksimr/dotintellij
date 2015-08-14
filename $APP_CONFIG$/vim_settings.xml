@@ -53,8 +53,8 @@
         <mark key="." line="22" column="1" />
         <mark key="[" line="21" column="5" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/package.json" timestamp="1439464131202">
-        <mark key="'" line="26" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/package.json" timestamp="1439552699060">
+        <mark key="'" line="34" column="21" />
         <mark key="]" line="94" column="115" />
         <mark key="^" line="94" column="115" />
         <mark key="." line="94" column="115" />
@@ -2055,19 +2055,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="6" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/built-in-components.config.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/built-in-components.config.js" />
-      <jump line="60" column="4" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/built-in-components.config.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/admin.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/wallaby.js" />
-      <jump line="97" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/wallaby.js" />
-      <jump line="100" column="29" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/wallaby.js" />
-      <jump line="91" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/wallaby.js" />
-      <jump line="79" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/wallaby.js" />
-      <jump line="68" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/wallaby.js" />
-      <jump line="70" column="60" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/wallaby.js" />
-      <jump line="69" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/wallaby.js" />
-      <jump line="120" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/wallaby.js" />
       <jump line="118" column="6" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/wallaby.js" />
       <jump line="4" column="4" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/wallaby.js" />
       <jump line="46" column="20" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/wallaby.js" />
@@ -2155,6 +2142,19 @@
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/permissions/permissions.js" />
       <jump line="7" column="19" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/permissions/permissions.js" />
       <jump line="73" column="16" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/permissions/permissions.js" />
+      <jump line="10" column="8" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/package.json" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/package.json" />
+      <jump line="1" column="20" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/package.json" />
+      <jump line="18" column="11" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/package.json" />
+      <jump line="15" column="11" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/package.json" />
+      <jump line="99" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/package.json" />
+      <jump line="17" column="30" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/package.json" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/package.json" />
+      <jump line="91" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/package.json" />
+      <jump line="95" column="26" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/package.json" />
+      <jump line="29" column="3" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/package.json" />
+      <jump line="83" column="13" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/package.json" />
+      <jump line="34" column="21" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/package.json" />
     </jumps>
     <registers>
       <register name="3" type="4">
@@ -2188,7 +2188,7 @@
         <text>,</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>only</text>
       </register>
       <register name="9" type="4">
         <text>service/issues</text>
@@ -2231,16 +2231,16 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>route</text>
+        <text>dev</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICYgaHViLmdyb3VwLWNyZWF0ZQ==</text>
       </register>
     </registers>
     <search>
-      <last-search>route</last-search>
+      <last-search>dev</last-search>
       <last-offset />
-      <last-pattern>route</last-pattern>
+      <last-pattern>dev</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2248,8 +2248,6 @@
     </search>
     <history>
       <history-search>
-        <entry>template</entry>
-        <entry>externals</entry>
         <entry>auth</entry>
         <entry>run</entry>
         <entry>promo</entry>
@@ -2268,6 +2266,8 @@
         <entry>eror</entry>
         <entry>watch-folder</entry>
         <entry>route</entry>
+        <entry>test</entry>
+        <entry>dev</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;/'/gc</entry>
@@ -2275,6 +2275,13 @@
         <entry>q</entry>
         <entry>W</entry>
         <entry>w</entry>
+        <entry>Annotate</entry>
+        <entry>/test</entry>
+        <entry>vsplit</entry>
+        <entry>unsplit</entry>
+        <entry>hide</entry>
+        <entry>show</entry>
+        <entry>only</entry>
       </history-cmd>
       <history-expr />
       <history-input />
