@@ -1,0 +1,27 @@
+<templateSet group="user">
+  <template name="bootstrap" value="&lt;link rel=&quot;stylesheet&quot; href=&quot;//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css&quot;/&gt;" description="Set link on bootstrap cdn" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="XML_TEXT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+  <template name="!ec" value="expect($IT$).toHaveBeenCalled();" description="expect().toHaveBeenCalled()" toReformat="true" toShortenFQNames="true">
+    <variable name="IT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML_TEXT" value="false" />
+      <option name="HTML" value="false" />
+      <option name="XSL_TEXT" value="false" />
+      <option name="XML" value="false" />
+      <option name="XML_TEXT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="OTHER" value="false" />
+    </context>
+  </template>
+</templateSet>
