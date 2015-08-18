@@ -127,6 +127,9 @@
       <file name="$USER_HOME$/www/karma-runner/karma-jasmine/lib/index.js" timestamp="1431546928988">
         <mark key="'" line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/vcs/vcs-integration-form.js" timestamp="1439888279389">
+        <mark key="'" line="19" column="73" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/hub/package.json" timestamp="1439555414959">
         <mark key="'" line="11" column="0" />
       </file>
@@ -961,6 +964,11 @@
         <mark key="]" line="52" column="23" />
         <mark key="^" line="52" column="23" />
         <mark key="." line="52" column="23" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/components/resources/service/vcs-integration-resource.js" timestamp="1439888385322">
+        <mark key="'" line="5" column="10" />
+        <mark key="[" line="23" column="32" />
+        <mark key="]" line="23" column="99" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/reports/test/e2e/reports.js" timestamp="1427052332219">
         <mark key="'" line="11" column="0" />
@@ -1881,6 +1889,9 @@
         <mark key="^" line="12" column="12" />
         <mark key="." line="12" column="12" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/pages/admin/service/cleared-vcs-integration.js" timestamp="1439888596666">
+        <mark key="'" line="27" column="2" />
+      </file>
       <file name="$USER_HOME$/tmp/wallaby-examples/webpack/node_modules/webpack/lib/Compilation.js" timestamp="1424900129104">
         <mark key="'" line="772" column="8" />
       </file>
@@ -2056,10 +2067,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="2" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/package.json" />
-      <jump line="96" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/package.json" />
-      <jump line="9" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/app.js" />
-      <jump line="37" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/app.js" />
       <jump line="29" column="34" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/app.js" />
       <jump line="87" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/app.js" />
       <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/app.js" />
@@ -2156,10 +2163,14 @@
       <jump line="119" column="51" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/components/header/directive/yt-header.js" />
       <jump line="120" column="78" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/components/header/directive/yt-header.js" />
       <jump line="145" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/components/header/directive/yt-header.js" />
+      <jump line="19" column="73" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/vcs/vcs-integration-form.js" />
+      <jump line="5" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/components/resources/service/vcs-integration-resource.js" />
+      <jump line="10" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/pages/admin/service/cleared-vcs-integration.js" />
+      <jump line="27" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/pages/admin/service/cleared-vcs-integration.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>api/admin/integrations/vcsHostingServers/:serverId/changesProcessors</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2199,10 +2210,10 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>headerItems</text>
+        <text encoding="base64">XDxyZXBvc2l0b3JpZXNNZXRob2RcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>vcsIntegrationType</text>
+        <text>api/admin/integrations/vcsHostingServers/:serverId/changesProcessors</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
@@ -2239,18 +2250,16 @@
       </register>
     </registers>
     <search>
-      <last-search>headerItems</last-search>
+      <last-search encoding="base64">XDxyZXBvc2l0b3JpZXNNZXRob2RcPg==</last-search>
       <last-offset />
-      <last-pattern>headerItems</last-pattern>
+      <last-pattern encoding="base64">XDxyZXBvc2l0b3JpZXNNZXRob2RcPg==</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>components</entry>
-        <entry>dashb</entry>
         <entry>dashboard</entry>
         <entry>lib</entry>
         <entry>create</entry>
@@ -2269,6 +2278,8 @@
         <entry>sett</entry>
         <entry encoding="base64">XDxzZXR0aW5nc1w+</entry>
         <entry>headerItems</entry>
+        <entry>check</entry>
+        <entry encoding="base64">XDxyZXBvc2l0b3JpZXNNZXRob2RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;/'/gc</entry>
