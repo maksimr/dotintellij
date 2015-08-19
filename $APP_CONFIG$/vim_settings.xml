@@ -1667,12 +1667,12 @@
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/node_modules/ring-ui/components/button/button.jsx" timestamp="1430818842598">
         <mark key="'" line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/externals/vcs-changes/test/controller/vcs-changes.js" timestamp="1439999302038">
-        <mark key="'" line="86" column="0" />
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="37" />
-        <mark key="." line="71" column="0" />
-        <mark key="^" line="82" column="21" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/externals/vcs-changes/test/controller/vcs-changes.js" timestamp="1439999953214">
+        <mark key="'" line="110" column="3" />
+        <mark key="[" line="110" column="33" />
+        <mark key="]" line="110" column="33" />
+        <mark key="^" line="110" column="44" />
+        <mark key="." line="110" column="33" />
       </file>
       <file name="$USER_HOME$/www/karma-runner/karma/lib/launchers/process.js" timestamp="1429710526737">
         <mark key="'" line="103" column="22" />
@@ -2176,10 +2176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="119" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/vcs-integration-resource.js" />
-      <jump line="18" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/components/resources/service/vcs-integration-resource.js" />
-      <jump line="55" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/vcs-integration-resource.js" />
-      <jump line="75" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/vcs-integration-resource.js" />
       <jump line="16" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/vcs-integration-resource.js" />
       <jump line="17" column="56" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/vcs-integration-resource.js" />
       <jump line="18" column="53" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/vcs-integration-resource.js" />
@@ -2276,10 +2272,14 @@
       <jump line="65" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/externals/vcs-changes/test/controller/vcs-changes.js" />
       <jump line="74" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/externals/vcs-changes/test/controller/vcs-changes.js" />
       <jump line="80" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/externals/vcs-changes/test/controller/vcs-changes.js" />
+      <jump line="84" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/externals/vcs-changes/test/controller/vcs-changes.js" />
+      <jump line="102" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/externals/vcs-changes/test/controller/vcs-changes.js" />
+      <jump line="106" column="1" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/externals/vcs-changes/test/controller/vcs-changes.js" />
+      <jump line="110" column="3" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/externals/vcs-changes/test/controller/vcs-changes.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhciBnZXRVc2VySW5mb1Jlc3BvbnNlTW9jayA9IHt9Owo=</text>
+      <register name="&quot;" type="4">
+        <text>.description</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2316,43 +2316,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>.description</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICRodHRwQmFja2VuZC53aGVuR0VUKHRvUmVnRXhwKCdodHRwczovL3Vwc291cmNlLmxhYnMuaW50ZWxsaWoubmV0L35ycGMvZ2V0UmV2aWV3cycpKQogICAgICAucmVzcG9uZCh0b0pzb24oe30pKTsK</text>
+        <text encoding="base64">ICBpdCgnc2hvdWxkIHRha2UgY2hhbmdlcycsIGZ1bmN0aW9uKCkgewogICAgJGh0dHBCYWNrZW5kLmZsdXNoKCk7CiAgICBleHBlY3QoJHNjb3BlLmNoYW5nZXMubGVuZ3RoKS50b0VxdWFsKDEpOwogIH0pOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhciBnZXRVc2VySW5mb1Jlc3BvbnNlTW9jayA9IHt9Owo=</text>
+      <register name="1" type="4">
+        <text>.description</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>data</text>
+        <text>changes</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhciBnZXRSZXZpZXdzUmVzcG9uc2VNb2NrID0ge307Cg==</text>
+      <register name="3" type="4">
+        <text>take</text>
       </register>
       <register name="4" type="4">
-        <text>data</text>
+        <text>reviews</text>
       </register>
-      <register name="5" type="4">
-        <text>https://upsource.labs.intellij.net/~rpc/getReviews</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHZhciBnZXRVc2VySW5mb1Jlc3BvbnNlTW9jayA9IHt9Owo=</text>
       </register>
       <register name="6" type="4">
-        <text>upsourceTripletsResponseMock</text>
+        <text>data</text>
       </register>
-      <register name="7" type="4">
-        <text>/rest/upsourceTriplets/1</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHZhciBnZXRSZXZpZXdzUmVzcG9uc2VNb2NrID0ge307Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>data</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="9" type="4">
+        <text>https://upsource.labs.intellij.net/~rpc/getReviews</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
