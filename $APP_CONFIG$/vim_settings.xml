@@ -295,11 +295,11 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields/bundle-value-owned-edit.js" timestamp="1439896094434">
         <mark key="'" line="4" column="19" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/pages/admin/test/service/vcs-integration.js" timestamp="1439939800329">
-        <mark key="'" line="92" column="4" />
-        <mark key="[" line="123" column="0" />
-        <mark key="]" line="123" column="0" />
-        <mark key="." line="123" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/pages/admin/test/service/vcs-integration.js" timestamp="1439977313642">
+        <mark key="'" line="157" column="0" />
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="121" column="0" />
+        <mark key="." line="121" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/reports/_reports/edit/context-query-input.html" timestamp="1423395787246">
         <mark key="'" line="9" column="0" />
@@ -1298,6 +1298,7 @@
       <file name="$USER_HOME$/www/karma-runner/karma/lib/constants.js" timestamp="1429295928153">
         <mark key="'" line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/components/resources/service/integration-resource-factory.js" timestamp="1439977042253" />
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/notification-templates.js" timestamp="1431448068821">
         <mark key="'" line="37" column="0" />
       </file>
@@ -1597,12 +1598,12 @@
         <mark key="^" line="4" column="25751" />
         <mark key="." line="4" column="25739" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/vcs-integration-resource.js" timestamp="1439939726697">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/components/resources/test/service/vcs-integration-resource.js" timestamp="1439977171627">
         <mark key="'" line="84" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="8" column="3" />
+        <mark key="[" line="59" column="68" />
+        <mark key="]" line="59" column="68" />
         <mark key="^" line="70" column="1" />
-        <mark key="." line="45" column="0" />
+        <mark key="." line="59" column="68" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/blocks/widgets/youtrack.js" timestamp="1421752678913">
         <mark key="'" line="90" column="2" />
@@ -2138,10 +2139,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/edit-project/team.html" />
-      <jump line="17" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/pages/admin/test/controller/edit-project/edit-project-team.js" />
-      <jump line="27" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/pages/admin/test/controller/edit-project/edit-project-team.js" />
-      <jump line="14" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/pages/admin/test/controller/edit-project/edit-project-team.js" />
       <jump line="9" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/pages/admin/test/controller/edit-project/edit-project-team.js" />
       <jump line="20" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/edit-project/team.js" />
       <jump line="65" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/edit-project/team.js" />
@@ -2238,10 +2235,14 @@
       <jump line="143" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/pages/admin/service/vcs-integration.js" />
       <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/pages/admin/service/vcs-integration.js" />
       <jump line="141" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/pages/admin/service/vcs-integration.js" />
+      <jump line="146" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/pages/admin/test/service/vcs-integration.js" />
+      <jump line="156" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/pages/admin/test/service/vcs-integration.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/pages/admin/test/service/vcs-integration.js" />
+      <jump line="157" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/pages/admin/test/service/vcs-integration.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgc2VydmVySWQ6ICdmb28nLAo=</text>
+      <register name="&quot;" type="4">
+        <text>\\?fields=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2278,7 +2279,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/\/api\/admin\/integrations\/vcsHostingServers\/foo\/changesProcessors/</text>
+        <text>\\?fields=</text>
       </register>
       <register name="/" type="4">
         <text>toggle</text>
@@ -2286,8 +2287,8 @@
       <register name="0" type="4">
         <text>toRegExp('/api/admin/integration/vcsHostingServers/foo/changesProcessors')</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgc2VydmVySWQ6ICdmb28nLAo=</text>
+      <register name="1" type="4">
+        <text>\\?fields=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -2296,25 +2297,25 @@
         <text encoding="base64">ICAgICAgc2VydmVySWQ6ICdmb28nLAo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgc2VydmVySWQ6ICdmb28nLAo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHRvUmVnRXhwKCcvYXBpL2FkbWluL2ludGVncmF0aW9uL3Zjc0hvc3RpbmdTZXJ2ZXJzL2Zvby9jaGFuZ2VzUHJvY2Vzc29ycycpCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>/\/api\/admin\/integrations\/vcsHostingServers\/foo\/changesProcessors/</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB2YXIgcmVzdFVybCA9IGZ1bmN0aW9uKHBhdGgpIHsKICAgIHJldHVybiAnL2FwaS9hZG1pbicgKyBwYXRoOwogIH07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB2YXIgUFJPQ0VTU09SU19GSUVMRFMgPSAnaWQsc2VydmVyKGlkKSxlbmFibGVkLGxvZ2luLHJlcG9zaXRvcnlPd25lcixicmFuY2hTcGVjaWZpY2F0aW9uLHJlcG9zaXRvcnksYnJhbmNoLGNvbW1pdHRlcnMoaWQsbmFtZSxyaW5nSWQpLHByb2plY3QoaWQsbmFtZSksdmlzaWJsZUZvckdyb3VwcyhpZCxuYW1lLHJpbmdJZCksbWlncmF0aW9uRmFpbGVkJzsK</text>
+        <text encoding="base64">ICB2YXIgcmVzdFVybCA9IGZ1bmN0aW9uKHBhdGgpIHsKICAgIHJldHVybiAnL2FwaS9hZG1pbicgKyBwYXRoOwogIH07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB2YXIgU0VSVkVSX0ZJRUxEUyA9ICdpZCxjaGFuZ2VzUHJvY2Vzc29ycygnICsgUFJPQ0VTU09SU19GSUVMRFMgKyAnKSc7Cg==</text>
+        <text encoding="base64">ICB2YXIgUFJPQ0VTU09SU19GSUVMRFMgPSAnaWQsc2VydmVyKGlkKSxlbmFibGVkLGxvZ2luLHJlcG9zaXRvcnlPd25lcixicmFuY2hTcGVjaWZpY2F0aW9uLHJlcG9zaXRvcnksYnJhbmNoLGNvbW1pdHRlcnMoaWQsbmFtZSxyaW5nSWQpLHByb2plY3QoaWQsbmFtZSksdmlzaWJsZUZvckdyb3VwcyhpZCxuYW1lLHJpbmdJZCksbWlncmF0aW9uRmFpbGVkJzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
