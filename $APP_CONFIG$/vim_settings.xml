@@ -24,8 +24,8 @@
         <mark key="^" line="32" column="1" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/edit-project.html" timestamp="1439989034658">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/edit-project.html" timestamp="1439991634964">
+        <mark key="'" line="41" column="13" />
         <mark key="[" line="38" column="30" />
         <mark key="]" line="38" column="36" />
         <mark key="." line="38" column="36" />
@@ -1091,6 +1091,9 @@
         <mark key="^" line="109" column="44" />
         <mark key="." line="109" column="44" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/edit-project/edit.html" timestamp="1439991695844">
+        <mark key="'" line="98" column="110" />
+      </file>
       <file name="$USER_HOME$/www/karma-runner/karma/lib/middleware/karma.js" timestamp="1429828721901">
         <mark key="'" line="62" column="5" />
         <mark key="[" line="167" column="67" />
@@ -2145,11 +2148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/pages/admin/test/controller/edit-project/edit-project-team.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/pages/admin/test/controller/edit-project/edit-project-team.js" />
-      <jump line="77" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/edit-project/team.js" />
-      <jump line="47" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/pages/admin/test/controller/edit-project/edit-project-team.js" />
-      <jump line="48" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/pages/admin/test/controller/edit-project/edit-project-team.js" />
       <jump line="30" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/edit-project/team.js" />
       <jump line="69" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/pages/admin/test/controller/edit-project/edit-project-team.js" />
       <jump line="45" column="62" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/edit-project/team.js" />
@@ -2245,6 +2243,11 @@
       <jump line="14" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/edit-project.html" />
       <jump line="73" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/edit-project.html" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/edit-project.html" />
+      <jump line="41" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/edit-project.html" />
+      <jump line="8" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/edit-project/edit.html" />
+      <jump line="47" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/edit-project/edit.html" />
+      <jump line="99" column="94" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/edit-project/edit.html" />
+      <jump line="98" column="110" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/edit-project/edit.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2288,7 +2291,7 @@
         <text>Main</text>
       </register>
       <register name="/" type="4">
-        <text>Main</text>
+        <text>id</text>
       </register>
       <register name="0" type="4">
         <text>admin-edit-project__tab</text>
@@ -2328,9 +2331,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Main</last-search>
+      <last-search>id</last-search>
       <last-offset />
-      <last-pattern>Main</last-pattern>
+      <last-pattern>id</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2338,7 +2341,6 @@
     </search>
     <history>
       <history-search>
-        <entry>teamDataSource</entry>
         <entry>hub</entry>
         <entry encoding="base64">XDxwd1RlYW1EYXRhU291cmNlXD4=</entry>
         <entry encoding="base64">XDxwcmVzZWxlY3RlZFByb2plY3RNb2NrXD4=</entry>
@@ -2358,6 +2360,7 @@
         <entry>toggle</entry>
         <entry>tab</entry>
         <entry>Main</entry>
+        <entry>id</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;/'/gc</entry>
