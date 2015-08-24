@@ -2,6 +2,10 @@
   <action id="ActivateTeamCityToolWindow">
     <keyboard-shortcut first-keystroke="alt COMMA" second-keystroke="T" />
   </action>
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="shift alt F10" />
+    <keyboard-shortcut first-keystroke="alt COMMA" second-keystroke="R" />
+  </action>
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="control F12" />
     <keyboard-shortcut first-keystroke="alt COMMA" second-keystroke="P" />
@@ -61,8 +65,5 @@
   </action>
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="control alt U" />
-  </action>
-  <action id="editRunConfigurations">
-    <keyboard-shortcut first-keystroke="alt COMMA" second-keystroke="R" />
   </action>
 </keymap>
