@@ -14,14 +14,20 @@
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt F7" />
     <keyboard-shortcut first-keystroke="alt F" second-keystroke="shift U" />
+    <keyboard-shortcut first-keystroke="alt COMMA" second-keystroke="shift U" />
   </action>
   <action id="FindUsagesInFile">
     <keyboard-shortcut first-keystroke="control F7" />
     <keyboard-shortcut first-keystroke="alt F" second-keystroke="U" />
+    <keyboard-shortcut first-keystroke="alt COMMA" second-keystroke="U" />
   </action>
   <action id="GotoNextError">
     <keyboard-shortcut first-keystroke="F2" />
     <keyboard-shortcut first-keystroke="alt E" />
+  </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="shift control alt N" />
+    <keyboard-shortcut first-keystroke="alt COMMA" second-keystroke="N" />
   </action>
   <action id="NewElementSamePlace">
     <keyboard-shortcut first-keystroke="control alt INSERT" />
@@ -55,5 +61,8 @@
   </action>
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="control alt U" />
+  </action>
+  <action id="editRunConfigurations">
+    <keyboard-shortcut first-keystroke="alt COMMA" second-keystroke="R" />
   </action>
 </keymap>
