@@ -86,8 +86,8 @@
         <mark key="." line="32" column="1" />
         <mark key="[" line="31" column="5" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/webpack.config.js" timestamp="1440505618806">
-        <mark key="'" line="251" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/webpack.config.js" timestamp="1440506897934">
+        <mark key="'" line="154" column="12" />
         <mark key="]" line="203" column="0" />
         <mark key="^" line="209" column="27" />
         <mark key="." line="203" column="0" />
@@ -1175,12 +1175,12 @@
         <mark key="." line="4" column="27" />
         <mark key="[" line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/karma.conf.js" timestamp="1440506271640">
-        <mark key="'" line="40" column="4" />
-        <mark key="]" line="96" column="44" />
-        <mark key="^" line="96" column="44" />
-        <mark key="." line="96" column="44" />
-        <mark key="[" line="96" column="32" />
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/karma.conf.js" timestamp="1440507120046">
+        <mark key="'" line="41" column="4" />
+        <mark key="]" line="34" column="28" />
+        <mark key="^" line="34" column="28" />
+        <mark key="." line="34" column="28" />
+        <mark key="[" line="34" column="28" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/reports/_reports/types/reopenedDistribution/reopenedDistribution.js" timestamp="1422023307518">
         <mark key="'" line="10" column="3" />
@@ -1542,6 +1542,9 @@
         <mark key="." line="4" column="0" />
         <mark key="[" line="12" column="31" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/project-wizard/project-wizard.js" timestamp="1440507262805">
+        <mark key="'" line="50" column="37" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/service/time-tracking-rest.js" timestamp="1423646307657">
         <mark key="'" line="10" column="0" />
         <mark key="]" line="9" column="9" />
@@ -1698,10 +1701,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59475" column="6" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/.tmp/components/built-components/built-components.js" />
-      <jump line="64932" column="49" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/.tmp/components/built-components/built-components.js" />
-      <jump line="40166" column="59" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/.tmp/components/built-components/built-components.js" />
-      <jump line="64925" column="8" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/.tmp/components/built-components/built-components.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/.tmp/components/built-components/built-components.js" />
       <jump line="18" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/built-in-components.config.js" />
       <jump line="33" column="47" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/built-in-components.config.js" />
@@ -1798,46 +1797,50 @@
       <jump line="92" column="8" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/karma.conf.js" />
       <jump line="26" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/karma.conf.js" />
       <jump line="50" column="4" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/karma.conf.js" />
+      <jump line="154" column="12" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/webpack.config.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/project-wizard/project-wizard.js" />
+      <jump line="11" column="40" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/project-wizard/project-wizard.js" />
+      <jump line="50" column="37" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/project-wizard/project-wizard.js" />
     </jumps>
     <registers>
-      <register name="3" type="4">
-        <text>_webpackConf</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgdmFyIHRvUmVsYXRpdmVQYXRoID0gZnVuY3Rpb24oZmlsZVBhdGgpIHsKICAgICAgICByZXR1cm4gcmVxdWlyZSgncGF0aCcpLnJlbGF0aXZlKF9fZGlybmFtZSwgZmlsZVBhdGgpOwogICAgICB9Owo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>.app</text>
+        <text>toRelativePath(</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLmNvbmNhdCh3ZWJwYWNrQ29uZmlnLmZpbGVzLmFwcCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>.app</text>
+        <text>toRelativePath(</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLmNvbmNhdCh3ZWJwYWNrQ29uZmlnLmZpbGVzLmFwcCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIF93ZWJwYWNrQ29uZi5kZXZ0b29sID0gJ2lubGluZS1zb3VyY2UtbWFwJzsK</text>
+        <text encoding="base64">CiAgLyoqCiAgICogUHJlcGFyZSB3ZWJwYWNrIGNvbmZpZyBmb3IgdGVzdHMKICAgKiBAcGFyYW0ge09iamVjdH0gd2VicGFja0NvbmYgVGhlIHdlYnBhY2sgY29uZmlnIG9iamVjdAogICAqIEByZXR1cm4ge09iamVjdH0gVGhlIHdlYnBhY2sgY29uZmlnIHByZXBhcmVkIGZvciB0ZXN0cwogICAqLwogIHZhciBwcmVwYXJlV2JwYWNrQ29uZiA9IGZ1bmN0aW9uKHdlYnBhY2tDb25mKSB7CiAgICByZXR1cm4gX3dlYnBhY2tDb25mOwogIH07Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhciBfd2VicGFja0NvbmYgPSBjcmVhdGVDb3B5KHdlYnBhY2tDb25mKTsK</text>
+      <register name="6" type="4">
+        <text>_webpackConf</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhciBfd2VicGFja0NvbmYgPSBjcmVhdGVDb3B5KHdlYnBhY2tDb25mKTsK</text>
+        <text encoding="base64">ICAgICAgLmNvbmNhdCh3ZWJwYWNrQ29uZmlnLmZpbGVzLmFwcCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CiAgLyoqCiAgICogUHJlcGFyZSB3ZWJwYWNrIGNvbmZpZyBmb3IgdGVzdHMKICAgKiBAcGFyYW0ge09iamVjdH0gd2VicGFja0NvbmYgVGhlIHdlYnBhY2sgY29uZmlnIG9iamVjdAogICAqIEByZXR1cm4ge09iamVjdH0gVGhlIHdlYnBhY2sgY29uZmlnIHByZXBhcmVkIGZvciB0ZXN0cwogICAqLwogIHZhciBwcmVwYXJlV2JwYWNrQ29uZiA9IGZ1bmN0aW9uKHdlYnBhY2tDb25mKSB7CiAgICByZXR1cm4gX3dlYnBhY2tDb25mOwogIH07Cg==</text>
+      <register name="4" type="4">
+        <text>.app</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhciBfd2VicGFja0NvbmYgPSBjcmVhdGVDb3B5KHdlYnBhY2tDb25mKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhciBfd2VicGFja0NvbmYgPSBjcmVhdGVDb3B5KHdlYnBhY2tDb25mKTsK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1874,16 +1877,16 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>dashboard</text>
+        <text>team-data</text>
       </register>
       <register name="-" type="4">
-        <text>.app</text>
+        <text>toRelativePath(</text>
       </register>
     </registers>
     <search>
-      <last-search>dashboard</last-search>
+      <last-search>team-data</last-search>
       <last-offset />
-      <last-pattern>dashboard</last-pattern>
+      <last-pattern>team-data</last-pattern>
       <last-replace>))</last-replace>
       <last-substitute encoding="base64">PjxcL3NjcmlwdD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1891,7 +1894,6 @@
     </search>
     <history>
       <history-search>
-        <entry>templates</entry>
         <entry>ng</entry>
         <entry>cache</entry>
         <entry>template</entry>
@@ -1911,6 +1913,7 @@
         <entry>files</entry>
         <entry>html-loader</entry>
         <entry>dashboard</entry>
+        <entry>team-data</entry>
       </history-search>
       <history-cmd>
         <entry>222</entry>
