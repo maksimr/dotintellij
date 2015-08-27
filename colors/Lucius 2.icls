@@ -56,7 +56,10 @@
     </option>
     <option name="BAD_CHARACTER">
       <value>
-        <option name="EFFECT_COLOR" value="ff0000" />
+        <option name="FOREGROUND" value="fff9fb" />
+        <option name="BACKGROUND" value="ff3000" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="ERROR_STRIPE_COLOR" value="ff0020" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -404,10 +407,35 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="HTML_ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="bababa" />
+      </value>
+    </option>
+    <option name="HTML_ATTRIBUTE_VALUE">
+      <value>
+        <option name="FOREGROUND" value="a5c261" />
+      </value>
+    </option>
     <option name="HTML_COMMENT">
       <value>
         <option name="FOREGROUND" value="606060" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="HTML_ENTITY_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="6d9cbe" />
+      </value>
+    </option>
+    <option name="HTML_TAG">
+      <value>
+        <option name="FOREGROUND" value="e8bf6a" />
+      </value>
+    </option>
+    <option name="HTML_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="e8bf6a" />
       </value>
     </option>
     <option name="HYPERLINK_ATTRIBUTES">
@@ -433,7 +461,9 @@
     </option>
     <option name="INFO_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="d15755" />
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="ffb9bc" />
+        <option name="EFFECT_COLOR" value="ff5b73" />
         <option name="ERROR_STRIPE_COLOR" value="aeae80" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
@@ -482,9 +512,10 @@
     </option>
     <option name="JS.BADCHARACTER">
       <value>
-        <option name="FOREGROUND" value="fff6fe" />
-        <option name="BACKGROUND" value="ff0040" />
-        <option name="EFFECT_COLOR" value="ff0000" />
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="BACKGROUND" value="ff3000" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="ERROR_STRIPE_COLOR" value="ff0020" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
@@ -663,6 +694,11 @@
         <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
+    <option name="SASS_MIXIN">
+      <value>
+        <option name="FOREGROUND" value="d0d0ff" />
+      </value>
+    </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="155221" />
@@ -791,7 +827,32 @@
         <option name="FOREGROUND" value="bc3f3c" />
       </value>
     </option>
+    <option name="XML_ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="bababa" />
+      </value>
+    </option>
+    <option name="XML_ATTRIBUTE_VALUE">
+      <value>
+        <option name="FOREGROUND" value="a5c261" />
+      </value>
+    </option>
+    <option name="XML_ENTITY_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="6d9cbe" />
+      </value>
+    </option>
     <option name="XML_PROLOGUE">
+      <value>
+        <option name="FOREGROUND" value="e8bf6a" />
+      </value>
+    </option>
+    <option name="XML_TAG">
+      <value>
+        <option name="FOREGROUND" value="e8bf6a" />
+      </value>
+    </option>
+    <option name="XML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="e8bf6a" />
       </value>

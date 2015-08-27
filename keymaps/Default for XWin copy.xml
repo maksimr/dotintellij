@@ -1,22 +1,48 @@
 <keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+  <action id="ActivateTeamCityToolWindow">
+    <keyboard-shortcut first-keystroke="alt COMMA" second-keystroke="T" />
+  </action>
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="shift alt F10" />
     <keyboard-shortcut first-keystroke="alt COMMA" second-keystroke="R" />
   </action>
-  <action id="Console.TableResult.NavigateExportedAction">
-    <keyboard-shortcut first-keystroke="alt F7" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="control F12" />
+    <keyboard-shortcut first-keystroke="alt COMMA" second-keystroke="P" />
+  </action>
+  <action id="FindNext">
+    <keyboard-shortcut first-keystroke="F3" />
+    <keyboard-shortcut first-keystroke="control L" />
+    <keyboard-shortcut first-keystroke="alt N" />
   </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt F7" />
-    <keyboard-shortcut first-keystroke="alt COMMA" second-keystroke="shift F" />
+    <keyboard-shortcut first-keystroke="alt F" second-keystroke="shift U" />
+    <keyboard-shortcut first-keystroke="alt COMMA" second-keystroke="shift U" />
   </action>
   <action id="FindUsagesInFile">
     <keyboard-shortcut first-keystroke="control F7" />
-    <keyboard-shortcut first-keystroke="alt COMMA" second-keystroke="F" />
+    <keyboard-shortcut first-keystroke="alt F" second-keystroke="U" />
+    <keyboard-shortcut first-keystroke="alt COMMA" second-keystroke="U" />
+  </action>
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="F2" />
+    <keyboard-shortcut first-keystroke="alt E" />
   </action>
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="shift control alt N" />
-    <keyboard-shortcut first-keystroke="alt COMMA" second-keystroke="S" />
+    <keyboard-shortcut first-keystroke="alt COMMA" second-keystroke="N" />
+  </action>
+  <action id="NewElementSamePlace">
+    <keyboard-shortcut first-keystroke="control alt INSERT" />
+    <keyboard-shortcut first-keystroke="shift alt 5" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="alt PERIOD" />
+  </action>
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift F6" />
+    <keyboard-shortcut first-keystroke="control alt R" />
   </action>
   <action id="ShowErrorDescription">
     <keyboard-shortcut first-keystroke="control F1" />
@@ -38,6 +64,9 @@
     <keyboard-shortcut first-keystroke="shift alt UP" />
   </action>
   <action id="Unsplit">
-    <keyboard-shortcut first-keystroke="alt COMMA" second-keystroke="U" />
+    <keyboard-shortcut first-keystroke="control alt U" />
+  </action>
+  <action id="Upsource.ReviewRevisions">
+    <keyboard-shortcut first-keystroke="alt COMMA" second-keystroke="Q" />
   </action>
 </keymap>
