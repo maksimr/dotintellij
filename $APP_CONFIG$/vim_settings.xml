@@ -106,7 +106,7 @@
         <mark key="." line="0" column="0" />
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/custom-fields/dialog-edit-project-custom-field-prototype-name.html" timestamp="1440678273128">
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/custom-fields/dialog-edit-project-custom-field-prototype-name.html" timestamp="1440679062839">
         <mark key="'" line="24" column="0" />
         <mark key="]" line="12" column="61" />
         <mark key="^" line="12" column="61" />
@@ -1747,6 +1747,9 @@
         <mark key="." line="6" column="32" />
         <mark key="[" line="6" column="29" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/custom-fields/custom-field-prototype-table.html" timestamp="1440679075766">
+        <mark key="'" line="12" column="12" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/reports/_reports/types/verifyRate/verifyRate.js" timestamp="1422006596401">
         <mark key="'" line="27" column="0" />
         <mark key="]" line="30" column="2" />
@@ -1849,8 +1852,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="5" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/test/controller/vcs.js" />
-      <jump line="33" column="5" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/test/controller/vcs.js" />
       <jump line="49" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/vcs.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/vcs.js" />
       <jump line="94" column="2" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/vcs.js" />
@@ -1948,7 +1949,9 @@
       <jump line="15" column="8" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/custom-fields/dialog-edit-project-custom-field-prototype-name.html" />
       <jump line="23" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/custom-fields/dialog-edit-project-custom-field-prototype-name.html" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/custom-fields/dialog-edit-project-custom-field-prototype-name.html" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/custom-fields/dialog-edit-project-custom-field-prototype-name.html" />
       <jump line="24" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/custom-fields/dialog-edit-project-custom-field-prototype-name.html" />
+      <jump line="12" column="12" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/custom-fields/custom-field-prototype-table.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2025,24 +2028,23 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cGRhdGVQcm90b3R5cGVOYW1lXD4=</text>
+        <text>lock</text>
       </register>
       <register name="-" type="4">
         <text>name</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cGRhdGVQcm90b3R5cGVOYW1lXD4=</last-search>
+      <last-search>lock</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cGRhdGVQcm90b3R5cGVOYW1lXD4=</last-pattern>
+      <last-pattern>lock</last-pattern>
       <last-replace>('.\/</last-replace>
       <last-substitute>('</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>repo</entry>
         <entry>repoName</entry>
         <entry>github</entry>
         <entry>repos</entry>
@@ -2062,6 +2064,7 @@
         <entry encoding="base64">XDxnZXRFZGl0UHJvamVjdEN1c3RvbUZpZWxkc0N0cmxcPg==</entry>
         <entry>name</entry>
         <entry encoding="base64">XDx1cGRhdGVQcm90b3R5cGVOYW1lXD4=</entry>
+        <entry>lock</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
