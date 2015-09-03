@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields/custom-fields-per-project.js" timestamp="1441096848385">
-        <mark key="'" line="818" column="8" />
-        <mark key="]" line="38" column="74" />
-        <mark key="^" line="802" column="70" />
-        <mark key="." line="38" column="74" />
-        <mark key="[" line="38" column="74" />
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields/custom-fields-per-project.js" timestamp="1441286480787">
+        <mark key="'" line="3" column="0" />
+        <mark key="]" line="892" column="71" />
+        <mark key="^" line="892" column="71" />
+        <mark key="." line="892" column="71" />
+        <mark key="[" line="892" column="67" />
       </file>
       <file name="$USER_HOME$/tmp/introtask-space/src/task.js" timestamp="1428738489390">
         <mark key="'" line="92" column="0" />
@@ -160,12 +160,12 @@
         <mark key="." line="11" column="14" />
         <mark key="[" line="11" column="4" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields-configuration.js" timestamp="1440677654318">
-        <mark key="'" line="391" column="8" />
-        <mark key="]" line="452" column="32" />
-        <mark key="^" line="452" column="32" />
-        <mark key="." line="452" column="32" />
-        <mark key="[" line="452" column="32" />
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields-configuration.js" timestamp="1441286270641">
+        <mark key="'" line="71" column="0" />
+        <mark key="]" line="473" column="76" />
+        <mark key="^" line="473" column="76" />
+        <mark key="." line="473" column="76" />
+        <mark key="[" line="473" column="72" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/settings/system.html" timestamp="1433335153601">
         <mark key="'" line="68" column="24" />
@@ -561,6 +561,12 @@
         <mark key="^" line="13" column="1" />
         <mark key="." line="13" column="1" />
         <mark key="[" line="13" column="3" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/custom-fields-configuration.html" timestamp="1441286436999">
+        <mark key="]" line="9" column="79" />
+        <mark key="^" line="9" column="79" />
+        <mark key="." line="9" column="79" />
+        <mark key="[" line="9" column="51" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/service/user-resource.js" timestamp="1433421729811">
         <mark key="'" line="5" column="15" />
@@ -1421,6 +1427,9 @@
         <mark key="." line="5" column="0" />
         <mark key="[" line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/externals/vcs-changes/vcs-changes.js" timestamp="1441286054577">
+        <mark key="'" line="30" column="11" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/test/service/get-update-info.js" timestamp="1440683219428">
         <mark key="'" line="0" column="0" />
         <mark key="]" line="63" column="2" />
@@ -1905,7 +1914,7 @@
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-github-integration/source_gen/jetbrains/youtrack/integration/github/persistence/GithubCloneChangesProcessorImpl.java" timestamp="1440607291739">
         <mark key="'" line="151" column="55" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/settings.html" timestamp="1441282371126">
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/settings.html" timestamp="1441286122083">
         <mark key="'" line="3" column="0" />
         <mark key="]" line="4" column="58" />
         <mark key="^" line="8" column="22" />
@@ -1921,9 +1930,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="5" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/reports/_reports/report.js" />
-      <jump line="34" column="5" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/reports/_reports/report.js" />
-      <jump line="35" column="5" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/reports/_reports/report.js" />
       <jump line="40" column="110" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/reports/_reports/report.js" />
       <jump line="41" column="29" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/reports/_reports/report.js" />
       <jump line="66" column="19" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/reports/_reports/report.js" />
@@ -2021,46 +2027,49 @@
       <jump line="131" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/custom-fields/custom-field-prototype-table.html" />
       <jump line="35" column="9" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/settings.html" />
       <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/settings.html" />
+      <jump line="30" column="11" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/externals/vcs-changes/vcs-changes.js" />
+      <jump line="71" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields-configuration.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields/custom-fields-per-project.js" />
     </jumps>
     <registers>
       <register name="3" type="2">
-        <text encoding="base64">PHJnLXRhYmxlLXJvdz4KPC9yZy10YWJsZS1yb3c+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>isLoadingSetting</text>
+        <text>true</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PGRpdj48L2Rpdj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>isLoadingSetting</text>
+        <text>true</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJyaW5nLWxvYWRlciIgbmctaWY9ImlzTG9hZGluZ1NldHRpbmciPjwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgY3VzdG9tRmllbGRzUGVyUHJvamVjdEN0cmwuaXNMb2FkaW5nUHJvamVjdHNDdXN0b21GaWVsZHMgPSB0cnVlOwo=</text>
       </register>
       <register name="7" type="4">
-        <text>()</text>
+        <text>true</text>
       </register>
-      <register name="6" type="4">
-        <text>!state.isCalculating</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGl2IG5nLWlmPSJjdXN0b21GaWVsZHNQZXJQcm9qZWN0Q3RybC5wcm9qZWN0c1dpdGhGaWVsZHMubGVuZ3RoIj4KICAgICAgICAgIDx5dC1zaWRlYmFyLXRhYmxlIHRyZWUtdmlldz0iY3VzdG9tRmllbGRzUGVyUHJvamVjdEN0cmwucHJvamVjdHNXaXRoRmllbGRzVHJlZVZpZXdEYXRhIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGFibGUtdXJsPSJjdXN0b21GaWVsZHNQZXJQcm9qZWN0Q3RybC5hZG1pblRlbXBsYXRlVXJsKCd0ZW1wbGF0ZS9jdXN0b20tZmllbGRzL3Blci1wcm9qZWN0LWN1c3RvbS1maWVsZHMtdGFibGUuaHRtbCcpIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgdG9vbGJhci11cmw9ImN1c3RvbUZpZWxkc1BlclByb2plY3RDdHJsLmFkbWluVGVtcGxhdGVVcmwoJ3RlbXBsYXRlL2N1c3RvbS1maWVsZHMvcGVyLXByb2plY3QtdG9vbGJhci5odG1sJykiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzaWRlYmFyLXVybD0iY3VzdG9tRmllbGRzUGVyUHJvamVjdEN0cmwuYWRtaW5UZW1wbGF0ZVVybCgndGVtcGxhdGUvY3VzdG9tLWZpZWxkcy9wZXItcHJvamVjdC1zaWRlYmFyLmh0bWwnKSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlZHJhdy1zaWRlYmFyLW1vZGU9InRydWUiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbi1kZWxldGUtaXRlbT0iY3VzdG9tRmllbGRzUGVyUHJvamVjdEN0cmwub25SZW1vdmVQcm9qZWN0Q3VzdG9tRmllbGRzIj4KICAgICAgICAgIDwveXQtc2lkZWJhci10YWJsZT4KICAgICAgICA8L2Rpdj4KCiAgICAgICAgPGNlbnRlciBuZy1pZj0iY3VzdG9tRmllbGRzUGVyUHJvamVjdEN0cmwucHJvamVjdHNXaXRoRmllbGRzVHJlZVZpZXdEYXRhLml0ZW1zLmxlbmd0aCA9PT0gMCI+CiAgICAgICAgICA8c3BhbiB0cmFuc2xhdGU9IiI+VGhlcmUgYXJlIG5vIHByb2plY3RzIGluIHRoZSBzeXN0ZW0geWV0PC9zcGFuPgogICAgICAgIDwvY2VudGVyPgo=</text>
       </register>
-      <register name="5" type="4">
-        <text>state.isCalculating</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="4" type="4">
-        <text>row-item=&quot;item&quot; ng-repeat=&quot;item in tableItems track by item.data.id&quot;</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJyaW5nLWxvYWRlciIgbmctc3dpdGNoLXdoZW49InRydWUiPgogICAgICAgIDwvZGl2PgogICAgICAgIAogICAgICAgIDxkaXY+CiAgICAgICAgICA8ZGl2IG5nLWlmPSJjdXN0b21GaWVsZHNQZXJQcm9qZWN0Q3RybC5wcm9qZWN0c1dpdGhGaWVsZHMubGVuZ3RoIj4KICAgICAgICAgICAgPHl0LXNpZGViYXItdGFibGUgdHJlZS12aWV3PSJjdXN0b21GaWVsZHNQZXJQcm9qZWN0Q3RybC5wcm9qZWN0c1dpdGhGaWVsZHNUcmVlVmlld0RhdGEiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRhYmxlLXVybD0iY3VzdG9tRmllbGRzUGVyUHJvamVjdEN0cmwuYWRtaW5UZW1wbGF0ZVVybCgndGVtcGxhdGUvY3VzdG9tLWZpZWxkcy9wZXItcHJvamVjdC1jdXN0b20tZmllbGRzLXRhYmxlLmh0bWwnKSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdG9vbGJhci11cmw9ImN1c3RvbUZpZWxkc1BlclByb2plY3RDdHJsLmFkbWluVGVtcGxhdGVVcmwoJ3RlbXBsYXRlL2N1c3RvbS1maWVsZHMvcGVyLXByb2plY3QtdG9vbGJhci5odG1sJykiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNpZGViYXItdXJsPSJjdXN0b21GaWVsZHNQZXJQcm9qZWN0Q3RybC5hZG1pblRlbXBsYXRlVXJsKCd0ZW1wbGF0ZS9jdXN0b20tZmllbGRzL3Blci1wcm9qZWN0LXNpZGViYXIuaHRtbCcpIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICByZWRyYXctc2lkZWJhci1tb2RlPSJ0cnVlIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBvbi1kZWxldGUtaXRlbT0iY3VzdG9tRmllbGRzUGVyUHJvamVjdEN0cmwub25SZW1vdmVQcm9qZWN0Q3VzdG9tRmllbGRzIj4KICAgICAgICAgICAgPC95dC1zaWRlYmFyLXRhYmxlPgogICAgICAgICAgPC9kaXY+CgogICAgICAgICAgPGNlbnRlciBuZy1pZj0iY3VzdG9tRmllbGRzUGVyUHJvamVjdEN0cmwucHJvamVjdHNXaXRoRmllbGRzVHJlZVZpZXdEYXRhLml0ZW1zLmxlbmd0aCA9PT0gMCI+CiAgICAgICAgICAgIDxzcGFuIHRyYW5zbGF0ZT0iIj5UaGVyZSBhcmUgbm8gcHJvamVjdHMgaW4gdGhlIHN5c3RlbSB5ZXQ8L3NwYW4+CiAgICAgICAgICA8L2NlbnRlcj4KICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IHx8IHt9</text>
+        <text>if</text>
       </register>
-      <register name="8" type="4">
-        <text>isRecalcutate</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2097,16 +2106,16 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>loader</text>
+        <text>projects</text>
       </register>
       <register name="-" type="4">
-        <text>isLoadingSetting</text>
+        <text>true</text>
       </register>
     </registers>
     <search>
-      <last-search>loader</last-search>
+      <last-search>projects</last-search>
       <last-offset />
-      <last-pattern>loader</last-pattern>
+      <last-pattern>projects</last-pattern>
       <last-replace>('.\/</last-replace>
       <last-substitute>('</last-substitute>
       <last-dir>1</last-dir>
@@ -2114,7 +2123,6 @@
     </search>
     <history>
       <history-search>
-        <entry>upsource-reviews-directiv</entry>
         <entry>cacl</entry>
         <entry>lastCa</entry>
         <entry encoding="base64">XDxpc0NhbGN1bGF0ZVw+</entry>
@@ -2134,6 +2142,7 @@
         <entry>isCal</entry>
         <entry>Usages</entry>
         <entry>loader</entry>
+        <entry>projects</entry>
       </history-search>
       <history-cmd>
         <entry>Annotate</entry>
