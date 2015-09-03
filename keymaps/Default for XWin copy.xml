@@ -2,6 +2,12 @@
   <action id="ActivateTeamCityToolWindow">
     <keyboard-shortcut first-keystroke="alt COMMA" second-keystroke="T" />
   </action>
+  <action id="ChangesView.Commit">
+    <keyboard-shortcut first-keystroke="alt COMMA" second-keystroke="C" />
+  </action>
+  <action id="ChangesView.Shelve">
+    <keyboard-shortcut first-keystroke="alt COMMA" second-keystroke="S" />
+  </action>
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="shift alt F10" />
     <keyboard-shortcut first-keystroke="alt COMMA" second-keystroke="R" />
@@ -44,6 +50,9 @@
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift F6" />
     <keyboard-shortcut first-keystroke="control alt R" />
+  </action>
+  <action id="ShelvedChanges.Unshelve">
+    <keyboard-shortcut first-keystroke="alt COMMA" second-keystroke="shift S" />
   </action>
   <action id="ShowErrorDescription">
     <keyboard-shortcut first-keystroke="control F1" />
