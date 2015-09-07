@@ -1,4 +1,4 @@
-<scheme name="Obsidian++" version="141" parent_scheme="Default">
+<scheme name="Obsidian++" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.2" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Consolas" />
@@ -48,6 +48,7 @@
     <option name="WHITESPACES" value="32393b" />
   </colors>
   <attributes>
+    <option name="ABSTRACT_METHOD_ATTRIBUTES" baseAttributes="METHOD_CALL_ATTRIBUTES" />
     <option name="APACHE_CONFIG.ARG_LEXEM">
       <value>
         <option name="FOREGROUND" value="a5de78" />
@@ -75,21 +76,38 @@
         <option name="ERROR_STRIPE_COLOR" value="526da5" />
       </value>
     </option>
+    <option name="CONSOLE_BLACK_OUTPUT" baseAttributes="CONSOLE_NORMAL_OUTPUT" />
+    <option name="CONSOLE_BLUE_BRIGHT_OUTPUT" baseAttributes="CONSOLE_BLUE_OUTPUT" />
+    <option name="CONSOLE_BLUE_OUTPUT" baseAttributes="CONSOLE_NORMAL_OUTPUT" />
+    <option name="CONSOLE_CYAN_BRIGHT_OUTPUT" baseAttributes="CONSOLE_CYAN_OUTPUT" />
+    <option name="CONSOLE_CYAN_OUTPUT" baseAttributes="CONSOLE_NORMAL_OUTPUT" />
+    <option name="CONSOLE_DARKGRAY_OUTPUT" baseAttributes="CONSOLE_GRAY_OUTPUT" />
     <option name="CONSOLE_ERROR_OUTPUT">
       <value>
         <option name="FOREGROUND" value="ff5959" />
       </value>
     </option>
+    <option name="CONSOLE_GRAY_OUTPUT" baseAttributes="CONSOLE_NORMAL_OUTPUT" />
+    <option name="CONSOLE_GREEN_BRIGHT_OUTPUT" baseAttributes="CONSOLE_GREEN_OUTPUT" />
+    <option name="CONSOLE_GREEN_OUTPUT" baseAttributes="CONSOLE_NORMAL_OUTPUT" />
+    <option name="CONSOLE_MAGENTA_BRIGHT_OUTPUT" baseAttributes="CONSOLE_MAGENTA_OUTPUT" />
+    <option name="CONSOLE_MAGENTA_OUTPUT" baseAttributes="CONSOLE_NORMAL_OUTPUT" />
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
         <option name="FOREGROUND" value="cccccc" />
       </value>
     </option>
+    <option name="CONSOLE_RANGE_TO_EXECUTE" baseAttributes="INJECTED_LANGUAGE_FRAGMENT" />
+    <option name="CONSOLE_RED_BRIGHT_OUTPUT" baseAttributes="CONSOLE_RED_OUTPUT" />
+    <option name="CONSOLE_RED_OUTPUT" baseAttributes="CONSOLE_NORMAL_OUTPUT" />
     <option name="CONSOLE_SYSTEM_OUTPUT">
       <value>
         <option name="FOREGROUND" value="678cb1" />
       </value>
     </option>
+    <option name="CONSOLE_WHITE_OUTPUT" baseAttributes="CONSOLE_NORMAL_OUTPUT" />
+    <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT" baseAttributes="CONSOLE_YELLOW_OUTPUT" />
+    <option name="CONSOLE_YELLOW_OUTPUT" baseAttributes="CONSOLE_NORMAL_OUTPUT" />
     <option name="CSS.COMMENT">
       <value>
         <option name="FOREGROUND" value="66747b" />
@@ -189,7 +207,6 @@
     <option name="DBNavigator.TextAttributes.SQL.Function">
       <value>
         <option name="FOREGROUND" value="0" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="DBNavigator.TextAttributes.SQL.Keyword">
@@ -207,13 +224,11 @@
         <option name="FOREGROUND" value="99cc00" />
       </value>
     </option>
+    <option name="DEFAULT_ATTRIBUTE" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="808080" />
       </value>
-    </option>
-    <option name="DEFAULT_COMMA">
-      <value />
     </option>
     <option name="DEFAULT_CONSTANT">
       <value>
@@ -225,11 +240,14 @@
         <option name="FOREGROUND" value="808080" />
       </value>
     </option>
+    <option name="DEFAULT_ENTITY" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="678bb0" />
       </value>
     </option>
+    <option name="DEFAULT_IDENTIFIER" baseAttributes="TEXT" />
+    <option name="DEFAULT_INSTANCE_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
         <option name="EFFECT_COLOR" value="ff6666" />
@@ -242,6 +260,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="DEFAULT_LABEL" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="808080" />
@@ -252,6 +271,7 @@
         <option name="FOREGROUND" value="678bb0" />
       </value>
     </option>
+    <option name="DEFAULT_METADATA" baseAttributes="TEXT" />
     <option name="DEFAULT_NUMBER">
       <value />
     </option>
@@ -265,14 +285,15 @@
         <option name="FOREGROUND" value="ff6666" />
       </value>
     </option>
-    <option name="DEFAULT_SEMICOLON">
-      <value />
-    </option>
+    <option name="DEFAULT_STATIC_FIELD" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="DEFAULT_STATIC_METHOD" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="DEFAULT_STRING">
       <value>
         <option name="FOREGROUND" value="fd8309" />
       </value>
     </option>
+    <option name="DEFAULT_TAG" baseAttributes="TEXT" />
+    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT" />
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="fdcc22" />
@@ -359,6 +380,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="ENUM_NAME_ATTRIBUTES" baseAttributes="CLASS_NAME_ATTRIBUTES" />
     <option name="EXECUTIONPOINT_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="ff" />
@@ -443,6 +465,7 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="INHERITED_METHOD_ATTRIBUTES" baseAttributes="METHOD_CALL_ATTRIBUTES" />
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
         <option name="BACKGROUND" value="292929" />
@@ -451,7 +474,6 @@
     <option name="JS.ATTRIBUTE">
       <value>
         <option name="BACKGROUND" value="660066" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="JS.BADCHARACTER">
@@ -480,6 +502,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="JS.GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="fdcc22" />
@@ -487,9 +510,7 @@
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_FUNCTION">
-      <value>
-        <option name="EFFECT_TYPE" value="-1" />
-      </value>
+      <value />
     </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">
       <value />
@@ -507,9 +528,7 @@
       </value>
     </option>
     <option name="JS.LOCAL_VARIABLE">
-      <value>
-        <option name="EFFECT_TYPE" value="-1" />
-      </value>
+      <value />
     </option>
     <option name="JS.PARAMETER">
       <value>
@@ -525,7 +544,6 @@
     <option name="JS.REGEXP">
       <value>
         <option name="FOREGROUND" value="d39745" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="JSP_ATTRIBUTE_NAME">
@@ -720,6 +738,7 @@
         <option name="FOREGROUND" value="ec7600" />
       </value>
     </option>
+    <option name="STATIC_FINAL_FIELD_ATTRIBUTES" baseAttributes="STATIC_FIELD_ATTRIBUTES" />
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="cc99ff" />
@@ -813,6 +832,7 @@
         <option name="FOREGROUND" value="ff66cc" />
       </value>
     </option>
+    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
     <option name="XML_TAG">
       <value />
     </option>
