@@ -1,85 +1,85 @@
 <keymap version="1" name="Default for XWin copy" parent="Default for XWin">
   <action id="ActivateTeamCityToolWindow">
-    <keyboard-shortcut first-keystroke="alt COMMA" second-keystroke="T" />
+    <keyboard-shortcut first-keystroke="alt comma" second-keystroke="t" />
   </action>
   <action id="ChangesView.Commit">
-    <keyboard-shortcut first-keystroke="alt COMMA" second-keystroke="C" />
+    <keyboard-shortcut first-keystroke="alt comma" second-keystroke="c" />
   </action>
   <action id="ChangesView.Shelve">
-    <keyboard-shortcut first-keystroke="alt COMMA" second-keystroke="S" />
+    <keyboard-shortcut first-keystroke="alt comma" second-keystroke="s" />
   </action>
   <action id="ChooseRunConfiguration">
-    <keyboard-shortcut first-keystroke="shift alt F10" />
-    <keyboard-shortcut first-keystroke="alt COMMA" second-keystroke="R" />
+    <keyboard-shortcut first-keystroke="shift alt f10" />
+    <keyboard-shortcut first-keystroke="alt comma" second-keystroke="r" />
   </action>
   <action id="EditorSplitLine" />
   <action id="FileStructurePopup">
-    <keyboard-shortcut first-keystroke="control F12" />
-    <keyboard-shortcut first-keystroke="alt COMMA" second-keystroke="P" />
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+    <keyboard-shortcut first-keystroke="alt comma" second-keystroke="p" />
   </action>
   <action id="FindNext">
-    <keyboard-shortcut first-keystroke="F3" />
-    <keyboard-shortcut first-keystroke="control L" />
-    <keyboard-shortcut first-keystroke="alt N" />
+    <keyboard-shortcut first-keystroke="f3" />
+    <keyboard-shortcut first-keystroke="ctrl l" />
+    <keyboard-shortcut first-keystroke="alt n" />
   </action>
   <action id="FindUsages">
-    <keyboard-shortcut first-keystroke="alt F7" />
-    <keyboard-shortcut first-keystroke="alt F" second-keystroke="shift U" />
-    <keyboard-shortcut first-keystroke="alt COMMA" second-keystroke="shift U" />
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="alt f" second-keystroke="shift u" />
+    <keyboard-shortcut first-keystroke="alt comma" second-keystroke="shift u" />
   </action>
   <action id="FindUsagesInFile">
-    <keyboard-shortcut first-keystroke="control F7" />
-    <keyboard-shortcut first-keystroke="alt F" second-keystroke="U" />
-    <keyboard-shortcut first-keystroke="alt COMMA" second-keystroke="U" />
+    <keyboard-shortcut first-keystroke="ctrl f7" />
+    <keyboard-shortcut first-keystroke="alt f" second-keystroke="u" />
+    <keyboard-shortcut first-keystroke="alt comma" second-keystroke="u" />
   </action>
   <action id="Git.Fetch">
-    <keyboard-shortcut first-keystroke="alt COMMA" second-keystroke="F" />
+    <keyboard-shortcut first-keystroke="alt comma" second-keystroke="f" />
   </action>
   <action id="GotoNextError">
-    <keyboard-shortcut first-keystroke="F2" />
-    <keyboard-shortcut first-keystroke="alt E" />
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="alt e" />
   </action>
   <action id="GotoSymbol">
-    <keyboard-shortcut first-keystroke="shift control alt N" />
-    <keyboard-shortcut first-keystroke="alt COMMA" second-keystroke="N" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt n" />
+    <keyboard-shortcut first-keystroke="alt comma" second-keystroke="n" />
   </action>
   <action id="NewElementSamePlace">
-    <keyboard-shortcut first-keystroke="control alt INSERT" />
+    <keyboard-shortcut first-keystroke="ctrl alt insert" />
     <keyboard-shortcut first-keystroke="shift alt 5" />
   </action>
   <action id="NextSplitter">
-    <keyboard-shortcut first-keystroke="alt PERIOD" />
+    <keyboard-shortcut first-keystroke="alt period" />
   </action>
   <action id="RenameElement">
-    <keyboard-shortcut first-keystroke="shift F6" />
-    <keyboard-shortcut first-keystroke="control alt R" />
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
   <action id="ShelvedChanges.Unshelve">
-    <keyboard-shortcut first-keystroke="alt COMMA" second-keystroke="shift S" />
+    <keyboard-shortcut first-keystroke="alt comma" second-keystroke="shift s" />
   </action>
   <action id="ShowErrorDescription">
-    <keyboard-shortcut first-keystroke="control F1" />
-    <keyboard-shortcut first-keystroke="alt COMMA" second-keystroke="COMMA" />
+    <keyboard-shortcut first-keystroke="ctrl f1" />
+    <keyboard-shortcut first-keystroke="alt comma" second-keystroke="comma" />
   </action>
   <action id="SwitchApply">
-    <keyboard-shortcut first-keystroke="shift alt ENTER" />
+    <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
   <action id="SwitchDown">
-    <keyboard-shortcut first-keystroke="shift alt DOWN" />
+    <keyboard-shortcut first-keystroke="shift alt down" />
   </action>
   <action id="SwitchLeft">
-    <keyboard-shortcut first-keystroke="shift alt LEFT" />
+    <keyboard-shortcut first-keystroke="shift alt left" />
   </action>
   <action id="SwitchRight">
-    <keyboard-shortcut first-keystroke="shift alt RIGHT" />
+    <keyboard-shortcut first-keystroke="shift alt right" />
   </action>
   <action id="SwitchUp">
-    <keyboard-shortcut first-keystroke="shift alt UP" />
+    <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
   <action id="Unsplit">
-    <keyboard-shortcut first-keystroke="control alt U" />
+    <keyboard-shortcut first-keystroke="ctrl alt u" />
   </action>
   <action id="Upsource.ReviewRevisions">
-    <keyboard-shortcut first-keystroke="alt COMMA" second-keystroke="Q" />
+    <keyboard-shortcut first-keystroke="alt comma" second-keystroke="q" />
   </action>
 </keymap>
