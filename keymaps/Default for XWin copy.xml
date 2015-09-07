@@ -76,6 +76,11 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="Switcher">
+    <keyboard-shortcut first-keystroke="ctrl tab" />
+    <keyboard-shortcut first-keystroke="shift ctrl tab" />
+    <keyboard-shortcut first-keystroke="alt comma" second-keystroke="a" />
+  </action>
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="ctrl alt u" />
   </action>
