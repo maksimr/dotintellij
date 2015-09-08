@@ -1085,10 +1085,6 @@
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/test/controller/custom-fields-configuration.js" timestamp="1441715617674">
         <mark key="'" line="49" column="64" />
-        <mark key="]" line="85" column="0" />
-        <mark key="^" line="84" column="93" />
-        <mark key="." line="85" column="0" />
-        <mark key="[" line="85" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/reports/test/directive/yt-legend-color-select.js" timestamp="1424075192382">
         <mark key="'" line="1" column="0" />
@@ -1880,8 +1876,10 @@
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-workflow/src/main/kotlin/jetbrains/charisma/workflow/gaprest/Resources.kt" timestamp="1440768620629">
         <mark key="'" line="45" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1441713667709">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1441716440923">
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+        <mark key="[" line="0" column="20" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/search-query-panel/test/service/query-rest-resource.js" timestamp="1428793108044">
         <mark key="'" line="6" column="0" />
@@ -1890,8 +1888,8 @@
         <mark key="." line="6" column="32" />
         <mark key="[" line="6" column="29" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/custom-fields/custom-field-prototype-table.html" timestamp="1441715836387">
-        <mark key="'" line="133" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/custom-fields/custom-field-prototype-table.html" timestamp="1441716481610">
+        <mark key="'" line="23" column="40" />
         <mark key="]" line="9" column="56" />
         <mark key="^" line="9" column="56" />
         <mark key="." line="9" column="56" />
@@ -1998,7 +1996,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields-configuration.js" />
       <jump line="310" column="57" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields-configuration.js" />
       <jump line="461" column="2" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields-configuration.js" />
       <jump line="451" column="5" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields-configuration.js" />
@@ -2098,46 +2095,47 @@
       <jump line="130" column="12" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/custom-fields/custom-field-prototype-table.html" />
       <jump line="9" column="72" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/custom-fields/custom-field-prototype-table.html" />
       <jump line="133" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/custom-fields/custom-field-prototype-table.html" />
+      <jump line="23" column="40" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/custom-fields/custom-field-prototype-table.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>customFieldsPerProjectCtrl</text>
+        <text>Add sorting for prototype custom fields #JT-31831 relates</text>
       </register>
-      <register name="3" type="4">
-        <text>row</text>
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Pgo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text>customFieldsPerProjectCtrl</text>
+      </register>
+      <register name="1" type="4">
+        <text>Add sorting for prototype custom fields #JT-31831 relates</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgbmctbW9kZWw9InRhYmxlSXRlbXMiPgo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZDogJzEnLAogICAgICAgIG9yZGluYWw6IDAK</text>
-      </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>customFieldsPerProjectCtrl</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpdGVtczogJy51aS1zb3J0YWJsZS1pdGVtJywK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVtczogJy51aS1zb3J0YWJsZS1pdGVtJywK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBiZWZvcmVTdG9wOiBvbkJlZm9yZVN0b3BTb3J0aW5nQ3VzdG9tRmllbGRzLAo=</text>
+      </register>
+      <register name="4" type="4">
+        <text>row</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="4">
-        <text>customFieldsPerProjectCtrl</text>
-      </register>
-      <register name="8" type="4">
         <text>customFieldsConfigurationCtrl.projectsWithFieldsTreeViewData;</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpZDogJzEnLAogICAgICAgIG9yZGluYWw6IDAK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2177,7 +2175,7 @@
         <text>sort</text>
       </register>
       <register name="-" type="4">
-        <text>customFieldsPerProjectCtrl</text>
+        <text>Add sorting for prototype custom fields #JT-31831 relates</text>
       </register>
     </registers>
     <search>
