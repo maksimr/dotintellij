@@ -175,8 +175,8 @@
         <mark key="." line="11" column="14" />
         <mark key="[" line="11" column="4" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields-configuration.js" timestamp="1441706322649">
-        <mark key="'" line="127" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields-configuration.js" timestamp="1441710132666">
+        <mark key="'" line="1" column="0" />
         <mark key="a" line="292" column="0" />
         <mark key="]" line="299" column="0" />
         <mark key="^" line="286" column="7" />
@@ -276,8 +276,8 @@
         <mark key="." line="2" column="0" />
         <mark key="[" line="2" column="1" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/yt-custom-field-create-form.html" timestamp="1441706041903">
-        <mark key="'" line="102" column="28" />
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/yt-custom-field-create-form.html" timestamp="1441710138621">
+        <mark key="'" line="149" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-workflow/src/main/kotlin/jetbrains/charisma/workflow/gaprest/Workflow.kt" timestamp="1440768595405">
         <mark key="'" line="31" column="0" />
@@ -1999,9 +1999,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="10" filename="$USER_HOME$/www/jetbrains/YouTrack/dashboard/client/package.json" />
-      <jump line="45" column="13" filename="$USER_HOME$/www/jetbrains/YouTrack/dashboard/client/package.json" />
-      <jump line="48" column="10" filename="$USER_HOME$/www/jetbrains/YouTrack/dashboard/client/package.json" />
       <jump line="52" column="16" filename="$USER_HOME$/www/jetbrains/YouTrack/dashboard/client/package.json" />
       <jump line="54" column="8" filename="$USER_HOME$/www/jetbrains/YouTrack/dashboard/client/package.json" />
       <jump line="56" column="10" filename="$USER_HOME$/www/jetbrains/YouTrack/dashboard/client/package.json" />
@@ -2053,7 +2050,6 @@
       <jump line="15" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/filter/is-bundle-custom-field.js" />
       <jump line="67" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields-configuration.js" />
       <jump line="463" column="2" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields-configuration.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields-configuration.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields-configuration.js" />
       <jump line="310" column="57" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields-configuration.js" />
       <jump line="461" column="2" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields-configuration.js" />
@@ -2099,6 +2095,10 @@
       <jump line="327" column="57" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields-configuration.js" />
       <jump line="385" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields-configuration.js" />
       <jump line="127" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields-configuration.js" />
+      <jump line="227" column="6" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields-configuration.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields-configuration.js" />
+      <jump line="122" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/yt-custom-field-create-form.html" />
+      <jump line="149" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/yt-custom-field-create-form.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2175,16 +2175,16 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>getValueName</text>
+        <text>drag</text>
       </register>
       <register name="-" type="4">
         <text>init</text>
       </register>
     </registers>
     <search>
-      <last-search>getValueName</last-search>
+      <last-search>drag</last-search>
       <last-offset />
-      <last-pattern>getValueName</last-pattern>
+      <last-pattern>drag</last-pattern>
       <last-replace>youtrack-ui\/widgets</last-replace>
       <last-substitute>youtracknewui\/static</last-substitute>
       <last-dir>1</last-dir>
@@ -2192,8 +2192,6 @@
     </search>
     <history>
       <history-search>
-        <entry>youtrack:</entry>
-        <entry>copy:</entry>
         <entry>dist</entry>
         <entry>dist\/static</entry>
         <entry encoding="base64">XDxzdGF0aWNcPg==</entry>
@@ -2212,6 +2210,8 @@
         <entry>todo</entry>
         <entry>TODO</entry>
         <entry>getValueName</entry>
+        <entry encoding="base64">XDwnXD4=</entry>
+        <entry>drag</entry>
       </history-search>
       <history-cmd>
         <entry>/test</entry>
