@@ -915,12 +915,9 @@
         <mark key="." line="5" column="24" />
         <mark key="[" line="5" column="10" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/directive/yt-select-default-values.js" timestamp="1440677024587">
-        <mark key="'" line="29" column="5" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="20" column="41" />
-        <mark key="." line="19" column="0" />
-        <mark key="[" line="19" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/directive/yt-select-default-values.js" timestamp="1441726433196">
+        <mark key="'" line="33" column="5" />
+        <mark key="[" line="24" column="66" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/node_modules/ring-dashboard/app/blocks/youtrack-adapter/youtrack-adapter.js" timestamp="1440496199705">
         <mark key="'" line="17" column="0" />
@@ -1070,11 +1067,11 @@
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/node_modules/ring-dashboard/app/blocks/dashboard/dashboard.js" timestamp="1440596808564">
         <mark key="'" line="27" column="38" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/service/custom-fields/get-custom-field-bundle-values-for-defaults.js" timestamp="1441723830264">
-        <mark key="'" line="45" column="2" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="[" line="23" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/service/custom-fields/get-custom-field-bundle-values-for-defaults.js" timestamp="1441726169956">
+        <mark key="'" line="44" column="2" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="[" line="22" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/menu/controller/menu.js" timestamp="1424964345835">
         <mark key="'" line="12" column="34" />
@@ -1272,6 +1269,9 @@
         <mark key="^" line="18" column="27" />
         <mark key="." line="18" column="27" />
         <mark key="[" line="18" column="24" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/yt-select-default-values.html" timestamp="1441726511901">
+        <mark key="'" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/header/test/e2e/yt-header.html" timestamp="1429540281524">
         <mark key="'" line="81" column="0" />
@@ -2003,7 +2003,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="278" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields-configuration.js" />
       <jump line="444" column="7" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields-configuration.js" />
       <jump line="449" column="2" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields-configuration.js" />
       <jump line="286" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields-configuration.js" />
@@ -2103,46 +2102,47 @@
       <jump line="27" column="22" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/test/service/custom-fields/get-custom-field-bundle-values-for-defaults.js" />
       <jump line="17" column="34" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/service/custom-fields/get-custom-field-bundle-values-for-defaults.js" />
       <jump line="36" column="2" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/service/custom-fields/get-custom-field-bundle-values-for-defaults.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/yt-select-default-values.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZ2V0LWN1c3RvbS1maWVsZC1idW5kbGUtdmFsdWVzLWZvci1kZWZhdWx0cy5qcycsIGJ1bmRsZS5hZ2dyZWdhdGVkVXNlcnMpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>!isMultivalueCustomFieldFilter($scope.customField)</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IC8vIG92ZXJyaWRl</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZ2V0LWN1c3RvbS1maWVsZC1idW5kbGUtdmFsdWVzLWZvci1kZWZhdWx0cy5qcycsIGJ1bmRsZS5hZ2dyZWdhdGVkVXNlcnMpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZ2V0LWN1c3RvbS1maWVsZC1idW5kbGUtdmFsdWVzLWZvci1kZWZhdWx0cy5qcycsICc+Pj4+Jyk7CiAgICAgICAgY29uc29sZS5sb2coJ2dldC1jdXN0b20tZmllbGQtYnVuZGxlLXZhbHVlcy1mb3ItZGVmYXVsdHMuanMnLCBidW5kbGUuYWdncmVnYXRlZFVzZXJzKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZ2V0LWN1c3RvbS1maWVsZC1idW5kbGUtdmFsdWVzLWZvci1kZWZhdWx0cy5qcycsICc+Pj4+Jyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZ2V0LWN1c3RvbS1maWVsZC1idW5kbGUtdmFsdWVzLWZvci1kZWZhdWx0cy5qcycsIGJ1bmRsZS5hZ2dyZWdhdGVkVXNlcnMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygneXQtc2VsZWN0LWRlZmF1bHQtdmFsdWVzLmpzJywgJz4+Pj4+JywgJHNjb3BlLmNhbkJlRW1wdHkpOwo=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmICghYnVuZGxlLmFnZ3JlZ2F0ZWRVc2VycykgewogICAgICAgICAgICBidW5kbGUuYWdncmVnYXRlZFVzZXJzID0gW107IC8vIGF2b2lkIG11bHRpcGxlIHJlcXVlc3RzCgogICAgICAgICAgICByZXR1cm4gY3VzdG9tRmllbGRzUmVzb3VyY2UuYnVuZGxlVmFsdWVzLnF1ZXJ5KGRlY29yYXRlQ3VzdG9tRmllbGRCdW5sZGVSZXF1ZXN0UGFyYW1zKHsKICAgICAgICAgICAgICBjb2xsZWN0aW9uTmFtZTogJ2FnZ3JlZ2F0ZWRVc2VycycgLy8gb3ZlcnJpZGUKICAgICAgICAgICAgfSwgYnVuZGxlLmlkLCBidW5kbGVWYWx1ZVR5cGUpLCBmdW5jdGlvbih2YWx1ZXMpIHsKICAgICAgICAgICAgICBidW5kbGUuYWdncmVnYXRlZFVzZXJzID0gc29ydEJ5T3JkaW5hbCh2YWx1ZXMpOwogICAgICAgICAgICB9KS4kcHJvbWlzZTsKICAgICAgICAgIH0KCiAgICAgICAgICByZXR1cm4gYnVuZGxlLmFnZ3JlZ2F0ZWRVc2VyczsK</text>
+      <register name="0" type="4">
+        <text>!isMultivalueCustomFieldFilter($scope.customField)</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICogCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYnVuZGxlLmFnZ3JlZ2F0ZWRVc2VyczsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJ1bmRsZS5hZ2dyZWdhdGVkVXNlcnMgPSBbXTsgLy8gYXZvaWQgbXVsdGlwbGUgcmVxdWVzdHMKCiAgICAgICAgICByZXR1cm4gY3VzdG9tRmllbGRzUmVzb3VyY2UuYnVuZGxlVmFsdWVzLnF1ZXJ5KGRlY29yYXRlQ3VzdG9tRmllbGRCdW5sZGVSZXF1ZXN0UGFyYW1zKHsKICAgICAgICAgICAgY29sbGVjdGlvbk5hbWU6ICdhZ2dyZWdhdGVkVXNlcnMnIC8vIG92ZXJyaWRlCiAgICAgICAgICB9LCBidW5kbGUuaWQsIGJ1bmRsZVZhbHVlVHlwZSksIGZ1bmN0aW9uKHZhbHVlcykgewogICAgICAgICAgICBidW5kbGUuYWdncmVnYXRlZFVzZXJzID0gc29ydEJ5T3JkaW5hbCh2YWx1ZXMpOwogICAgICAgICAgfSkuJHByb21pc2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYnVuZGxlLmFnZ3JlZ2F0ZWRVc2VyczsK</text>
+      <register name="5" type="4">
+        <text encoding="base64">IC8vIG92ZXJyaWRl</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZ2V0LWN1c3RvbS1maWVsZC1idW5kbGUtdmFsdWVzLWZvci1kZWZhdWx0cy5qcycsICc+Pj4+Jyk7CiAgICAgICAgY29uc29sZS5sb2coJ2dldC1jdXN0b20tZmllbGQtYnVuZGxlLXZhbHVlcy1mb3ItZGVmYXVsdHMuanMnLCBidW5kbGUuYWdncmVnYXRlZFVzZXJzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cmUK</text>
+        <text encoding="base64">ICAgICAgICogCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGJ1bmRsZS5hZ2dyZWdhdGVkVXNlcnMgPSBbXTsgLy8gYXZvaWQgbXVsdGlwbGUgcmVxdWVzdHMKCiAgICAgICAgICByZXR1cm4gY3VzdG9tRmllbGRzUmVzb3VyY2UuYnVuZGxlVmFsdWVzLnF1ZXJ5KGRlY29yYXRlQ3VzdG9tRmllbGRCdW5sZGVSZXF1ZXN0UGFyYW1zKHsKICAgICAgICAgICAgY29sbGVjdGlvbk5hbWU6ICdhZ2dyZWdhdGVkVXNlcnMnIC8vIG92ZXJyaWRlCiAgICAgICAgICB9LCBidW5kbGUuaWQsIGJ1bmRsZVZhbHVlVHlwZSksIGZ1bmN0aW9uKHZhbHVlcykgewogICAgICAgICAgICBidW5kbGUuYWdncmVnYXRlZFVzZXJzID0gc29ydEJ5T3JkaW5hbCh2YWx1ZXMpOwogICAgICAgICAgfSkuJHByb21pc2U7Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2179,16 +2179,16 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>$htt</text>
+        <text>can</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IC8vIG92ZXJyaWRl</text>
       </register>
     </registers>
     <search>
-      <last-search>$htt</last-search>
+      <last-search>can</last-search>
       <last-offset />
-      <last-pattern>$htt</last-pattern>
+      <last-pattern>can</last-pattern>
       <last-replace>youtrack-ui\/widgets</last-replace>
       <last-substitute>youtracknewui\/static</last-substitute>
       <last-dir>1</last-dir>
@@ -2196,8 +2196,6 @@
     </search>
     <history>
       <history-search>
-        <entry>youtracknewui\/static</entry>
-        <entry>youtr</entry>
         <entry encoding="base64">XDxpc0J1bmRsZUZpZWxkXD4=</entry>
         <entry>todo</entry>
         <entry>TODO</entry>
@@ -2216,6 +2214,8 @@
         <entry>sort</entry>
         <entry>default</entry>
         <entry>$htt</entry>
+        <entry>canBe</entry>
+        <entry>can</entry>
       </history-search>
       <history-cmd>
         <entry>/test</entry>
