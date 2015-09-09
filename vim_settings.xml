@@ -173,6 +173,13 @@
         <mark key="." line="11" column="14" />
         <mark key="[" line="11" column="4" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields-configuration.js" timestamp="1441813216246">
+        <mark key="'" line="40" column="0" />
+        <mark key="a" line="292" column="0" />
+        <mark key="]" line="135" column="0" />
+        <mark key="." line="135" column="0" />
+        <mark key="[" line="135" column="0" />
+      </file>
       <file name="$USER_HOME$/exercism/javascript/gigasecond/gigasecond_test.spec.js" timestamp="1441051692321">
         <mark key="'" line="16" column="1" />
         <mark key="]" line="16" column="1" />
@@ -2103,7 +2110,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="448" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields-configuration.js" />
       <jump line="473" column="38" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields-configuration.js" />
       <jump line="23" column="32" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/directive/yt-select-default-values.js" />
       <jump line="55" column="2" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/directive/yt-select-default-values.js" />
@@ -2203,46 +2209,47 @@
       <jump line="147" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/yt-custom-field-bundle.html" />
       <jump line="11" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/projects/template/projects.html" />
       <jump line="147" column="6" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/projects/controller/projects.js" />
+      <jump line="40" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields-configuration.js" />
     </jumps>
     <registers>
       <register name="3" type="4">
-        <text encoding="base64">ZGF0YTog</text>
-      </register>
-      <register name="&quot;" type="4">
         <text>'.ring-sidebar'</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>.ring-sidebar</text>
+        <text>save</text>
       </register>
-      <register name="1" type="4">
-        <text>'.ring-sidebar'</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="0" type="4">
         <text>'.admin-custom-fields__sidebar-field-value-container'</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICA8ZGl2Pgo=</text>
+      <register name="7" type="4">
+        <text>projectQuery</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICA8L2Rpdj4K</text>
+      <register name="6" type="4">
+        <text>projectQuery</text>
       </register>
       <register name="5" type="4">
-        <text>projectQuery</text>
+        <text encoding="base64">ZGF0YTog</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="4" type="4">
-        <text>projectQuery</text>
+        <text>.ring-sidebar</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="4">
-        <text>context</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICA8ZGl2Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICA8L2Rpdj4K</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2279,16 +2286,16 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>dis</text>
+        <text>save</text>
       </register>
       <register name="-" type="4">
-        <text>'.ring-sidebar'</text>
+        <text>save</text>
       </register>
     </registers>
     <search>
-      <last-search>dis</last-search>
+      <last-search>save</last-search>
       <last-offset />
-      <last-pattern>dis</last-pattern>
+      <last-pattern>save</last-pattern>
       <last-replace>youtrack-ui\/widgets</last-replace>
       <last-substitute>youtracknewui\/static</last-substitute>
       <last-dir>1</last-dir>
@@ -2296,7 +2303,6 @@
     </search>
     <history>
       <history-search>
-        <entry>expect</entry>
         <entry>update</entry>
         <entry encoding="base64">XDxvblN0b3BTb3J0aW5nQ3VzdG9tRmllbGRzXD4=</entry>
         <entry>default</entry>
@@ -2316,6 +2322,7 @@
         <entry>sort</entry>
         <entry>repe</entry>
         <entry>dis</entry>
+        <entry>save</entry>
       </history-search>
       <history-cmd>
         <entry>/test</entry>
