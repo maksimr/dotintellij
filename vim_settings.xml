@@ -134,8 +134,8 @@
         <mark key="." line="32" column="1" />
         <mark key="[" line="31" column="5" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/webpack.config.js" timestamp="1442305307916">
-        <mark key="'" line="62" column="2" />
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/webpack.config.js" timestamp="1442933723969">
+        <mark key="'" line="40" column="6" />
         <mark key="]" line="42" column="26" />
         <mark key="^" line="42" column="26" />
         <mark key="." line="42" column="26" />
@@ -2188,14 +2188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/README.md" />
-      <jump line="10" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/script/start-webdriver.sh" />
-      <jump line="13" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/script/start-webdriver.sh" />
-      <jump line="112" column="6" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/e2e.conf.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/webpack.config.js" />
-      <jump line="62" column="2" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/webpack.config.js" />
-      <jump line="40" column="37" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/built-in-components.config.js" />
-      <jump line="42" column="8" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/e2e.conf.js" />
       <jump line="130" column="28" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/e2e.conf.js" />
       <jump line="64" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/e2e.conf.js" />
       <jump line="7" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/e2e.conf.js" />
@@ -2288,6 +2280,14 @@
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/package.json" />
       <jump line="94" column="19" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/package.json" />
       <jump line="63" column="27" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/package.json" />
+      <jump line="206" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/webpack.config.js" />
+      <jump line="327" column="14" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/webpack.config.js" />
+      <jump line="317" column="12" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/webpack.config.js" />
+      <jump line="328" column="14" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/webpack.config.js" />
+      <jump line="23" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/webpack.config.js" />
+      <jump line="50" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/webpack.config.js" />
+      <jump line="44" column="9" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/webpack.config.js" />
+      <jump line="40" column="6" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/webpack.config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2364,25 +2364,23 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>start</text>
+        <text encoding="base64">XDxoYXNUcmFpbGluZ1NsYXNoXD4=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IC0tY29udGVudC1iYXNlIC4vZGlzdA==</text>
       </register>
     </registers>
     <search>
-      <last-search>start</last-search>
+      <last-search encoding="base64">XDxoYXNUcmFpbGluZ1NsYXNoXD4=</last-search>
       <last-offset />
-      <last-pattern>start</last-pattern>
+      <last-pattern encoding="base64">XDxoYXNUcmFpbGluZ1NsYXNoXD4=</last-pattern>
       <last-replace>youtrack-ui\/widgets</last-replace>
       <last-substitute>youtracknewui\/static</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwdF9BcmdzXD4=</entry>
-        <entry encoding="base64">XDx5dF9Ib3N0XD4=</entry>
         <entry encoding="base64">XDx5dF9DdXN0b21Qb3J0XD4=</entry>
         <entry>--port</entry>
         <entry>shift</entry>
@@ -2401,6 +2399,8 @@
         <entry>webpack</entry>
         <entry>built</entry>
         <entry>start</entry>
+        <entry encoding="base64">XDxhZGRDb250ZXh0VG9VcmxcPg==</entry>
+        <entry encoding="base64">XDxoYXNUcmFpbGluZ1NsYXNoXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>/test</entry>
