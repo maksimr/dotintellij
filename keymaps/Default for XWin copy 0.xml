@@ -1,9 +1,19 @@
 <keymap version="1" name="Default for XWin copy 0" parent="Default for XWin">
+  <action id="ActivateReviewsToolWindow">
+    <keyboard-shortcut first-keystroke="alt comma" second-keystroke="shift r" />
+  </action>
+  <action id="ActivateTeamCityToolWindow">
+    <keyboard-shortcut first-keystroke="alt comma" second-keystroke="t" />
+  </action>
   <action id="ChangesView.Commit">
     <keyboard-shortcut first-keystroke="alt comma" second-keystroke="c" />
   </action>
   <action id="ChangesView.Shelve">
     <keyboard-shortcut first-keystroke="alt comma" second-keystroke="shift s" />
+  </action>
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="shift alt f10" />
+    <keyboard-shortcut first-keystroke="alt comma" second-keystroke="r" />
   </action>
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl f12" />
@@ -27,8 +37,5 @@
   </action>
   <action id="SyncSettings">
     <keyboard-shortcut first-keystroke="alt comma" second-keystroke="s" />
-  </action>
-  <action id="Upsource.ReviewRevisions">
-    <keyboard-shortcut first-keystroke="alt comma" second-keystroke="r" />
   </action>
 </keymap>
