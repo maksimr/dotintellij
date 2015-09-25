@@ -31,6 +31,11 @@
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="alt comma" second-keystroke="shift p" />
   </action>
+  <action id="ShowErrorDescription">
+    <keyboard-shortcut first-keystroke="ctrl f1" />
+    <keyboard-shortcut first-keystroke="alt comma" second-keystroke="comma" />
+  </action>
+  <action id="ShowUmlDiagramPopup" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
@@ -53,6 +58,9 @@
   </action>
   <action id="SyncSettings">
     <keyboard-shortcut first-keystroke="alt comma" second-keystroke="s" />
+  </action>
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="ctrl alt u" />
   </action>
   <action id="Upsource.ReviewRevisions">
     <keyboard-shortcut first-keystroke="alt comma" second-keystroke="q" />
