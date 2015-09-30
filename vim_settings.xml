@@ -815,6 +815,9 @@
       <file name="$USER_HOME$/www/jetbrains/YouTrack/dashboard/client/app/blocks/app/app.spec.js" timestamp="1441802534499">
         <mark key="'" line="4" column="20" />
       </file>
+      <file name="/a.regexp" timestamp="1443623976314">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/tmp/23773-keksogram/index.html" timestamp="1443443032787">
         <mark key="'" line="7" column="0" />
         <mark key="]" line="3" column="30" />
@@ -1290,12 +1293,12 @@
         <mark key="." line="10" column="41" />
         <mark key="[" line="10" column="37" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/yt-custom-field-bundle.html" timestamp="1443622008925">
-        <mark key="'" line="203" column="0" />
-        <mark key="]" line="123" column="24" />
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/yt-custom-field-bundle.html" timestamp="1443624437259">
+        <mark key="'" line="11" column="0" />
+        <mark key="]" line="88" column="12" />
         <mark key="^" line="123" column="24" />
-        <mark key="." line="123" column="24" />
-        <mark key="[" line="123" column="13" />
+        <mark key="." line="83" column="0" />
+        <mark key="[" line="83" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/.tmp/components/built-components/built-components.js" timestamp="1440493388359">
         <mark key="'" line="89981" column="324" />
@@ -1507,12 +1510,12 @@
         <mark key="." line="107" column="37" />
         <mark key="[" line="107" column="32" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/service/projects-resource.js" timestamp="1443178892089">
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/service/projects-resource.js" timestamp="1443623975084">
         <mark key="'" line="18" column="24" />
-        <mark key="]" line="44" column="23" />
+        <mark key="]" line="114" column="97" />
         <mark key="^" line="44" column="23" />
         <mark key="." line="44" column="23" />
-        <mark key="[" line="44" column="23" />
+        <mark key="[" line="114" column="55" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/vcs/table.html" timestamp="1441119272744">
         <mark key="'" line="1" column="0" />
@@ -2283,7 +2286,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="538" column="16" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/directive/yt-custom-field-bundle.js" />
       <jump line="622" column="61" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/directive/yt-custom-field-bundle.js" />
       <jump line="564" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/test/directive/yt-custom-field-bundle.js" />
       <jump line="573" column="6" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/test/directive/yt-custom-field-bundle.js" />
@@ -2383,46 +2385,47 @@
       <jump line="101" column="26" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/hub/components/user-page/user-page__general.tpl.html" />
       <jump line="148" column="28" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/hub/components/user-page/user-page__general.tpl.html" />
       <jump line="15" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/hub/webpack.config.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/yt-custom-field-bundle.html" />
     </jumps>
     <registers>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTb3J0IGJ5IHt7dm0uc29ydFZhbHVlc0J5LmxhYmVsfX0K</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>526</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICAgICAgPGRpdiBuZy1pZj0iIWJ1bmRsZSI+CiAgICAgICAgICA8YnV0dG9uIGNsYXNzPSJyaW5nLWJ0biIgbmctY2xpY2s9Im9uQ3JlYXRlTmV3QnVuZGxlKCkiPgogICAgICAgICAgICA8c3BhbiB0cmFuc2xhdGU+Q3JlYXRlIG5ldyBzZXQ8L3NwYW4+CiAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICA8L2Rpdj4K</text>
+      </register>
+      <register name="2" type="4">
         <text>526</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZGlyZWN0aXZlU2NvcGUudm0uc29ydFZhbHVlc0J5ID0gZGlyZWN0aXZlU2NvcGUudm0uc29ydGluZ09wdGlvbnNbMF07Cg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">CiAgICAgICAgPGRpdiBuZy1pZj0iIWJ1bmRsZSI+CiAgICAgICAgICA8YnV0dG9uIGNsYXNzPSJyaW5nLWJ0biIgbmctY2xpY2s9Im9uQ3JlYXRlTmV3QnVuZGxlKCkiPgogICAgICAgICAgICA8c3BhbiB0cmFuc2xhdGU+Q3JlYXRlIG5ldyBzZXQ8L3NwYW4+CiAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICA8L2Rpdj4K</text>
+      </register>
+      <register name="0" type="4">
+        <text>api/admin/projects/:projectId/moveFieldJobs</text>
       </register>
       <register name="7" type="4">
-        <text>sortingOptins</text>
-      </register>
-      <register name="6" type="4">
         <text>'name';</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgZGlyZWN0aXZlU2NvcGUudm0uc29ydFZhbHVlc0J5ID0gJ3JlbGVhc2VEYXRlJzsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTb3J0IGJ5IHt7dm0uc29ydFZhbHVlc0J5LmxhYmVsfX0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHNjb3BlLnZtLnNvcnRWYWx1ZXNCeSA9IG51bGw7Cg==</text>
+      <register name="9" type="4">
+        <text>''</text>
       </register>
       <register name="8" type="4">
-        <text>''</text>
+        <text>sortingOptins</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2459,16 +2462,16 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>Icon</text>
+        <text>new</text>
       </register>
       <register name="-" type="4">
         <text>526</text>
       </register>
     </registers>
     <search>
-      <last-search>Icon</last-search>
+      <last-search>new</last-search>
       <last-offset />
-      <last-pattern>Icon</last-pattern>
+      <last-pattern>new</last-pattern>
       <last-replace>youtrack-ui\/widgets</last-replace>
       <last-substitute>youtracknewui\/static</last-substitute>
       <last-dir>1</last-dir>
@@ -2476,8 +2479,6 @@
     </search>
     <history>
       <history-search>
-        <entry>input</entry>
-        <entry>searchQuery</entry>
         <entry>SearchQuery</entry>
         <entry>isSort</entry>
         <entry>fd</entry>
@@ -2496,6 +2497,8 @@
         <entry>hub</entry>
         <entry>icon</entry>
         <entry>Icon</entry>
+        <entry>create</entry>
+        <entry>new</entry>
       </history-search>
       <history-cmd>
         <entry>/test</entry>
