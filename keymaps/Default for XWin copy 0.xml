@@ -30,6 +30,9 @@
     <keyboard-shortcut first-keystroke="ctrl f7" />
     <keyboard-shortcut first-keystroke="alt comma" second-keystroke="u" />
   </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="alt g" second-keystroke="b" />
+  </action>
   <action id="Git.CheckoutRevision">
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="shift c" />
   </action>
