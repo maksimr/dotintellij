@@ -1775,8 +1775,8 @@
         <mark key="." line="18" column="85" />
         <mark key="[" line="18" column="85" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/directive/yt-custom-field-bundle.js" timestamp="1443796864835">
-        <mark key="'" line="5" column="3" />
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/directive/yt-custom-field-bundle.js" timestamp="1443797428568">
+        <mark key="'" line="137" column="8" />
         <mark key="]" line="17" column="34" />
         <mark key="^" line="17" column="34" />
         <mark key="." line="17" column="34" />
@@ -2276,7 +2276,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="460" column="64" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/directive/yt-custom-field-bundle.js" />
       <jump line="574" column="94" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/directive/yt-custom-field-bundle.js" />
       <jump line="591" column="16" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/directive/yt-custom-field-bundle.js" />
       <jump line="593" column="18" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/directive/yt-custom-field-bundle.js" />
@@ -2376,6 +2375,7 @@
       <jump line="6" column="52" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/service/custom-fields/bundle-usages.js" />
       <jump line="212" column="22" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/directive/yt-custom-field-bundle.js" />
       <jump line="5" column="3" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/directive/yt-custom-field-bundle.js" />
+      <jump line="137" column="8" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/directive/yt-custom-field-bundle.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2452,16 +2452,16 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>permiss</text>
+        <text>usages</text>
       </register>
       <register name="-" type="4">
         <text>i</text>
       </register>
     </registers>
     <search>
-      <last-search>permiss</last-search>
+      <last-search>usages</last-search>
       <last-offset />
-      <last-pattern>permiss</last-pattern>
+      <last-pattern>usages</last-pattern>
       <last-replace>youtrack-ui\/widgets</last-replace>
       <last-substitute>youtracknewui\/static</last-substitute>
       <last-dir>1</last-dir>
@@ -2469,7 +2469,6 @@
     </search>
     <history>
       <history-search>
-        <entry>name</entry>
         <entry>dash</entry>
         <entry>version</entry>
         <entry>hub</entry>
@@ -2489,6 +2488,7 @@
         <entry>i18n</entry>
         <entry>user</entry>
         <entry>permiss</entry>
+        <entry>usages</entry>
       </history-search>
       <history-cmd>
         <entry>/test</entry>
