@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields/custom-fields-per-project.js" timestamp="1444037633978">
-        <mark key="'" line="896" column="11" />
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields/custom-fields-per-project.js" timestamp="1444037913827">
+        <mark key="'" line="0" column="0" />
         <mark key="]" line="885" column="11" />
         <mark key="^" line="885" column="11" />
         <mark key="." line="885" column="11" />
@@ -2280,9 +2280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="21" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/hub/components/user-page/user-page__general.tpl.html" />
-      <jump line="105" column="27" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/hub/components/user-page/user-page__general.tpl.html" />
-      <jump line="152" column="29" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/hub/components/user-page/user-page__general.tpl.html" />
       <jump line="32" column="43" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/hub/components/user-page/user-page__general.tpl.html" />
       <jump line="101" column="26" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/hub/components/user-page/user-page__general.tpl.html" />
       <jump line="148" column="28" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/hub/components/user-page/user-page__general.tpl.html" />
@@ -2380,6 +2377,9 @@
       <jump line="9" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/sidebar-table/directive/yt-sidebar-table.js" />
       <jump line="59" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/sidebar-table/directive/yt-sidebar-table.js" />
       <jump line="896" column="11" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields/custom-fields-per-project.js" />
+      <jump line="26" column="26" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields/custom-fields-per-project.js" />
+      <jump line="908" column="2" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields/custom-fields-per-project.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields/custom-fields-per-project.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2456,16 +2456,16 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>time</text>
+        <text>selectIte</text>
       </register>
       <register name="-" type="4">
         <text>customField</text>
       </register>
     </registers>
     <search>
-      <last-search>time</last-search>
+      <last-search>selectIte</last-search>
       <last-offset />
-      <last-pattern>time</last-pattern>
+      <last-pattern>selectIte</last-pattern>
       <last-replace>youtrack-ui\/widgets</last-replace>
       <last-substitute>youtracknewui\/static</last-substitute>
       <last-dir>1</last-dir>
@@ -2473,7 +2473,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDwpXD4=</entry>
         <entry encoding="base64">XDxpMThuXD4=</entry>
         <entry>canReadProject</entry>
         <entry encoding="base64">XDxpc0ZpZWxkSW5SZWFkQWNjZXNzaWJsZVByb2plY3RcPg==</entry>
@@ -2493,6 +2492,7 @@
         <entry>select</entry>
         <entry encoding="base64">XDxjb21wYXJhdG9yXD4=</entry>
         <entry>time</entry>
+        <entry>selectIte</entry>
       </history-search>
       <history-cmd>
         <entry>/test</entry>
