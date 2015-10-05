@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields/custom-fields-per-project.js" timestamp="1444045017484">
-        <mark key="'" line="503" column="33" />
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields/custom-fields-per-project.js" timestamp="1444045289983">
+        <mark key="'" line="410" column="8" />
         <mark key="]" line="491" column="51" />
         <mark key="^" line="491" column="51" />
         <mark key="." line="491" column="51" />
@@ -212,6 +212,13 @@
         <mark key="^" line="4" column="25751" />
         <mark key="." line="4" column="25739" />
         <mark key="[" line="4" column="25739" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/test/controller/custom-fields/custom-fields-per-project.js" timestamp="1444045717471">
+        <mark key="'" line="24" column="2" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="26" column="62" />
+        <mark key="." line="26" column="0" />
+        <mark key="[" line="26" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/list/directive/yt-list.js" timestamp="1425283655442">
         <mark key="'" line="68" column="14" />
@@ -2035,8 +2042,8 @@
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/teamcity-integration/teamcity-integration-sidebar.js" timestamp="1441281081311">
         <mark key="'" line="189" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/service/custom-fields/on-remove-custom-fields.js" timestamp="1441376959883">
-        <mark key="'" line="1" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/service/custom-fields/on-remove-custom-fields.js" timestamp="1444045480435">
+        <mark key="'" line="7" column="32" />
         <mark key="]" line="70" column="26" />
         <mark key="^" line="70" column="25" />
         <mark key="." line="70" column="26" />
@@ -2289,17 +2296,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/directive/yt-custom-field-bundle.js" />
-      <jump line="680" column="41" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/directive/yt-custom-field-bundle.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/custom-fields/bundle-value/user-presentation.html" />
-      <jump line="101" column="22" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/directive/yt-custom-field-bundle.js" />
-      <jump line="15" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/directive/yt-custom-field-bundle.js" />
-      <jump line="709" column="2" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/directive/yt-custom-field-bundle.js" />
-      <jump line="11" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/directive/yt-custom-field-bundle.js" />
-      <jump line="31" column="44" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/directive/yt-custom-field-bundle.js" />
-      <jump line="44" column="10" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/service/custom-fields/bundle-usages.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/service/custom-fields/bundle-usages.js" />
-      <jump line="29" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/service/custom-fields/bundle-usages.js" />
       <jump line="122" column="2" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/service/custom-fields/bundle-usages.js" />
       <jump line="25" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/service/custom-fields/bundle-usages.js" />
       <jump line="121" column="2" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/service/custom-fields/bundle-usages.js" />
@@ -2389,46 +2385,57 @@
       <jump line="481" column="38" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields/custom-fields-per-project.js" />
       <jump line="484" column="36" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields/custom-fields-per-project.js" />
       <jump line="499" column="33" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields/custom-fields-per-project.js" />
+      <jump line="410" column="8" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields/custom-fields-per-project.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/test/controller/custom-fields/custom-fields-per-project.js" />
+      <jump line="207" column="26" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/test/controller/custom-fields/custom-fields-per-project.js" />
+      <jump line="11" column="11" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/service/custom-fields/on-remove-custom-fields.js" />
+      <jump line="29" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/service/custom-fields/on-remove-custom-fields.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/service/custom-fields/on-remove-custom-fields.js" />
+      <jump line="4" column="5" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/service/custom-fields/on-remove-custom-fields.js" />
+      <jump line="7" column="32" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/service/custom-fields/on-remove-custom-fields.js" />
+      <jump line="341" column="10" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/test/controller/custom-fields/custom-fields-per-project.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/test/controller/custom-fields/custom-fields-per-project.js" />
+      <jump line="24" column="2" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/test/controller/custom-fields/custom-fields-per-project.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgdmFyIGRlZmVyID0gJHEuZGVmZXIoKTsKICAgICAgdmFyIHByb21pc2UgPSBkZWZlci5wcm9taXNlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNoaWxkTGV2ZWxGaWVsZHMK</text>
+        <text encoding="base64">ICAgICAgcHJvbWlzZS4K</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGVudGl0eUluZGV4KTsK</text>
+      <register name="2" type="4">
+        <text>promise;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgdmFyIGRlZmVyID0gJHEuZGVmZXIoKTsKICAgICAgdmFyIHByb21pc2UgPSBkZWZlci5wcm9taXNlOwo=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGNvbXBhcmF0b3IgPSBjb21wYXJhdG9yIHx8IGFuZ3VsYXIuZXF1YWxzOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChzZWxlY3ROb2RlKSB7Cg==</text>
+      <register name="7" type="4">
+        <text>jasmine.createSpy()</text>
       </register>
-      <register name="6" type="4">
-        <text>selectNode</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="5" type="4">
-        <text>customField</text>
+        <text>$q.</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="4" type="4">
+        <text>$q.defer().</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YXIgY3VzdG9tRmllbGRzUGVyUHJvamVjdEN0cmw7CiAgdmFyIHByb2plY3RzV2l0aEZpZWxkc1Jlc3BvbnNlOwogIHZhciAkaHR0cEJhY2tlbmQ7CiAgdmFyICRxOwogIHZhciAkcm9vdFNjb3BlOwogIHZhciB1c2VyUGVybWlzc2lvbnNNb2NrOwogIHZhciBjb25maXJtTW9jazsKICB2YXIgaTE4bjsKICB2YXIgdG9SZWdFeHAgPSBmdW5jdGlvbihzdHJpbmcpIHsKICAgIHJldHVybiBuZXcgUmVnRXhwKHN0cmluZyk7CiAgfTsKICB2YXIgY3JlYXRlUHJvamVjdCA9IGZ1bmN0aW9uKGZpZWxkcykgewogICAgdmFyIHByb2plY3RNb2NrID0ge307CgogICAgY3JlYXRlUHJvamVjdC5pZCA9IGNyZWF0ZVByb2plY3QuaWQgfHwgMDsKICAgIHByb2plY3RNb2NrLmlkID0gY3JlYXRlUHJvamVjdC5pZDsKICAgIGNyZWF0ZVByb2plY3QuaWQgKz0gMTsKCiAgICBwcm9qZWN0TW9jay5maWVsZHMgPSBmaWVsZHMgfHwgW107CgogICAgcmV0dXJuIHByb2plY3RNb2NrOwogIH07Cgo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+      <register name="8" type="4">
+        <text>, $q</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2465,16 +2472,16 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>remove</text>
+        <text>confirm</text>
       </register>
       <register name="-" type="4">
-        <text>customField</text>
+        <text>promise;</text>
       </register>
     </registers>
     <search>
-      <last-search>remove</last-search>
+      <last-search>confirm</last-search>
       <last-offset />
-      <last-pattern>remove</last-pattern>
+      <last-pattern>confirm</last-pattern>
       <last-replace>youtrack-ui\/widgets</last-replace>
       <last-substitute>youtracknewui\/static</last-substitute>
       <last-dir>1</last-dir>
@@ -2482,8 +2489,6 @@
     </search>
     <history>
       <history-search>
-        <entry>insert</entry>
-        <entry>emit</entry>
         <entry>this.selec</entry>
         <entry>timeout</entry>
         <entry>$timeout</entry>
@@ -2501,7 +2506,9 @@
         <entry encoding="base64">XDxyZWJ1aWxkU3ViVHJlZUJ5RW50aXR5XD4=</entry>
         <entry>updateProj</entry>
         <entry encoding="base64">XDx1cGRhdGVUYWJsZVw+</entry>
+        <entry>onRemove</entry>
         <entry>remove</entry>
+        <entry>confirm</entry>
       </history-search>
       <history-cmd>
         <entry>vsplit</entry>
