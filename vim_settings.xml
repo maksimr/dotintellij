@@ -621,7 +621,7 @@
         <mark key="." line="13" column="1" />
         <mark key="[" line="13" column="3" />
       </file>
-      <file name="/a.dummy" timestamp="1444120209279">
+      <file name="/a.dummy" timestamp="1444206641025">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/custom-fields-configuration.html" timestamp="1441905053857">
@@ -1600,8 +1600,8 @@
         <mark key="." line="18" column="85" />
         <mark key="[" line="18" column="85" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/directive/yt-custom-field-bundle.js" timestamp="1444206618822">
-        <mark key="'" line="28" column="109" />
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/directive/yt-custom-field-bundle.js" timestamp="1444207231605">
+        <mark key="'" line="278" column="15" />
         <mark key="]" line="661" column="0" />
         <mark key="^" line="153" column="20" />
         <mark key="." line="661" column="0" />
@@ -1933,7 +1933,7 @@
         <mark key="." line="115" column="62" />
         <mark key="[" line="115" column="63" />
       </file>
-      <file name="/Dummy.txt" timestamp="1444120212209">
+      <file name="/Dummy.txt" timestamp="1444206644220">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/search-query-panel/test/service/query-rest-resource.js" timestamp="1428793108044">
@@ -2039,9 +2039,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="5" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields/custom-fields-per-project.js" />
-      <jump line="616" column="19" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields/custom-fields-per-project.js" />
-      <jump line="25" column="5" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields/custom-fields-per-project.js" />
       <jump line="615" column="17" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields/custom-fields-per-project.js" />
       <jump line="24" column="5" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields/custom-fields-per-project.js" />
       <jump line="603" column="33" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields/custom-fields-per-project.js" />
@@ -2139,6 +2136,9 @@
       <jump line="679" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/test/directive/yt-custom-field-bundle.js" />
       <jump line="267" column="1" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/test/directive/yt-custom-field-bundle.js" />
       <jump line="28" column="109" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/directive/yt-custom-field-bundle.js" />
+      <jump line="92" column="30" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/directive/yt-custom-field-bundle.js" />
+      <jump line="289" column="2" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/directive/yt-custom-field-bundle.js" />
+      <jump line="278" column="15" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/directive/yt-custom-field-bundle.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2215,19 +2215,19 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlZGl0Q3VzdG9tRmllbGRCdW5kbGVWYWx1ZURpYWxvZ01vY2tcPg==</text>
+        <text>TODO</text>
       </register>
       <register name="-" type="4">
         <text>Mock</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlZGl0Q3VzdG9tRmllbGRCdW5kbGVWYWx1ZURpYWxvZ01vY2tcPg==</last-search>
+      <last-search>TODO</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlZGl0Q3VzdG9tRmllbGRCdW5kbGVWYWx1ZURpYWxvZ01vY2tcPg==</last-pattern>
+      <last-pattern>TODO</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -2247,11 +2247,11 @@
         <entry encoding="base64">XDxkZWxldGVTZWxlY3RlZFRhYmxlSXRlbXNcPg==</entry>
         <entry encoding="base64">XDxjdXN0b21GaWVsZHNSZXNvdXJjZVw+</entry>
         <entry>show</entry>
-        <entry>TODO</entry>
         <entry encoding="base64">XDxlZGl0Q3VzdG9tRmllbGRCdW5kbGVWYWx1ZURpYWxvZ1w+</entry>
         <entry>editcCus</entry>
         <entry>dialog</entry>
         <entry encoding="base64">XDxlZGl0Q3VzdG9tRmllbGRCdW5kbGVWYWx1ZURpYWxvZ01vY2tcPg==</entry>
+        <entry>TODO</entry>
       </history-search>
       <history-cmd>
         <entry>show</entry>
