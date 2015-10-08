@@ -52,8 +52,8 @@
         <mark key="." line="8" column="20" />
         <mark key="[" line="8" column="16" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/teamcity-integration/edit-mapping.html" timestamp="1444303845495">
-        <mark key="'" line="22" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/teamcity-integration/edit-mapping.html" timestamp="1444306377045">
+        <mark key="'" line="110" column="11" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/test/service/get-vcs-repository-url.js" timestamp="1441110237699">
         <mark key="'" line="5" column="0" />
@@ -1122,8 +1122,8 @@
         <mark key="." line="73" column="0" />
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/built-in-components.config.js" timestamp="1442242490762">
-        <mark key="'" line="18" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/built-in-components.config.js" timestamp="1444306394978">
+        <mark key="'" line="11" column="6" />
         <mark key="]" line="56" column="87" />
         <mark key="^" line="56" column="87" />
         <mark key="." line="56" column="87" />
@@ -2069,10 +2069,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="204" column="39" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields/custom-fields-per-project.js" />
-      <jump line="200" column="25" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields/custom-fields-per-project.js" />
-      <jump line="11" column="5" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields/custom-fields-per-project.js" />
-      <jump line="350" column="28" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields/custom-fields-per-project.js" />
       <jump line="10" column="5" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields/custom-fields-per-project.js" />
       <jump line="840" column="15" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields/custom-fields-per-project.js" />
       <jump line="815" column="17" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields/custom-fields-per-project.js" />
@@ -2169,6 +2165,10 @@
       <jump line="105" column="14" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/teamcity-integration/edit-mapping.html" />
       <jump line="77" column="29" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/teamcity-integration/edit-mapping.html" />
       <jump line="22" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/teamcity-integration/edit-mapping.html" />
+      <jump line="110" column="11" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/teamcity-integration/edit-mapping.html" />
+      <jump line="12" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/built-in-components.config.js" />
+      <jump line="56" column="101" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/built-in-components.config.js" />
+      <jump line="11" column="6" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/built-in-components.config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2245,16 +2245,16 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>place</text>
+        <text>vendor</text>
       </register>
       <register name="-" type="4">
         <text>project</text>
       </register>
     </registers>
     <search>
-      <last-search>place</last-search>
+      <last-search>vendor</last-search>
       <last-offset />
-      <last-pattern>place</last-pattern>
+      <last-pattern>vendor</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2262,7 +2262,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxlZGl0Q3VzdG9tRmllbGRCdW5kbGVWYWx1ZURpYWxvZ1w+</entry>
         <entry>editcCus</entry>
         <entry>dialog</entry>
         <entry encoding="base64">XDxlZGl0Q3VzdG9tRmllbGRCdW5kbGVWYWx1ZURpYWxvZ01vY2tcPg==</entry>
@@ -2282,6 +2281,7 @@
         <entry>Please</entry>
         <entry>Plea</entry>
         <entry>place</entry>
+        <entry>vendor</entry>
       </history-search>
       <history-cmd>
         <entry>show</entry>
