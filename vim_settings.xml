@@ -378,8 +378,8 @@
         <mark key="." line="71" column="29" />
         <mark key="[" line="90" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/script/server.sh" timestamp="1444389488901">
-        <mark key="'" line="70" column="23" />
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/script/server.sh" timestamp="1444391113749">
+        <mark key="'" line="122" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/node_modules/ring-dashboard/app/blocks/widget/widget.html" timestamp="1430223360885">
         <mark key="'" line="16" column="0" />
@@ -1576,12 +1576,12 @@
         <mark key="." line="5" column="0" />
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/projects/test/e2e/projects.js" timestamp="1444389739228">
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/projects/test/e2e/projects.js" timestamp="1444391032119">
         <mark key="'" line="30" column="17" />
-        <mark key="]" line="19" column="26" />
+        <mark key="]" line="19" column="0" />
         <mark key="^" line="19" column="26" />
-        <mark key="." line="19" column="26" />
-        <mark key="[" line="19" column="26" />
+        <mark key="." line="19" column="0" />
+        <mark key="[" line="19" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/test/service/get-update-info.js" timestamp="1440683219428">
         <mark key="'" line="0" column="0" />
@@ -1980,7 +1980,9 @@
         <mark key="." line="115" column="62" />
         <mark key="[" line="115" column="63" />
       </file>
-      <file name="/Dummy.txt" timestamp="1444389801756" />
+      <file name="/Dummy.txt" timestamp="1444391250422">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/search-query-panel/test/service/query-rest-resource.js" timestamp="1428793108044">
         <mark key="'" line="6" column="0" />
         <mark key="]" line="6" column="32" />
@@ -2058,6 +2060,13 @@
         <mark key="." line="12" column="0" />
         <mark key="[" line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/script/teamcity-e2e-runner.sh" timestamp="1444391243767">
+        <mark key="'" line="2" column="0" />
+        <mark key="]" line="27" column="56" />
+        <mark key="^" line="27" column="56" />
+        <mark key="." line="27" column="56" />
+        <mark key="[" line="27" column="49" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/globals/globals.js" timestamp="1440582756985">
         <mark key="'" line="2" column="0" />
         <mark key="]" line="13" column="24" />
@@ -2081,10 +2090,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/mailbox-settings.js" />
-      <jump line="292" column="10" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/mailbox-settings.js" />
-      <jump line="291" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/mailbox-settings.js" />
-      <jump line="278" column="30" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/mailbox-settings.js" />
       <jump line="188" column="32" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/mailbox-settings.js" />
       <jump line="86" column="17" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/mailbox-settings.js" />
       <jump line="279" column="41" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/mailbox-settings.js" />
@@ -2177,50 +2182,54 @@
       <jump line="88" column="25" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/script/server.sh" />
       <jump line="2" column="5" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/script/server.sh" />
       <jump line="119" column="5" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/script/server.sh" />
-      <jump line="122" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/script/server.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/script/server.sh" />
       <jump line="70" column="23" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/script/server.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/e2e.conf.js" />
+      <jump line="25" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/script/teamcity-e2e-runner.sh" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/script/teamcity-e2e-runner.sh" />
+      <jump line="94" column="7" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/script/server.sh" />
+      <jump line="27" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/script/server.sh" />
+      <jump line="122" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/script/server.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBicm93c2VyLmRyaXZlci5zbGVlcCgxMDAwKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PHBhdGg+</text>
       </register>
-      <register name="3" type="4">
-        <text>, $q</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGJyb3dzZXIuZHJpdmVyLnNsZWVwKDMwMDAwMCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgaXQoJ3Nob3VsZCBhZGQgbmV3IHJ1bGUnLCBmdW5jdGlvbigpIHsKICAgIG1haWxCb3hDdHJsLmFkZE5ld1J1bGUoKTsKCiAgICBleHBlY3QodHJ1ZSkudG9FcXVhbCh0cnVlKTsKICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjdXJyZW50VXNlclJlc29sdmUpOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">PHBhdGg+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBicm93c2VyLmRyaXZlci5zbGVlcCgxMDAwKTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGF1dGhNb2NrLnJlcXVlc3RVc2VyID0gamFzbWluZS5jcmVhdGVTcHkoJ3JlcXVlc3RVc2VyJykuYW5kLnJldHVyblZhbHVlKCRxLmRlZmVyKCkucHJvbWlzZSk7Cg==</text>
+      <register name="7" type="4">
+        <text>UsersMock</text>
       </register>
       <register name="6" type="4">
-        <text>authMock</text>
+        <text>, $q</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2YXIgYXV0aE1vY2s7Cg==</text>
+        <text encoding="base64">CiAgaXQoJ3Nob3VsZCBhZGQgbmV3IHJ1bGUnLCBmdW5jdGlvbigpIHsKICAgIG1haWxCb3hDdHJsLmFkZE5ld1J1bGUoKTsKCiAgICBleHBlY3QodHJ1ZSkudG9FcXVhbCh0cnVlKTsKICB9KTsK</text>
       </register>
-      <register name="4" type="4">
-        <text>UsersMock</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjdXJyZW50VXNlclJlc29sdmUpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLyoqCiAgICAgICAqIFRPRE8obWFrc2ltcnYpOiBDaGFuZ2UgVXNlcnMgYW5kIGF1dGggb24gY3VycmVudFVzZXIKICAgICAgICovCiAgICAgIFVzZXJzOiBVc2Vyc01vY2ssCiAgICAgIGF1dGg6IGF1dGhNb2NrCg==</text>
+      <register name="9" type="4">
+        <text>authMock</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YXIgYXV0aE1vY2s7Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2257,25 +2266,23 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>sleep</text>
+        <text encoding="base64">XDx0bXBcPg==</text>
       </register>
       <register name="-" type="4">
-        <text>, $q</text>
+        <text encoding="base64">PHBhdGg+</text>
       </register>
     </registers>
     <search>
-      <last-search>sleep</last-search>
+      <last-search encoding="base64">XDx0bXBcPg==</last-search>
       <last-offset />
-      <last-pattern>sleep</last-pattern>
+      <last-pattern encoding="base64">XDx0bXBcPg==</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>vendor</entry>
-        <entry encoding="base64">XDxmaWx0ZXJNYWlsYm94RGF0YUZvckZldGNoXD4=</entry>
         <entry encoding="base64">XDxmaWx0ZXJNYWlsUnVsZURhdGFGb3JTYXZpbmdcPg==</entry>
         <entry encoding="base64">XDxmaWx0ZXJNYWlsYm94RGF0YUZvclNhdmluZ1w+</entry>
         <entry>mailbox</entry>
@@ -2294,6 +2301,8 @@
         <entry encoding="base64">XDxjdXJyZW50VXNlclJlc29sdmVcPg==</entry>
         <entry>dev\/null</entry>
         <entry>sleep</entry>
+        <entry>tmp</entry>
+        <entry encoding="base64">XDx0bXBcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>show</entry>
