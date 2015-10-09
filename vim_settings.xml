@@ -1213,12 +1213,12 @@
         <mark key="." line="10" column="41" />
         <mark key="[" line="10" column="37" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/yt-custom-field-bundle.html" timestamp="1444395433918">
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/yt-custom-field-bundle.html" timestamp="1444399613162">
         <mark key="'" line="1" column="0" />
-        <mark key="]" line="150" column="75" />
+        <mark key="]" line="150" column="10" />
         <mark key="^" line="150" column="10" />
-        <mark key="." line="150" column="0" />
-        <mark key="[" line="150" column="0" />
+        <mark key="." line="150" column="10" />
+        <mark key="[" line="149" column="45" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/.tmp/components/built-components/built-components.js" timestamp="1440493388359">
         <mark key="'" line="89981" column="324" />
@@ -1669,13 +1669,13 @@
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/user/service/users.js" timestamp="1444310797611">
         <mark key="'" line="52" column="22" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/directive/yt-custom-field-bundle.js" timestamp="1444395654760">
-        <mark key="'" line="671" column="13" />
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/directive/yt-custom-field-bundle.js" timestamp="1444399809510">
+        <mark key="'" line="415" column="34" />
         <mark key="a" line="615" column="31" />
-        <mark key="]" line="698" column="20" />
-        <mark key="^" line="600" column="39" />
-        <mark key="." line="698" column="20" />
-        <mark key="[" line="698" column="20" />
+        <mark key="]" line="473" column="13" />
+        <mark key="^" line="473" column="13" />
+        <mark key="." line="473" column="13" />
+        <mark key="[" line="472" column="78" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/reports/_reports/types/resolutionTime/resolutionTime.js" timestamp="1422022946787">
         <mark key="'" line="36" column="2" />
@@ -2111,8 +2111,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="60" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/mail-box.html" />
-      <jump line="0" column="34" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/mail-box.html" />
       <jump line="5" column="29" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/mail-box.html" />
       <jump line="13" column="36" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/mail-box.html" />
       <jump line="15" column="39" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/mail-box.html" />
@@ -2211,46 +2209,48 @@
       <jump line="603" column="13" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/directive/yt-custom-field-bundle.js" />
       <jump line="600" column="39" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/directive/yt-custom-field-bundle.js" />
       <jump line="671" column="13" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/directive/yt-custom-field-bundle.js" />
+      <jump line="474" column="39" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/directive/yt-custom-field-bundle.js" />
+      <jump line="415" column="34" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/directive/yt-custom-field-bundle.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>$scope.scrollConfig.max</text>
       </register>
-      <register name="3" type="4">
-        <text>projectsCtrl</text>
-      </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJz4+Pj4+PicpOwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="2" type="4">
         <text>0</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAkcm9vdFNjb3BlLiRlbWl0KHByb2plY3RzQ3RybC5JTkZJTklURV9TQ1JPTExfRVZFTlQpOwo=</text>
+      <register name="1" type="4">
+        <text>''</text>
+      </register>
+      <register name="0" type="4">
+        <text>$scope.scrollConfig.max</text>
       </register>
       <register name="7" type="4">
-        <text>.then(function(response) { })</text>
-      </register>
-      <register name="6" type="4">
         <text>projectsCtrl</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>rootScope</text>
       </register>
       <register name="4" type="4">
-        <text>rootScope</text>
+        <text>projectsCtrl</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJz4+Pj4+PicpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgJHJvb3RTY29wZS4kZW1pdCgkc2NvcGUudm0uSU5GSU5JVEVfU0NST0xMX0VWRU5UKTsKICAgICAgICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlOwo=</text>
+      </register>
+      <register name="8" type="4">
+        <text>.then(function(response) { })</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2287,16 +2287,16 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>20</text>
+        <text>total</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>''</text>
       </register>
     </registers>
     <search>
-      <last-search>20</last-search>
+      <last-search>total</last-search>
       <last-offset />
-      <last-pattern>20</last-pattern>
+      <last-pattern>total</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2304,7 +2304,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Users</entry>
         <entry>user</entry>
         <entry encoding="base64">XDxVc2Vyc1w+</entry>
         <entry encoding="base64">XDxkYXRhXD4=</entry>
@@ -2324,6 +2323,7 @@
         <entry>scroll</entry>
         <entry>scope</entry>
         <entry>20</entry>
+        <entry>total</entry>
       </history-search>
       <history-cmd>
         <entry>show</entry>
