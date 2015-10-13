@@ -159,8 +159,8 @@
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/hub/node_modules/npm/lib/completion.js" timestamp="1441893600070">
         <mark key="'" line="247" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/README.md" timestamp="1444297164979">
-        <mark key="'" line="57" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/README.md" timestamp="1444747092526">
+        <mark key="'" line="143" column="96" />
         <mark key="]" line="82" column="59" />
         <mark key="^" line="229" column="63" />
         <mark key="." line="229" column="63" />
@@ -2451,10 +2451,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="15" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields/custom-fields-per-project.js" />
-      <jump line="92" column="15" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields/custom-fields-per-project.js" />
-      <jump line="80" column="15" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields/custom-fields-per-project.js" />
-      <jump line="61" column="17" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields/custom-fields-per-project.js" />
       <jump line="558" column="10" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields/custom-fields-per-project.js" />
       <jump line="173" column="12" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields/custom-fields-per-project.js" />
       <jump line="9" column="5" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/controller/custom-fields/custom-fields-per-project.js" />
@@ -2551,6 +2547,10 @@
       <jump line="15" column="13" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/directive/yt-custom-field-bundle.js" />
       <jump line="22" column="5" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/custom-fields/dialog-replace-bundle.html" />
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/custom-fields/dialog-replace-bundle.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/README.md" />
+      <jump line="28" column="81" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/README.md" />
+      <jump line="142" column="8" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/README.md" />
+      <jump line="143" column="96" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/README.md" />
     </jumps>
     <registers>
       <register name="3" type="2">
@@ -2627,16 +2627,16 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>dialog</text>
+        <text>e2e</text>
       </register>
       <register name="-" type="4">
         <text>localizedName</text>
       </register>
     </registers>
     <search>
-      <last-search>dialog</last-search>
+      <last-search>e2e</last-search>
       <last-offset />
-      <last-pattern>dialog</last-pattern>
+      <last-pattern>e2e</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2644,8 +2644,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpc1Byb2R1Y3Rpb25cPg==</entry>
-        <entry>dist</entry>
         <entry>content</entry>
         <entry>error</entry>
         <entry>history</entry>
@@ -2664,6 +2662,8 @@
         <entry>20</entry>
         <entry encoding="base64">XDxpc0UyRVw+</entry>
         <entry>dialog</entry>
+        <entry>test</entry>
+        <entry>e2e</entry>
       </history-search>
       <history-cmd>
         <entry>show</entry>
