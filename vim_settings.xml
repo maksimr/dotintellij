@@ -177,8 +177,8 @@
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.jetbrains.webr-dnq/jetbrains.teamsys.dnq.runtime/2716/cb4738364df852120ece4e89b6b8dd7a5201994b/jetbrains.teamsys.dnq.runtime-2716-sources.jar!/jetbrains/teamsys/dnq/runtime/util/DnqUtils.java" timestamp="1441107367707">
         <mark key="'" line="234" column="9" />
       </file>
-      <file name="$USER_HOME$/www/js/karma/lib/cli.js" timestamp="1444161345425">
-        <mark key="'" line="157" column="15" />
+      <file name="$USER_HOME$/www/js/karma/lib/cli.js" timestamp="1444782643243">
+        <mark key="'" line="158" column="36" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/text-index-settings.html" timestamp="1444297687353">
         <mark key="'" line="67" column="0" />
@@ -291,8 +291,8 @@
         <mark key="^" line="16" column="120" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/www/js/karma/package.json" timestamp="1444340791441">
-        <mark key="'" line="44" column="13" />
+      <file name="$USER_HOME$/www/js/karma/package.json" timestamp="1444782911285">
+        <mark key="'" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/node_modules/ring-dashboard/package.json" timestamp="1444648900039">
         <mark key="'" line="78" column="51" />
@@ -360,9 +360,12 @@
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/node_modules/ring-dashboard/app/blocks/youtrack-adapter/youtrack-adapter.js" timestamp="1440496199705">
         <mark key="'" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/www/js/karma/lib/server.js" timestamp="1444778025591">
-        <mark key="'" line="73" column="0" />
+      <file name="$USER_HOME$/www/js/karma/lib/server.js" timestamp="1444782882106">
+        <mark key="'" line="323" column="0" />
         <mark key="." line="274" column="61" />
+      </file>
+      <file name="$USER_HOME$/www/js/karma/node_modules/http-proxy/lib/http-proxy.js" timestamp="1444782078882">
+        <mark key="'" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-new-ui/app/pages/admin/test/controller/custom-fields/bundle-value-owned-edit.js" timestamp="1442880189372">
         <mark key="'" line="0" column="0" />
@@ -454,6 +457,9 @@
       <file name="$USER_HOME$/www/js/karma/test/unit/reporter.spec.js" timestamp="1444682708295">
         <mark key="'" line="101" column="14" />
       </file>
+      <file name="$USER_HOME$/www/js/karma/lib/middleware/proxy.js" timestamp="1444782133679">
+        <mark key="'" line="1" column="4" />
+      </file>
       <file name="$USER_HOME$/www/js/strftime/node_modules/karma-phantomjs2-launcher/README.md" timestamp="1444170974209">
         <mark key="[" line="32" column="16" />
         <mark key="]" line="32" column="25" />
@@ -468,13 +474,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="6" filename="$USER_HOME$/www/js/23773-keksogram/js/pictures.js" />
-      <jump line="207" column="11" filename="$USER_HOME$/www/js/23773-keksogram/js/pictures.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/www/js/17243-keksogram/src/js/partials/data-pictures.js" />
-      <jump line="208" column="22" filename="$USER_HOME$/www/js/23773-keksogram/js/pictures.js" />
-      <jump line="9" column="3" filename="$USER_HOME$/www/js/23773-keksogram/js/pictures.js" />
-      <jump line="39" column="29" filename="$USER_HOME$/www/js/23773-keksogram/js/pictures.js" />
-      <jump line="210" column="8" filename="$USER_HOME$/www/js/23773-keksogram/js/pictures.js" />
       <jump line="206" column="17" filename="$USER_HOME$/www/js/23773-keksogram/js/pictures.js" />
       <jump line="204" column="16" filename="$USER_HOME$/www/js/23773-keksogram/js/pictures.js" />
       <jump line="19" column="6" filename="$USER_HOME$/www/js/23773-keksogram/js/pictures.js" />
@@ -568,6 +567,13 @@
       <jump line="85" column="26" filename="$USER_HOME$/www/js/karma/lib/reporter.js" />
       <jump line="116" column="17" filename="$USER_HOME$/www/js/karma/lib/reporter.js" />
       <jump line="119" column="0" filename="$USER_HOME$/www/js/karma/lib/reporter.js" />
+      <jump line="46" column="0" filename="$USER_HOME$/www/js/karma/node_modules/http-proxy/lib/http-proxy.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/www/js/karma/node_modules/http-proxy/lib/http-proxy.js" />
+      <jump line="19" column="0" filename="$USER_HOME$/www/js/karma/lib/middleware/proxy.js" />
+      <jump line="1" column="4" filename="$USER_HOME$/www/js/karma/lib/middleware/proxy.js" />
+      <jump line="158" column="36" filename="$USER_HOME$/www/js/karma/lib/cli.js" />
+      <jump line="323" column="0" filename="$USER_HOME$/www/js/karma/lib/server.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/www/js/karma/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -611,7 +617,7 @@
         <text>filter-</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjcmVhdGVSZXBvcnRlcnNcPg==</text>
+        <text>version</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBsb2FkUGljdHVyZXMoZnVuY3Rpb24obG9hZGVkUGljdHVyZXMpIHsKICAgIHBpY3R1cmVzID0gbG9hZGVkUGljdHVyZXM7CiAgICB2YXIgYWN0aXZlRmlsdGVyID0gbG9jYWxTdG9yYWdlLmdldEl0ZW0oJ2ZpbHRlclZhbHVlJykgfHwgJ3BvcHVsYXInOwogICAgZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2ZpbHRlci0nICsgYWN0aXZlRmlsdGVyKS5jaGVja2VkID0gdHJ1ZTsKICAgIHNldEFjdGl2ZUZpbHRlcihhY3RpdmVGaWx0ZXIpOwogIH0pOwo=</text>
@@ -651,19 +657,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjcmVhdGVSZXBvcnRlcnNcPg==</last-search>
+      <last-search>version</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjcmVhdGVSZXBvcnRlcnNcPg==</last-pattern>
+      <last-pattern>version</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZW5kZXJQcm9qZWN0UGljdHVyZXNcPg==</entry>
-        <entry encoding="base64">XDxzaG93UGljdHVyZXNcPg==</entry>
-        <entry>pictures</entry>
         <entry>loading</entry>
         <entry>check</entry>
         <entry>click</entry>
@@ -681,6 +684,9 @@
         <entry>reporter</entry>
         <entry encoding="base64">XDxyZXBvcnRlclw+</entry>
         <entry encoding="base64">XDxjcmVhdGVSZXBvcnRlcnNcPg==</entry>
+        <entry encoding="base64">XDxodHRwUHJveHlcPg==</entry>
+        <entry>prote</entry>
+        <entry>version</entry>
       </history-search>
       <history-cmd>
         <entry>vsplit</entry>
