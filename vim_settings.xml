@@ -219,13 +219,13 @@
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/stepic-java-base-course/src/Main.java" timestamp="1444832241049">
         <mark key="'" line="3" column="14" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/e2e.conf.js" timestamp="1445006081555">
-        <mark key="'" line="30" column="19" />
-        <mark key="]" line="64" column="97" />
+      <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/e2e.conf.js" timestamp="1445007183206">
+        <mark key="'" line="98" column="23" />
+        <mark key="]" line="187" column="37" />
         <mark key="^" line="64" column="97" />
         <mark key="m" line="58" column="0" />
         <mark key="." line="64" column="97" />
-        <mark key="[" line="64" column="87" />
+        <mark key="[" line="187" column="15" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/teamcity-integration/branch-settings.html" timestamp="1444303736522">
         <mark key="'" line="82" column="0" />
@@ -558,7 +558,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="1" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/issue/test/e2e/example/example.js" />
       <jump line="65" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/index.html" />
       <jump line="56" column="30" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/issue/test/helpers/issue.js" />
       <jump line="61" column="41" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/issue/test/directive/yt-issue.js" />
@@ -658,10 +657,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/e2e.conf.js" />
       <jump line="30" column="19" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/e2e.conf.js" />
       <jump line="222" column="2" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/README.md" />
+      <jump line="98" column="23" filename="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/e2e.conf.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ID09PSBicm93c2VyTmFtZS50b0xvd2VyQ2FzZSgpOw==</text>
+        <text>/oauth?state=/dashboard</text>
       </register>
       <register name="3" type="4">
         <text>3278</text>
@@ -673,7 +673,7 @@
         <text encoding="base64">ID09PSBicm93c2VyTmFtZS50b0xvd2VyQ2FzZSgpOw==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">YnJvd3Nlck9iai5icm93c2VyTmFtZS50b0xvd2VyQ2FzZSgpLnNlYXJjaChicm93c2VyTmFtZSkgPiAtMQ==</text>
+        <text>/oauth?state=/dashboard</text>
       </register>
       <register name="7" type="4">
         <text>-1</text>
@@ -734,16 +734,16 @@
         </keys>
       </register>
       <register name="/" type="4">
-        <text>ie</text>
+        <text>login</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ID09PSBicm93c2VyTmFtZS50b0xvd2VyQ2FzZSgpOw==</text>
       </register>
     </registers>
     <search>
-      <last-search>ie</last-search>
+      <last-search>login</last-search>
       <last-offset />
-      <last-pattern>ie</last-pattern>
+      <last-pattern>login</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -751,7 +751,6 @@
     </search>
     <history>
       <history-search>
-        <entry>#DBEA</entry>
         <entry>FF5</entry>
         <entry>DB</entry>
         <entry>date</entry>
@@ -771,6 +770,7 @@
         <entry>ring-ui</entry>
         <entry>hostn</entry>
         <entry>ie</entry>
+        <entry>login</entry>
       </history-search>
       <history-cmd>
         <entry>show</entry>
