@@ -654,8 +654,11 @@
         <mark key="^" line="0" column="39" />
         <mark key="." line="0" column="39" />
       </file>
-      <file name="$USER_HOME$/www/js/23773-keksogram/js/resize-picture.js" timestamp="1446148136345">
-        <mark key="'" line="6" column="0" />
+      <file name="$USER_HOME$/www/js/23773-keksogram/js/resize-picture.js" timestamp="1446222273208">
+        <mark key="'" line="186" column="14" />
+        <mark key="[" line="232" column="0" />
+        <mark key="]" line="232" column="0" />
+        <mark key="." line="232" column="0" />
       </file>
       <file name="$USER_HOME$/www/js/karma/lib/launcher.js" timestamp="1444777760975">
         <mark key="'" line="56" column="18" />
@@ -1388,6 +1391,10 @@
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/custom-fields/bundle-value/user-presentation.html" timestamp="1443792161817">
         <mark key="'" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/js/23773-keksogram/js/views/views_photo.js" timestamp="1446221332760">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="24" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/upsource/test/e2e/yt-upsource-commits.html" timestamp="1425315461333">
         <mark key="'" line="71" column="0" />
@@ -2727,8 +2734,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="377" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/gesture/gesture.js" />
-      <jump line="376" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/gesture/gesture.js" />
       <jump line="372" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/gesture/gesture.js" />
       <jump line="371" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/gesture/gesture.js" />
       <jump line="367" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/gesture/gesture.js" />
@@ -2827,10 +2832,12 @@
       <jump line="38" column="29" filename="$USER_HOME$/www/js/17243-keksogram/src/js/partials/resize-form-validate.js" />
       <jump line="34" column="40" filename="$USER_HOME$/www/js/17243-keksogram/src/js/partials/resize-form-validate.js" />
       <jump line="131" column="0" filename="$USER_HOME$/www/js/17243-keksogram/src/js/partials/resize-form-validate.js" />
+      <jump line="274" column="34" filename="$USER_HOME$/www/js/23773-keksogram/js/resize-picture.js" />
+      <jump line="186" column="14" filename="$USER_HOME$/www/js/23773-keksogram/js/resize-picture.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text encoding="base64">ZGlzcGxhY2VtZW50WC5tYXggPSAKZGlzcGxhY2VtZW50WS5tYXggPSA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4+PicpOwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2870,49 +2877,49 @@
         <text>attr</text>
       </register>
       <register name="/" type="4">
-        <text>max</text>
+        <text>onDrag</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRpc3BsYWNlbWVudFgubWF4ID0gTWF0aC5tYXgoaW1nU2l6ZS53aWR0aCAtIHNpZGUudmFsdWUsIDApOwogICAgZGlzcGxhY2VtZW50WS5tYXggPSBNYXRoLm1heChpbWdTaXplLmhlaWdodCAtIHNpZGUudmFsdWUsIDApOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJz4+Pj4nKQo=</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">ZGlzcGxhY2VtZW50WC5tYXggPSAKZGlzcGxhY2VtZW50WS5tYXggPSA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4+PicpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJz4+Pj4nKQo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHNpZGUuc2V0QXR0cmlidXRlKCdtYXgnLCBzaWRlLm1heCk7Cg==</text>
+      <register name="3" type="8">
+        <text encoding="base64">ZGlzcGxhY2VtZW50WC5tYXggPSAKZGlzcGxhY2VtZW50WS5tYXggPSA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRpc3BsYWNlbWVudFguc2V0QXR0cmlidXRlKCdtYXgnLCBkaXNwbGFjZW1lbnRYLm1heCk7CiAgICBkaXNwbGFjZW1lbnRZLnNldEF0dHJpYnV0ZSgnbWF4JywgZGlzcGxhY2VtZW50WS5tYXgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIHNpZGUuc2V0QXR0cmlidXRlKCdtYXgnLCBzaWRlLm1heCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGRpc3BsYWNlbWVudFguc2V0QXR0cmlidXRlKCdtYXgnLCBkaXNwbGFjZW1lbnRYLm1heCk7CiAgICBkaXNwbGFjZW1lbnRZLnNldEF0dHJpYnV0ZSgnbWF4JywgZGlzcGxhY2VtZW50WS5tYXgpOwo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc+Pj4nKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text>attr</text>
-      </register>
-      <register name="7" type="4">
-        <text>attr</text>
-      </register>
       <register name="8" type="4">
-        <text>max = Math.max(imgSize.height - side.value, 0);</text>
+        <text>attr</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ID0gTWF0aC5tYXgoaW1nU2l6ZS53aWR0aCAtIHNpZGUudmFsdWUsIDApOw==</text>
+        <text>attr</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>max</last-search>
+      <last-search>onDrag</last-search>
       <last-offset />
-      <last-pattern>max</last-pattern>
+      <last-pattern>onDrag</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2920,8 +2927,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsYXN0TGFiZWxDbGlja1Bvc1w+</entry>
-        <entry encoding="base64">XDxpc0luaXRpYWxpemVkXD4=</entry>
         <entry>angular.module</entry>
         <entry>slider</entry>
         <entry>youtrack.components</entry>
@@ -2940,6 +2945,8 @@
         <entry>filter</entry>
         <entry>src</entry>
         <entry>max</entry>
+        <entry>drag</entry>
+        <entry>onDrag</entry>
       </history-search>
       <history-cmd>
         <entry>unsplit</entry>
