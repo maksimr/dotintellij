@@ -917,8 +917,8 @@
         <mark key="^" line="10" column="41" />
         <mark key="." line="10" column="41" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1447419484638">
-        <mark key="'" line="259" column="10" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1447419557543">
+        <mark key="'" line="97" column="10" />
         <mark key="[" line="322" column="16" />
         <mark key="]" line="322" column="14" />
         <mark key="." line="322" column="14" />
@@ -2819,7 +2819,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="19" filename="$USER_HOME$/www/js/karma-mocha/src/adapter.js" />
       <jump line="50" column="9" filename="$USER_HOME$/www/js/karma-mocha/src/adapter.js" />
       <jump line="83" column="33" filename="$USER_HOME$/www/js/karma-mocha/src/adapter.js" />
       <jump line="126" column="61" filename="$USER_HOME$/www/js/karma-mocha/src/adapter.js" />
@@ -2912,13 +2911,14 @@
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
       <jump line="275" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-board.js" />
-      <jump line="317" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="304" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="297" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="282" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="259" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="142" column="1" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-board.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-board.js" />
+      <jump line="317" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="97" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2962,7 +2962,7 @@
         <text>agileBoardCtrl.agile.backlogIssues || []</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRCYWNrbG9nSXNzdWVzXD4=</text>
+        <text>loadBacklogIssue</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgaXQoJ3Nob3VsZCByZXBvcnQgdGltZSAwIGZvciBza2lwcGVkIHRlc3RzJywgZnVuY3Rpb24gKCkgewogICAgICAgIHNhbmRib3guc3R1Yih0YywgJ3Jlc3VsdCcsIGZ1bmN0aW9uIChyZXN1bHQpIHsKICAgICAgICAgIGV4cGVjdChyZXN1bHQuc2tpcHBlZCkudG8uZXEodHJ1ZSkKICAgICAgICAgIGV4cGVjdChyZXN1bHQudGltZSkudG8uZXEoMCkKICAgICAgICB9KQoKICAgICAgICB2YXIgbW9ja01vY2hhUmVzdWx0ID0gewogICAgICAgICAgcGVuZGluZzogdHJ1ZSwKICAgICAgICAgIHBhcmVudDoge3Jvb3Q6IHRydWV9CiAgICAgICAgfQoKICAgICAgICBydW5uZXIuZW1pdCgndGVzdCcsIG1vY2tNb2NoYVJlc3VsdCkKICAgICAgICBydW5uZXIuZW1pdCgndGVzdCBlbmQnLCBtb2NrTW9jaGFSZXN1bHQpCgogICAgICAgIGV4cGVjdCh0Yy5yZXN1bHQuY2FsbGVkKS50by5lcSh0cnVlKQogICAgICB9KQo=</text>
@@ -3002,17 +3002,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRCYWNrbG9nSXNzdWVzXD4=</last-search>
+      <last-search>loadBacklogIssue</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRCYWNrbG9nSXNzdWVzXD4=</last-pattern>
+      <last-pattern>loadBacklogIssue</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>$httBackend</entry>
         <entry>httpBackend</entry>
         <entry>ngMock</entry>
         <entry>phantom</entry>
@@ -3032,6 +3031,7 @@
         <entry>gradlew</entry>
         <entry>jar</entry>
         <entry encoding="base64">XDxnZXRCYWNrbG9nSXNzdWVzXD4=</entry>
+        <entry>loadBacklogIssue</entry>
       </history-search>
       <history-cmd>
         <entry>unsplit</entry>
