@@ -497,8 +497,8 @@
       <file name="/JUnit4 SetUp Method.txt.ft" timestamp="1444831423700">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/template/projects-info.html" timestamp="1447414282700">
-        <mark key="'" line="51" column="93" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/template/projects-info.html" timestamp="1447415318211">
+        <mark key="'" line="78" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/mail-box/rule-form.html" timestamp="1444308602515">
         <mark key="'" line="11" column="49" />
@@ -917,8 +917,8 @@
         <mark key="^" line="10" column="41" />
         <mark key="." line="10" column="41" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1447415238217">
-        <mark key="'" line="408" column="2" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1447415287864">
+        <mark key="'" line="355" column="19" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/node_modules/ng-infinite-scroll/test/spec/ng-infinite-scroll.spec.coffee" timestamp="1440603496212">
         <mark key="'" line="0" column="0" />
@@ -2801,11 +2801,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="344" column="2" filename="$USER_HOME$/www/js/karma-mocha/test/adapter.spec.js" />
-      <jump line="18" column="0" filename="$USER_HOME$/www/js/karma-mocha/test/adapter.spec.js" />
-      <jump line="308" column="51" filename="$USER_HOME$/www/js/karma-mocha/test/adapter.spec.js" />
-      <jump line="304" column="51" filename="$USER_HOME$/www/js/karma-mocha/test/adapter.spec.js" />
-      <jump line="298" column="6" filename="$USER_HOME$/www/js/karma-mocha/test/adapter.spec.js" />
       <jump line="288" column="6" filename="$USER_HOME$/www/js/karma-mocha/test/adapter.spec.js" />
       <jump line="258" column="7" filename="$USER_HOME$/www/js/karma-mocha/test/adapter.spec.js" />
       <jump line="10" column="2" filename="$USER_HOME$/www/js/karma-mocha/test/adapter.spec.js" />
@@ -2881,7 +2876,6 @@
       <jump line="20" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/template/projects-info.html" />
       <jump line="21" column="35" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/template/projects-info.html" />
       <jump line="74" column="79" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/template/projects-info.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/template/projects-info.html" />
       <jump line="7" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/template/projects-info.html" />
       <jump line="19" column="40" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/template/projects-info.html" />
       <jump line="75" column="79" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/template/projects-info.html" />
@@ -2901,6 +2895,12 @@
       <jump line="24" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="408" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="355" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="41" column="47" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/template/projects-info.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/template/projects-info.html" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/template/projects-info.html" />
+      <jump line="78" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/template/projects-info.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3089,7 +3089,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed G</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
