@@ -52,6 +52,10 @@
   <action id="InspectCode">
     <keyboard-shortcut first-keystroke="alt comma" second-keystroke="i" />
   </action>
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="alt insert" />
+    <keyboard-shortcut first-keystroke="ctrl alt 5" />
+  </action>
   <action id="ShelvedChanges.Unshelve">
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="shift s" />
   </action>
