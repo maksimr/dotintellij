@@ -45,7 +45,7 @@
         <mark key="." line="16" column="85" />
         <mark key="^" line="16" column="85" />
       </file>
-      <file name="/a.dummy" timestamp="1447696507880">
+      <file name="/a.dummy" timestamp="1447756385314">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/e2e/example/index.html" timestamp="1447692022791">
@@ -588,6 +588,9 @@
         <mark key="]" line="11" column="57" />
         <mark key="^" line="11" column="57" />
         <mark key="." line="11" column="57" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1447756385209">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/tmp/23773-keksogram/js/resize-form.js" timestamp="1443387569053">
         <mark key="'" line="42" column="0" />
@@ -2457,12 +2460,12 @@
         <mark key="^" line="21" column="48" />
         <mark key="." line="21" column="48" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/dashboard/test/e2e/dashboard.js" timestamp="1447754958073">
-        <mark key="'" line="30" column="0" />
-        <mark key="[" line="12" column="23" />
-        <mark key="]" line="12" column="80" />
-        <mark key="." line="11" column="19" />
-        <mark key="^" line="11" column="19" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/dashboard/test/e2e/dashboard.js" timestamp="1447756381972">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="25" column="11" />
+        <mark key="]" line="25" column="24" />
+        <mark key="." line="25" column="24" />
+        <mark key="^" line="25" column="24" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/settings/system.html" timestamp="1433335153601">
         <mark key="'" line="68" column="24" />
@@ -2859,9 +2862,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="34" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/vendor.js" />
-      <jump line="22" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/agile-board.js" />
-      <jump line="71" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/agile-board.js" />
       <jump line="15" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/no-boards.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/no-boards.js" />
       <jump line="61" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/no-boards.js" />
@@ -2959,6 +2959,9 @@
       <jump line="25" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issues/test/e2e/issues.js" />
       <jump line="13" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/dashboard/test/e2e/dashboard.js" />
       <jump line="30" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/dashboard/test/e2e/dashboard.js" />
+      <jump line="8" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/dashboard/test/e2e/dashboard.js" />
+      <jump line="26" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/dashboard/test/e2e/dashboard.js" />
+      <jump line="27" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/dashboard/test/e2e/dashboard.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2999,43 +3002,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>react-static=&quot;Loader&quot;</text>
+        <text>element.all(by.repeater('widget in data.widgets')).count()</text>
       </register>
       <register name="/" type="4">
         <text>End-to-end</text>
       </register>
       <register name="0" type="4">
-        <text>element.all(by.repeater('widget in data.widgets')).count()</text>
+        <text>element.all(by.repeater('widget in dshCtrl.dashboard.widgets'))</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4+Pj4+Pj4+Pj4nLCB3aWRnZXRzQ291bnQpOwo=</text>
+      <register name="1" type="4">
+        <text>element.all(by.repeater('widget in data.widgets')).count()</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHdpKQo=</text>
+      <register name="2" type="4">
+        <text>element.all(by.repeater('widget in dshCtrl.dashboard.widgets'))</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogTW9yZSBhYm91dCB4cGF0aAogICAgICogQHNlZSBodHRwOi8vd3d3Lnczc2Nob29scy5jb20veHBhdGgvZGVmYXVsdC5hc3AKICAgICAqLwo=</text>
+        <text encoding="base64">ICAgIGJyb3dzZXIucGF1c2UoKTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>widget in data.widgets</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpdCgnc2hvdWxkIGZpbHRlciBpc3N1ZSBsaXN0JywgZnVuY3Rpb24oKSB7CiAgICB2YXIgc2VhcmNoUXVlcnkgPSAnSEJSLTIgICBEaXNjcmltaW5hdGUgY29sdW1ucyB3aXRoIEhRTCAiZnJvbSA8dGFibGU+Iic7CgogICAgZWxlbWVudC5hbGwoYnkuY3NzKCcucmluZy1xdWVyeS1hc3Npc3RfX2lucHV0JykpCiAgICAgIC5maXJzdCgpCiAgICAgIC5zZW5kS2V5cyhzZWFyY2hRdWVyeSkKICAgICAgLnNlbmRLZXlzKHByb3RyYWN0b3IuS2V5LkVOVEVSKTsKCiAgICBicm93c2VyLmRyaXZlci5zbGVlcCgyMDAwKTsKCiAgICBlbGVtZW50LmFsbChieS5yZXBlYXRlcignaXNzdWUgaW4gaXNzdWVzQ3RybC5pc3N1ZXMnKSkuY291bnQoKS50aGVuKGZ1bmN0aW9uKGlzc3VlcykgewogICAgICBleHBlY3QoaXNzdWVzKS50b0VxdWFsKDEpOwogICAgfSk7CiAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4+Pj4+Pj4+Pj4nLCB3aWRnZXRzQ291bnQpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>react-static=&quot;Loader&quot;</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHdpKQo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IG5nLWNvbnRyb2xsZXI9ImV4YW1wbGVDdHJsIg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogTW9yZSBhYm91dCB4cGF0aAogICAgICogQHNlZSBodHRwOi8vd3d3Lnczc2Nob29scy5jb20veHBhdGgvZGVmYXVsdC5hc3AKICAgICAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8dGl0bGU+SXNzdWUgQ29tcG9uZW50PC90aXRsZT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>loader</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBpdCgnc2hvdWxkIGZpbHRlciBpc3N1ZSBsaXN0JywgZnVuY3Rpb24oKSB7CiAgICB2YXIgc2VhcmNoUXVlcnkgPSAnSEJSLTIgICBEaXNjcmltaW5hdGUgY29sdW1ucyB3aXRoIEhRTCAiZnJvbSA8dGFibGU+Iic7CgogICAgZWxlbWVudC5hbGwoYnkuY3NzKCcucmluZy1xdWVyeS1hc3Npc3RfX2lucHV0JykpCiAgICAgIC5maXJzdCgpCiAgICAgIC5zZW5kS2V5cyhzZWFyY2hRdWVyeSkKICAgICAgLnNlbmRLZXlzKHByb3RyYWN0b3IuS2V5LkVOVEVSKTsKCiAgICBicm93c2VyLmRyaXZlci5zbGVlcCgyMDAwKTsKCiAgICBlbGVtZW50LmFsbChieS5yZXBlYXRlcignaXNzdWUgaW4gaXNzdWVzQ3RybC5pc3N1ZXMnKSkuY291bnQoKS50aGVuKGZ1bmN0aW9uKGlzc3VlcykgewogICAgICBleHBlY3QoaXNzdWVzKS50b0VxdWFsKDEpOwogICAgfSk7CiAgfSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
