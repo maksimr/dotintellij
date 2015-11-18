@@ -1371,11 +1371,12 @@
         <mark key="^" line="109" column="44" />
         <mark key="." line="109" column="44" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/style/yt-board-with-sidebar.scss" timestamp="1447860268292">
-        <mark key="'" line="56" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/style/yt-board-with-sidebar.scss" timestamp="1447863146770">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="27" column="53" />
+        <mark key="]" line="28" column="14" />
+        <mark key="." line="28" column="14" />
+        <mark key="^" line="28" column="14" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/analytics/test/service/get-per-path-tracking-info.js" timestamp="1447615304933">
         <mark key="'" line="3" column="1" />
@@ -1996,12 +1997,6 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issues/test/e2e/issues.js" timestamp="1447760077366">
-        <mark key="'" line="8" column="4" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/components/resources/service/time-tracking-rest.js" timestamp="1423646307657">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="9" column="57" />
@@ -2505,12 +2500,6 @@
         <mark key="^" line="21" column="48" />
         <mark key="." line="21" column="48" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/dashboard/test/e2e/dashboard.js" timestamp="1447759715694">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/app/pages/admin/template/settings/system.html" timestamp="1433335153601">
         <mark key="'" line="68" column="24" />
         <mark key="[" line="67" column="19" />
@@ -2891,7 +2880,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="220" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
       <jump line="161" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
       <jump line="211" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
@@ -2991,6 +2979,7 @@
       <jump line="351" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="92" column="44" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-table.html" />
       <jump line="95" column="66" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-table.html" />
+      <jump line="16" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/style/yt-board-with-sidebar.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3034,7 +3023,7 @@
         <text>column</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRDb2x1bW5XaWR0aFw+</text>
+        <text>wrapper</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgbmctc3R5bGU9Int3aWR0aDogYWdpbGVCb2FyZEN0cmwuYm9hcmRDb2x1bW5zVXRpbHMuZ2V0Q29sdW1uV2lkdGgoY29sdW1uLmlkKX0iCg==</text>
@@ -3074,17 +3063,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRDb2x1bW5XaWR0aFw+</last-search>
+      <last-search>wrapper</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRDb2x1bW5XaWR0aFw+</last-pattern>
+      <last-pattern>wrapper</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx3YWl0SHViT3JEYXNoYm9hcmRcPg==</entry>
         <entry>prepare</entry>
         <entry>login</entry>
         <entry>pageGo</entry>
@@ -3104,6 +3092,7 @@
         <entry>511</entry>
         <entry>style</entry>
         <entry encoding="base64">XDxnZXRDb2x1bW5XaWR0aFw+</entry>
+        <entry>wrapper</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPHNjcmlwdCBzcmM9L3JlcXVpcmUoL2dj</entry>
