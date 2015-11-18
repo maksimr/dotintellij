@@ -1371,12 +1371,12 @@
         <mark key="^" line="109" column="44" />
         <mark key="." line="109" column="44" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/style/yt-board-with-sidebar.scss" timestamp="1447863146770">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="27" column="53" />
-        <mark key="]" line="28" column="14" />
-        <mark key="." line="28" column="14" />
-        <mark key="^" line="28" column="14" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/style/yt-board-with-sidebar.scss" timestamp="1447864522101">
+        <mark key="'" line="30" column="14" />
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="7" column="10" />
+        <mark key="." line="7" column="10" />
+        <mark key="^" line="7" column="10" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/analytics/test/service/get-per-path-tracking-info.js" timestamp="1447615304933">
         <mark key="'" line="3" column="1" />
@@ -2880,7 +2880,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
       <jump line="161" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
       <jump line="211" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
       <jump line="8" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
@@ -2980,10 +2979,11 @@
       <jump line="92" column="44" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-table.html" />
       <jump line="95" column="66" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-table.html" />
       <jump line="16" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/style/yt-board-with-sidebar.scss" />
+      <jump line="27" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/style/yt-board-with-sidebar.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>column</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBwb3NpdGlvbjogYWJzb2x1dGU7Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3026,22 +3026,22 @@
         <text>wrapper</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgbmctc3R5bGU9Int3aWR0aDogYWdpbGVCb2FyZEN0cmwuYm9hcmRDb2x1bW5zVXRpbHMuZ2V0Q29sdW1uV2lkdGgoY29sdW1uLmlkKX0iCg==</text>
+        <text encoding="base64">ICBwb3NpdGlvbjogYWJzb2x1dGU7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>column</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBwb3NpdGlvbjogYWJzb2x1dGU7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>auto</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgdG9wOiAwOwogIGJvdHRvbTogMDsKICBoZWlnaHQ6IDEwMCU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAogICAgJi1jb250YWluZXIgewogICAgICBvdmVyZmxvdzogYXV0bzsKICAgICAgaGVpZ2h0OiAxMDAlOwogICAgfQo=</text>
+      <register name="4" type="4">
+        <text>column</text>
       </register>
       <register name="5" type="4">
         <text>auto</text>
@@ -3049,14 +3049,14 @@
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>__row</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAogICAgJi1jb250YWluZXIgewogICAgICBvdmVyZmxvdzogYXV0bzsKICAgICAgaGVpZ2h0OiAxMDAlOwogICAgfQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAmX19yb3ctY29udGFpbmVyIHsKICAgIAogIH0KICAK</text>
+      <register name="8" type="4">
+        <text>auto</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0ieXQtYWdpbGUtdGFibGVfX3JvdyI+CiAgICAgICAgPGRpdiBjbGFzcz0ieXQtYWdpbGUtdGFibGVfX3Jvd19fY2VsbCB5dC1hZ2lsZS10YWJsZV9fcm93X19jZWxsX2hlYWQiCiAgICAgICAgICAgICBuZy1yZXBlYXQ9ImNvbHVtbiBpbiBhZ2lsZUJvYXJkQ3RybC5zcHJpbnQuYm9hcmQuY29sdW1ucyB0cmFjayBieSBjb2x1bW4uaWQiCiAgICAgICAgICAgICBuZy1pZj0iY29sdW1uLmFnaWxlQ29sdW1uLmlzVmlzaWJsZSIKICAgICAgICAgICAgIG5nLXN0eWxlPSJ7d2lkdGg6IGFnaWxlQm9hcmRDdHJsLmJvYXJkQ29sdW1uc1V0aWxzLmdldENvbHVtbldpZHRoKGNvbHVtbi5pZCl9IgogICAgICAgICAgICAgbmctY2xhc3M9InsKICAgICAgICAgICAgICAgJ3l0LWFnaWxlLXRhYmxlX19yb3dfX2NlbGxfY29sbGFwc2VkJzogY29sdW1uLmNvbGxhcHNlZCwKICAgICAgICAgICAgICAgJ3l0LWFnaWxlLXRhYmxlX19yb3dfX2NlbGxfb3ZlcmR1ZSc6IGFnaWxlQm9hcmRDdHJsLmlzQ29sdW1uT3ZlcmR1ZShjb2x1bW4pCiAgICAgICAgICAgICB9Ij4KICAgICAgICAgIDxzcGFuIG5nLWlmPSJhZ2lsZUJvYXJkQ3RybC5pc051bWJlcihjb2x1bW4uc3VtRXN0aW1hdGlvbikiCiAgICAgICAgICAgICAgICBjbGFzcz0ieXQtYWdpbGUtdGFibGVfX3Jvd19fZXN0aW1hdGlvbiB5dC1wdWxsLXJpZ2h0Ij4KICAgICAgICAgICAgICA8eXQtcGVyaW9kLXByb2dyZXNzIG5nLWlmPSJhZ2lsZUJvYXJkQ3RybC5pc051bWJlcihjb2x1bW4uc3VtU3BlbnRUaW1lKSAmJiBjb2x1bW4uc3VtRXN0aW1hdGlvbiIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVzdGltYXRlZD0iY29sdW1uLnN1bUVzdGltYXRpb24iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwYXNzZWQ9ImNvbHVtbi5zdW1TcGVudFRpbWUiPjwveXQtcGVyaW9kLXByb2dyZXNzPgogICAgICAgICAgICAgIHt7KGNvbHVtbi5zdW1Fc3RpbWF0aW9uIHwgZm9ybWF0QXNGaWVsZFZhbHVlOmFnaWxlQm9hcmRDdHJsLmFnaWxlLmVzdGltYXRpb25GaWVsZC5maWVsZFR5cGUudmFsdWVUeXBlKS5wcmVzZW50YXRpb259fQogICAgICAgICAgPC9zcGFuPgogICAgICAgICAgPHNwYW4gY2xhc3M9Inl0LWFnaWxlLXRhYmxlX19yb3dfX3RvZ2dsZXIiCiAgICAgICAgICAgICAgICBuZy1jbGljaz0iYWdpbGVCb2FyZEN0cmwuY29sbGFwc2VCb2FyZENvbHVtbihjb2x1bW4pIj4KICAgICAgICAgICAgPHl0LWljb24gbmctaWY9ImNvbHVtbi5jb2xsYXBzZWQiCiAgICAgICAgICAgICAgICAgICAgIGljb249ImNoZXZyb24tcmlnaHQiCiAgICAgICAgICAgICAgICAgICAgIHNpemU9InMiCiAgICAgICAgICAgICAgICAgICAgIGNsYXNzPSJ5dC1hZ2lsZS10YWJsZV9fcm93X19jZWxsX19pY29uIj4KICAgICAgICAgICAgPC95dC1pY29uPgogICAgICAgICAgICA8eXQtaWNvbiBuZy1pZj0iIWNvbHVtbi5jb2xsYXBzZWQiCiAgICAgICAgICAgICAgICAgICAgIGljb249ImNoZXZyb24tbGVmdCIKICAgICAgICAgICAgICAgICAgICAgc2l6ZT0icyIKICAgICAgICAgICAgICAgICAgICAgY2xhc3M9Inl0LWFnaWxlLXRhYmxlX19yb3dfX2NlbGxfX2ljb24iPgogICAgICAgICAgICA8L3l0LWljb24+CiAgICAgICAgICAgIDxzcGFuIHRpdGxlPSJ7e2FnaWxlQm9hcmRDdHJsLmNvbHVtbk92ZXJkdWUubWVzc2FnZX19Ij4KICAgICAgICAgICAgICB7e2NvbHVtbi5uYW1lfX0KICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgPC9zcGFuPgogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KCiAgICAgIDxkaXYgbmctcmVwZWF0PSJyb3cgaW4gYWdpbGVCb2FyZEN0cmwuc3ByaW50LmJvYXJkLnJvd3MgdHJhY2sgYnkgcm93LmlkIj4KCiAgICAgICAgPGRpdiBuZy1pbmNsdWRlPSIncGFnZXMvYWdpbGUtYm9hcmQvdGVtcGxhdGUvYWdpbGUtdGFibGUtcm93LXRpdGxlLmh0bWwnIj48L2Rpdj4KCiAgICAgICAgPGRpdiBjbGFzcz0ieXQtYWdpbGUtdGFibGVfX3JvdyI+CiAgICAgICAgICA8ZGl2IGNsYXNzPSJ5dC1hZ2lsZS10YWJsZV9fcm93X19jZWxsIgogICAgICAgICAgICAgICBuZy1jbGFzcz0ieyd5dC1hZ2lsZS10YWJsZV9fcm93X19jZWxsX2NvbGxhcHNlZCc6IHBhaXIuY29sdW1uLmNvbGxhcHNlZH0iCiAgICAgICAgICAgICAgIG5nLXJlcGVhdD0icGFpciBpbiBhZ2lsZUJvYXJkQ3RybC5ib2FyZENvbHVtbnNVdGlscy5nZXRTd2ltbGFuZUNvbHVtbnMocm93KSB0cmFjayBieSAkaW5kZXgiPgogICAgICAgICAgICA8eXQtYWdpbGUtc3dpbWxhbmUtY29sdW1uIGlzc3Vlcz0icGFpci5jZWxsLmlzc3VlcyIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aWR0aD0iYWdpbGVCb2FyZEN0cmwuYm9hcmRDb2x1bW5zVXRpbHMuZ2V0Q29sdW1uV2lkdGgocGFpci5jb2x1bW4uaWQpIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVzdGltYXRpb24tZmllbGQ9ImFnaWxlQm9hcmRDdHJsLmFnaWxlLmVzdGltYXRpb25GaWVsZCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb2xvci1jb2Rpbmc9ImFnaWxlQm9hcmRDdHJsLmFnaWxlLmNvbG9yQ29kaW5nIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbHVtbi1maWVsZD0iYWdpbGVCb2FyZEN0cmwuYWdpbGUuY29sdW1uU2V0dGluZ3MuZmllbGQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29sbGFwc2VkPSJwYWlyLmNvbHVtbi5jb2xsYXBzZWQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdG9vLW1hbnktaXNzdWVzPSJwYWlyLmNlbGwudG9vTWFueUlzc3VlcyIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByb3ctaWQ9Int7cm93LmlkfX0iPjwveXQtYWdpbGUtc3dpbWxhbmUtY29sdW1uPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
