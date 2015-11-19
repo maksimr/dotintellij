@@ -2756,12 +2756,12 @@
         <mark key="^" line="419" column="59" />
         <mark key="." line="419" column="59" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1447686880759">
-        <mark key="'" line="76" column="26" />
-        <mark key="[" line="80" column="22" />
-        <mark key="]" line="80" column="26" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1447947017731">
+        <mark key="'" line="86" column="0" />
+        <mark key="[" line="29" column="25" />
+        <mark key="]" line="29" column="26" />
         <mark key="^" line="80" column="26" />
-        <mark key="." line="80" column="26" />
+        <mark key="." line="29" column="26" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/YouTrack/youtrack/charisma/youtrack-new-ui/Gruntfile.js" timestamp="1444120775959">
         <mark key="'" line="180" column="0" />
@@ -2884,9 +2884,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
-      <jump line="15" column="44" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/dashboard/test/e2e/dashboard.po.js" />
-      <jump line="26" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/dashboard/test/e2e/dashboard.po.js" />
       <jump line="12" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/dashboard/test/e2e/dashboardSpec.js" />
       <jump line="18" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/dashboard/test/e2e/dashboard.po.js" />
       <jump line="27" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/dashboard/test/e2e/dashboard.po.js" />
@@ -2984,6 +2981,9 @@
       <jump line="22" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/style/agile-table.scss" />
       <jump line="182" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/style/agile-table.scss" />
       <jump line="6" column="38" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/loader/directive/yt-loader.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="118" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="86" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -3027,7 +3027,7 @@
         <text>-4*$ring-unit</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwxMDBcPg==</text>
+        <text>ring-ui</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwb3NpdGlvbjogYWJzb2x1dGU7Cg==</text>
@@ -3067,17 +3067,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwxMDBcPg==</last-search>
+      <last-search>ring-ui</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwxMDBcPg==</last-pattern>
+      <last-pattern>ring-ui</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>onPrepare</entry>
         <entry encoding="base64">XDxjdXN0b21GaWVsZE5hbWVcPg==</entry>
         <entry encoding="base64">XDx1bmlxdWVOYW1lXD4=</entry>
         <entry encoding="base64">XDxwcm90b3R5cGVGaWVsZEVsZW1lbnRzXD4=</entry>
@@ -3097,6 +3096,7 @@
         <entry>-</entry>
         <entry>maring</entry>
         <entry encoding="base64">XDwxMDBcPg==</entry>
+        <entry>ring-ui</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPHNjcmlwdCBzcmM9L3JlcXVpcmUoL2dj</entry>
