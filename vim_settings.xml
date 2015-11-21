@@ -49,6 +49,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/auth.js" timestamp="1447970253543">
         <mark key="'" line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/www/js/lokijs-test/node_modules/lokijs/src/lokijs.js" timestamp="1448111720660">
+        <mark key="'" line="2838" column="15" />
+        <mark key="[" line="2879" column="0" />
+        <mark key="]" line="2879" column="0" />
+        <mark key="." line="2879" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/test/matcher/to-has-class.js" timestamp="1448100688776">
         <mark key="'" line="9" column="24" />
         <mark key="[" line="6" column="14" />
@@ -234,12 +240,12 @@
         <mark key="." line="0" column="138" />
         <mark key="^" line="0" column="138" />
       </file>
-      <file name="$USER_HOME$/www/js/lokijs-test/test/lib/appSpec.js" timestamp="1448111078721">
-        <mark key="'" line="209" column="0" />
-        <mark key="[" line="302" column="29" />
-        <mark key="]" line="302" column="32" />
-        <mark key="." line="302" column="32" />
-        <mark key="^" line="302" column="32" />
+      <file name="$USER_HOME$/www/js/lokijs-test/test/lib/appSpec.js" timestamp="1448111706852">
+        <mark key="'" line="327" column="0" />
+        <mark key="[" line="305" column="29" />
+        <mark key="]" line="305" column="29" />
+        <mark key="." line="305" column="29" />
+        <mark key="^" line="305" column="29" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/vendor.js" timestamp="1447681577135">
         <mark key="'" line="18" column="34" />
@@ -274,17 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/externals/header/user-menu.js" />
-      <jump line="68" column="29" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/.eslintrc" />
-      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/.eslintrc" />
-      <jump line="28" column="3" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/.eslintrc" />
-      <jump line="125" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/.eslintrc" />
-      <jump line="35" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/.eslintrc" />
-      <jump line="78" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/.eslintrc" />
-      <jump line="71" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/Gruntfile.js" />
-      <jump line="156" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/Gruntfile.js" />
-      <jump line="149" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/Gruntfile.js" />
-      <jump line="148" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/Gruntfile.js" />
       <jump line="136" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/Gruntfile.js" />
       <jump line="134" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/Gruntfile.js" />
       <jump line="153" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/Gruntfile.js" />
@@ -374,10 +369,21 @@
       <jump line="143" column="31" filename="$USER_HOME$/www/js/lokijs-test/test/lib/appSpec.js" />
       <jump line="178" column="28" filename="$USER_HOME$/www/js/lokijs-test/test/lib/appSpec.js" />
       <jump line="209" column="0" filename="$USER_HOME$/www/js/lokijs-test/test/lib/appSpec.js" />
+      <jump line="2781" column="11" filename="$USER_HOME$/www/js/lokijs-test/node_modules/lokijs/src/lokijs.js" />
+      <jump line="673" column="17" filename="$USER_HOME$/www/js/lokijs-test/node_modules/lokijs/src/lokijs.js" />
+      <jump line="287" column="32" filename="$USER_HOME$/www/js/lokijs-test/test/lib/appSpec.js" />
+      <jump line="2878" column="15" filename="$USER_HOME$/www/js/lokijs-test/node_modules/lokijs/src/lokijs.js" />
+      <jump line="306" column="0" filename="$USER_HOME$/www/js/lokijs-test/node_modules/lokijs/src/lokijs.js" />
+      <jump line="36" column="0" filename="$USER_HOME$/www/js/lokijs-test/test/lib/appSpec.js" />
+      <jump line="113" column="0" filename="$USER_HOME$/www/js/lokijs-test/test/lib/appSpec.js" />
+      <jump line="327" column="0" filename="$USER_HOME$/www/js/lokijs-test/test/lib/appSpec.js" />
+      <jump line="2716" column="11" filename="$USER_HOME$/www/js/lokijs-test/node_modules/lokijs/src/lokijs.js" />
+      <jump line="2796" column="9" filename="$USER_HOME$/www/js/lokijs-test/node_modules/lokijs/src/lokijs.js" />
+      <jump line="2838" column="15" filename="$USER_HOME$/www/js/lokijs-test/node_modules/lokijs/src/lokijs.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4+Pjw8PCcpOwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -417,49 +423,49 @@
         <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>fit</text>
+        <text>console.log</text>
       </register>
       <register name="0" type="4">
         <text>db.getCollection(db.COLLECTION_NAME.PHOTO).data</text>
       </register>
-      <register name="1" type="4">
-        <text>false</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4+Pjw8PCcpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>true</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzZWxmLmRpc2FibGVDaGFuZ2VzQXBpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwaG90b3MuaW5zZXJ0KHt9KTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwaG90b3MuZGF0YS5sZW5ndGgpOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text>flushChanges</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4nLCBwaG90b3MuZ2V0Q2hhbmdlcygpKTsK</text>
       </register>
-      <register name="5" type="4">
-        <text>dajta</text>
-      </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYi5nZXRDb2xsZWN0aW9uKGRiLkNPTExFQ1RJT05fTkFNRS5QSE9UTykuZGF0YSk7Cg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwaG90b3Muc2V0Q2hhbmdlc0FwaSh0cnVlKTsK</text>
+      </register>
+      <register name="7" type="4">
+        <text>false</text>
       </register>
       <register name="8" type="4">
-        <text>.data;</text>
+        <text>true</text>
       </register>
-      <register name="9" type="4">
-        <text>.length</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBwaG90b3MuaW5zZXJ0KHt9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>fit</last-search>
+      <last-search>console.log</last-search>
       <last-offset />
-      <last-pattern>fit</last-pattern>
+      <last-pattern>console.log</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -467,10 +473,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcm9kdWN0aW9uXD4=</entry>
-        <entry encoding="base64">XDxpMThuXD4=</entry>
-        <entry encoding="base64">XDxuZ2dldHRleHRfZXh0cmFjdFw+</entry>
-        <entry>angular-gettext</entry>
         <entry>gettext</entry>
         <entry>'</entry>
         <entry>&quot;</entry>
@@ -486,7 +488,11 @@
         <entry encoding="base64">XDxwYXRoXD4=</entry>
         <entry>loki</entry>
         <entry encoding="base64">XDxtb2RlbFw+</entry>
+        <entry encoding="base64">XDxkaXNhYmxlQ2hhbmdlc0FwaVw+</entry>
+        <entry encoding="base64">XDxpbnNlcnRNZXRhV2l0aENoYW5nZVw+</entry>
         <entry>fit</entry>
+        <entry>flush</entry>
+        <entry>console.log</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvPjxcL3NjcmlwdD4vKTsvZ2M=</entry>
