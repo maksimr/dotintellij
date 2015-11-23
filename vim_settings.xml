@@ -78,6 +78,9 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/settings/visual.html" timestamp="1447767410983">
         <mark key="'" line="44" column="13" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/settings.js" timestamp="1448269346456">
+        <mark key="'" line="135" column="25" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/loader/test/directive/yt-loader.js" timestamp="1447948561419">
         <mark key="'" line="25" column="0" />
         <mark key="[" line="0" column="1" />
@@ -100,8 +103,8 @@
         <mark key="^" line="35" column="29" />
         <mark key="." line="35" column="29" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack.config.js" timestamp="1448110258224">
-        <mark key="'" line="377" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack.config.js" timestamp="1448268074096">
+        <mark key="'" line="55" column="32" />
         <mark key="[" line="144" column="54" />
         <mark key="]" line="144" column="54" />
         <mark key="." line="144" column="54" />
@@ -322,15 +325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3190" column="8" filename="$USER_HOME$/www/js/lokijs-test/node_modules/jasmine-core/lib/jasmine-core/jasmine.js" />
-      <jump line="3284" column="33" filename="$USER_HOME$/www/js/lokijs-test/node_modules/jasmine-core/lib/jasmine-core/jasmine.js" />
-      <jump line="3285" column="27" filename="$USER_HOME$/www/js/lokijs-test/node_modules/jasmine-core/lib/jasmine-core/jasmine.js" />
-      <jump line="56" column="31" filename="$USER_HOME$/www/js/lokijs-test/node_modules/jasmine-core/lib/jasmine-core/jasmine.js" />
-      <jump line="71" column="7" filename="$USER_HOME$/www/js/lokijs-test/node_modules/jasmine-core/lib/jasmine-core/jasmine.js" />
-      <jump line="95" column="7" filename="$USER_HOME$/www/js/lokijs-test/node_modules/jasmine-core/lib/jasmine-core/jasmine.js" />
-      <jump line="55" column="0" filename="$USER_HOME$/www/js/lokijs-test/test/lib/fixtureSpec.js" />
-      <jump line="28" column="0" filename="$USER_HOME$/www/js/lokijs-test/test/lib/fixtureSpec.js" />
-      <jump line="80" column="0" filename="$USER_HOME$/www/js/lokijs-test/test/lib/fixtureSpec.js" />
       <jump line="9" column="0" filename="$USER_HOME$/www/js/lokijs-test/test/lib/fixtureSpec.js" />
       <jump line="10" column="8" filename="$USER_HOME$/www/js/lokijs-test/test/lib/fixtureSpec.js" />
       <jump line="15" column="5" filename="$USER_HOME$/www/js/lokijs-test/test/lib/fixtureSpec.js" />
@@ -422,6 +416,15 @@
       <jump line="33" column="12" filename="$USER_HOME$/www/js/lokijs-test/lib/server.js" />
       <jump line="32" column="32" filename="$USER_HOME$/www/js/lokijs-test/lib/server.js" />
       <jump line="9" column="13" filename="$USER_HOME$/www/js/lokijs-test/lib/server.js" />
+      <jump line="55" column="32" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack.config.js" />
+      <jump line="14" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/settings.js" />
+      <jump line="236" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/settings.js" />
+      <jump line="232" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/settings.js" />
+      <jump line="228" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/settings.js" />
+      <jump line="224" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/settings.js" />
+      <jump line="128" column="32" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/settings.js" />
+      <jump line="23" column="47" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/settings.js" />
+      <jump line="135" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/settings.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -465,7 +468,7 @@
         <text>route</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzd2l0Y2hSb3V0ZU1hdGNoZXJcPg==</text>
+        <text encoding="base64">XDx5dFV0aWxzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdmFyIHBhcmFtcywgbWF0Y2g7CiAgICAgIGFuZ3VsYXIuZm9yRWFjaChyb3V0ZXMsIGZ1bmN0aW9uKHJvdXRlLCBwYXRoKSB7CiAgICAgICAgaWYgKCFtYXRjaCAmJiAocGFyYW1zID0gc3dpdGNoUm91dGVNYXRjaGVyKCRsb2NhdGlvbi5wYXRoKCksIHJvdXRlKSkpIHsKICAgICAgICAgIG1hdGNoID0gaW5oZXJpdChyb3V0ZSwgewogICAgICAgICAgICBwYXJhbXM6IGFuZ3VsYXIuZXh0ZW5kKHt9LCAkbG9jYXRpb24uc2VhcmNoKCksIHBhcmFtcyksCiAgICAgICAgICAgIHBhdGhQYXJhbXM6IHBhcmFtc30pOwogICAgICAgICAgbWF0Y2guJCRyb3V0ZSA9IHJvdXRlOwogICAgICAgIH0KICAgICAgfSk7Cg==</text>
@@ -505,9 +508,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzd2l0Y2hSb3V0ZU1hdGNoZXJcPg==</last-search>
+      <last-search encoding="base64">XDx5dFV0aWxzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzd2l0Y2hSb3V0ZU1hdGNoZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx5dFV0aWxzXD4=</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>-1</last-dir>
@@ -515,7 +518,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0b01hdGNoXD4=</entry>
         <entry>angular</entry>
         <entry>match</entry>
         <entry>addRoute</entry>
@@ -535,6 +537,7 @@
         <entry encoding="base64">XDxvblw+</entry>
         <entry encoding="base64">XDxtYXRjaFw+</entry>
         <entry encoding="base64">XDxzd2l0Y2hSb3V0ZU1hdGNoZXJcPg==</entry>
+        <entry encoding="base64">XDx5dFV0aWxzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;/'/gc</entry>
