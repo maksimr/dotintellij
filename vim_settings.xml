@@ -171,10 +171,10 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/settings/language.html" timestamp="1447766970147">
         <mark key="'" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/www/js/lokijs-test/node_modules/angular-route/angular-route.js" timestamp="1448227165136">
+      <file name="$USER_HOME$/www/js/lokijs-test/node_modules/angular-route/angular-route.js" timestamp="1448227188213">
         <mark key="'" line="521" column="13" />
-        <mark key="[" line="521" column="0" />
-        <mark key="]" line="540" column="4" />
+        <mark key="[" line="635" column="0" />
+        <mark key="]" line="643" column="8" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/karma.conf.js" timestamp="1448100046349">
         <mark key="[" line="3" column="0" />
@@ -260,12 +260,11 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/custom-fields-configuration.html" timestamp="1447949406685">
         <mark key="'" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/www/js/lokijs-test/lib/server.js" timestamp="1448227141857">
-        <mark key="'" line="59" column="18" />
-        <mark key="[" line="30" column="49" />
-        <mark key="]" line="30" column="52" />
-        <mark key="." line="30" column="52" />
-        <mark key="^" line="30" column="52" />
+      <file name="$USER_HOME$/www/js/lokijs-test/lib/server.js" timestamp="1448227681048">
+        <mark key="'" line="9" column="13" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/style/agile-table.scss" timestamp="1447961915841">
         <mark key="'" line="184" column="0" />
@@ -323,8 +322,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3117" column="25" filename="$USER_HOME$/www/js/lokijs-test/node_modules/jasmine-core/lib/jasmine-core/jasmine.js" />
-      <jump line="3182" column="36" filename="$USER_HOME$/www/js/lokijs-test/node_modules/jasmine-core/lib/jasmine-core/jasmine.js" />
       <jump line="3190" column="8" filename="$USER_HOME$/www/js/lokijs-test/node_modules/jasmine-core/lib/jasmine-core/jasmine.js" />
       <jump line="3284" column="33" filename="$USER_HOME$/www/js/lokijs-test/node_modules/jasmine-core/lib/jasmine-core/jasmine.js" />
       <jump line="3285" column="27" filename="$USER_HOME$/www/js/lokijs-test/node_modules/jasmine-core/lib/jasmine-core/jasmine.js" />
@@ -353,9 +350,7 @@
       <jump line="16" column="4" filename="$USER_HOME$/www/js/lokijs-test/lib/server.js" />
       <jump line="14" column="8" filename="$USER_HOME$/www/js/lokijs-test/lib/server.js" />
       <jump line="15" column="0" filename="$USER_HOME$/www/js/lokijs-test/lib/server.js" />
-      <jump line="33" column="0" filename="$USER_HOME$/www/js/lokijs-test/lib/server.js" />
       <jump line="2" column="1" filename="$USER_HOME$/www/js/lokijs-test/lib/server.js" />
-      <jump line="38" column="0" filename="$USER_HOME$/www/js/lokijs-test/lib/server.js" />
       <jump line="20" column="11" filename="$USER_HOME$/www/js/lokijs-test/lib/server.js" />
       <jump line="5" column="0" filename="$USER_HOME$/www/js/lokijs-test/lib/server.js" />
       <jump line="44" column="0" filename="$USER_HOME$/www/js/lokijs-test/lib/server.js" />
@@ -423,10 +418,14 @@
       <jump line="504" column="16" filename="$USER_HOME$/www/js/lokijs-test/node_modules/angular-route/angular-route.js" />
       <jump line="511" column="14" filename="$USER_HOME$/www/js/lokijs-test/node_modules/angular-route/angular-route.js" />
       <jump line="521" column="13" filename="$USER_HOME$/www/js/lokijs-test/node_modules/angular-route/angular-route.js" />
+      <jump line="38" column="23" filename="$USER_HOME$/www/js/lokijs-test/lib/server.js" />
+      <jump line="33" column="12" filename="$USER_HOME$/www/js/lokijs-test/lib/server.js" />
+      <jump line="32" column="32" filename="$USER_HOME$/www/js/lokijs-test/lib/server.js" />
+      <jump line="9" column="13" filename="$USER_HOME$/www/js/lokijs-test/lib/server.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>request</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -463,43 +462,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>request</text>
+        <text>route</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzd2l0Y2hSb3V0ZU1hdGNoZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIHN3aXRjaFJvdXRlTWF0Y2hlcihvbiwgcm91dGUpIHsKICAgICAgdmFyIGtleXMgPSByb3V0ZS5rZXlzLAogICAgICAgICAgcGFyYW1zID0ge307CgogICAgICBpZiAoIXJvdXRlLnJlZ2V4cCkgcmV0dXJuIG51bGw7CgogICAgICB2YXIgbSA9IHJvdXRlLnJlZ2V4cC5leGVjKG9uKTsKICAgICAgaWYgKCFtKSByZXR1cm4gbnVsbDsKCiAgICAgIGZvciAodmFyIGkgPSAxLCBsZW4gPSBtLmxlbmd0aDsgaSA8IGxlbjsgKytpKSB7CiAgICAgICAgdmFyIGtleSA9IGtleXNbaSAtIDFdOwoKICAgICAgICB2YXIgdmFsID0gbVtpXTsKCiAgICAgICAgaWYgKGtleSAmJiB2YWwpIHsKICAgICAgICAgIHBhcmFtc1trZXkubmFtZV0gPSB2YWw7CiAgICAgICAgfQogICAgICB9CiAgICAgIHJldHVybiBwYXJhbXM7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgdmFyIHBhcmFtcywgbWF0Y2g7CiAgICAgIGFuZ3VsYXIuZm9yRWFjaChyb3V0ZXMsIGZ1bmN0aW9uKHJvdXRlLCBwYXRoKSB7CiAgICAgICAgaWYgKCFtYXRjaCAmJiAocGFyYW1zID0gc3dpdGNoUm91dGVNYXRjaGVyKCRsb2NhdGlvbi5wYXRoKCksIHJvdXRlKSkpIHsKICAgICAgICAgIG1hdGNoID0gaW5oZXJpdChyb3V0ZSwgewogICAgICAgICAgICBwYXJhbXM6IGFuZ3VsYXIuZXh0ZW5kKHt9LCAkbG9jYXRpb24uc2VhcmNoKCksIHBhcmFtcyksCiAgICAgICAgICAgIHBhdGhQYXJhbXM6IHBhcmFtc30pOwogICAgICAgICAgbWF0Y2guJCRyb3V0ZSA9IHJvdXRlOwogICAgICAgIH0KICAgICAgfSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>request</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>function(request) { }.bind(this)</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc+Pj4nLCBtYXRjaCk7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>route</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4+JywgcmVxdWVzdCk7Cg==</text>
+      <register name="4" type="4">
+        <text>);</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">aW5oZXJpdChyb3V0ZSwg</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNlcnZlci5yZXNwb25kKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyb3V0ZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyb3V0ZSk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="8" type="4">
+        <text>, route</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJz4+PicsIHJvdXRlKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -516,7 +515,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjdXN0b21UZXN0ZXJzXD4=</entry>
         <entry encoding="base64">XDx0b01hdGNoXD4=</entry>
         <entry>angular</entry>
         <entry>match</entry>
@@ -535,6 +533,7 @@
         <entry encoding="base64">XDxwYXJzZVJvdXRlXD4=</entry>
         <entry>regexp</entry>
         <entry encoding="base64">XDxvblw+</entry>
+        <entry encoding="base64">XDxtYXRjaFw+</entry>
         <entry encoding="base64">XDxzd2l0Y2hSb3V0ZU1hdGNoZXJcPg==</entry>
       </history-search>
       <history-cmd>
