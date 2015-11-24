@@ -146,10 +146,10 @@
         <mark key="^" line="3" column="11" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/settings.js" timestamp="1448368741513">
-        <mark key="'" line="54" column="11" />
-        <mark key="[" line="253" column="0" />
-        <mark key="]" line="253" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/settings.js" timestamp="1448369939640">
+        <mark key="'" line="162" column="57" />
+        <mark key="[" line="161" column="87" />
+        <mark key="]" line="161" column="131" />
         <mark key="." line="253" column="0" />
         <mark key="^" line="250" column="9" />
       </file>
@@ -536,8 +536,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/i18n.js" />
-      <jump line="96" column="40" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/i18n.js" />
       <jump line="84" column="46" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/i18n.js" />
       <jump line="60" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/i18n.js" />
       <jump line="112" column="33" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/i18n.js" />
@@ -552,7 +550,6 @@
       <jump line="253" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/settings.js" />
       <jump line="165" column="49" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/settings.js" />
       <jump line="124" column="29" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/settings.js" />
-      <jump line="162" column="55" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/settings.js" />
       <jump line="163" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/settings.js" />
       <jump line="314" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/settings.js" />
       <jump line="269" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/settings.js" />
@@ -636,10 +633,13 @@
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/admin.js" />
       <jump line="24" column="29" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/admin.js" />
       <jump line="31" column="35" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/admin.js" />
+      <jump line="263" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/settings.js" />
+      <jump line="161" column="53" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/settings.js" />
+      <jump line="162" column="57" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/settings.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ng-if=&quot;settings.localeSettings.translationStatus.message&quot;</text>
+        <text>stop returning data for no expiration license</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -679,10 +679,10 @@
         <text>div</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2FkZXJcPg==</text>
+        <text encoding="base64">XDw5MjIzMzcyMDM2ODU0Nzc2MDAwXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>ng-if=&quot;settings.localeSettings.translationStatus.message&quot;</text>
+        <text>stop returning data for no expiration license</text>
       </register>
       <register name="1" type="4">
         <text>div</text>
@@ -719,9 +719,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2FkZXJcPg==</last-search>
+      <last-search encoding="base64">XDw5MjIzMzcyMDM2ODU0Nzc2MDAwXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2FkZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDw5MjIzMzcyMDM2ODU0Nzc2MDAwXD4=</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>-1</last-dir>
@@ -729,8 +729,6 @@
     </search>
     <history>
       <history-search>
-        <entry>processing</entry>
-        <entry encoding="base64">XDxjaGVja0N1c3RvbUZpZWxkSm9ic1w+</entry>
         <entry>process</entry>
         <entry>poll</entry>
         <entry>transl</entry>
@@ -749,6 +747,8 @@
         <entry>messge</entry>
         <entry>loader</entry>
         <entry encoding="base64">XDxsb2FkZXJcPg==</entry>
+        <entry>TODO</entry>
+        <entry encoding="base64">XDw5MjIzMzcyMDM2ODU0Nzc2MDAwXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>5</entry>
