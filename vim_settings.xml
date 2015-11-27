@@ -266,6 +266,13 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/service/http-response-error-handler.js" timestamp="1448625065915">
         <mark key="'" line="118" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/style/yt-agile-backlog-issue.scss" timestamp="1448628571873">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="33" column="12" />
+        <mark key="]" line="33" column="15" />
+        <mark key="." line="33" column="15" />
+        <mark key="^" line="33" column="15" />
+      </file>
       <file name="$USER_HOME$/www/js/lokijs-test/test/lib/dbSpec.js" timestamp="1448152067052">
         <mark key="'" line="45" column="0" />
         <mark key="[" line="0" column="1" />
@@ -739,7 +746,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-dashboard/app/widgets/youtrack-report/youtrack-report.js" />
       <jump line="81" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-dashboard/app/widgets/youtrack-report/youtrack-report.js" />
       <jump line="82" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-dashboard/app/widgets/youtrack-report/youtrack-report.js" />
       <jump line="83" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-dashboard/app/widgets/youtrack-report/youtrack-report.js" />
@@ -839,10 +845,11 @@
       <jump line="28" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-issue-custom-field.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-issue-custom-field.js" />
       <jump line="50" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-issue-custom-field.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/style/yt-agile-backlog-issue.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>div</text>
+        <text>1em</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -879,52 +886,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>div</text>
+        <text>1em</text>
       </register>
       <register name="/" type="4">
-        <text>con</text>
+        <text>heig</text>
       </register>
       <register name="0" type="4">
         <text>$scope.field.projectCustomField</text>
       </register>
       <register name="1" type="4">
-        <text>div</text>
+        <text>1em</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJz4+Pj4nKTsK</text>
+      <register name="2" type="4">
+        <text>div</text>
       </register>
-      <register name="3" type="4">
-        <text>$scope.field.projectCustomField.field.</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJz4+Pj4nKTsK</text>
       </register>
       <register name="4" type="4">
+        <text>$scope.field.projectCustomField.field.</text>
+      </register>
+      <register name="5" type="4">
         <text>$scope.field.projectCustomField</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnPj4+PicsICRzY29wZS5maWVsZCk7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJz4+Pj4nKTsK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>onFieldValueClick</text>
       </register>
-      <register name="8" type="4">
-        <text>click</text>
-      </register>
       <register name="9" type="4">
-        <text>ng</text>
+        <text>click</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>con</last-search>
+      <last-search>heig</last-search>
       <last-offset />
-      <last-pattern>con</last-pattern>
+      <last-pattern>heig</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -932,7 +939,6 @@
     </search>
     <history>
       <history-search>
-        <entry>eslint-plugin-angu</entry>
         <entry encoding="base64">XDxpc3N1ZUZpZWxkXD4=</entry>
         <entry encoding="base64">XDx2YWx1ZVR5cGVcPg==</entry>
         <entry encoding="base64">XDxnZXRWYWx1ZVByZXNlbnRhdGlvblw+</entry>
@@ -952,6 +958,7 @@
         <entry>externals</entry>
         <entry>show</entry>
         <entry>con</entry>
+        <entry>heig</entry>
       </history-search>
       <history-cmd>
         <entry>5</entry>
