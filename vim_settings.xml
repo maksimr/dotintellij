@@ -173,8 +173,8 @@
         <mark key="." line="126" column="1" />
         <mark key="^" line="126" column="1" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-issue-custom-field.js" timestamp="1448627865493">
-        <mark key="'" line="50" column="2" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-issue-custom-field.js" timestamp="1448636777126">
+        <mark key="'" line="40" column="0" />
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
@@ -266,8 +266,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/service/http-response-error-handler.js" timestamp="1448625065915">
         <mark key="'" line="118" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/style/yt-agile-backlog-issue.scss" timestamp="1448628571873">
-        <mark key="'" line="1" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/style/yt-agile-backlog-issue.scss" timestamp="1448636697764">
+        <mark key="'" line="36" column="0" />
         <mark key="[" line="33" column="12" />
         <mark key="]" line="33" column="15" />
         <mark key="." line="33" column="15" />
@@ -402,6 +402,9 @@
         <mark key="]" line="61" column="0" />
         <mark key="^" line="57" column="22" />
         <mark key="." line="61" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/permissions-ng/permissions-ng.js" timestamp="1448636752073">
+        <mark key="'" line="34" column="16" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/service/http-error-handler.js" timestamp="1448321909309">
         <mark key="[" line="6" column="15" />
@@ -746,12 +749,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-dashboard/app/widgets/youtrack-report/youtrack-report.js" />
-      <jump line="82" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-dashboard/app/widgets/youtrack-report/youtrack-report.js" />
-      <jump line="83" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-dashboard/app/widgets/youtrack-report/youtrack-report.js" />
-      <jump line="84" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-dashboard/app/widgets/youtrack-report/youtrack-report.js" />
-      <jump line="85" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-dashboard/app/widgets/youtrack-report/youtrack-report.js" />
-      <jump line="86" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-dashboard/app/widgets/youtrack-report/youtrack-report.js" />
       <jump line="87" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-dashboard/app/widgets/youtrack-report/youtrack-report.js" />
       <jump line="272" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-dashboard/app/widgets/youtrack-report/youtrack-report.js" />
       <jump line="105" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/WidgetsGruntfile.js" />
@@ -846,6 +843,12 @@
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-issue-custom-field.js" />
       <jump line="50" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-issue-custom-field.js" />
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/style/yt-agile-backlog-issue.scss" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/style/yt-agile-backlog-issue.scss" />
+      <jump line="36" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/style/yt-agile-backlog-issue.scss" />
+      <jump line="18" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-issue-custom-field.js" />
+      <jump line="34" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/permissions-ng/permissions-ng.js" />
+      <jump line="17" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-issue-custom-field.js" />
+      <jump line="40" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-issue-custom-field.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -889,7 +892,7 @@
         <text>1em</text>
       </register>
       <register name="/" type="4">
-        <text>heig</text>
+        <text>load</text>
       </register>
       <register name="0" type="4">
         <text>$scope.field.projectCustomField</text>
@@ -929,9 +932,9 @@
       </register>
     </registers>
     <search>
-      <last-search>heig</last-search>
+      <last-search>load</last-search>
       <last-offset />
-      <last-pattern>heig</last-pattern>
+      <last-pattern>load</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -939,7 +942,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpc3N1ZUZpZWxkXD4=</entry>
         <entry encoding="base64">XDx2YWx1ZVR5cGVcPg==</entry>
         <entry encoding="base64">XDxnZXRWYWx1ZVByZXNlbnRhdGlvblw+</entry>
         <entry>$iso</entry>
@@ -959,6 +961,7 @@
         <entry>show</entry>
         <entry>con</entry>
         <entry>heig</entry>
+        <entry>load</entry>
       </history-search>
       <history-cmd>
         <entry>5</entry>
