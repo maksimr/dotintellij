@@ -23,6 +23,10 @@
     <keyboard-shortcut first-keystroke="shift alt f10" />
     <keyboard-shortcut first-keystroke="alt comma" second-keystroke="r" />
   </action>
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl space" />
+    <keyboard-shortcut first-keystroke="ctrl comma" second-keystroke="b" />
+  </action>
   <action id="EditorSplitLine" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl f12" />
@@ -68,6 +72,10 @@
     <keyboard-shortcut first-keystroke="alt comma" second-keystroke="comma" />
   </action>
   <action id="ShowUmlDiagramPopup" />
+  <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="shift ctrl space" />
+    <keyboard-shortcut first-keystroke="ctrl comma" second-keystroke="comma" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
