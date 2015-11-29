@@ -718,8 +718,8 @@
         <mark key="." line="13" column="14" />
         <mark key="^" line="13" column="14" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/reports.js" timestamp="1448794822069">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/reports.js" timestamp="1448795761408">
+        <mark key="'" line="11" column="32" />
         <mark key="[" line="92" column="42" />
         <mark key="]" line="92" column="42" />
         <mark key="." line="93" column="4" />
@@ -921,10 +921,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/lib/angular-ui-date/src/date.js" />
-      <jump line="83" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/lib/angular-ui-date/src/date.js" />
-      <jump line="84" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/lib/angular-ui-date/src/date.js" />
-      <jump line="88" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/lib/angular-ui-date/src/date.js" />
       <jump line="109" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/lib/angular-ui-date/src/date.js" />
       <jump line="123" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/lib/angular-ui-date/src/date.js" />
       <jump line="145" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/lib/angular-ui-date/src/date.js" />
@@ -1021,6 +1017,10 @@
       <jump line="11" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/vendor.js" />
       <jump line="12" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/vendor.js" />
       <jump line="6" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/vendor.js" />
+      <jump line="87" column="38" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/reports.js" />
+      <jump line="62" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/reports.js" />
+      <jump line="10" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/reports.js" />
+      <jump line="11" column="32" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/reports.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1064,7 +1064,7 @@
         <text>user</text>
       </register>
       <register name="/" type="4">
-        <text>ela</text>
+        <text>form</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cmVxdWlyZSgnYW5ndWxhci1lbGFzdGljL2VsYXN0aWMnKTsK</text>
@@ -1104,9 +1104,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ela</last-search>
+      <last-search>form</last-search>
       <last-offset />
-      <last-pattern>ela</last-pattern>
+      <last-pattern>form</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1114,7 +1114,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkYXRlRm9ybWF0U2VwYXJhdG9yXD4=</entry>
         <entry encoding="base64">XDxnZXR0ZXh0Q2F0YWxvZ1w+</entry>
         <entry>i18n</entry>
         <entry>datepicker</entry>
@@ -1134,6 +1133,7 @@
         <entry>infi</entry>
         <entry>pages.repo</entry>
         <entry>ela</entry>
+        <entry>form</entry>
       </history-search>
       <history-cmd>
         <entry>5</entry>
