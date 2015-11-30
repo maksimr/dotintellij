@@ -28,6 +28,9 @@
     <keyboard-shortcut first-keystroke="ctrl comma" second-keystroke="b" />
   </action>
   <action id="EditorSplitLine" />
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="ctrl f12" />
     <keyboard-shortcut first-keystroke="alt comma" second-keystroke="p" />
@@ -53,6 +56,8 @@
     <keyboard-shortcut first-keystroke="alt comma" second-keystroke="shift p" />
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="p" />
   </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="shift ctrl alt n" />
     <keyboard-shortcut first-keystroke="alt comma" second-keystroke="alt comma" />
@@ -63,6 +68,10 @@
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="alt insert" />
     <keyboard-shortcut first-keystroke="ctrl alt 5" />
+  </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="alt j" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="ShelvedChanges.Unshelve">
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="shift s" />
