@@ -94,8 +94,8 @@
         <mark key="^" line="6" column="24" />
         <mark key="." line="6" column="24" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/test/service/i18n-translate.js" timestamp="1448895991043">
-        <mark key="'" line="30" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/test/service/i18n-translate.js" timestamp="1448897336130">
+        <mark key="'" line="6" column="19" />
         <mark key="[" line="28" column="42" />
         <mark key="]" line="28" column="45" />
         <mark key="." line="28" column="45" />
@@ -724,11 +724,12 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="11" column="28" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/karma.conf.js" timestamp="1448895725010">
-        <mark key="'" line="90" column="0" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/karma.conf.js" timestamp="1448897387791">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="84" column="17" />
+        <mark key="]" line="84" column="21" />
+        <mark key="." line="84" column="21" />
+        <mark key="^" line="84" column="21" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/reports.js" timestamp="1448841949806">
         <mark key="'" line="93" column="3" />
@@ -912,8 +913,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select/select__popup.js" />
-      <jump line="62" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select/select__popup.js" />
       <jump line="108" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select/select__popup.js" />
       <jump line="110" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select/select__popup.js" />
       <jump line="137" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select/select__popup.js" />
@@ -1012,10 +1011,12 @@
       <jump line="163" column="13" filename="$USER_HOME$/www/js/karma-mocha/src/adapter.js" />
       <jump line="35" column="16" filename="$USER_HOME$/www/js/karma-mocha/src/adapter.js" />
       <jump line="90" column="8" filename="$USER_HOME$/www/js/karma-mocha/src/adapter.js" />
+      <jump line="6" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/test/service/i18n-translate.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/karma.conf.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICRzY29wZS4kZGlnZXN0KCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>progress</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1052,52 +1053,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>components</text>
+        <text>progress</text>
       </register>
       <register name="/" type="4">
-        <text>time</text>
+        <text>reporter</text>
       </register>
       <register name="0" type="4">
         <text>externals/**/*.js</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICRzY29wZS4kZGlnZXN0KCk7Cg==</text>
+      <register name="1" type="4">
+        <text>progress</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICRzY29wZS4kZGlnZXN0KCk7Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text>components</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICJrYXJtYS1zb3VyY2VtYXAtbG9hZGVyIjogIjAuMy42IiwK</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdlYnBhY2tDb25mLm91dHB1dCA9IHt9Owo=</text>
+        <text encoding="base64">ICAgICJrYXJtYS1zb3VyY2VtYXAtbG9hZGVyIjogIjAuMy42IiwK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgIHdlYnBhY2tDb25mLm91dHB1dCA9IHt9Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHdlYnBhY2tDb25mLmNhY2hlID0ge307Cg==</text>
+        <text encoding="base64">ICAgIHdlYnBhY2tDb25mLm91dHB1dCA9IHt9Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHdlYnBhY2tDb25mLmRldnRvb2wgPSAnZXZhbCc7Cg==</text>
+        <text encoding="base64">ICAgIHdlYnBhY2tDb25mLmNhY2hlID0ge307Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHdlYnBhY2tDb25mLmRldnRvb2wgPSAnZXZhbCc7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>preprocessorName</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>time</last-search>
+      <last-search>reporter</last-search>
       <last-offset />
-      <last-pattern>time</last-pattern>
+      <last-pattern>reporter</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1123,8 +1124,8 @@
         <entry>vendor</entry>
         <entry>cache</entry>
         <entry>timeout</entry>
-        <entry>reporter</entry>
         <entry>time</entry>
+        <entry>reporter</entry>
       </history-search>
       <history-cmd>
         <entry>5</entry>
