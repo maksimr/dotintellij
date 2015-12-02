@@ -592,6 +592,13 @@
         <mark key="^" line="30" column="20" />
         <mark key="." line="30" column="20" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" timestamp="1449069745484">
+        <mark key="'" line="183" column="6" />
+        <mark key="[" line="181" column="42" />
+        <mark key="]" line="181" column="41" />
+        <mark key="^" line="181" column="41" />
+        <mark key="." line="181" column="41" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/test/directive/date-interval-input.js" timestamp="1448752479090">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="1" column="0" />
@@ -1021,9 +1028,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="32" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/select/test/e2e/example/index.js" />
-      <jump line="11" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/select/test/e2e/example/index.js" />
-      <jump line="18" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/select/test/e2e/example/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/select/test/e2e/example/index.js" />
       <jump line="16" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-issue-custom-field-complex.js" />
       <jump line="65" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-issue-custom-field-complex.js" />
@@ -1121,10 +1125,13 @@
       <jump line="160" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-issue-custom-field-complex.js" />
       <jump line="12" column="27" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/dialog-edit-issue-custom-field-simple.html" />
       <jump line="17" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/dialog-edit-issue-custom-field-simple.html" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
+      <jump line="4" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
+      <jump line="180" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICBuZy1wYXR0ZXJuPSIvXlswLTldKyQvIgo=</text>
+      <register name="&quot;" type="4">
+        <text>Move require d3 to separate widget abot reports</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1161,52 +1168,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHVibGljIHN0YXRpYyBmaW5hbCBpbnQgTUFYX1ZBTFVFID0g</text>
+        <text>Move require d3 to separate widget abot reports</text>
       </register>
       <register name="/" type="4">
-        <text>multiple</text>
+        <text>d3</text>
       </register>
       <register name="0" type="4">
         <text>-2147483647</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICBuZy1wYXR0ZXJuPSIvXlswLTldKyQvIgo=</text>
+      <register name="1" type="4">
+        <text>Move require d3 to separate widget abot reports</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICBuZy1wYXR0ZXJuPSIvXlswLTldKyQvIgo=</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">cHVibGljIHN0YXRpYyBmaW5hbCBpbnQgTUFYX1ZBTFVFID0g</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAtMjE0NzQ4MzY0NzsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>0</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">cHVibGljIHN0YXRpYyBmaW5hbCBpbnQgTUlOX1ZBTFVFID0g</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>, $rgSelectRerenderPopup</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>selectRerender</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>multiple</last-search>
+      <last-search>d3</last-search>
       <last-offset />
-      <last-pattern>multiple</last-pattern>
+      <last-pattern>d3</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1214,7 +1221,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRDb2xvcmVkVGVtcGxhdGVcPg==</entry>
         <entry encoding="base64">XDxjdXN0b21UeXBlXD4=</entry>
         <entry>template</entry>
         <entry encoding="base64">XDxjYWxsU3VjY2Vzc0FjdGlvbkluRGlhbG9nXD4=</entry>
@@ -1234,6 +1240,7 @@
         <entry>custom</entry>
         <entry encoding="base64">XDxDVVNUT01cPg==</entry>
         <entry>multiple</entry>
+        <entry>d3</entry>
       </history-search>
       <history-cmd>
         <entry>5</entry>
