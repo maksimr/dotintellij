@@ -142,6 +142,13 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/input/input.scss" timestamp="1449054262966">
         <mark key="'" line="50" column="8" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/settings.js" timestamp="1449134184935">
+        <mark key="'" line="310" column="86" />
+        <mark key="[" line="420" column="0" />
+        <mark key="]" line="420" column="0" />
+        <mark key="." line="420" column="0" />
+        <mark key="^" line="462" column="40" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/widget/directive/yt-notes-widget.js" timestamp="1448872971348">
         <mark key="'" line="57" column="26" />
         <mark key="[" line="14" column="13" />
@@ -239,6 +246,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="3" column="12" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-table.html" timestamp="1449133458518" />
       <file name="$USER_HOME$/www/js/lokijs-test/test/lib/fixtureSpec.js" timestamp="1448189910261">
         <mark key="'" line="81" column="2" />
         <mark key="[" line="25" column="14" />
@@ -392,6 +400,10 @@
         <mark key="." line="5" column="74" />
         <mark key="^" line="5" column="74" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1449134042240">
+        <mark key="'" line="369" column="2" />
+        <mark key="[" line="288" column="11" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/e2e/example/agile-backlog-issue.js" timestamp="1448386027200">
         <mark key="'" line="43" column="53" />
         <mark key="[" line="0" column="0" />
@@ -426,8 +438,8 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="38" column="14" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-board-with-sidebar.js" timestamp="1449132791546">
-        <mark key="'" line="2" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-board-with-sidebar.js" timestamp="1449133400486">
+        <mark key="'" line="31" column="22" />
         <mark key="[" line="34" column="22" />
         <mark key="]" line="34" column="22" />
         <mark key="^" line="34" column="22" />
@@ -1033,15 +1045,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-issue-custom-field-complex.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/e2e/example/yt-simple-field.html" />
-      <jump line="20" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/e2e/example/yt-simple-field.html" />
-      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-issue-custom-field-simple.js" />
-      <jump line="84" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-issue-custom-field-simple.js" />
-      <jump line="85" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-issue-custom-field-simple.js" />
-      <jump line="80" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-issue-custom-field-simple.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-issue-custom-field-simple.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-issue-custom-field-simple.js" />
       <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/e2e/example/simple-field.js" />
       <jump line="29" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-issue-custom-field-simple.js" />
       <jump line="81" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-issue-custom-field-simple.js" />
@@ -1133,10 +1136,19 @@
       <jump line="95" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/style/agile-table.scss" />
       <jump line="13" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/style/agile-table.scss" />
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-board-with-sidebar.js" />
+      <jump line="31" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-board-with-sidebar.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="289" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="369" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/settings.js" />
+      <jump line="518" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/settings.js" />
+      <jump line="187" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/settings.js" />
+      <jump line="461" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/settings.js" />
+      <jump line="310" column="86" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/settings.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.yt-board-wrapper</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnRlbnQ6IGFkbWluVGVtcGxhdGVVcmwoJ3RlbXBsYXRlL3NldHRpbmdzL2RpYWxvZy10ZXN0LWVtYWlsLmh0bWwnKSwK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1173,52 +1185,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.yt-board-wrapper</text>
+        <text>template/settings/dialog-import-shortcuts.html</text>
       </register>
       <register name="/" type="4">
-        <text>board-wra</text>
+        <text>content:</text>
       </register>
       <register name="0" type="4">
-        <text>-2147483647</text>
+        <text>template/settings/dialog-test-email.html</text>
       </register>
-      <register name="1" type="4">
-        <text>.yt-board-wrapper</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnRlbnQ6IGFkbWluVGVtcGxhdGVVcmwoJ3RlbXBsYXRlL3NldHRpbmdzL2RpYWxvZy10ZXN0LWVtYWlsLmh0bWwnKSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>console.log(</text>
+        <text>template/settings/dialog-import-shortcuts.html</text>
       </register>
-      <register name="3" type="4">
-        <text>.yt-board-wrapper</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnRlbnQ6IGFkbWluVGVtcGxhdGVVcmwoJ3RlbXBsYXRlL3NldHRpbmdzL2RpYWxvZy1pbXBvcnQtc2hvcnRjdXRzLmh0bWwnKSwK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>template/settings/dialog-test-jabber.html</text>
       </register>
       <register name="5" type="4">
-        <text>controller</text>
+        <text>adminTemplateUrl</text>
       </register>
       <register name="6" type="4">
-        <text>;</text>
+        <text>content</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB2ZXJ0aWNhbC1hbGlnbjogaW5oZXJpdDsK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>return</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">eXQtYm9hcmQtd3JhcHBlciA=</text>
+        <text>.yt-board-wrapper</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>board-wra</last-search>
+      <last-search>content:</last-search>
       <last-offset />
-      <last-pattern>board-wra</last-pattern>
+      <last-pattern>content:</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1226,9 +1238,6 @@
     </search>
     <history>
       <history-search>
-        <entry>width</entry>
-        <entry>100%</entry>
-        <entry>click</entry>
         <entry>favorite</entry>
         <entry>list</entry>
         <entry>popup</entry>
@@ -1246,6 +1255,9 @@
         <entry>constructor</entry>
         <entry>min-he</entry>
         <entry>board-wra</entry>
+        <entry>backlogIss</entry>
+        <entry>enableExper</entry>
+        <entry>content:</entry>
       </history-search>
       <history-cmd>
         <entry>5</entry>
