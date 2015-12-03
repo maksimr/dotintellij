@@ -401,12 +401,12 @@
         <mark key="." line="5" column="74" />
         <mark key="^" line="5" column="74" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1449150783918">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1449152486215">
         <mark key="'" line="11" column="6" />
-        <mark key="[" line="288" column="24" />
-        <mark key="]" line="288" column="29" />
-        <mark key="." line="288" column="29" />
-        <mark key="^" line="288" column="29" />
+        <mark key="[" line="289" column="30" />
+        <mark key="]" line="289" column="62" />
+        <mark key="." line="289" column="62" />
+        <mark key="^" line="289" column="62" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/e2e/example/agile-backlog-issue.js" timestamp="1448386027200">
         <mark key="'" line="43" column="53" />
@@ -497,12 +497,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/service/get-custom-field-bundle-values.js" timestamp="1449139541847">
         <mark key="'" line="35" column="2" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/yt-agile-backlog-issue.html" timestamp="1449150116744">
-        <mark key="'" line="42" column="29" />
-        <mark key="[" line="42" column="70" />
-        <mark key="]" line="42" column="87" />
-        <mark key="." line="42" column="87" />
-        <mark key="^" line="42" column="87" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/yt-agile-backlog-issue.html" timestamp="1449152366472">
+        <mark key="'" line="73" column="0" />
+        <mark key="[" line="34" column="70" />
+        <mark key="]" line="34" column="87" />
+        <mark key="." line="34" column="87" />
+        <mark key="^" line="34" column="87" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/externals/vcs-changes/controller/vcs-changes.js" timestamp="1448319729948">
         <mark key="'" line="10" column="0" />
@@ -603,12 +603,12 @@
         <mark key="." line="28" column="28" />
         <mark key="^" line="28" column="28" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-resolver.js" timestamp="1448642027953">
-        <mark key="'" line="36" column="4" />
-        <mark key="[" line="30" column="12" />
-        <mark key="]" line="30" column="20" />
-        <mark key="^" line="30" column="20" />
-        <mark key="." line="30" column="20" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-resolver.js" timestamp="1449152296370">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="12" column="34" />
+        <mark key="^" line="12" column="34" />
+        <mark key="." line="12" column="34" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" timestamp="1449130788612">
         <mark key="'" line="106" column="0" />
@@ -1071,8 +1071,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="283" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/header/header.js" />
-      <jump line="336" column="37" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/header/header.js" />
       <jump line="337" column="37" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/header/header.js" />
       <jump line="358" column="84" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/header/header.js" />
       <jump line="361" column="47" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/header/header.js" />
@@ -1171,10 +1169,12 @@
       <jump line="287" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="16" column="37" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="11" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-resolver.js" />
+      <jump line="73" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/yt-agile-backlog-issue.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGZyb20pOwo=</text>
+      <register name="&quot;" type="4">
+        <text>from</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1211,7 +1211,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aXNzdWVzLCA=</text>
+        <text>from</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnRlcnZhbFw+</text>
@@ -1219,35 +1219,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICckcScsCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGZyb20pOwo=</text>
+      <register name="1" type="4">
+        <text>from</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWdpbGVCb2FyZEN0cmwuYWdpbGUuYmFja2xvZ0lzc3VlcyA9IGJhY2tsb2dJc3N1ZXMuc2xpY2UoMCwgMTApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJz4+JywgZnJvbSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGZyb20pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGludGVydmFsKGZ1bmN0aW9uKCkgewogICAgICAgICAgICAgIGxhenlTZXRCYWNrbG9nSXNzdWVzKGZyb20gKyAxMCk7CiAgICAgICAgICAgIH0sIDEwMCwgMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWdpbGVCb2FyZEN0cmwuYWdpbGUuYmFja2xvZ0lzc3VlcyA9IGJhY2tsb2dJc3N1ZXMuc2xpY2UoMCwgMTApOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnJvbSA9IGYK</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">aXNzdWVzLCA=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>issues</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJGludGVydmFsKGZ1bmN0aW9uKCkgewogICAgICAgICAgICAgIGxhenlTZXRCYWNrbG9nSXNzdWVzKGZyb20gKyAxMCk7CiAgICAgICAgICAgIH0sIDEwMCwgMCk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZnJvbSA9IGYK</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">aXNzdWVzLCA=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
