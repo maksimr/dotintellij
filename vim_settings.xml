@@ -864,12 +864,12 @@
         <mark key="." line="0" column="47" />
         <mark key="^" line="0" column="47" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/dialog-edit-issue-custom-field-simple.html" timestamp="1449228394912">
-        <mark key="'" line="48" column="24" />
-        <mark key="[" line="35" column="25" />
-        <mark key="]" line="35" column="24" />
-        <mark key="." line="35" column="24" />
-        <mark key="^" line="35" column="24" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/dialog-edit-issue-custom-field-simple.html" timestamp="1449233082980">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="34" column="24" />
       </file>
       <file name="$USER_HOME$/www/js/refactoring/lib/recommendationModel.es6.js" timestamp="1449018094831">
         <mark key="'" line="19" column="0" />
@@ -1121,10 +1121,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/event/directive/yt-autofocus.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/event/test/directive/yt-autofocus.js" />
-      <jump line="7" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/event/test/directive/yt-autofocus.js" />
-      <jump line="18" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/event/test/directive/yt-autofocus.js" />
       <jump line="15" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/event/test/directive/yt-autofocus.js" />
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/event/test/directive/yt-autofocus.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/event/test/directive/yt-autofocus.js" />
@@ -1144,7 +1140,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-resolver.js" />
       <jump line="13" column="67" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-resolver.js" />
       <jump line="41" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-resolver.js" />
-      <jump line="48" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/dialog-edit-issue-custom-field-simple.html" />
       <jump line="24" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/filter/get-issue-field-presentation.js" />
       <jump line="10" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/filter/format-as-field-value.js" />
       <jump line="22" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/filter/format-as-field-value.js" />
@@ -1221,10 +1216,15 @@
       <jump line="99" column="1" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-issue-custom-field-simple.js" />
       <jump line="15" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-issue-custom-field-simple.js" />
       <jump line="91" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-issue-custom-field-simple.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/dialog-edit-issue-custom-field-simple.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/dialog-edit-issue-custom-field-simple.html" />
+      <jump line="19" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/dialog-edit-issue-custom-field-simple.html" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/dialog-edit-issue-custom-field-simple.html" />
+      <jump line="48" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/dialog-edit-issue-custom-field-simple.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>when</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICBtaW49IjAiCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1264,49 +1264,49 @@
         <text>when</text>
       </register>
       <register name="/" type="4">
-        <text>fit</text>
+        <text>numb</text>
       </register>
       <register name="0" type="4">
         <text>formatAsFieldValueFilter($scope.field.value, $scope.fieldType).promise</text>
       </register>
-      <register name="1" type="4">
-        <text>when</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICBtaW49IjAiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pCg==</text>
+      <register name="2" type="4">
+        <text>when</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pCg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgcmV0dXJuIGRhdGE7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>.promise.then(function(data){</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>;</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBmb3JtYXRBc0ZpZWxkVmFsdWVGaWx0ZXIoJHNjb3BlLmZpZWxkLnZhbHVlLCAkc2NvcGUuZmllbGRUeXBlKS5wcm9taXNlLnRoZW4oY29uc29sZS5sb2cuYmluZChjb25zb2xlLCAnPj4+JykpOwo=</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>null</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>fit</last-search>
+      <last-search>numb</last-search>
       <last-offset />
-      <last-pattern>fit</last-pattern>
+      <last-pattern>numb</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1314,8 +1314,6 @@
     </search>
     <history>
       <history-search>
-        <entry>conso</entry>
-        <entry>empty</entry>
         <entry>plac</entry>
         <entry>yt-action</entry>
         <entry encoding="base64">XDxnZXRGaWVsZFZhbHVlXD4=</entry>
@@ -1334,6 +1332,8 @@
         <entry>watch</entry>
         <entry>field</entry>
         <entry>fit</entry>
+        <entry>float</entry>
+        <entry>numb</entry>
       </history-search>
       <history-cmd>
         <entry>5</entry>
