@@ -624,12 +624,12 @@
         <mark key="." line="17" column="32" />
         <mark key="^" line="17" column="32" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-resolver.js" timestamp="1449218395528">
-        <mark key="'" line="41" column="2" />
-        <mark key="[" line="24" column="12" />
-        <mark key="]" line="24" column="11" />
-        <mark key="." line="24" column="11" />
-        <mark key="^" line="24" column="11" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-resolver.js" timestamp="1449223403851">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="38" column="77" />
+        <mark key="]" line="38" column="87" />
+        <mark key="." line="38" column="87" />
+        <mark key="^" line="38" column="87" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" timestamp="1449130788612">
         <mark key="'" line="106" column="0" />
@@ -1112,8 +1112,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ng-infinite-scroll/build/ng-infinite-scroll.js" />
-      <jump line="185" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ng-infinite-scroll/build/ng-infinite-scroll.js" />
       <jump line="7" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ng-infinite-scroll/build/ng-infinite-scroll.js" />
       <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ng-infinite-scroll/build/ng-infinite-scroll.js" />
       <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ng-infinite-scroll/build/ng-infinite-scroll.js" />
@@ -1163,7 +1161,6 @@
       <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="369" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="22" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-resolver.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-resolver.js" />
       <jump line="20" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-resolver.js" />
       <jump line="17" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-resolver.js" />
       <jump line="36" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-resolver.js" />
@@ -1212,10 +1209,13 @@
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/event/event.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/event/event.js" />
       <jump line="17" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/event/event.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-resolver.js" />
+      <jump line="38" column="87" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-resolver.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-resolver.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-2147483647</text>
+        <text>Board</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1252,7 +1252,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>digest</text>
+        <text>Board</text>
       </register>
       <register name="/" type="4">
         <text>yt-action</text>
@@ -1261,13 +1261,13 @@
         <text>-2147483647</text>
       </register>
       <register name="1" type="4">
-        <text>digest</text>
+        <text>Board</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>digest</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -1275,22 +1275,22 @@
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>, _ytDocumentationConfig_</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHl0RG9jdW1lbnRhdGlvbkNvbmZpZyA9IF95dERvY3VtZW50YXRpb25Db25maWdfOwo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICB2YXIgeXREb2N1bWVudGF0aW9uQ29uZmlnOwo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>function() {
     
   }</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbWFrc2ltcnYgb24gMTIvNC8xNS4KICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
