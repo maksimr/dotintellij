@@ -750,11 +750,10 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-dashboard/webpack-embed.config.js" timestamp="1448842303368">
         <mark key="'" line="66" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/edit-project/workflows.js" timestamp="1449493797802">
-        <mark key="[" line="114" column="32" />
-        <mark key="]" line="114" column="32" />
-        <mark key="." line="114" column="32" />
-        <mark key="^" line="114" column="32" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/edit-project/workflows.js" timestamp="1449494025327">
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="." line="114" column="0" />
       </file>
       <file name="$USER_HOME$/www/js/karma-mocha/karma.conf.js" timestamp="1448896976858">
         <mark key="'" line="13" column="0" />
@@ -1049,8 +1048,8 @@
       <file name="$USER_HOME$/www/js/material/.gitignore" timestamp="1449244691462">
         <mark key="'" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project/workflows.js" timestamp="1449493073741">
-        <mark key="'" line="428" column="54" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project/workflows.js" timestamp="1449493972923">
+        <mark key="'" line="388" column="25" />
         <mark key="[" line="419" column="0" />
         <mark key="]" line="419" column="49" />
         <mark key="." line="419" column="0" />
@@ -1156,8 +1155,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="40" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/edit-project/workflows.js" />
-      <jump line="172" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/edit-project/workflows.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/edit-project/workflows.js" />
       <jump line="29" column="78" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/edit-project/workflows.js" />
       <jump line="30" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/edit-project/workflows.js" />
@@ -1256,10 +1253,12 @@
       <jump line="95" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/edit-project/workflows.js" />
       <jump line="92" column="40" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/edit-project/workflows.js" />
       <jump line="87" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/edit-project/workflows.js" />
+      <jump line="393" column="53" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project/workflows.js" />
+      <jump line="388" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project/workflows.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KHJ1bGUuaXNCcm9rZW4pLnRvRXF1YWwoZmFsc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJz4+PicsIHJ1bGUuaXNCcm9rZW4pOwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1304,35 +1303,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZXhwZWN0KHJ1bGUuaXNCcm9rZW4pLnRvRXF1YWwoZmFsc2UpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>[]</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJz4+PicsIHJ1bGUuaXNCcm9rZW4pOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>problems</text>
+        <text>[]</text>
       </register>
       <register name="3" type="4">
-        <text>ruleUsage</text>
+        <text>problems</text>
       </register>
       <register name="4" type="4">
-        <text>apply quick fix for current rule problem</text>
+        <text>ruleUsage</text>
       </register>
       <register name="5" type="4">
-        <text>[ruleUsage]</text>
+        <text>apply quick fix for current rule problem</text>
       </register>
       <register name="6" type="4">
-        <text>ruleUsages</text>
+        <text>[ruleUsage]</text>
       </register>
       <register name="7" type="4">
         <text>ruleUsages</text>
       </register>
       <register name="8" type="4">
-        <text>ruleUsageProblem</text>
+        <text>ruleUsages</text>
       </register>
       <register name="9" type="4">
-        <text>ruleUsages</text>
+        <text>ruleUsageProblem</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
