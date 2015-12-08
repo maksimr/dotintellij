@@ -315,11 +315,12 @@
       <file name="$USER_HOME$/www/js/material/.gitignore" timestamp="1449244691462">
         <mark key="'" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project/workflows.js" timestamp="1449504312729">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project/workflows.js" timestamp="1449589377781">
         <mark key="'" line="461" column="16" />
-        <mark key="[" line="406" column="0" />
-        <mark key="]" line="406" column="0" />
-        <mark key="." line="406" column="0" />
+        <mark key="[" line="495" column="36" />
+        <mark key="]" line="495" column="36" />
+        <mark key="." line="495" column="36" />
+        <mark key="^" line="495" column="36" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/filter/format-as-field-value.js" timestamp="1449231190820">
         <mark key="'" line="8" column="0" />
@@ -468,7 +469,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>loadIssues</text>
+        <text>!==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -505,7 +506,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>loadIssues</text>
+        <text>!==</text>
       </register>
       <register name="/" type="4">
         <text>subt</text>
@@ -514,34 +515,34 @@
         <text>onLoadIssues</text>
       </register>
       <register name="1" type="4">
-        <text>loadIssues</text>
+        <text>!==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>onLoadIssues</text>
+        <text>Boolean(</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzdWJ0YXNrQ291bnQK</text>
+      <register name="3" type="4">
+        <text>loadIssues</text>
       </register>
       <register name="4" type="4">
-        <text>subtaskCount</text>
-      </register>
-      <register name="5" type="4">
-        <text>subtaskCount</text>
-      </register>
-      <register name="6" type="4">
         <text>onLoadIssues</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBzdWJ0YXNrQ291bnQK</text>
+      </register>
+      <register name="6" type="4">
+        <text>subtaskCount</text>
+      </register>
       <register name="7" type="4">
+        <text>subtaskCount</text>
+      </register>
+      <register name="8" type="4">
+        <text>onLoadIssues</text>
+      </register>
+      <register name="9" type="4">
         <text>issuesCount</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB5dC1sb2FkZXI9ImlubGluZSIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
