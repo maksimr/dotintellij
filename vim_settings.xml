@@ -201,12 +201,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/template/yt-date-interval-input.html" timestamp="1448754739951">
         <mark key="'" line="8" column="11" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-issue-custom-field-simple.js" timestamp="1449592673397">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-issue-custom-field-simple.js" timestamp="1449595097886">
         <mark key="'" line="19" column="0" />
-        <mark key="[" line="59" column="77" />
-        <mark key="]" line="59" column="94" />
-        <mark key="^" line="59" column="94" />
-        <mark key="." line="59" column="94" />
+        <mark key="[" line="70" column="38" />
+        <mark key="]" line="70" column="84" />
+        <mark key="^" line="66" column="78" />
+        <mark key="." line="70" column="38" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/loader/test/e2e/example/index.html" timestamp="1449578296586">
         <mark key="'" line="16" column="7" />
@@ -304,12 +304,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/project-wizard/src/blocks/query-assist/query-assist.html" timestamp="1449587068584">
         <mark key="'" line="4" column="9" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/dialog-edit-issue-custom-field-simple.html" timestamp="1449592782615">
-        <mark key="'" line="35" column="32" />
-        <mark key="[" line="35" column="50" />
-        <mark key="]" line="35" column="50" />
-        <mark key="." line="35" column="50" />
-        <mark key="^" line="35" column="50" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/dialog-edit-issue-custom-field-simple.html" timestamp="1449595154566">
+        <mark key="'" line="36" column="32" />
+        <mark key="[" line="36" column="11" />
+        <mark key="]" line="36" column="10" />
+        <mark key="." line="36" column="10" />
+        <mark key="^" line="36" column="10" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-route/angular-route.js" timestamp="1448533782726">
         <mark key="'" line="262" column="8" />
@@ -483,7 +483,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICsnKSc=</text>
+        <text>periodPatternPresentation</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -520,43 +520,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICsnKSc=</text>
+        <text>periodPatternPresentation</text>
       </register>
       <register name="/" type="4">
         <text>fieldPlaceholder</text>
       </register>
       <register name="0" type="4">
-        <text>onLoadIssues</text>
+        <text>$scope.field.projectCustomField.emptyFieldText</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICsnKSc=</text>
+        <text>periodPatternPresentation</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ZGF0YS5maWVsZFBsYWNlaG9sZGVyICsgJyAoJysg</text>
+        <text>periodFieldPattern</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICsgJyAoKSc=</text>
+        <text>fieldPlaceholder</text>
       </register>
       <register name="4" type="4">
-        <text>/^(\d+w\s*)?(\d+d\s*)?(\d+h\s*)?(\d+m\s*)?$/</text>
+        <text>$scope.lol = 'lol';</text>
       </register>
-      <register name="5" type="4">
-        <text>!==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBwZXJpb2RGaWVsZFBhdHRlcm4gPSBkYXRhLnBlcmlvZEZpZWxkUGF0dGVybjsKICAgICAgICAgICAgICAgIHZhciBwZXJpb2RQYXR0ZXJuUHJlc2VudGF0aW9uID0gZ2V0UGVyaW9kUGF0dGVyblByZXNlbnRhdGlvbihwZXJpb2RGaWVsZFBhdHRlcm4pOwogICAgICAgICAgICAgICAgdmFyIGZpZWxkVmFsdWUgPSBkYXRhLmZpZWxkVmFsdWU7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>Boolean(</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>loadIssues</text>
+        <text>{ },</text>
       </register>
-      <register name="8" type="4">
-        <text>onLoadIssues</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzdWJ0YXNrQ291bnQK</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUWVBFUzogJHNjb3BlLlRZUEVTLAoKICAgICAgICAgICAgICAgICAgICBjaGFuZ2VQbGFjZWhvbGRlcjogZnVuY3Rpb24oKSB7CiAgICAgICAgICAgICAgICAgICAgICAkc2NvcGUubG9sID0gJ2xvbCc7CiAgICAgICAgICAgICAgICAgICAgfSwKCgogICAgICAgICAgICAgICAgICAgIHBlcmlvZFByZXNlbnRhdGlvbjogcGVyaW9kUGF0dGVyblByZXNlbnRhdGlvbiwKICAgICAgICAgICAgICAgICAgICBmaWVsZE5hbWU6ICRzY29wZS5maWVsZE5hbWUsCiAgICAgICAgICAgICAgICAgICAgZmllbGRWYWx1ZTogZmllbGRWYWx1ZSwKICAgICAgICAgICAgICAgICAgICBmaWVsZFR5cGU6ICRzY29wZS5maWVsZFR5cGUsCgogICAgICAgICAgICAgICAgICAgIGZpZWxkUmF3OiAkc2NvcGUuZmllbGQsCiAgICAgICAgICAgICAgICAgICAgZmllbGRSYXdWYWx1ZTogJHNjb3BlLmZpZWxkLnZhbHVlLAogICAgICAgICAgICAgICAgICAgIGZpZWxkUGxhY2Vob2xkZXI6ICRzY29wZS5maWVsZC5wcm9qZWN0Q3VzdG9tRmllbGQuZW1wdHlGaWVsZFRleHQsCgogICAgICAgICAgICAgICAgICAgIHBlcmlvZEZpZWxkUGF0dGVybjogcGVyaW9kRmllbGRQYXR0ZXJu</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
