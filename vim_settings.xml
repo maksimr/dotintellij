@@ -349,12 +349,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/date.js" timestamp="1448871160467">
         <mark key="'" line="25" column="34" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/main-core.scss" timestamp="1449750894025">
-        <mark key="'" line="151" column="11" />
-        <mark key="[" line="111" column="20" />
-        <mark key="]" line="111" column="30" />
-        <mark key="." line="111" column="30" />
-        <mark key="^" line="111" column="30" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/main-core.scss" timestamp="1449751691720">
+        <mark key="'" line="179" column="11" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+        <mark key="^" line="76" column="25" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/dialog-ng/dialog-ng.js" timestamp="1448841699242">
         <mark key="'" line="0" column="0" />
@@ -474,18 +474,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="20" filename="$USER_HOME$/www/js/lokijs-test/test/lib/fixtureSpec.js" />
-      <jump line="19" column="0" filename="$USER_HOME$/www/js/lokijs-test/test/lib/fixtureSpec.js" />
-      <jump line="21" column="0" filename="$USER_HOME$/www/js/lokijs-test/test/lib/fixtureSpec.js" />
-      <jump line="46" column="0" filename="$USER_HOME$/www/js/lokijs-test/test/lib/fixtureSpec.js" />
-      <jump line="11" column="0" filename="$USER_HOME$/www/js/lokijs-test/test/lib/fixtureSpec.js" />
-      <jump line="17" column="0" filename="$USER_HOME$/www/js/lokijs-test/test/lib/serverSpec.js" />
-      <jump line="39" column="1" filename="$USER_HOME$/www/js/lokijs-test/lib/server.js" />
-      <jump line="61" column="0" filename="$USER_HOME$/www/js/lokijs-test/lib/server.js" />
-      <jump line="28" column="0" filename="$USER_HOME$/www/js/lokijs-test/test/lib/serverSpec.js" />
-      <jump line="30" column="2" filename="$USER_HOME$/www/js/lokijs-test/test/lib/serverSpec.js" />
-      <jump line="112" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/main-core.scss" />
-      <jump line="68" column="1" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/main-core.scss" />
       <jump line="142" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/main-core.scss" />
       <jump line="88" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/main-core.scss" />
       <jump line="114" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/main-core.scss" />
@@ -574,10 +562,22 @@
       <jump line="36" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/custom-fields.js" />
       <jump line="75" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/main-core.scss" />
       <jump line="151" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/main-core.scss" />
+      <jump line="67" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/main-core.scss" />
+      <jump line="159" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/main-core.scss" />
+      <jump line="161" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/main-core.scss" />
+      <jump line="167" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/main-core.scss" />
+      <jump line="0" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/main-core.scss" />
+      <jump line="37" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/main-core.scss" />
+      <jump line="103" column="1" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/main-core.scss" />
+      <jump line="160" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/main-core.scss" />
+      <jump line="69" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/main-core.scss" />
+      <jump line="116" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/main-core.scss" />
+      <jump line="174" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/main-core.scss" />
+      <jump line="180" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/main-core.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cmVxdWlyZSgnLi9zZXJ2aWNlL3BlcmlvZC10aW1lLWluZGVudGlmaWVycycpOwo=</text>
+        <text encoding="base64">ICBjb2xvcjogJHJpbmctbGluay1jb2xvcjsK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -619,38 +619,38 @@
       <register name="/" type="4">
         <text>action</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICdwZXJpb2RUaW1lSWRlbnRpZmllcnMnLAo=</text>
+      <register name="0" type="4">
+        <text>$ring-gray-color</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cmVxdWlyZSgnLi9zZXJ2aWNlL3BlcmlvZC10aW1lLWluZGVudGlmaWVycycpOwo=</text>
+        <text encoding="base64">ICBjb2xvcjogJHJpbmctbGluay1jb2xvcjsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>periodTimeIdentifiers</text>
+      <register name="2" type="2">
+        <text encoding="base64">Lnl0LWxpbmsgewogIHRleHQtZGVjb3JhdGlvbjogbm9uZTsKICBjb2xvcjogJHJpbmctbGluay1jb2xvcjsKICBjdXJzb3I6IHBvaW50ZXI7CgogICY6aG92ZXIgewogICAgdGV4dC1kZWNvcmF0aW9uOiB1bmRlcmxpbmU7CiAgICBjb2xvcjogJHJpbmctbGluay1ob3Zlci1jb2xvcjsKICB9Cn0KCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">CiAgJjpob3ZlciwgLmdsb2JhbCAmOmhvdmVyIHsKICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbG9yOiAkcmluZy1saW5rLWhvdmVyLWNvbG9yOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">cmVxdWlyZSgnLi9zZXJ2aWNlL3BlcmlvZC10aW1lLWluZGVudGlmaWVycycpOwo=</text>
+      </register>
+      <register name="7" type="4">
         <text>periodTimeIdentifiers</text>
-      </register>
-      <register name="5" type="4">
-        <text>date</text>
-      </register>
-      <register name="6" type="4">
-        <text>periodTimeIdentifiers</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2lub24uc3R1YihnZXR0ZXh0Q2F0YWxvZywgJ2N1cnJlbnRMYW5ndWFnZScsICdydScpOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="4">
-        <text>, _gettextCatalog_</text>
+        <text>periodTimeIdentifiers</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -667,10 +667,6 @@
     </search>
     <history>
       <history-search>
-        <entry>patter</entry>
-        <entry>change</entry>
-        <entry>back</entry>
-        <entry encoding="base64">XDxmb290ZXJcPg==</entry>
         <entry>agile</entry>
         <entry>hro</entry>
         <entry>a</entry>
@@ -678,7 +674,6 @@
         <entry encoding="base64">XDxlbXB0eUZpZWxkVGV4dFw+</entry>
         <entry>container</entry>
         <entry>icon-action</entry>
-        <entry>yt-action</entry>
         <entry>minut</entry>
         <entry>min</entry>
         <entry>Su</entry>
@@ -686,6 +681,11 @@
         <entry>lang</entry>
         <entry>get</entry>
         <entry>time</entry>
+        <entry>yt-link</entry>
+        <entry>global</entry>
+        <entry>.global</entry>
+        <entry>yt-action</entry>
+        <entry>gray</entry>
         <entry>action</entry>
       </history-search>
       <history-cmd>
