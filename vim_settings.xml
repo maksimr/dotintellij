@@ -88,8 +88,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/template/yt-date-interval-input.html" timestamp="1448754739951">
         <mark key="'" line="8" column="11" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-issue-custom-field-simple.js" timestamp="1449734903597">
-        <mark key="'" line="140" column="2" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-issue-custom-field-simple.js" timestamp="1449746648581">
+        <mark key="'" line="89" column="34" />
         <mark key="[" line="97" column="60" />
         <mark key="]" line="97" column="60" />
         <mark key="^" line="111" column="39" />
@@ -301,9 +301,9 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-i18n/angular-locale_ru.js" timestamp="1449660140538">
         <mark key="'" line="127" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/dialog-edit-issue-custom-field-simple.html" timestamp="1449680266337">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/dialog-edit-issue-custom-field-simple.html" timestamp="1449746673956">
         <mark key="e" line="43" column="50" />
-        <mark key="'" line="55" column="0" />
+        <mark key="'" line="38" column="32" />
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="^" line="20" column="28" />
@@ -430,10 +430,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18895" column="66" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
-      <jump line="28858" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
-      <jump line="28889" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
       <jump line="120" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
       <jump line="112" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-i18n/angular-locale_ru.js" />
@@ -530,6 +526,10 @@
       <jump line="84" column="56" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/yt-agile-backlog-issue.html" />
       <jump line="6" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/yt-agile-backlog-issue.html" />
       <jump line="7" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/yt-agile-backlog-issue.html" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/dialog-edit-issue-custom-field-simple.html" />
+      <jump line="93" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-issue-custom-field-simple.js" />
+      <jump line="89" column="34" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-issue-custom-field-simple.js" />
+      <jump line="38" column="32" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/dialog-edit-issue-custom-field-simple.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -573,7 +573,7 @@
         <text>tElement</text>
       </register>
       <register name="/" type="4">
-        <text>href</text>
+        <text encoding="base64">XDxlbXB0eUZpZWxkVGV4dFw+</text>
       </register>
       <register name="0" type="4">
         <text>.yt-board-with-sidebar</text>
@@ -613,17 +613,16 @@
       </register>
     </registers>
     <search>
-      <last-search>href</last-search>
+      <last-search encoding="base64">XDxlbXB0eUZpZWxkVGV4dFw+</last-search>
       <last-offset />
-      <last-pattern>href</last-pattern>
+      <last-pattern encoding="base64">XDxlbXB0eUZpZWxkVGV4dFw+</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRQcmVzZW50YXRpb25cPg==</entry>
         <entry encoding="base64">XDxmb3JtYXRBc0ZpZWxkVmFsdWVGaWx0ZXJcPg==</entry>
         <entry>numberFilter</entry>
         <entry encoding="base64">XDxsb2NhbGVcPg==</entry>
@@ -643,6 +642,7 @@
         <entry>hro</entry>
         <entry>a</entry>
         <entry>href</entry>
+        <entry encoding="base64">XDxlbXB0eUZpZWxkVGV4dFw+</entry>
       </history-search>
       <history-cmd>
         <entry>131</entry>
