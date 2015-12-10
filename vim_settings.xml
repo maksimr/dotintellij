@@ -175,13 +175,13 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/service/get-custom-field-bundle-values.js" timestamp="1449139541847">
         <mark key="'" line="35" column="2" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/yt-agile-backlog-issue.html" timestamp="1449677481602">
-        <mark key="a" line="59" column="27" />
-        <mark key="'" line="21" column="33" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
-        <mark key="^" line="82" column="56" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/yt-agile-backlog-issue.html" timestamp="1449740127073">
+        <mark key="a" line="61" column="27" />
+        <mark key="'" line="7" column="15" />
+        <mark key="[" line="41" column="76" />
+        <mark key="]" line="42" column="33" />
+        <mark key="." line="42" column="33" />
+        <mark key="^" line="42" column="33" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/header.js" timestamp="1448922496655">
         <mark key="'" line="5" column="0" />
@@ -430,9 +430,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18900" column="60" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
-      <jump line="18898" column="66" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
-      <jump line="18897" column="61" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
       <jump line="18895" column="66" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
       <jump line="28858" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
       <jump line="28889" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
@@ -530,6 +527,9 @@
       <jump line="42" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-board-with-sidebar.js" />
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-board-with-sidebar.js" />
       <jump line="39" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-board-with-sidebar.js" />
+      <jump line="84" column="56" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/yt-agile-backlog-issue.html" />
+      <jump line="6" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/yt-agile-backlog-issue.html" />
+      <jump line="7" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/yt-agile-backlog-issue.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -573,7 +573,7 @@
         <text>tElement</text>
       </register>
       <register name="/" type="4">
-        <text>hro</text>
+        <text>href</text>
       </register>
       <register name="0" type="4">
         <text>.yt-board-with-sidebar</text>
@@ -613,9 +613,9 @@
       </register>
     </registers>
     <search>
-      <last-search>hro</last-search>
+      <last-search>href</last-search>
       <last-offset />
-      <last-pattern>hro</last-pattern>
+      <last-pattern>href</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -623,8 +623,6 @@
     </search>
     <history>
       <history-search>
-        <entry>12</entry>
-        <entry>hint</entry>
         <entry encoding="base64">XDxnZXRQcmVzZW50YXRpb25cPg==</entry>
         <entry encoding="base64">XDxmb3JtYXRBc0ZpZWxkVmFsdWVGaWx0ZXJcPg==</entry>
         <entry>numberFilter</entry>
@@ -643,6 +641,8 @@
         <entry encoding="base64">XDxmb290ZXJcPg==</entry>
         <entry>agile</entry>
         <entry>hro</entry>
+        <entry>a</entry>
+        <entry>href</entry>
       </history-search>
       <history-cmd>
         <entry>131</entry>
