@@ -331,11 +331,13 @@
         <mark key="." line="11" column="10" />
         <mark key="^" line="11" column="10" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-i18n/angular-locale_ru.js" timestamp="1449660140538">
-        <mark key="'" line="127" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-i18n/angular-locale_ru.js" timestamp="1449760964561">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="98" column="18" />
+        <mark key="]" line="98" column="23" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/test/service/i18n-number.js" timestamp="1449755901957">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/test/service/i18n-number.js" timestamp="1449760402381">
+        <mark key="'" line="1" column="0" />
         <mark key="[" line="56" column="31" />
         <mark key="]" line="56" column="35" />
         <mark key="^" line="56" column="35" />
@@ -473,10 +475,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-i18n/angular-locale_en.js" />
-      <jump line="126" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-i18n/angular-locale_en.js" />
-      <jump line="21" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/service/i18n-date.js" />
-      <jump line="15" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/service/i18n-date.js" />
       <jump line="25" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/service/i18n-date.js" />
       <jump line="20" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/service/i18n-date.js" />
       <jump line="31" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/service/i18n-date.js" />
@@ -568,15 +566,19 @@
       <jump line="25" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/test/service/i18n-number.js" />
       <jump line="29" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/test/service/i18n-number.js" />
       <jump line="50" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/test/service/i18n-number.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/test/service/i18n-number.js" />
       <jump line="98" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-i18n/angular-locale_en.js" />
       <jump line="28861" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
       <jump line="18641" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
       <jump line="18574" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
+      <jump line="59" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/test/service/i18n-number.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/test/service/i18n-number.js" />
+      <jump line="60" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/test/service/i18n-number.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/test/service/i18n-number.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-i18n/angular-locale_ru.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>comma</text>
+        <text>\u00a0</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -616,10 +618,10 @@
         <text>comma</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmb3JtYXROdW1iZXJcPg==</text>
+        <text>NUMBER</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGl0KCdzaG91bGQgYWxsb3cgdXNlciB0eXBlIGNvbW1hIGluIGFueSBsb2NhbGUnLCBmdW5jdGlvbigpIHsK</text>
+      <register name="0" type="4">
+        <text>\u00a0</text>
       </register>
       <register name="1" type="4">
         <text>comma</text>
@@ -656,17 +658,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmb3JtYXROdW1iZXJcPg==</last-search>
+      <last-search>NUMBER</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmb3JtYXROdW1iZXJcPg==</last-pattern>
+      <last-pattern>NUMBER</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>a</entry>
         <entry>href</entry>
         <entry encoding="base64">XDxlbXB0eUZpZWxkVGV4dFw+</entry>
         <entry>container</entry>
@@ -686,6 +687,7 @@
         <entry>action</entry>
         <entry encoding="base64">XDxHUk9VUF9TRVBcPg==</entry>
         <entry encoding="base64">XDxmb3JtYXROdW1iZXJcPg==</entry>
+        <entry>NUMBER</entry>
       </history-search>
       <history-cmd>
         <entry>131</entry>
