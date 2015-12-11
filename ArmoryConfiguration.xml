@@ -72,6 +72,14 @@
           <node name="method" />
         </scheme>
       </context>
+      <context name="kotlin_class" default="Standard">
+        <scheme name="Standard">
+          <node name="groups" />
+          <node name="field" />
+          <node name="constructor" />
+          <node name="method" />
+        </scheme>
+      </context>
     </sortingScheme>
     <licenses>
       <license>GN5nNGmjWlXYQy1yRP2YxAfkH2k6EbzzQBiADLDRMwSkARPmW8M10f787Zz/xfmLGTv6p5MuX1ab
