@@ -29,8 +29,8 @@
         <mark key="." line="109" column="16" />
         <mark key="^" line="109" column="16" />
       </file>
-      <file name="$USER_HOME$/www/js/mocha/lib/reporters/base.js" timestamp="1450221252888">
-        <mark key="'" line="5" column="0" />
+      <file name="$USER_HOME$/www/js/mocha/lib/reporters/base.js" timestamp="1450221594219">
+        <mark key="'" line="162" column="7" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-dashboard/app/widgets/youtrack-report/youtrack-report.js" timestamp="1448455077367">
         <mark key="'" line="272" column="0" />
@@ -393,6 +393,9 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/react-ng/react-ng.js" timestamp="1449835252311">
         <mark key="'" line="41" column="9" />
       </file>
+      <file name="$USER_HOME$/www/js/mocha/node_modules/diff/diff.js" timestamp="1450221475461">
+        <mark key="'" line="603" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/form/form.scss" timestamp="1449054273880">
         <mark key="'" line="1" column="0" />
       </file>
@@ -585,15 +588,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="0" filename="$USER_HOME$/tmp/js/webpack-on-context/webpack.dev.config.js" />
-      <jump line="363" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack.config.js" />
-      <jump line="146" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack.config.js" />
-      <jump line="12" column="0" filename="$USER_HOME$/tmp/js/webpack-on-context/app/index.html" />
-      <jump line="3" column="16" filename="$USER_HOME$/tmp/js/webpack-on-context/app/error.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/tmp/js/webpack-on-context/app/error.html" />
-      <jump line="1" column="0" filename="$USER_HOME$/tmp/js/webpack-on-context/app/error.html" />
-      <jump line="10" column="4" filename="$USER_HOME$/tmp/js/webpack-on-context/node_modules/webpack-dev-server/lib/Server.js" />
-      <jump line="120" column="8" filename="$USER_HOME$/tmp/js/webpack-on-context/node_modules/webpack-dev-server/lib/Server.js" />
       <jump line="27" column="23" filename="$USER_HOME$/tmp/js/webpack-on-context/webpack.dev.config.js" />
       <jump line="143" column="38" filename="$USER_HOME$/tmp/js/webpack-on-context/node_modules/webpack-dev-server/lib/Server.js" />
       <jump line="0" column="0" filename="$USER_HOME$/tmp/js/webpack-on-context/node_modules/webpack-dev-server/node_modules/http-proxy/index.js" />
@@ -683,8 +677,17 @@
       <jump line="48" column="21" filename="$USER_HOME$/www/js/mocha/lib/mocha.js" />
       <jump line="355" column="14" filename="$USER_HOME$/www/js/mocha/lib/mocha.js" />
       <jump line="347" column="14" filename="$USER_HOME$/www/js/mocha/lib/mocha.js" />
+      <jump line="484" column="0" filename="$USER_HOME$/www/js/mocha/lib/reporters/base.js" />
+      <jump line="434" column="9" filename="$USER_HOME$/www/js/mocha/lib/reporters/base.js" />
+      <jump line="68" column="0" filename="$USER_HOME$/www/js/mocha/node_modules/diff/diff.js" />
+      <jump line="603" column="0" filename="$USER_HOME$/www/js/mocha/node_modules/diff/diff.js" />
+      <jump line="7" column="22" filename="$USER_HOME$/www/js/mocha/lib/reporters/base.js" />
+      <jump line="5" column="4" filename="$USER_HOME$/www/js/mocha/lib/reporters/base.js" />
       <jump line="440" column="25" filename="$USER_HOME$/www/js/mocha/lib/reporters/base.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/www/js/mocha/lib/reporters/base.js" />
+      <jump line="437" column="25" filename="$USER_HOME$/www/js/mocha/lib/reporters/base.js" />
+      <jump line="454" column="15" filename="$USER_HOME$/www/js/mocha/lib/reporters/base.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/js/mocha/lib/reporters/base.js" />
+      <jump line="162" column="7" filename="$USER_HOME$/www/js/mocha/lib/reporters/base.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -728,7 +731,7 @@
         <text>join</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkaWZmXD4=</text>
+        <text>diff</text>
       </register>
       <register name="0" type="4">
         <text>https://github.com/kpdecker/jsdiff</text>
@@ -768,12 +771,12 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkaWZmXD4=</last-search>
+      <last-search>diff</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkaWZmXD4=</last-pattern>
+      <last-pattern>diff</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -795,9 +798,9 @@
         <entry>html</entry>
         <entry encoding="base64">XDxkZXZDbGllbnRcPg==</entry>
         <entry>inline</entry>
-        <entry>diff</entry>
         <entry>showDiff</entry>
         <entry encoding="base64">XDxkaWZmXD4=</entry>
+        <entry>diff</entry>
       </history-search>
       <history-cmd>
         <entry>46</entry>
