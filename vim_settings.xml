@@ -187,6 +187,9 @@
       <file name="$USER_HOME$/www/js/karma-mocha/karma.conf.js" timestamp="1448896976858">
         <mark key="'" line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/usergroups/service/user-groups.js" timestamp="1450286300166">
+        <mark key="'" line="72" column="2" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/yt-agile-card-medium.html" timestamp="1449163040421">
         <mark key="'" line="14" column="41" />
       </file>
@@ -610,8 +613,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/tmp/js/webpack-on-context/webpack.dev.config.js" />
-      <jump line="21" column="0" filename="$USER_HOME$/tmp/js/webpack-on-context/webpack.dev.config.js" />
       <jump line="7" column="0" filename="$USER_HOME$/tmp/js/webpack-on-context/webpack.dev.config.js" />
       <jump line="44" column="0" filename="$USER_HOME$/tmp/js/webpack-on-context/webpack.dev.config.js" />
       <jump line="6" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
@@ -710,6 +711,8 @@
       <jump line="56" column="433" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/README.md" />
       <jump line="49" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
       <jump line="283" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/usergroups/service/user-groups.js" />
+      <jump line="72" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/usergroups/service/user-groups.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -753,7 +756,7 @@
         <text encoding="base64">c3RhbmRhbG9uZSA=</text>
       </register>
       <register name="/" type="4">
-        <text>README</text>
+        <text>report</text>
       </register>
       <register name="0" type="4">
         <text>https://confluence.jetbrains.com/display/TSYS/Gradle-based+build</text>
@@ -793,9 +796,9 @@
       </register>
     </registers>
     <search>
-      <last-search>README</last-search>
+      <last-search>report</last-search>
       <last-offset />
-      <last-pattern>README</last-pattern>
+      <last-pattern>report</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -803,7 +806,6 @@
     </search>
     <history>
       <history-search>
-        <entry>start</entry>
         <entry>port</entry>
         <entry>devServ</entry>
         <entry>isProd</entry>
@@ -823,6 +825,7 @@
         <entry>gradlew</entry>
         <entry>grad</entry>
         <entry>README</entry>
+        <entry>report</entry>
       </history-search>
       <history-cmd>
         <entry>46</entry>
