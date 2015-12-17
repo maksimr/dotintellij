@@ -26,8 +26,8 @@
         <mark key="." line="109" column="16" />
         <mark key="^" line="109" column="16" />
       </file>
-      <file name="$USER_HOME$/www/js/mocha/lib/reporters/base.js" timestamp="1450389174180">
-        <mark key="'" line="207" column="0" />
+      <file name="$USER_HOME$/www/js/mocha/lib/reporters/base.js" timestamp="1450389230103">
+        <mark key="'" line="488" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-dashboard/app/widgets/youtrack-report/youtrack-report.js" timestamp="1448455077367">
         <mark key="'" line="272" column="0" />
@@ -142,6 +142,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="^" line="16" column="12" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/js/dev-tools-profiling/index.html" timestamp="1450389374196">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-issue-custom-field-simple.js" timestamp="1450178560601">
         <mark key="'" line="149" column="2" />
@@ -644,8 +649,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11879" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
-      <jump line="12953" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
       <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select-ng/select-ng.js" />
       <jump line="331" column="73" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select-ng/select-ng.js" />
       <jump line="559" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select-ng/select-ng.js" />
@@ -744,10 +747,12 @@
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-table-orphan-title.html" />
       <jump line="3" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-table-orphan-title.html" />
       <jump line="207" column="0" filename="$USER_HOME$/www/js/mocha/lib/reporters/base.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/js/mocha/lib/reporters/base.js" />
+      <jump line="488" column="0" filename="$USER_HOME$/www/js/mocha/lib/reporters/base.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGN0cmwuc2VsZWN0SW5zdGFuY2UuX2hpZGVQb3B1cCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBIZWxsbyEK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -793,37 +798,37 @@
         <text>ctrl.selectInstance</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGN0cmwuc2VsZWN0SW5zdGFuY2UuX2hpZGVQb3B1cCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBIZWxsbyEK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgIGN0cmwuc2VsZWN0SW5zdGFuY2UuX2hpZGVQb3B1cCgpOwo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIGN0cmwuc2VsZWN0SW5zdGFuY2UuX2hpZGVQb3B1cCgpOwo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhhZ2lsZUJvYXJkUmVzb2x2ZSk7Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>,</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgIG5hbWU6IGFnaWxlLm5hbWUK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>id</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIG5hbWU6IGFnaWxlQm9hcmRDdHJsLmFnaWxlLmlkLAo=</text>
-      </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz53</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -877,8 +882,8 @@
         <entry>244</entry>
         <entry>58</entry>
         <entry>14</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
