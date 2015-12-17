@@ -196,8 +196,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/usergroups/service/user-groups.js" timestamp="1450286300166">
         <mark key="'" line="72" column="2" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/yt-agile-card-medium.html" timestamp="1449163040421">
-        <mark key="'" line="14" column="41" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/yt-agile-card-medium.html" timestamp="1450365024315">
+        <mark key="'" line="2" column="58" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-gettext/dist/angular-gettext.js" timestamp="1449749670001">
         <mark key="'" line="194" column="0" />
@@ -635,13 +635,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
-      <jump line="6" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
-      <jump line="374" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
-      <jump line="364" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
-      <jump line="39" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
-      <jump line="15774" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
       <jump line="9807" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
       <jump line="9805" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
       <jump line="15772" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
@@ -735,6 +728,13 @@
       <jump line="499" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select/select.js" />
       <jump line="514" column="15" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select.js" />
       <jump line="522" column="10" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/yt-agile-card-medium.html" />
+      <jump line="22" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/yt-agile-card-medium.html" />
+      <jump line="38" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/yt-agile-card-medium.html" />
+      <jump line="0" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/yt-agile-card-medium.html" />
+      <jump line="37" column="60" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/yt-agile-card-medium.html" />
+      <jump line="1" column="59" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/yt-agile-card-medium.html" />
+      <jump line="2" column="58" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/yt-agile-card-medium.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -778,7 +778,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfaGlkZVBvcHVwXD4=</text>
+        <text>select</text>
       </register>
       <register name="0" type="4">
         <text>ctrl.selectInstance</text>
@@ -818,18 +818,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfaGlkZVBvcHVwXD4=</last-search>
+      <last-search>select</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfaGlkZVBvcHVwXD4=</last-pattern>
+      <last-pattern>select</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>eq =</entry>
-        <entry>watch.eq</entry>
         <entry encoding="base64">XDx3YXRjaGVyc1w+</entry>
         <entry>eq</entry>
         <entry>copy(</entry>
@@ -848,6 +846,8 @@
         <entry>offset</entry>
         <entry>hidden</entry>
         <entry encoding="base64">XDxfaGlkZVBvcHVwXD4=</entry>
+        <entry>icon</entry>
+        <entry>select</entry>
       </history-search>
       <history-cmd>
         <entry>46</entry>
