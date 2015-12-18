@@ -562,11 +562,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/teamcity-integration/edit-server-advanced-settings.html" timestamp="1449571859815">
         <mark key="'" line="32" column="20" />
       </file>
-      <file name="$USER_HOME$/www/js/dev-tools-profiling/index.js" timestamp="1450432956633">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/www/js/dev-tools-profiling/index.js" timestamp="1450435339388">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="9" column="30" />
       </file>
       <file name="$USER_HOME$/tmp/js/webpack-on-context/node_modules/webpack-dev-server/node_modules/http-proxy/lib/http-proxy.js" timestamp="1450187799235">
         <mark key="'" line="15" column="6" />
@@ -656,7 +657,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="34" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/search-query-panel/directive/search-query-panel.js" />
       <jump line="71" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/search-query-panel/directive/search-query-panel.js" />
       <jump line="70" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/search-query-panel/directive/search-query-panel.js" />
       <jump line="35" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/search-query-panel/directive/search-query-panel.js" />
@@ -753,13 +753,14 @@
       <jump line="12" column="0" filename="$USER_HOME$/www/js/dev-tools-profiling/index.html" />
       <jump line="7" column="0" filename="$USER_HOME$/www/js/dev-tools-profiling/index.js" />
       <jump line="9" column="0" filename="$USER_HOME$/www/js/dev-tools-profiling/index.js" />
-      <jump line="12" column="0" filename="$USER_HOME$/www/js/dev-tools-profiling/index.js" />
-      <jump line="6" column="1" filename="$USER_HOME$/www/js/dev-tools-profiling/index.js" />
       <jump line="16" column="0" filename="$USER_HOME$/www/js/dev-tools-profiling/index.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/www/js/dev-tools-profiling/index.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/www/js/dev-tools-profiling/index.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/www/js/dev-tools-profiling/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2xvbmctc2NyaXB0JykuYWRkRXZlbnRMaXN0ZW5lcignY2xpY2snLCBmdW5jdGlvbigpIHsKICAgIGxvbmdTY3JpCn0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBjdXJyZW50RGF0ZSA9IERhdGUubm93KCk7Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -796,7 +797,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>10</text>
+        <text>currentDate</text>
       </register>
       <register name="/" type="4">
         <text>yt-icon</text>
@@ -805,34 +806,34 @@
         <text>long-script</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2xvbmctc2NyaXB0JykuYWRkRXZlbnRMaXN0ZW5lcignY2xpY2snLCBmdW5jdGlvbigpIHsKICAgIGxvbmdTY3JpCn0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBjdXJyZW50RGF0ZSA9IERhdGUubm93KCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGxvbmcK</text>
+      <register name="2" type="4">
+        <text>currentDate</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhciBjdXJyZW50RGF0ZSA9IERhdGUubm93KCk7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ZG8K</text>
+      <register name="4" type="4">
+        <text>currentDate</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHdoaWxlIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>10</text>
+      <register name="6" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coJ0hlbGxvIFdvcmxkIScpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHdoaWwK</text>
+        <text encoding="base64">ZG9jdW1lbnQuZ2V0RWxlCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBoZWxsbyB3b3JsZCEK</text>
+        <text encoding="base64">ZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoJ2xvbmctc2NyaXB0JykuYWRkRXZlbnRMaXN0ZW5lcignY2xpY2snLCBmdW5jdGlvbigpIHsKICAgIGxvbmdTY3JpCn0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
