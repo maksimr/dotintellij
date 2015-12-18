@@ -143,7 +143,8 @@
         <mark key="^" line="16" column="12" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/www/js/dev-tools-profiling/index.html" timestamp="1450389374196">
+      <file name="$USER_HOME$/www/js/dev-tools-profiling/index.html" timestamp="1450431956070">
+        <mark key="'" line="12" column="0" />
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
@@ -649,11 +650,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select-ng/select-ng.js" />
-      <jump line="331" column="73" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select-ng/select-ng.js" />
-      <jump line="559" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select-ng/select-ng.js" />
-      <jump line="495" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select-ng/select-ng.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-table.html" />
       <jump line="170" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-table.html" />
       <jump line="73" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/search-query-panel/directive/search-query-panel.js" />
       <jump line="53" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/search-query-panel/directive/search-query-panel.js" />
@@ -749,10 +745,15 @@
       <jump line="207" column="0" filename="$USER_HOME$/www/js/mocha/lib/reporters/base.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/js/mocha/lib/reporters/base.js" />
       <jump line="488" column="0" filename="$USER_HOME$/www/js/mocha/lib/reporters/base.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/js/dev-tools-profiling/index.html" />
+      <jump line="13" column="0" filename="$USER_HOME$/www/js/dev-tools-profiling/index.html" />
+      <jump line="10" column="0" filename="$USER_HOME$/www/js/dev-tools-profiling/index.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/js/dev-tools-profiling/index.html" />
+      <jump line="12" column="0" filename="$USER_HOME$/www/js/dev-tools-profiling/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBIZWxsbyEK</text>
+        <text encoding="base64">ICAgICAgICBoZWxsbyB3b3JsZCEK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -798,34 +799,34 @@
         <text>ctrl.selectInstance</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBIZWxsbyEK</text>
+        <text encoding="base64">ICAgICAgICBoZWxsbyB3b3JsZCEK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGN0cmwuc2VsZWN0SW5zdGFuY2UuX2hpZGVQb3B1cCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBIZWxsbyEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgIGN0cmwuc2VsZWN0SW5zdGFuY2UuX2hpZGVQb3B1cCgpOwo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIGN0cmwuc2VsZWN0SW5zdGFuY2UuX2hpZGVQb3B1cCgpOwo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhhZ2lsZUJvYXJkUmVzb2x2ZSk7Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>,</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgIG5hbWU6IGFnaWxlLm5hbWUK</text>
-      </register>
-      <register name="9" type="4">
-        <text>id</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
