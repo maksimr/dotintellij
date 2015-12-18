@@ -146,11 +146,12 @@
         <mark key="^" line="16" column="12" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/www/js/dev-tools-profiling/index.html" timestamp="1450437461831">
+      <file name="$USER_HOME$/www/js/dev-tools-profiling/index.html" timestamp="1450442370808">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="9" column="20" />
-        <mark key="]" line="9" column="31" />
-        <mark key="." line="9" column="20" />
+        <mark key="[" line="10" column="17" />
+        <mark key="]" line="10" column="17" />
+        <mark key="." line="10" column="17" />
+        <mark key="^" line="10" column="17" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-issue-custom-field-simple.js" timestamp="1450178560601">
         <mark key="'" line="149" column="2" />
@@ -568,12 +569,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/teamcity-integration/edit-server-advanced-settings.html" timestamp="1449571859815">
         <mark key="'" line="32" column="20" />
       </file>
-      <file name="$USER_HOME$/www/js/dev-tools-profiling/index.js" timestamp="1450438080991">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="3" column="10" />
-        <mark key="]" line="3" column="15" />
-        <mark key="." line="3" column="15" />
-        <mark key="^" line="3" column="15" />
+      <file name="$USER_HOME$/www/js/dev-tools-profiling/index.js" timestamp="1450442374206">
+        <mark key="'" line="22" column="13" />
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/tmp/js/webpack-on-context/node_modules/webpack-dev-server/node_modules/http-proxy/lib/http-proxy.js" timestamp="1450187799235">
         <mark key="'" line="15" column="6" />
@@ -663,12 +664,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12127" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
-      <jump line="12113" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
-      <jump line="12291" column="76" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
-      <jump line="12306" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
-      <jump line="12271" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
-      <jump line="12319" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
       <jump line="314" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="206" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="79" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
@@ -757,16 +752,22 @@
       <jump line="41" column="12" filename="$USER_HOME$/www/jetbrains/ring-ui/components/analytics/analytics.test.js" />
       <jump line="3" column="0" filename="$USER_HOME$/www/js/dev-tools-profiling/index.js" />
       <jump line="6" column="0" filename="$USER_HOME$/www/js/dev-tools-profiling/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/js/dev-tools-profiling/index.js" />
       <jump line="10" column="0" filename="$USER_HOME$/www/js/dev-tools-profiling/index.js" />
-      <jump line="12" column="0" filename="$USER_HOME$/www/js/dev-tools-profiling/index.js" />
-      <jump line="2" column="18" filename="$USER_HOME$/www/js/dev-tools-profiling/index.js" />
       <jump line="9" column="0" filename="$USER_HOME$/www/js/dev-tools-profiling/index.js" />
       <jump line="11" column="0" filename="$USER_HOME$/www/js/dev-tools-profiling/index.js" />
+      <jump line="12" column="20" filename="$USER_HOME$/www/js/dev-tools-profiling/index.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/www/js/dev-tools-profiling/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/js/dev-tools-profiling/index.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/js/dev-tools-profiling/index.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/www/js/dev-tools-profiling/index.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/js/dev-tools-profiling/index.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/js/dev-tools-profiling/index.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/www/js/dev-tools-profiling/index.js" />
+      <jump line="22" column="13" filename="$USER_HOME$/www/js/dev-tools-profiling/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'Hello World!'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -803,43 +804,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'Hello World!'</text>
+        <text>Run Long Script</text>
       </register>
       <register name="/" type="4">
         <text>pageview</text>
       </register>
       <register name="0" type="4">
-        <text>Hello World!</text>
+        <text>test-action</text>
       </register>
-      <register name="1" type="4">
-        <text>'Hello World!'</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhciBzdG9wRGF0ZSA9IERhdGUubm93KCkgKyAzMDAwOwoKICAgIHdoaWxlIChzdG9wRGF0ZSA+IERhdGUubm93KCkpIHsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>long-script</text>
+        <text>Run Long Script</text>
       </register>
-      <register name="4" type="4">
-        <text>runLongScript</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="4">
+        <text>var myText = 'Hello World!';
+
+var myObject = {
+    text: myText
+};
+
+document.getElementById('test-action').addEventListener('click', onTestAction);
+
+function onTestAction() {
+    doAction();
+}
+
+function doAction() {
+}</text>
+      </register>
+      <register name="6" type="4">
+        <text>'Hello World!'</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHZhciBzdG9wRGF0ZSA9IERhdGUubm93KCkgKyAzMDAwOwoKICAgIHdoaWxlIChzdG9wRGF0ZSA+IERhdGUubm93KCkpIHsKICAgIH0K</text>
+      </register>
+      <register name="8" type="4">
         <text>long-script</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjdXJyZW50RGF0ZSA9IERhdGUubm93KCk7Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text>currentDate</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhciBjdXJyZW50RGF0ZSA9IERhdGUubm93KCk7Cg==</text>
-      </register>
       <register name="9" type="4">
-        <text>currentDate</text>
+        <text>runLongScript</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
