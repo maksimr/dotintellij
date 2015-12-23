@@ -485,6 +485,11 @@
         <mark key="." line="120" column="2" />
         <mark key="^" line="120" column="2" />
       </file>
+      <file name="$USER_HOME$/tmp/js/backbone-test/index.js" timestamp="1450910913006">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/ring-component/ring-component.js" timestamp="1450867518853">
         <mark key="'" line="5" column="12" />
       </file>
@@ -575,6 +580,9 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
         <mark key="^" line="27" column="18" />
+      </file>
+      <file name="$USER_HOME$/tmp/js/backbone-test/node_modules/backbone/backbone.js" timestamp="1450910367652">
+        <mark key="'" line="1893" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/test/service/i18n-number.js" timestamp="1449762396722">
         <mark key="'" line="0" column="1" />
@@ -797,17 +805,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="3" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/directive/yt-icon.js" />
-      <jump line="59" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/directive/yt-icon.js" />
-      <jump line="21" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/yt-custom-field-bundle.html" />
-      <jump line="221" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/yt-custom-field-bundle.html" />
-      <jump line="68" column="32" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/yt-custom-field-bundle.html" />
-      <jump line="105" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/yt-custom-field-bundle.html" />
-      <jump line="142" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/yt-custom-field-bundle.html" />
-      <jump line="38" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/yt-custom-field-bundle.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/yt-custom-field-bundle.js" />
-      <jump line="760" column="88" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/yt-custom-field-bundle.js" />
-      <jump line="756" column="86" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/yt-custom-field-bundle.js" />
       <jump line="608" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/yt-custom-field-bundle.js" />
       <jump line="750" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/yt-custom-field-bundle.js" />
       <jump line="720" column="70" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/yt-custom-field-bundle.js" />
@@ -897,10 +894,21 @@
       <jump line="331" column="11" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng.js" />
       <jump line="355" column="5" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng.js" />
       <jump line="612" column="36" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/tmp/js/backbone-test/node_modules/backbone/backbone.js" />
+      <jump line="33" column="17" filename="$USER_HOME$/tmp/js/backbone-test/node_modules/backbone/backbone.js" />
+      <jump line="740" column="14" filename="$USER_HOME$/tmp/js/backbone-test/node_modules/backbone/backbone.js" />
+      <jump line="743" column="66" filename="$USER_HOME$/tmp/js/backbone-test/node_modules/backbone/backbone.js" />
+      <jump line="747" column="53" filename="$USER_HOME$/tmp/js/backbone-test/node_modules/backbone/backbone.js" />
+      <jump line="750" column="20" filename="$USER_HOME$/tmp/js/backbone-test/node_modules/backbone/backbone.js" />
+      <jump line="751" column="41" filename="$USER_HOME$/tmp/js/backbone-test/node_modules/backbone/backbone.js" />
+      <jump line="753" column="28" filename="$USER_HOME$/tmp/js/backbone-test/node_modules/backbone/backbone.js" />
+      <jump line="762" column="26" filename="$USER_HOME$/tmp/js/backbone-test/node_modules/backbone/backbone.js" />
+      <jump line="777" column="0" filename="$USER_HOME$/tmp/js/backbone-test/node_modules/backbone/backbone.js" />
+      <jump line="1893" column="0" filename="$USER_HOME$/tmp/js/backbone-test/node_modules/backbone/backbone.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coc2VhcmNoRmllbGQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -940,49 +948,49 @@
         <text>indexOf</text>
       </register>
       <register name="/" type="4">
-        <text>lazy</text>
+        <text>Collection</text>
       </register>
       <register name="0" type="4">
         <text>$scope.vm.searchQuery</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coc2VhcmNoRmllbGQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>indexOf</text>
+      <register name="2" type="2">
+        <text encoding="base64">QmFja2JvbmUuQ29sbGVjdGlvbigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgbmFtZTogJHNjb3BlLnZtLnNlYXJjaFF1ZXJ5Cg==</text>
+        <text encoding="base64">QmFja2JvbmUuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coc2VhcmNoRmllbGQpOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>indexOf</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgbmFtZTogJHNjb3BlLnZtLnNlYXJjaFF1ZXJ5Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IHs=</text>
-      </register>
-      <register name="9" type="4">
-        <text>.map(normalizeValue)</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>lazy</last-search>
+      <last-search>Collection</last-search>
       <last-offset />
-      <last-pattern>lazy</last-pattern>
+      <last-pattern>Collection</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -990,7 +998,6 @@
     </search>
     <history>
       <history-search>
-        <entry>type</entry>
         <entry>'version'</entry>
         <entry>render</entry>
         <entry>createUserGro</entry>
@@ -1010,6 +1017,7 @@
         <entry encoding="base64">XDxmaWx0ZXJCeVNlYXJjaFF1ZXJ5XD4=</entry>
         <entry encoding="base64">XDxsYXp5XD4=</entry>
         <entry>lazy</entry>
+        <entry>Collection</entry>
       </history-search>
       <history-cmd>
         <entry>66</entry>
