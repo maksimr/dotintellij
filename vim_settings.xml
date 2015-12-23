@@ -133,12 +133,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-table.html" timestamp="1450877524067">
         <mark key="'" line="168" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng.test.js" timestamp="1450880349898">
+      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng.test.js" timestamp="1450883132606">
         <mark key="'" line="90" column="22" />
         <mark key="[" line="90" column="6" />
-        <mark key="]" line="90" column="10" />
-        <mark key="." line="90" column="10" />
-        <mark key="^" line="90" column="10" />
+        <mark key="]" line="90" column="5" />
+        <mark key="." line="90" column="5" />
+        <mark key="^" line="90" column="5" />
       </file>
       <file name="$USER_HOME$/www/js/lokijs-test/test/lib/fixtureSpec.js" timestamp="1449747950431">
         <mark key="'" line="11" column="0" />
@@ -875,8 +875,8 @@
       <jump line="90" column="22" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng.test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4+PicpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>.only</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -913,52 +913,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>requestAnimationFrameMock</text>
+        <text>.only</text>
       </register>
       <register name="/" type="4">
-        <text>selected</text>
+        <text>should update select</text>
       </register>
       <register name="0" type="4">
         <text>queue</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4+PicpOwo=</text>
+      <register name="1" type="4">
+        <text>.only</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4+PicpOwo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIHdpbmRvdy5yZXF1ZXN0QW5pbWF0aW9uRnJhbWUuZmx1c2goKTsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>requestAnimationFrameMock</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ZnVuY3Rpb24g</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>.only</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>.returns(requestAnimationFrameMock);</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>let</text>
       </register>
-      <register name="8" type="4">
-        <text>var</text>
-      </register>
       <register name="9" type="4">
-        <text>this.queue.slice()</text>
+        <text>var</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>selected</last-search>
+      <last-search>should update select</last-search>
       <last-offset />
-      <last-pattern>selected</last-pattern>
+      <last-pattern>should update select</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -966,7 +966,6 @@
     </search>
     <history>
       <history-search>
-        <entry>factory</entry>
         <entry>$$obj</entry>
         <entry>$$type</entry>
         <entry encoding="base64">XDxSaW5nQ29tcG9uZW50XD4=</entry>
@@ -986,6 +985,7 @@
         <entry>frame</entry>
         <entry>sinon</entry>
         <entry>selected</entry>
+        <entry>should update select</entry>
       </history-search>
       <history-cmd>
         <entry>66</entry>
