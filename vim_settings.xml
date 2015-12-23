@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/yt-agile-swimlane-column.html" timestamp="1450700537278">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/yt-agile-swimlane-column.html" timestamp="1450877562689">
         <mark key="'" line="10" column="34" />
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
+        <mark key="^" line="30" column="29" />
         <mark key="." line="11" column="0" />
-        <mark key="^" line="31" column="29" />
       </file>
       <file name="$USER_HOME$/www/js/webpack/lib/Compiler.js" timestamp="1450093212172">
         <mark key="'" line="435" column="0" />
@@ -135,8 +135,8 @@
       <file name="$USER_HOME$/www/js/material/src/components/list/list.js" timestamp="1450174735757">
         <mark key="'" line="301" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-table.html" timestamp="1450700522116">
-        <mark key="'" line="91" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-table.html" timestamp="1450877524067">
+        <mark key="'" line="168" column="0" />
       </file>
       <file name="$USER_HOME$/www/js/lokijs-test/test/lib/fixtureSpec.js" timestamp="1449747950431">
         <mark key="'" line="11" column="0" />
@@ -404,12 +404,6 @@
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/custom-fields/per-project-custom-fields-create-form.html" timestamp="1449507039837">
         <mark key="'" line="30" column="11" />
-      </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/select/test/e2e/example/index.html" timestamp="1450875149007">
-        <mark key="[" line="23" column="42" />
-        <mark key="]" line="24" column="9" />
-        <mark key="." line="24" column="9" />
-        <mark key="^" line="24" column="9" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/README.md" timestamp="1450286013966">
         <mark key="'" line="56" column="433" />
@@ -714,12 +708,10 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-sanitize/angular-sanitize.js" timestamp="1448533796510">
         <mark key="'" line="682" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select-ng/select-ng.js" timestamp="1450875314307">
-        <mark key="'" line="88" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select-ng/select-ng.js" timestamp="1450877249606">
+        <mark key="'" line="25" column="0" />
         <mark key="[" line="139" column="0" />
         <mark key="]" line="139" column="155" />
-        <mark key="." line="634" column="52" />
-        <mark key="^" line="634" column="52" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/test/filter/get-issue-field-presentation.js" timestamp="1449658984723">
         <mark key="'" line="117" column="0" />
@@ -779,12 +771,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/react/lib/ReactServerRendering.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/react/lib/ReactServerRendering.js" />
-      <jump line="244" column="58" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/react/lib/ReactElement.js" />
-      <jump line="18" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/directive/yt-icon.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/directive/yt-icon.js" />
-      <jump line="12" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/directive/yt-icon.js" />
       <jump line="20" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/directive/yt-icon.js" />
       <jump line="49" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/directive/yt-icon.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/icon/icon.js" />
@@ -879,10 +865,16 @@
       <jump line="154" column="32" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select-ng/select-ng.js" />
       <jump line="651" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select-ng/select-ng.js" />
       <jump line="88" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select-ng/select-ng.js" />
+      <jump line="634" column="42" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select-ng/select-ng.js" />
+      <jump line="625" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select-ng/select-ng.js" />
+      <jump line="25" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select-ng/select-ng.js" />
+      <jump line="168" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-table.html" />
+      <jump line="11" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/yt-agile-swimlane-column.html" />
+      <jump line="10" column="34" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/yt-agile-swimlane-column.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">b3B0aW9ucz0iaXRlbSBpbiBjdHJsLm9wdGlvbnMiIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgIHVpLXNvcnRhYmxlPSJ1aVNvcnRhYmxlQ29uZmlnIgo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -922,49 +914,49 @@
         <text encoding="base64">b3B0aW9ucz0iaXRlbSBpbiBjdHJsLm9wdGlvbnMiIA==</text>
       </register>
       <register name="/" type="4">
-        <text>select-type</text>
+        <text>sor</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIG5nLXJlcGVhdD0ic2VsZWN0SXRlbSBpbiBleGFtcGxlQ3RybC5zZWxlY3RDb3VudCI+PC9zZWxlY3Q+Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">b3B0aW9ucz0iaXRlbSBpbiBjdHJsLm9wdGlvbnMiIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgIHVpLXNvcnRhYmxlPSJ1aVNvcnRhYmxlQ29uZmlnIgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text encoding="base64">b3B0aW9ucz0iaXRlbSBpbiBjdHJsLm9wdGlvbnMiIA==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICA8c2VsZWN0IHJnLXNlbGVjdD0iIiBvcHRpb25zPSJpdGVtLnRleHQgZm9yIGl0ZW0gaW4gZXhhbXBsZUN0cmwub3B0aW9ucyB0cmFjayBieSBpdGVtLmlkIiBsYWJlbD0iU2VsZWN0IGl0ZW0iCiAgICAgICAgICBuZy1yZXBlYXQ9InNlbGVjdEl0ZW0gaW4gZXhhbXBsZUN0cmwuc2VsZWN0Q291bnQiPjwvc2VsZWN0Pgo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">PC9zZWxlY3Q+</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>on-change=&quot;ctrl.onSelect(selected)&quot;</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>select</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>rg-select</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>render(createElement(Select, ctrl.config), container);</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgIAo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>3838</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>select-type</last-search>
+      <last-search>sor</last-search>
       <last-offset />
-      <last-pattern>select-type</last-pattern>
+      <last-pattern>sor</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -972,8 +964,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfZ2V0U3R5bGVzXD4=</entry>
-        <entry>valid</entry>
         <entry>window</entry>
         <entry>react</entry>
         <entry>ui</entry>
@@ -992,6 +982,8 @@
         <entry>rgSelect</entry>
         <entry>type</entry>
         <entry>select-type</entry>
+        <entry>sort</entry>
+        <entry>sor</entry>
       </history-search>
       <history-cmd>
         <entry>66</entry>
