@@ -172,6 +172,9 @@
         <mark key="^" line="12" column="7" />
         <mark key="." line="12" column="7" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/dashboard/template/dashboard.html" timestamp="1451043238555">
+        <mark key="'" line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/tmp/js/webpack-on-context/app/lib/foo.js" timestamp="1450186145858">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="10" column="0" />
@@ -592,8 +595,8 @@
       <file name="$USER_HOME$/tmp/js/backbone-test/node_modules/lokijs/src/lokijs.js" timestamp="1450948669939">
         <mark key="'" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/main-core.scss" timestamp="1449751691720">
-        <mark key="'" line="179" column="11" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/main-core.scss" timestamp="1451043151368">
+        <mark key="'" line="184" column="1" />
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="0" />
         <mark key="." line="69" column="0" />
@@ -789,12 +792,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="331" column="11" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng.js" />
-      <jump line="355" column="5" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng.js" />
-      <jump line="612" column="36" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/tmp/js/backbone-test/node_modules/backbone/backbone.js" />
-      <jump line="740" column="14" filename="$USER_HOME$/tmp/js/backbone-test/node_modules/backbone/backbone.js" />
-      <jump line="743" column="66" filename="$USER_HOME$/tmp/js/backbone-test/node_modules/backbone/backbone.js" />
       <jump line="747" column="53" filename="$USER_HOME$/tmp/js/backbone-test/node_modules/backbone/backbone.js" />
       <jump line="750" column="20" filename="$USER_HOME$/tmp/js/backbone-test/node_modules/backbone/backbone.js" />
       <jump line="751" column="41" filename="$USER_HOME$/tmp/js/backbone-test/node_modules/backbone/backbone.js" />
@@ -889,6 +886,12 @@
       <jump line="15" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-board.html" />
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/yt-custom-field-bundle.html" />
       <jump line="232" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/yt-custom-field-bundle.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/main-core.scss" />
+      <jump line="125" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/main-core.scss" />
+      <jump line="184" column="1" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/main-core.scss" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/dashboard/template/dashboard.html" />
+      <jump line="0" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/dashboard/template/dashboard.html" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/dashboard/template/dashboard.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -932,7 +935,7 @@
         <text>test</text>
       </register>
       <register name="/" type="4">
-        <text>test</text>
+        <text>container</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsZXQgdGVzdCA9IG5ldyBXYXNSdW4oJ3Rlc3RNZXRob2QnKTsK</text>
@@ -972,9 +975,9 @@
       </register>
     </registers>
     <search>
-      <last-search>test</last-search>
+      <last-search>container</last-search>
       <last-offset />
-      <last-pattern>test</last-pattern>
+      <last-pattern>container</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -982,7 +985,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjYW5GaWx0ZXJcPg==</entry>
         <entry encoding="base64">XDxpc1NvcnRpbmdFbmFibGVkXD4=</entry>
         <entry encoding="base64">XDxnZXRVSVNvcnRhYmxlQ29uZmlnQnVuZGxlVmFsdWVcPg==</entry>
         <entry encoding="base64">XDxlZGl0U2V0Rm9yQWxsUHJvamVjdHNcPg==</entry>
@@ -1002,6 +1004,7 @@
         <entry>assert</entry>
         <entry encoding="base64">XDxzZXRVcFw+</entry>
         <entry>test</entry>
+        <entry>container</entry>
       </history-search>
       <history-cmd>
         <entry>66</entry>
