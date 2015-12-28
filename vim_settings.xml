@@ -612,7 +612,7 @@
       <file name="$USER_HOME$/www/js/datepicker/index.html" timestamp="1449853606492">
         <mark key="'" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project/workflows.js" timestamp="1451052253501">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project/workflows.js" timestamp="1451293392824">
         <mark key="'" line="584" column="2" />
         <mark key="[" line="578" column="37" />
         <mark key="]" line="578" column="41" />
@@ -741,8 +741,8 @@
       <file name="/a.regexp" timestamp="1451047697161">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/service/vcs-integration.js" timestamp="1449135397849">
-        <mark key="'" line="202" column="21" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/service/vcs-integration.js" timestamp="1451293430821">
+        <mark key="'" line="81" column="44" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/list/list.js" timestamp="1449058384054">
         <mark key="'" line="26" column="2" />
@@ -781,11 +781,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="291" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/edit-project/workflows.js" />
-      <jump line="83" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/edit-project/workflows.js" />
-      <jump line="82" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/edit-project/workflows.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/edit-project/workflows.js" />
-      <jump line="93" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/edit-project/workflows.js" />
       <jump line="25" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/edit-project/workflows.js" />
       <jump line="69" column="54" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/edit-project/workflows.js" />
       <jump line="10" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/edit-project/workflows.js" />
@@ -815,7 +810,6 @@
       <jump line="4" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/edit-project/workflows.html" />
       <jump line="16" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project/workflows.js" />
       <jump line="451" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project/workflows.js" />
-      <jump line="584" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project/workflows.js" />
       <jump line="5" column="0" filename="$USER_HOME$/www/js/junit/lib/index.js" />
       <jump line="60" column="0" filename="$USER_HOME$/www/js/junit/lib/index.js" />
       <jump line="22" column="0" filename="$USER_HOME$/www/js/junit/lib/index.js" />
@@ -881,6 +875,12 @@
       <jump line="155" column="0" filename="$USER_HOME$/www/js/junit/lib/index.js" />
       <jump line="126" column="0" filename="$USER_HOME$/www/js/junit/lib/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/js/junit/lib/index.js" />
+      <jump line="34" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project/workflows.js" />
+      <jump line="584" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project/workflows.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/service/vcs-integration.js" />
+      <jump line="228" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/service/vcs-integration.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/service/vcs-integration.js" />
+      <jump line="81" column="44" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/service/vcs-integration.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -924,7 +924,7 @@
         <text>--</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0ZXN0VGVtcGxhdGVNZXRob2RcPg==</text>
+        <text>Unable to perf</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dGVzdENhc2UoJ1Rlc3RDYXNlJywgZnVuY3Rpb24oKSB7CiAgICAKfSk7Cg==</text>
@@ -964,17 +964,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0ZXN0VGVtcGxhdGVNZXRob2RcPg==</last-search>
+      <last-search>Unable to perf</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0ZXN0VGVtcGxhdGVNZXRob2RcPg==</last-pattern>
+      <last-pattern>Unable to perf</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>fix</entry>
         <entry encoding="base64">XDxnZXRXb3JrZmxvd1J1bGVQcm9ibGVtc1w+</entry>
         <entry encoding="base64">XDx3b3JrZmxvd1J1bGVzVXNhZ2VzXD4=</entry>
         <entry>success</entry>
@@ -994,6 +993,7 @@
         <entry>problem</entry>
         <entry>pro</entry>
         <entry encoding="base64">XDx0ZXN0VGVtcGxhdGVNZXRob2RcPg==</entry>
+        <entry>Unable to perf</entry>
       </history-search>
       <history-cmd>
         <entry>66</entry>
