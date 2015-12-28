@@ -197,8 +197,10 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-zendesk-integration/build.gradle" timestamp="1450083430714">
         <mark key="'" line="12" column="44" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/components/app/app__routes.js" timestamp="1451304670460">
-        <mark key="'" line="25" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/components/app/app__routes.js" timestamp="1451306058116">
+        <mark key="[" line="274" column="0" />
+        <mark key="]" line="274" column="0" />
+        <mark key="." line="274" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.js" timestamp="1450174234676">
         <mark key="'" line="39" column="0" />
@@ -759,6 +761,9 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issues/issues.js" timestamp="1448840757646">
         <mark key="'" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/tools/install-hub-client.js" timestamp="1451305798905">
+        <mark key="'" line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/loader/loader.js" timestamp="1449574095180">
         <mark key="'" line="9" column="0" />
       </file>
@@ -781,6 +786,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/list/list.js" timestamp="1449058384054">
         <mark key="'" line="26" column="2" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/style/header-fix-logo.scss" timestamp="1451306003269">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/filter/get-issue-field-presentation.js" timestamp="1449228609389">
         <mark key="'" line="24" column="17" />
       </file>
@@ -800,10 +811,6 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select/select.js" timestamp="1450874935692">
         <mark key="'" line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/workflows-resource.js" timestamp="1451048372024">
-        <mark key="[" line="25" column="38" />
-        <mark key="]" line="25" column="57" />
-      </file>
       <file name="/fragment.java" timestamp="1450948129770">
         <mark key="[" line="0" column="0" />
       </file>
@@ -815,9 +822,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="4" filename="$USER_HOME$/www/js/junit/lib/index.js" />
-      <jump line="100" column="4" filename="$USER_HOME$/www/js/junit/lib/index.js" />
-      <jump line="75" column="13" filename="$USER_HOME$/www/js/junit/lib/index.js" />
       <jump line="106" column="0" filename="$USER_HOME$/www/js/junit/lib/index.js" />
       <jump line="104" column="0" filename="$USER_HOME$/www/js/junit/lib/index.js" />
       <jump line="111" column="0" filename="$USER_HOME$/www/js/junit/lib/index.js" />
@@ -915,10 +919,13 @@
       <jump line="7" column="27" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/project-wizard/src/blocks/app/app__config.js" />
       <jump line="32" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/project-wizard/src/blocks/app/app__config.js" />
       <jump line="4" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/project-wizard/src/blocks/app/app__config.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/tools/install-hub-client.js" />
+      <jump line="250" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/components/app/app__routes.js" />
+      <jump line="274" column="55" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/components/app/app__routes.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>buildConfig.build.number,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICByZXF1aXJlKCcuLi8uLi8uLi9hcHAvY29tcG9uZW50cy9oZWFkZXIvc3R5bGUvaGVhZGVyLWZpeC1sb2dvLnNjc3MnKTsK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -955,60 +962,59 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>buildConfig.build.number,</text>
+        <text encoding="base64">ICo=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxidWlsZENvbmZpZ1w+</text>
+        <text>fix</text>
       </register>
       <register name="0" type="4">
         <text>RG-683</text>
       </register>
-      <register name="1" type="4">
-        <text>buildConfig.build.number,</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICByZXF1aXJlKCcuLi8uLi8uLi9hcHAvY29tcG9uZW50cy9oZWFkZXIvc3R5bGUvaGVhZGVyLWZpeC1sb2dvLnNjc3MnKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>buildConfig.build.version,</text>
+        <text encoding="base64">ICo=</text>
       </register>
-      <register name="3" type="4">
-        <text>integration</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICovCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>Server</text>
+      <register name="4" type="2">
+        <text encoding="base64">LyoqCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY2hhbmdlc1Byb2Nlc3Nvck1vY2suc2VydmVyLnVybCA9IG51bGw7Cg==</text>
+      <register name="5" type="4">
+        <text>buildConfig.build.number,</text>
       </register>
       <register name="6" type="4">
-        <text>from</text>
+        <text>buildConfig.build.version,</text>
       </register>
       <register name="7" type="4">
-        <text>get repository</text>
+        <text>integration</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>Server</text>
       </register>
-      <register name="9" type="4">
-        <text>'http://integrationServer.com/';</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgY2hhbmdlc1Byb2Nlc3Nvck1vY2suc2VydmVyLnVybCA9IG51bGw7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxidWlsZENvbmZpZ1w+</last-search>
+      <last-search>fix</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxidWlsZENvbmZpZ1w+</last-pattern>
+      <last-pattern>fix</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>onAttach</entry>
         <entry encoding="base64">XDxhdHRhY2hXb3JrZmxvd1w+</entry>
         <entry>console.log</entry>
         <entry>workflowRules</entry>
@@ -1028,6 +1034,7 @@
         <entry>version</entry>
         <entry>config</entry>
         <entry encoding="base64">XDxidWlsZENvbmZpZ1w+</entry>
+        <entry>fix</entry>
       </history-search>
       <history-cmd>
         <entry>66</entry>
