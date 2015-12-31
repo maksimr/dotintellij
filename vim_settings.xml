@@ -213,12 +213,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/global/global.scss" timestamp="1449821072366">
         <mark key="'" line="143" column="0" />
       </file>
-      <file name="$USER_HOME$/www/js/HelloWorldAndroid/index.android.js" timestamp="1451563019092">
-        <mark key="'" line="76" column="36" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-        <mark key="^" line="34" column="38" />
+      <file name="$USER_HOME$/www/js/HelloWorldAndroid/index.android.js" timestamp="1451566789611">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="40" column="20" />
+        <mark key="]" line="40" column="31" />
+        <mark key="." line="40" column="31" />
+        <mark key="^" line="40" column="31" />
       </file>
       <file name="$USER_HOME$/www/js/material/src/components/datepicker/calendarMonth.js" timestamp="1449246611657">
         <mark key="'" line="5" column="18" />
@@ -871,9 +871,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/style/yt-board-with-sidebar.scss" />
-      <jump line="84" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/style/yt-board-with-sidebar.scss" />
-      <jump line="39" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/style/yt-board-with-sidebar.scss" />
       <jump line="97" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/style/yt-board-with-sidebar.scss" />
       <jump line="3" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/style/yt-board-with-sidebar.scss" />
       <jump line="46" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/custom-fields/per-project-custom-fields-edit-form.html" />
@@ -971,10 +968,13 @@
       <jump line="99" column="0" filename="$USER_HOME$/www/js/HelloWorldAndroid/index.android.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/js/HelloWorldAndroid/index.android.js" />
       <jump line="72" column="36" filename="$USER_HOME$/www/js/HelloWorldAndroid/index.android.js" />
+      <jump line="20" column="0" filename="$USER_HOME$/www/js/HelloWorldAndroid/index.android.js" />
+      <jump line="119" column="0" filename="$USER_HOME$/www/js/HelloWorldAndroid/index.android.js" />
+      <jump line="43" column="0" filename="$USER_HOME$/www/js/HelloWorldAndroid/index.android.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhciBSRVFVRVNUX1VSTCA9ICdodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vZmFjZWJvb2svcmVhY3QtbmF0aXZlL21hc3Rlci9kb2NzL01vdmllc0V4YW1wbGUuanNvbic7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1011,52 +1011,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>movies</text>
+        <text>responseData</text>
       </register>
       <register name="/" type="4">
-        <text>styles</text>
+        <text>List</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogJyNGNUZDRkYnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhciBSRVFVRVNUX1VSTCA9ICdodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vZmFjZWJvb2svcmVhY3QtbmF0aXZlL21hc3Rlci9kb2NzL01vdmllc0V4YW1wbGUuanNvbic7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogJyNGNScK</text>
+      <register name="2" type="4">
+        <text>responseData</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIHZhciBSRVFVRVNUX1VSTCA9ICdodHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vZmFjZWJvb2svcmVhY3QtbmF0aXZlL21hc3Rlci9kb2NzL01vdmllc0V4YW1wbGUuanNvbic7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGJhY2tncm91bmRDb2xvcjogJyNGNScK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgIG1vdmllczogcmVzcG9uc2VEYXRhLm1vdmllcwo=</text>
-      </register>
-      <register name="4" type="4">
-        <text>movies</text>
-      </register>
-      <register name="5" type="4">
-        <text>null</text>
       </register>
       <register name="6" type="4">
         <text>movies</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">dmFyIHMK</text>
+      <register name="7" type="4">
+        <text>null</text>
       </register>
       <register name="8" type="4">
-        <text>()</text>
+        <text>movies</text>
       </register>
-      <register name="9" type="4">
-        <text>this.renderMovie(movies[0]);</text>
+      <register name="9" type="2">
+        <text encoding="base64">dmFyIHMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>styles</last-search>
+      <last-search>List</last-search>
       <last-offset />
-      <last-pattern>styles</last-pattern>
+      <last-pattern>List</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1064,7 +1064,6 @@
     </search>
     <history>
       <history-search>
-        <entry>animation</entry>
         <entry>anima</entry>
         <entry>stick</entry>
         <entry>anim</entry>
@@ -1084,6 +1083,7 @@
         <entry>comma</entry>
         <entry>movie</entry>
         <entry>styles</entry>
+        <entry>List</entry>
       </history-search>
       <history-cmd>
         <entry>66</entry>
