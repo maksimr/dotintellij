@@ -261,8 +261,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/icon/icon.js" timestamp="1450867534189">
         <mark key="'" line="172" column="27" />
       </file>
-      <file name="$USER_HOME$/www/js/HelloWorldAndroid/js/components/MovieListView/MovieListView.js" timestamp="1452155371517">
-        <mark key="'" line="70" column="30" />
+      <file name="$USER_HOME$/www/js/HelloWorldAndroid/js/components/MovieListView/MovieListView.js" timestamp="1452156690290">
+        <mark key="'" line="39" column="0" />
         <mark key="[" line="49" column="11" />
         <mark key="]" line="49" column="10" />
         <mark key="." line="49" column="10" />
@@ -336,6 +336,12 @@
         <mark key="]" line="15" column="16" />
         <mark key="." line="15" column="16" />
         <mark key="^" line="15" column="16" />
+      </file>
+      <file name="$USER_HOME$/www/js/HelloWorldAndroid/js/dispatcher/AppDispatcher.js" timestamp="1452157254936">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/tmp/js/webpack-on-context/node_modules/webpack-dev-server/node_modules/http-proxy/lib/http-proxy.js" timestamp="1450187799235">
         <mark key="'" line="15" column="6" />
@@ -891,11 +897,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="13" filename="$USER_HOME$/www/js/junit/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/js/junit/index.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/www/js/junit/index.js" />
-      <jump line="72" column="7" filename="$USER_HOME$/www/js/HelloWorldAndroid/index.android.js" />
-      <jump line="148" column="0" filename="$USER_HOME$/www/js/HelloWorldAndroid/index.android.js" />
       <jump line="138" column="0" filename="$USER_HOME$/www/js/HelloWorldAndroid/index.android.js" />
       <jump line="29" column="0" filename="$USER_HOME$/www/js/HelloWorldAndroid/index.android.js" />
       <jump line="5" column="0" filename="$USER_HOME$/www/js/HelloWorldAndroid/README.md" />
@@ -991,10 +992,15 @@
       <jump line="165" column="16" filename="$USER_HOME$/www/js/HelloWorldAndroid/node_modules/react-native/Libraries/CustomComponents/ListView/ListViewDataSource.js" />
       <jump line="66" column="4" filename="$USER_HOME$/www/js/HelloWorldAndroid/node_modules/react-native/Libraries/CustomComponents/ListView/ListViewDataSource.js" />
       <jump line="70" column="30" filename="$USER_HOME$/www/js/HelloWorldAndroid/js/components/MovieListView/MovieListView.js" />
+      <jump line="39" column="0" filename="$USER_HOME$/www/js/HelloWorldAndroid/js/components/MovieListView/MovieListView.js" />
+      <jump line="2" column="21" filename="$USER_HOME$/www/js/HelloWorldAndroid/js/dispatcher/AppDispatcher.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/js/HelloWorldAndroid/js/dispatcher/AppDispatcher.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/js/HelloWorldAndroid/js/dispatcher/AppDispatcher.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/js/HelloWorldAndroid/js/dispatcher/AppDispatcher.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHN0eWxlPXtNb3ZpZUxpc3RTdHlsZS5jb250YWluZXJ9</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZXhwb3J0IGRpc3BhdGNoID0gaW5zdGFuY2UuZGlzcGF0Y2guYmluZChpbnN0YW5jZSk7Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1031,52 +1037,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHN0eWxlPXtNb3ZpZUxpc3RTdHlsZS5jb250YWluZXJ9</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjbG9uZVdpdGhSb3dzQW5kU2VjdGlvbnNcPg==</text>
+        <text encoding="base64">XDxEaXNwYXRjaGVyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">TW92aWVMaXN0Vmlldy5zdHlsZXMgPSBTdHlsZVNoZWV0LmNyZWF0ZSh7CiAgbGlzdFZpZXc6IHsKICAgIHBhZGRpbmdUb3A6IDIwLAogICAgYmFja2dyb3VuZENvbG9yOiAnI0Y1RkNGRicKICB9LAogIGNvbnRhaW5lcjogewogICAgZmxleDogMSwKICAgIGZsZXhEaXJlY3Rpb246ICdyb3cnLAogICAganVzdGlmeUNvbnRlbnQ6ICdjZW50ZXInLAogICAgYWxpZ25JdGVtczogJ2NlbnRlcicsCiAgICBiYWNrZ3JvdW5kQ29sb3I6ICcjRjVGQ0ZGJwogIH0sCiAgcmlnaHRDb250YWluZXI6IHsKICAgIGZsZXg6IDEKICB9LAogIHRpdGxlOiB7CiAgICBmb250U2l6ZTogMjAsCiAgICBtYXJnaW5Cb3R0b206IDgsCiAgICB0ZXh0QWxpZ246ICdjZW50ZXInCiAgfSwKICB5ZWFyOiB7CiAgICB0ZXh0QWxpZ246ICdjZW50ZXInCiAgfSwKICB0aHVtYm5haWw6IHsKICAgIHdpZHRoOiA1MywKICAgIGhlaWdodDogODEKICB9Cn0pOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IHN0eWxlPXtNb3ZpZUxpc3RTdHlsZS5jb250YWluZXJ9</text>
+      <register name="1" type="2">
+        <text encoding="base64">ZXhwb3J0IGRpc3BhdGNoID0gaW5zdGFuY2UuZGlzcGF0Y2guYmluZChpbnN0YW5jZSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>/**/*.js</text>
+      <register name="2" type="2">
+        <text encoding="base64">ZXhwb3J0IGRpc3BhdGNoIGluc3RhbmNlLmRpc3BhdGNoLmJpbmQoaW5zdGFuY2UpOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text>index.android</text>
+      <register name="3" type="2">
+        <text encoding="base64">ZXhwb3J0IGRpc3BhdGNoIGluc3RhbmNlLmRpc3BhdGNoLmJpbmQoaW5zdGFuY2UpOwo=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IHN0eWxlPXtNb3ZpZUxpc3RTdHlsZS5jb250YWluZXJ9</text>
+        <text encoding="base64">PSA=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dmFyIHsKICBBcHBSZWdpc3RyeQogIH0gPSBSZWFjdDsK</text>
+        <text encoding="base64">ZXhwb3J0IGRpc3BhdGNoID0gaW5zdGFuY2UuZGlzcGF0Y2guYmluZChpbnN0YW5jZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGRpc3BhdGNoID0gaW5zdGFuY2UuZGlzcGF0Y2guYmluZChpbnN0YW5jZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFyIE1vdmllTGlzdFN0eWxlID0gcmVxdWlyZSgnLi9Nb3ZpZUxpc3RWaWV3LnN0eWxlJyk7Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgPSBpbnN0YW5jZTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">Y29uc3Qg</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">RGlzcGF0Y2hlcjxBY3Rpb24+ID0=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjbG9uZVdpdGhSb3dzQW5kU2VjdGlvbnNcPg==</last-search>
+      <last-search encoding="base64">XDxEaXNwYXRjaGVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjbG9uZVdpdGhSb3dzQW5kU2VjdGlvbnNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxEaXNwYXRjaGVyXD4=</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>-1</last-dir>
@@ -1084,7 +1090,6 @@
     </search>
     <history>
       <history-search>
-        <entry>style</entry>
         <entry>template</entry>
         <entry>comma</entry>
         <entry>movie</entry>
@@ -1104,6 +1109,7 @@
         <entry encoding="base64">XDxNb3ZpZUxpc3RTdHlsZVw+</entry>
         <entry encoding="base64">XDxNb3ZpZUFuZHJvaWRcPg==</entry>
         <entry encoding="base64">XDxjbG9uZVdpdGhSb3dzQW5kU2VjdGlvbnNcPg==</entry>
+        <entry encoding="base64">XDxEaXNwYXRjaGVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>11</entry>
