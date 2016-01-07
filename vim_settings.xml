@@ -337,11 +337,12 @@
         <mark key="." line="15" column="16" />
         <mark key="^" line="15" column="16" />
       </file>
-      <file name="$USER_HOME$/www/js/HelloWorldAndroid/js/dispatcher/AppDispatcher.js" timestamp="1452157254936">
+      <file name="$USER_HOME$/www/js/HelloWorldAndroid/js/dispatcher/AppDispatcher.js" timestamp="1452158016337">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+        <mark key="[" line="0" column="34" />
+        <mark key="]" line="0" column="44" />
+        <mark key="^" line="0" column="44" />
+        <mark key="." line="0" column="44" />
       </file>
       <file name="$USER_HOME$/tmp/js/webpack-on-context/node_modules/webpack-dev-server/node_modules/http-proxy/lib/http-proxy.js" timestamp="1450187799235">
         <mark key="'" line="15" column="6" />
@@ -848,6 +849,13 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/teamcity-integration/edit-server-advanced-settings.html" timestamp="1449571859815">
         <mark key="'" line="32" column="20" />
       </file>
+      <file name="$USER_HOME$/www/js/HelloWorldAndroid/js/stores/MovieStore.js" timestamp="1452158768784">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="11" column="29" />
+        <mark key="]" line="12" column="1" />
+        <mark key="^" line="12" column="1" />
+        <mark key="." line="12" column="1" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-dashboard/app/blocks/dashboard-list/dashboard-list.js" timestamp="1449057506684">
         <mark key="'" line="9" column="0" />
       </file>
@@ -897,12 +905,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="138" column="0" filename="$USER_HOME$/www/js/HelloWorldAndroid/index.android.js" />
-      <jump line="29" column="0" filename="$USER_HOME$/www/js/HelloWorldAndroid/index.android.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/www/js/HelloWorldAndroid/README.md" />
-      <jump line="31" column="0" filename="$USER_HOME$/www/js/HelloWorldAndroid/README.md" />
-      <jump line="129" column="0" filename="$USER_HOME$/www/js/HelloWorldAndroid/index.android.js" />
-      <jump line="10" column="4" filename="$USER_HOME$/www/js/HelloWorldAndroid/README.md" />
       <jump line="34" column="0" filename="$USER_HOME$/www/js/HelloWorldAndroid/README.md" />
       <jump line="23" column="0" filename="$USER_HOME$/www/js/HelloWorldAndroid/README.md" />
       <jump line="38" column="0" filename="$USER_HOME$/www/js/HelloWorldAndroid/README.md" />
@@ -993,14 +995,20 @@
       <jump line="66" column="4" filename="$USER_HOME$/www/js/HelloWorldAndroid/node_modules/react-native/Libraries/CustomComponents/ListView/ListViewDataSource.js" />
       <jump line="70" column="30" filename="$USER_HOME$/www/js/HelloWorldAndroid/js/components/MovieListView/MovieListView.js" />
       <jump line="39" column="0" filename="$USER_HOME$/www/js/HelloWorldAndroid/js/components/MovieListView/MovieListView.js" />
-      <jump line="2" column="21" filename="$USER_HOME$/www/js/HelloWorldAndroid/js/dispatcher/AppDispatcher.js" />
       <jump line="3" column="0" filename="$USER_HOME$/www/js/HelloWorldAndroid/js/dispatcher/AppDispatcher.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/js/HelloWorldAndroid/js/dispatcher/AppDispatcher.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/js/HelloWorldAndroid/js/dispatcher/AppDispatcher.js" />
       <jump line="4" column="0" filename="$USER_HOME$/www/js/HelloWorldAndroid/js/dispatcher/AppDispatcher.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/js/HelloWorldAndroid/js/stores/MovieStore.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/www/js/HelloWorldAndroid/js/stores/MovieStore.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/js/HelloWorldAndroid/js/stores/MovieStore.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/js/HelloWorldAndroid/js/stores/MovieStore.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/www/js/HelloWorldAndroid/js/stores/MovieStore.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/js/HelloWorldAndroid/js/stores/MovieStore.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZXhwb3J0IGRpc3BhdGNoID0gaW5zdGFuY2UuZGlzcGF0Y2guYmluZChpbnN0YW5jZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1037,7 +1045,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PSA=</text>
+        <text encoding="base64">PT4geyB9</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxEaXNwYXRjaGVyXD4=</text>
@@ -1046,34 +1054,34 @@
         <text encoding="base64">TW92aWVMaXN0Vmlldy5zdHlsZXMgPSBTdHlsZVNoZWV0LmNyZWF0ZSh7CiAgbGlzdFZpZXc6IHsKICAgIHBhZGRpbmdUb3A6IDIwLAogICAgYmFja2dyb3VuZENvbG9yOiAnI0Y1RkNGRicKICB9LAogIGNvbnRhaW5lcjogewogICAgZmxleDogMSwKICAgIGZsZXhEaXJlY3Rpb246ICdyb3cnLAogICAganVzdGlmeUNvbnRlbnQ6ICdjZW50ZXInLAogICAgYWxpZ25JdGVtczogJ2NlbnRlcicsCiAgICBiYWNrZ3JvdW5kQ29sb3I6ICcjRjVGQ0ZGJwogIH0sCiAgcmlnaHRDb250YWluZXI6IHsKICAgIGZsZXg6IDEKICB9LAogIHRpdGxlOiB7CiAgICBmb250U2l6ZTogMjAsCiAgICBtYXJnaW5Cb3R0b206IDgsCiAgICB0ZXh0QWxpZ246ICdjZW50ZXInCiAgfSwKICB5ZWFyOiB7CiAgICB0ZXh0QWxpZ246ICdjZW50ZXInCiAgfSwKICB0aHVtYm5haWw6IHsKICAgIHdpZHRoOiA1MywKICAgIGhlaWdodDogODEKICB9Cn0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZXhwb3J0IGRpc3BhdGNoID0gaW5zdGFuY2UuZGlzcGF0Y2guYmluZChpbnN0YW5jZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IGRpc3BhdGNoIGluc3RhbmNlLmRpc3BhdGNoLmJpbmQoaW5zdGFuY2UpOwo=</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgTW92aWVTdG9yZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IGRpc3BhdGNoIGluc3RhbmNlLmRpc3BhdGNoLmJpbmQoaW5zdGFuY2UpOwo=</text>
+        <text encoding="base64">ZXhwb3J0IEZvbyBNb3ZpZVN0b3JlOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">PSA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZXhwb3J0IGRpc3BhdGNoID0gaW5zdGFuY2UuZGlzcGF0Y2guYmluZChpbnN0YW5jZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGRpc3BhdGNoID0gaW5zdGFuY2UuZGlzcGF0Y2guYmluZChpbnN0YW5jZSk7Cg==</text>
+        <text encoding="base64">ICBhY3Rpb25zSGFuZGxlcjoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgPSBpbnN0YW5jZTsK</text>
+        <text encoding="base64">ICBmdW5jdGlvbigpIHsKICAgIAogIH0K</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">Y29uc3Qg</text>
+        <text encoding="base64">PT4geyB9</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">RGlzcGF0Y2hlcjxBY3Rpb24+ID0=</text>
+        <text>()</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
