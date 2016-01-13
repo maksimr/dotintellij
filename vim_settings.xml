@@ -227,6 +227,9 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/global/global.scss" timestamp="1449821072366">
         <mark key="'" line="143" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" timestamp="1452696573760">
+        <mark key="'" line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/www/js/HelloWorldAndroid/index.android.js" timestamp="1452349015089">
         <mark key="'" line="25" column="5" />
         <mark key="[" line="2" column="62" />
@@ -285,6 +288,12 @@
       </file>
       <file name="$USER_HOME$/www/js/HelloWorldAndroid/node_modules/react-native/Libraries/CustomComponents/ListView/ListViewDataSource.js" timestamp="1452155321500">
         <mark key="'" line="66" column="4" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/readonlymod/readonlymod.js" timestamp="1452696506444">
+        <mark key="[" line="0" column="64" />
+        <mark key="]" line="0" column="64" />
+        <mark key="^" line="0" column="64" />
+        <mark key="." line="0" column="64" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/service/i18n-number.js" timestamp="1449762385186">
         <mark key="'" line="11" column="18" />
@@ -927,7 +936,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="22" filename="$USER_HOME$/www/js/HelloWorldAndroid/js/components/MovieListView/MovieListView.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/js/HelloWorldAndroid/js/stores/MovieStore.js" />
       <jump line="1" column="0" filename="$USER_HOME$/www/js/HelloWorldAndroid/js/stores/MovieStore.js" />
       <jump line="54" column="0" filename="$USER_HOME$/www/js/HelloWorldAndroid/js/components/MovieListView/MovieListView.js" />
@@ -1027,6 +1035,7 @@
       <jump line="40" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/directive/yt-icon.js" />
       <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/notification-templates.js" />
       <jump line="6" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/service/http-response-error-handler.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1070,7 +1079,7 @@
         <text>response</text>
       </register>
       <register name="/" type="4">
-        <text>karma</text>
+        <text>readon</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LyoqCiAqIFhYWChtYWtzaW1ydik6IFdlIHNob3VsZCBzZXQgY3VzdG9tIGxvZ28gd2l0aCB1c2VyIHNpemUgbm90IDIwMHg0MAogKi8KLnJpbmctaGVhZGVyX19sb2dvX19jdXN0b20taW1hZ2UgewogIGhlaWdodDogYXV0bzsKfQo=</text>
@@ -1110,9 +1119,9 @@
       </register>
     </registers>
     <search>
-      <last-search>karma</last-search>
+      <last-search>readon</last-search>
       <last-offset />
-      <last-pattern>karma</last-pattern>
+      <last-pattern>readon</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1120,7 +1129,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Theme</entry>
         <entry>ThemeAttr</entry>
         <entry encoding="base64">XDxUb3VjaGFibGVOYXRpdmVGZWVkYmFja1w+</entry>
         <entry>render</entry>
@@ -1140,6 +1148,7 @@
         <entry encoding="base64">XDxRVUVSWV9QQVJBTVNcPg==</entry>
         <entry encoding="base64">XDxNb3ZpZVZpZXdcPg==</entry>
         <entry>karma</entry>
+        <entry>readon</entry>
       </history-search>
       <history-cmd>
         <entry>65</entry>
