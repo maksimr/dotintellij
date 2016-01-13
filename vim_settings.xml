@@ -161,6 +161,14 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/utils.js" timestamp="1451044411504">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/notification-templates.js" timestamp="1452684765497">
+        <mark key="a" line="69" column="0" />
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="58" column="42" />
+        <mark key="]" line="59" column="20" />
+        <mark key="." line="59" column="20" />
+        <mark key="^" line="59" column="20" />
+      </file>
       <file name="$USER_HOME$/www/js/junit/index.js" timestamp="1452345593159">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="6" column="0" />
@@ -313,8 +321,8 @@
       <file name="$USER_HOME$/www/js/datepicker/index.html" timestamp="1449853606492">
         <mark key="'" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/directive/yt-icon.js" timestamp="1452514074236">
-        <mark key="'" line="39" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/directive/yt-icon.js" timestamp="1452684565145">
+        <mark key="'" line="40" column="13" />
         <mark key="[" line="40" column="107" />
         <mark key="]" line="40" column="105" />
         <mark key="." line="40" column="105" />
@@ -558,8 +566,8 @@
         <mark key="." line="11" column="34" />
         <mark key="^" line="11" column="34" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/service/http-response-error-handler.js" timestamp="1448625065915">
-        <mark key="'" line="118" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/service/http-response-error-handler.js" timestamp="1452684622503">
+        <mark key="'" line="6" column="11" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-dashboard/webpack-embed.config.js" timestamp="1448842303368">
         <mark key="'" line="66" column="0" />
@@ -919,9 +927,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="3" filename="$USER_HOME$/www/js/HelloWorldAndroid/js/components/MovieListView/MovieListView.js" />
-      <jump line="4" column="2" filename="$USER_HOME$/www/js/HelloWorldAndroid/js/stores/MovieStore.js" />
-      <jump line="28" column="0" filename="$USER_HOME$/www/js/HelloWorldAndroid/js/components/MovieListView/MovieListView.js" />
       <jump line="24" column="22" filename="$USER_HOME$/www/js/HelloWorldAndroid/js/components/MovieListView/MovieListView.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/js/HelloWorldAndroid/js/stores/MovieStore.js" />
       <jump line="1" column="0" filename="$USER_HOME$/www/js/HelloWorldAndroid/js/stores/MovieStore.js" />
@@ -1019,10 +1024,13 @@
       <jump line="126" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
       <jump line="48" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/directive/yt-icon.js" />
       <jump line="39" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/directive/yt-icon.js" />
+      <jump line="40" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/directive/yt-icon.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/notification-templates.js" />
+      <jump line="6" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/service/http-response-error-handler.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LyoqCiAqIFhYWChtYWtzaW1ydik6IFdlIHNob3VsZCBzZXQgY3VzdG9tIGxvZ28gd2l0aCB1c2VyIHNpemUgbm90IDIwMHg0MAogKi8KLnJpbmctaGVhZGVyX19sb2dvX19jdXN0b20taW1hZ2UgewogIGhlaWdodDogYXV0bzsKfQo=</text>
+      <register name="&quot;" type="4">
+        <text>response</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1059,7 +1067,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>navigator</text>
+        <text>response</text>
       </register>
       <register name="/" type="4">
         <text>karma</text>
@@ -1067,35 +1075,35 @@
       <register name="0" type="2">
         <text encoding="base64">LyoqCiAqIFhYWChtYWtzaW1ydik6IFdlIHNob3VsZCBzZXQgY3VzdG9tIGxvZ28gd2l0aCB1c2VyIHNpemUgbm90IDIwMHg0MAogKi8KLnJpbmctaGVhZGVyX19sb2dvX19jdXN0b20taW1hZ2UgewogIGhlaWdodDogYXV0bzsKfQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>response</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhciB7CiAgICAgIFRleHQsCiAgICAgIFZpZXcsCiAgICAgIEltYWdlCiAgICAgIH0gPSBSZWFjdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="4">
-        <text>navigator</text>
+        <text>then</text>
       </register>
       <register name="4" type="4">
-        <text>navigator</text>
+        <text>null</text>
       </register>
       <register name="5" type="4">
-        <text>List</text>
+        <text>function(){ }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxWaWV3PgogICAgICAgICAgICA8SW1hZ2Ugc291cmNlPXt7dXJpOiBtb3ZpZS5wb3N0ZXJzLnRodW1ibmFpbH19Lz4KCiAgICAgICAgICAgIDxWaWV3PgogICAgICAgICAgICAgIDxUZXh0PgogICAgICAgICAgICAgICAge21vdmllLnRpdGxlfQogICAgICAgICAgICAgIDwvVGV4dD4KICAgICAgICAgICAgICA8VGV4dD57bW92aWUueWVhcn08L1RleHQ+CiAgICAgICAgICAgIDwvVmlldz4KICAgICAgICAgIDwvVmlldz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFyIE1vdmllTGlzdFN0eWxlID0gcmVxdWlyZSgnLi9Nb3ZpZVZpZXcuc3R5bGUnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>movie</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHZhciB7CiAgICAgIFRleHQsCiAgICAgIFZpZXcsCiAgICAgIEltYWdlCiAgICAgIH0gPSBSZWFjdDsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAoCiAgICApOwo=</text>
+      <register name="9" type="4">
+        <text>navigator</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
