@@ -912,8 +912,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issues/issues.js" timestamp="1448840757646">
         <mark key="'" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack-mobile/node_modules/react-native/Libraries/Components/Intent/IntentAndroid.android.js" timestamp="1452779861013">
-        <mark key="'" line="12" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack-mobile/node_modules/react-native/Libraries/Components/Intent/IntentAndroid.android.js" timestamp="1452784373487">
+        <mark key="'" line="39" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/tools/install-hub-client.js" timestamp="1451305798905">
         <mark key="'" line="7" column="0" />
@@ -945,8 +945,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="7" filename="$USER_HOME$/www/js/HelloWorldAndroid/index.android.js" />
-      <jump line="11" column="0" filename="$USER_HOME$/www/js/HelloWorldAndroid/index.android.js" />
       <jump line="8" column="32" filename="$USER_HOME$/www/js/HelloWorldAndroid/js/stores/MovieStore.js" />
       <jump line="5" column="8" filename="$USER_HOME$/www/js/HelloWorldAndroid/js/stores/MovieStore.js" />
       <jump line="9" column="0" filename="$USER_HOME$/www/js/HelloWorldAndroid/js/stores/MovieStore.js" />
@@ -1045,6 +1043,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/node_modules/react-native/Libraries/Components/Intent/IntentAndroid.android.js" />
       <jump line="88" column="0" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/node_modules/react-native/Libraries/Components/Intent/IntentAndroid.android.js" />
       <jump line="12" column="0" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/node_modules/react-native/Libraries/Components/Intent/IntentAndroid.android.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/node_modules/react-native/Libraries/Components/Intent/IntentAndroid.android.js" />
+      <jump line="39" column="0" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/node_modules/react-native/Libraries/Components/Intent/IntentAndroid.android.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1088,7 +1088,7 @@
         <text>response</text>
       </register>
       <register name="/" type="4">
-        <text>data</text>
+        <text>getInitial</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LyoqCiAqIFhYWChtYWtzaW1ydik6IFdlIHNob3VsZCBzZXQgY3VzdG9tIGxvZ28gd2l0aCB1c2VyIHNpemUgbm90IDIwMHg0MAogKi8KLnJpbmctaGVhZGVyX19sb2dvX19jdXN0b20taW1hZ2UgewogIGhlaWdodDogYXV0bzsKfQo=</text>
@@ -1128,9 +1128,9 @@
       </register>
     </registers>
     <search>
-      <last-search>data</last-search>
+      <last-search>getInitial</last-search>
       <last-offset />
-      <last-pattern>data</last-pattern>
+      <last-pattern>getInitial</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1138,7 +1138,6 @@
     </search>
     <history>
       <history-search>
-        <entry>render</entry>
         <entry>img</entry>
         <entry encoding="base64">XDxyZW5kZXJNb3ZpZVw+</entry>
         <entry encoding="base64">XDxMaXN0Vmlld1w+</entry>
@@ -1158,6 +1157,7 @@
         <entry>readon</entry>
         <entry encoding="base64">XDxzaGl0dHlRc1w+</entry>
         <entry>data</entry>
+        <entry>getInitial</entry>
       </history-search>
       <history-cmd>
         <entry>65</entry>
