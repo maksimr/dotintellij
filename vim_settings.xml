@@ -35,6 +35,9 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/custom-fields/custom-fields-per-project.js" timestamp="1451307342839">
         <mark key="'" line="842" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack-mobile/src/blocks/auth/auth__oauth.js" timestamp="1452779780669">
+        <mark key="'" line="15" column="4" />
+      </file>
       <file name="$USER_HOME$/www/js/HelloWorldAndroid/package.json" timestamp="1452346000561">
         <mark key="'" line="23" column="0" />
         <mark key="[" line="7" column="59" />
@@ -76,6 +79,9 @@
       </file>
       <file name="$USER_HOME$/www/js/material/src/components/list/list.js" timestamp="1450174735757">
         <mark key="'" line="301" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack-mobile/node_modules/react-native/Libraries/react-native/react-native.js" timestamp="1452779789829">
+        <mark key="'" line="65" column="2" />
       </file>
       <file name="$USER_HOME$/www/js/lokijs-test/test/lib/fixtureSpec.js" timestamp="1449747950431">
         <mark key="'" line="11" column="0" />
@@ -906,6 +912,9 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issues/issues.js" timestamp="1448840757646">
         <mark key="'" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack-mobile/node_modules/react-native/Libraries/Components/Intent/IntentAndroid.android.js" timestamp="1452779861013">
+        <mark key="'" line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/tools/install-hub-client.js" timestamp="1451305798905">
         <mark key="'" line="7" column="0" />
       </file>
@@ -936,11 +945,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/www/js/HelloWorldAndroid/js/components/MovieListView/MovieListView.js" />
-      <jump line="5" column="6" filename="$USER_HOME$/www/js/HelloWorldAndroid/js/components/MovieListView/MovieListView.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/www/js/HelloWorldAndroid/js/components/MovieListView/MovieListView.js" />
-      <jump line="56" column="0" filename="$USER_HOME$/www/js/HelloWorldAndroid/js/components/MovieListView/MovieListView.js" />
-      <jump line="7" column="5" filename="$USER_HOME$/www/js/HelloWorldAndroid/index.android.js" />
       <jump line="6" column="7" filename="$USER_HOME$/www/js/HelloWorldAndroid/index.android.js" />
       <jump line="11" column="0" filename="$USER_HOME$/www/js/HelloWorldAndroid/index.android.js" />
       <jump line="8" column="32" filename="$USER_HOME$/www/js/HelloWorldAndroid/js/stores/MovieStore.js" />
@@ -1029,13 +1033,18 @@
       <jump line="6" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/service/http-response-error-handler.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
       <jump line="21" column="0" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/src/blocks/auth/auth__oauth.js" />
-      <jump line="15" column="0" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/src/blocks/auth/auth__oauth.js" />
       <jump line="12" column="0" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/src/blocks/auth/auth__oauth.js" />
       <jump line="32" column="0" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/src/blocks/auth/auth__oauth.js" />
       <jump line="3" column="4" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/src/blocks/auth/auth__oauth.js" />
       <jump line="24" column="23" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/src/blocks/auth/auth__oauth.js" />
       <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/src/blocks/auth/auth__oauth.js" />
       <jump line="16" column="0" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/src/blocks/auth/auth__oauth.js" />
+      <jump line="15" column="4" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/src/blocks/auth/auth__oauth.js" />
+      <jump line="65" column="2" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/node_modules/react-native/Libraries/react-native/react-native.js" />
+      <jump line="83" column="0" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/node_modules/react-native/Libraries/Components/Intent/IntentAndroid.android.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/node_modules/react-native/Libraries/Components/Intent/IntentAndroid.android.js" />
+      <jump line="88" column="0" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/node_modules/react-native/Libraries/Components/Intent/IntentAndroid.android.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/node_modules/react-native/Libraries/Components/Intent/IntentAndroid.android.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1079,7 +1088,7 @@
         <text>response</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaGl0dHlRc1w+</text>
+        <text>data</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LyoqCiAqIFhYWChtYWtzaW1ydik6IFdlIHNob3VsZCBzZXQgY3VzdG9tIGxvZ28gd2l0aCB1c2VyIHNpemUgbm90IDIwMHg0MAogKi8KLnJpbmctaGVhZGVyX19sb2dvX19jdXN0b20taW1hZ2UgewogIGhlaWdodDogYXV0bzsKfQo=</text>
@@ -1119,17 +1128,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzaGl0dHlRc1w+</last-search>
+      <last-search>data</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaGl0dHlRc1w+</last-pattern>
+      <last-pattern>data</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxUb3VjaGFibGVOYXRpdmVGZWVkYmFja1w+</entry>
         <entry>render</entry>
         <entry>img</entry>
         <entry encoding="base64">XDxyZW5kZXJNb3ZpZVw+</entry>
@@ -1149,6 +1157,7 @@
         <entry>karma</entry>
         <entry>readon</entry>
         <entry encoding="base64">XDxzaGl0dHlRc1w+</entry>
+        <entry>data</entry>
       </history-search>
       <history-cmd>
         <entry>65</entry>
