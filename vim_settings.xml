@@ -13,6 +13,9 @@
         <mark key="." line="5" column="36" />
         <mark key="^" line="5" column="36" />
       </file>
+      <file name="/a.dummy" timestamp="1453132069094">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/www/js/webpack/lib/Compiler.js" timestamp="1450093212172">
         <mark key="'" line="435" column="0" />
       </file>
@@ -173,12 +176,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/custom-fields/per-project-custom-fields-edit-form.html" timestamp="1452501138401">
         <mark key="'" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1453125665490">
-        <mark key="'" line="41" column="10" />
-        <mark key="[" line="190" column="14" />
-        <mark key="]" line="190" column="12" />
-        <mark key="." line="190" column="12" />
-        <mark key="^" line="190" column="12" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1453132169276">
+        <mark key="'" line="26" column="0" />
+        <mark key="[" line="382" column="39" />
+        <mark key="]" line="382" column="41" />
+        <mark key="^" line="382" column="41" />
+        <mark key="." line="382" column="41" />
       </file>
       <file name="$USER_HOME$/tmp/js/webpack-on-context/node_modules/webpack-dev-server/bin/webpack-dev-server.js" timestamp="1450259061627">
         <mark key="'" line="85" column="16" />
@@ -204,10 +207,6 @@
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack-mobile/node_modules/react-native/local-cli/cli.js" timestamp="1453066657427">
         <mark key="'" line="156" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue.js" timestamp="1453107919378">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="29" column="39" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/utils.js" timestamp="1451044411504">
         <mark key="'" line="0" column="0" />
@@ -571,10 +570,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="394" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
-      <jump line="174" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
-      <jump line="370" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
-      <jump line="378" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="371" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="31" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="159" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
@@ -671,10 +666,14 @@
       <jump line="25" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="197" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="41" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="157" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="360" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="26" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>return agileBoardCtrl.sprint.</text>
+        <text>.id,</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -711,60 +710,59 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>return agileBoardCtrl.sprint.</text>
+        <text>.id,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc1NwcmludE5vdEZpbmlzaGVkXD4=</text>
+        <text>isSprintFinish</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8qKgogICAgICAgICAgICogQHBhcmFtIHtPYmplY3R9IHJlc3BvbnNlCiAgICAgICAgICAgKiBAcmV0dXJuIHtQcm9taXNlfQogICAgICAgICAgICovCiAgICAgICAgICB2YXIgb25FcnJvciA9IGZ1bmN0aW9uKHJlc3BvbnNlKSB7CiAgICAgICAgICAgICRsb2NhdGlvbi5wYXRoKCdhZ2lsZS8nICsgYWdpbGVCb2FyZEN0cmwuYWdpbGUuaWQgKyAnLycgKyBhZ2lsZUJvYXJkQ3RybC5hZ2lsZS5zcHJpbnRzWzBdLmlkKTsKCiAgICAgICAgICAgIGFsZXJ0Lm1lc3NhZ2UoaTE4bignQ2Fubm90IGxvYWQgc3ByaW50IHt7c3ByaW50SWR9fS4gWW91IGFyZSByZWRpcmVjdGVkIHRvIHRoZSBzcHJpbnQgXCd7e3NwcmludE5hbWV9fVwnJywgewogICAgICAgICAgICAgIHNwcmludElkOiBzcHJpbnRJZCwKICAgICAgICAgICAgICBzcHJpbnROYW1lOiBhZ2lsZUJvYXJkQ3RybC5hZ2lsZS5zcHJpbnRzWzBdLm5hbWUKICAgICAgICAgICAgfSksIDEwMDAwKTsKCiAgICAgICAgICAgIHJldHVybiAkcS5yZWplY3QocmVzcG9uc2UpOwogICAgICAgICAgfTsK</text>
+      <register name="0" type="4">
+        <text>agileBoardCtrl.agile</text>
       </register>
       <register name="1" type="4">
-        <text>return agileBoardCtrl.sprint.</text>
+        <text>.id,</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>agile</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">YWdpbGVCb2FyZEN0cmwuc3ByaW50ID0g</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhZ2lsZVJlc291cmNlLnNwcmludHMuZ2V0KHsKICAgICAgICAgIGFnaWxlSWQ6IGFnaWxlQm9hcmRDdHJsLmFnaWxlLmlkLAogICAgICAgICAgc3ByaW50SWQ6IGFnaWxlQm9hcmRDdHJsLnNwcmludC5pZCwKICAgICAgICAgIGZpZWxkczogYWdpbGVSZXNvdXJjZS5BR0lMRV9GSUVMRFMuU1BSSU5ULnRvU3RyaW5nKCkKICAgICAgICB9KS4kcHJvbWlzZS50aGVuKGZ1bmN0aW9uKHNwcmludCkgewogICAgICAgICAgYWdpbGVCb2FyZEN0cmwuc3ByaW50ID0gc3ByaW50Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIC8qKgogICAgICAgICAgICogQHBhcmFtIHtPYmplY3R9IHJlc3BvbnNlCiAgICAgICAgICAgKiBAcmV0dXJuIHtQcm9taXNlfQogICAgICAgICAgICovCiAgICAgICAgICB2YXIgb25FcnJvciA9IGZ1bmN0aW9uKHJlc3BvbnNlKSB7CiAgICAgICAgICAgICRsb2NhdGlvbi5wYXRoKCdhZ2lsZS8nICsgYWdpbGVCb2FyZEN0cmwuYWdpbGUuaWQgKyAnLycgKyBhZ2lsZUJvYXJkQ3RybC5hZ2lsZS5zcHJpbnRzWzBdLmlkKTsKCiAgICAgICAgICAgIGFsZXJ0Lm1lc3NhZ2UoaTE4bignQ2Fubm90IGxvYWQgc3ByaW50IHt7c3ByaW50SWR9fS4gWW91IGFyZSByZWRpcmVjdGVkIHRvIHRoZSBzcHJpbnQgXCd7e3NwcmludE5hbWV9fVwnJywgewogICAgICAgICAgICAgIHNwcmludElkOiBzcHJpbnRJZCwKICAgICAgICAgICAgICBzcHJpbnROYW1lOiBhZ2lsZUJvYXJkQ3RybC5hZ2lsZS5zcHJpbnRzWzBdLm5hbWUKICAgICAgICAgICAgfSksIDEwMDAwKTsKCiAgICAgICAgICAgIHJldHVybiAkcS5yZWplY3QocmVzcG9uc2UpOwogICAgICAgICAgfTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvKioKICAgICAgICAgKiBAcGFyYW0ge09iamVjdH0gcmVzcG9uc2UKICAgICAgICAgKiBAcmV0dXJuIHtQcm9taXNlfQogICAgICAgICAqLwo=</text>
+        <text encoding="base64">ICAgICAgdmFyIGxvYWRTcHJpbnQgPSBmdW5jdGlvbihhZ2lsZSwgc3ByaW50SWQpIHsKICAgICAgICAvKioKICAgICAgICAgKiBAcGFyYW0ge09iamVjdH0gcmVzcG9uc2UKICAgICAgICAgKiBAcmV0dXJuIHtQcm9taXNlfQogICAgICAgICAqLwogICAgICAgIHZhciBvbkVycm9yID0gZnVuY3Rpb24ocmVzcG9uc2UpIHsKICAgICAgICAgICRsb2NhdGlvbi5wYXRoKCdhZ2lsZS8nICsgYWdpbGVCb2FyZEN0cmwuYWdpbGUuaWQgKyAnLycgKyBhZ2lsZUJvYXJkQ3RybC5hZ2lsZS5zcHJpbnRzWzBdLmlkKTsKCiAgICAgICAgICBhbGVydC5tZXNzYWdlKGkxOG4oJ0Nhbm5vdCBsb2FkIHNwcmludCB7e3NwcmludElkfX0uIFlvdSBhcmUgcmVkaXJlY3RlZCB0byB0aGUgc3ByaW50IFwne3tzcHJpbnROYW1lfX1cJycsIHsKICAgICAgICAgICAgc3ByaW50SWQ6IHNwcmludElkLAogICAgICAgICAgICBzcHJpbnROYW1lOiBhZ2lsZUJvYXJkQ3RybC5hZ2lsZS5zcHJpbnRzWzBdLm5hbWUKICAgICAgICAgIH0pLCAxMDAwMCk7CgogICAgICAgICAgcmV0dXJuICRxLnJlamVjdChyZXNwb25zZSk7CiAgICAgICAgfTsKCiAgICAgICAgYWdpbGVCb2FyZEN0cmwuc3ByaW50ID0gYWdpbGVSZXNvdXJjZS5zcHJpbnRzLmdldCh7CiAgICAgICAgICBhZ2lsZUlkOiBhZ2lsZS5pZCwKICAgICAgICAgIHNwcmludElkOiBzcHJpbnRJZCwKICAgICAgICAgIGZpZWxkczogYWdpbGVSZXNvdXJjZS5BR0lMRV9GSUVMRFMuU1BSSU5ULnRvU3RyaW5nKCkKICAgICAgICB9KTsKCiAgICAgICAgcmV0dXJuIGFnaWxlQm9hcmRDdHJsLnNwcmludC4kcHJvbWlzZS5jYXRjaChvbkVycm9yKS5maW5hbGx5KHRvZ2dsZUxvYWRpbmcpOwogICAgICB9Owo=</text>
       </register>
-      <register name="7" type="4">
-        <text>.catch(onError)</text>
+      <register name="7" type="2">
+        <text encoding="base64">CiAgICAgICAgdmFyIGxvYWRTcHJpbnQgPSBmdW5jdGlvbihhZ2lsZSwgc3ByaW50SWQpIHsKICAgICAgICAgIHJldHVybiBhZ2lsZVJlc291cmNlLnNwcmludHMuZ2V0KHsKICAgICAgICAgICAgYWdpbGVJZDogYWdpbGUuaWQsCiAgICAgICAgICAgIHNwcmludElkOiBzcHJpbnRJZCwKICAgICAgICAgICAgZmllbGRzOiBhZ2lsZVJlc291cmNlLkFHSUxFX0ZJRUxEUy5TUFJJTlQudG9TdHJpbmcoKQogICAgICAgICAgfSkuJHByb21pc2UudGhlbihmdW5jdGlvbihzcHJpbnQpIHsKICAgICAgICAgICAgYWdpbGVCb2FyZEN0cmwuc3ByaW50ID0gc3ByaW50OwogICAgICAgICAgfSk7CiAgICAgICAgfTsK</text>
       </register>
       <register name="8" type="4">
-        <text>.catch(onError).finally(toggleLoading);</text>
+        <text>return agileBoardCtrl.sprint.</text>
       </register>
-      <register name="9" type="4">
-        <text>()</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc1NwcmludE5vdEZpbmlzaGVkXD4=</last-search>
+      <last-search>isSprintFinish</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc1NwcmludE5vdEZpbmlzaGVkXD4=</last-pattern>
+      <last-pattern>isSprintFinish</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzcHJpbnRcPg==</entry>
         <entry>getSprint</entry>
         <entry>sprint</entry>
         <entry encoding="base64">XDxnZXRTd2ltbGFuZUNvbHVtbnNcPg==</entry>
@@ -784,6 +782,7 @@
         <entry encoding="base64">XDxnZXRDdXJyZW50U3ByaW50XD4=</entry>
         <entry>isSprint</entry>
         <entry encoding="base64">XDxpc1NwcmludE5vdEZpbmlzaGVkXD4=</entry>
+        <entry>isSprintFinish</entry>
       </history-search>
       <history-cmd>
         <entry>65</entry>
