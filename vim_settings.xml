@@ -552,6 +552,13 @@
       <file name="$USER_HOME$/www/js/polymer-example/node_modules/polymer/package.json" timestamp="1451385888031">
         <mark key="'" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/form/directive/yt-form-checkbox.js" timestamp="1453208240008">
+        <mark key="'" line="45" column="2" />
+        <mark key="[" line="11" column="48" />
+        <mark key="]" line="11" column="47" />
+        <mark key="." line="11" column="47" />
+        <mark key="^" line="11" column="47" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-sanitize/angular-sanitize.js" timestamp="1448533796510">
         <mark key="'" line="682" column="0" />
       </file>
@@ -605,8 +612,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-table-orphan.html" />
-      <jump line="128" column="32" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-table.html" />
       <jump line="12" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/directive/command-dialog.js" />
       <jump line="126" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/directive/command-dialog.js" />
       <jump line="6" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/template/command-dialog.html" />
@@ -705,10 +710,12 @@
       <jump line="21" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-table-orphan.html" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-table-orphan.html" />
       <jump line="11" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/yt-agile-swimlane-column.html" />
+      <jump line="17" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/form/directive/yt-form-checkbox.js" />
+      <jump line="45" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/form/directive/yt-form-checkbox.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>name</text>
+        <text encoding="base64">PHNwYW4gcmVhY3Q9IkNoZWNrYm94IiBkYXRhLWRpc2FibGVkPSJuZ0Rpc2FibGVkIiBuZy1tb2RlbD0icmVhY3RDaGVja2JveE1vZGVsLmVuYWJsZWQiPjwvc3Bhbj4=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -745,7 +752,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text encoding="base64">PHNwYW4gcmVhY3Q9IkNoZWNrYm94IiBkYXRhLWRpc2FibGVkPSJuZ0Rpc2FibGVkIiBuZy1tb2RlbD0icmVhY3RDaGVja2JveE1vZGVsLmVuYWJsZWQiPjwvc3Bhbj4=</text>
       </register>
       <register name="/" type="4">
         <text>repeat</text>
@@ -754,34 +761,34 @@
         <text encoding="base64">ICAgICAgICAgIHN0b3BMb2FkaW5nQmFja2xvZ0lzc3VlcygpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>name</text>
+        <text encoding="base64">PHNwYW4gcmVhY3Q9IkNoZWNrYm94IiBkYXRhLWRpc2FibGVkPSJuZ0Rpc2FibGVkIiBuZy1tb2RlbD0icmVhY3RDaGVja2JveE1vZGVsLmVuYWJsZWQiPjwvc3Bhbj4=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>setBacklog</text>
+        <text encoding="base64">PHNwYW4gcmVhY3Q9IkNoZWNrYm94IiBkYXRhLWRpc2FibGVkPSJuZ0Rpc2FibGVkIiBuZy1tb2RlbD0icmVhY3RDaGVja2JveE1vZGVsLmVuYWJsZWQiPg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>name</text>
       </register>
       <register name="4" type="4">
+        <text>setBacklog</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>();</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>function() {</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text>.then()</text>
-      </register>
-      <register name="8" type="4">
-        <text>function() { }</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0b3BMb2FkaW5nQmFja2xvZ0lzc3VlcygpOwogICAgICAgIH0sIGZ1bmN0aW9uKHJlc3BvbnNlKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
