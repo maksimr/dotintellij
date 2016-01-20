@@ -453,11 +453,24 @@
       <file name="$USER_HOME$/www/js/polymer-example/node_modules/polymer/index.js" timestamp="1451385904064">
         <mark key="'" line="116" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/form/test/e2e/example/index.js" timestamp="1453289742416">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="1" column="20" />
+        <mark key="]" line="1" column="23" />
+        <mark key="." line="1" column="23" />
+        <mark key="^" line="1" column="23" />
+      </file>
       <file name="$USER_HOME$/www/js/HelloWorldAndroid/node_modules/react-native/Libraries/CustomComponents/ListView/ListViewDataSource.js" timestamp="1452155321500">
         <mark key="'" line="66" column="4" />
       </file>
       <file name="$USER_HOME$/www/js/HelloWorldAndroid/node_modules/react-native/packager/react-packager/src/Resolver/index.js" timestamp="1453222588702">
         <mark key="'" line="170" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/form/test/e2e/example/index.html" timestamp="1453289684087">
+        <mark key="[" line="8" column="65" />
+        <mark key="]" line="8" column="68" />
+        <mark key="." line="8" column="68" />
+        <mark key="^" line="8" column="68" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/utils.js" timestamp="1451044406600">
         <mark key="'" line="0" column="0" />
@@ -577,8 +590,8 @@
       <file name="$USER_HOME$/www/js/polymer-example/node_modules/polymer/package.json" timestamp="1451385888031">
         <mark key="'" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/form/directive/yt-form-checkbox.js" timestamp="1453208240008">
-        <mark key="'" line="45" column="2" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/form/directive/yt-form-checkbox.js" timestamp="1453289575860">
+        <mark key="'" line="18" column="0" />
         <mark key="[" line="11" column="48" />
         <mark key="]" line="11" column="47" />
         <mark key="." line="11" column="47" />
@@ -640,8 +653,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-card.js" />
-      <jump line="73" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-card.js" />
       <jump line="166" column="35" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-card.js" />
       <jump line="167" column="32" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-card.js" />
       <jump line="170" column="34" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-card.js" />
@@ -740,10 +751,12 @@
       <jump line="53" column="36" filename="$USER_HOME$/www/js/HelloWorldAndroid/node_modules/react-native/packager/react-packager/src/Resolver/index.js" />
       <jump line="170" column="0" filename="$USER_HOME$/www/js/HelloWorldAndroid/node_modules/react-native/packager/react-packager/src/Resolver/index.js" />
       <jump line="21" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-table-orphan.html" />
+      <jump line="18" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/form/directive/yt-form-checkbox.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/form/test/e2e/example/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhHTE9CQUwucHJvY2Vzcyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>icon</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -780,7 +793,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PGRpdiBuZy1pZj0ib3BlbiI+</text>
+        <text>icon</text>
       </register>
       <register name="/" type="4">
         <text>prelude</text>
@@ -788,35 +801,35 @@
       <register name="0" type="4">
         <text>createIssueList(3)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhHTE9CQUwucHJvY2Vzcyk7Cg==</text>
+      <register name="1" type="4">
+        <text>icon</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnPj4+PicsIGFyZ3VtZW50cyk7Cg==</text>
+      <register name="2" type="4">
+        <text>icon</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZWNobyAiPj4+Pj4+Pj4iICRACg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">PGRpdiBuZy1pZj0ib3BlbiI+</text>
+      <register name="4" type="2">
+        <text encoding="base64">PHl0LWljb24gaWNvbj0icGVuY2lsIiBuZy1yZXBlYXQ9Imljb24gaW4gZXhhbXBsZUN0cmwuaWNvbnNDb3VudCI+CjwveXQtaWNvbj4K</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">PG5nLXRyYW5zY2x1ZGUvPg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhHTE9CQUwucHJvY2Vzcyk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>[</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnPj4+PicsIGFyZ3VtZW50cyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY3JlYXRlSXNzdWVNb2NrKCksCiAgICAgIGNyZWF0ZUlzc3VlTW9jaygpCiAgICBdOwo=</text>
+        <text encoding="base64">ZWNobyAiPj4+Pj4+Pj4iICRACg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpc3N1ZXM6IG5ldyBBcnJheSgzKS5qb2luKCd4Jykuc3BsaXQoJ3gnKS5tYXAoY3JlYXRlSXNzdWVNb2NrKQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">PGRpdiBuZy1pZj0ib3BlbiI+</text>
       </register>
       <register name="9" type="4">
-        <text>new Array(3).join('x').split('x').map(createIssueMock)</text>
+        <text encoding="base64">PG5nLXRyYW5zY2x1ZGUvPg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
