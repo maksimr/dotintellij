@@ -261,12 +261,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/lib/angular-ui-date/src/date.js" timestamp="1452858340710">
         <mark key="'" line="161" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack-mobile/src/blocks/app/app.js" timestamp="1453368076927">
-        <mark key="'" line="45" column="53" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="33" column="38" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack-mobile/src/blocks/app/app.js" timestamp="1453369611957">
+        <mark key="'" line="1" column="7" />
+        <mark key="[" line="1" column="48" />
+        <mark key="]" line="1" column="46" />
+        <mark key="." line="1" column="46" />
+        <mark key="^" line="1" column="46" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/package.json" timestamp="1452505775839">
         <mark key="'" line="18" column="10" />
@@ -694,12 +694,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19924" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
-      <jump line="19918" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
-      <jump line="19920" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
-      <jump line="19909" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
-      <jump line="19907" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/progress-bar/directive/progress-bar.js" />
       <jump line="27" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/form/directive/yt-form-checkbox.js" />
       <jump line="13" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/form/test/e2e/example/index.html" />
       <jump line="17" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/form/directive/yt-form-checkbox.js" />
@@ -775,7 +769,6 @@
       <jump line="30" column="0" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/src/views/log-in/login-form.js" />
       <jump line="137" column="0" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/src/views/log-in/login-form.js" />
       <jump line="8" column="18" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/src/blocks/app/app.js" />
-      <jump line="1" column="7" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/src/blocks/app/app.js" />
       <jump line="34" column="58" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/src/blocks/app/app.js" />
       <jump line="38" column="16" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/src/blocks/app/app.js" />
       <jump line="58" column="0" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/src/blocks/app/app.js" />
@@ -794,10 +787,17 @@
       <jump line="100" column="8" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/src/views/log-in/login-form.js" />
       <jump line="96" column="11" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/src/views/log-in/login-form.js" />
       <jump line="19" column="43" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/src/views/log-in/login-form.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/src/blocks/app/app.js" />
+      <jump line="29" column="0" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/src/blocks/app/app.js" />
+      <jump line="16" column="18" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/src/blocks/app/app.js" />
+      <jump line="6" column="46" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/src/blocks/app/app.js" />
+      <jump line="39" column="0" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/src/blocks/app/app.js" />
+      <jump line="31" column="69" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/src/blocks/app/app.js" />
+      <jump line="1" column="7" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/src/blocks/app/app.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>this.state</text>
+        <text>message={this.state.loginMessage}</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -834,60 +834,59 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>this.state</text>
+        <text>message={this.state.loginMessage}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUZXh0SW5wdXRcPg==</text>
+        <text>Login</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxWaWV3IHN0eWxlPXtzdHlsZXMuaW5wdXRzfT4K</text>
       </register>
       <register name="1" type="4">
-        <text>this.state</text>
+        <text>message={this.state.loginMessage}</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>LogIn</text>
       </register>
       <register name="3" type="4">
+        <text>in</text>
+      </register>
+      <register name="4" type="4">
+        <text>this.state</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text>,</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEltYWdlCg==</text>
-      </register>
-      <register name="5" type="4">
-        <text>,</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGlucHV0OiB7CiAgICAgICAgaGVpZ2h0OiAyMAogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlucHV0Q29udGFpbmVyOiB7CiAgICAgICAgcGFkZGluZzogMTAsCiAgICAgICAgaGVpZ2h0OiA0MAogICAgfSwK</text>
+        <text encoding="base64">ICAgIEltYWdlCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGlucHV0UGFzc3dvcmQ6IHsKICAgICAgICBtYXJnaW5MZWZ0OiAxNSwKICAgICAgICB3aWR0aDogMjAsCiAgICAgICAgaGVpZ2h0OiAyMgogICAgfSwKICAgIGlucHV0VXNlcm5hbWU6IHsKICAgICAgICBtYXJnaW5MZWZ0OiAxNSwKICAgICAgICB3aWR0aDogMjAsCiAgICAgICAgaGVpZ2h0OiAyMAogICAgfSwK</text>
+      <register name="8" type="4">
+        <text>,</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNpZ251cDogewogICAgICAgIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJywKICAgICAgICBhbGlnbkl0ZW1zOiAnY2VudGVyJywKICAgICAgICBmbGV4OiAuMTUKICAgIH0sCg==</text>
+        <text encoding="base64">ICAgIGlucHV0OiB7CiAgICAgICAgaGVpZ2h0OiAyMAogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUZXh0SW5wdXRcPg==</last-search>
+      <last-search>Login</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUZXh0SW5wdXRcPg==</last-pattern>
+      <last-pattern>Login</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>dash</entry>
         <entry>ngModel</entry>
         <entry encoding="base64">XDxkZWZhdWx0TGlua0ZuXD4=</entry>
         <entry encoding="base64">XDxwcm9wTmFtZVw+</entry>
@@ -901,12 +900,13 @@
         <entry>has</entry>
         <entry>conso</entry>
         <entry encoding="base64">XDxuZ1RydWVWYWx1ZVw+</entry>
-        <entry encoding="base64">XDxMb2dpbkZvcm1cPg==</entry>
         <entry encoding="base64">XDxMb2dJblw+</entry>
         <entry encoding="base64">XDxnZXRMb2dpblZpZXdcPg==</entry>
         <entry>sign</entry>
         <entry>dont</entry>
         <entry encoding="base64">XDxUZXh0SW5wdXRcPg==</entry>
+        <entry encoding="base64">XDxMb2dpbkZvcm1cPg==</entry>
+        <entry>Login</entry>
       </history-search>
       <history-cmd>
         <entry>65</entry>
