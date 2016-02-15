@@ -1,0 +1,14 @@
+<keymap version="1" name="maksimrv.linux" parent="Default for XWin">
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="alt comma" second-keystroke="shift u" />
+  </action>
+  <action id="FindUsagesInFile">
+    <keyboard-shortcut first-keystroke="ctrl f7" />
+    <keyboard-shortcut first-keystroke="alt comma" second-keystroke="u" />
+  </action>
+  <action id="ShowErrorDescription">
+    <keyboard-shortcut first-keystroke="ctrl f1" />
+    <keyboard-shortcut first-keystroke="alt comma" second-keystroke="comma" />
+  </action>
+</keymap>
