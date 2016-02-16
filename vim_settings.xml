@@ -11,12 +11,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/yt-agile-backlog-issue.html" timestamp="1455616107457">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/yt-agile-backlog-issue.html" timestamp="1455616907650">
         <mark key="'" line="93" column="0" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="^" line="1" column="37" />
-        <mark key="." line="93" column="0" />
+        <mark key="[" line="1" column="33" />
+        <mark key="]" line="1" column="44" />
+        <mark key="^" line="1" column="44" />
+        <mark key="." line="1" column="44" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/custom-fields/custom-fields-per-project.js" timestamp="1455615250858">
         <mark key="'" line="414" column="6" />
@@ -29,14 +29,18 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-backlog-issue.js" timestamp="1455616804495">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-backlog-issue.js" timestamp="1455620794380">
         <mark key="'" line="22" column="0" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="37" />
-        <mark key="." line="44" column="0" />
+        <mark key="[" line="43" column="43" />
+        <mark key="]" line="43" column="44" />
+        <mark key="^" line="43" column="44" />
+        <mark key="." line="43" column="44" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/update-issue-field.js" timestamp="1455553021593">
         <mark key="'" line="38" column="0" />
+      </file>
+      <file name="/fragment.js2" timestamp="1455620765999">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-swimlane-column.js" timestamp="1455615725427">
         <mark key="'" line="25" column="27" />
@@ -172,10 +176,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coaXNzdWVJZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>.data('issueId');</text>
+        <text>issueId</text>
       </register>
       <register name="/" type="4">
         <text>getIssue</text>
@@ -184,13 +188,13 @@
         <text>ui.item.parent('.js-backlog-issue')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coaXNzdWVJZCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVpLml0ZW0uc29ydGFibGUuY2FuY2VsKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBpc3N1ZUlkID0gZ2V0QmFja2xvZ0lzc3VlSWQoKTsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>issueId</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -199,19 +203,16 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGlzc3VlSWQpOwo=</text>
       </register>
       <register name="6" type="4">
-        <text>.data('issueId');</text>
+        <text>issue</text>
       </register>
-      <register name="7" type="4">
-        <text>data</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coaXNzdWVJZCk7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>$scope.sortableConfig = {
-              beforeStop: function(e, ui) {
-                var data = ui.item.parents('.js-backlog-issue').data('issueId');
-                  console.log(data</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVpLml0ZW0uc29ydGFibGUuY2FuY2VsKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHVpLml0ZW0ucGFyZW50cygpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
