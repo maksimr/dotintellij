@@ -3,13 +3,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1455607873441">
+      <file name="/Dummy.txt" timestamp="1455621421625">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/yt-agile-swimlane-column.html" timestamp="1455615231694">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-backlog-issue.js" timestamp="1455621642840">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="81" column="2" />
+        <mark key="]" line="81" column="2" />
+        <mark key="." line="81" column="2" />
+        <mark key="^" line="81" column="2" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/yt-agile-backlog-issue.html" timestamp="1455616907650">
         <mark key="'" line="93" column="0" />
@@ -28,6 +35,9 @@
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/get-issue-id.js" timestamp="1455621520971">
+        <mark key="'" line="16" column="2" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-backlog-issue.js" timestamp="1455620794380">
         <mark key="'" line="22" column="0" />
@@ -173,10 +183,13 @@
       <jump line="48" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/yt-agile-backlog-issue.html" />
       <jump line="55" column="42" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/yt-agile-backlog-issue.html" />
       <jump line="93" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/yt-agile-backlog-issue.html" />
+      <jump line="14" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/get-issue-id.js" />
+      <jump line="16" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/get-issue-id.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-backlog-issue.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAogICAK</text>
       </register>
       <register name="-" type="4">
         <text>issueId</text>
@@ -188,31 +201,31 @@
         <text>ui.item.parent('.js-backlog-issue')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAogICAK</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBpc3N1ZUlkID0gZ2V0QmFja2xvZ0lzc3VlSWQoKTsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>issueId</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGlzc3VlSWQpOwo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>issue</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coaXNzdWVJZCk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVpLml0ZW0uc29ydGFibGUuY2FuY2VsKCk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHVpLml0ZW0uc29ydGFibGUuY2FuY2VsKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
