@@ -11,6 +11,10 @@
     <keyboard-shortcut first-keystroke="ctrl f7" />
     <keyboard-shortcut first-keystroke="alt comma" second-keystroke="u" />
   </action>
+  <action id="ShowErrorDescription">
+    <keyboard-shortcut first-keystroke="ctrl f1" />
+    <keyboard-shortcut first-keystroke="alt comma" second-keystroke="comma" />
+  </action>
   <action id="ShowUmlDiagramPopup" />
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="ctrl alt u" />
