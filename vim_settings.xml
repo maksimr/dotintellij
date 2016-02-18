@@ -28,8 +28,17 @@
         <mark key="^" line="2" column="68" />
         <mark key="." line="2" column="68" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1455800373126">
+        <mark key="[" line="529" column="0" />
+        <mark key="]" line="529" column="1" />
+        <mark key="." line="529" column="1" />
+        <mark key="^" line="529" column="1" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" timestamp="1455794550701">
         <mark key="'" line="18" column="11" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-board-with-sidebar.js" timestamp="1455801669261">
+        <mark key="'" line="19" column="72" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/search-query-panel/service/search-query-panel-base-url.js" timestamp="1454084390151">
         <mark key="'" line="10" column="2" />
@@ -63,8 +72,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/popup-menu/popup-menu.js" />
-      <jump line="11" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dashboard/dashboard.js" />
       <jump line="7" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dashboard/dashboard.js" />
       <jump line="10" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dashboard/dashboard.js" />
       <jump line="16" column="54" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dashboard/dashboard.js" />
@@ -163,55 +170,57 @@
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-backlog-issue.js" />
       <jump line="46" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-backlog-issue.js" />
       <jump line="153" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-backlog-issue.js" />
+      <jump line="52" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-board-with-sidebar.js" />
+      <jump line="19" column="72" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-board-with-sidebar.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBiYWNrdXBTdWJUYXNrSXNzdWVzID0gJHNjb3BlLmxvYWRlZFN1YnRhc2tJc3N1ZXMuc2xpY2UoKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>$scope.loadedSubtaskIssues.slice();</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>ERROR</text>
+        <text>which</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgbG9hZFN1YnRhc2tJc3N1ZXMoKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBiYWNrdXBTdWJUYXNrSXNzdWVzID0gJHNjb3BlLmxvYWRlZFN1YnRhc2tJc3N1ZXMuc2xpY2UoKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBiYWNrdXBTdWJUYXNrSXNzdWVzID0gJHNjb3BlLmxvYWRlZFN1YnRhc2tJc3N1ZXMuc2xpY2UoKTsK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgJHNjb3BlLmxvYWRlZFN1YnRhc2tJc3N1ZXMgPSBiYWNrdXBTdWJUYXNrSXNzdWVzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBiYWNrdXBTdWJUYXNrSXNzdWVzID0gJHNjb3BlLmxvYWRlZFN1YnRhc2tJc3N1ZXMuc2xpY2UoKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgJHNjb3BlLmxvYWRlZFN1YnRhc2tJc3N1ZXMgPSBiYWNrdXBTdWJUYXNrSXNzdWVzOwo=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgJHNjb3BlLmxvYWRlZFN1YnRhc2tJc3N1ZXMgPSBiYWNrdXBTdWJUYXNrSXNzdWVzOwo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZhcgo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>$scope.loadedSubtaskIssues.slice();</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>var backupSubTaskIssues</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>ERROR</last-search>
+      <last-search>which</last-search>
       <last-offset />
-      <last-pattern>ERROR</last-pattern>
+      <last-pattern>which</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -231,6 +240,7 @@
         <entry>receive</entry>
         <entry>loaded</entry>
         <entry>ERROR</entry>
+        <entry>which</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>

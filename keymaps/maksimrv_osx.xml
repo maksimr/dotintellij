@@ -1,4 +1,4 @@
-<keymap version="1" name="Default for XWin copy" parent="Default for XWin">
+<keymap version="1" name="maksimrv.osx" parent="Default for XWin">
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="shift alt f10" />
     <keyboard-shortcut first-keystroke="alt comma" second-keystroke="r" />
@@ -10,5 +10,9 @@
   <action id="FindUsagesInFile">
     <keyboard-shortcut first-keystroke="ctrl f7" />
     <keyboard-shortcut first-keystroke="alt comma" second-keystroke="u" />
+  </action>
+  <action id="ShowUmlDiagramPopup" />
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="ctrl alt u" />
   </action>
 </keymap>
