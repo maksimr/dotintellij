@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/www/js/TestAndroid/package.json" timestamp="1455892849346">
-        <mark key="'" line="20" column="22" />
+      <file name="$USER_HOME$/www/js/TestAndroid/package.json" timestamp="1455968417558">
+        <mark key="'" line="24" column="21" />
         <mark key="[" line="26" column="28" />
         <mark key="]" line="26" column="26" />
         <mark key="." line="26" column="26" />
@@ -66,9 +66,15 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="13" column="119" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack-mobile/README.md" timestamp="1455965612911">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="12" column="75" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack-mobile/README.md" timestamp="1455968278769">
+        <mark key="'" line="67" column="2" />
+        <mark key="[" line="56" column="10" />
+        <mark key="]" line="56" column="14" />
+        <mark key="^" line="56" column="14" />
+        <mark key="." line="56" column="14" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1455968399815">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-backlog-issue.js" timestamp="1455888320213">
         <mark key="'" line="215" column="0" />
@@ -118,8 +124,10 @@
         <mark key="." line="25" column="45" />
         <mark key="^" line="25" column="45" />
       </file>
-      <file name="$USER_HOME$/www/js/TestAndroid/README.md" timestamp="1455892624238">
-        <mark key="'" line="2" column="0" />
+      <file name="$USER_HOME$/www/js/TestAndroid/README.md" timestamp="1455968414246">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="127" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/charisma-app/build.gradle" timestamp="1455749138028">
         <mark key="'" line="14" column="0" />
@@ -131,14 +139,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="191" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-backlog-issue.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-backlog-issue.js" />
-      <jump line="104" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/e2e/example/agile-backlog-issue.js" />
-      <jump line="45" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/e2e/example/agile-backlog-issue.js" />
-      <jump line="143" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-backlog-issue.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/agile-resource.js" />
-      <jump line="177" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/agile-resource.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-backlog-issue.js" />
       <jump line="485" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="511" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="28" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
@@ -231,46 +231,54 @@
       <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/src/app.js" />
       <jump line="43" column="0" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/src/app.js" />
       <jump line="13" column="97" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/package.json" />
+      <jump line="37" column="0" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/README.md" />
+      <jump line="38" column="2" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/README.md" />
+      <jump line="67" column="2" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/README.md" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/js/TestAndroid/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/js/TestAndroid/README.md" />
+      <jump line="62" column="0" filename="$USER_HOME$/www/js/TestAndroid/README.md" />
+      <jump line="7" column="0" filename="$USER_HOME$/www/js/TestAndroid/README.md" />
+      <jump line="24" column="21" filename="$USER_HOME$/www/js/TestAndroid/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJpb3MtbGF1bmNoLXNpbSI6ICJ4Y3J1biBpbnN0cnVtZW50cyAtdyAnaVBob25lIDVzICg5LjIpJyIsCiAgICAiaW9zLWluc3RhbGwtYXBwIjogInhjcnVuIHNpbWN0bCBpbnN0YWxsIGJvb3RlZCBpb3MvYnVpbGQvQnVpbGQvUHJvZHVjdHMvRGVidWctaXBob25lc2ltdWxhdG9yL1lvdVRyYWNrTW9iaWxlLmFwcCIsCg==</text>
+      <register name="&quot;" type="4">
+        <text>For OSX only</text>
       </register>
       <register name="-" type="4">
-        <text>FOO</text>
+        <text>For OSX only</text>
       </register>
       <register name="/" type="4">
         <text>emu</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJpb3MtbGF1bmNoLXNpbSI6ICJ4Y3J1biBpbnN0cnVtZW50cyAtdyAnaVBob25lIDVzICg5LjIpJyIsCiAgICAiaW9zLWluc3RhbGwtYXBwIjogInhjcnVuIHNpbWN0bCBpbnN0YWxsIGJvb3RlZCBpb3MvYnVpbGQvQnVpbGQvUHJvZHVjdHMvRGVidWctaXBob25lc2ltdWxhdG9yL1lvdVRyYWNrTW9iaWxlLmFwcCIsCg==</text>
+        <text encoding="base64">QmVmb3JlIHN0YXJ0IHRvIGRldmVsb3AgeW91IHNob3VsZCBbc2V0dXAgQW5kcm9pZCBlbnZpcm9ubWVudF0oaHR0cHM6Ly9mYWNlYm9vay5naXRodWIuaW8vcmVhY3QtbmF0aXZlL2RvY3MvYW5kcm9pZC1zZXR1cC5odG1sKQpBZnRlciBzZXR1cCB3ZSBzaG91bGQgaW5zdGFsbCBwcm9qZWN0IGRlcGVuZGVuY2llcyBhbmQgY3JlYXRlIGFuZHJvaWQgZW11bGF0b3IK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>For OSX only</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKFZFUlNJT04pOwo=</text>
+      <register name="2" type="4">
+        <text>OSX</text>
       </register>
       <register name="3" type="4">
-        <text>FOO</text>
+        <text>bash</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgRk9POiB0cnVlCg==</text>
+      <register name="4" type="4">
+        <text>sh</text>
       </register>
-      <register name="5" type="4">
-        <text>,</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>process.env</text>
+      <register name="6" type="2">
+        <text encoding="base64">IyBGb3IgT1NYIG9ubHkK</text>
       </register>
-      <register name="7" type="4">
-        <text>BROWSER_SUPPORTS_HTML5</text>
+      <register name="7" type="2">
+        <text encoding="base64">IyMjIFByZXBhcmUKCkJlZm9yZSBzdGFydCB0byBkZXZlbG9wIHlvdSBzaG91bGQgW3NldHVwIEFuZHJvaWQgZW52aXJvbm1lbnRdKGh0dHBzOi8vZmFjZWJvb2suZ2l0aHViLmlvL3JlYWN0LW5hdGl2ZS9kb2NzL2FuZHJvaWQtc2V0dXAuaHRtbCkKQWZ0ZXIgc2V0dXAgd2Ugc2hvdWxkIGNyZWF0ZSBhbmRyb2lkIGVtdWxhdG9yOgoKYGBgc2gKbnBtIHJ1biBhbmRyb2lkLWVtdWxhdG9yLWNyZWF0ZQpgYGAK</text>
       </register>
-      <register name="8" type="4">
-        <text>,</text>
+      <register name="8" type="2">
+        <text encoding="base64">bnBtIHJ1biBlbXVsYXRvci1jcmVhdGUtYW5kcm9pZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgInR5cGVvZiB3aW5kb3ciOiBKU09OLnN0cmluZ2lmeSgib2JqZWN0IikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
