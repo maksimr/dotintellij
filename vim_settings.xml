@@ -52,11 +52,11 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/popup-menu/popup-menu.js" timestamp="1454082483578">
         <mark key="[" line="5" column="35" />
       </file>
-      <file name="$USER_HOME$/www/js/TestAndroid/webpack.config.js" timestamp="1455922548794">
-        <mark key="[" line="14" column="6" />
-        <mark key="]" line="14" column="8" />
-        <mark key="^" line="14" column="8" />
-        <mark key="." line="14" column="8" />
+      <file name="$USER_HOME$/www/js/TestAndroid/webpack.config.js" timestamp="1455923359684">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="39" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1455867174438">
         <mark key="[" line="0" column="0" />
@@ -112,12 +112,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/charisma-app/build.gradle" timestamp="1455749138028">
         <mark key="'" line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/www/js/TestAndroid/index.android.js" timestamp="1455922561735">
+      <file name="$USER_HOME$/www/js/TestAndroid/index.android.js" timestamp="1455923367818">
         <mark key="'" line="10" column="28" />
         <mark key="[" line="10" column="16" />
-        <mark key="]" line="10" column="18" />
-        <mark key="." line="10" column="18" />
-        <mark key="^" line="10" column="18" />
+        <mark key="]" line="10" column="22" />
+        <mark key="." line="10" column="22" />
+        <mark key="^" line="10" column="22" />
       </file>
     </filemarks>
     <jumps>
@@ -224,10 +224,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>process.env</text>
+        <text>FOO</text>
       </register>
       <register name="-" type="4">
-        <text>process.env</text>
+        <text>FOO</text>
       </register>
       <register name="/" type="4">
         <text>plugins</text>
@@ -236,31 +236,31 @@
         <text encoding="base64">ICAgICJzdGFydCI6ICJybndzIHN0YXJ0IiwK</text>
       </register>
       <register name="1" type="4">
-        <text>process.env</text>
+        <text>FOO</text>
       </register>
-      <register name="2" type="4">
-        <text>BROWSER_SUPPORTS_HTML5</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgRk9POiB0cnVlCg==</text>
       </register>
       <register name="3" type="4">
         <text>,</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgInR5cGVvZiB3aW5kb3ciOiBKU09OLnN0cmluZ2lmeSgib2JqZWN0IikK</text>
+      <register name="4" type="4">
+        <text>process.env</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgVFdPOiAiMSsxIiwK</text>
+      <register name="5" type="4">
+        <text>BROWSER_SUPPORTS_HTML5</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgVkVSU0lPTjogSlNPTi5zdHJpbmdpZnkoIjVmYTNiOSIpLAo=</text>
+      <register name="6" type="4">
+        <text>,</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgInR5cGVvZiB3aW5kb3ciOiBKU09OLnN0cmluZ2lmeSgib2JqZWN0IikK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IHthcmd2fQ==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgVFdPOiAiMSsxIiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhciBhcmd2ID0gcHJvY2Vzcy5hcmd2Owo=</text>
+        <text encoding="base64">ICAgICAgVkVSU0lPTjogSlNPTi5zdHJpbmdpZnkoIjVmYTNiOSIpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
