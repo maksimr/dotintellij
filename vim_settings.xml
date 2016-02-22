@@ -153,18 +153,19 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-scrumboard/src/main/kotlin/jetbrains/youtrack/agile/settings/AgileColumn.kt" timestamp="1455888848196">
         <mark key="'" line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/www/js/TodoAndroid/components/input/input.js" timestamp="1456131011741">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
-        <mark key="^" line="0" column="11" />
+      <file name="$USER_HOME$/www/js/TodoAndroid/components/input/input.js" timestamp="1456132709280">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="17" column="21" />
+        <mark key="]" line="17" column="25" />
+        <mark key="." line="17" column="25" />
+        <mark key="^" line="17" column="25" />
       </file>
-      <file name="$USER_HOME$/www/js/TodoAndroid/index.android.js" timestamp="1456129577460">
-        <mark key="'" line="64" column="0" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="28" column="18" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/www/js/TodoAndroid/index.android.js" timestamp="1456132740249">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="8" column="44" />
+        <mark key="]" line="8" column="44" />
+        <mark key="^" line="8" column="44" />
+        <mark key="." line="8" column="44" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" timestamp="1455794550701">
         <mark key="'" line="18" column="11" />
@@ -231,10 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="0" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/src/views/log-in/log-in__form.js" />
-      <jump line="48" column="14" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/src/views/log-in/log-in__form.js" />
-      <jump line="33" column="37" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/src/views/log-in/log-in__form.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/src/views/log-in/log-in__form.js" />
       <jump line="130" column="0" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/src/views/log-in/log-in__form.js" />
       <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/src/views/log-in/log-in__form.js" />
       <jump line="125" column="0" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/src/views/log-in/log-in__form.js" />
@@ -316,7 +313,6 @@
       <jump line="30" column="0" filename="$USER_HOME$/www/js/TodoAndroid/index.android.js" />
       <jump line="44" column="0" filename="$USER_HOME$/www/js/TodoAndroid/index.android.js" />
       <jump line="38" column="15" filename="$USER_HOME$/www/js/TodoAndroid/index.android.js" />
-      <jump line="28" column="49" filename="$USER_HOME$/www/js/TodoAndroid/index.android.js" />
       <jump line="27" column="11" filename="$USER_HOME$/www/js/TodoAndroid/index.android.js" />
       <jump line="4" column="2" filename="$USER_HOME$/www/js/TodoAndroid/index.android.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/js/TodoAndroid/.eslintrc" />
@@ -330,14 +326,19 @@
       <jump line="18" column="8" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/src/components/avatar/avatar.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack-mobile/src/components/avatar/avatar.js" />
       <jump line="31" column="1" filename="$USER_HOME$/www/js/TodoAndroid/components/input/input.js" />
-      <jump line="8" column="15" filename="$USER_HOME$/www/js/TodoAndroid/components/input/input.js" />
+      <jump line="8" column="11" filename="$USER_HOME$/www/js/TodoAndroid/components/input/input.js" />
+      <jump line="13" column="2" filename="$USER_HOME$/www/js/TodoAndroid/components/input/input.js" />
+      <jump line="6" column="1" filename="$USER_HOME$/www/js/TodoAndroid/components/input/input.js" />
+      <jump line="3" column="13" filename="$USER_HOME$/www/js/TodoAndroid/components/input/input.js" />
+      <jump line="39" column="0" filename="$USER_HOME$/www/js/TodoAndroid/components/input/input.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/www/js/TodoAndroid/index.android.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0LCB7SW1hZ2UsIFByb3BUeXBlc30gZnJvbSAncmVhY3QtbmF0aXZlJzsKCg==</text>
+      <register name="&quot;" type="4">
+        <text>InputComponent</text>
       </register>
       <register name="-" type="4">
-        <text>, {Image, PropTypes}</text>
+        <text>InputComponent</text>
       </register>
       <register name="/" type="4">
         <text>camel</text>
@@ -346,31 +347,31 @@
         <text encoding="base64">aW1wb3J0IFJlYWN0LCB7SW1hZ2UsIFByb3BUeXBlc30gZnJvbSAncmVhY3QtbmF0aXZlJzsKCg==</text>
       </register>
       <register name="1" type="4">
-        <text>, {Image, PropTypes}</text>
-      </register>
-      <register name="2" type="4">
         <text>InputComponent</text>
       </register>
-      <register name="3" type="4">
-        <text>Avatar</text>
+      <register name="2" type="4">
+        <text>,Text</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIC8v5aSx5Y6754Sm54K555qE5pe25YCZLOaUueWPmGJvcmRlckNvbG9yIOminOiJsgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">QXZhdGFyLnByb3BUeXBlcyA9IHsKICB1c2VyTG9naW46IFByb3BUeXBlcy5zdHJpbmcuaXNSZXF1aXJlZAp9Owo=</text>
+      <register name="4" type="4">
+        <text>,</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>var</text>
+      </register>
+      <register name="6" type="4">
+        <text>s</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3RvcigpIHsKICAgIHN1cGVyKCk7CiAgICB0aGlzLnN0YXRlID0ge307CiAgfQoKICBjb21wb25lbnREaWRNb3VudCgpIHsKICAgIHRoaXMubG9hZEF2YXRhclVybCh0aGlzLnByb3BzLnVzZXJMb2dpbik7CiAgfQoKICBsb2FkQXZhdGFyVXJsKGF1dGhvckxvZ2luKSB7CiAgICB0aGlzLnByb3BzLmFwaS5nZXRVc2VyKGF1dGhvckxvZ2luKQogICAgICAudGhlbigodXNlcikgPT4gewogICAgICAgIHJldHVybiB0aGlzLnByb3BzLmFwaS5nZXRVc2VyRnJvbUh1Yih1c2VyLnJpbmdJZCkKICAgICAgICAgIC50aGVuKHVzZXIgPT4gdXNlci5hdmF0YXIudXJsKTsKICAgICAgfSkKICAgICAgLnRoZW4oYXZhdGFyVXJsID0+IHRoaXMuc2V0U3RhdGUoe2F2YXRhclVybH0pKQogICAgICAuY2F0Y2goKCkgPT4gewogICAgICAgIGNvbnNvbGUud2FybignQ2FudCBsb2FkIHVzZXInLCBhdXRob3JMb2dpbik7CiAgICAgIH0pOwogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmYXVsdCBleHBvcnQgY2xhc3MgSW5wdXQgZXh0ZW5kIENvbXBvbmVudHMgewogIAp9Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAoCiAgICAgIDxJbWFnZSBzdHlsZT17dGhpcy5wcm9wcy5zdHlsZX0gc291cmNlPXt7dXJpOiB0aGlzLnN0YXRlLmF2YXRhclVybH19Lz4KICAgICk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Y2xhc3Mg</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGdldEluaXRpYWxTdGF0ZSgpIHsKICAgICAgcmV0dXJuIHtib3JkZXJDb2xvcjogJyNjY2MnfQogICAgfSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
