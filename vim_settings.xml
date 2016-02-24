@@ -252,6 +252,12 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-table.html" timestamp="1456328001684">
+        <mark key="'" line="34" column="45" />
+        <mark key="[" line="34" column="74" />
+        <mark key="]" line="34" column="74" />
+        <mark key="." line="34" column="74" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/agile-resource.js" timestamp="1456316741099">
         <mark key="'" line="51" column="13" />
         <mark key="[" line="197" column="0" />
@@ -343,8 +349,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/style/agile-sort.scss" />
-      <jump line="7" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/style/agile-sort.scss" />
       <jump line="35" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/style/agile-sort.scss" />
       <jump line="78" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/dashboard/controller/dashboard.js" />
       <jump line="9" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/dashboard/controller/dashboard.js" />
@@ -443,63 +447,64 @@
       <jump line="315" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="473" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="298" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-board.js" />
+      <jump line="8" column="67" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-table.html" />
+      <jump line="34" column="45" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-table.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>±</text>
       </register>
       <register name="-" type="4">
-        <text>bakclog</text>
+        <text>±</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b2dnbGVCYWNrbG9nXD4=</text>
+        <text>backlogSortableConfig</text>
       </register>
       <register name="0" type="4">
         <text>agileBoardCtrl.isOpenBacklog</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>±</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLyoqCiAgICAgICAqIEBwYXJhbSB7T2JqZWN0fSBhZ2lsZQogICAgICAgKiBAcmV0dXJucyB7Kn0KICAgICAgICovCiAgICAgIHZhciBzZXRCYWNrbG9nID0gZnVuY3Rpb24oYWdpbGUpIHsKICAgICAgICBpZiAoYWdpbGVCb2FyZEN0cmwuaXNPcGVuQmFja2xvZykgewogICAgICAgICAgZ2V0QmFja2xvZ0lzc3VlcyhhZ2lsZS5pZCk7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gYWdpbGU7CiAgICAgIH07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgLyoqCiAgICAgICAqIEBwYXJhbSB7T2JqZWN0fSBhZ2lsZQogICAgICAgKiBAcmV0dXJucyB7Kn0KICAgICAgICovCiAgICAgIHZhciBzZXRCYWNrbG9nID0gZnVuY3Rpb24oYWdpbGUpIHsKICAgICAgICBpZiAoYWdpbGVCb2FyZEN0cmwuaXNPcGVuQmFja2xvZykgewogICAgICAgICAgZ2V0QmFja2xvZ0lzc3VlcyhhZ2lsZS5pZCk7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gYWdpbGU7CiAgICAgIH07Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBzZXRCYWNrbG9nKGFnaWxlQm9hcmRDdHJsLmFnaWxlKTsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>bakclog</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGl0KCdzaG91bGQgb3BlbicsIGZ1bmN0aW9uKCkgewogICAgfSk7Cgo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgaGVsbG8gd29ybGQK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>selectedBacklogIssues.length</text>
       </register>
-      <register name="8" type="4">
-        <text>true</text>
-      </register>
       <register name="9" type="4">
-        <text>open</text>
+        <text>true</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0b2dnbGVCYWNrbG9nXD4=</last-search>
+      <last-search>backlogSortableConfig</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b2dnbGVCYWNrbG9nXD4=</last-pattern>
+      <last-pattern>backlogSortableConfig</last-pattern>
       <last-replace>this.props.auth.config</last-replace>
       <last-substitute>appConfig</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ana</entry>
         <entry>isProd</entry>
         <entry>analy</entry>
         <entry>track</entry>
@@ -519,6 +524,7 @@
         <entry>toggle</entry>
         <entry>backlog</entry>
         <entry encoding="base64">XDx0b2dnbGVCYWNrbG9nXD4=</entry>
+        <entry>backlogSortableConfig</entry>
       </history-search>
       <history-cmd>
         <entry>%s/AppConfig/this.props.auth.config/gc</entry>
