@@ -75,7 +75,7 @@
       <option name="TypeScript" value="false" />
     </context>
   </template>
-  <template name="ex;" value="expect($PARAM$).toEqual($END$);" description="insert expect expression" toReformat="true" toShortenFQNames="true">
+  <template name="!ee" value="expect($PARAM$).toEqual($END$);" description="insert expect expression" toReformat="true" toShortenFQNames="true">
     <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
@@ -85,8 +85,27 @@
       <option name="TypeScript" value="false" />
     </context>
   </template>
-  <template name="ed;" value="expect($PARAM$).toBeDefined($END$);" description="insert expect expression" toReformat="true" toShortenFQNames="true">
+  <template name="!ed" value="expect($PARAM$).toBeDefined($END$);" description="insert expect expression" toReformat="true" toShortenFQNames="true">
     <variable name="PARAM" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JSX_HTML" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+      <option name="TypeScript" value="false" />
+    </context>
+  </template>
+  <template name="des" value="describe('$TEXT$', function() {&#10;    $END$&#10;});" description="insert describe expression" toReformat="true" toShortenFQNames="true">
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JSX_HTML" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+      <option name="TypeScript" value="false" />
+    </context>
+  </template>
+  <template name="be" value="beforeEach($END$);" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="JS_EXPRESSION" value="true" />
