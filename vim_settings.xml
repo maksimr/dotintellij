@@ -92,6 +92,9 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="11" column="4" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects.js" timestamp="1456302810372">
+        <mark key="'" line="52" column="19" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/issue-resource.js" timestamp="1455881343800">
         <mark key="'" line="234" column="0" />
         <mark key="[" line="213" column="0" />
@@ -105,11 +108,14 @@
         <mark key="^" line="57" column="37" />
         <mark key="." line="57" column="37" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/projects.js" timestamp="1456302791782">
+        <mark key="'" line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/www/js/TestAndroid/.eslintrc" timestamp="1455833455957">
         <mark key="'" line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/www/js/karma-jasmine/src/adapter.js" timestamp="1456268225718">
-        <mark key="'" line="332" column="0" />
+      <file name="$USER_HOME$/www/js/karma-jasmine/src/adapter.js" timestamp="1456302691595">
+        <mark key="'" line="364" column="0" />
         <mark key="[" line="341" column="17" />
         <mark key="]" line="341" column="17" />
         <mark key="." line="341" column="17" />
@@ -254,10 +260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="0" filename="$USER_HOME$/www/js/TodoAndroid/index.android.js" />
-      <jump line="7" column="0" filename="$USER_HOME$/www/js/TodoAndroid/index.android.js" />
-      <jump line="13" column="0" filename="$USER_HOME$/www/js/TodoAndroid/index.android.js" />
-      <jump line="30" column="0" filename="$USER_HOME$/www/js/TodoAndroid/index.android.js" />
       <jump line="44" column="0" filename="$USER_HOME$/www/js/TodoAndroid/index.android.js" />
       <jump line="38" column="15" filename="$USER_HOME$/www/js/TodoAndroid/index.android.js" />
       <jump line="27" column="11" filename="$USER_HOME$/www/js/TodoAndroid/index.android.js" />
@@ -354,6 +356,10 @@
       <jump line="339" column="3" filename="$USER_HOME$/www/js/karma-jasmine/src/adapter.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/js/karma-jasmine/src/adapter.js" />
       <jump line="332" column="0" filename="$USER_HOME$/www/js/karma-jasmine/src/adapter.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/www/js/karma-jasmine/src/adapter.js" />
+      <jump line="364" column="0" filename="$USER_HOME$/www/js/karma-jasmine/src/adapter.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/projects.js" />
+      <jump line="52" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -363,7 +369,7 @@
         <text>}</text>
       </register>
       <register name="/" type="4">
-        <text>indexOf</text>
+        <text>projects</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Cg==</text>
@@ -400,9 +406,9 @@
       </register>
     </registers>
     <search>
-      <last-search>indexOf</last-search>
+      <last-search>projects</last-search>
       <last-offset />
-      <last-pattern>indexOf</last-pattern>
+      <last-pattern>projects</last-pattern>
       <last-replace>this.props.auth.config</last-replace>
       <last-substitute>appConfig</last-substitute>
       <last-dir>1</last-dir>
@@ -410,7 +416,6 @@
     </search>
     <history>
       <history-search>
-        <entry>api</entry>
         <entry>hubUrl</entry>
         <entry>AppConfig</entry>
         <entry>appConfig</entry>
@@ -430,6 +435,7 @@
         <entry>filter</entry>
         <entry>reduce</entry>
         <entry>indexOf</entry>
+        <entry>projects</entry>
       </history-search>
       <history-cmd>
         <entry>%s/AppConfig/this.props.auth.config/gc</entry>
