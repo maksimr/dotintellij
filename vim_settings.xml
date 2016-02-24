@@ -98,8 +98,8 @@
         <mark key="^" line="15" column="24" />
         <mark key="." line="15" column="24" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-backlog-issue.js" timestamp="1456316460711">
-        <mark key="'" line="14" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-backlog-issue.js" timestamp="1456318643650">
+        <mark key="'" line="71" column="16" />
         <mark key="[" line="14" column="132" />
         <mark key="]" line="14" column="147" />
         <mark key="." line="14" column="147" />
@@ -328,7 +328,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="332" column="0" filename="$USER_HOME$/www/js/karma-jasmine/src/adapter.js" />
       <jump line="5" column="0" filename="$USER_HOME$/www/js/karma-jasmine/src/adapter.js" />
       <jump line="364" column="0" filename="$USER_HOME$/www/js/karma-jasmine/src/adapter.js" />
       <jump line="9" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/projects.js" />
@@ -363,7 +362,6 @@
       <jump line="193" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-card.js" />
       <jump line="19" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-swimlane-column.js" />
       <jump line="204" column="41" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-backlog-issue.js" />
-      <jump line="211" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-backlog-issue.js" />
       <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/get-board-swimlane-sortable-config.js" />
       <jump line="25" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/style/agile-sort.scss" />
       <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/style/agile-sort.scss" />
@@ -428,6 +426,8 @@
       <jump line="68" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/get-board-issues-sortable-config.js" />
       <jump line="7" column="74" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/get-board-issues-sortable-config.js" />
       <jump line="6" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/get-board-issues-sortable-config.js" />
+      <jump line="211" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-backlog-issue.js" />
+      <jump line="71" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-backlog-issue.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -437,7 +437,7 @@
         <text>analytics</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aW1lb3V0XD4=</text>
+        <text encoding="base64">XDxtb3ZlU3ViVGFza1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICdhbmFseXRpY3MnLAo=</text>
@@ -474,9 +474,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0aW1lb3V0XD4=</last-search>
+      <last-search encoding="base64">XDxtb3ZlU3ViVGFza1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aW1lb3V0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxtb3ZlU3ViVGFza1w+</last-pattern>
       <last-replace>this.props.auth.config</last-replace>
       <last-substitute>appConfig</last-substitute>
       <last-dir>-1</last-dir>
@@ -484,7 +484,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onStart</entry>
         <entry>start</entry>
         <entry>create</entry>
         <entry>config</entry>
@@ -504,6 +503,7 @@
         <entry>issue</entry>
         <entry>data</entry>
         <entry encoding="base64">XDx0aW1lb3V0XD4=</entry>
+        <entry encoding="base64">XDxtb3ZlU3ViVGFza1w+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/AppConfig/this.props.auth.config/gc</entry>
