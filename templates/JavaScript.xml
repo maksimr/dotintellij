@@ -65,7 +65,8 @@
       <option name="TypeScript" value="false" />
     </context>
   </template>
-  <template name="it" value="it('should ', function() {&#10;});" description="insert it expression" toReformat="true" toShortenFQNames="true">
+  <template name="it" value="it('should $TEXT$', function() {&#10;    $END$&#10;});" description="insert it expression" toReformat="true" toShortenFQNames="true">
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="JS_EXPRESSION" value="true" />
