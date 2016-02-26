@@ -29,7 +29,7 @@
       <option name="TypeScript" value="false" />
     </context>
   </template>
-  <template name="cl" value="console.log($END$)" description="insert console log" toReformat="true" toShortenFQNames="true">
+  <template name="cl" value="console.log($END$);" description="insert console log" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="JS_EXPRESSION" value="true" />
