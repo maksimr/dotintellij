@@ -1,7 +1,15 @@
 <keymap version="1" name="maksimrv.osx" parent="Default for XWin">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+    <keyboard-shortcut first-keystroke="shift alt back_space" />
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="shift alt f10" />
     <keyboard-shortcut first-keystroke="alt comma" second-keystroke="r" />
+  </action>
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
   <action id="EditorSplitLine" />
   <action id="FindUsages">
@@ -18,6 +26,7 @@
   <action id="NewElementSamePlace">
     <keyboard-shortcut first-keystroke="shift alt 5" />
   </action>
+  <action id="Replace" />
   <action id="ShowErrorDescription">
     <keyboard-shortcut first-keystroke="ctrl f1" />
     <keyboard-shortcut first-keystroke="alt comma" second-keystroke="comma" />
