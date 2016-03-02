@@ -49,6 +49,37 @@
           <node name="method" />
         </scheme>
       </context>
+      <context name="groovy_class" default="Standard">
+        <scheme name="Standard">
+          <node name="groups" />
+          <node name="class" />
+          <node name="constructor" />
+          <node name="method" />
+          <node name="field" />
+        </scheme>
+        <scheme name="Private at The End">
+          <node name="groups" />
+          <node name="class" />
+          <node name="field" />
+          <node name="constructor" />
+          <node name="method" />
+          <node name="class_private" />
+          <node name="field_private" />
+          <node name="constructor_private" />
+          <node name="method_private" />
+        </scheme>
+        <scheme name="Public at The Beginning">
+          <node name="groups" />
+          <node name="class_public" />
+          <node name="field_public" />
+          <node name="constructor_public" />
+          <node name="method_public" />
+          <node name="class" />
+          <node name="field" />
+          <node name="constructor" />
+          <node name="method" />
+        </scheme>
+      </context>
     </sortingScheme>
     <licenses>
       <license>Ms29bIGVlAJ/0+T123XnzympSJDYSK8X6tRyIc/cLEKJJGeOqPyZb9gKbV1vIAzuqHD8gXLEJb7M
