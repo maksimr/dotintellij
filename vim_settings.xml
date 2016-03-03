@@ -109,6 +109,9 @@
         <mark key="." line="143" column="38" />
         <mark key="^" line="143" column="38" />
       </file>
+      <file name="$USER_HOME$/www/js/TestAndroid/node_modules/react-native/packager/react-packager/src/JSTransformer/worker.js" timestamp="1457017138703">
+        <mark key="'" line="76" column="0" />
+      </file>
       <file name="$USER_HOME$/www/js/TestAndroid/android/app/src/main/res/values/styles.xml" timestamp="1456938395208">
         <mark key="'" line="8" column="0" />
       </file>
@@ -185,6 +188,9 @@
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/style/agile-board.scss" timestamp="1456304860062">
         <mark key="'" line="18" column="7" />
+      </file>
+      <file name="$USER_HOME$/www/js/TestAndroid/node_modules/react-native/local-cli/server/runServer.js" timestamp="1457017322657">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/js/TestAndroid/node_modules/babel-eslint/index.js" timestamp="1455833397566">
         <mark key="'" line="210" column="6" />
@@ -389,11 +395,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="0" filename="$USER_HOME$/www/js/TestAndroid/node_modules/react-native/local-cli/cli.js" />
-      <jump line="64" column="31" filename="$USER_HOME$/www/js/TestAndroid/node_modules/react-native/local-cli/cli.js" />
-      <jump line="47" column="0" filename="$USER_HOME$/www/js/TestAndroid/node_modules/react-native/local-cli/default.config.js" />
-      <jump line="84" column="7" filename="$USER_HOME$/www/js/TestAndroid/node_modules/react-native/local-cli/cli.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/www/js/TestAndroid/node_modules/react-native/local-cli/cli.js" />
       <jump line="22" column="9" filename="$USER_HOME$/www/js/TestAndroid/node_modules/react-native/local-cli/server/server.js" />
       <jump line="8" column="3" filename="$USER_HOME$/www/js/TestAndroid/package.json" />
       <jump line="28" column="0" filename="$USER_HOME$/www/js/TestAndroid/package.json" />
@@ -489,6 +490,11 @@
       <jump line="91" column="13" filename="$USER_HOME$/www/js/TestAndroid/node_modules/react-native/packager/react-packager/src/JSTransformer/index.js" />
       <jump line="78" column="11" filename="$USER_HOME$/www/js/TestAndroid/node_modules/react-native/packager/react-packager/src/JSTransformer/index.js" />
       <jump line="16" column="0" filename="$USER_HOME$/www/js/TestAndroid/node_modules/react-native/packager/react-packager/src/JSTransformer/worker.js" />
+      <jump line="29" column="2" filename="$USER_HOME$/www/js/TestAndroid/node_modules/react-native/packager/react-packager/src/JSTransformer/worker.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/js/TestAndroid/node_modules/react-native/packager/react-packager/src/JSTransformer/worker.js" />
+      <jump line="76" column="0" filename="$USER_HOME$/www/js/TestAndroid/node_modules/react-native/packager/react-packager/src/JSTransformer/worker.js" />
+      <jump line="83" column="15" filename="$USER_HOME$/www/js/TestAndroid/node_modules/react-native/local-cli/server/runServer.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/js/TestAndroid/node_modules/react-native/local-cli/server/runServer.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -498,7 +504,7 @@
         <text>!</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfdHJhbnNmb3JtXD4=</text>
+        <text>system</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUgImNvbS5hbmRyb2lkLnN1cHBvcnQ6YXBwY29tcGF0LXY3OjIzLjAuMSIKICAgIGNvbXBpbGUgImNvbS5mYWNlYm9vay5yZWFjdDpyZWFjdC1uYXRpdmU6MC4xOC4rIgo=</text>
@@ -535,17 +541,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfdHJhbnNmb3JtXD4=</last-search>
+      <last-search>system</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfdHJhbnNmb3JtXD4=</last-pattern>
+      <last-pattern>system</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>dom</entry>
         <entry encoding="base64">XDxkb200XD4=</entry>
         <entry>document</entry>
         <entry>template</entry>
@@ -565,6 +570,7 @@
         <entry>promise</entry>
         <entry>p</entry>
         <entry encoding="base64">XDxfdHJhbnNmb3JtXD4=</entry>
+        <entry>system</entry>
       </history-search>
       <history-cmd>
         <entry>%s/AppConfig/this.props.auth.config/gc</entry>
