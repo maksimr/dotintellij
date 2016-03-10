@@ -180,8 +180,11 @@
       <file name="$USER_HOME$/www/js/TestAndroid/node_modules/react-native-cli/index.js" timestamp="1457004679997">
         <mark key="'" line="72" column="6" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/backlog-issues-model.js" timestamp="1457608651522">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/backlog-issues-model.js" timestamp="1457610537190">
         <mark key="'" line="52" column="0" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/backlog-swimlanes-sortable-config.js" timestamp="1457596913188">
         <mark key="'" line="67" column="2" />
@@ -373,21 +376,16 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-card.js" timestamp="1456306283249">
         <mark key="'" line="193" column="2" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-board.js" timestamp="1457609821489">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-board.js" timestamp="1457610480147">
         <mark key="a" line="394" column="5" />
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="394" column="0" />
-        <mark key="]" line="394" column="0" />
-        <mark key="^" line="393" column="68" />
-        <mark key="." line="394" column="0" />
+        <mark key="'" line="443" column="4" />
+        <mark key="[" line="426" column="115" />
+        <mark key="]" line="426" column="113" />
+        <mark key="^" line="426" column="113" />
+        <mark key="." line="426" column="113" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="388" column="82" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/main-core.scss" />
-      <jump line="127" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-sort.js" />
-      <jump line="52" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/get-board-swimlane-sortable-config.js" />
-      <jump line="187" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-table.html" />
       <jump line="22" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/get-board-swimlane-sortable-config.js" />
       <jump line="22" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-table.html" />
       <jump line="31" column="121" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-table.html" />
@@ -483,58 +481,63 @@
       <jump line="415" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-board.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-board.js" />
       <jump line="35" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-board.js" />
+      <jump line="389" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-board.js" />
+      <jump line="446" column="1" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-board.js" />
+      <jump line="452" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-board.js" />
+      <jump line="426" column="48" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-board.js" />
+      <jump line="443" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-board.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCc+Pj4+Jyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>' + issuePath + '</text>
+        <text>andReturn(</text>
       </register>
       <register name="/" type="4">
-        <text>order</text>
+        <text>return</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICRodHRwQmFja2VuZC5leHBlY3RHRVQodG9SZWdFeHAocmVzdEJhc2VVcmwgKyAnLycgKyBhZ2lsZUlkICsgJy9iYWNrbG9nL2lzc3VlcycgKyBpc3N1ZVBhdGggKyAnXFw/ZmllbGRzPScpKQogICAgICAucmVzcG9uZChzZXJ2ZXJSZXNwb25zZSk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCc+Pj4+Jyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgJy9hcGkvYWdpbGUvMS9iYWNrbG9nL3NvcnRPcmRlcicK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nCg==</text>
       </register>
       <register name="3" type="4">
-        <text>' + issuePath + '</text>
+        <text>andReturn(</text>
       </register>
       <register name="4" type="4">
-        <text>issues</text>
+        <text>andReturnValue</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgJy9hcGkvYWdpbGUvMS9iYWNrbG9nL3NvcnRPcmRlcicK</text>
+      <register name="5" type="4">
+        <text>[404]</text>
       </register>
       <register name="6" type="4">
-        <text>GET</text>
+        <text>{});</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc2V0QmFja2xvZ0lzc3Vlc09yZGVyRXhwZWN0YXRpb24oYWdpbGVCb2FyZEN0cmwuYWdpbGUuaWQsIHsKICAgICAgICBsZWFkaW5nOiBsZWFkaW5nSXNzdWVNb2NrLAogICAgICAgIG1vdmVkOiB7CiAgICAgICAgICBpZDogaXNzdWVNb2NrLmlkCiAgICAgICAgfQogICAgICB9LCB7fSk7Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>Expectation</text>
+        <text>false</text>
       </register>
       <register name="9" type="4">
-        <text>body</text>
+        <text>in backlog</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>order</last-search>
+      <last-search>return</last-search>
       <last-offset />
-      <last-pattern>order</last-pattern>
+      <last-pattern>return</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -542,7 +545,6 @@
     </search>
     <history>
       <history-search>
-        <entry>handle</entry>
         <entry>htt</entry>
         <entry encoding="base64">XDxnZXRMZWFkaW5nRWxlbWVudERhdGFJZFw+</entry>
         <entry encoding="base64">XDxnZXRDZWxsRGF0YUlkQXR0clw+</entry>
@@ -562,6 +564,7 @@
         <entry encoding="base64">XDxzZXRCYWNrbG9nSXNzdWVzRXhwZWN0YXRpb25cPg==</entry>
         <entry>leading</entry>
         <entry>order</entry>
+        <entry>return</entry>
       </history-search>
       <history-cmd>
         <entry>%s/AppConfig/this.props.auth.config/gc</entry>
