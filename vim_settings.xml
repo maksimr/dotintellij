@@ -227,11 +227,12 @@
       <file name="$USER_HOME$/www/js/TestAndroid/android/app/src/main/AndroidManifest.xml" timestamp="1456940866195">
         <mark key="'" line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1457602008820">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1457602213374">
         <mark key="'" line="395" column="21" />
-        <mark key="[" line="572" column="0" />
-        <mark key="]" line="572" column="0" />
-        <mark key="." line="572" column="0" />
+        <mark key="[" line="561" column="37" />
+        <mark key="]" line="561" column="46" />
+        <mark key="." line="561" column="46" />
+        <mark key="^" line="561" column="46" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects.js" timestamp="1456304185832">
         <mark key="'" line="156" column="2" />
@@ -375,9 +376,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-card.js" timestamp="1456306283249">
         <mark key="'" line="193" column="2" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-board.js" timestamp="1457602132683">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-board.js" timestamp="1457602246041">
         <mark key="'" line="15" column="0" />
-        <mark key="[" line="386" column="51" />
+        <mark key="[" line="391" column="49" />
+        <mark key="]" line="391" column="66" />
+        <mark key="^" line="391" column="66" />
+        <mark key="." line="391" column="66" />
       </file>
     </filemarks>
     <jumps>
@@ -483,11 +487,11 @@
       <jump line="15" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-board.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>movedIssueMock</text>
       </register>
       <register name="-" type="4">
-        <text>addWithFreeCards</text>
+        <text>movedIssueMock</text>
       </register>
       <register name="/" type="4">
         <text>onDrag</text>
@@ -495,35 +499,35 @@
       <register name="0" type="4">
         <text encoding="base64">IHl0LW1vdmUtY3Vyc29yIGpzLXN3aW1sYW5lLWhhbmRsZQ==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>movedIssueMock</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="2" type="4">
+        <text>draggedEntity</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4+PicpOwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>addWithFreeCards</text>
       </register>
-      <register name="5" type="4">
-        <text>.sourceModel</text>
-      </register>
-      <register name="6" type="4">
-        <text>.sourceModel</text>
-      </register>
-      <register name="7" type="4">
-        <text>.droptargetModel</text>
-      </register>
       <register name="8" type="4">
-        <text>.droptargetModel,</text>
+        <text>.sourceModel</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="9" type="4">
+        <text>.sourceModel</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
