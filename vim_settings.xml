@@ -227,12 +227,12 @@
       <file name="$USER_HOME$/www/js/TestAndroid/android/app/src/main/AndroidManifest.xml" timestamp="1456940866195">
         <mark key="'" line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1457599362201">
-        <mark key="'" line="438" column="79" />
-        <mark key="[" line="498" column="26" />
-        <mark key="]" line="498" column="26" />
-        <mark key="." line="498" column="26" />
-        <mark key="^" line="498" column="26" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1457600554093">
+        <mark key="'" line="503" column="0" />
+        <mark key="[" line="408" column="12" />
+        <mark key="]" line="408" column="21" />
+        <mark key="." line="408" column="21" />
+        <mark key="^" line="408" column="21" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects.js" timestamp="1456304185832">
         <mark key="'" line="156" column="2" />
@@ -381,7 +381,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/get-row-issue-amout.js" />
       <jump line="266" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="628" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="274" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
@@ -481,22 +480,23 @@
       <jump line="27" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-swimlane-column.js" />
       <jump line="78" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-swimlane-column.js" />
       <jump line="39" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-swimlane-column.js" />
+      <jump line="503" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.sourceModel</text>
+        <text>addWithFreeCards</text>
       </register>
       <register name="-" type="4">
-        <text>.sourceModel</text>
+        <text>addWithFreeCards</text>
       </register>
       <register name="/" type="4">
-        <text>droptarget</text>
+        <text>addWith</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IHl0LW1vdmUtY3Vyc29yIGpzLXN3aW1sYW5lLWhhbmRsZQ==</text>
       </register>
       <register name="1" type="4">
-        <text>.sourceModel</text>
+        <text>addWithFreeCards</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -505,34 +505,34 @@
         <text>.sourceModel</text>
       </register>
       <register name="3" type="4">
-        <text>.droptargetModel</text>
+        <text>.sourceModel</text>
       </register>
       <register name="4" type="4">
+        <text>.droptargetModel</text>
+      </register>
+      <register name="5" type="4">
         <text>.droptargetModel,</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgIGZ1bmMK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhzb3J0YWJsZS5zb3VyY2VNb2RlbCwpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">CiAgICAgIC8qKgogICAgICAgKiBAcGFyYW0ge05vZGV8alF1ZXJ5fSBlbGVtZW50CiAgICAgICAqIEBwYXJhbSB7U3RyaW5nfSBbZGF0YUF0dHJOYW1lXQogICAgICAgKiBAcmV0dXJucyB7U3RyaW5nfQogICAgICAgKi8KICAgICAgdmFyIGdldEVsZW1lbnREYXRhSWRBdHRyID0gZnVuY3Rpb24oZWxlbWVudCwgZGF0YUF0dHJOYW1lKSB7CiAgICAgICAgcmV0dXJuIGFuZ3VsYXIuZWxlbWVudChlbGVtZW50KS5kYXRhKGRhdGFBdHRyTmFtZSB8fCAnaXNzdWUtaWQnKTsKICAgICAgfTsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRFbGVtZW50RGF0YUlkQXR0cjogZ2V0RWxlbWVudERhdGFJZEF0dHIsCg==</text>
+        <text encoding="base64">CiAgICAgIC8qKgogICAgICAgKiBAcGFyYW0ge05vZGV8alF1ZXJ5fSBlbGVtZW50CiAgICAgICAqIEBwYXJhbSB7U3RyaW5nfSBbZGF0YUF0dHJOYW1lXQogICAgICAgKiBAcmV0dXJucyB7U3RyaW5nfQogICAgICAgKi8KICAgICAgdmFyIGdldEVsZW1lbnREYXRhSWRBdHRyID0gZnVuY3Rpb24oZWxlbWVudCwgZGF0YUF0dHJOYW1lKSB7CiAgICAgICAgcmV0dXJuIGFuZ3VsYXIuZWxlbWVudChlbGVtZW50KS5kYXRhKGRhdGFBdHRyTmFtZSB8fCAnaXNzdWUtaWQnKTsKICAgICAgfTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>droptarget</last-search>
+      <last-search>addWith</last-search>
       <last-offset />
-      <last-pattern>droptarget</last-pattern>
+      <last-pattern>addWith</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -540,7 +540,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getRow</entry>
         <entry encoding="base64">XDw7XD4=</entry>
         <entry encoding="base64">XDxnZXRSb3dJc3N1ZXNBbW91bnRcPg==</entry>
         <entry>count</entry>
@@ -560,6 +559,7 @@
         <entry>onUpdate</entry>
         <entry encoding="base64">XDxvblVwZGF0ZVw+</entry>
         <entry>droptarget</entry>
+        <entry>addWith</entry>
       </history-search>
       <history-cmd>
         <entry>%s/AppConfig/this.props.auth.config/gc</entry>
