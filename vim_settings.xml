@@ -32,6 +32,9 @@
         <mark key="]" line="31" column="25" />
         <mark key="." line="31" column="25" />
       </file>
+      <file name="$USER_HOME$/www/js/karma-jasmine/src/adapter.js" timestamp="1457983051353">
+        <mark key="'" line="363" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/test/directive/yt-icon.js" timestamp="1457946561973">
         <mark key="'" line="50" column="20" />
         <mark key="[" line="50" column="31" />
@@ -274,6 +277,9 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" timestamp="1457951753265">
         <mark key="'" line="56" column="0" />
       </file>
+      <file name="$USER_HOME$/www/js/karma-jasmine/package.json" timestamp="1457983012997">
+        <mark key="'" line="59" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/build.gradle" timestamp="1457003035689">
         <mark key="'" line="102" column="0" />
       </file>
@@ -450,11 +456,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="33" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
-      <jump line="383" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
-      <jump line="422" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
-      <jump line="399" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
-      <jump line="30" column="33" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="511" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="12" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/agile-board.js" />
       <jump line="137" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/agile-board.js" />
@@ -550,6 +551,11 @@
       <jump line="1997" column="0" filename="$USER_HOME$/www/js/karma-jasmine/node_modules/jasmine-core/lib/jasmine-core/jasmine.js" />
       <jump line="5" column="0" filename="$USER_HOME$/www/js/karma-jasmine/node_modules/jasmine-core/lib/jasmine-core/jasmine.js" />
       <jump line="3297" column="0" filename="$USER_HOME$/www/js/karma-jasmine/node_modules/jasmine-core/lib/jasmine-core/jasmine.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/www/js/karma-jasmine/package.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/js/karma-jasmine/package.json" />
+      <jump line="59" column="0" filename="$USER_HOME$/www/js/karma-jasmine/package.json" />
+      <jump line="21" column="0" filename="$USER_HOME$/www/js/karma-jasmine/src/adapter.js" />
+      <jump line="363" column="0" filename="$USER_HOME$/www/js/karma-jasmine/src/adapter.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -559,7 +565,7 @@
         <text>charAt</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmYWlsZWRFeHBlY3RhdGlvbnNcPg==</text>
+        <text>lodash</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cmVxdWlyZSgnLi9kaXJlY3RpdmUveXQtZmxvYXQnKTsK</text>
@@ -599,17 +605,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmYWlsZWRFeHBlY3RhdGlvbnNcPg==</last-search>
+      <last-search>lodash</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmYWlsZWRFeHBlY3RhdGlvbnNcPg==</last-pattern>
+      <last-pattern>lodash</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxEUkFHR0lOR19FTEVNRU5UX1NFTEVDVE9SXD4=</entry>
         <entry>sort</entry>
         <entry encoding="base64">XDxhZ2lsZUJvYXJkU29ydENvbmZpZ1w+</entry>
         <entry>mar</entry>
@@ -629,6 +634,7 @@
         <entry>button</entry>
         <entry>failedExpectations</entry>
         <entry encoding="base64">XDxmYWlsZWRFeHBlY3RhdGlvbnNcPg==</entry>
+        <entry>lodash</entry>
       </history-search>
       <history-cmd>
         <entry>%s/AppConfig/this.props.auth.config/gc</entry>
