@@ -71,10 +71,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" timestamp="1457090517236">
         <mark key="'" line="15521" column="67" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" timestamp="1457906406850">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="14" column="40" />
-        <mark key="." line="11" column="56" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" timestamp="1457907004957">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="7" column="21" />
+        <mark key="]" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+        <mark key="^" line="7" column="20" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/get-row-issue-amout.js" timestamp="1457521009214">
         <mark key="'" line="17" column="4" />
@@ -272,6 +274,9 @@
       <file name="$USER_HOME$/www/js/TestAndroid/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.21.0/jars/classes.jar!/com/facebook/react/uimanager/UIViewOperationQueue.class" timestamp="1457015054314">
         <mark key="'" line="478" column="125" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/icon.js" timestamp="1457907038642">
+        <mark key="'" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/www/js/karma-jasmine/Gruntfile.coffee" timestamp="1456268055109">
         <mark key="'" line="0" column="0" />
       </file>
@@ -376,7 +381,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/backlog-swimlanes-sortable-config.js" />
       <jump line="41" column="33" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/backlog-swimlanes-sortable-config.js" />
       <jump line="32" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/backlog-swimlanes-sortable-config.js" />
       <jump line="35" column="61" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/backlog-swimlanes-sortable-config.js" />
@@ -476,49 +480,50 @@
       <jump line="15" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" />
       <jump line="14" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" />
       <jump line="22" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/icon.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>components/</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>components/</text>
       </register>
       <register name="/" type="4">
         <text>mout</text>
       </register>
-      <register name="0" type="4">
-        <text>app/**/test/e2e/**/*.js</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAge3BhdHRlcm46ICdhcHAvY29tcG9uZW50cy9pY29uL3Rlc3QvKiovKi5qcycsIGxvYWQ6IGZhbHNlfSwK</text>
       </register>
       <register name="1" type="4">
-        <text>,</text>
+        <text>components/</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaWdub3JlKCdhcHAvKiovdGVzdC9lMmUvKiovKi5qcycpCg==</text>
+      <register name="2" type="4">
+        <text>icon</text>
       </register>
       <register name="3" type="4">
-        <text>false</text>
+        <text>,</text>
       </register>
       <register name="4" type="4">
-        <text>load</text>
+        <text>false</text>
       </register>
       <register name="5" type="4">
-        <text>app/components/icon/test/**/*.js</text>
+        <text>,</text>
       </register>
-      <register name="6" type="4">
-        <text>Spec</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgaWdub3JlKCdhcHAvKiovdGVzdC9lMmUvKiovKi5qcycpCg==</text>
       </register>
       <register name="7" type="4">
-        <text>**/*.</text>
+        <text>false</text>
       </register>
       <register name="8" type="4">
-        <text>src</text>
+        <text>load</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAge3BhdHRlcm46ICdsaWIvanF1ZXJ5LmpzJywgaW5zdHJ1bWVudDogZmFsc2V9LAo=</text>
+      <register name="9" type="4">
+        <text>app/components/icon/test/**/*.js</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
