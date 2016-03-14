@@ -61,8 +61,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/vcs.html" timestamp="1457091450418">
         <mark key="'" line="28" column="37" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack.config.js" timestamp="1457906018172">
-        <mark key="'" line="3" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack.config.js" timestamp="1457944340752">
+        <mark key="'" line="74" column="6" />
       </file>
       <file name="/usr/local/opt/android-sdk/platforms/android-23/android.jar!/android/os/BaseBundle.class" timestamp="1457264379166">
         <mark key="'" line="127" column="0" />
@@ -225,11 +225,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" timestamp="1457090517236">
         <mark key="'" line="15521" column="67" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" timestamp="1457944235282">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" timestamp="1457944269989">
         <mark key="'" line="37" column="5" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+        <mark key="[" line="20" column="31" />
+        <mark key="]" line="20" column="42" />
+        <mark key="." line="20" column="42" />
+        <mark key="^" line="20" column="42" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/build.gradle" timestamp="1457003035689">
         <mark key="'" line="102" column="0" />
@@ -399,11 +400,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-swimlane-column.js" />
-      <jump line="91" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-swimlane-column.js" />
-      <jump line="70" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-swimlane-column.js" />
-      <jump line="99" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-swimlane-column.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-swimlane-column.js" />
       <jump line="27" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-swimlane-column.js" />
       <jump line="103" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-swimlane-column.js" />
       <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-swimlane-column.js" />
@@ -499,6 +495,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" />
       <jump line="45" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" />
       <jump line="37" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" />
+      <jump line="12" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack.config.js" />
+      <jump line="75" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack.config.js" />
+      <jump line="71" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack.config.js" />
+      <jump line="242" column="72" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack.config.js" />
+      <jump line="74" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack.config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -508,7 +509,7 @@
         <text>global</text>
       </register>
       <register name="/" type="4">
-        <text>angular</text>
+        <text encoding="base64">XDx2ZW5kb3JcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAge3BhdHRlcm46ICdhcHAvKiovdGVzdC8qKi8qLmpzJywgaWdub3JlOiB0cnVlfQo=</text>
@@ -548,18 +549,16 @@
       </register>
     </registers>
     <search>
-      <last-search>angular</last-search>
+      <last-search encoding="base64">XDx2ZW5kb3JcPg==</last-search>
       <last-offset />
-      <last-pattern>angular</last-pattern>
+      <last-pattern encoding="base64">XDx2ZW5kb3JcPg==</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>issues</entry>
-        <entry encoding="base64">XDxpc1N3aW1sYW5lXD4=</entry>
         <entry>update</entry>
         <entry>onUpdate</entry>
         <entry>$q</entry>
@@ -578,6 +577,8 @@
         <entry encoding="base64">XDx3YWxsYWJ5UG9zdHByb2Nlc3Nvclw+</entry>
         <entry>react</entry>
         <entry>angular</entry>
+        <entry>vendor</entry>
+        <entry encoding="base64">XDx2ZW5kb3JcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/AppConfig/this.props.auth.config/gc</entry>
