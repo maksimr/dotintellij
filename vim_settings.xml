@@ -138,12 +138,12 @@
       <file name="$USER_HOME$/www/js/TestAndroid/android/app/src/main/AndroidManifest.xml" timestamp="1456940866195">
         <mark key="'" line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1458046229162">
-        <mark key="'" line="74" column="0" />
-        <mark key="[" line="750" column="0" />
-        <mark key="]" line="750" column="0" />
-        <mark key="^" line="756" column="83" />
-        <mark key="." line="750" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1458046709233">
+        <mark key="'" line="62" column="15" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="^" line="72" column="31" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-table-row-title.html" timestamp="1457539513867">
         <mark key="'" line="22" column="23" />
@@ -478,18 +478,15 @@
         <mark key="^" line="29" column="1" />
         <mark key="." line="29" column="1" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-board.js" timestamp="1458046278147">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-board.js" timestamp="1458046893619">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="543" column="3" />
-        <mark key="]" line="543" column="1" />
-        <mark key="^" line="543" column="1" />
-        <mark key="." line="543" column="1" />
+        <mark key="[" line="554" column="62" />
+        <mark key="]" line="554" column="62" />
+        <mark key="^" line="554" column="62" />
+        <mark key="." line="554" column="62" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1573" column="75" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/sinon/pkg/sinon-1.12.1.js" />
-      <jump line="1579" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/sinon/pkg/sinon-1.12.1.js" />
-      <jump line="215" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/jasmine-sinon/lib/jasmine-sinon.js" />
       <jump line="221" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/jasmine-sinon/lib/jasmine-sinon.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/test/test-bundle.webpack.js" />
       <jump line="15" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/test/test-bundle.webpack.js" />
@@ -587,46 +584,49 @@
       <jump line="742" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="819" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="74" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="770" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="62" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhciBkYXRlRmlsdGVyID0gJGZpbHRlcignZGF0ZScpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>monthes</text>
       </register>
       <register name="-" type="4">
-        <text>finishDate</text>
+        <text>monthes</text>
       </register>
       <register name="/" type="4">
-        <text>start</text>
+        <text>date</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGl0KCdzaG91bGQgcHJpbnQgb25seSBtb250aCBhbmQgZGF5JywgZnVuY3Rpb24oKSB7CiAgICAgIHZhciBkYXRlTW9jayA9IG5ldyBEYXRlKCcxMiBKYW4gMjAxNScpOwogICAgICB2YXIgZGF0ZU5vdyA9IG5ldyBEYXRlKCcxMiBGZWIgMjAxNScpOwoKICAgICAgZXhwZWN0KGFnaWxlQm9hcmRDdHJsLmdldEZvcm1hdHRlZERhdGUoZGF0ZU1vY2ssIGRhdGVOb3cpKQogICAgICAgIC50b0VxdWFsKCcxMiBKYW4nKTsKICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgdmFyIGRhdGVOb3cgPSBuZXcgRGF0ZSgnMTIgRmViIDIwMTUnKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhciBkYXRlRmlsdGVyID0gJGZpbHRlcignZGF0ZScpOwo=</text>
+      <register name="1" type="4">
+        <text>monthes</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>finishDate</text>
+        <text>dateMock</text>
       </register>
       <register name="3" type="4">
-        <text>startDate</text>
+        <text>dateMock</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB2YXIgZmluaXNoRGF0ZSA9IGRhdGVGaWx0ZXIoc3ByaW50LmZpbmlzaCwgJ2QgTU1NJyk7Cg==</text>
+      <register name="4" type="4">
+        <text>dateNow</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>month and day</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>diffirent</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB2YXIgY3VycmVudERhdGUgPSBEYXRlLm5vdygpOwogICAgICAgICAgICAgIHZhciBmb3JtYXQgPSAnJzsKICAgICAgICAgICAgICB2YXIgc3RhcnREYXRlID0gZGF0ZUZpbHRlcihzcHJpbnQuc3RhcnQsICdkIE1NTScpOwoKICAgICAgICAgICAgICBpZiAoZGF0ZUZpbHRlcihjdXJyZW50RGF0ZSwgJ3knKSA9PT0gZGF0ZUZpbHRlcihzcHJpbnQuc3RhcnQsICd5JykpIHsKICAgICAgICAgICAgICAgIGlmIChkYXRlRmlsdGVyKGN1cnJlbnREYXRlLCAnTScpID09PSBkYXRlRmlsdGVyKHNwcmludC5zdGFydCwgJ00nKSkgewogICAgICAgICAgICAgICAgICBmb3JtYXQgPSAnZCc7CiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICBmb3JtYXQgPSAnZCBNTU0nOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBmb3JtYXQgPSAnZCBNTU0geSc7CiAgICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text>startDate</text>
       </register>
       <register name="9" type="4">
         <text>;</text>
@@ -636,9 +636,9 @@
       </register>
     </registers>
     <search>
-      <last-search>start</last-search>
+      <last-search>date</last-search>
       <last-offset />
-      <last-pattern>start</last-pattern>
+      <last-pattern>date</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -646,7 +646,6 @@
     </search>
     <history>
       <history-search>
-        <entry>form</entry>
         <entry>button</entry>
         <entry>failedExpectations</entry>
         <entry encoding="base64">XDxmYWlsZWRFeHBlY3RhdGlvbnNcPg==</entry>
@@ -666,6 +665,7 @@
         <entry>format</entry>
         <entry>datePeri</entry>
         <entry>start</entry>
+        <entry>date</entry>
       </history-search>
       <history-cmd>
         <entry>%s/AppConfig/this.props.auth.config/gc</entry>
