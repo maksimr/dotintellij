@@ -165,6 +165,9 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/karma-phantomjs-shim/shim.js" timestamp="1458039033884">
         <mark key="'" line="100" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/index.html" timestamp="1458141291159">
+        <mark key="'" line="8" column="3" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/analytics/analytics.test.js" timestamp="1456315098630">
         <mark key="'" line="20" column="16" />
       </file>
@@ -509,8 +512,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-toolbar.html" />
-      <jump line="39" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-toolbar.html" />
       <jump line="47" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="888" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="64" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-toolbar.html" />
@@ -609,6 +610,8 @@
       <jump line="29" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/place-under-ng/place-under-ng.js" />
       <jump line="42" column="29" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/place-under-ng/place-under-ng.js" />
       <jump line="54" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/place-under-ng/place-under-ng.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/index.html" />
+      <jump line="8" column="3" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -618,7 +621,7 @@
         <text encoding="base64">bWFyZ2luLXRvcDogMCAhaW1wb3J0YW50OyA=</text>
       </register>
       <register name="/" type="4">
-        <text>scroll</text>
+        <text>title</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">cmctcGxhY2UtdW5kZXI9Ii50YXJnZXQtZWxlbWVudCIg</text>
@@ -658,9 +661,9 @@
       </register>
     </registers>
     <search>
-      <last-search>scroll</last-search>
+      <last-search>title</last-search>
       <last-offset />
-      <last-pattern>scroll</last-pattern>
+      <last-pattern>title</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -668,7 +671,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mod</entry>
         <entry encoding="base64">XDxsb2FkZXJcPg==</entry>
         <entry>active</entry>
         <entry encoding="base64">XDxkZWxheWVkXD4=</entry>
@@ -688,6 +690,7 @@
         <entry>margin</entry>
         <entry encoding="base64">XDxzeW5jUG9zaXRpb25XaXRoXD4=</entry>
         <entry>scroll</entry>
+        <entry>title</entry>
       </history-search>
       <history-cmd>
         <entry>%s/AppConfig/this.props.auth.config/gc</entry>
