@@ -156,13 +156,13 @@
       <file name="$USER_HOME$/www/js/TestAndroid/android/app/src/main/AndroidManifest.xml" timestamp="1456940866195">
         <mark key="'" line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1458208422346">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1458208704711">
         <mark key="a" line="813" column="38" />
         <mark key="'" line="839" column="21" />
-        <mark key="[" line="797" column="14" />
-        <mark key="]" line="797" column="27" />
-        <mark key="^" line="797" column="27" />
-        <mark key="." line="797" column="27" />
+        <mark key="[" line="786" column="12" />
+        <mark key="]" line="786" column="23" />
+        <mark key="^" line="786" column="23" />
+        <mark key="." line="786" column="23" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/widget/directive/yt-notes-widget.js" timestamp="1458131667127">
         <mark key="'" line="12" column="0" />
@@ -633,10 +633,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>currentGroup</text>
+        <text>cb</text>
       </register>
       <register name="-" type="4">
-        <text>currentGroup</text>
+        <text>cb</text>
       </register>
       <register name="/" type="4">
         <text>sprint</text>
@@ -645,34 +645,34 @@
         <text encoding="base64">ICAgICAgICAgICAgZ3JvdXBwZWRTcHJpbnRzLmN1cnJlbnQgfHwgW10sCg==</text>
       </register>
       <register name="1" type="4">
-        <text>currentGroup</text>
+        <text>cb</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text>currentGroup</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgIHJldHVybiBbCiAgICAgICAgICAgIGdyb3VwcGVkU3ByaW50cy5jdXJyZW50IHx8IFtdLAogICAgICAgICAgICBncm91cHBlZFNwcmludHMuYXJjaGl2ZWQgfHwgW10KICAgICAgICAgIF07Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>archivedSprints</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>currentSprints</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCc+Pj4nLCBhcmd1bWVudHMpOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgIHZhciBjdXJyZW50U3ByaW50cyA9IHNwcmludHMuCg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>sprintsPair</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgIHZhciBjdXJyZW50U3ByaW50cyA9IHNwcmluCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>currentSprints, archivedSprints</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
