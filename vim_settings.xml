@@ -20,9 +20,6 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/helpers/issue.js" timestamp="1458039503658">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1458301644022">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dashboard/dashboard.js" timestamp="1458302403926">
         <mark key="'" line="79" column="25" />
         <mark key="[" line="17" column="12" />
@@ -171,7 +168,7 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/sinon/lib/sinon.js" timestamp="1458033996065">
         <mark key="'" line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/dashboard/dashboard.js" timestamp="1458302649003">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/dashboard/dashboard.js" timestamp="1458303673128">
         <mark key="'" line="48" column="24" />
         <mark key="[" line="58" column="0" />
         <mark key="]" line="70" column="2" />
@@ -222,6 +219,13 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
         <mark key="^" line="80" column="50" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/slider/directive/yt-slider.js" timestamp="1458303803932">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="389" column="28" />
+        <mark key="]" line="389" column="26" />
+        <mark key="^" line="389" column="26" />
+        <mark key="." line="389" column="26" />
       </file>
       <file name="$USER_HOME$/www/js/TestAndroid/.eslintrc" timestamp="1455833455957">
         <mark key="'" line="60" column="0" />
@@ -396,12 +400,6 @@
         <mark key="." line="6" column="28" />
         <mark key="^" line="6" column="27" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" timestamp="1458298647649">
-        <mark key="a" line="8504" column="46" />
-        <mark key="'" line="29656" column="0" />
-        <mark key="[" line="2536" column="8" />
-        <mark key="]" line="2536" column="21" />
-      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" timestamp="1458294062325">
         <mark key="'" line="47" column="0" />
         <mark key="[" line="30" column="47" />
@@ -454,6 +452,9 @@
         <mark key="]" line="35" column="51" />
         <mark key="." line="35" column="51" />
         <mark key="^" line="35" column="51" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/collapsible/directive/yt-collapsible.js" timestamp="1458303751837">
+        <mark key="'" line="10" column="9" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-backlog-issue.js" timestamp="1458059910939">
         <mark key="'" line="120" column="0" />
@@ -647,8 +648,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="60" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack.config.js" />
-      <jump line="60" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack.config.js" />
       <jump line="64" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack.config.js" />
       <jump line="65" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack.config.js" />
       <jump line="35" column="39" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/admin.js" />
@@ -747,6 +746,8 @@
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/reports.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/reports.js" />
       <jump line="167" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/reports.js" />
+      <jump line="10" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/collapsible/directive/yt-collapsible.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/slider/directive/yt-slider.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -756,7 +757,7 @@
         <text>dashboard</text>
       </register>
       <register name="/" type="4">
-        <text>temp</text>
+        <text>template</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dmFyIHJlcVRlbXBsYXRlcyA9IHJlcXVpcmUuY29udGV4dCgnLi8nLCB0cnVlLCAvKHRlbXBsYXRlfF9yZXBvcnRzKS4qXC5odG1sJC8pOwo=</text>
@@ -796,9 +797,9 @@
       </register>
     </registers>
     <search>
-      <last-search>temp</last-search>
+      <last-search>template</last-search>
       <last-offset />
-      <last-pattern>temp</last-pattern>
+      <last-pattern>template</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -818,7 +819,6 @@
         <entry>ng</entry>
         <entry>html</entry>
         <entry encoding="base64">XDxhZG1pblRlbXBsYXRlVXJsXD4=</entry>
-        <entry>template</entry>
         <entry>include</entry>
         <entry>ex</entry>
         <entry>templates</entry>
@@ -826,6 +826,7 @@
         <entry>run(</entry>
         <entry>tem</entry>
         <entry>temp</entry>
+        <entry>template</entry>
       </history-search>
       <history-cmd>
         <entry>%s/AppConfig/this.props.auth.config/gc</entry>
