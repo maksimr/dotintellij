@@ -234,6 +234,9 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/externals/upsource/upsource-reviews-directive.js" timestamp="1458301345433">
         <mark key="'" line="78" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/wiki/wiki.js" timestamp="1458373312878">
+        <mark key="'" line="58" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/test/service/get-custom-field-possible-values.js" timestamp="1458293164565">
         <mark key="'" line="8" column="0" />
       </file>
@@ -465,12 +468,8 @@
         <mark key="." line="6" column="28" />
         <mark key="^" line="6" column="27" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" timestamp="1458353109439">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="^" line="14" column="21" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" timestamp="1458373458241">
+        <mark key="'" line="59" column="5" />
       </file>
       <file name="$USER_HOME$/www/js/karma-jasmine/package.json" timestamp="1457983012997">
         <mark key="'" line="59" column="0" />
@@ -667,7 +666,7 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/karma-webpack/index.js" timestamp="1458333960882">
         <mark key="'" line="95" column="2" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/vendor.js" timestamp="1458305862620">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/vendor.js" timestamp="1458373291535">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="7" column="34" />
         <mark key="]" line="7" column="33" />
@@ -756,16 +755,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="17" filename="$USER_HOME$/www/js/webpack/lib/webpack.js" />
-      <jump line="383" column="1" filename="$USER_HOME$/www/js/webpack/lib/Compiler.js" />
-      <jump line="31" column="9" filename="$USER_HOME$/www/js/webpack/lib/Compilation.js" />
-      <jump line="44" column="9" filename="$USER_HOME$/www/js/webpack/lib/Compilation.js" />
-      <jump line="68" column="51" filename="$USER_HOME$/www/js/webpack/lib/Compilation.js" />
-      <jump line="69" column="17" filename="$USER_HOME$/www/js/webpack/lib/Compilation.js" />
-      <jump line="100" column="126" filename="$USER_HOME$/www/js/webpack/lib/Compiler.js" />
-      <jump line="34" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/webpack/lib/Compiler.js" />
-      <jump line="43" column="35" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/webpack/lib/Compiler.js" />
-      <jump line="31" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/test/directive/yt-icon.js" />
       <jump line="30" column="15" filename="$USER_HOME$/www/js/webpack/lib/Compiler.js" />
       <jump line="41" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/webpack/lib/Compiler.js" />
       <jump line="406" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/webpack/lib/Compiler.js" />
@@ -850,52 +839,63 @@
       <jump line="63" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" />
       <jump line="65" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/karma.conf.js" />
       <jump line="11" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" />
-      <jump line="59" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" />
       <jump line="72" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" />
       <jump line="62" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" />
       <jump line="49" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" />
       <jump line="15" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" />
+      <jump line="14" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/vendor.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/wiki/wiki.js" />
+      <jump line="57" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/wiki/wiki.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/wiki/wiki.js" />
+      <jump line="58" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/wiki/wiki.js" />
+      <jump line="29" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" />
+      <jump line="46" column="29" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" />
+      <jump line="44" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" />
+      <jump line="59" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAge3BhdHRlcm46ICdhcHAvKiovKi5jc3MnLCBsb2FkOiBmYWxzZX0sCiAgICAgIHtwYXR0ZXJuOiAnYXBwLyoqLyouc2NzcycsIGxvYWQ6IGZhbHNlfSwKICAgICAge3BhdHRlcm46ICdhcHAvKiovKi5wbmcnLCBsb2FkOiBmYWxzZX0sCg==</text>
+      <register name="&quot;" type="4">
+        <text>SyntaxError: Parse error
+	at app/lib/google-code-prettify/src/prettify.css:4</text>
       </register>
       <register name="-" type="4">
-        <text>-loader</text>
+        <text>scss</text>
       </register>
       <register name="/" type="4">
-        <text>null</text>
+        <text>scss</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAge3BhdHRlcm46ICdhcHAvKiovKi5zY3NzJywgaW5zdHJ1bWVudDogZmFsc2UsIGxvYWQ6IGZhbHNlfSwK</text>
+        <text encoding="base64">ICAgICAge3BhdHRlcm46ICdhcHAvKiovKi5jc3MnLCBsb2FkOiBmYWxzZX0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAge3BhdHRlcm46ICdhcHAvKiovKi5jc3MnLCBsb2FkOiBmYWxzZX0sCiAgICAgIHtwYXR0ZXJuOiAnYXBwLyoqLyouc2NzcycsIGxvYWQ6IGZhbHNlfSwKICAgICAge3BhdHRlcm46ICdhcHAvKiovKi5wbmcnLCBsb2FkOiBmYWxzZX0sCg==</text>
+        <text encoding="base64">ICAgICAge3BhdHRlcm46ICdhcHAvKiovKi5jc3MnLCBsb2FkOiBmYWxzZX0sCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>-loader</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">aW5zdHJ1bWVudDogZmFsc2UsIA==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">aW5zdHJ1bWVudDogZmFsc2UsIA==</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">aW5zdHJ1bWVudDogZmFsc2UsIA==</text>
-      </register>
-      <register name="6" type="4">
         <text>scss</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAge3BhdHRlcm46ICdhcHAvKiovKi5zY3NzJywgbG9hZDogZmFsc2V9LAo=</text>
+      <register name="3" type="4">
+        <text>js</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAge3BhdHRlcm46ICdhcHAvKiovKi5jc3MnLCBsb2FkOiBmYWxzZX0sCiAgICAgIHtwYXR0ZXJuOiAnYXBwLyoqLyouc2NzcycsIGxvYWQ6IGZhbHNlfSwKICAgICAge3BhdHRlcm46ICdhcHAvKiovKi5wbmcnLCBsb2FkOiBmYWxzZX0sCg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>-loader</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">aW5zdHJ1bWVudDogZmFsc2UsIA==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">aW5zdHJ1bWVudDogZmFsc2UsIA==</text>
       </register>
       <register name="8" type="4">
-        <text>css</text>
+        <text encoding="base64">aW5zdHJ1bWVudDogZmFsc2UsIA==</text>
       </register>
       <register name="9" type="4">
         <text>scss</text>
@@ -905,9 +905,9 @@
       </register>
     </registers>
     <search>
-      <last-search>null</last-search>
+      <last-search>scss</last-search>
       <last-offset />
-      <last-pattern>null</last-pattern>
+      <last-pattern>scss</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -915,8 +915,6 @@
     </search>
     <history>
       <history-search>
-        <entry>karma-webp</entry>
-        <entry encoding="base64">XDx3ZWJwYWNrXD4=</entry>
         <entry>comple</entry>
         <entry>compiler</entry>
         <entry>make</entry>
@@ -935,6 +933,8 @@
         <entry>component</entry>
         <entry>ring-components</entry>
         <entry>null</entry>
+        <entry>lib</entry>
+        <entry>scss</entry>
       </history-search>
       <history-cmd>
         <entry>%s/AppConfig/this.props.auth.config/gc</entry>
