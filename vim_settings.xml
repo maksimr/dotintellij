@@ -101,12 +101,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/template/new-features-popup.html" timestamp="1458300729886">
         <mark key="'" line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/test/directive/yt-icon.js" timestamp="1458350736199">
-        <mark key="'" line="42" column="4" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/test/directive/yt-icon.js" timestamp="1458351129973">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="50" column="40" />
-        <mark key="]" line="50" column="43" />
-        <mark key="." line="50" column="43" />
-        <mark key="^" line="50" column="43" />
+        <mark key="]" line="50" column="44" />
+        <mark key="." line="50" column="44" />
+        <mark key="^" line="50" column="44" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-sort-config.js" timestamp="1458148158248">
         <mark key="'" line="1" column="0" />
@@ -647,8 +647,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/icon.js" timestamp="1458216318778">
         <mark key="'" line="11" column="26" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/directive/yt-icon.js" timestamp="1458349217823">
-        <mark key="'" line="69" column="44" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/directive/yt-icon.js" timestamp="1458351280261">
+        <mark key="'" line="67" column="19" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/sinon/pkg/sinon-1.12.1.js" timestamp="1458034062648">
         <mark key="'" line="1579" column="25" />
@@ -751,10 +751,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/karma-webpack/index.js" />
-      <jump line="87" column="41" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/karma-webpack/index.js" />
-      <jump line="86" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/karma-webpack/index.js" />
-      <jump line="14" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/karma-webpack/index.js" />
       <jump line="49" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/karma-webpack/index.js" />
       <jump line="132" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/karma-webpack/index.js" />
       <jump line="61" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/karma-webpack/index.js" />
@@ -851,10 +847,14 @@
       <jump line="4" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/show-agile-board-commands-alert-message.js" />
       <jump line="154" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/show-agile-board-commands-alert-message.js" />
       <jump line="42" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/test/directive/yt-icon.js" />
+      <jump line="49" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/test/directive/yt-icon.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/test/directive/yt-icon.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/directive/yt-icon.js" />
+      <jump line="67" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/directive/yt-icon.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAnUmluZy5yZWFjdC1uZycsCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICAgIC8vIHZhciBpY29uVXJsID0gaWNvbk1hcFtzY29wZS5pY29uXSB8fCBzY29wZS5pY29uOwogICAgICAgICAgLy8gZWxlbS5maW5kKCcueXQtaWNvbi1wbGFjZWhvbGRlcicpLnJlcGxhY2VXaXRoKGFuZ3VsYXIuZWxlbWVudChnZXRJY29uVGVtcGxhdGUoc2NvcGUuc2l6ZSwgaWNvblVybCkpKTs=</text>
       </register>
       <register name="-" type="4">
         <text>checkbox</text>
@@ -866,31 +866,31 @@
         <text encoding="base64">ICAnUmluZy5yZWFjdC1uZycsCg==</text>
       </register>
       <register name="1" type="4">
-        <text>checkbox</text>
+        <text encoding="base64">ICAgICAgICAgIC8vIHZhciBpY29uVXJsID0gaWNvbk1hcFtzY29wZS5pY29uXSB8fCBzY29wZS5pY29uOwogICAgICAgICAgLy8gZWxlbS5maW5kKCcueXQtaWNvbi1wbGFjZWhvbGRlcicpLnJlcGxhY2VXaXRoKGFuZ3VsYXIuZWxlbWVudChnZXRJY29uVGVtcGxhdGUoc2NvcGUuc2l6ZSwgaWNvblVybCkpKTs=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>checkbox</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="3" type="4">
-        <text>Checkbox</text>
-      </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFhbHdheXNQcmludE1vbnRoICYmIGRhdGVGaWx0ZXIoZGF0ZU5vdywgJ00nKSA9PT0gZGF0ZUZpbHRlcihkYXRlLCAnTScpKSB7CiAgICAgICAgICAgICAgcmV0dXJuIGRhdGVGaWx0ZXIoZGF0ZSwgJ2QnKTsKICAgICAgICAgICAgfQo=</text>
+      <register name="4" type="4">
+        <text>checkbox</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBiZWZvcmVFYWNoKGFuZ3VsYXIubW9jay5tb2R1bGUoJ3lvdXRyYWNrLmNvbXBvbmVudHMuY3VzdG9tRmllbGRzJykpOwo=</text>
+      <register name="5" type="4">
+        <text>checkbox</text>
+      </register>
+      <register name="6" type="4">
+        <text>Checkbox</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBiZWZvcmVFYWNoKGFuZ3VsYXIubW9jay5tb2R1bGUoJ3lvdXRyYWNrLmNvbXBvbmVudHMuY3VzdG9tRmllbGRzJykpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBiZWZvcmVFYWNoKGFuZ3VsYXIubW9jay5tb2R1bGUoJ3lvdXRyYWNrLmNvbXBvbmVudHMuY3VzdG9tRmllbGRzJykpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFhbHdheXNQcmludE1vbnRoICYmIGRhdGVGaWx0ZXIoZGF0ZU5vdywgJ00nKSA9PT0gZGF0ZUZpbHRlcihkYXRlLCAnTScpKSB7CiAgICAgICAgICAgICAgcmV0dXJuIGRhdGVGaWx0ZXIoZGF0ZSwgJ2QnKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICBiZWZvcmVFYWNoKGFuZ3VsYXIubW9jay5tb2R1bGUoJ3lvdXRyYWNrLmNvbXBvbmVudHMuY3VzdG9tRmllbGRzJykpOwo=</text>
