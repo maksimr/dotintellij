@@ -176,6 +176,9 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/test/filter/format-as-field-value.js" timestamp="1458350185561">
         <mark key="'" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/babel-loader/index.js" timestamp="1458507677038">
+        <mark key="'" line="13" column="22" />
+      </file>
       <file name="$USER_HOME$/www/js/webpack/lib/Compiler.js" timestamp="1458348917877">
         <mark key="'" line="412" column="5" />
       </file>
@@ -454,6 +457,9 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack-mobile/src/app.js" timestamp="1457003257881">
         <mark key="'" line="83" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/babel-loader/lib/fs-cache.js" timestamp="1458507737820">
+        <mark key="'" line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/service/edit-project/notification-templates.js" timestamp="1458295297741">
         <mark key="'" line="138" column="0" />
         <mark key="[" line="0" column="0" />
@@ -532,8 +538,8 @@
         <mark key="." line="50" column="44" />
         <mark key="^" line="50" column="44" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-dashboard/webpack-embed.config.js" timestamp="1458453128010">
-        <mark key="'" line="59" column="16" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-dashboard/webpack-embed.config.js" timestamp="1458507836432">
+        <mark key="'" line="53" column="11" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/sprint-create.js" timestamp="1458042680671">
         <mark key="'" line="13" column="0" />
@@ -964,9 +970,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
-      <jump line="107" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
-      <jump line="86" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
       <jump line="142" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
       <jump line="44" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-dashboard/webpack-embed.config.js" />
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-dashboard/webpack-embed.config.js" />
@@ -984,7 +987,6 @@
       <jump line="0" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-dashboard/webpack-embed.config.js" />
       <jump line="55" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-dashboard/webpack-embed.config.js" />
       <jump line="50" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-dashboard/webpack-embed.config.js" />
-      <jump line="53" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-dashboard/webpack-embed.config.js" />
       <jump line="70" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
       <jump line="64" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-dashboard/webpack-embed.config.js" />
       <jump line="3" column="35" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-dashboard/webpack-embed.config.js" />
@@ -1064,6 +1066,10 @@
       <jump line="20" column="33" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
       <jump line="22" column="42" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
       <jump line="31" column="3" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
+      <jump line="13" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/babel-loader/index.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/babel-loader/lib/fs-cache.js" />
+      <jump line="54" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-dashboard/webpack-embed.config.js" />
+      <jump line="53" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-dashboard/webpack-embed.config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1073,7 +1079,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>stats:</text>
+        <text>babel</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc9PT09PT09PT09PT09PT09PT09PT09PT09PT0nKQo=</text>
@@ -1113,9 +1119,9 @@
       </register>
     </registers>
     <search>
-      <last-search>stats:</last-search>
+      <last-search>babel</last-search>
       <last-offset />
-      <last-pattern>stats:</last-pattern>
+      <last-pattern>babel</last-pattern>
       <last-replace>__dirname</last-replace>
       <last-substitute>projectDirectory</last-substitute>
       <last-dir>1</last-dir>
@@ -1123,7 +1129,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxIQVBQWV9ERUJVR1w+</entry>
         <entry encoding="base64">XDxleHRyYWN0Q29tcGlsZXJPcHRpb25zXD4=</entry>
         <entry>stats</entry>
         <entry>profile</entry>
@@ -1143,6 +1148,7 @@
         <entry>devel</entry>
         <entry>serv</entry>
         <entry>stats:</entry>
+        <entry>babel</entry>
       </history-search>
       <history-cmd>
         <entry>%s/AppConfig/this.props.auth.config/gc</entry>
