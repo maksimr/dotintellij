@@ -306,7 +306,7 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/vcs/toolbar.html" timestamp="1457091594658">
         <mark key="'" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-sprint-progress.js" timestamp="1458578587739">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-sprint-progress.js" timestamp="1458579679508">
         <mark key="'" line="213" column="0" />
         <mark key="[" line="207" column="45" />
         <mark key="]" line="207" column="56" />
@@ -609,12 +609,12 @@
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/oauth.js" timestamp="1458402899167">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="18" />
-        <mark key="^" line="4" column="16" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/oauth.js" timestamp="1458580261545">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="135" column="23" />
+        <mark key="]" line="135" column="27" />
+        <mark key="^" line="135" column="27" />
+        <mark key="." line="135" column="27" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/dashboard/dashboard.js" timestamp="1458398025558">
         <mark key="'" line="18" column="5" />
@@ -1028,8 +1028,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/style/yt-board-with-sidebar.scss" />
-      <jump line="186" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/style/agile-card.scss" />
       <jump line="185" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/style/agile-card.scss" />
       <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/_reports/sidebar/_reports-sidebar.scss" />
       <jump line="79" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/_reports/sidebar/_reports-sidebar.scss" />
@@ -1127,50 +1125,52 @@
       <jump line="27" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-sprint-progress.js" />
       <jump line="31" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-sprint-progress.js" />
       <jump line="20" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-sprint-progress.js" />
+      <jump line="7" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-sprint-progress.js" />
       <jump line="213" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-sprint-progress.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/oauth.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZXh0Lmh1YlZlcnNpb24gPSAnMS4xLjE1NycKZXh0Lmh1YlNlcnZlckJ1aWxkVHlwZUlkID0gJ0h1Yl8xMV9CdWlsZEJhY2tFbmRGcm9udEVuZEdyYWRsZScK</text>
+      <register name="&quot;" type="4">
+        <text>i18n('You authorization token is invalid. See server logs for more details.');</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHx8IFtd</text>
+        <text>i18n('You authorization token is invalid. See server logs for more details.');</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRJc3N1ZXNBbW91bnRQZXJDb2x1bW5cPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZXh0Lmh1YlZlcnNpb24gPSAnMS4xLjE1NycKZXh0Lmh1YlNlcnZlckJ1aWxkVHlwZUlkID0gJ0h1Yl8xMV9CdWlsZEJhY2tFbmRGcm9udEVuZEdyYWRsZScK</text>
+      <register name="0" type="4">
+        <text>i18n('You authorization token is invalid. See server logs for more details.')</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IHx8IFtd</text>
+        <text>i18n('You authorization token is invalid. See server logs for more details.');</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>{}</text>
+        <text encoding="base64">IHx8IFtd</text>
       </register>
       <register name="3" type="4">
-        <text>directiveScope.calculateSprintProgress()</text>
+        <text>{}</text>
       </register>
       <register name="4" type="4">
-        <text>toEqual</text>
+        <text>directiveScope.calculateSprintProgress()</text>
       </register>
       <register name="5" type="4">
+        <text>toEqual</text>
+      </register>
+      <register name="6" type="4">
         <text>[ ]</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgewogICAgICAgIHdpZHRoOiAxMDAsCiAgICAgICAgdGl0bGU6ICc1IGNhcmRzIGluIHN0YXRlIE9wZW4nCiAgICAgIH0sCiAgICAgIHsKICAgICAgICB3aWR0aDogODAsCiAgICAgICAgdGl0bGU6ICc0IGNhcmRzIGluIHN0YXRlIEluIFByb2dyZXNzJwogICAgICB9LAogICAgICB7CiAgICAgICAgd2lkdGg6IDIwLAogICAgICAgIHRpdGxlOiAnMSBjYXJkcyBpbiBzdGF0ZSBEb25lJwogICAgICB9Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgewogICAgICAgIHdpZHRoOiAxMDAsCiAgICAgICAgdGl0bGU6ICc1IGNhcmRzIGluIHN0YXRlIE9wZW4nCiAgICAgIH0sCiAgICAgIHsKICAgICAgICB3aWR0aDogODAsCiAgICAgICAgdGl0bGU6ICc0IGNhcmRzIGluIHN0YXRlIEluIFByb2dyZXNzJwogICAgICB9LAogICAgICB7CiAgICAgICAgd2lkdGg6IDIwLAogICAgICAgIHRpdGxlOiAnMSBjYXJkcyBpbiBzdGF0ZSBEb25lJwogICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBhcnJheTEK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
