@@ -60,4 +60,10 @@
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="ctrl alt u" />
   </action>
+  <action id="Upsource.ReviewRevisions">
+    <keyboard-shortcut first-keystroke="meta u" second-keystroke="r" />
+  </action>
+  <action id="Upsource.ShowNewsFeed">
+    <keyboard-shortcut first-keystroke="meta u" second-keystroke="n" />
+  </action>
 </keymap>
