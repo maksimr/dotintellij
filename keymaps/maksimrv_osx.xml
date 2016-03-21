@@ -18,6 +18,7 @@
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
   <action id="EditorSplitLine" />
+  <action id="ExportToTextFile" />
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="alt comma" second-keystroke="shift u" />
@@ -61,9 +62,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt u" />
   </action>
   <action id="Upsource.ReviewRevisions">
-    <keyboard-shortcut first-keystroke="meta u" second-keystroke="r" />
+    <keyboard-shortcut first-keystroke="alt o" second-keystroke="r" />
   </action>
   <action id="Upsource.ShowNewsFeed">
-    <keyboard-shortcut first-keystroke="meta u" second-keystroke="n" />
+    <keyboard-shortcut first-keystroke="alt o" second-keystroke="n" />
   </action>
 </keymap>

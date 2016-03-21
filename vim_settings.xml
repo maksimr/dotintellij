@@ -306,8 +306,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/vcs/toolbar.html" timestamp="1457091594658">
         <mark key="'" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-sprint-progress.js" timestamp="1458577924470">
-        <mark key="'" line="208" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-sprint-progress.js" timestamp="1458578587739">
+        <mark key="'" line="213" column="0" />
         <mark key="[" line="207" column="45" />
         <mark key="]" line="207" column="56" />
         <mark key="^" line="207" column="56" />
@@ -1022,12 +1022,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-touch/angular-touch.js" timestamp="1458402416415">
         <mark key="'" line="245" column="8" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/components.gradle" timestamp="1458578026923">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="14" column="62" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="43" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/style/yt-board-with-sidebar.scss" />
-      <jump line="54" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/style/yt-board-with-sidebar.scss" />
-      <jump line="97" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/style/yt-board-with-sidebar.scss" />
-      <jump line="40" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/style/yt-board-with-sidebar.scss" />
       <jump line="43" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/style/yt-board-with-sidebar.scss" />
       <jump line="186" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/style/agile-card.scss" />
       <jump line="185" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/style/agile-card.scss" />
@@ -1122,12 +1122,16 @@
       <jump line="182" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-sprint-progress.js" />
       <jump line="41" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-sprint-progress.js" />
       <jump line="207" column="34" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-sprint-progress.js" />
-      <jump line="18" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-sprint-progress.js" />
       <jump line="208" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-sprint-progress.js" />
+      <jump line="18" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-sprint-progress.js" />
+      <jump line="27" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-sprint-progress.js" />
+      <jump line="31" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-sprint-progress.js" />
+      <jump line="20" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-sprint-progress.js" />
+      <jump line="213" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-sprint-progress.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHx8IFtd</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZXh0Lmh1YlZlcnNpb24gPSAnMS4xLjE1NycKZXh0Lmh1YlNlcnZlckJ1aWxkVHlwZUlkID0gJ0h1Yl8xMV9CdWlsZEJhY2tFbmRGcm9udEVuZEdyYWRsZScK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IHx8IFtd</text>
@@ -1136,7 +1140,7 @@
         <text encoding="base64">XDxnZXRJc3N1ZXNBbW91bnRQZXJDb2x1bW5cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRpcmVjdGl2ZVNjb3BlLnNwcmludC5ib2FyZCA9IHNwcmludE1vY2s7CiAgICBkaXJlY3RpdmVTY29wZS5zcHJpbnQuYm9hcmQub3JwaGFuUm93ID0gc3ByaW50TW9jay5zd2ltbGFuZXM7CiAgICBkaXJlY3RpdmVTY29wZS5zcHJpbnQuYm9hcmQuc3dpbWxhbmVzID0gW107CgogICAgZXhwZWN0KGRpcmVjdGl2ZVNjb3BlLmNhbGN1bGF0ZVNwcmludFByb2dyZXNzKCkpLnRvRXF1YWwoWwogICAgICB7CiAgICAgICAgd2lkdGg6IDEwMCwKICAgICAgICB0aXRsZTogJzUgY2FyZHMgaW4gc3RhdGUgT3BlbicKICAgICAgfSwKICAgICAgewogICAgICAgIHdpZHRoOiA4MCwKICAgICAgICB0aXRsZTogJzQgY2FyZHMgaW4gc3RhdGUgSW4gUHJvZ3Jlc3MnCiAgICAgIH0sCiAgICAgIHsKICAgICAgICB3aWR0aDogMjAsCiAgICAgICAgdGl0bGU6ICcxIGNhcmRzIGluIHN0YXRlIERvbmUnCiAgICAgIH0KICAgIF0pOwo=</text>
+        <text encoding="base64">ZXh0Lmh1YlZlcnNpb24gPSAnMS4xLjE1NycKZXh0Lmh1YlNlcnZlckJ1aWxkVHlwZUlkID0gJ0h1Yl8xMV9CdWlsZEJhY2tFbmRGcm9udEVuZEdyYWRsZScK</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">IHx8IFtd</text>
