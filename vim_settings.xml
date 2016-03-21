@@ -540,8 +540,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/lib/angular-ui-date/src/date.js" timestamp="1458401120956">
         <mark key="'" line="8" column="2" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/test/directive/yt-icon.js" timestamp="1458456020143">
-        <mark key="'" line="52" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/test/directive/yt-icon.js" timestamp="1458559996610">
+        <mark key="'" line="1" column="0" />
         <mark key="[" line="50" column="40" />
         <mark key="]" line="50" column="44" />
         <mark key="." line="50" column="44" />
@@ -1009,11 +1009,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="41" column="49" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-board-with-sidebar.js" timestamp="1458559607791">
-        <mark key="'" line="60" column="14" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-board-with-sidebar.js" timestamp="1458560500516">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="65" column="69" />
+        <mark key="]" line="65" column="69" />
+        <mark key="^" line="65" column="69" />
+        <mark key="." line="65" column="69" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/test/_reports/types/eventTransition/editEventTransition.js" timestamp="1458039958225">
         <mark key="'" line="100" column="0" />
@@ -1040,9 +1041,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/html-webpack-plugin/index.js" />
-      <jump line="278" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/html-webpack-plugin/index.js" />
-      <jump line="17" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/externals/test/e2e/example/index.html" />
       <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/e2e/example/yt-drag-agile-card.html" />
       <jump line="20" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/e2e/example/yt-drag-agile-card.html" />
       <jump line="217" column="3" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
@@ -1140,49 +1138,52 @@
       <jump line="65" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-board-with-sidebar.js" />
       <jump line="63" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-board-with-sidebar.js" />
       <jump line="60" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-board-with-sidebar.js" />
+      <jump line="66" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-board-with-sidebar.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-board-with-sidebar.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/test/directive/yt-icon.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coaGVhZGVyTm9kZVswXSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>(leftOffset - tableNode[0].scrollLeft)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Lnl0LWFnaWxlLXRhYmxlX19yb3ctY29udGFpbmVyX19oZWFkX3N0aWNreSA=</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0YWJsZU5vZGVcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>'yt-agile-table__row-container__head_sticky js-agile-table-header'</text>
+        <text>(leftOffset - tableNode[0].scrollLeft)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coaGVhZGVyTm9kZVswXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFibGVOb2RlWzBdLnNjcm9sbExlZnQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhciBoZWFkZXJOb2RlID0gZWxlbWVudC5maW5kKCcuanMtYWdpbGUtdGFibGUtaGVhZGVyJyk7Cg==</text>
+      <register name="2" type="4">
+        <text>;</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">Lnl0LWFnaWxlLXRhYmxlX19yb3ctY29udGFpbmVyX19oZWFkX3N0aWNreSA=</text>
+        <text>jjk</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICd5dC1hZ2lsZS10YWJsZV9fcm93LWNvbnRhaW5lcl9faGVhZF9zdGlja3kganMtYWdpbGUtdGFibGUtaGVhZGVyJwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICsgJyFpbXBvcnRhbnQn</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IGpzLWFnaWxlLXRhYmxlLWhlYWRlcg==</text>
+        <text>left</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">Lnl0LWFnaWxlLXRhYmxlX19yb3ctY29udGFpbmVyX19oZWFkX3N0aWNreSA=</text>
+        <text>style</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICd5dC1hZ2lsZS10YWJsZV9fcm93LWNvbnRhaW5lcl9faGVhZF9zdGlja3kganMtYWdpbGUtdGFibGUtaGVhZGVyJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJz4+Pj4nLCBoZWFkZXJOb2RlWzBdKTsK</text>
       </register>
       <register name="8" type="4">
-        <text>.yt-agile-table__row__cell-head-container</text>
+        <text>css</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coaGVhZGVyTm9kZVswXSwgJz4+PicpOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICsgJ3B4Jw==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
