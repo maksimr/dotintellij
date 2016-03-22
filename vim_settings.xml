@@ -176,6 +176,9 @@
       <file name="$USER_HOME$/www/js/TestAndroid/.eslintrc" timestamp="1455833455957">
         <mark key="'" line="60" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-scrumboard/src/main/kotlin/jetbrains/youtrack/agile/settings/Agile.kt" timestamp="1458654160316">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/analytics/analytics.test.js" timestamp="1456315098630">
         <mark key="'" line="20" column="16" />
       </file>
@@ -1096,10 +1099,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="885" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
-      <jump line="825" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-board.js" />
-      <jump line="757" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-board.js" />
-      <jump line="121" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/react/lib/ReactElement.js" />
       <jump line="784" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-board.js" />
       <jump line="837" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-board.js" />
       <jump line="926" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
@@ -1196,6 +1195,10 @@
       <jump line="92" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/agile-resource.js" />
       <jump line="124" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/agile-resource.js" />
       <jump line="231" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/agile-resource.js" />
+      <jump line="84" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-scrumboard/src/main/kotlin/jetbrains/youtrack/agile/settings/Agile.kt" />
+      <jump line="113" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-scrumboard/src/main/kotlin/jetbrains/youtrack/agile/settings/Agile.kt" />
+      <jump line="119" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-scrumboard/src/main/kotlin/jetbrains/youtrack/agile/settings/Agile.kt" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-scrumboard/src/main/kotlin/jetbrains/youtrack/agile/settings/Agile.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1205,7 +1208,7 @@
         <text>isGuest</text>
       </register>
       <register name="/" type="4">
-        <text>agile:</text>
+        <text encoding="base64">XDxjYW5BY2Nlc3NcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -1245,17 +1248,16 @@
       </register>
     </registers>
     <search>
-      <last-search>agile:</last-search>
+      <last-search encoding="base64">XDxjYW5BY2Nlc3NcPg==</last-search>
       <last-offset />
-      <last-pattern>agile:</last-pattern>
+      <last-pattern encoding="base64">XDxjYW5BY2Nlc3NcPg==</last-pattern>
       <last-replace>__dirname</last-replace>
       <last-substitute>projectDirectory</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getEdit</entry>
         <entry encoding="base64">XDxnZXRDdXJyZW50U3ByaW50XD4=</entry>
         <entry encoding="base64">XDxlZGl0XD4=</entry>
         <entry encoding="base64">XDx1c2VyUGVybWlzc2lvbnNSZXNvbHZlXD4=</entry>
@@ -1275,6 +1277,7 @@
         <entry>creator</entry>
         <entry>estimationField</entry>
         <entry>agile:</entry>
+        <entry encoding="base64">XDxjYW5BY2Nlc3NcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/AppConfig/this.props.auth.config/gc</entry>
