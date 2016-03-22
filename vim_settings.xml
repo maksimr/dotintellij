@@ -157,8 +157,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/test/service/get-custom-field-possible-values.js" timestamp="1458293164565">
         <mark key="'" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1458664464845">
-        <mark key="'" line="1013" column="21" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1458681493412">
+        <mark key="'" line="1031" column="2" />
         <mark key="[" line="906" column="25" />
         <mark key="]" line="906" column="36" />
         <mark key="^" line="1014" column="5" />
@@ -1111,8 +1111,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="869" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-board.js" />
-      <jump line="954" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="578" column="62" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="577" column="60" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="840" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-board.js" />
@@ -1211,6 +1209,8 @@
       <jump line="1013" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="42" column="32" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-toolbar.html" />
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-toolbar.html" />
+      <jump line="904" column="41" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="1031" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1220,7 +1220,7 @@
         <text>).toEqual(false);</text>
       </register>
       <register name="/" type="4">
-        <text>cancel</text>
+        <text encoding="base64">XDxsaXN0T2ZTcHJpbnRzSW5BZ2lsZVw+</text>
       </register>
       <register name="0" type="4">
         <text>sprintSelect</text>
@@ -1260,17 +1260,16 @@
       </register>
     </registers>
     <search>
-      <last-search>cancel</last-search>
+      <last-search encoding="base64">XDxsaXN0T2ZTcHJpbnRzSW5BZ2lsZVw+</last-search>
       <last-offset />
-      <last-pattern>cancel</last-pattern>
+      <last-pattern encoding="base64">XDxsaXN0T2ZTcHJpbnRzSW5BZ2lsZVw+</last-pattern>
       <last-replace>__dirname</last-replace>
       <last-substitute>projectDirectory</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2FkR3JvdXBlZFNwcmludHNcPg==</entry>
         <entry>user</entry>
         <entry encoding="base64">XDxjcmVhdGVHcm91cE1vY2tcPg==</entry>
         <entry>agile</entry>
@@ -1290,6 +1289,7 @@
         <entry>selectSprint</entry>
         <entry>cancelRe</entry>
         <entry>cancel</entry>
+        <entry encoding="base64">XDxsaXN0T2ZTcHJpbnRzSW5BZ2lsZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/AppConfig/this.props.auth.config/gc</entry>
