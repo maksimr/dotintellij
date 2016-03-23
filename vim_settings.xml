@@ -676,8 +676,8 @@
       <file name="$USER_HOME$/www/js/TestAndroid/android/app/react.gradle" timestamp="1457258705996">
         <mark key="'" line="96" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project/workflows.js" timestamp="1458729299241">
-        <mark key="'" line="39" column="59" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project/workflows.js" timestamp="1458733609346">
+        <mark key="'" line="594" column="2" />
         <mark key="[" line="317" column="10" />
         <mark key="]" line="317" column="18" />
         <mark key="^" line="317" column="18" />
@@ -1137,11 +1137,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="32" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-toolbar.html" />
-      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-toolbar.html" />
-      <jump line="904" column="41" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
-      <jump line="1031" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
-      <jump line="90" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-scrumboard/src/main/kotlin/jetbrains/youtrack/agile/settings/Agile.kt" />
       <jump line="86" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-scrumboard/src/main/kotlin/jetbrains/youtrack/agile/settings/Agile.kt" />
       <jump line="60" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
       <jump line="15" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
@@ -1237,6 +1232,11 @@
       <jump line="28" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project/workflows.js" />
       <jump line="38" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project/workflows.js" />
       <jump line="39" column="59" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project/workflows.js" />
+      <jump line="316" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project/workflows.js" />
+      <jump line="548" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project/workflows.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project/workflows.js" />
+      <jump line="278" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project/workflows.js" />
+      <jump line="594" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project/workflows.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1246,7 +1246,7 @@
         <text>$scope.</text>
       </register>
       <register name="/" type="4">
-        <text>project</text>
+        <text>TODO</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICogQHBhcmFtIHtzdHJpbmd9IHdvcmtmbG93SWQK</text>
@@ -1286,9 +1286,9 @@
       </register>
     </registers>
     <search>
-      <last-search>project</last-search>
+      <last-search>TODO</last-search>
       <last-offset />
-      <last-pattern>project</last-pattern>
+      <last-pattern>TODO</last-pattern>
       <last-replace>__dirname</last-replace>
       <last-substitute>projectDirectory</last-substitute>
       <last-dir>1</last-dir>
@@ -1296,8 +1296,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sprintSelect</entry>
-        <entry encoding="base64">XDxzcHJpbnRTZWxlY3RcPg==</entry>
         <entry>select</entry>
         <entry>selectSprint</entry>
         <entry>cancelRe</entry>
@@ -1316,6 +1314,8 @@
         <entry encoding="base64">XDxwcm9qZWN0SWRcPg==</entry>
         <entry encoding="base64">XDxnZXRXb3JrZmxvd1J1bGVVc2FnZXNcPg==</entry>
         <entry>project</entry>
+        <entry>plural</entry>
+        <entry>TODO</entry>
       </history-search>
       <history-cmd>
         <entry>%s/AppConfig/this.props.auth.config/gc</entry>
