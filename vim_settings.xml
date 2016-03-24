@@ -764,8 +764,8 @@
         <mark key="^" line="10" column="35" />
         <mark key="." line="10" column="35" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/Gruntfile.js" timestamp="1458639490435">
-        <mark key="'" line="1" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/Gruntfile.js" timestamp="1458772497221">
+        <mark key="'" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/user-groups/service/user-groups.js" timestamp="1458749769098">
         <mark key="'" line="0" column="0" />
@@ -847,6 +847,9 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webapp/src/test/kotlin/jetbrains/youtrack/rest/agile/ReadBoardResourceTest.kt" timestamp="1458651384709">
         <mark key="'" line="9" column="14" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/grunt-tasks/grunt-concat.js" timestamp="1458772573606">
+        <mark key="'" line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/www/js/TestAndroid/android/app/src/main/java/com/testandroid/MainActivity.java" timestamp="1457280070214">
         <mark key="'" line="32" column="0" />
         <mark key="[" line="35" column="45" />
@@ -860,6 +863,9 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/grunt-tasks/grunt-copy.js" timestamp="1458772517270">
+        <mark key="'" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/wallaby-webpack/index.js" timestamp="1458382203517">
         <mark key="'" line="24" column="45" />
@@ -1050,10 +1056,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="321" column="32" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project/workflows.js" />
-      <jump line="338" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project/workflows.js" />
-      <jump line="342" column="110" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project/workflows.js" />
-      <jump line="345" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project/workflows.js" />
       <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project/workflows.js" />
       <jump line="312" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project/workflows.js" />
       <jump line="94" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project/workflows.js" />
@@ -1150,6 +1152,10 @@
       <jump line="34" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/user/service/get-current-user.js" />
       <jump line="6" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="988" column="49" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/Gruntfile.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/grunt-tasks/grunt-copy.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/grunt-tasks/grunt-concat.js" />
+      <jump line="34" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/grunt-tasks/grunt-concat.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1159,7 +1165,7 @@
         <text>response</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxodWJVc2VyUmVzcG9uc2VNb2NrXD4=</text>
+        <text>prod</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICdhdXRoJywK</text>
@@ -1199,17 +1205,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxodWJVc2VyUmVzcG9uc2VNb2NrXD4=</last-search>
+      <last-search>prod</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxodWJVc2VyUmVzcG9uc2VNb2NrXD4=</last-pattern>
+      <last-pattern>prod</last-pattern>
       <last-replace>__dirname</last-replace>
       <last-substitute>projectDirectory</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>plural</entry>
         <entry>TODO</entry>
         <entry>workflow</entry>
         <entry>textarea</entry>
@@ -1229,6 +1234,7 @@
         <entry encoding="base64">XDxjcmVhdGVQcm9qZWN0TW9ja1w+</entry>
         <entry>project</entry>
         <entry encoding="base64">XDxodWJVc2VyUmVzcG9uc2VNb2NrXD4=</entry>
+        <entry>prod</entry>
       </history-search>
       <history-cmd>
         <entry>%s/AppConfig/this.props.auth.config/gc</entry>
