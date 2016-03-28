@@ -61,12 +61,11 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/react-ng/react-ng.js" timestamp="1458350482248">
         <mark key="'" line="260" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1459152840647">
-        <mark key="'" line="133" column="32" />
-        <mark key="[" line="130" column="14" />
-        <mark key="]" line="130" column="13" />
-        <mark key="." line="130" column="13" />
-        <mark key="^" line="130" column="13" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1459153699828">
+        <mark key="[" line="136" column="57" />
+        <mark key="]" line="136" column="56" />
+        <mark key="." line="136" column="56" />
+        <mark key="^" line="136" column="56" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/dialog-edit-issue-custom-field-simple.html" timestamp="1458741629638">
         <mark key="'" line="50" column="0" />
@@ -646,6 +645,11 @@
       </file>
       <file name="/usr/local/opt/android-sdk/platforms/android-23/android.jar!/android/os/Bundle.class" timestamp="1457264390583">
         <mark key="'" line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/package.json" timestamp="1459153673003">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/service/can-user-edit-sprint.js" timestamp="1458819860361">
         <mark key="'" line="98" column="0" />
@@ -1327,8 +1331,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="39" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-table.html" />
-      <jump line="19" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-table.html" />
       <jump line="21" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-table.html" />
       <jump line="25" column="41" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-table.html" />
       <jump line="26" column="42" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-table.html" />
@@ -1425,60 +1427,62 @@
       <jump line="6" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/builtInGruntfile.js" />
       <jump line="217" column="45" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/builtInGruntfile.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/grunt-tasks/grunt-clean.js" />
-      <jump line="136" column="56" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
-      <jump line="133" column="32" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="133" column="33" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="143" column="60" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="42" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="136" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bnBtIHJ1biBsaW50ICYmIG5wbSBydW4gdGVzdDpjb3ZlcmFnZSAmJiA=</text>
+        <text>../</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bnBtIHJ1biBsaW50ICYmIG5wbSBydW4gdGVzdDpjb3ZlcmFnZSAmJiA=</text>
+        <text>../</text>
       </register>
       <register name="/" type="4">
-        <text>mkdir</text>
+        <text>cd</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICJidWlsZCI6ICJucG0gcnVuIGxpbnQgJiYgbnBtIHJ1biB0ZXN0OmNvdmVyYWdlICYmIG5wbSBydW4gYnVpbGQ6ZXh0ZXJuYWxzICYmIG5wbSBydW4gYnVpbGQ6eW91dHJhY2sgJiYgbnBtIHJ1biBidWlsZDpodWIiLAo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">cm0gLXJmIC4vbm9kZV9tb2R1bGVzL3dlYnBhY2sgJiYgbnBtIGluc3RhbGw=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">bnBtIHJ1biBsaW50ICYmIG5wbSBydW4gdGVzdDpjb3ZlcmFnZSAmJiA=</text>
+        <text>../</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICYmIG5wbSBydW4gYnVpbGQ6ZXh0ZXJuYWxzICYmIG5wbSBydW4gYnVpbGQ6eW91dHJhY2sgJiYgbnBtIHJ1biBidWlsZDpodWI=</text>
+        <text>../</text>
       </register>
-      <register name="3" type="4">
-        <text>karma start</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICJwcmVidWlsZDpodWIiOiAiY2QgaHViLyIsCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>,</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICJmb28iOiAiZWNobyAkKHB3ZCkiLAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICJjb21taXQ6bWVzc2FnZSI6ICIuL3NjcmlwdC9jb21taXQtbWVzc2FnZS5zaCIK</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICYmIHJtIC1yZiAuL25vZGVfbW9kdWxlcy93ZWJwYWNrICYmIG5wbSBpbnN0YWxs</text>
       </register>
       <register name="6" type="4">
-        <text>backend</text>
+        <text>,</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICJidWlsZDp0cmFuc2xhdGlvbnMiOiAibWtkaXIgLXAgdHJhbnNsYXRpb25zICYmIGFuZ3VsYXItZ2V0dGV4dC1jbGkgLS1maWxlcyAne25vZGVfbW9kdWxlcy9yaW5nLXVpL2NvbXBvbmVudHMvbWVzc2FnZS1idW5kbGUtbmcvbWVzc2FnZS1idW5kbGUtbmcuanMsYXBwLyoue2pzLGh0bWx9LGFwcC97Y29tcG9uZW50cyxwYWdlcyxzY3JpcHRzLGV4dGVybmFsc30veyoqLyx9Ki57anMsaHRtbH0sZXh0ZXJuYWxzL3sqKi8sfSoue2h0bWwsanN9LG5vZGVfbW9kdWxlcy9wcm9qZWN0LXdpemFyZC9zcmMve2Jsb2NrcyxwYWdlc30veyoqLyx9Ki57anMsaHRtbH0sbm9kZV9tb2R1bGVzL3JpbmctZGFzaGJvYXJkL2FwcC97YmxvY2tzLHdpZGdldHN9Lyoue2pzLGh0bWx9fScgLS1kZXN0IHRyYW5zbGF0aW9ucy9kZWZhdWx0LnBvdCAtLW1hcmtlci1uYW1lIGkxOG4iCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">LVB1c2VyLmhvbWU9JEhPTUUvdG1wL3lvdXRyYWNrLWhvbWUvZm9vIA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICJidWlsZDpleHRlcm5hbHMiOiAiZ3J1bnQgLS1ncnVudGZpbGU9YnVpbHRJbkdydW50ZmlsZS5qcyIsCg==</text>
       </register>
       <register name="9" type="4">
-        <text>/tmp/youtrack</text>
+        <text encoding="base64">ICYmIG1rZGlyIC4uL2Rpc3QvYWRtaW4gJiYgbXYgZGlzdCAuLi9kaXN0L2FkbWluL2h1Yg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>mkdir</last-search>
+      <last-search>cd</last-search>
       <last-offset />
-      <last-pattern>mkdir</last-pattern>
+      <last-pattern>cd</last-pattern>
       <last-replace>__dirname</last-replace>
       <last-substitute>projectDirectory</last-substitute>
       <last-dir>1</last-dir>
@@ -1486,10 +1490,6 @@
     </search>
     <history>
       <history-search>
-        <entry>reports</entry>
-        <entry>toggle</entry>
-        <entry>backlog</entry>
-        <entry>teamsis</entry>
         <entry>teamcis</entry>
         <entry>teamsys</entry>
         <entry encoding="base64">XDxhZGRXaWRnZXRQb3B1cEl0ZW1cPg==</entry>
@@ -1505,7 +1505,11 @@
         <entry>webpack</entry>
         <entry>clean</entry>
         <entry>dist</entry>
+        <entry>mdir</entry>
         <entry>mkdir</entry>
+        <entry encoding="base64">XDx0cmFuc2xhdGlvbnNcPg==</entry>
+        <entry>gettext-cli</entry>
+        <entry>cd</entry>
       </history-search>
       <history-cmd>
         <entry>%s/AppConfig/this.props.auth.config/gc</entry>
