@@ -61,8 +61,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/react-ng/react-ng.js" timestamp="1458350482248">
         <mark key="'" line="260" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1459169408062">
-        <mark key="'" line="117" column="13" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1459172175308">
+        <mark key="'" line="67" column="11" />
         <mark key="[" line="134" column="31" />
         <mark key="]" line="134" column="48" />
         <mark key="." line="134" column="31" />
@@ -162,6 +162,9 @@
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/sinon/lib/sinon.js" timestamp="1458033996065">
         <mark key="'" line="43" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/css-loader/package.json" timestamp="1459172210898">
+        <mark key="'" line="80" column="0" />
       </file>
       <file name="$USER_HOME$/www/js/TestAndroid/index.android.js" timestamp="1457423519983">
         <mark key="'" line="55" column="0" />
@@ -1304,13 +1307,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="281" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/npm/lib/npm.js" />
-      <jump line="97" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/hub/package.json" />
-      <jump line="12" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/hub/package.json" />
-      <jump line="18" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/tools/install-hub-client.js" />
-      <jump line="21" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/tools/install-hub-client.js" />
-      <jump line="81" column="3" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/hub/package.json" />
-      <jump line="109" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/hub/package.json" />
       <jump line="10" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/hub/package.json" />
       <jump line="43" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/Gruntfile.js" />
       <jump line="64" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/Gruntfile.js" />
@@ -1404,6 +1400,13 @@
       <jump line="61" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/webpack/lib/optimize/UglifyJsPlugin.js" />
       <jump line="66" column="29" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/webpack/lib/optimize/UglifyJsPlugin.js" />
       <jump line="70" column="40" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/webpack/lib/optimize/UglifyJsPlugin.js" />
+      <jump line="133" column="47" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="19" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="67" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/css-loader/package.json" />
+      <jump line="25" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/css-loader/package.json" />
+      <jump line="81" column="3" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/css-loader/package.json" />
+      <jump line="80" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/css-loader/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1413,7 +1416,7 @@
         <text encoding="base64">Jz4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Jw==</text>
       </register>
       <register name="/" type="4">
-        <text>source</text>
+        <text>version</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZygnPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4nKTsK</text>
@@ -1453,9 +1456,9 @@
       </register>
     </registers>
     <search>
-      <last-search>source</last-search>
+      <last-search>version</last-search>
       <last-offset />
-      <last-pattern>source</last-pattern>
+      <last-pattern>version</last-pattern>
       <last-replace>__dirname</last-replace>
       <last-substitute>projectDirectory</last-substitute>
       <last-dir>1</last-dir>
@@ -1463,9 +1466,6 @@
     </search>
     <history>
       <history-search>
-        <entry>anali</entry>
-        <entry>anal</entry>
-        <entry>ana</entry>
         <entry>dev</entry>
         <entry>prof</entry>
         <entry>dist</entry>
@@ -1483,6 +1483,9 @@
         <entry>useSour</entry>
         <entry encoding="base64">XDxzb3VyY2VNYXBcPg==</entry>
         <entry>source</entry>
+        <entry>css-load</entry>
+        <entry>css</entry>
+        <entry>version</entry>
       </history-search>
       <history-cmd>
         <entry>%s/AppConfig/this.props.auth.config/gc</entry>
