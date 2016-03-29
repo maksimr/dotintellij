@@ -359,6 +359,9 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/grunt-angular-gettext/package.json" timestamp="1459167962149">
         <mark key="'" line="81" column="3" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/issue-resource.js" timestamp="1459249354188">
+        <mark key="'" line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/build.gradle" timestamp="1457003035689">
         <mark key="'" line="102" column="0" />
       </file>
@@ -713,6 +716,13 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/controller/issues-menu-create-button.js" timestamp="1459248974829">
+        <mark key="'" line="4" column="4" />
+        <mark key="[" line="4" column="34" />
+        <mark key="]" line="4" column="34" />
+        <mark key="." line="4" column="34" />
+        <mark key="^" line="4" column="34" />
+      </file>
       <file name="$USER_HOME$/www/js/TestAndroid/android/app/react.gradle" timestamp="1457258705996">
         <mark key="'" line="96" column="0" />
       </file>
@@ -1045,12 +1055,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="5" column="14" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/header.js" timestamp="1459242895637">
-        <mark key="'" line="18" column="30" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/header.js" timestamp="1459249342421">
+        <mark key="'" line="292" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
         <mark key="^" line="20" column="22" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/service/agile-board-sort-config.js" timestamp="1458555892010">
         <mark key="'" line="36" column="0" />
@@ -1236,14 +1246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/youtrack.scss" />
-      <jump line="9" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/youtrack.scss" />
-      <jump line="21" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/youtrack.scss" />
-      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/main-core.scss" />
-      <jump line="241" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/main-core.scss" />
-      <jump line="75" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
-      <jump line="87" column="3" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
-      <jump line="57" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/webpack.config.js" />
       <jump line="77" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/webpack.config.js" />
       <jump line="93" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/webpack.config.js" />
       <jump line="80" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/webpack.config.js" />
@@ -1336,59 +1338,66 @@
       <jump line="44" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/directive/yt-header.js" />
       <jump line="18" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/directive/yt-header.js" />
       <jump line="124" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/directive/yt-header.js" />
+      <jump line="4" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/controller/issues-menu-create-button.js" />
+      <jump line="12" column="34" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/header.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/header.js" />
+      <jump line="14" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/header.js" />
+      <jump line="13" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/header.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/header.js" />
+      <jump line="292" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/header.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/issue-resource.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBQb3B1cE1lbnU6IHJlcXVpcmUoJ3JpbmctdWkvY29tcG9uZW50cy9wb3B1cC1tZW51L3BvcHVwLW1lbnUnKQo=</text>
       </register>
       <register name="-" type="4">
         <text>scope</text>
       </register>
       <register name="/" type="4">
-        <text>translation</text>
+        <text>icon</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnJHNjb3BlJywK</text>
+        <text encoding="base64">ICBQb3B1cE1lbnU6IHJlcXVpcmUoJ3JpbmctdWkvY29tcG9uZW50cy9wb3B1cC1tZW51L3BvcHVwLW1lbnUnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBQb3B1cE1lbnU6IHJlcXVpcmUoJ3JpbmctdWkvY29tcG9uZW50cy9wb3B1cC1tZW51L3BvcHVwLW1lbnUnKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCRhdHRycy5mb28pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>scope</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmVxdWlyZSgnLi9zdHlsZS9oZWFkZXItZml4LWxvZ28uc2NzcycpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>-fix-logo</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCRhdHRycy5mb28pOwo=</text>
       </register>
       <register name="6" type="4">
-        <text>header-navigation-menu</text>
+        <text>scope</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QGltcG9ydCAiLi95dC1oZWFkZXIiOwo=</text>
+        <text encoding="base64">cmVxdWlyZSgnLi9zdHlsZS9oZWFkZXItZml4LWxvZ28uc2NzcycpOwo=</text>
       </register>
       <register name="8" type="4">
-        <text>./header-fix-logo</text>
+        <text>-fix-logo</text>
       </register>
-      <register name="9" type="8">
-        <text>../
-../</text>
+      <register name="9" type="4">
+        <text>header-navigation-menu</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>translation</last-search>
+      <last-search>icon</last-search>
       <last-offset />
-      <last-pattern>translation</last-pattern>
+      <last-pattern>icon</last-pattern>
       <last-replace>__dirname</last-replace>
       <last-substitute>projectDirectory</last-substitute>
       <last-dir>1</last-dir>
@@ -1396,7 +1405,6 @@
     </search>
     <history>
       <history-search>
-        <entry>svgSprite</entry>
         <entry encoding="base64">XDxzdmdTcHJpdGVMb2FkZXJcPg==</entry>
         <entry>include</entry>
         <entry>svg</entry>
@@ -1416,6 +1424,7 @@
         <entry>trans</entry>
         <entry encoding="base64">XDxsYW5ndWFnZURhdGFcPg==</entry>
         <entry>translation</entry>
+        <entry>icon</entry>
       </history-search>
       <history-cmd>
         <entry>%s/AppConfig/this.props.auth.config/gc</entry>
