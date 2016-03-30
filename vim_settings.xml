@@ -518,6 +518,9 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/sinon/pkg/sinon-1.12.1.js" timestamp="1458034062648">
         <mark key="'" line="1579" column="25" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/gradlew" timestamp="1459329858169">
+        <mark key="'" line="162" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/edit-project/workflows.js" timestamp="1458736440481">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="90" column="91" />
@@ -1181,8 +1184,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-touch/angular-touch.js" timestamp="1458402416415">
         <mark key="'" line="245" column="8" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/components.gradle" timestamp="1458595937249">
-        <mark key="'" line="26" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/components.gradle" timestamp="1459329919915">
+        <mark key="'" line="19" column="13" />
         <mark key="[" line="13" column="18" />
         <mark key="]" line="13" column="24" />
         <mark key="." line="13" column="24" />
@@ -1197,16 +1200,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/controller/issues-menu-create-button.js" />
-      <jump line="12" column="34" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/header.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/header.js" />
-      <jump line="14" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/header.js" />
-      <jump line="13" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/header.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/header.js" />
-      <jump line="292" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/header.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/issue-resource.js" />
-      <jump line="53" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header-menu-builder/service/header-menu-builder.js" />
-      <jump line="170" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header-menu-builder/service/header-menu-builder.js" />
       <jump line="9" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/components/menu/menu.js" />
       <jump line="314" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/components/menu/menu.js" />
       <jump line="14" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/components/menu/menu.js" />
@@ -1297,6 +1290,16 @@
       <jump line="52" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/externals.config.js" />
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
       <jump line="20" column="33" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/externals.config.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/components.gradle" />
+      <jump line="27" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/components.gradle" />
+      <jump line="7" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/gradlew" />
+      <jump line="141" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/gradlew" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/gradlew" />
+      <jump line="145" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/gradlew" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/gradlew" />
+      <jump line="160" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/gradlew" />
+      <jump line="162" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/gradlew" />
+      <jump line="19" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/components.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1306,7 +1309,7 @@
         <text>resolve</text>
       </register>
       <register name="/" type="4">
-        <text>svg</text>
+        <text>node</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJlc29sdmU6IHdlYnBhY2tTaGFyZS5yZXNvbHZlLAo=</text>
@@ -1346,9 +1349,9 @@
       </register>
     </registers>
     <search>
-      <last-search>svg</last-search>
+      <last-search>node</last-search>
       <last-offset />
-      <last-pattern>svg</last-pattern>
+      <last-pattern>node</last-pattern>
       <last-replace>__dirname</last-replace>
       <last-substitute>projectDirectory</last-substitute>
       <last-dir>1</last-dir>
@@ -1356,7 +1359,6 @@
     </search>
     <history>
       <history-search>
-        <entry>it</entry>
         <entry encoding="base64">XDxnZXRJc3N1ZUlkXD4=</entry>
         <entry>header</entry>
         <entry encoding="base64">XDxfX3dlYnBhY2tfcHVibGljX3BhdGhfX1w+</entry>
@@ -1376,6 +1378,7 @@
         <entry>html</entry>
         <entry>new</entry>
         <entry>svg</entry>
+        <entry>node</entry>
       </history-search>
       <history-cmd>
         <entry>%s/AppConfig/this.props.auth.config/gc</entry>
