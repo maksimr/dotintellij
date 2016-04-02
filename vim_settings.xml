@@ -130,6 +130,9 @@
         <mark key="." line="38" column="39" />
         <mark key="^" line="38" column="39" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-custom-field.js" timestamp="1459624777259">
+        <mark key="'" line="9" column="6" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-scrumboard/src/main/kotlin/jetbrains/youtrack/agile/settings/AgileColumn.kt" timestamp="1455888848196">
         <mark key="'" line="74" column="0" />
       </file>
@@ -1227,12 +1230,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-comment.js" timestamp="1459623846627">
-        <mark key="'" line="45" column="44" />
-        <mark key="[" line="55" column="5" />
-        <mark key="]" line="57" column="28" />
-        <mark key="." line="57" column="28" />
-        <mark key="^" line="57" column="28" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-comment.js" timestamp="1459624731902">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="30" column="20" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-interval-input.js" timestamp="1458044560924">
         <mark key="'" line="4" column="13" />
@@ -1476,10 +1479,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/style/yt-issue-body.scss" />
-      <jump line="6" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/main-core.scss" />
-      <jump line="11" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/style/yt-issue-body.scss" />
-      <jump line="30" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-body.html" />
       <jump line="74" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
       <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
@@ -1576,67 +1575,69 @@
       <jump line="56" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-comment.js" />
       <jump line="62" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-comment.js" />
       <jump line="45" column="44" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-comment.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-comment.js" />
+      <jump line="63" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-custom-field.js" />
+      <jump line="58" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-custom-field.js" />
+      <jump line="9" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-custom-field.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>commentMock.author.login</text>
       </register>
       <register name="/" type="4">
-        <text>auth</text>
+        <text encoding="base64">XDx1c2VyUGVybWlzc2lvbnNNb2NrXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>This directive allow edit custom field bundle</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHZhciBjb21tZW50TW9jayA9IHt9OwogICAgY29tbWVudE1vY2suYXV0aG9yID0gewogICAgICBsb2dpbjogJ0VyaWNrJywKICAgICAgZW1haWw6ICdlcmlja0BnbWFpbC5jb20nCiAgICB9OwoKICAgIGV4cGVjdChnZXRDdHJsKCkuZ2V0QXV0aG9yKGNvbW1lbnRNb2NrKSkudG9FcXVhbChjb21tZW50TW9jay5hdXRob3IubG9naW4pOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>,</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uKCRwcm92aWRlKSB7CiAgICAgICRwcm92aWRlLnByb3ZpZGVyKCdhdXRoJywgdGhpcy5hdXRoUHJvdmlkZXJNb2NrKTsKICAgIH0K</text>
+        <text encoding="base64">ICBpdCgnc2hvdWxkIHJldHVybiBjb21tZW50IGF1dGhvciBhcyBmdWxsIG5hbWUnLCBmdW5jdGlvbigpIHsKICAgIHZhciBjb21tZW50TW9jayA9IHt9OwogICAgY29tbWVudE1vY2suYXV0aG9yID0gewogICAgICBmdWxsTmFtZTogJ0VyaWNrIENsYXB0b24nCiAgICB9OwoKICAgIGV4cGVjdChnZXRDdHJsKCkuZ2V0QXV0aG9yKGNvbW1lbnRNb2NrKSkudG9FcXVhbChjb21tZW50TW9jay5hdXRob3IuZnVsbE5hbWUpOwogIH0pOwoKICBpdCgnc2hvdWxkIHJldHVybiBjb21tZW50IGF1dGhvciBhcyBsb2dpbicsIGZ1bmN0aW9uKCkgewogICAgdmFyIGNvbW1lbnRNb2NrID0ge307CiAgICBjb21tZW50TW9jay5hdXRob3IgPSB7CiAgICAgIGxvZ2luOiAnRXJpY2snCiAgICB9OwoKICAgIGV4cGVjdChnZXRDdHJsKCkuZ2V0QXV0aG9yKGNvbW1lbnRNb2NrKSkudG9FcXVhbChjb21tZW50TW9jay5hdXRob3IubG9naW4pOwogIH0pOwoKICBpdCgnc2hvdWxkIHJldHVybiBjb21tZW50IGF1dGhvciBhcyBlbWFpbCcsIGZ1bmN0aW9uKCkgewogICAgdmFyIGNvbW1lbnRNb2NrID0ge307CiAgICBjb21tZW50TW9jay5hdXRob3IgPSB7CiAgICAgIGVtYWlsOiAnZXJpY2tAZ21haWwuY29tJwogICAgfTsKCiAgICBleHBlY3QoZ2V0Q3RybCgpLmdldEF1dGhvcihjb21tZW50TW9jaykpLnRvRXF1YWwoY29tbWVudE1vY2suYXV0aG9yLmVtYWlsKTsKICB9KTsKCiAgaXQoJ3Nob3VsZCBwcmVmZXIgZnVsbCBuYW1lIHRvIGxvZ2luJywgZnVuY3Rpb24oKSB7CiAgICB2YXIgY29tbWVudE1vY2sgPSB7fTsKICAgIGNvbW1lbnRNb2NrLmF1dGhvciA9IHsKICAgICAgZnVsbE5hbWU6ICdFcmljayBDbGFwdG9uJywKICAgICAgbG9naW46ICdFcmljaycKICAgIH07CgogICAgZXhwZWN0KGdldEN0cmwoKS5nZXRBdXRob3IoY29tbWVudE1vY2spKS50b0VxdWFsKGNvbW1lbnRNb2NrLmF1dGhvci5mdWxsTmFtZSk7CiAgfSk7CgogIGl0KCdzaG91bGQgcHJlZmVyIGxvZ2luIHRvIGVtYWlsJywgZnVuY3Rpb24oKSB7CiAgICB2YXIgY29tbWVudE1vY2sgPSB7fTsKICAgIGNvbW1lbnRNb2NrLmF1dGhvciA9IHsKICAgICAgbG9naW46ICdFcmljaycsCiAgICAgIGVtYWlsOiAnZXJpY2tAZ21haWwuY29tJwogICAgfTsKCiAgICBleHBlY3QoZ2V0Q3RybCgpLmdldEF1dGhvcihjb21tZW50TW9jaykpLnRvRXF1YWwoY29tbWVudE1vY2suYXV0aG9yLmxvZ2luKTsKICB9KTsKCiAgaXQoJ3Nob3VsZCByZXR1cm4gZW1wdHkgc3RyaW5nIGlmIGF1dGhvciBkb2VzIG5vdCBoYXZlIG5hbWUsIGxvZ2luIG9yIGVtYWlsJywgZnVuY3Rpb24oKSB7CiAgICB2YXIgY29tbWVudE1vY2sgPSB7fTsKICAgIGNvbW1lbnRNb2NrLmF1dGhvciA9IHt9OwoKICAgIGV4cGVjdChnZXRDdHJsKCkuZ2V0QXV0aG9yKGNvbW1lbnRNb2NrKSkudG9FcXVhbCgnJyk7CiAgfSk7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>commentMock.author.login</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnOwo=</text>
+        <text encoding="base64">ICAgICAgbG9naW46ICdFcmljaycsCiAgICAgIGVtYWlsOiAnZXJpY2tAZ21haWwuY29tJwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>Boolean(</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>Boolean(</text>
+        <text>fullName</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgICAgZnVsbE5hbWU6ICdFcmljayBDbGFwdG9uJywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICAgICAgZnVsbE5hbWU6ICdFcmljayBDbGFwdG9uJywK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICovCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ZnVsbCBuYW1lIHRvIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>auth</last-search>
+      <last-search encoding="base64">XDx1c2VyUGVybWlzc2lvbnNNb2NrXD4=</last-search>
       <last-offset />
-      <last-pattern>auth</last-pattern>
+      <last-pattern encoding="base64">XDx1c2VyUGVybWlzc2lvbnNNb2NrXD4=</last-pattern>
       <last-replace>__dirname</last-replace>
       <last-substitute>projectDirectory</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>min-he</entry>
-        <entry>62</entry>
         <entry>size</entry>
         <entry>height</entry>
         <entry encoding="base64">XDxvcmlnaW5hbEhlaWdodFw+</entry>
@@ -1655,6 +1656,8 @@
         <entry>@jsdoc</entry>
         <entry encoding="base64">XDxpc0lubGluZVw+</entry>
         <entry>auth</entry>
+        <entry>this.user</entry>
+        <entry encoding="base64">XDx1c2VyUGVybWlzc2lvbnNNb2NrXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/AppConfig/this.props.auth.config/gc</entry>
