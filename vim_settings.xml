@@ -1433,12 +1433,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/karma-webpack/index.js" timestamp="1458333960882">
         <mark key="'" line="95" column="2" />
       </file>
-      <file name="$USER_HOME$/www/js/lokijs-test/test/lib/server/serverSpec.js" timestamp="1459723292495">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="11" column="33" />
-        <mark key="]" line="11" column="39" />
-        <mark key="." line="11" column="39" />
-        <mark key="^" line="11" column="39" />
+      <file name="$USER_HOME$/www/js/lokijs-test/test/lib/server/serverSpec.js" timestamp="1459724801041">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="25" column="16" />
+        <mark key="]" line="25" column="17" />
+        <mark key="." line="25" column="17" />
+        <mark key="^" line="25" column="17" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/sprint-base-form.html" timestamp="1458743940234">
         <mark key="'" line="59" column="0" />
@@ -1557,11 +1557,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="314" column="0" filename="$USER_HOME$/www/js/lokijs-test/test/lib/appSpec.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/js/lokijs-test/webpack.config.js" />
-      <jump line="21" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/karma.conf.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/js/lokijs-test/test/testBundle.webpack.js" />
-      <jump line="23" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/test/test-bundle.webpack.js" />
       <jump line="25" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/test/test-bundle.webpack.js" />
       <jump line="24" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/test/test-bundle.webpack.js" />
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/test/test-bundle.webpack.js" />
@@ -1657,49 +1652,54 @@
       <jump line="6" column="24" filename="$USER_HOME$/www/js/lokijs-test/package.json" />
       <jump line="21" column="20" filename="$USER_HOME$/www/js/lokijs-test/package.json" />
       <jump line="7" column="0" filename="$USER_HOME$/www/js/lokijs-test/test/lib/server/serverSpec.js" />
+      <jump line="19" column="34" filename="$USER_HOME$/www/js/lokijs-test/test/lib/server/serverSpec.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/www/js/lokijs-test/test/lib/server/serverSpec.js" />
+      <jump line="29" column="0" filename="$USER_HOME$/www/js/lokijs-test/test/lib/server/serverSpec.js" />
+      <jump line="27" column="0" filename="$USER_HOME$/www/js/lokijs-test/test/lib/server/serverSpec.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/js/lokijs-test/test/lib/server/serverSpec.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>id</text>
+        <text>'Class::Integer',</text>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>'Class::Integer',</text>
       </register>
       <register name="/" type="4">
         <text>sinon</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2ZXIuZ2V0KCcvYXBpL2lzc3Vlcy86aWQnLCBmdW5jdGlvbigpIHsKICAgICAgICAgICAgcmV0dXJuIGRiLnF1ZXJ5KGlkKTsKICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWQ6ICdJbnRlZ2VyJwo=</text>
       </register>
       <register name="1" type="4">
-        <text>id</text>
+        <text>'Class::Integer',</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text>Integer</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="3" type="4">
+        <text>id</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYi5jb2xsZWN0aW9uKCdpc3N1ZXMnKS5pbnNlcnQoewogICAgICAgIH0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGIuY3JlYXRlKCdhcGkvaXNzdWVzLzppZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWQ6ICcuLi4nCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGIuY3JlYXRlKCdpc3N1ZXMnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJ2ZXIuZGVsZXRlKCcvJykK</text>
+        <text encoding="base64">ICAgIGRiKCdjaGF0JywgZnVuY3Rpb24odGFibGUpIHsgfSk7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>use</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB0YWJsZSgnY29tbWVudHMnLCBmdW5jdGlvbihmaWVsZCkgewogICAgICAgICAgICBmaWVsZCgnaWQnLCBmdW5jdGlvbigpIHsKICAgICAgICAgICAgfSk7CgogICAgICAgICAgICBmaWVsZCgndGVzdCcsIGZ1bmN0aW9uKCkgewogICAgICAgICAgICB9KTsKICAgICAgICAgICAgCiAgICAgICAgICAgIGZpZWxkKCd1c2VycycsIGZ1bmN0aW9uKCkgewogICAgICAgICAgICB9KTsKICAgICAgICB9KTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="9" type="4">
+        <text>table</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
