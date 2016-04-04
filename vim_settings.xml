@@ -66,6 +66,9 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/npm/lib/npm.js" timestamp="1459158452755">
         <mark key="'" line="281" column="4" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/utils.js" timestamp="1459763570348">
+        <mark key="'" line="183" column="2" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-sort-config.js" timestamp="1458830209713">
         <mark key="'" line="133" column="0" />
         <mark key="[" line="32" column="0" />
@@ -750,13 +753,11 @@
         <mark key="^" line="56" column="67" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/form/directive/yt-form-input.js" timestamp="1459763630133">
+        <mark key="'" line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/www/js/TestAndroid/node_modules/react-native/Libraries/AppRegistry/AppRegistry.js" timestamp="1456991863480">
         <mark key="'" line="108" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/js/lokijs-test/node_modules/lokijs/src/lokijs.js" timestamp="1459720182802">
-        <mark key="'" line="31" column="16" />
-        <mark key="[" line="397" column="18" />
-        <mark key="]" line="397" column="24" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/externals/vcs-changes/service/config.js" timestamp="1459327279046">
         <mark key="'" line="87" column="4" />
@@ -775,12 +776,11 @@
         <mark key="." line="15" column="53" />
         <mark key="^" line="15" column="53" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-body.js" timestamp="1459623468017">
-        <mark key="'" line="21" column="12" />
-        <mark key="[" line="94" column="27" />
-        <mark key="]" line="94" column="42" />
-        <mark key="." line="94" column="42" />
-        <mark key="^" line="94" column="42" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-body.js" timestamp="1459764205300">
+        <mark key="[" line="122" column="25" />
+        <mark key="]" line="122" column="31" />
+        <mark key="." line="122" column="31" />
+        <mark key="^" line="122" column="31" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/board-columns-utils.js" timestamp="1457955110569">
         <mark key="'" line="59" column="0" />
@@ -1392,11 +1392,11 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/permissions.js" timestamp="1457089594693">
         <mark key="'" line="4" column="2" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-body.js" timestamp="1459760357145">
-        <mark key="'" line="17" column="24" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-body.js" timestamp="1459764242986">
+        <mark key="[" line="18" column="18" />
+        <mark key="]" line="18" column="26" />
+        <mark key="." line="18" column="26" />
+        <mark key="^" line="18" column="26" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/form/form.js" timestamp="1458726451899">
         <mark key="'" line="25" column="19" />
@@ -1539,12 +1539,12 @@
         <mark key="^" line="29" column="1" />
         <mark key="." line="29" column="1" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-body.html" timestamp="1459762314288">
-        <mark key="'" line="15" column="34" />
-        <mark key="[" line="25" column="62" />
-        <mark key="]" line="25" column="61" />
-        <mark key="^" line="25" column="61" />
-        <mark key="." line="25" column="61" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-body.html" timestamp="1459763717723">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="10" column="36" />
+        <mark key="]" line="10" column="43" />
+        <mark key="^" line="10" column="43" />
+        <mark key="." line="10" column="43" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-touch/angular-touch.js" timestamp="1458402416415">
         <mark key="'" line="245" column="8" />
@@ -1565,31 +1565,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="801" column="7" filename="$USER_HOME$/www/js/lokijs-test/node_modules/lokijs/src/lokijs.js" />
-      <jump line="454" column="16" filename="$USER_HOME$/www/js/lokijs-test/node_modules/lokijs/src/lokijs.js" />
-      <jump line="836" column="4" filename="$USER_HOME$/www/js/lokijs-test/node_modules/lokijs/src/lokijs.js" />
-      <jump line="818" column="4" filename="$USER_HOME$/www/js/lokijs-test/node_modules/lokijs/src/lokijs.js" />
-      <jump line="796" column="13" filename="$USER_HOME$/www/js/lokijs-test/node_modules/lokijs/src/lokijs.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/js/lokijs-test/node_modules/lokijs/src/lokijs.js" />
-      <jump line="434" column="18" filename="$USER_HOME$/www/js/lokijs-test/node_modules/lokijs/src/lokijs.js" />
-      <jump line="810" column="16" filename="$USER_HOME$/www/js/lokijs-test/node_modules/lokijs/src/lokijs.js" />
-      <jump line="1120" column="89" filename="$USER_HOME$/www/js/lokijs-test/node_modules/lokijs/src/lokijs.js" />
-      <jump line="2256" column="68" filename="$USER_HOME$/www/js/lokijs-test/node_modules/lokijs/src/lokijs.js" />
-      <jump line="362" column="54" filename="$USER_HOME$/www/js/lokijs-test/node_modules/lokijs/src/lokijs.js" />
-      <jump line="10" column="0" filename="$USER_HOME$/www/js/lokijs-test/node_modules/lokijs/src/loki-indexed-adapter.js" />
-      <jump line="562" column="0" filename="$USER_HOME$/www/js/lokijs-test/node_modules/lokijs/src/loki-indexed-adapter.js" />
-      <jump line="433" column="17" filename="$USER_HOME$/www/js/lokijs-test/node_modules/lokijs/src/lokijs.js" />
-      <jump line="429" column="50" filename="$USER_HOME$/www/js/lokijs-test/node_modules/lokijs/src/lokijs.js" />
-      <jump line="2460" column="73" filename="$USER_HOME$/www/js/lokijs-test/node_modules/lokijs/src/lokijs.js" />
-      <jump line="1047" column="16" filename="$USER_HOME$/www/js/lokijs-test/node_modules/lokijs/src/lokijs.js" />
-      <jump line="4091" column="0" filename="$USER_HOME$/www/js/lokijs-test/node_modules/lokijs/src/lokijs.js" />
-      <jump line="809" column="13" filename="$USER_HOME$/www/js/lokijs-test/node_modules/lokijs/src/lokijs.js" />
-      <jump line="448" column="10" filename="$USER_HOME$/www/js/lokijs-test/node_modules/lokijs/src/lokijs.js" />
-      <jump line="339" column="7" filename="$USER_HOME$/www/js/lokijs-test/node_modules/lokijs/src/lokijs.js" />
-      <jump line="344" column="13" filename="$USER_HOME$/www/js/lokijs-test/node_modules/lokijs/src/lokijs.js" />
-      <jump line="31" column="16" filename="$USER_HOME$/www/js/lokijs-test/node_modules/lokijs/src/lokijs.js" />
-      <jump line="50" column="17" filename="$USER_HOME$/www/js/lokijs-test/test/lib/appSpec.js" />
-      <jump line="38" column="4" filename="$USER_HOME$/www/js/lokijs-test/test/lib/appSpec.js" />
       <jump line="328" column="0" filename="$USER_HOME$/www/js/lokijs-test/test/lib/appSpec.js" />
       <jump line="186" column="0" filename="$USER_HOME$/www/js/lokijs-test/test/lib/appSpec.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/js/lokijs-test/lib/angular-mocks.js" />
@@ -1665,58 +1640,83 @@
       <jump line="32" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/style/yt-issue-body.scss" />
       <jump line="13" column="1" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/style/yt-issue-body.scss" />
       <jump line="15" column="34" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-body.html" />
+      <jump line="11" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-body.html" />
+      <jump line="39" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-body.html" />
+      <jump line="94" column="56" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-body.js" />
+      <jump line="20" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-body.js" />
+      <jump line="104" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-body.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-body.js" />
+      <jump line="26" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-body.js" />
+      <jump line="41" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-body.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/utils.js" />
+      <jump line="177" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/utils.js" />
+      <jump line="32" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/utils.js" />
+      <jump line="59" column="72" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/utils.js" />
+      <jump line="66" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/utils.js" />
+      <jump line="68" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/utils.js" />
+      <jump line="69" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/utils.js" />
+      <jump line="72" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/utils.js" />
+      <jump line="30" column="52" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/utils.js" />
+      <jump line="31" column="38" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/utils.js" />
+      <jump line="183" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/utils.js" />
+      <jump line="89" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-body.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/form/directive/yt-form-input.js" />
+      <jump line="112" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/form/directive/yt-form-input.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/form/directive/yt-form-input.js" />
+      <jump line="108" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-body.js" />
+      <jump line="103" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-body.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>enterKey</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>enterKey</text>
       </register>
       <register name="/" type="4">
-        <text>typography</text>
+        <text>ytKe</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgQGluY2x1ZGUgZml4SnVwRmllbGQoKTsK</text>
+        <text encoding="base64">ICAgICAgICBwcmVzc0V2ZW50LndoaWNoID0gMTM7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>;</text>
+        <text>enterKey</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBAaW5jbHVkZSBmaXhKdXBGaWVsZCgpOwo=</text>
+      <register name="2" type="4">
+        <text>13</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgQGluY2x1ZGUgZml4SnVwRmllbGQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCRldmVudC5rZXlDb2RlKTsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>keyCode</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgQGluY2x1ZGUgZml4SnVwRmllbGQoKTsK</text>
+      <register name="6" type="4">
+        <text>ctrlKey</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygkZXZlbnQua2V5Q29kZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>pressEvent</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>textare</last-search>
+      <last-search>ytKe</last-search>
       <last-offset />
-      <last-pattern>typography</last-pattern>
+      <last-pattern>ytKe</last-pattern>
       <last-replace>common</last-replace>
       <last-substitute>typography</last-substitute>
       <last-dir>1</last-dir>
@@ -1724,9 +1724,6 @@
     </search>
     <history>
       <history-search>
-        <entry>loki</entry>
-        <entry>devSer</entry>
-        <entry>fs</entry>
         <entry>require</entry>
         <entry encoding="base64">XDxyZXF1aXJlXD4=</entry>
         <entry encoding="base64">XDxMb2tpRnNBZGFwdGVyXD4=</entry>
@@ -1744,6 +1741,9 @@
         <entry encoding="base64">XDxjcmVhdGVJc3N1ZU1vY2tcPg==</entry>
         <entry>textare</entry>
         <entry>typography</entry>
+        <entry>direc</entry>
+        <entry>key</entry>
+        <entry>ytKe</entry>
       </history-search>
       <history-cmd>
         <entry>%s/AppConfig/this.props.auth.config/gc</entry>
