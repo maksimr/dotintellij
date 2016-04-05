@@ -69,6 +69,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/utils.js" timestamp="1459763570348">
         <mark key="'" line="183" column="2" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/externals/header/style/header.scss" timestamp="1459805101152">
+        <mark key="'" line="75" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-sort-config.js" timestamp="1458830209713">
         <mark key="'" line="133" column="0" />
         <mark key="[" line="32" column="0" />
@@ -1555,8 +1561,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-view.js" />
-      <jump line="49" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-view.js" />
       <jump line="101" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-view.js" />
       <jump line="17" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-view.js" />
       <jump line="28" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-view.js" />
@@ -1655,46 +1659,48 @@
       <jump line="22" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/production.config.js" />
       <jump line="96" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/production.config.js" />
       <jump line="138" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/externals/header/style/header.scss" />
+      <jump line="73" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/externals/header/style/header.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICByZXF1aXJlKCdyaW5nLXVpJyksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>this</text>
       </register>
       <register name="/" type="4">
-        <text>loaders</text>
+        <text>ps</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdGhpcy5nZXRSaW5nV2VicGFja0NvbmZpZygpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZXF1aXJlKCdyaW5nLXVpJyksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>this</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICB0ZXh0LWRlY29yYXRpb246IG5vbmUgIWltcG9ydGFudDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmluZ1dlYnBhY2tDb25maWcsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXF1aXJlKCdyaW5nLXVpJyksCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhciByaW5nV2VicGFja0NvbmZpZyA9IHJlcXVpcmUoJ3JpbmctdWknKTsKICAgIHJpbmdXZWJwYWNrQ29uZmlnLm1vZHVsZS5sb2FkZXJzID0gcmluZ1dlYnBhY2tDb25maWcubW9kdWxlLmxvYWRlcnMuZmlsdGVyKGZ1bmN0aW9uKGxvYWRlcikgewogICAgICByZXR1cm4gbG9hZGVyICE9PSByaW5nV2VicGFja0NvbmZpZy5zdmdTcHJpdGVMb2FkZXI7CiAgICB9KTsK</text>
+      <register name="5" type="4">
+        <text>this</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgcmluZ1dlYnBhY2tDb25maWcsCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>') + '</text>
-      </register>
-      <register name="8" type="4">
-        <text>resolveLoader(</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHZhciByaW5nV2VicGFja0NvbmZpZyA9IHJlcXVpcmUoJ3JpbmctdWknKTsKICAgIHJpbmdXZWJwYWNrQ29uZmlnLm1vZHVsZS5sb2FkZXJzID0gcmluZ1dlYnBhY2tDb25maWcubW9kdWxlLmxvYWRlcnMuZmlsdGVyKGZ1bmN0aW9uKGxvYWRlcikgewogICAgICByZXR1cm4gbG9hZGVyICE9PSByaW5nV2VicGFja0NvbmZpZy5zdmdTcHJpdGVMb2FkZXI7CiAgICB9KTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1704,9 +1710,9 @@
       </register>
     </registers>
     <search>
-      <last-search>loaders</last-search>
+      <last-search>ps</last-search>
       <last-offset />
-      <last-pattern>loaders</last-pattern>
+      <last-pattern>ps</last-pattern>
       <last-replace>common</last-replace>
       <last-substitute>typography</last-substitute>
       <last-dir>1</last-dir>
@@ -1714,8 +1720,6 @@
     </search>
     <history>
       <history-search>
-        <entry>body</entry>
-        <entry>onEdit</entry>
         <entry>fields</entry>
         <entry>tool</entry>
         <entry>run(</entry>
@@ -1734,6 +1738,8 @@
         <entry>svg</entry>
         <entry>loader</entry>
         <entry>loaders</entry>
+        <entry>pseu</entry>
+        <entry>ps</entry>
       </history-search>
       <history-cmd>
         <entry>%s/AppConfig/this.props.auth.config/gc</entry>
