@@ -187,6 +187,12 @@
         <mark key="." line="15" column="10" />
         <mark key="^" line="15" column="18" />
       </file>
+      <file name="$USER_HOME$/www/js/artifactory/spec/lib/fooSpec.js" timestamp="1459967252709">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/www/js/TestAndroid/node_modules/react-native/local-cli/server/runServer.js" timestamp="1457019164488">
         <mark key="'" line="75" column="0" />
       </file>
@@ -1659,8 +1665,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/yt-custom-field-bundle.html" />
-      <jump line="107" column="48" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/yt-custom-field-bundle.html" />
       <jump line="10" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-custom-field-simple.js" />
       <jump line="151" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-custom-field-simple.js" />
       <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/custom-fields.js" />
@@ -1759,13 +1763,15 @@
       <jump line="197" column="33" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.ws.rs/javax.ws.rs-api/2.0.1/a20db7429fd8dfff74335ec867472b71c345049b/javax.ws.rs-api-2.0.1-sources.jar!/javax/ws/rs/client/ClientBuilder.java" />
       <jump line="245" column="0" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.ws.rs/javax.ws.rs-api/2.0.1/a20db7429fd8dfff74335ec867472b71c345049b/javax.ws.rs-api-2.0.1-sources.jar!/javax/ws/rs/client/ClientBuilder.java" />
       <jump line="18" column="17" filename="$USER_HOME$/www/kotlin/artifactory-cleaner/src/main/kotlin/jetbrains/artifactory/cleaner/Main.kt" />
+      <jump line="4" column="2" filename="$USER_HOME$/www/js/artifactory/spec/lib/fooSpec.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/www/js/artifactory/spec/lib/fooSpec.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhuZXdWYWx1ZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>yt-date-validator</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxDbGllbnRCdWlsZGVyXD4=</text>
@@ -1774,34 +1780,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBEYXRlVXRpbHMuaXNTYW1lRGF5KGN0cmwuY2FsZW5kYXJWYWx1ZSwgZGF5KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhuZXdWYWx1ZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">cmVxdWlyZSgnLi4vLi4vbGliL2ZvbycpOwo=</text>
+      </register>
+      <register name="3" type="4">
+        <text>true</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhuZXdWYWx1ZSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyh0eXBlb2YgIGN0cmwuY2FsZW5kYXJWYWx1ZSk7Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGN0cmwuY2FsZW5kYXJWYWx1ZSk7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>yt-date-validator</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>text</text>
       </register>
-      <register name="6" type="4">
-        <text>element.querySelector(CALENDAR_INPUT_SELECTOR)</text>
-      </register>
-      <register name="7" type="4">
-        <text>element.querySelector(CALENDAR_INPUT_SELECTOR);</text>
-      </register>
-      <register name="8" type="4">
-        <text>element.querySelector(CALENDAR_INPUT_SELECTOR)</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">dmFyIHNlbGVjdGVkRm4gPSA=</text>
+        <text>element.querySelector(CALENDAR_INPUT_SELECTOR)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
