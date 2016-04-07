@@ -913,8 +913,8 @@
         <mark key="." line="50" column="44" />
         <mark key="^" line="50" column="44" />
       </file>
-      <file name="$USER_HOME$/www/js/artifactory/index.js" timestamp="1460041340662">
-        <mark key="'" line="12" column="0" />
+      <file name="$USER_HOME$/www/js/artifactory/index.js" timestamp="1460044321037">
+        <mark key="'" line="13" column="15" />
         <mark key="[" line="11" column="41" />
         <mark key="]" line="12" column="0" />
         <mark key="^" line="12" column="0" />
@@ -1762,9 +1762,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="9" filename="$USER_HOME$/www/js/artifactory/lib/storage.js" />
-      <jump line="182" column="77" filename="$USER_HOME$/www/js/artifactory/spec/lib/storageSpec.js" />
-      <jump line="31" column="0" filename="$USER_HOME$/www/js/artifactory/spec/lib/storageSpec.js" />
       <jump line="209" column="0" filename="$USER_HOME$/www/js/artifactory/spec/lib/storageSpec.js" />
       <jump line="136" column="0" filename="$USER_HOME$/www/js/artifactory/spec/lib/storageSpec.js" />
       <jump line="343" column="2" filename="$USER_HOME$/www/js/artifactory/node_modules/nock/lib/scope.js" />
@@ -1800,8 +1797,6 @@
       <jump line="10" column="96" filename="$USER_HOME$/www/kotlin/artifactory-cleaner/src/main/kotlin/jetbrains/artifactory/cleaner/Main.kt" />
       <jump line="11" column="0" filename="$USER_HOME$/www/kotlin/artifactory-cleaner/src/main/kotlin/jetbrains/artifactory/cleaner/Main.kt" />
       <jump line="14" column="0" filename="$USER_HOME$/www/js/artifactory/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/js/artifactory/index.js" />
-      <jump line="13" column="0" filename="$USER_HOME$/www/js/artifactory/index.js" />
       <jump line="27" column="0" filename="$USER_HOME$/www/js/artifactory/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/js/artifactory/lib/auth.js" />
       <jump line="216" column="0" filename="$USER_HOME$/www/js/artifactory/spec/lib/storageSpec.js" />
@@ -1862,6 +1857,11 @@
       <jump line="35" column="21" filename="$USER_HOME$/www/js/artifactory/index.js" />
       <jump line="37" column="0" filename="$USER_HOME$/www/js/artifactory/index.js" />
       <jump line="12" column="0" filename="$USER_HOME$/www/js/artifactory/index.js" />
+      <jump line="7" column="4" filename="$USER_HOME$/www/js/artifactory/index.js" />
+      <jump line="17" column="11" filename="$USER_HOME$/www/js/artifactory/index.js" />
+      <jump line="43" column="0" filename="$USER_HOME$/www/js/artifactory/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/js/artifactory/index.js" />
+      <jump line="13" column="15" filename="$USER_HOME$/www/js/artifactory/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1871,7 +1871,7 @@
         <text>'youtrack-ui'</text>
       </register>
       <register name="/" type="4">
-        <text>move</text>
+        <text>ring-ui</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dmFyIGN1cnJlbnRLZXkgPSAnbnBtLXJpbmcnOwp2YXIgdGFyZ2V0S2V5ID0gJ25wbS1yaW5nLW9sZC12ZXJzaW9ucyc7Cg==</text>
@@ -1911,9 +1911,9 @@
       </register>
     </registers>
     <search>
-      <last-search>move</last-search>
+      <last-search>ring-ui</last-search>
       <last-offset />
-      <last-pattern>move</last-pattern>
+      <last-pattern>ring-ui</last-pattern>
       <last-replace>common</last-replace>
       <last-substitute>typography</last-substitute>
       <last-dir>1</last-dir>
@@ -1921,8 +1921,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZWxldGVSaW5nVUlCdWlsZFw+</entry>
-        <entry encoding="base64">XDx0Z3pOYW1lUGF0dGVyblw+</entry>
         <entry encoding="base64">XDxjbGVhbkFsbFw+</entry>
         <entry encoding="base64">XDxhbGxJbnRlcmNlcHRvcnNcPg==</entry>
         <entry encoding="base64">XDxfcHJpbnRFcnJvclw+</entry>
@@ -1941,6 +1939,8 @@
         <entry encoding="base64">XDxyZXBvS2V5XD4=</entry>
         <entry>stats</entry>
         <entry>move</entry>
+        <entry encoding="base64">XDxjdXJyZW50S2V5XD4=</entry>
+        <entry>ring-ui</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;/'/gc</entry>
