@@ -56,8 +56,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/react-ng/react-ng.js" timestamp="1458350482248">
         <mark key="'" line="260" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1460058666871">
-        <mark key="'" line="88" column="5" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1460099578034">
+        <mark key="'" line="147" column="0" />
         <mark key="[" line="105" column="23" />
         <mark key="]" line="105" column="24" />
         <mark key="." line="105" column="24" />
@@ -372,8 +372,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-resolver.js" timestamp="1459181890587">
         <mark key="'" line="85" column="2" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" timestamp="1460099405634">
-        <mark key="'" line="287" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" timestamp="1460099567966">
+        <mark key="'" line="285" column="0" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="288" column="44" />
@@ -1781,13 +1781,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="3" filename="$USER_HOME$/www/js/artifactory/index.js" />
-      <jump line="35" column="21" filename="$USER_HOME$/www/js/artifactory/index.js" />
-      <jump line="37" column="0" filename="$USER_HOME$/www/js/artifactory/index.js" />
-      <jump line="12" column="0" filename="$USER_HOME$/www/js/artifactory/index.js" />
-      <jump line="7" column="4" filename="$USER_HOME$/www/js/artifactory/index.js" />
-      <jump line="17" column="11" filename="$USER_HOME$/www/js/artifactory/index.js" />
-      <jump line="43" column="0" filename="$USER_HOME$/www/js/artifactory/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/js/artifactory/index.js" />
       <jump line="13" column="15" filename="$USER_HOME$/www/js/artifactory/index.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-comments.js" />
@@ -1880,7 +1873,14 @@
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
       <jump line="132" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
       <jump line="287" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
+      <jump line="285" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
+      <jump line="141" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="107" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="147" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1890,7 +1890,7 @@
         <text>button-ng/button-ng</text>
       </register>
       <register name="/" type="4">
-        <text>wall</text>
+        <text>protr</text>
       </register>
       <register name="0" type="4">
         <text>rg-autofocus=&quot;true&quot;</text>
@@ -1930,9 +1930,9 @@
       </register>
     </registers>
     <search>
-      <last-search>wall</last-search>
+      <last-search>protr</last-search>
       <last-offset />
-      <last-pattern>wall</last-pattern>
+      <last-pattern>protr</last-pattern>
       <last-replace>common</last-replace>
       <last-substitute>typography</last-substitute>
       <last-dir>1</last-dir>
@@ -1940,7 +1940,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxSSU5HX1NFTEVDVF9TRUxFQ1RPUlw+</entry>
         <entry>input</entry>
         <entry>isAutoFocus</entry>
         <entry>yt-auto</entry>
@@ -1960,6 +1959,7 @@
         <entry>Int</entry>
         <entry>karma</entry>
         <entry>wall</entry>
+        <entry>protr</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;/'/gc</entry>
