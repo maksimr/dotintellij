@@ -1620,8 +1620,8 @@
         <mark key="^" line="389" column="26" />
         <mark key="." line="389" column="26" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-toolbar.js" timestamp="1460631820127">
-        <mark key="'" line="238" column="37" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-toolbar.js" timestamp="1460633673444">
+        <mark key="'" line="4" column="0" />
         <mark key="[" line="226" column="22" />
         <mark key="]" line="226" column="22" />
         <mark key="^" line="226" column="22" />
@@ -1949,11 +1949,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-view.js" />
-      <jump line="136" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-view.js" />
-      <jump line="69" column="3" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/permissions.js" />
-      <jump line="44" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/permissions.js" />
-      <jump line="59" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/permissions.js" />
       <jump line="67" column="58" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/permissions.js" />
       <jump line="87" column="53" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/permissions.js" />
       <jump line="91" column="47" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/permissions.js" />
@@ -2049,6 +2044,11 @@
       <jump line="44" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-toolbar.js" />
       <jump line="174" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-toolbar.js" />
       <jump line="45" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-toolbar.js" />
+      <jump line="245" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-toolbar.js" />
+      <jump line="277" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-toolbar.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-toolbar.js" />
+      <jump line="222" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-toolbar.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-toolbar.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2058,7 +2058,7 @@
         <text>fale</text>
       </register>
       <register name="/" type="4">
-        <text>onStar</text>
+        <text>onSave</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGl0KCdzaG91bGQgc3RhciBpc3N1ZScsIGZ1bmN0aW9uKCkgewogICAgICAkc2NvcGUub25BcHBseUNvbW1hbmQgPSBqYXNtaW5lLmNyZWF0ZVNweSgnYXBwbHlDb21tYW5kJyk7CiAgICAgIGN0cmwub25TdGFyVG9nZ2xlKCk7CgogICAgICBleHBlY3QoJHNjb3BlLm9uQXBwbHlDb21tYW5kKS50b0hhdmVCZWVuQ2FsbGVkV2l0aCgnc3RhciBtZScpOwogICAgfSk7Cg==</text>
@@ -2098,9 +2098,9 @@
       </register>
     </registers>
     <search>
-      <last-search>onStar</last-search>
+      <last-search>onSave</last-search>
       <last-offset />
-      <last-pattern>onStar</last-pattern>
+      <last-pattern>onSave</last-pattern>
       <last-replace>common</last-replace>
       <last-substitute>typography</last-substitute>
       <last-dir>1</last-dir>
@@ -2108,9 +2108,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1c2VyUGVybWlzc2lvbnNcPg==</entry>
-        <entry>auth</entry>
-        <entry>getCurrent</entry>
         <entry>canUs</entry>
         <entry>create</entry>
         <entry>issue-create</entry>
@@ -2128,6 +2125,9 @@
         <entry>star</entry>
         <entry encoding="base64">XDxvblN0YXJUb2dnbGVcPg==</entry>
         <entry>onStar</entry>
+        <entry>onSubmit</entry>
+        <entry>submit</entry>
+        <entry>onSave</entry>
       </history-search>
       <history-cmd>
         <entry>30</entry>
