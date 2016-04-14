@@ -574,12 +574,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/service/yt-date-utils.js" timestamp="1459878583268">
         <mark key="'" line="28" column="8" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-view.js" timestamp="1460641239395">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="142" column="39" />
-        <mark key="]" line="142" column="45" />
-        <mark key="." line="142" column="45" />
-        <mark key="^" line="142" column="45" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-view.js" timestamp="1460646833797">
+        <mark key="'" line="134" column="20" />
+        <mark key="[" line="182" column="41" />
+        <mark key="]" line="182" column="40" />
+        <mark key="." line="182" column="40" />
+        <mark key="^" line="182" column="40" />
       </file>
       <file name="$USER_HOME$/www/js/lokijs-test/node_modules/angular-mocks/angular-mocks.js" timestamp="1459720429524">
         <mark key="'" line="2462" column="0" />
@@ -1945,8 +1945,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="174" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/agile-board.js" />
-      <jump line="32" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issue-view-dialog.js" />
       <jump line="258" column="33" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-view.js" />
       <jump line="276" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-view.js" />
       <jump line="260" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-view.js" />
@@ -2045,58 +2043,60 @@
       <jump line="46" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-view.html" />
       <jump line="144" column="39" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/button-ng/button-ng.js" />
       <jump line="191" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/button-ng/button-ng.js" />
+      <jump line="127" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-view.js" />
+      <jump line="134" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-view.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGRlbGF5ZWQ9InRydWUiCg==</text>
+      <register name="&quot;" type="4">
+        <text>.not</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>.not</text>
       </register>
       <register name="/" type="4">
-        <text>loader</text>
+        <text>onSave</text>
       </register>
       <register name="0" type="4">
-        <text>issueViewCtrl.isSaving</text>
+        <text>$httpBackend.expectPOST(this.toRegExp('/issues/' + issueId), issueBody)</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGRlbGF5ZWQ9InRydWUiCg==</text>
+      <register name="1" type="4">
+        <text>.not</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>true</text>
+        <text>issue</text>
       </register>
       <register name="3" type="4">
-        <text>ng-</text>
+        <text>issue</text>
       </register>
       <register name="4" type="4">
-        <text>issueViewCtrl.isSaving</text>
+        <text>initialIssue</text>
       </register>
       <register name="5" type="4">
-        <text>issueViewCtrl</text>
+        <text>initialIssue</text>
       </register>
-      <register name="6" type="4">
-        <text>isSaveing</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="4">
-        <text>isSaveing</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>isSaveing</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGRlbGF5ZWQ9InRydWUiCg==</text>
       </register>
       <register name="9" type="4">
-        <text>isSaveing</text>
+        <text>true</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>loader</last-search>
+      <last-search>onSave</last-search>
       <last-offset />
-      <last-pattern>loader</last-pattern>
+      <last-pattern>onSave</last-pattern>
       <last-replace>common</last-replace>
       <last-substitute>typography</last-substitute>
       <last-dir>1</last-dir>
@@ -2106,7 +2106,6 @@
       <history-search>
         <entry>onSubmit</entry>
         <entry>submit</entry>
-        <entry>onSave</entry>
         <entry encoding="base64">XDxpbml0aWFsSXNzdWVcPg==</entry>
         <entry encoding="base64">XDxhbmFseXRpY3NcPg==</entry>
         <entry>ana</entry>
@@ -2124,6 +2123,7 @@
         <entry>save</entry>
         <entry>isDisa</entry>
         <entry>loader</entry>
+        <entry>onSave</entry>
       </history-search>
       <history-cmd>
         <entry>30</entry>
