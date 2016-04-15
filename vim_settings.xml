@@ -9,6 +9,9 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/show-agile-board-commands-alert-message.js" timestamp="1458350621627">
         <mark key="'" line="154" column="2" />
       </file>
+      <file name="/a.dummy" timestamp="1460722822189">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dashboard/dashboard.js" timestamp="1459585989289">
         <mark key="'" line="136" column="0" />
         <mark key="[" line="44" column="1" />
@@ -448,6 +451,9 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="3" column="56" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/yt-apply-command.js" timestamp="1460722892748">
+        <mark key="'" line="30" column="37" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/hub/package.json" timestamp="1459163798612">
         <mark key="'" line="10" column="0" />
@@ -1180,6 +1186,11 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/custom-fields.js" timestamp="1459875481586">
         <mark key="'" line="25" column="19" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/create-wokflow-message.js" timestamp="1460722924439">
+        <mark key="'" line="8" column="8" />
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="1" column="32" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-issue-custom-field.js" timestamp="1456332830283">
         <mark key="'" line="38" column="8" />
       </file>
@@ -1905,8 +1916,8 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/command-dialog.js" timestamp="1460721121067">
-        <mark key="'" line="177" column="21" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/command-dialog.js" timestamp="1460722413788">
+        <mark key="'" line="174" column="18" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/e2e/example/agile-backlog-issue.js" timestamp="1455879353712">
         <mark key="'" line="104" column="0" />
@@ -1947,19 +1958,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/wiki/test/service/wikify.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/issue-resource.js" />
-      <jump line="393" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/issue-resource.js" />
-      <jump line="28" column="33" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/issue-resource.js" />
-      <jump line="71" column="33" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/issue-resource.js" />
-      <jump line="16" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/wiki/service/wikify.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/wiki/service/wikify.js" />
-      <jump line="15" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/wiki/service/wikify.js" />
-      <jump line="63" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
-      <jump line="548" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
-      <jump line="980" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/agile-board.js" />
       <jump line="15" column="43" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/agile-board.js" />
       <jump line="7" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/yt-agile-card-medium.html" />
@@ -2043,20 +2041,33 @@
       <jump line="978" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/command-dialog.js" />
-      <jump line="21" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/command-dialog.js" />
       <jump line="175" column="50" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/command-dialog.js" />
       <jump line="176" column="90" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/command-dialog.js" />
       <jump line="177" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/command-dialog.js" />
+      <jump line="341" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/command-dialog.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/command-dialog.js" />
+      <jump line="48" column="29" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/command-dialog.js" />
+      <jump line="78" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/command-dialog.js" />
+      <jump line="339" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/command-dialog.js" />
+      <jump line="21" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/command-dialog.js" />
+      <jump line="174" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/command-dialog.js" />
+      <jump line="7" column="35" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/yt-apply-command.js" />
+      <jump line="35" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/yt-apply-command.js" />
+      <jump line="6" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/yt-apply-command.js" />
+      <jump line="4" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/yt-apply-command.js" />
+      <jump line="30" column="37" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/yt-apply-command.js" />
+      <jump line="12" column="32" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/create-wokflow-message.js" />
+      <jump line="8" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/create-wokflow-message.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJz4+Pj4+Jyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>createWorkflowMessage</text>
       </register>
       <register name="-" type="4">
         <text>, 500</text>
       </register>
       <register name="/" type="4">
-        <text>fav</text>
+        <text encoding="base64">XDxjcmVhdGVXb3JrZmxvd01lc3NhZ2VcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Cg==</text>
@@ -2096,18 +2107,16 @@
       </register>
     </registers>
     <search>
-      <last-search>fav</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVXb3JrZmxvd01lc3NhZ2VcPg==</last-search>
       <last-offset />
-      <last-pattern>fav</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVXb3JrZmxvd01lc3NhZ2VcPg==</last-pattern>
       <last-replace>common</last-replace>
       <last-substitute>typography</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpc0Rpc2FibGVkXD4=</entry>
-        <entry>disa</entry>
         <entry>save</entry>
         <entry>isDisa</entry>
         <entry>loader</entry>
@@ -2122,10 +2131,12 @@
         <entry>dia</entry>
         <entry encoding="base64">XDxvdmVybGF5RWxcPg==</entry>
         <entry>workflow</entry>
-        <entry>work</entry>
         <entry>workf</entry>
-        <entry>error</entry>
         <entry>fav</entry>
+        <entry>work</entry>
+        <entry>error</entry>
+        <entry encoding="base64">XDwnXD4=</entry>
+        <entry encoding="base64">XDxjcmVhdGVXb3JrZmxvd01lc3NhZ2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>30</entry>
