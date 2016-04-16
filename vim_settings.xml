@@ -543,6 +543,13 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/yt-apply-command.js" timestamp="1460722892748">
         <mark key="'" line="30" column="37" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/project-wizard/project-wizard.js" timestamp="1460809804734">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="4" column="105" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/hub/package.json" timestamp="1459163798612">
         <mark key="'" line="10" column="0" />
       </file>
@@ -1835,8 +1842,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header-menu-builder/header-menu-builder.js" timestamp="1459325536332">
         <mark key="'" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/project-wizard/service/team-data-source.js" timestamp="1460808778607">
-        <mark key="'" line="11" column="15" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/project-wizard/service/team-data-source.js" timestamp="1460809826454">
+        <mark key="'" line="4" column="13" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/wiki/service/wikify.js" timestamp="1460637959781">
         <mark key="'" line="15" column="2" />
@@ -2098,7 +2105,6 @@
         <mark key="." line="152" column="71" />
         <mark key="^" line="152" column="71" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/upsource/test/upsource.js" timestamp="1460807369498" />
       <file name="$USER_HOME$/www/js/karma-jasmine/Gruntfile.coffee" timestamp="1456268055109">
         <mark key="'" line="0" column="0" />
       </file>
@@ -2187,9 +2193,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/banner/controller/banner.js" />
-      <jump line="20" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/banner/banner.js" />
-      <jump line="16" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/banner/banner.js" />
       <jump line="21" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/banner/banner.js" />
       <jump line="0" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/banner/banner.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/banner/controller/banner.js" />
@@ -2282,15 +2285,18 @@
       <jump line="75" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project/team.js" />
       <jump line="7" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/project-wizard/service/team-data-source.js" />
       <jump line="3" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/project-wizard/service/team-data-source.js" />
-      <jump line="4" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/project-wizard/service/team-data-source.js" />
       <jump line="2" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/project-wizard/service/team-data-source.js" />
       <jump line="11" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/project-wizard/service/team-data-source.js" />
       <jump line="32" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/edit-project/team.html" />
       <jump line="24" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/edit-project/team.html" />
+      <jump line="36" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/project-wizard/project-wizard.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/project-wizard/project-wizard.js" />
+      <jump line="54" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/project-wizard/project-wizard.js" />
+      <jump line="4" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/project-wizard/service/team-data-source.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgIA==</text>
@@ -2301,35 +2307,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICRzY29wZS5lZGl0UHJvamVjdEN0cmwgPSB7fTsK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>.project</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="3" type="4">
-        <text>expose controller</text>
+        <text>.project</text>
       </register>
       <register name="4" type="4">
+        <text>expose controller</text>
+      </register>
+      <register name="5" type="4">
         <text encoding="base64">ID0ge307</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc+Pj4+PicpOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>EditProjectTimeTrackingCtrl</text>
       </register>
-      <register name="8" type="4">
-        <text>toEqual</text>
-      </register>
       <register name="9" type="4">
-        <text>;</text>
+        <text>toEqual</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
