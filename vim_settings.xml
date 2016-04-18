@@ -826,12 +826,11 @@
         <mark key="." line="158" column="58" />
         <mark key="^" line="158" column="58" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/test/yt-shortcuts-map.js" timestamp="1460969472199">
-        <mark key="'" line="29" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/test/yt-shortcuts-map.js" timestamp="1460997762725">
+        <mark key="'" line="32" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
-        <mark key="^" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-table.html" timestamp="1458832375482">
         <mark key="'" line="11" column="75" />
@@ -1641,8 +1640,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/test/service/workflow-error-handler.js" />
-      <jump line="82" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/test/service/workflow-error-handler.js" />
       <jump line="23" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/workflow/test/service/workflow-error-decorator.js" />
       <jump line="22" column="69" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/workflow/test/service/workflow-error-decorator.js" />
       <jump line="3" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/workflow/service/workflow-error-decorator.js" />
@@ -1741,10 +1738,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/e2e/agile-boardSpec.js" />
       <jump line="7" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/test/e2e/indexSpec.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/test/e2e/indexSpec.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/test/yt-shortcuts-map.js" />
+      <jump line="32" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/test/yt-shortcuts-map.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>vcsChangesTab</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LyoqCiAqIFNraXBwZWQgYmVjYXVzZSB3ZSBjYW4ndCBmaW5kIGEgd2F5IHRvIG1vY2sgY29uZmlnIGZvciB5dFNob3J0Y3R1c01hcAogKi8K</text>
       </register>
       <register name="-" type="4">
         <text>vcsChangesTab</text>
@@ -1755,35 +1754,35 @@
       <register name="0" type="4">
         <text>element(by.css('[data-test=&quot;vcsChangesTab&quot;]'))</text>
       </register>
-      <register name="1" type="4">
-        <text>vcsChangesTab</text>
+      <register name="1" type="2">
+        <text encoding="base64">LyoqCiAqIFNraXBwZWQgYmVjYXVzZSB3ZSBjYW4ndCBmaW5kIGEgd2F5IHRvIG1vY2sgY29uZmlnIGZvciB5dFNob3J0Y3R1c01hcAogKi8K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>)</text>
+        <text>vcsChangesTab</text>
       </register>
       <register name="3" type="4">
-        <text>, true</text>
+        <text>)</text>
       </register>
       <register name="4" type="4">
+        <text>, true</text>
+      </register>
+      <register name="5" type="4">
         <text>issues</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBkZXNjcmliZSgnaXNzdWVzIGxpc3QnLCBmdW5jdGlvbigpIHsK</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZXNjcmliZSgnaXNzdWVzIGxpc3QnLCBmdW5jdGlvbigpIHsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB2YXIgaGVhZGVyOwogIGJlZm9yZUVhY2goZnVuY3Rpb24oKSB7CiAgICBoZWFkZXIgPSBuZXcgSGVhZGVyKCk7CiAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YXIgaGVhZGVyOwogIGJlZm9yZUVhY2goZnVuY3Rpb24oKSB7CiAgICBoZWFkZXIgPSBuZXcgSGVhZGVyKCk7CiAgfSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
