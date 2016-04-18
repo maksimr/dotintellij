@@ -1940,6 +1940,13 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue.html" timestamp="1459357708601">
         <mark key="'" line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/service/yt-shortcuts-config-converter.js" timestamp="1460966983715">
+        <mark key="'" line="5" column="6" />
+        <mark key="[" line="42" column="3" />
+        <mark key="]" line="42" column="10" />
+        <mark key="." line="42" column="10" />
+        <mark key="^" line="42" column="10" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/yt-allowed-origins-list.js" timestamp="1458293655232">
         <mark key="'" line="28" column="7" />
         <mark key="[" line="10" column="76" />
@@ -2192,9 +2199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/banner/test/banner.js" />
-      <jump line="13" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dashboard/dashboard.js" />
-      <jump line="14" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dashboard/dashboard.js" />
       <jump line="16" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dashboard/dashboard.js" />
       <jump line="21" column="33" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dashboard/dashboard.js" />
       <jump line="23" column="3" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dashboard/dashboard.js" />
@@ -2292,13 +2296,16 @@
       <jump line="12" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/karma.conf.js" />
       <jump line="11" column="3" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/karma.conf.js" />
       <jump line="44" column="3" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/karma.conf.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/service/yt-shortcuts-config-converter.js" />
+      <jump line="43" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/service/yt-shortcuts-config-converter.js" />
+      <jump line="5" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/service/yt-shortcuts-config-converter.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvdmVyYWdlUmVwb3J0ZXI6IHsKICAgICAgdHlwZTogJ3RleHQnCiAgICB9LAo=</text>
+      <register name="&quot;" type="4">
+        <text>factory</text>
       </register>
       <register name="-" type="4">
-        <text>src/components/</text>
+        <text>factory</text>
       </register>
       <register name="/" type="4">
         <text>prog</text>
@@ -2306,35 +2313,35 @@
       <register name="0" type="4">
         <text>webpackConf.module.preLoader</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvdmVyYWdlUmVwb3J0ZXI6IHsKICAgICAgdHlwZTogJ3RleHQnCiAgICB9LAo=</text>
+      <register name="1" type="4">
+        <text>factory</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>src/components/</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvdmVyYWdlUmVwb3J0ZXI6IHsKICAgICAgdHlwZTogJ3RleHQnCiAgICB9LAo=</text>
       </register>
       <register name="3" type="4">
+        <text>src/components/</text>
+      </register>
+      <register name="4" type="4">
         <text>path</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHByZUxvYWRlcjogWwogICAgICB7CiAgICAgICAgdGVzdDogL1wuanMkLywKICAgICAgICBpbmNsdWRlOiBwYXRoLnJlc29sdmUoJy4uL2FwcC8nKSwKICAgICAgICBsb2FkZXI6ICdpc3RhbmJ1bC1pbnN0cnVtZW50ZXItbG9hZGVyJwogICAgICB9CiAgICBdLAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>components/</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>src</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgJ2FwcC9jb21wb25lbnRzL3JpbmcveW91dHJhY2stbmctdWktY29tcG9uZW50cy5qcycsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJ2FwcC9jb21wb25lbnRzL3JpbmcveW91dHJhY2stbmctdWktY29tcG9uZW50cy5qcycsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
