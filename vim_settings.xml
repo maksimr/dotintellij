@@ -9,8 +9,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/show-agile-board-commands-alert-message.js" timestamp="1458350621627">
         <mark key="'" line="154" column="2" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dashboard/dashboard.js" timestamp="1460805444828">
-        <mark key="'" line="36" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dashboard/dashboard.js" timestamp="1460974038724">
+        <mark key="'" line="38" column="53" />
         <mark key="[" line="44" column="1" />
         <mark key="]" line="44" column="2" />
         <mark key="." line="44" column="2" />
@@ -2124,8 +2124,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project/team.js" />
-      <jump line="15" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project/team.js" />
       <jump line="10" column="43" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project/team.js" />
       <jump line="16" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project/team.js" />
       <jump line="103" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project/team.js" />
@@ -2224,6 +2222,8 @@
       <jump line="234" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/test/e2e/indexSpec.js" />
       <jump line="126" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/test/e2e/indexSpec.js" />
       <jump line="112" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
+      <jump line="37" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dashboard/dashboard.js" />
+      <jump line="38" column="53" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dashboard/dashboard.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2233,7 +2233,7 @@
         <text>before</text>
       </register>
       <register name="/" type="4">
-        <text>tag</text>
+        <text>burndownDa</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICJiZWZvcmVBbGwiOiBmYWxzZSwK</text>
@@ -2273,9 +2273,9 @@
       </register>
     </registers>
     <search>
-      <last-search>tag</last-search>
+      <last-search>burndownDa</last-search>
       <last-offset />
-      <last-pattern>tag</last-pattern>
+      <last-pattern>burndownDa</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2283,7 +2283,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dialog</entry>
         <entry>insta</entry>
         <entry>loader</entry>
         <entry>cover</entry>
@@ -2303,6 +2302,7 @@
         <entry>this</entry>
         <entry>be</entry>
         <entry>tag</entry>
+        <entry>burndownDa</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
