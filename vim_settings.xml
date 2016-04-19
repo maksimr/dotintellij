@@ -1250,8 +1250,8 @@
         <mark key="^" line="20" column="50" />
         <mark key="." line="20" column="50" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/shortcuts/shortcuts.js" timestamp="1461073882719">
-        <mark key="'" line="41" column="2" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/shortcuts/shortcuts.js" timestamp="1461079164168">
+        <mark key="'" line="67" column="19" />
         <mark key="[" line="10" column="8" />
         <mark key="]" line="10" column="17" />
         <mark key="." line="42" column="0" />
@@ -2346,10 +2346,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/combokeys/Combokeys/index.js" />
-      <jump line="66" column="53" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/combokeys/Combokeys/index.js" />
-      <jump line="67" column="61" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/combokeys/Combokeys/index.js" />
-      <jump line="71" column="71" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/combokeys/Combokeys/index.js" />
       <jump line="15" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/combokeys/Combokeys/prototype/bindSingle.js" />
       <jump line="37" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/combokeys/Combokeys/prototype/bindSingle.js" />
       <jump line="55" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/combokeys/Combokeys/prototype/bindSingle.js" />
@@ -2444,8 +2440,12 @@
       <jump line="23" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/test/service/yt-shortcuts.js" />
       <jump line="35" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/test/service/yt-shortcuts.js" />
       <jump line="84" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/shortcuts/shortcuts.js" />
-      <jump line="41" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/shortcuts/shortcuts.js" />
       <jump line="19" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/service/yt-shortcuts.js" />
+      <jump line="89" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/shortcuts/shortcuts.js" />
+      <jump line="36" column="57" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/shortcuts/shortcuts.js" />
+      <jump line="41" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/shortcuts/shortcuts.js" />
+      <jump line="52" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/shortcuts/shortcuts.js" />
+      <jump line="67" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/shortcuts/shortcuts.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2455,7 +2455,7 @@
         <text>[nter]</text>
       </register>
       <register name="/" type="4">
-        <text>bind(</text>
+        <text>bind</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHNjb3BlU2hvcnRjdXN0LmFkZCh7CiAgICAgIGtleTogWydlbnRlciddLAogICAgICBoYW5kbGVyOiBzaG9ydGN1dEhhbmRsZXIKICAgIH0pOwo=</text>
@@ -2495,9 +2495,9 @@
       </register>
     </registers>
     <search>
-      <last-search>bind(</last-search>
+      <last-search>bind</last-search>
       <last-offset />
-      <last-pattern>bind(</last-pattern>
+      <last-pattern>bind</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2505,8 +2505,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mul</entry>
-        <entry>bind</entry>
         <entry>bindSi</entry>
         <entry encoding="base64">XDxkaXJlY3RNYXBcPg==</entry>
         <entry>handle</entry>
@@ -2525,6 +2523,8 @@
         <entry>conso</entry>
         <entry>push</entry>
         <entry>bind(</entry>
+        <entry>unbind</entry>
+        <entry>bind</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
