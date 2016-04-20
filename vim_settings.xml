@@ -59,8 +59,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dashboard/service/issues.js" timestamp="1458295089384">
         <mark key="'" line="57" column="2" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/workflow/service/workflow-error-decorator.js" timestamp="1460993204127">
-        <mark key="'" line="39" column="2" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/workflow/service/workflow-error-decorator.js" timestamp="1461175224710">
+        <mark key="'" line="6" column="115" />
         <mark key="[" line="12" column="57" />
         <mark key="]" line="12" column="69" />
         <mark key="." line="12" column="69" />
@@ -202,7 +202,7 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/test/service/get-custom-field-possible-values.js" timestamp="1458293164565">
         <mark key="'" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1461173801105">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1461175187641">
         <mark key="a" line="561" column="8" />
         <mark key="'" line="553" column="10" />
         <mark key="[" line="564" column="19" />
@@ -2434,9 +2434,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="40" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/shortcuts-hint-ng/shortcuts-hint-ng.test.js" />
-      <jump line="29" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/shortcuts-hint-ng/shortcuts-hint-ng.test.js" />
-      <jump line="43" column="53" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/shortcuts-hint-ng/shortcuts-hint-ng.test.js" />
       <jump line="235" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/utils.js" />
       <jump line="249" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/utils.js" />
       <jump line="6" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/service/yt-shortcuts-map.js" />
@@ -2534,6 +2531,9 @@
       <jump line="375" column="27" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="996" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="553" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="33" column="41" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/workflow/service/workflow-error-decorator.js" />
+      <jump line="32" column="35" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/workflow/service/workflow-error-decorator.js" />
+      <jump line="6" column="115" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/workflow/service/workflow-error-decorator.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2543,7 +2543,7 @@
         <text>function() {</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvbkVkaXRJc3N1ZVw+</text>
+        <text>decor</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIHNlbGVjdGVkSXNzdWVzID0gZ2V0QWxsU2VsZWN0ZWRJc3N1ZXMoKTsKCiAgICAgICAgICAgIGlmIChzZWxlY3RlZElzc3Vlcy5sZW5ndGggPT09IDEpIHsKICAgICAgICAgICAgICBhZ2lsZUJvYXJkQ3RybC5vcGVuSXNzdWVWaWV3KHNlbGVjdGVkSXNzdWVzWzBdKTsKICAgICAgICAgICAgfQo=</text>
@@ -2583,18 +2583,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvbkVkaXRJc3N1ZVw+</last-search>
+      <last-search>decor</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvbkVkaXRJc3N1ZVw+</last-pattern>
+      <last-pattern>decor</last-pattern>
       <last-replace>'meta': true</last-replace>
       <last-substitute>'meta': true,</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmYWtlWXRTZXJ2ZXJzaWRlRXZlbnRzXD4=</entry>
-        <entry>dialog</entry>
         <entry>issueView</entry>
         <entry>openIssue</entry>
         <entry>ytShor</entry>
@@ -2613,6 +2611,8 @@
         <entry>selec</entry>
         <entry>short</entry>
         <entry encoding="base64">XDxvbkVkaXRJc3N1ZVw+</entry>
+        <entry encoding="base64">XDxvbk5vbldvcmtmbG93RXJyb3JcPg==</entry>
+        <entry>decor</entry>
       </history-search>
       <history-cmd>
         <entry>811</entry>
