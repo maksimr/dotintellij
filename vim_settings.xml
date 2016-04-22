@@ -2486,12 +2486,12 @@
         <mark key="^" line="29" column="1" />
         <mark key="." line="29" column="1" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-body.html" timestamp="1461339024815">
-        <mark key="'" line="39" column="5" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="28" />
-        <mark key="^" line="19" column="24" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-body.html" timestamp="1461344626255">
+        <mark key="'" line="22" column="26" />
+        <mark key="[" line="9" column="47" />
+        <mark key="]" line="9" column="47" />
+        <mark key="^" line="9" column="47" />
+        <mark key="." line="9" column="47" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-board.js" timestamp="1461237895059">
         <mark key="'" line="2" column="0" />
@@ -2502,11 +2502,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-body.js" />
-      <jump line="12" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-body.js" />
-      <jump line="37" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-body.html" />
-      <jump line="18" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/autosize/directive/yt-autosize.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/autosize/autosize.js" />
       <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/autosize/autosize.js" />
       <jump line="8" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/issue.js" />
       <jump line="18" column="34" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
@@ -2602,58 +2597,63 @@
       <jump line="256" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/mail-box.js" />
       <jump line="262" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/mail-box.js" />
       <jump line="297" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/mail-box.js" />
+      <jump line="50" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-body.html" />
+      <jump line="11" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-body.html" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-body.html" />
+      <jump line="12" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-body.html" />
+      <jump line="21" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-body.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZW5hYmxlL2Rpc2FibGUgcnVsZTogJywgdGFibGVTZWxlY3RlZEl0ZW1zKTsK</text>
+      <register name="&quot;" type="4">
+        <text>-esc</text>
       </register>
       <register name="-" type="4">
-        <text>var pollingResult =</text>
+        <text>-esc</text>
       </register>
       <register name="/" type="4">
-        <text>console</text>
+        <text>onKey</text>
       </register>
       <register name="0" type="4">
         <text>'Root node for VCS changes tab app is required. Application is not bootstrapped!'</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZW5hYmxlL2Rpc2FibGUgcnVsZTogJywgdGFibGVTZWxlY3RlZEl0ZW1zKTsK</text>
+      <register name="1" type="4">
+        <text>-esc</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2FuY2VsIGZldGNoOiAnLCB0YWJsZVNlbGVjdGVkSXRlbXMpOwo=</text>
+      <register name="2" type="4">
+        <text>submit</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZmV0Y2g6ICcsIHRhYmxlU2VsZWN0ZWRJdGVtcyk7Cg==</text>
+      <register name="3" type="4">
+        <text>shortcut-ctrl-enter</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlZnJlc2hJc3N1ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZW5hYmxlL2Rpc2FibGUgcnVsZTogJywgdGFibGVTZWxlY3RlZEl0ZW1zKTsK</text>
       </register>
-      <register name="5" type="4">
-        <text>var pollingResult =</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2FuY2VsIGZldGNoOiAnLCB0YWJsZVNlbGVjdGVkSXRlbXMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZmV0Y2g6ICcsIHRhYmxlU2VsZWN0ZWRJdGVtcyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwb2xsaW5nUmVzdWx0WydjYXRjaCddOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlZnJlc2hJc3N1ZSgpCg==</text>
       </register>
       <register name="8" type="4">
-        <text>(function() { });</text>
+        <text>var pollingResult =</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUuZXJyb3IoJ0NhblwndCBnZXQgbWFpbGJveCBzZXJ2ZXIgc3RhdGlzdGljcycpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>console</last-search>
+      <last-search>onKey</last-search>
       <last-offset />
-      <last-pattern>console</last-pattern>
+      <last-pattern>onKey</last-pattern>
       <last-replace>'meta': true</last-replace>
       <last-substitute>'meta': true,</last-substitute>
       <last-dir>1</last-dir>
@@ -2661,7 +2661,6 @@
     </search>
     <history>
       <history-search>
-        <entry>draft</entry>
         <entry>texta</entry>
         <entry>Comment</entry>
         <entry>command</entry>
@@ -2681,6 +2680,7 @@
         <entry>issueUpdater</entry>
         <entry encoding="base64">XDxpc3N1ZVVwZGF0ZXJcPg==</entry>
         <entry>console</entry>
+        <entry>onKey</entry>
       </history-search>
       <history-cmd>
         <entry>811</entry>
