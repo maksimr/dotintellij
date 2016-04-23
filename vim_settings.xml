@@ -894,8 +894,8 @@
         <mark key="^" line="34" column="30" />
         <mark key="." line="34" column="30" />
       </file>
-      <file name="$USER_HOME$/www/js/karma-jasmine/src/adapter.js" timestamp="1461400672179">
-        <mark key="'" line="311" column="9" />
+      <file name="$USER_HOME$/www/js/karma-jasmine/src/adapter.js" timestamp="1461402434536">
+        <mark key="'" line="213" column="77" />
         <mark key="[" line="321" column="0" />
         <mark key="]" line="321" column="0" />
         <mark key="^" line="349" column="31" />
@@ -1811,9 +1811,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/controller/issues-menu-create-button.js" />
-      <jump line="17" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/controller/issues-menu-create-button.js" />
-      <jump line="15" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/controller/issues-menu-create-button.js" />
       <jump line="16" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/controller/issues-menu-create-button.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/response-transform.js" />
       <jump line="185" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/response-transform.js" />
@@ -1911,6 +1908,9 @@
       <jump line="14" column="5" filename="$USER_HOME$/www/js/karma-jasmine/package.json" />
       <jump line="28" column="11" filename="$USER_HOME$/www/js/karma-jasmine/package.json" />
       <jump line="3" column="0" filename="$USER_HOME$/www/js/karma-jasmine/lib/adapter.js" />
+      <jump line="309" column="23" filename="$USER_HOME$/www/js/karma-jasmine/src/adapter.js" />
+      <jump line="221" column="0" filename="$USER_HOME$/www/js/karma-jasmine/src/adapter.js" />
+      <jump line="213" column="77" filename="$USER_HOME$/www/js/karma-jasmine/src/adapter.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1920,7 +1920,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>grep</text>
+        <text>pending</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICJrYXJtYSI6ICIiLAo=</text>
@@ -1960,9 +1960,9 @@
       </register>
     </registers>
     <search>
-      <last-search>grep</last-search>
+      <last-search>pending</last-search>
       <last-offset />
-      <last-pattern>grep</last-pattern>
+      <last-pattern>pending</last-pattern>
       <last-replace>'meta': true</last-replace>
       <last-substitute>'meta': true,</last-substitute>
       <last-dir>1</last-dir>
@@ -1970,7 +1970,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyaW5nQ29udHJvbGxlclw+</entry>
         <entry>conso</entry>
         <entry encoding="base64">XDxsb2dXaXRoVGltZVw+</entry>
         <entry encoding="base64">XDxwb2xsaW5nUmVzdWx0XD4=</entry>
@@ -1990,6 +1989,7 @@
         <entry>karma</entry>
         <entry>reg</entry>
         <entry>grep</entry>
+        <entry>pending</entry>
       </history-search>
       <history-cmd>
         <entry>%s/typography/common/gc</entry>
