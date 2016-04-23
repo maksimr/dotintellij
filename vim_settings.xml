@@ -378,6 +378,9 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="16" column="53" />
       </file>
+      <file name="/Dummy.txt" timestamp="1461398673151">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/test/service/report-examples-util.js" timestamp="1460803362600">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="0" column="0" />
@@ -1685,8 +1688,8 @@
         <mark key="^" line="66" column="2" />
         <mark key="." line="66" column="2" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-toolbar.html" timestamp="1461149686902">
-        <mark key="'" line="24" column="144" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-toolbar.html" timestamp="1461398796034">
+        <mark key="'" line="9" column="0" />
         <mark key="[" line="45" column="16" />
         <mark key="]" line="45" column="65" />
         <mark key="^" line="45" column="65" />
@@ -1795,7 +1798,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1303" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/service/yt-shortcuts-map.js" />
       <jump line="56" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/service/yt-shortcuts-map.js" />
       <jump line="34" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/service/yt-shortcuts-convert-serverside.js" />
       <jump line="30" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/service/yt-shortcuts-convert-serverside.js" />
@@ -1895,6 +1897,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-view.html" />
       <jump line="64" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-view.html" />
       <jump line="26" column="56" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-view.html" />
+      <jump line="9" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-toolbar.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1904,7 +1907,7 @@
         <text>like</text>
       </register>
       <register name="/" type="4">
-        <text>onKey</text>
+        <text>more</text>
       </register>
       <register name="0" type="4">
         <text>'Root node for VCS changes tab app is required. Application is not bootstrapped!'</text>
@@ -1944,9 +1947,9 @@
       </register>
     </registers>
     <search>
-      <last-search>onKey</last-search>
+      <last-search>more</last-search>
       <last-offset />
-      <last-pattern>onKey</last-pattern>
+      <last-pattern>more</last-pattern>
       <last-replace>'meta': true</last-replace>
       <last-substitute>'meta': true,</last-substitute>
       <last-dir>1</last-dir>
@@ -1954,8 +1957,6 @@
     </search>
     <history>
       <history-search>
-        <entry>texta</entry>
-        <entry>Comment</entry>
         <entry>command</entry>
         <entry>com</entry>
         <entry>mac</entry>
@@ -1974,6 +1975,8 @@
         <entry encoding="base64">XDxpc3N1ZVVwZGF0ZXJcPg==</entry>
         <entry>console</entry>
         <entry>onKey</entry>
+        <entry>TODO</entry>
+        <entry>more</entry>
       </history-search>
       <history-cmd>
         <entry>811</entry>
