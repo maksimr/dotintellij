@@ -742,7 +742,7 @@
         <mark key="." line="17" column="51" />
         <mark key="^" line="17" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1461398673151">
+      <file name="/Dummy.txt" timestamp="1461399744348">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/test/service/report-examples-util.js" timestamp="1460803362600">
@@ -849,6 +849,9 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/www/js/karma-jasmine/lib/adapter.js" timestamp="1461400305754">
+        <mark key="'" line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-view.html" timestamp="1461398342906">
         <mark key="'" line="26" column="56" />
         <mark key="[" line="26" column="47" />
@@ -891,7 +894,7 @@
         <mark key="^" line="34" column="30" />
         <mark key="." line="34" column="30" />
       </file>
-      <file name="$USER_HOME$/www/js/karma-jasmine/src/adapter.js" timestamp="1461399324581">
+      <file name="$USER_HOME$/www/js/karma-jasmine/src/adapter.js" timestamp="1461400672179">
         <mark key="'" line="311" column="9" />
         <mark key="[" line="321" column="0" />
         <mark key="]" line="321" column="0" />
@@ -1808,7 +1811,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/externals/header/header.js" />
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/controller/issues-menu-create-button.js" />
       <jump line="17" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/controller/issues-menu-create-button.js" />
       <jump line="15" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/controller/issues-menu-create-button.js" />
@@ -1908,6 +1910,7 @@
       <jump line="13" column="5" filename="$USER_HOME$/www/js/karma-jasmine/package.json" />
       <jump line="14" column="5" filename="$USER_HOME$/www/js/karma-jasmine/package.json" />
       <jump line="28" column="11" filename="$USER_HOME$/www/js/karma-jasmine/package.json" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/js/karma-jasmine/lib/adapter.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1917,7 +1920,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>karma</text>
+        <text>grep</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICJrYXJtYSI6ICIiLAo=</text>
@@ -1953,13 +1956,13 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZmV0Y2g6ICcsIHRhYmxlU2VsZWN0ZWRJdGVtcyk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>karma</last-search>
+      <last-search>grep</last-search>
       <last-offset />
-      <last-pattern>karma</last-pattern>
+      <last-pattern>grep</last-pattern>
       <last-replace>'meta': true</last-replace>
       <last-substitute>'meta': true,</last-substitute>
       <last-dir>1</last-dir>
@@ -1967,8 +1970,6 @@
     </search>
     <history>
       <history-search>
-        <entry>comment</entry>
-        <entry>no</entry>
         <entry encoding="base64">XDxyaW5nQ29udHJvbGxlclw+</entry>
         <entry>conso</entry>
         <entry encoding="base64">XDxsb2dXaXRoVGltZVw+</entry>
@@ -1987,9 +1988,10 @@
         <entry>create</entry>
         <entry>peer</entry>
         <entry>karma</entry>
+        <entry>reg</entry>
+        <entry>grep</entry>
       </history-search>
       <history-cmd>
-        <entry>811</entry>
         <entry>%s/typography/common/gc</entry>
         <entry>33</entry>
         <entry>15</entry>
@@ -2009,6 +2011,7 @@
         <entry>%s/}],/}]/gc</entry>
         <entry>%s/'meta': true,/'meta': true/gc</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
