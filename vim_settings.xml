@@ -258,8 +258,14 @@
         <mark key="^" line="1" column="25" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.js" timestamp="1461591820846">
-        <mark key="'" line="489" column="4" />
+      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.js" timestamp="1461592921157">
+        <mark key="a" line="199" column="0" />
+        <mark key="b" line="228" column="11" />
+        <mark key="'" line="205" column="11" />
+        <mark key="[" line="114" column="59" />
+        <mark key="]" line="114" column="70" />
+        <mark key="^" line="114" column="70" />
+        <mark key="." line="114" column="70" />
       </file>
       <file name="$USER_HOME$/www/js/lokijs-test/package.json" timestamp="1459721641119">
         <mark key="'" line="21" column="20" />
@@ -942,12 +948,11 @@
         <mark key="^" line="13" column="10" />
         <mark key="." line="13" column="10" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.test.js" timestamp="1461591615948">
-        <mark key="'" line="372" column="6" />
-        <mark key="[" line="372" column="54" />
-        <mark key="]" line="372" column="59" />
-        <mark key="." line="372" column="59" />
-        <mark key="^" line="372" column="59" />
+      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.test.js" timestamp="1461593113877">
+        <mark key="[" line="381" column="54" />
+        <mark key="]" line="381" column="57" />
+        <mark key="." line="381" column="57" />
+        <mark key="^" line="381" column="57" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-picker.js" timestamp="1460364902116">
         <mark key="'" line="197" column="8" />
@@ -1941,9 +1946,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dialog/test/e2e/example/index.html" />
-      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
-      <jump line="283" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
       <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
       <jump line="11" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
       <jump line="81" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
@@ -2005,7 +2007,6 @@
       <jump line="121" column="18" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.js" />
       <jump line="119" column="4" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.js" />
       <jump line="130" column="45" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.js" />
-      <jump line="142" column="18" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.js" />
       <jump line="179" column="12" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.js" />
       <jump line="137" column="5" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.test.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.test.js" />
@@ -2041,58 +2042,62 @@
       <jump line="370" column="6" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.test.js" />
       <jump line="419" column="6" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.test.js" />
       <jump line="11" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/teamcity-e2e-runner.sh" />
+      <jump line="199" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.js" />
+      <jump line="202" column="4" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.js" />
+      <jump line="142" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.js" />
+      <jump line="205" column="11" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">bm9kZSAtZSAnY29uc29sZS5sb2cocmVxdWlyZSgiLi9wYWNrYWdlLmpzb24iKS5kZXZEZXBlbmRlbmNpZXMucHJvdHJhY3Rvcik7JyB8IHhhcmdzIC1Je30gbnBtIGluc3RhbGwgcHJvdHJhY3RvckB7fQo=</text>
+      <register name="&quot;" type="4">
+        <text>$scope.text</text>
       </register>
       <register name="-" type="4">
-        <text>dialogConfig.data</text>
+        <text>$scope.text</text>
       </register>
       <register name="/" type="4">
-        <text>protra</text>
+        <text>this.$compile</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZWxlbWVudC5xdWVyeSgnZm9ybSAuY29udGVudCcpLnNob3VsZC5oYXZlLmh0bWwoZGlhbG9nQ29uZmlnLmRhdGEudGV4dCk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgJHNjb3BlID0gJHJvb3RTY29wZS4kbmV3KCk7CiAgICAgICRzY29wZS50ZXh0ID0gJ0hlbGxvJzsKCiAgICAgIGNvbnN0IGRpYWxvZ0NvbmZpZyA9IHsKICAgICAgICBzY29wZTogJHNjb3BlLAogICAgICAgIGNvbnRlbnQ6IHVuZGVmaW5lZCwKICAgICAgICB0ZW1wbGF0ZTogJzxkaXYgY2xhc3M9ImNvbnRlbnQiPnt7dGV4dH19PC9kaXY+JwogICAgICB9OwoKICAgICAgY29uc3Qge2VsZW1lbnR9ID0gc2hvd0RpYWxvZygnPHJnLWRpYWxvZz48L3JnLWRpYWxvZz4nLCBudWxsLCBudWxsLCBudWxsLCBkaWFsb2dDb25maWcpOwogICAgICAkcm9vdFNjb3BlLiRhcHBseSgpOwoKICAgICAgZWxlbWVudC5xdWVyeSgnZm9ybSAuY29udGVudCcpLnNob3VsZC5oYXZlLmh0bWwoJHNjb3BlLnRleHQpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">bm9kZSAtZSAnY29uc29sZS5sb2cocmVxdWlyZSgiLi9wYWNrYWdlLmpzb24iKS5kZXZEZXBlbmRlbmNpZXMucHJvdHJhY3Rvcik7JyB8IHhhcmdzIC1Je30gbnBtIGluc3RhbGwgcHJvdHJhY3RvckB7fQo=</text>
+      <register name="1" type="4">
+        <text>$scope.text</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>dialogConfig.data</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBzY29wZTogJHNjb3BlLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZWxlbWVudC5xdWVyeSgnZm9ybSAuY29udGVudCcpLnNob3VsZC5jb250YWluKCcuY29udGVudCcpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc3QgJHNjb3BlID0gJHJvb3RTY29wZS4kbmV3KCk7Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>let</text>
+        <text>$scope.</text>
       </register>
-      <register name="5" type="4">
-        <text>var</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>{},</text>
+        <text>custom controller</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>data</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>pass custom template as html</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBpdCgnc2hvdWxkIGFsbG93IHBhc3MgY3VzdG9tIHNjb3BlIHRvIHRoZSB0ZW1wbGF0ZSBpbnN0ZWFkIGRhdGEnLCBmdW5jdGlvbiAoKSB7CiAgICBjb25zdCAkc2NvcGUgPSAkcm9vdFNjb3BlLiRuZXcoKTsKICAgICRzY29wZS50ZXh0ID0gJ0hlbGxvJzsKCiAgICBjb25zdCBkaWFsb2dDb25maWcgPSB7CiAgICAgIHNjb3BlOiAkc2NvcGUsCiAgICAgIGNvbnRlbnQ6IHVuZGVmaW5lZCwKICAgICAgdGVtcGxhdGU6ICc8ZGl2IGNsYXNzPSJjb250ZW50Ij57e3RleHR9fTwvZGl2PicKICAgIH07CgogICAgY29uc3Qge2VsZW1lbnR9ID0gc2hvd0RpYWxvZygnPHJnLWRpYWxvZz48L3JnLWRpYWxvZz4nLCBudWxsLCBudWxsLCBudWxsLCBkaWFsb2dDb25maWcpOwogICAgJHJvb3RTY29wZS4kYXBwbHkoKTsKCiAgICBlbGVtZW50LnF1ZXJ5KCdmb3JtIC5jb250ZW50Jykuc2hvdWxkLmhhdmUuaHRtbCgkc2NvcGUudGV4dCk7CiAgfSk7CgogIGl0KCdzaG91bGQgY3JlYXQgc2NvcGUgZm9yIHRlbXBsYXRlIGlmIHVzZXIgZG9lcyBub3QgcGFzcyBzY29wZScsIGZ1bmN0aW9uICgpIHsKICAgIGNvbnN0IGRpYWxvZ0NvbmZpZyA9IHsKICAgICAgY29udGVudDogdW5kZWZpbmVkLAogICAgICB0ZW1wbGF0ZTogJzxkaXYgY2xhc3M9ImNvbnRlbnQiPnt7dGV4dH19PC9kaXY+JwogICAgfTsKCiAgICBjb25zdCB7ZWxlbWVudH0gPSBzaG93RGlhbG9nKCc8cmctZGlhbG9nPjwvcmctZGlhbG9nPicsIG51bGwsIG51bGwsIG51bGwsIGRpYWxvZ0NvbmZpZyk7CiAgICAkcm9vdFNjb3BlLiRhcHBseSgpOwoKICAgIGVsZW1lbnQucXVlcnkoJ2Zvcm0nKS5zaG91bGQuY29udGFpbignLmNvbnRlbnQnKTsKICB9KTsKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>protra</last-search>
+      <last-search>this.$compile</last-search>
       <last-offset />
-      <last-pattern>protra</last-pattern>
+      <last-pattern>this.$compile</last-pattern>
       <last-replace>'meta': true</last-replace>
       <last-substitute>'meta': true,</last-substitute>
       <last-dir>1</last-dir>
@@ -2100,8 +2105,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzcGVjU3VjY2Vzc1w+</entry>
-        <entry encoding="base64">XDxnZXRMb2dcPg==</entry>
         <entry encoding="base64">XDxmbHVzaExvZ3NcPg==</entry>
         <entry>write</entry>
         <entry>karma</entry>
@@ -2116,10 +2119,12 @@
         <entry encoding="base64">XDxkaWFsb2dDdHJsXD4=</entry>
         <entry>controller</entry>
         <entry>template</entry>
-        <entry>innerHTML</entry>
         <entry>data</entry>
         <entry>$rootScope</entry>
         <entry>protra</entry>
+        <entry>template =</entry>
+        <entry>innerHTML</entry>
+        <entry>this.$compile</entry>
       </history-search>
       <history-cmd>
         <entry>%s/typography/common/gc</entry>
