@@ -1825,8 +1825,8 @@
         <mark key="^" line="16" column="49" />
         <mark key="." line="16" column="49" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-view.js" timestamp="1461671591799">
-        <mark key="'" line="150" column="18" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-view.js" timestamp="1461673335193">
+        <mark key="'" line="66" column="49" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/board/directive/board.js" timestamp="1458886773366">
         <mark key="'" line="45" column="2" />
@@ -1942,9 +1942,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="564" column="20" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.test.js" />
-      <jump line="167" column="24" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.test.js" />
-      <jump line="28" column="5" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.test.js" />
       <jump line="12" column="7" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.test.js" />
       <jump line="586" column="21" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.test.js" />
       <jump line="194" column="20" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.js" />
@@ -2042,6 +2039,9 @@
       <jump line="86" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-view.js" />
       <jump line="399" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-view.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-view.js" />
+      <jump line="127" column="45" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-view.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-view.js" />
+      <jump line="66" column="49" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-view.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2051,7 +2051,7 @@
         <text>toEqual</text>
       </register>
       <register name="/" type="4">
-        <text>not.toEqual</text>
+        <text>copy</text>
       </register>
       <register name="0" type="4">
         <text>angular.copy(issueViewCtrl.issue)</text>
@@ -2091,9 +2091,9 @@
       </register>
     </registers>
     <search>
-      <last-search>not.toEqual</last-search>
+      <last-search>copy</last-search>
       <last-offset />
-      <last-pattern>not.toEqual</last-pattern>
+      <last-pattern>copy</last-pattern>
       <last-replace>concurrently --no-color</last-replace>
       <last-substitute>parallel</last-substitute>
       <last-dir>1</last-dir>
@@ -2101,7 +2101,6 @@
     </search>
     <history>
       <history-search>
-        <entry>this.$q</entry>
         <entry encoding="base64">XDxjb250cm9sbGVyXD4=</entry>
         <entry encoding="base64">XDxodHRwRXJyb3JNZXNzYWdlXD4=</entry>
         <entry encoding="base64">XDxvbk5vbldvcmtmbG93RXJyb3JcPg==</entry>
@@ -2121,6 +2120,7 @@
         <entry>'edit</entry>
         <entry>edit</entry>
         <entry>not.toEqual</entry>
+        <entry>copy</entry>
       </history-search>
       <history-cmd>
         <entry>15</entry>
