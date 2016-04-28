@@ -243,11 +243,12 @@
         <mark key="." line="1" column="24" />
         <mark key="^" line="1" column="24" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/to-field.js" timestamp="1461844011797">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/to-field.js" timestamp="1461844775580">
         <mark key="'" line="16" column="14" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+        <mark key="[" line="42" column="25" />
+        <mark key="]" line="42" column="30" />
+        <mark key="." line="42" column="30" />
+        <mark key="^" line="42" column="30" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/test/_reports/types/fixRate/fixRate.js" timestamp="1460803433898">
         <mark key="'" line="10" column="2" />
@@ -692,12 +693,12 @@
         <mark key="." line="9" column="6" />
         <mark key="^" line="9" column="6" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/test/service/to-field.js" timestamp="1461843722047">
-        <mark key="'" line="45" column="8" />
-        <mark key="[" line="67" column="2" />
-        <mark key="]" line="67" column="2" />
-        <mark key="." line="67" column="2" />
-        <mark key="^" line="67" column="2" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/test/service/to-field.js" timestamp="1461844516712">
+        <mark key="'" line="74" column="1" />
+        <mark key="[" line="86" column="50" />
+        <mark key="]" line="86" column="53" />
+        <mark key="." line="86" column="53" />
+        <mark key="^" line="86" column="53" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/wiki/test/service/wikify.js" timestamp="1461057670956">
         <mark key="'" line="58" column="0" />
@@ -1984,8 +1985,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="382" column="2" filename="$USER_HOME$/www/js/karma-jasmine/node_modules/karma/static/karma.js" />
-      <jump line="381" column="2" filename="$USER_HOME$/www/js/karma-jasmine/node_modules/karma/static/karma.js" />
       <jump line="380" column="2" filename="$USER_HOME$/www/js/karma-jasmine/node_modules/karma/static/karma.js" />
       <jump line="379" column="2" filename="$USER_HOME$/www/js/karma-jasmine/node_modules/karma/static/karma.js" />
       <jump line="378" column="2" filename="$USER_HOME$/www/js/karma-jasmine/node_modules/karma/static/karma.js" />
@@ -2048,7 +2047,6 @@
       <jump line="14" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/test/service/utils.js" />
       <jump line="6" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/test/service/to-field.js" />
       <jump line="22" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/test/service/to-field.js" />
-      <jump line="67" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/test/service/to-field.js" />
       <jump line="79" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/test/service/utils.js" />
       <jump line="62" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/test/service/to-field.js" />
       <jump line="50" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/test/service/to-field.js" />
@@ -2084,49 +2082,52 @@
       <jump line="9" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/to-field.js" />
       <jump line="43" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/to-field.js" />
       <jump line="16" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/to-field.js" />
+      <jump line="42" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/test/service/to-field.js" />
+      <jump line="67" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/test/service/to-field.js" />
+      <jump line="74" column="1" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/test/service/to-field.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>newFields</text>
       </register>
       <register name="-" type="4">
-        <text>fieldstToRemove</text>
+        <text>newFields</text>
       </register>
       <register name="/" type="4">
         <text>constr</text>
       </register>
-      <register name="0" type="4">
-        <text>remove(fields, fieldstToRemove)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBuYW1lOiBbXQo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>newFields</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGV4Y2x1ZGVkRmllbGRzLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZpZWxkcy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHZhciBpc0ZpZWxkRXhjbHVkZWQgPSBmdW5jdGlvbihmaWVsZCkgewogICAgICAgICAgICByZXR1cm4gZXhjbHVkZWRGaWVsZHMuc29tZShmdW5jdGlvbihleEZpZWxkKSB7CiAgICAgICAgICAgICAgcmV0dXJuIGZpZWxkID09PSBleEZpZWxkOwogICAgICAgICAgICB9KTsKICAgICAgICAgIH07CgogICAgICAgICAgdmFyIG5ld0ZpZWxkcyA9IHRvQXJyYXkoZmllbGRzKS5maWx0ZXIoZnVuY3Rpb24oZmllbGQpIHsKICAgICAgICAgICAgaWYgKGFuZ3VsYXIuaXNPYmplY3QoZmllbGQpKSB7CiAgICAgICAgICAgICAgcmV0dXJuIE9iamVjdC5rZXlzKGZpZWxkKS5yZWR1Y2UoZnVuY3Rpb24ocmVzdWx0LCBmaWVsZE5hbWUpIHsKICAgICAgICAgICAgICAgIGlmICghaXNGaWVsZEV4Y2x1ZGVkKGZpZWxkTmFtZSkpIHsKICAgICAgICAgICAgICAgICAgcmVzdWx0W2ZpZWxkTmFtZV0gPSBmaWVsZFtmaWVsZE5hbWVdOwogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgIHJldHVybiByZXN1bHQ7CiAgICAgICAgICAgICAgfSwge30pOwogICAgICAgICAgICB9CgogICAgICAgICAgICByZXR1cm4gIWlzRmllbGRFeGNsdWRlZChmaWVsZCk7CiAgICAgICAgICB9KTsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+      <register name="5" type="4">
+        <text>!excludedFields.some(function(exField) {</text>
       </register>
-      <register name="6" type="4">
-        <text>fieldstToRemove</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhciBuZXdGaWVsZHMgPSBbXS5jb25jYXQoZmllbGRzdFRvUmVtb3ZlKS5yZWR1Y2UoZnVuY3Rpb24ocmVzdWx0LCBmaWVsZFRvUmVtb3ZlKSB7CiAgICAgICAgICAgIHJldHVybiByZW1vdmUoZmllbGRzLCBmaWVsZFRvUmVtb3ZlKTsKICAgICAgICAgIH0sIFtdKTsKCiAgICAgICAgICBmaWVsZHNTdHJpbmcgPSB0b0ZpZWxkU3RyaW5nKG5ld0ZpZWxkcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByZXR1cm4gZXhGaWVsZCA9PT0gZmllbGQ7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>())</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBpZiAoYW5ndWxhci5pc09iamVjdChmaWVsZCkpIHsKICAgICAgICAgICAgICAgIHJldHVybiBPYmplY3Qua2V5cyhmaWVsZCkucmVkdWNlKGZ1bmN0aW9uKHJlc3VsdCwgZmllbGROYW1lKSB7CiAgICAgICAgICAgICAgICAgIGlmICghaXNGaWVsZEV4Y2x1ZGVkKGZpZWxkTmFtZSkpIHsKICAgICAgICAgICAgICAgICAgICByZXN1bHRbZmllbGROYW1lXSA9IGZpZWxkW2ZpZWxkTmFtZV07CiAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgIHJldHVybiByZXN1bHQ7CiAgICAgICAgICAgICAgICB9LCB7fSk7CiAgICAgICAgICAgICAgfQoK</text>
       </register>
-      <register name="9" type="4">
-        <text>remove(fields, fieldstToRemove)</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
