@@ -264,6 +264,9 @@
         <mark key="^" line="1" column="25" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.js" timestamp="1461855687201">
+        <mark key="'" line="639" column="0" />
+      </file>
       <file name="$USER_HOME$/www/js/lokijs-test/package.json" timestamp="1459721641119">
         <mark key="'" line="21" column="20" />
         <mark key="[" line="25" column="19" />
@@ -1294,6 +1297,11 @@
         <mark key="^" line="144" column="73" />
         <mark key="." line="144" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/dialog-ng/dialog-ng.js" timestamp="1461855559877">
+        <mark key="'" line="542" column="28" />
+        <mark key="[" line="626" column="10" />
+        <mark key="]" line="626" column="45" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/yt-custom-field-create-form.js" timestamp="1458293264673">
         <mark key="'" line="243" column="2" />
         <mark key="[" line="19" column="80" />
@@ -1981,12 +1989,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/to-field.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/to-field.js" />
-      <jump line="63" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/to-field.js" />
-      <jump line="15" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/to-field.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/to-field.js" />
-      <jump line="3" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/test/service/utils.js" />
       <jump line="9" column="41" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/test/service/utils.js" />
       <jump line="14" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/test/service/utils.js" />
       <jump line="6" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/test/service/to-field.js" />
@@ -2081,10 +2083,16 @@
       <jump line="37" column="44" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/agile-board.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/agile-board.js" />
       <jump line="82" column="42" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/agile-board.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/dialog-ng/dialog-ng.js" />
+      <jump line="542" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/dialog-ng/dialog-ng.js" />
+      <jump line="600" column="40" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.js" />
+      <jump line="603" column="17" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.js" />
+      <jump line="639" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>description</text>
+        <text>element.appendChild(newContentNode);</text>
       </register>
       <register name="-" type="4">
         <text>description</text>
@@ -2092,8 +2100,8 @@
       <register name="/" type="4">
         <text>true</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAnZGVzY3JpcHRpb24nCg==</text>
+      <register name="0" type="4">
+        <text>element.appendChild(newContentNode);</text>
       </register>
       <register name="1" type="4">
         <text>description</text>
