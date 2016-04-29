@@ -969,8 +969,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/command-dialog.js" timestamp="1461871064465">
         <mark key="'" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/clipboard/lib/clipboard.js" timestamp="1461927171694">
-        <mark key="'" line="89" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/clipboard/lib/clipboard.js" timestamp="1461928534660">
+        <mark key="'" line="86" column="17" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/wiki/test/e2e/index.js" timestamp="1461242115139">
         <mark key="'" line="6" column="2" />
@@ -2041,9 +2041,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/command-dialog.js" />
-      <jump line="321" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/command-dialog.js" />
-      <jump line="263" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/command-dialog.js" />
       <jump line="299" column="114" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/command-dialog.js" />
       <jump line="295" column="114" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/command-dialog.js" />
       <jump line="240" column="106" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/command-dialog.js" />
@@ -2141,6 +2138,9 @@
       <jump line="23" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/clipboard/lib/clipboard-action.js" />
       <jump line="85" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/clipboard/lib/clipboard-action.js" />
       <jump line="120" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/clipboard/lib/clipboard-action.js" />
+      <jump line="98" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/clipboard/lib/clipboard.js" />
+      <jump line="107" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/clipboard/lib/clipboard.js" />
+      <jump line="86" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/clipboard/lib/clipboard.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2150,7 +2150,7 @@
         <text>succeeded</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb3B5VGV4dFw+</text>
+        <text encoding="base64">XDx0YXJnZXRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICByZXF1aXJlKCcuLi8uLi9jb21wb25lbnRzL3NvcnRhYmxlL3NvcnRhYmxlJykubmFtZSwK</text>
@@ -2190,9 +2190,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb3B5VGV4dFw+</last-search>
+      <last-search encoding="base64">XDx0YXJnZXRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb3B5VGV4dFw+</last-pattern>
+      <last-pattern encoding="base64">XDx0YXJnZXRcPg==</last-pattern>
       <last-replace>'at</last-replace>
       <last-substitute>at</last-substitute>
       <last-dir>-1</last-dir>
@@ -2200,8 +2200,6 @@
     </search>
     <history>
       <history-search>
-        <entry>short</entry>
-        <entry>query-assist</entry>
         <entry>query</entry>
         <entry>query-assi</entry>
         <entry>glass</entry>
@@ -2220,6 +2218,8 @@
         <entry>default(</entry>
         <entry encoding="base64">XDxzZWxlY3RGYWtlXD4=</entry>
         <entry encoding="base64">XDxjb3B5VGV4dFw+</entry>
+        <entry encoding="base64">XDxvbkNsaWNrXD4=</entry>
+        <entry encoding="base64">XDx0YXJnZXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>80</entry>
