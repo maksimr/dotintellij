@@ -640,12 +640,12 @@
         <mark key="." line="16" column="11" />
         <mark key="^" line="16" column="11" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/clipboard/directive/yt-clipboard.js" timestamp="1461934800091">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/clipboard/directive/yt-clipboard.js" timestamp="1461936891939">
         <mark key="'" line="11" column="0" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="17" column="49" />
-        <mark key="." line="14" column="0" />
+        <mark key="[" line="20" column="19" />
+        <mark key="]" line="20" column="26" />
+        <mark key="^" line="20" column="26" />
+        <mark key="." line="20" column="26" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-sprint-progress.js" timestamp="1458579679508">
         <mark key="'" line="213" column="0" />
@@ -1388,12 +1388,9 @@
         <mark key="^" line="32" column="24" />
         <mark key="." line="32" column="24" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/clipboard/test/directive/yt-clipboard.js" timestamp="1461934600913">
-        <mark key="'" line="34" column="19" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-        <mark key="^" line="63" column="27" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/clipboard/test/directive/yt-clipboard.js" timestamp="1461936951974">
+        <mark key="'" line="84" column="0" />
+        <mark key="[" line="61" column="50" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/webpack/lib/optimize/UglifyJsPlugin.js" timestamp="1459171385847">
         <mark key="'" line="70" column="40" />
@@ -2050,11 +2047,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/query-assist/query-assist.js" />
-      <jump line="69" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/query-assist/query-assist.js" />
-      <jump line="72" column="43" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/query-assist/query-assist.js" />
-      <jump line="86" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/query-assist/query-assist.js" />
-      <jump line="91" column="43" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/query-assist/query-assist.js" />
       <jump line="94" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/query-assist/query-assist.js" />
       <jump line="95" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/query-assist/query-assist.js" />
       <jump line="96" column="39" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/query-assist/query-assist.js" />
@@ -2150,51 +2142,54 @@
       <jump line="13" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/clipboard/directive/yt-clipboard.js" />
       <jump line="34" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/clipboard/test/directive/yt-clipboard.js" />
       <jump line="11" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/clipboard/directive/yt-clipboard.js" />
+      <jump line="67" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/clipboard/test/directive/yt-clipboard.js" />
+      <jump line="64" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/clipboard/test/directive/yt-clipboard.js" />
+      <jump line="65" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/clipboard/test/directive/yt-clipboard.js" />
+      <jump line="66" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/clipboard/test/directive/yt-clipboard.js" />
+      <jump line="84" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/clipboard/test/directive/yt-clipboard.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNjb3BlLiRldmFsQXN5bmMoYXR0ci5jbGlwYm9hcmRPblN1Y2Nlc3MsIHsKICAgICAgICAgICAgJGV2ZW50OiBldmVudAogICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICRzY29wZS4kYXBwbHkoKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>attr.clipboardOnError</text>
+        <text>$destory</text>
       </register>
       <register name="/" type="4">
         <text>emit</text>
       </register>
       <register name="0" type="4">
-        <text>attr.clipboardOnSuccess</text>
+        <text>getClipboard(element)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNjb3BlLiRldmFsQXN5bmMoYXR0ci5jbGlwYm9hcmRPblN1Y2Nlc3MsIHsKICAgICAgICAgICAgJGV2ZW50OiBldmVudAogICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICRzY29wZS4kYXBwbHkoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>attr.clipboardOnError</text>
+        <text>$destory</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNjb3BlLiRldmFsQXN5bmMoYXR0ci5jbGlwYm9hcmRPbkVycm9yLCB7CiAgICAgICAgICAgICRldmVudDogZXZlbnQKICAgICAgICAgIH0pOwo=</text>
-      </register>
-      <register name="4" type="4">
-        <text>handlerExpression</text>
-      </register>
-      <register name="5" type="4">
-        <text>attr.clipboardOnError</text>
-      </register>
-      <register name="6" type="4">
-        <text>attr.clipboardOnError, {
-            $event: event
-          }</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="4">
+        <text>destory</text>
+      </register>
+      <register name="5" type="4">
+        <text>callThroug</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHRoaXMuc2lub24uc3B5KGNsaXBib2FyZCwgJ2Rlc3Ryb3knKTsK</text>
+      </register>
+      <register name="7" type="4">
+        <text>toHaveBeenCalled</text>
+      </register>
       <register name="8" type="4">
-        <text>eval</text>
+        <text>after when we remove directive</text>
       </register>
       <register name="9" type="4">
-        <text>callHandler</text>
+        <text>'data-test', 'copyToClipboard'</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
