@@ -1211,6 +1211,13 @@
         <mark key="^" line="73" column="16" />
         <mark key="." line="73" column="16" />
       </file>
+      <file name="$USER_HOME$/www/js/angular.js/src/ngAnimate/shared.js" timestamp="1462378512759">
+        <mark key="'" line="125" column="9" />
+        <mark key="[" line="129" column="15" />
+        <mark key="]" line="129" column="21" />
+        <mark key="." line="129" column="21" />
+        <mark key="^" line="129" column="21" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/global/global.scss" timestamp="1462364881177">
         <mark key="'" line="71" column="0" />
         <mark key="[" line="73" column="0" />
@@ -1576,8 +1583,12 @@
         <mark key="." line="6" column="23" />
         <mark key="^" line="6" column="23" />
       </file>
-      <file name="$USER_HOME$/www/js/angular.js/test/ngAnimate/animateSpec.js" timestamp="1462377986910">
-        <mark key="'" line="368" column="88" />
+      <file name="$USER_HOME$/www/js/angular.js/test/ngAnimate/animateSpec.js" timestamp="1462378600133">
+        <mark key="'" line="356" column="0" />
+        <mark key="[" line="396" column="55" />
+        <mark key="]" line="396" column="55" />
+        <mark key="." line="396" column="55" />
+        <mark key="^" line="396" column="55" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/clipboard/test/clipboard.js" timestamp="1461932129349">
         <mark key="'" line="7" column="0" />
@@ -1984,9 +1995,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/issue.js" />
-      <jump line="376" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-toolbar.js" />
-      <jump line="25" column="40" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-toolbar.js" />
       <jump line="297" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-toolbar.js" />
       <jump line="296" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-toolbar.js" />
       <jump line="28" column="40" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-toolbar.js" />
@@ -2084,73 +2092,73 @@
       <jump line="0" column="0" filename="$USER_HOME$/www/js/angular.js/lib/grunt/plugins.js" />
       <jump line="361" column="0" filename="$USER_HOME$/www/js/angular.js/test/ngAnimate/animateSpec.js" />
       <jump line="368" column="88" filename="$USER_HOME$/www/js/angular.js/test/ngAnimate/animateSpec.js" />
+      <jump line="356" column="0" filename="$USER_HOME$/www/js/angular.js/test/ngAnimate/animateSpec.js" />
+      <jump line="319" column="9" filename="$USER_HOME$/www/js/angular.js/src/ngAnimate/shared.js" />
+      <jump line="125" column="9" filename="$USER_HOME$/www/js/angular.js/src/ngAnimate/shared.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.name</text>
+        <text>text node element</text>
       </register>
       <register name="-" type="4">
-        <text>.name</text>
+        <text>text node element</text>
       </register>
       <register name="/" type="4">
-        <text>not</text>
+        <text encoding="base64">XDxzdHJpcENvbW1lbnRzRnJvbUVsZW1lbnRcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KGN0cmwuZ2V0QXNzaWduZWVCdXR0b25UaXRsZSgpKQogICAgICAgIC50b0JlKHByb3RvdHlwZUN1c3RvbUZpZWxkLm5hbWUpOwo=</text>
+      <register name="0" type="4">
+        <text>should not attempt to perform an animation on a text node element</text>
       </register>
       <register name="1" type="4">
-        <text>.name</text>
+        <text>text node element</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>prototypeCustomField</text>
+        <text>should not throw exception if we pass empty jqLite collection</text>
       </register>
       <register name="3" type="4">
-        <text>toBe</text>
+        <text>[]</text>
       </register>
-      <register name="4" type="4">
-        <text>()</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlbXB0eU5vZGUubGVuZ3RoKTsK</text>
       </register>
       <register name="5" type="4">
-        <text>assigneeField;</text>
+        <text>Collection</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgaXNzdWVNb2NrLmZpZWxkcyA9IFthc3NpZ25lZUZpZWxkXTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlbXB0eUNvbGxlY3Rpb24ubGVuZ3RoKTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>emptyNode</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhciBjdXN0b21GaWVsZFByb3RvdHlwZSA9IGFzc2lnbmVlRmllbGQucHJvamVjdEN1c3RvbUZpZWxkLmZpZWxkOwo=</text>
+      <register name="8" type="4">
+        <text>element is empty</text>
       </register>
       <register name="9" type="4">
-        <text>customFieldPrototype.localizedName || customFieldPrototype.name;</text>
+        <text>text</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>not</last-search>
+      <last-search encoding="base64">XDxzdHJpcENvbW1lbnRzRnJvbUVsZW1lbnRcPg==</last-search>
       <last-offset />
-      <last-pattern>not</last-pattern>
+      <last-pattern encoding="base64">XDxzdHJpcENvbW1lbnRzRnJvbUVsZW1lbnRcPg==</last-pattern>
       <last-replace>'at</last-replace>
       <last-substitute>at</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxleHRyYWN0RWxlbWVudE5vZGVcPg==</entry>
-        <entry>enable</entry>
         <entry>animate</entry>
         <entry>$animate</entry>
         <entry encoding="base64">XDxhbmltYXRlUHJvdmlkZXJcPg==</entry>
         <entry>push</entry>
         <entry>push:</entry>
-        <entry encoding="base64">XDxzdHJpcENvbW1lbnRzRnJvbUVsZW1lbnRcPg==</entry>
         <entry>comment</entry>
         <entry>strip</entry>
         <entry>stripComm</entry>
@@ -2163,6 +2171,9 @@
         <entry>test:modules</entry>
         <entry>test</entry>
         <entry>not</entry>
+        <entry>not attempt</entry>
+        <entry encoding="base64">XDxnZXREb21Ob2RlXD4=</entry>
+        <entry encoding="base64">XDxzdHJpcENvbW1lbnRzRnJvbUVsZW1lbnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>80</entry>
