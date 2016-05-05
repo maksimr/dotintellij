@@ -1207,11 +1207,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/filter/get-issue-field-presentation.js" timestamp="1462448205802">
         <mark key="'" line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mock/test/service/yt-mock.js" timestamp="1462452492365">
-        <mark key="[" line="19" column="42" />
-        <mark key="]" line="19" column="70" />
-        <mark key="." line="19" column="70" />
-        <mark key="^" line="19" column="70" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mock/test/service/yt-mock.js" timestamp="1462453140772">
+        <mark key="'" line="35" column="0" />
+        <mark key="[" line="38" column="27" />
+        <mark key="]" line="38" column="32" />
+        <mark key="." line="38" column="32" />
+        <mark key="^" line="38" column="32" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/dashboard/dashboard.js" timestamp="1458398025558">
         <mark key="'" line="18" column="5" />
@@ -1669,12 +1670,12 @@
         <mark key="^" line="5" column="119" />
         <mark key="." line="5" column="121" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mock/service/yt-mock.js" timestamp="1462452696083">
-        <mark key="'" line="12" column="9" />
-        <mark key="[" line="10" column="31" />
-        <mark key="]" line="10" column="31" />
-        <mark key="." line="10" column="31" />
-        <mark key="^" line="10" column="31" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mock/service/yt-mock.js" timestamp="1462454186599">
+        <mark key="'" line="9" column="26" />
+        <mark key="[" line="12" column="26" />
+        <mark key="]" line="12" column="30" />
+        <mark key="^" line="12" column="30" />
+        <mark key="." line="12" column="30" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/test/controller/issues-menu-create-button.js" timestamp="1460112505713">
         <mark key="'" line="125" column="0" />
@@ -2056,13 +2057,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="4" filename="$USER_HOME$/www/js/angular.js/src/ngAnimate/animateQueue.js" />
-      <jump line="184" column="27" filename="$USER_HOME$/www/js/angular.js/src/ngAnimate/animateQueue.js" />
-      <jump line="186" column="40" filename="$USER_HOME$/www/js/angular.js/src/ngAnimate/animateQueue.js" />
-      <jump line="213" column="43" filename="$USER_HOME$/www/js/angular.js/src/ngAnimate/animateQueue.js" />
-      <jump line="214" column="47" filename="$USER_HOME$/www/js/angular.js/src/ngAnimate/animateQueue.js" />
-      <jump line="260" column="29" filename="$USER_HOME$/www/js/angular.js/src/ngAnimate/animateQueue.js" />
-      <jump line="262" column="45" filename="$USER_HOME$/www/js/angular.js/src/ngAnimate/animateQueue.js" />
       <jump line="263" column="42" filename="$USER_HOME$/www/js/angular.js/src/ngAnimate/animateQueue.js" />
       <jump line="5" column="0" filename="$USER_HOME$/www/js/angular.js/test/ngAnimate/animateSpec.js" />
       <jump line="368" column="0" filename="$USER_HOME$/www/js/angular.js/Gruntfile.js" />
@@ -2156,68 +2150,56 @@
       <jump line="7" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mock/service/yt-mock.js" />
       <jump line="17" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/e2e/example/index.js" />
       <jump line="11" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mock/service/yt-mock.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mock/test/service/yt-mock.js" />
+      <jump line="13" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mock/service/yt-mock.js" />
+      <jump line="10" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mock/service/yt-mock.js" />
+      <jump line="27" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mock/test/service/yt-mock.js" />
+      <jump line="37" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mock/test/service/yt-mock.js" />
+      <jump line="35" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mock/test/service/yt-mock.js" />
+      <jump line="9" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mock/service/yt-mock.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'93-1',</text>
+        <text>'No due date',</text>
       </register>
       <register name="-" type="4">
-        <text>'93-1',</text>
+        <text>'No due date',</text>
       </register>
       <register name="/" type="4">
         <text>project</text>
       </register>
-      <register name="0" type="4">
-        <text>{
-        'field': {
-          'name': 'Due Date',
-          'fieldType': {
-            'valueType': 'date',
-            'isMultiValue': false,
-            '$type': 'jetbrains.charisma.persistence.customfields.FieldType'
-          },
-          'isPublic': true,
-          'ordinal': 8,
-          'localizedName': null,
-          'id': '39-8',
-          '$type': 'jetbrains.charisma.persistence.customfields.CustomField'
-        },
-        'ordinal': 2,
-        'emptyFieldText': 'No due date',
-        'canBeEmpty': true,
-        'id': '93-1',
-        '$type': 'jetbrains.charisma.customfields.simple.common.SimpleProjectCustomField'
-      }</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICdpZCc6IGZha2VyLnJhbmRvbS51dWlkKCksCg==</text>
       </register>
       <register name="1" type="4">
-        <text>'93-1',</text>
+        <text>'No due date',</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAnaWQnOiAnOTMtMScsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICdpZCc6ICczOS04JywK</text>
       </register>
-      <register name="3" type="4">
-        <text>,</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAnb3JkaW5hbCc6IDIsCiAgICAgICAgJ2VtcHR5RmllbGRUZXh0JzogJ05vIGR1ZSBkYXRlJywKICAgICAgICAnY2FuQmVFbXB0eSc6IHRydWUsCiAgICAgICAgJ2lkJzogJzkzLTEnLAogICAgICAgICckdHlwZSc6ICdqZXRicmFpbnMuY2hhcmlzbWEuY3VzdG9tZmllbGRzLnNpbXBsZS5jb21tb24uU2ltcGxlUHJvamVjdEN1c3RvbUZpZWxkJwo=</text>
+      <register name="4" type="4">
+        <text>extend</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
-      </register>
-      <register name="6" type="4">
-        <text>{}</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgYW5ndWxhci5tZXIK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>object</text>
+      </register>
+      <register name="8" type="4">
+        <text>fieldType</text>
+      </register>
+      <register name="9" type="4">
+        <text>ordinal</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
