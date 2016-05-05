@@ -298,6 +298,13 @@
         <mark key="." line="173" column="10" />
         <mark key="^" line="173" column="10" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1462449359316">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="548" column="40" />
+        <mark key="]" line="548" column="40" />
+        <mark key="." line="548" column="40" />
+        <mark key="^" line="548" column="40" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/style/yt-issue-links.scss" timestamp="1461146851837">
         <mark key="'" line="26" column="0" />
         <mark key="[" line="8" column="24" />
@@ -2020,7 +2027,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2181" column="56" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-animate/angular-animate.js" />
       <jump line="2184" column="77" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-animate/angular-animate.js" />
       <jump line="2321" column="38" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-animate/angular-animate.js" />
       <jump line="3320" column="84" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-animate/angular-animate.js" />
@@ -2120,58 +2126,59 @@
       <jump line="14" column="78" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-custom-field-simple.js" />
       <jump line="129" column="92" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-custom-field-simple.js" />
       <jump line="139" column="75" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-custom-field-simple.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICsgJycgKyBpc3N1ZS51cGRhdGVkKQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4nKTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICsgJycgKyBpc3N1ZS51cGRhdGVkKQ==</text>
       </register>
       <register name="/" type="4">
-        <text>simple</text>
+        <text>short</text>
       </register>
-      <register name="0" type="4">
-        <text>should not attempt to perform an animation on a text node element</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIGlmIChvbkJvYXJkU2l6ZSA9PT0gMSkgewogICAgICAgICAgICBhZ2lsZUJvYXJkQ3RybC5vcGVuSXNzdWVWaWV3KHNlbGVjdGVkT25Cb2FyZFswXSwgYm9hcmRBbmFseXRpY3NNb2RpZmllcik7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICsgJycgKyBpc3N1ZS51cGRhdGVkKQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4nKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi1sZWZ0OiAtMnB4Owo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>text node element</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAob25Cb2FyZFNpemUgPT09IDEpIHsKICAgICAgICAgIGFnaWxlQm9hcmRDdHJsLm9wZW5Jc3N1ZVZpZXcoc2VsZWN0ZWRPbkJvYXJkWzBdLCBib2FyZEFuYWx5dGljc01vZGlmaWVyKTsKICAgICAgICAgIHJldHVybjsKICAgICAgICB9CiAgICAgICAgCg==</text>
       </register>
       <register name="4" type="4">
-        <text>should not throw exception if we pass empty jqLite collection</text>
+        <text encoding="base64">ICsgJycgKyBpc3N1ZS51cGRhdGVkKQ==</text>
       </register>
-      <register name="5" type="4">
-        <text>[]</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIG1hcmdpbi1sZWZ0OiAtMnB4Owo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlbXB0eU5vZGUubGVuZ3RoKTsK</text>
+      <register name="6" type="4">
+        <text>text node element</text>
       </register>
       <register name="7" type="4">
-        <text>Collection</text>
+        <text>should not throw exception if we pass empty jqLite collection</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlbXB0eUNvbGxlY3Rpb24ubGVuZ3RoKTsK</text>
+      <register name="8" type="4">
+        <text>[]</text>
       </register>
-      <register name="9" type="4">
-        <text>emptyNode</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhlbXB0eU5vZGUubGVuZ3RoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>simple</last-search>
+      <last-search>short</last-search>
       <last-offset />
-      <last-pattern>simple</last-pattern>
+      <last-pattern>short</last-pattern>
       <last-replace>'at</last-replace>
       <last-substitute>at</last-substitute>
       <last-dir>1</last-dir>
@@ -2179,7 +2186,6 @@
     </search>
     <history>
       <history-search>
-        <entry>not</entry>
         <entry>not attempt</entry>
         <entry encoding="base64">XDxnZXREb21Ob2RlXD4=</entry>
         <entry encoding="base64">XDxzdHJpcENvbW1lbnRzRnJvbUVsZW1lbnRcPg==</entry>
@@ -2199,6 +2205,7 @@
         <entry>wra</entry>
         <entry>present</entry>
         <entry>simple</entry>
+        <entry>short</entry>
       </history-search>
       <history-cmd>
         <entry>80</entry>
