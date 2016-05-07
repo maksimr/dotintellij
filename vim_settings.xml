@@ -1045,8 +1045,8 @@
       <file name="$USER_HOME$/www/js/karma-jasmine/lib/adapter.js" timestamp="1461830398249">
         <mark key="'" line="365" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-view.html" timestamp="1462547678785">
-        <mark key="'" line="24" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-view.html" timestamp="1462644048577">
+        <mark key="'" line="54" column="0" />
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
@@ -1448,9 +1448,9 @@
         <mark key="." line="10" column="43" />
         <mark key="^" line="10" column="43" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/style/yt-issue-view.scss" timestamp="1462642855446">
-        <mark key="'" line="21" column="0" />
-        <mark key="^" line="7" column="19" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/style/yt-issue-view.scss" timestamp="1462644612729">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="26" column="34" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/Gruntfile.js" timestamp="1460325777676">
         <mark key="'" line="37" column="0" />
@@ -2112,8 +2112,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mock/service/yt-mock.js" />
-      <jump line="65" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mock/test/service/yt-mock.js" />
       <jump line="61" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mock/test/service/yt-mock.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mock/test/service/yt-mock.js" />
       <jump line="80" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mock/test/service/yt-mock.js" />
@@ -2167,7 +2165,6 @@
       <jump line="50" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-view.html" />
       <jump line="39" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-view.html" />
       <jump line="48" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-view.html" />
-      <jump line="3" column="29" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-view.html" />
       <jump line="25" column="32" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-view.html" />
       <jump line="33" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-view.html" />
       <jump line="34" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-view.html" />
@@ -2175,13 +2172,11 @@
       <jump line="39" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/style/yt-issue-view.scss" />
       <jump line="40" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/style/yt-issue-view.scss" />
       <jump line="29" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-view.html" />
-      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-view.html" />
       <jump line="52" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-view.html" />
       <jump line="3" column="3" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/style/yt-issue-view.scss" />
       <jump line="26" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/style/yt-issue-view.scss" />
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
       <jump line="30" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-view.html" />
-      <jump line="54" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-view.html" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-view.html" />
       <jump line="56" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-view.html" />
       <jump line="31" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/style/yt-issue-view.scss" />
@@ -2209,16 +2204,21 @@
       <jump line="41" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/wiki/style/wiki.scss" />
       <jump line="101" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/wiki/style/wiki.scss" />
       <jump line="24" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-view.html" />
-      <jump line="19" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/style/yt-issue-view.scss" />
       <jump line="70" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/style/yt-issue-view.scss" />
       <jump line="21" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/style/yt-issue-view.scss" />
+      <jump line="19" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/style/yt-issue-view.scss" />
+      <jump line="40" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-view.html" />
+      <jump line="3" column="51" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-view.html" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-view.html" />
+      <jump line="54" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-view.html" />
+      <jump line="16" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/style/yt-issue-view.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAogICAgJi10ZCB7CiAgICAgIAogICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>column</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>column</text>
       </register>
       <register name="/" type="4">
         <text>title</text>
@@ -2226,35 +2226,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgPHRkIGNsYXNzPSJ5dC1pc3N1ZS12aWV3X190YWJsZS1sYXlvdXQtdGQiPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAogICAgJi10ZCB7CiAgICAgIAogICAgfQo=</text>
+      <register name="1" type="4">
+        <text>column</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPHRkPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJpZ2h0OiAwOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHRvcDogMDsK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHBhZGRpbmctcmlnaHQ6ICRmaWVsZHMtcGFuZWwtd2lkdGg7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJ5dC1pc3N1ZS12aWV3X19maWVsZHMtY29udGFpbmVyIj4KICAgIDxkaXYgY2xhc3M9Inl0LXZndXR0ZXItNyI+CiAgICAgIDx5dC1zdGlja3ktcGFuZWwgY2xhc3M9Inl0LWlzc3VlLXZpZXdfX2ZpZWxkcy1jb250YWluZXItY29udGVudCIKICAgICAgICAgICAgICAgICAgICAgICBzdGlja3ktY2xhc3M9Inl0LWlzc3VlLXZpZXdfX3N0aWNreS1jb250ZW50IgogICAgICAgICAgICAgICAgICAgICAgIG9uLXNjcm9sbD0iaXNzdWVWaWV3Q3RybC51cGRhdGVJc3N1ZUZpZWxkc0NvbnRhaW5lciI+CiAgICAgICAgPGRpdiBuZy1zdHlsZT0ieydtYXgtaGVpZ2h0JzogaXNzdWVWaWV3Q3RybC5maWVsZHNQYW5lbE1heEhlaWdodCwgb3ZlcmZsb3c6ICdhdXRvJ30iPgogICAgICAgICAgPHl0LWlzc3VlLWZpZWxkcy1wYW5lbCBpc3N1ZT0iaXNzdWVWaWV3Q3RybC5pc3N1ZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5hbHl0aWNzLW1vZGlmaWVyPSJpc3N1ZVZpZXdDdHJsLmFuYWx5dGljc01vZGlmaWVyIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjYW4tdXBkYXRlLWdlbmVyYWwtaW5mb3JtYXRpb249Imlzc3VlVmlld0N0cmwuY2FuVXBkYXRlR2VuZXJhbEluZm9ybWF0aW9uKCkiPgogICAgICAgICAgPC95dC1pc3N1ZS1maWVsZHMtcGFuZWw+CiAgICAgICAgPC9kaXY+CgogICAgICAgIDxkaXYgY2xhc3M9Inl0LWlzc3VlLXZpZXdfX2ZpZWxkcy1jb250YWluZXItY29udGVudCB5dC1pc3N1ZS12aWV3X19maWVsZHMtdW5kZXItYmxvY2siCiAgICAgICAgICAgICBuZy1jbGFzcz0ieydyaW5nLWRvY2tlZC1wYW5lbCB5dC1pc3N1ZS12aWV3X19zdGlja3ktY29udGVudCc6IGlzc3VlVmlld0N0cmwuc2hvdWxkUGluQmxvY2tVbmRlckZpZWxkc30iPgogICAgICAgICAgPHl0LWlzc3VlLXZvdGVycyBvbi1yZWZyZXNoLWlzc3VlPSJpc3N1ZVZpZXdDdHJsLnJlZnJlc2hJc3N1ZSgpIgogICAgICAgICAgICAgICAgICAgICAgICAgICBpc3N1ZT0iaXNzdWVWaWV3Q3RybC5pc3N1ZSI+PC95dC1pc3N1ZS12b3RlcnM+CiAgICAgICAgICA8eXQtaXNzdWUtd2F0Y2hlcnMgaXNzdWU9Imlzc3VlVmlld0N0cmwuaXNzdWUiPjwveXQtaXNzdWUtd2F0Y2hlcnM+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPCEtLVBsYWNlaG9sZGVyIGZvciBwaW5uZWQgdm90ZXJzL3dhdGNoZXJzLS0+CiAgICAgICAgPGRpdiBuZy1pZj0iaXNzdWVWaWV3Q3RybC5zaG91bGRQaW5CbG9ja1VuZGVyRmllbGRzIgogICAgICAgICAgICAgbmctc3R5bGU9InsnaGVpZ2h0JzogaXNzdWVWaWV3Q3RybC5zcGFjZVVuZGVyRmllbGRzUGFuZWxIZWlnaHQgKyAncHgnfSI+PC9kaXY+CiAgICAgIDwveXQtc3RpY2t5LXBhbmVsPgogICAgPC9kaXY+CiAgPC9kaXY+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJ5dC1pc3N1ZS12aWV3X193cmFwcGVyIj4KICAgIDx5dC1pc3N1ZS10b29sYmFyIGNsYXNzPSJ5dC1pc3N1ZS12aWV3X190b29sYmFyIgogICAgICAgICAgICAgICAgICAgICAgaXNzdWU9Imlzc3VlVmlld0N0cmwuaXNzdWUiCiAgICAgICAgICAgICAgICAgICAgICBjYW4tdXBkYXRlLWdlbmVyYWwtaW5mb3JtYXRpb249Imlzc3VlVmlld0N0cmwuY2FuVXBkYXRlR2VuZXJhbEluZm9ybWF0aW9uKCkiCiAgICAgICAgICAgICAgICAgICAgICBvbi1lZGl0PSJpc3N1ZVZpZXdDdHJsLm9uRWRpdCgpIgogICAgICAgICAgICAgICAgICAgICAgb24tZGVsZXRlPSJpc3N1ZVZpZXdDdHJsLm9uRGVsZXRlSXNzdWUoKSIKICAgICAgICAgICAgICAgICAgICAgIG9uLXJlZnJlc2gtaXNzdWU9Imlzc3VlVmlld0N0cmwucmVmcmVzaElzc3VlKCkiCiAgICAgICAgICAgICAgICAgICAgICBvbi1vcGVuLWNvbW1hbmQtZGlhbG9nPSJpc3N1ZVZpZXdDdHJsLm9uT3BlbkNvbW1hbmREaWFsb2coaW5pdGlhbFRleHQpIgogICAgICAgICAgICAgICAgICAgICAgYW5hbHl0aWNzLW1vZGlmaWVyPSJpc3N1ZVZpZXdDdHJsLmFuYWx5dGljc01vZGlmaWVyIgogICAgICAgICAgICAgICAgICAgICAgb24tYXBwbHktY29tbWFuZD0iaXNzdWVWaWV3Q3RybC5hcHBseUNvbW1hbmQoY29tbWFuZCkiPjwveXQtaXNzdWUtdG9vbGJhcj4KCiAgICA8eXQtaXNzdWUtdGFncyBpc3N1ZS1pZD0iaXNzdWVWaWV3Q3RybC5pc3N1ZS5pZCIgdGFncz0iaXNzdWVWaWV3Q3RybC5pc3N1ZS50YWdzIj48L3l0LWlzc3VlLXRhZ3M+CgogICAgPGRpdiBuZy1pbmNsdWRlPSInY29tcG9uZW50cy9pc3N1ZS90ZW1wbGF0ZS95dC1pc3N1ZS12aWV3LW1ldGEtaW5mb3JtYXRpb24uaHRtbCciCiAgICAgICAgIGNsYXNzPSJ5dC1pc3N1ZS12aWV3X19tZXRhLWluZm9ybWF0aW9uLWNvbnRhaW5lciI+PC9kaXY+CgogICAgPGRpdiBjbGFzcz0ieXQtaXNzdWUtdmlld19fYm9keSB5dC12Z3V0dGVyLTEiPgogICAgICA8eXQtaXNzdWUtYm9keSBpc3N1ZT0iaXNzdWVWaWV3Q3RybC5pc3N1ZSIKICAgICAgICAgICAgICAgICAgICAgb24tc3VibWl0PSJpc3N1ZVZpZXdDdHJsLm9uU2F2ZUlzc3VlKCRpc3N1ZSkiCiAgICAgICAgICAgICAgICAgICAgIG9uLXJlc2V0PSJpc3N1ZVZpZXdDdHJsLm9uUmVzZXQoKSIKICAgICAgICAgICAgICAgICAgICAgb24tZXNjYXBlLXByZXNzPSJpc3N1ZVZpZXdDdHJsLmhhbmRsZUVzY2FwZU9uSXNzdWVCb2R5KCkiCiAgICAgICAgICAgICAgICAgICAgIGRpc2FibGVkPSJpc3N1ZVZpZXdDdHJsLmlzU2F2aW5nIgogICAgICAgICAgICAgICAgICAgICBlZGl0YWJsZT0iaXNzdWVWaWV3Q3RybC5pc0VkaXRNb2RlIj4KICAgICAgPC95dC1pc3N1ZS1ib2R5PgoKICAgIDwvZGl2PgoKICAgIDxkaXYgbmctaWY9IiFpc3N1ZVZpZXdDdHJsLmlzRWRpdE1vZGUiIG5nLWluY2x1ZGU9Iidjb21wb25lbnRzL2lzc3VlL3RlbXBsYXRlL3l0LWlzc3VlLXZpZXctdGFicy5odG1sJyI+PC9kaXY+CiAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICB6b29tOiAxOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
