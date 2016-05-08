@@ -1467,8 +1467,8 @@
         <mark key="^" line="18" column="19" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/.eslintrc" timestamp="1462653111418">
-        <mark key="'" line="26" column="5" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/.eslintrc" timestamp="1462697998221">
+        <mark key="'" line="128" column="0" />
         <mark key="[" line="6" column="14" />
         <mark key="]" line="6" column="18" />
         <mark key="." line="6" column="18" />
@@ -2160,10 +2160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/vcs-changes/service/convert-commit-to-vcs-change.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/utils.js" />
-      <jump line="76" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/utils.js" />
-      <jump line="226" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/utils.js" />
       <jump line="254" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/utils.js" />
       <jump line="255" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/utils.js" />
       <jump line="257" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/utils.js" />
@@ -2260,6 +2256,10 @@
       <jump line="8" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/analytics/raw/jq-analytics-attributes.js" />
       <jump line="25" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/analytics/raw/jq-analytics-attributes.js" />
       <jump line="30" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/analytics/raw/jq-analytics-attributes.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/.eslintrc" />
+      <jump line="7" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/.eslintrc" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/.eslintrc" />
+      <jump line="128" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/.eslintrc" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2280,8 +2280,8 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">J3VzZSBzdHJpY3QnOwo=</text>
+      <register name="2" type="4">
+        <text>true</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">J3VzZSBzdHJpY3QnOwo=</text>
@@ -2290,19 +2290,19 @@
         <text encoding="base64">J3VzZSBzdHJpY3QnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">J3VzZSBzdHJpY3QnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">LyoqCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICckcScsCiAgICAnJHRpbWVvdXQnLAogICAgJ2kxOG4nLAogICAgJ2RpYWxvZycsCiAgICAnY29tbWFuZFJlc291cmNlJywKICAgICd5dEFwcGx5Q29tbWFuZCcsCiAgICAnaHR0cEVycm9ySGFuZGxlcicsCiAgICAnYnVuZGxlVHlwZXNNYXBwaW5nJywKICAgICdjdXN0b21GaWVsZHNSZXNvdXJjZScsCiAgICAneXRVdGlscycsCiAgICAnaXNzdWVSZXNvdXJjZScsCiAgICAnYW5hbHl0aWNzJywKICAgICdjb21tYW5kRGlhbG9nSGVscGVyJywKICAgICd1c2VyR3JvdXBzJywKICAgICd3b3JrZmxvd0Vycm9ySGFuZGxlcicsCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>[</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICdyaW5nQ29tcG9uZW50cycsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
