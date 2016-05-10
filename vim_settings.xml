@@ -103,12 +103,12 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="23" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-sort-config.js" timestamp="1462648783422">
-        <mark key="'" line="25" column="4" />
-        <mark key="[" line="38" column="48" />
-        <mark key="]" line="38" column="48" />
-        <mark key="." line="38" column="48" />
-        <mark key="^" line="38" column="48" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-sort-config.js" timestamp="1462872895959">
+        <mark key="'" line="38" column="48" />
+        <mark key="[" line="38" column="57" />
+        <mark key="]" line="38" column="59" />
+        <mark key="." line="38" column="59" />
+        <mark key="^" line="38" column="59" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/workflow/service/workflow-error-decorator.js" timestamp="1461947443169">
         <mark key="'" line="41" column="4" />
@@ -2199,11 +2199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="736" column="66" filename="$USER_HOME$/www/js/material/src/components/dialog/dialog.js" />
-      <jump line="741" column="18" filename="$USER_HOME$/www/js/material/src/components/dialog/dialog.js" />
-      <jump line="750" column="21" filename="$USER_HOME$/www/js/material/src/components/dialog/dialog.js" />
-      <jump line="752" column="33" filename="$USER_HOME$/www/js/material/src/components/dialog/dialog.js" />
-      <jump line="753" column="33" filename="$USER_HOME$/www/js/material/src/components/dialog/dialog.js" />
       <jump line="754" column="35" filename="$USER_HOME$/www/js/material/src/components/dialog/dialog.js" />
       <jump line="756" column="16" filename="$USER_HOME$/www/js/material/src/components/dialog/dialog.js" />
       <jump line="759" column="51" filename="$USER_HOME$/www/js/material/src/components/dialog/dialog.js" />
@@ -2299,6 +2294,11 @@
       <jump line="98" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/analytics-ng/analytics-ng.js" />
       <jump line="120" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/analytics-ng/analytics-ng.js" />
       <jump line="121" column="35" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/analytics-ng/analytics-ng.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-sort-config.js" />
+      <jump line="24" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-sort-config.js" />
+      <jump line="3" column="48" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-sort-config.js" />
+      <jump line="30" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-sort-config.js" />
+      <jump line="38" column="48" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-sort-config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2308,7 +2308,7 @@
         <text>around</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxldmVudFR5cGVcPg==</text>
+        <text>doc</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkY29tcGlsZShvdmVybGF5RWwpKCRzY29wZSk7Cg==</text>
@@ -2348,26 +2348,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxldmVudFR5cGVcPg==</last-search>
+      <last-search>doc</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxldmVudFR5cGVcPg==</last-pattern>
+      <last-pattern>doc</last-pattern>
       <last-replace>'at</last-replace>
       <last-substitute>at</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvdmVybGF5VHBsXD4=</entry>
-        <entry encoding="base64">XDxPVkVSTEFZX0NPTlRFTlRfU0VMRUNUT1JcPg==</entry>
-        <entry>addClas</entry>
-        <entry encoding="base64">XDxvdmVybGF5RWxcPg==</entry>
-        <entry encoding="base64">XDxPVkVSTEFZX0NPTlRBSU5FUl9TRUxFQ1RPUlw+</entry>
-        <entry encoding="base64">XDxzY3JvbGxiYXJXaWR0aFw+</entry>
-        <entry encoding="base64">XDxzY3JvbGxXaWR0aFw+</entry>
-        <entry encoding="base64">XDxhbmFseXRpY3NNb2RpZmllclw+</entry>
-        <entry encoding="base64">XDxWSUVXX0lTU1VFX1RPT0xCQVJfU0hPUlRDVVRTX1NDT1BFXD4=</entry>
-        <entry>ana</entry>
         <entry encoding="base64">XDxpc3N1ZVVwZGF0ZXJcPg==</entry>
         <entry encoding="base64">XDxvblJlZnJlc2hJc3N1ZVw+</entry>
         <entry encoding="base64">XDxnZXRBc3NpZ25lZU9wdGlvbnNcPg==</entry>
@@ -2378,6 +2368,16 @@
         <entry>analy</entry>
         <entry>g</entry>
         <entry encoding="base64">XDxldmVudFR5cGVcPg==</entry>
+        <entry>$document</entry>
+        <entry encoding="base64">XDxkb2N1bWVudFw+</entry>
+        <entry>document</entry>
+        <entry encoding="base64">XDxnZXRTZWxlY3RlZFRleHRcPg==</entry>
+        <entry encoding="base64">XDxzZXRTZWxlY3RlZFRleHRcPg==</entry>
+        <entry encoding="base64">XDxzYXZlQWxsQXNTZWVuXD4=</entry>
+        <entry>docume</entry>
+        <entry>docum</entry>
+        <entry>docu</entry>
+        <entry>doc</entry>
       </history-search>
       <history-cmd>
         <entry>80</entry>
