@@ -1402,12 +1402,8 @@
         <mark key="^" line="389" column="26" />
         <mark key="." line="389" column="26" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-toolbar.js" timestamp="1462833402745">
-        <mark key="'" line="224" column="17" />
-        <mark key="[" line="378" column="0" />
-        <mark key="]" line="378" column="0" />
-        <mark key="." line="378" column="0" />
-        <mark key="^" line="378" column="75" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-toolbar.js" timestamp="1462835726777">
+        <mark key="'" line="75" column="17" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/index.html" timestamp="1460119520489">
         <mark key="'" line="62" column="0" />
@@ -2213,7 +2209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="332" column="45" filename="$USER_HOME$/www/js/material/src/core/services/interimElement/interimElement.js" />
       <jump line="518" column="62" filename="$USER_HOME$/www/js/material/src/core/services/interimElement/interimElement.js" />
       <jump line="601" column="33" filename="$USER_HOME$/www/js/material/src/core/services/interimElement/interimElement.js" />
       <jump line="603" column="19" filename="$USER_HOME$/www/js/material/src/core/services/interimElement/interimElement.js" />
@@ -2294,7 +2289,6 @@
       <jump line="258" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-toolbar.js" />
       <jump line="247" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-toolbar.js" />
       <jump line="215" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-toolbar.js" />
-      <jump line="75" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-toolbar.js" />
       <jump line="363" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-toolbar.js" />
       <jump line="338" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-toolbar.js" />
       <jump line="293" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-toolbar.js" />
@@ -2313,58 +2307,60 @@
       <jump line="358" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-toolbar.js" />
       <jump line="277" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-toolbar.js" />
       <jump line="224" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-toolbar.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-toolbar.js" />
+      <jump line="75" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-toolbar.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>$compile(overlayEl)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CiAgICAgICAgeXRBc3BlY3QuYmVmb3JlKG9uQ2hhbmdlUGVybWl0dGVkR3JvdXAsIHNlbmRTdGF0aXN0aWNzKTsKICAgICAgICB5dEFzcGVjdC5hcm91bmQob25DaGFuZ2VQZXJtaXR0ZWRHcm91cCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>$compile(overlayEl)</text>
+        <text>around</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXBlYXRMYXN0Q29tbWFuZFw+</text>
+        <text encoding="base64">XDxzZW5kU3RhdGlzdGljc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkY29tcGlsZShvdmVybGF5RWwpKCRzY29wZSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>$compile(overlayEl)</text>
+      <register name="1" type="2">
+        <text encoding="base64">CiAgICAgICAgeXRBc3BlY3QuYmVmb3JlKG9uQ2hhbmdlUGVybWl0dGVkR3JvdXAsIHNlbmRTdGF0aXN0aWNzKTsKICAgICAgICB5dEFzcGVjdC5hcm91bmQob25DaGFuZ2VQZXJtaXR0ZWRHcm91cCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>($scope);</text>
+        <text>around</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">dmFyIE9WRVJMQVlfQ09OVEFJTkVSX1NFTEVDVE9SID0gJy55dC1vdmVybGF5X19jb250YWluZXInOwo=</text>
+      <register name="3" type="4">
+        <text>around</text>
       </register>
       <register name="4" type="4">
-        <text>.querySelector(OVERLAY_CONTAINER_SELECTOR)</text>
+        <text>after</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvdmVybGF5RWwuaW5uZXJIVE1MID0gb3ZlcmxheVRwbDsK</text>
+      <register name="5" type="4">
+        <text>youtrack.</text>
       </register>
       <register name="6" type="4">
-        <text>$window.document.createElement('div');</text>
+        <text>dojo</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">PGFuZ3VsPjwvYW5ndWw+</text>
+        <text>aspect</text>
       </register>
       <register name="8" type="4">
-        <text>$window.document.createElement('div');</text>
+        <text>$compile(overlayEl)</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvdmVybGF5RWwuaW5uZXJIVE1MID0gb3ZlcmxheVRwbDsK</text>
+      <register name="9" type="4">
+        <text>($scope);</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXBlYXRMYXN0Q29tbWFuZFw+</last-search>
+      <last-search encoding="base64">XDxzZW5kU3RhdGlzdGljc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXBlYXRMYXN0Q29tbWFuZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxzZW5kU3RhdGlzdGljc1w+</last-pattern>
       <last-replace>'at</last-replace>
       <last-substitute>at</last-substitute>
       <last-dir>-1</last-dir>
@@ -2372,7 +2368,6 @@
     </search>
     <history>
       <history-search>
-        <entry>click</entry>
         <entry>element</entry>
         <entry>overla</entry>
         <entry>overl</entry>
@@ -2383,15 +2378,16 @@
         <entry encoding="base64">XDxPVkVSTEFZX0NPTlRBSU5FUl9TRUxFQ1RPUlw+</entry>
         <entry encoding="base64">XDxzY3JvbGxiYXJXaWR0aFw+</entry>
         <entry encoding="base64">XDxzY3JvbGxXaWR0aFw+</entry>
-        <entry>stat</entry>
         <entry encoding="base64">XDxhbmFseXRpY3NNb2RpZmllclw+</entry>
         <entry encoding="base64">XDxWSUVXX0lTU1VFX1RPT0xCQVJfU0hPUlRDVVRTX1NDT1BFXD4=</entry>
         <entry>ana</entry>
-        <entry encoding="base64">XDxzZW5kU3RhdGlzdGljc1w+</entry>
         <entry encoding="base64">XDxpc3N1ZVVwZGF0ZXJcPg==</entry>
         <entry encoding="base64">XDxvblJlZnJlc2hJc3N1ZVw+</entry>
         <entry encoding="base64">XDxnZXRBc3NpZ25lZU9wdGlvbnNcPg==</entry>
         <entry encoding="base64">XDxyZXBlYXRMYXN0Q29tbWFuZFw+</entry>
+        <entry>stat</entry>
+        <entry>send</entry>
+        <entry encoding="base64">XDxzZW5kU3RhdGlzdGljc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>80</entry>
