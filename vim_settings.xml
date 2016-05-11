@@ -2376,7 +2376,7 @@
         <text>rgUtil.</text>
       </register>
       <register name="/" type="4">
-        <text>rg</text>
+        <text>mask</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Cg==</text>
@@ -2416,9 +2416,9 @@
       </register>
     </registers>
     <search>
-      <last-search>rg</last-search>
+      <last-search>mask</last-search>
       <last-offset />
-      <last-pattern>rg</last-pattern>
+      <last-pattern>mask</last-pattern>
       <last-replace>'at</last-replace>
       <last-substitute>at</last-substitute>
       <last-dir>1</last-dir>
@@ -2426,7 +2426,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxESUFMT0dfTkFNRVNQQUNFXD4=</entry>
         <entry>def</entry>
         <entry encoding="base64">XDxkb2N1bWVudFw+</entry>
         <entry encoding="base64">XDxyZ1V0aWxcPg==</entry>
@@ -2446,6 +2445,7 @@
         <entry>scroll</entry>
         <entry>stub</entry>
         <entry>rg</entry>
+        <entry>mask</entry>
       </history-search>
       <history-cmd>
         <entry>80</entry>
