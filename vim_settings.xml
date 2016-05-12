@@ -829,8 +829,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-animate/angular-animate.js" timestamp="1462379598162">
         <mark key="'" line="3872" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dropdown/service/yt-dropdown.js" timestamp="1461951554177">
-        <mark key="'" line="108" column="14" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dropdown/service/yt-dropdown.js" timestamp="1463076095706">
+        <mark key="'" line="60" column="15" />
       </file>
       <file name="$USER_HOME$/www/js/lokijs-test/test/testBundle.webpack.js" timestamp="1459719184129">
         <mark key="'" line="12" column="0" />
@@ -2218,8 +2218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/service/yt-shortcuts-map.js" />
-      <jump line="22" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/service/yt-shortcuts-map.js" />
       <jump line="11" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/test/service/yt-shortcuts-map.js" />
       <jump line="75" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/command-dialog-helper.js" />
       <jump line="74" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/command-dialog-helper.js" />
@@ -2318,6 +2316,8 @@
       <jump line="244" column="53" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/command-dialog.js" />
       <jump line="250" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/command-dialog.js" />
       <jump line="59" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/command-dialog.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dropdown/service/yt-dropdown.js" />
+      <jump line="60" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dropdown/service/yt-dropdown.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2327,7 +2327,7 @@
         <text>firstLetter</text>
       </register>
       <register name="/" type="4">
-        <text>issues</text>
+        <text>show</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Cg==</text>
@@ -2367,9 +2367,9 @@
       </register>
     </registers>
     <search>
-      <last-search>issues</last-search>
+      <last-search>show</last-search>
       <last-offset />
-      <last-pattern>issues</last-pattern>
+      <last-pattern>show</last-pattern>
       <last-replace>'at</last-replace>
       <last-substitute>at</last-substitute>
       <last-dir>1</last-dir>
@@ -2377,8 +2377,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx5dFNob3J0Y3V0c01hcFw+</entry>
-        <entry>ytShortcutsMap</entry>
         <entry>Map</entry>
         <entry>start</entry>
         <entry>short</entry>
@@ -2397,6 +2395,8 @@
         <entry encoding="base64">XDxjb21tYW5kXD4=</entry>
         <entry encoding="base64">XDxjb21tYW5kVGV4dFw+</entry>
         <entry>issues</entry>
+        <entry>dialog</entry>
+        <entry>show</entry>
       </history-search>
       <history-cmd>
         <entry>166</entry>
