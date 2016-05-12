@@ -811,8 +811,8 @@
         <mark key="]" line="132" column="0" />
         <mark key="." line="132" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/config/config.js" timestamp="1462702824916">
-        <mark key="'" line="49" column="17" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/config/config.js" timestamp="1463061977727">
+        <mark key="'" line="104" column="0" />
         <mark key="[" line="2" column="14" />
         <mark key="]" line="2" column="13" />
         <mark key="." line="2" column="13" />
@@ -2254,7 +2254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/command-dialog.js" />
       <jump line="37" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/command-dialog.js" />
       <jump line="38" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/command-dialog.js" />
       <jump line="10" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/command-dialog.js" />
@@ -2354,6 +2353,7 @@
       <jump line="213" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="340" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="399" column="40" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="104" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/config/config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2363,7 +2363,7 @@
         <text>ytShortcuts</text>
       </register>
       <register name="/" type="4">
-        <text>type</text>
+        <text>shortcuts</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLyoqCiAgICAgICAqIEBwYXJhbSB7RXZlbnR9IGV2ZW50CiAgICAgICAqIEBwYXJhbSB7RnVuY3Rpb259IHNob3dDb21tYW5kRGlhbG9nQ2FsbGJhY2sKICAgICAgICogQHJldHVybnMge2Jvb2xlYW59CiAgICAgICAqLwo=</text>
@@ -2403,9 +2403,9 @@
       </register>
     </registers>
     <search>
-      <last-search>type</last-search>
+      <last-search>shortcuts</last-search>
       <last-offset />
-      <last-pattern>type</last-pattern>
+      <last-pattern>shortcuts</last-pattern>
       <last-replace>'at</last-replace>
       <last-substitute>at</last-substitute>
       <last-dir>1</last-dir>
@@ -2424,7 +2424,6 @@
         <entry>show</entry>
         <entry>shor</entry>
         <entry>typ</entry>
-        <entry>shortcuts</entry>
         <entry encoding="base64">XDxzaG93Q29tbWFuZERpYWxvZ0NhbGxiYWNrXD4=</entry>
         <entry>any</entry>
         <entry>event</entry>
@@ -2433,6 +2432,7 @@
         <entry>trigger</entry>
         <entry>short</entry>
         <entry>type</entry>
+        <entry>shortcuts</entry>
       </history-search>
       <history-cmd>
         <entry>166</entry>
