@@ -176,12 +176,12 @@
         <mark key="." line="56" column="62" />
         <mark key="^" line="56" column="62" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-view-links.html" timestamp="1461154991416">
-        <mark key="'" line="20" column="5" />
-        <mark key="[" line="3" column="100" />
-        <mark key="]" line="3" column="100" />
-        <mark key="." line="3" column="100" />
-        <mark key="^" line="3" column="100" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-view-links.html" timestamp="1463130178225">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="9" column="11" />
+        <mark key="]" line="9" column="18" />
+        <mark key="." line="9" column="18" />
+        <mark key="^" line="9" column="18" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/karma.conf.js" timestamp="1463128609530">
         <mark key="'" line="39" column="0" />
@@ -2228,12 +2228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/test/service/command-dialog.js" />
-      <jump line="57" column="39" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/test/service/command-dialog.js" />
-      <jump line="38" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/test/service/command-dialog.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/test/service/command-dialog.js" />
-      <jump line="53" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/test/service/command-dialog.js" />
-      <jump line="290" column="114" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/command-dialog.js" />
       <jump line="292" column="63" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/command-dialog.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/template/command-dialog.html" />
       <jump line="28" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/template/command-dialog.html" />
@@ -2328,58 +2322,64 @@
       <jump line="16" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-related-visibility.html" />
       <jump line="18" column="62" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-related-visibility.html" />
       <jump line="20" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-related-visibility.html" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-view-links.html" />
+      <jump line="3" column="85" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-view-links.html" />
+      <jump line="9" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-view-links.html" />
+      <jump line="12" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-view-links.html" />
+      <jump line="11" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-view-links.html" />
+      <jump line="24" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-view-links.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRhYmluZGV4PSIwIgo=</text>
+      <register name="&quot;" type="4">
+        <text>issue.summary</text>
       </register>
       <register name="-" type="4">
-        <text>span</text>
+        <text>issue.summary</text>
       </register>
       <register name="/" type="4">
-        <text>sele</text>
+        <text>title</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRhYmluZGV4PSIwIgo=</text>
+      <register name="1" type="4">
+        <text>issue.summary</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>span</text>
+        <text>issue.summary</text>
       </register>
-      <register name="3" type="4">
-        <text>firstLetter</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIHRhYmluZGV4PSIwIgo=</text>
       </register>
       <register name="4" type="4">
+        <text>span</text>
+      </register>
+      <register name="5" type="4">
         <text>firstLetter</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="4">
-        <text>Callback</text>
+        <text>firstLetter</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgb25BcHBseUNvbW1hbmRDYWxsYmFjayA9IG9wdGlvbnMub25BcHBseTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvbkFwcGx5Q29tbWFuZENhbGxiYWNrID0gb25BcHBseUNvbW1hbmRDYWxsYmFjayB8fCBhbmd1bGFyLm5vb3A7Cg==</text>
+      <register name="8" type="4">
+        <text>Callback</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBvbkFwcGx5Q29tbWFuZENhbGxiYWNrKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgb25BcHBseUNvbW1hbmRDYWxsYmFjayA9IG9wdGlvbnMub25BcHBseTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sele</last-search>
+      <last-search>title</last-search>
       <last-offset />
-      <last-pattern>sele</last-pattern>
+      <last-pattern>title</last-pattern>
       <last-replace>'at</last-replace>
       <last-substitute>at</last-substitute>
       <last-dir>1</last-dir>
@@ -2387,7 +2387,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzaG93Q29tbWFuZERpYWxvZ1w+</entry>
         <entry>onApply</entry>
         <entry encoding="base64">XDxpc3N1ZXNcPg==</entry>
         <entry>template</entry>
@@ -2407,6 +2406,7 @@
         <entry>visible</entry>
         <entry>all</entry>
         <entry>sele</entry>
+        <entry>title</entry>
       </history-search>
       <history-cmd>
         <entry>166</entry>
