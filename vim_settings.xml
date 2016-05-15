@@ -564,8 +564,8 @@
         <mark key="^" line="9" column="14" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/www/js/material/src/components/dialog/dialog.js" timestamp="1463265957137">
-        <mark key="'" line="565" column="6" />
+      <file name="$USER_HOME$/www/js/material/src/components/dialog/dialog.js" timestamp="1463338206463">
+        <mark key="'" line="266" column="13" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/overlay/service/overlay.js" timestamp="1462967814149">
         <mark key="'" line="62" column="0" />
@@ -2334,19 +2334,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/issue-custom-field/dropdown-issue-custom-field-simple.html" />
-      <jump line="20" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/issue-custom-field/dropdown-issue-custom-field-simple.html" />
-      <jump line="45" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/issue-custom-field/dropdown-issue-custom-field-simple.html" />
-      <jump line="30" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/issue-custom-field/dropdown-issue-custom-field-simple.html" />
-      <jump line="57" column="42" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/issue-custom-field/dropdown-issue-custom-field-simple.html" />
-      <jump line="62" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-custom-field-simple.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dropdown/service/yt-dropdown.js" />
-      <jump line="12" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dropdown/service/yt-dropdown.js" />
-      <jump line="19" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dropdown/service/yt-dropdown.js" />
-      <jump line="24" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dropdown/service/yt-dropdown.js" />
-      <jump line="31" column="78" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dropdown/service/yt-dropdown.js" />
-      <jump line="50" column="29" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dropdown/service/yt-dropdown.js" />
-      <jump line="80" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dropdown/service/yt-dropdown.js" />
       <jump line="89" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dropdown/service/yt-dropdown.js" />
       <jump line="82" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-custom-field-simple.js" />
       <jump line="122" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-custom-field-simple.js" />
@@ -2434,6 +2421,19 @@
       <jump line="659" column="10" filename="$USER_HOME$/www/js/material/src/components/dialog/dialog.js" />
       <jump line="668" column="13" filename="$USER_HOME$/www/js/material/src/components/dialog/dialog.js" />
       <jump line="565" column="6" filename="$USER_HOME$/www/js/material/src/components/dialog/dialog.js" />
+      <jump line="715" column="34" filename="$USER_HOME$/www/js/material/src/components/dialog/dialog.js" />
+      <jump line="1068" column="0" filename="$USER_HOME$/www/js/material/src/components/dialog/dialog.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/www/js/material/src/components/dialog/dialog.js" />
+      <jump line="15" column="31" filename="$USER_HOME$/www/js/material/src/components/dialog/dialog.js" />
+      <jump line="20" column="23" filename="$USER_HOME$/www/js/material/src/components/dialog/dialog.js" />
+      <jump line="22" column="56" filename="$USER_HOME$/www/js/material/src/components/dialog/dialog.js" />
+      <jump line="23" column="44" filename="$USER_HOME$/www/js/material/src/components/dialog/dialog.js" />
+      <jump line="26" column="10" filename="$USER_HOME$/www/js/material/src/components/dialog/dialog.js" />
+      <jump line="44" column="28" filename="$USER_HOME$/www/js/material/src/components/dialog/dialog.js" />
+      <jump line="124" column="28" filename="$USER_HOME$/www/js/material/src/components/dialog/dialog.js" />
+      <jump line="181" column="40" filename="$USER_HOME$/www/js/material/src/components/dialog/dialog.js" />
+      <jump line="206" column="1" filename="$USER_HOME$/www/js/material/src/components/dialog/dialog.js" />
+      <jump line="266" column="13" filename="$USER_HOME$/www/js/material/src/components/dialog/dialog.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2443,7 +2443,7 @@
         <text>ng-form</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvblJlbW92ZVw+</text>
+        <text encoding="base64">XDxvbkNvbXBsZXRlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICogRml4ZXMgQ2hyb21lIGJ1ZzogaHR0cHM6Ly9naXRodWIuY29tL2FuZ3VsYXIvYW5ndWxhci5qcy9pc3N1ZXMvMTQ2MAogKi8K</text>
@@ -2483,9 +2483,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvblJlbW92ZVw+</last-search>
+      <last-search encoding="base64">XDxvbkNvbXBsZXRlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvblJlbW92ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxvbkNvbXBsZXRlXD4=</last-pattern>
       <last-replace>field.type</last-replace>
       <last-substitute>fieldType</last-substitute>
       <last-dir>-1</last-dir>
@@ -2493,10 +2493,6 @@
     </search>
     <history>
       <history-search>
-        <entry>emptyText</entry>
-        <entry>empty</entry>
-        <entry>name</entry>
-        <entry encoding="base64">XDxwZXJpb2RQcmVzZW50YXRpb25cPg==</entry>
         <entry encoding="base64">XDxvbkFwcGx5Q2hhbmdlc1w+</entry>
         <entry>type</entry>
         <entry>filter</entry>
@@ -2513,6 +2509,10 @@
         <entry>onHide</entry>
         <entry>hide</entry>
         <entry encoding="base64">XDxvblJlbW92ZVw+</entry>
+        <entry>dialog</entry>
+        <entry>onClose</entry>
+        <entry>close</entry>
+        <entry encoding="base64">XDxvbkNvbXBsZXRlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>26</entry>
