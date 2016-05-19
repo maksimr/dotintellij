@@ -2172,12 +2172,12 @@
         <mark key="." line="8" column="37" />
         <mark key="^" line="8" column="37" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/service/create-agile-issue.js" timestamp="1463662595759">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="26" column="21" />
-        <mark key="]" line="26" column="36" />
-        <mark key="." line="26" column="36" />
-        <mark key="^" line="26" column="36" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/service/create-agile-issue.js" timestamp="1463662767565">
+        <mark key="'" line="32" column="2" />
+        <mark key="[" line="37" column="47" />
+        <mark key="]" line="37" column="47" />
+        <mark key="^" line="37" column="47" />
+        <mark key="." line="37" column="47" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/service/yt-shortcuts-config-converter.js" timestamp="1460966983715">
         <mark key="'" line="5" column="6" />
@@ -2499,8 +2499,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-body.js" />
-      <jump line="32" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-body.js" />
       <jump line="23" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-body.js" />
       <jump line="69" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-body.js" />
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-body.html" />
@@ -2599,28 +2597,30 @@
       <jump line="27" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/service/create-agile-issue.js" />
       <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/service/create-agile-issue.js" />
       <jump line="19" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/service/create-agile-issue.js" />
+      <jump line="25" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/service/create-agile-issue.js" />
+      <jump line="32" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/service/create-agile-issue.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>create</text>
+        <text>onSubmitCallback</text>
       </register>
       <register name="-" type="4">
-        <text>create</text>
+        <text>onSubmitCallback</text>
       </register>
       <register name="/" type="4">
         <text>NewIss</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBvblN1Ym1pdENhbGxiYWNrOiBqYXNtaW5lLmFueShGdW5jdGlvbikK</text>
       </register>
       <register name="1" type="4">
-        <text>create</text>
+        <text>onSubmitCallback</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>create</text>
+        <text>show dialog for create issue</text>
       </register>
       <register name="3" type="4">
         <text>create</text>
@@ -2631,17 +2631,17 @@
       <register name="5" type="4">
         <text>create</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>create</text>
       </register>
       <register name="7" type="4">
+        <text>create</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>toBeDefined</text>
-      </register>
-      <register name="8" type="4">
-        <text>createAgileIssue</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
