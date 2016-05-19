@@ -10,6 +10,9 @@
         <mark key="." line="12" column="12" />
         <mark key="^" line="12" column="12" />
       </file>
+      <file name="/a.dummy" timestamp="1463662605465">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dashboard/dashboard.js" timestamp="1461341412179">
         <mark key="'" line="129" column="0" />
         <mark key="[" line="122" column="0" />
@@ -197,12 +200,12 @@
         <mark key="^" line="32" column="16" />
         <mark key="." line="32" column="16" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1463142341394">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1463662621995">
         <mark key="'" line="373" column="12" />
-        <mark key="[" line="372" column="73" />
-        <mark key="]" line="372" column="73" />
-        <mark key="." line="372" column="73" />
-        <mark key="^" line="373" column="17" />
+        <mark key="[" line="620" column="31" />
+        <mark key="]" line="620" column="46" />
+        <mark key="." line="620" column="46" />
+        <mark key="^" line="620" column="46" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/style/yt-issue-links.scss" timestamp="1461146851837">
         <mark key="'" line="26" column="0" />
@@ -797,12 +800,12 @@
         <mark key="." line="52" column="0" />
         <mark key="^" line="50" column="85" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/create-agile-issue.js" timestamp="1463660559971">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/create-agile-issue.js" timestamp="1463662600338">
         <mark key="'" line="19" column="6" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="8" column="39" />
-        <mark key="." line="1" column="0" />
+        <mark key="[" line="19" column="6" />
+        <mark key="]" line="19" column="21" />
+        <mark key="^" line="19" column="21" />
+        <mark key="." line="19" column="21" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/directive/new-features-popup.js" timestamp="1462650243004">
         <mark key="'" line="95" column="4" />
@@ -2169,11 +2172,12 @@
         <mark key="." line="8" column="37" />
         <mark key="^" line="8" column="37" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/service/create-agile-issue.js" timestamp="1463660909088">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/service/create-agile-issue.js" timestamp="1463662595759">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="26" column="21" />
+        <mark key="]" line="26" column="36" />
+        <mark key="." line="26" column="36" />
+        <mark key="^" line="26" column="36" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/service/yt-shortcuts-config-converter.js" timestamp="1460966983715">
         <mark key="'" line="5" column="6" />
@@ -2495,7 +2499,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="35" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-body.js" />
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-body.js" />
       <jump line="32" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-body.js" />
       <jump line="23" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-body.js" />
@@ -2595,13 +2598,14 @@
       <jump line="12" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/service/create-agile-issue.js" />
       <jump line="27" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/service/create-agile-issue.js" />
       <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/service/create-agile-issue.js" />
+      <jump line="19" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/service/create-agile-issue.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>create</text>
       </register>
       <register name="-" type="4">
-        <text>toBeDefined</text>
+        <text>create</text>
       </register>
       <register name="/" type="4">
         <text>NewIss</text>
@@ -2609,35 +2613,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>create</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>toBeDefined</text>
+        <text>create</text>
       </register>
       <register name="3" type="4">
-        <text>createAgileIssue</text>
+        <text>create</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="4" type="4">
+        <text>create</text>
       </register>
       <register name="5" type="4">
-        <text>_createAgileIssue_</text>
+        <text>create</text>
       </register>
-      <register name="6" type="4">
-        <text>createAgileIssue</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>_createAgileIssue_</text>
+        <text>toBeDefined</text>
       </register>
-      <register name="8" type="2">
+      <register name="8" type="4">
+        <text>createAgileIssue</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>export service</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
