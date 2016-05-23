@@ -1704,6 +1704,9 @@
         <mark key="." line="47" column="39" />
         <mark key="^" line="47" column="39" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng.js" timestamp="1464008326298">
+        <mark key="'" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/user/service/current-user-resolver.js" timestamp="1461151466961">
         <mark key="'" line="5" column="23" />
         <mark key="[" line="7" column="42" />
@@ -2500,7 +2503,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1082" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="1076" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="88" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
@@ -2600,6 +2602,7 @@
       <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/list/list.js" />
       <jump line="466" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/list/list.js" />
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select-ng/select-ng.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2609,7 +2612,7 @@
         <text>|| key === 'ArrowDown'</text>
       </register>
       <register name="/" type="4">
-        <text>ArrowDown</text>
+        <text>Arrow</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdkb3duSGFuZGxlcicpOwo=</text>
@@ -2649,9 +2652,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ArrowDown</last-search>
+      <last-search>Arrow</last-search>
       <last-offset />
-      <last-pattern>ArrowDown</last-pattern>
+      <last-pattern>Arrow</last-pattern>
       <last-replace>agileIssueCreateDialogCtrl</last-replace>
       <last-substitute>agileBoardIssueCreateCtrl</last-substitute>
       <last-dir>1</last-dir>
@@ -2659,7 +2662,6 @@
     </search>
     <history>
       <history-search>
-        <entry>focus</entry>
         <entry>$scope</entry>
         <entry>focusComment</entry>
         <entry encoding="base64">XDxvbkRyYWZ0Q29tbWVudEZvY3VzXD4=</entry>
@@ -2679,6 +2681,7 @@
         <entry>map:</entry>
         <entry encoding="base64">XDx1cEhhbmRsZXJcPg==</entry>
         <entry>ArrowDown</entry>
+        <entry>Arrow</entry>
       </history-search>
       <history-cmd>
         <entry>35</entry>
