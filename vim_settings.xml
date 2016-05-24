@@ -202,8 +202,8 @@
         <mark key="^" line="32" column="16" />
         <mark key="." line="32" column="16" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1464077744381">
-        <mark key="'" line="1123" column="4" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1464077957426">
+        <mark key="'" line="806" column="48" />
         <mark key="[" line="830" column="0" />
         <mark key="]" line="830" column="0" />
         <mark key="." line="830" column="0" />
@@ -2497,10 +2497,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/shortcuts/shortcuts.js" />
-      <jump line="107" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/shortcuts/shortcuts.js" />
-      <jump line="124" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/shortcuts/shortcuts.js" />
-      <jump line="119" column="32" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/shortcuts/shortcuts.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/popup/popup.js" />
       <jump line="450" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/popup/popup.js" />
       <jump line="416" column="40" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/popup/popup.js" />
@@ -2596,7 +2592,11 @@
       <jump line="306" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="1079" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="6" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="20" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="1123" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="774" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="806" column="48" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2606,7 +2606,7 @@
         <text>agileBoardCtrl.agile.swimlaneSettings</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWR1Y2VUb1N1bVw+</text>
+        <text encoding="base64">XDxnZXRMZWFkaW5nSXNzdWVJbkJhY2tsb2dNb2RlbFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGVuYWJsZWQ6IHRydWUsCiAgICAgICAgICBmaWVsZDogY3VzdG9tRmllbGRNb2NrLAogICAgICAgICAgdmFsdWVzOiBbdmFsdWVNb2NrXQo=</text>
@@ -2646,9 +2646,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWR1Y2VUb1N1bVw+</last-search>
+      <last-search encoding="base64">XDxnZXRMZWFkaW5nSXNzdWVJbkJhY2tsb2dNb2RlbFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWR1Y2VUb1N1bVw+</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRMZWFkaW5nSXNzdWVJbkJhY2tsb2dNb2RlbFw+</last-pattern>
       <last-replace>agileIssueCreateDialogCtrl</last-replace>
       <last-substitute>agileBoardIssueCreateCtrl</last-substitute>
       <last-dir>-1</last-dir>
@@ -2656,7 +2656,6 @@
     </search>
     <history>
       <history-search>
-        <entry>hide</entry>
         <entry>_popup</entry>
         <entry encoding="base64">XDxhdHRhY2hEcm9wZG93bklmTmVlZGVkXD4=</entry>
         <entry>conso</entry>
@@ -2676,6 +2675,7 @@
         <entry>swimlaneSe</entry>
         <entry>sprint.swimlane</entry>
         <entry encoding="base64">XDxyZWR1Y2VUb1N1bVw+</entry>
+        <entry encoding="base64">XDxnZXRMZWFkaW5nSXNzdWVJbkJhY2tsb2dNb2RlbFw+</entry>
       </history-search>
       <history-cmd>
         <entry>35</entry>
