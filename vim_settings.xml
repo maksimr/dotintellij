@@ -10,6 +10,9 @@
         <mark key="." line="12" column="12" />
         <mark key="^" line="12" column="12" />
       </file>
+      <file name="/a.dummy" timestamp="1464088980096">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dashboard/dashboard.js" timestamp="1461341412179">
         <mark key="'" line="129" column="0" />
         <mark key="[" line="122" column="0" />
@@ -243,8 +246,8 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-issue-create-dialog.js" timestamp="1464088344860">
-        <mark key="'" line="25" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-issue-create-dialog.js" timestamp="1464089395788">
+        <mark key="'" line="19" column="17" />
         <mark key="[" line="41" column="25" />
         <mark key="]" line="41" column="29" />
         <mark key="." line="41" column="29" />
@@ -810,12 +813,12 @@
         <mark key="." line="52" column="0" />
         <mark key="^" line="50" column="85" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/create-agile-issue.js" timestamp="1464088553350">
-        <mark key="'" line="49" column="2" />
-        <mark key="[" line="37" column="8" />
-        <mark key="]" line="37" column="7" />
-        <mark key="^" line="37" column="7" />
-        <mark key="." line="37" column="7" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/create-agile-issue.js" timestamp="1464089311356">
+        <mark key="'" line="16" column="10" />
+        <mark key="[" line="35" column="53" />
+        <mark key="]" line="35" column="62" />
+        <mark key="^" line="35" column="62" />
+        <mark key="." line="35" column="62" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/directive/new-features-popup.js" timestamp="1462650243004">
         <mark key="'" line="95" column="4" />
@@ -1186,12 +1189,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-view-meta-information.html" timestamp="1461949253563">
         <mark key="'" line="31" column="8" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-swimlane-column.js" timestamp="1464088427028">
-        <mark key="'" line="103" column="11" />
-        <mark key="[" line="110" column="0" />
-        <mark key="]" line="119" column="0" />
-        <mark key="^" line="121" column="92" />
-        <mark key="." line="110" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-swimlane-column.js" timestamp="1464089714485">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="122" column="28" />
+        <mark key="]" line="122" column="26" />
+        <mark key="^" line="122" column="26" />
+        <mark key="." line="122" column="26" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dialog/service/dialog.js" timestamp="1461495602682">
         <mark key="'" line="34" column="37" />
@@ -2517,16 +2520,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="774" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
-      <jump line="806" column="48" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
-      <jump line="676" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
-      <jump line="1123" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" />
-      <jump line="47" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" />
-      <jump line="51" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" />
-      <jump line="68" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/service/yt-shortcuts.js" />
-      <jump line="132" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/test/service/yt-shortcuts.js" />
       <jump line="85" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/service/yt-shortcuts.js" />
       <jump line="66" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/service/yt-shortcuts.js" />
       <jump line="104" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/service/yt-shortcuts.js" />
@@ -2617,68 +2610,75 @@
       <jump line="43" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-issue-create-dialog.js" />
       <jump line="25" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-issue-create-dialog.js" />
       <jump line="103" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-swimlane-column.js" />
+      <jump line="17" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/create-agile-issue.js" />
+      <jump line="45" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/create-agile-issue.js" />
+      <jump line="44" column="51" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/create-agile-issue.js" />
+      <jump line="119" column="75" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-swimlane-column.js" />
+      <jump line="6" column="91" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-swimlane-column.js" />
+      <jump line="35" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/create-agile-issue.js" />
+      <jump line="16" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/create-agile-issue.js" />
+      <jump line="19" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-issue-create-dialog.js" />
+      <jump line="117" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-swimlane-column.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-swimlane-column.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>, { locals: {} }</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>, { locals: {} }</text>
       </register>
       <register name="/" type="4">
-        <text>onChan</text>
+        <text encoding="base64">XDxhZ2lsZUlzc3VlRmllbGRzUm9sZXNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG5nLWRpc2FibGVkPSJhZ2lsZUlzc3VlQ3JlYXRlRGlhbG9nQ3RybC5pc1NhdmluZyIK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>, { locals: {} }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>finally</text>
+        <text>visibleFieldsFilter</text>
       </register>
       <register name="3" type="4">
-        <text>onSubmitCallback</text>
+        <text>{ locals: {} }</text>
       </register>
       <register name="4" type="4">
-        <text>ng-disabled=&quot;agileIssueCreateDialogCtrl.isSaving&quot;</text>
+        <text>agileIssueFieldsRoles.filterCellVisibleFields</text>
       </register>
       <register name="5" type="4">
-        <text>saveIssue</text>
+        <text>locals</text>
       </register>
-      <register name="6" type="4">
-        <text>saveIssue</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIHl0RHJvcGRvd24uc2hvdyh7CiAgICAgICAgICAgIAogICAgICAgICAgfSk7CiAgICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIGxvYWRlcj0iaXNTYXZpbmciCg==</text>
+      <register name="7" type="4">
+        <text>{ }</text>
       </register>
-      <register name="8" type="4">
-        <text>isSaving</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVzb2x2ZToge30KICAgICAgICAgICAgbG9jYWxzOiB7CiAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="9" type="4">
-        <text>onCancel()</text>
+        <text>agileIssueFieldsRoles.filterCellVisibleFields</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>onChan</last-search>
+      <last-search encoding="base64">XDxhZ2lsZUlzc3VlRmllbGRzUm9sZXNcPg==</last-search>
       <last-offset />
-      <last-pattern>onChan</last-pattern>
+      <last-pattern encoding="base64">XDxhZ2lsZUlzc3VlRmllbGRzUm9sZXNcPg==</last-pattern>
       <last-replace>agileIssueCreateDialogCtrl</last-replace>
       <last-substitute>agileBoardIssueCreateCtrl</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>swimlaneSettings</entry>
-        <entry>simlaneSett</entry>
-        <entry encoding="base64">XDxTV0lNTEFORV9TRVRUSU5HU1w+</entry>
         <entry>swimlaneSe</entry>
         <entry>sprint.swimlane</entry>
         <entry encoding="base64">XDxyZWR1Y2VUb1N1bVw+</entry>
@@ -2696,6 +2696,9 @@
         <entry>saveIssue</entry>
         <entry>save</entry>
         <entry>onChan</entry>
+        <entry encoding="base64">XDx2aXNpYmxlRmllbGRzRmlsdGVyXD4=</entry>
+        <entry encoding="base64">XDxmaWx0ZXJDZWxsVmlzaWJsZUZpZWxkc1w+</entry>
+        <entry encoding="base64">XDxhZ2lsZUlzc3VlRmllbGRzUm9sZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>35</entry>
