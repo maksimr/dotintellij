@@ -1007,8 +1007,8 @@
       <file name="$USER_HOME$/www/jetbrains/ring-ui/node_modules/angular-tab-trap/angular-tab-trap.js" timestamp="1463647680801">
         <mark key="'" line="65" column="4" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" timestamp="1464078510797">
-        <mark key="'" line="51" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" timestamp="1464183502449">
+        <mark key="'" line="16" column="44" />
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
@@ -1113,6 +1113,9 @@
         <mark key="]" line="19" column="24" />
         <mark key="." line="19" column="24" />
         <mark key="^" line="19" column="22" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/clipboard/service/yt-clipboard.js" timestamp="1464183278451">
+        <mark key="'" line="27" column="4" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/test/controller/issues-menu-create-button.js" timestamp="1460112505713">
         <mark key="'" line="125" column="0" />
@@ -2524,9 +2527,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/service/yt-shortcuts.js" />
-      <jump line="29" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-issue-create-dialog.js" />
-      <jump line="30" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-board-issue-create.html" />
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-issue-create-dialog.js" />
       <jump line="12" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-issue-create-dialog.js" />
       <jump line="21" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-issue-create-dialog.js" />
@@ -2624,10 +2624,13 @@
       <jump line="39" column="33" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-board.js" />
       <jump line="901" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-board.js" />
       <jump line="52" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-board.js" />
+      <jump line="27" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/clipboard/service/yt-clipboard.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" />
+      <jump line="16" column="44" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5jYXRjaChodHRwRXJyb3JIYW5kbGVyLnNob3dNZXNzYWdlKTsK</text>
+        <text encoding="base64">CiAgICBkZWJ1ZzogdHJ1ZSwK</text>
       </register>
       <register name="-" type="4">
         <text>httpErrorHandler.</text>
@@ -2639,31 +2642,31 @@
         <text>httpErrorHandler.showMessage</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5jYXRjaChodHRwRXJyb3JIYW5kbGVyLnNob3dNZXNzYWdlKTsK</text>
+        <text encoding="base64">CiAgICBkZWJ1ZzogdHJ1ZSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text>httpErrorHandler.</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgIC5jYXRjaChodHRwRXJyb3JIYW5kbGVyLnNob3dNZXNzYWdlKTsK</text>
       </register>
       <register name="3" type="4">
-        <text>getTimeLeftMessage</text>
+        <text>httpErrorHandler.</text>
       </register>
       <register name="4" type="4">
+        <text>getTimeLeftMessage</text>
+      </register>
+      <register name="5" type="4">
         <text>function() { }</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gWzQwMywge31dOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>Request</text>
-      </register>
       <register name="8" type="4">
-        <text>403</text>
+        <text>Request</text>
       </register>
       <register name="9" type="4">
         <text>403</text>
