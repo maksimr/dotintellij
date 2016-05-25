@@ -877,8 +877,8 @@
         <mark key="^" line="54" column="66" />
         <mark key="." line="54" column="66" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/dialog-ng/dialog-ng.js" timestamp="1464184647507">
-        <mark key="'" line="69" column="39" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/dialog-ng/dialog-ng.js" timestamp="1464184699935">
+        <mark key="'" line="540" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/header/header__item.js" timestamp="1463491439907">
         <mark key="'" line="34" column="19" />
@@ -2530,14 +2530,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-issue-create-dialog.js" />
-      <jump line="30" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-issue-create-dialog.js" />
-      <jump line="37" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-issue-create-dialog.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-view.html" />
-      <jump line="40" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-board-issue-create.html" />
-      <jump line="22" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-board-issue-create.html" />
-      <jump line="54" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-board-issue-create.html" />
-      <jump line="43" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-issue-create-dialog.js" />
       <jump line="25" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-issue-create-dialog.js" />
       <jump line="103" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-swimlane-column.js" />
       <jump line="17" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/create-agile-issue.js" />
@@ -2630,6 +2622,14 @@
       <jump line="52" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/dialog-ng/dialog-ng.js" />
       <jump line="64" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/dialog-ng/dialog-ng.js" />
       <jump line="69" column="39" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/dialog-ng/dialog-ng.js" />
+      <jump line="78" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/dialog-ng/dialog-ng.js" />
+      <jump line="553" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/dialog-ng/dialog-ng.js" />
+      <jump line="376" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/dialog-ng/dialog-ng.js" />
+      <jump line="382" column="3" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/dialog-ng/dialog-ng.js" />
+      <jump line="388" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/dialog-ng/dialog-ng.js" />
+      <jump line="389" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/dialog-ng/dialog-ng.js" />
+      <jump line="391" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/dialog-ng/dialog-ng.js" />
+      <jump line="540" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/dialog-ng/dialog-ng.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2639,7 +2639,7 @@
         <text>httpErrorHandler.</text>
       </register>
       <register name="/" type="4">
-        <text>list</text>
+        <text>on</text>
       </register>
       <register name="0" type="4">
         <text>httpErrorHandler.showMessage</text>
@@ -2679,9 +2679,9 @@
       </register>
     </registers>
     <search>
-      <last-search>list</last-search>
+      <last-search>on</last-search>
       <last-offset />
-      <last-pattern>list</last-pattern>
+      <last-pattern>on</last-pattern>
       <last-replace>rgCom</last-replace>
       <last-substitute>xxCom</last-substitute>
       <last-dir>1</last-dir>
@@ -2689,9 +2689,6 @@
     </search>
     <history>
       <history-search>
-        <entry>xxCom</entry>
-        <entry encoding="base64">XDxyZ0NvbXBpbGVyXD4=</entry>
-        <entry encoding="base64">XDxZdERyb3Bkb3duQ2xhc3NcPg==</entry>
         <entry>scope</entry>
         <entry>save</entry>
         <entry>load</entry>
@@ -2709,6 +2706,9 @@
         <entry>listener</entry>
         <entry>dialog</entry>
         <entry>list</entry>
+        <entry>over</entry>
+        <entry>click</entry>
+        <entry>on</entry>
       </history-search>
       <history-cmd>
         <entry>20</entry>
