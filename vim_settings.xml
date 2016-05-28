@@ -293,6 +293,9 @@
       <file name="/fragment.java" timestamp="1464441318004">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/www/js/karma/node_modules/dom-serialize/index.js" timestamp="1464445261448">
+        <mark key="'" line="153" column="0" />
+      </file>
       <file name="$USER_HOME$/www/js/karma/gruntfile.js" timestamp="1464444232914">
         <mark key="'" line="15" column="6" />
       </file>
@@ -387,6 +390,13 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/error.html" timestamp="1464097810677">
         <mark key="'" line="37" column="0" />
       </file>
+      <file name="$USER_HOME$/www/js/karma/client/stringify.js" timestamp="1464449152219">
+        <mark key="'" line="73" column="0" />
+        <mark key="[" line="3" column="38" />
+        <mark key="]" line="3" column="53" />
+        <mark key="." line="3" column="53" />
+        <mark key="^" line="3" column="53" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects.js" timestamp="1463051496526">
         <mark key="'" line="156" column="2" />
       </file>
@@ -413,20 +423,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="0" filename="$USER_HOME$/www/js/karma/gruntfile.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/js/karma/gruntfile.js" />
-      <jump line="18" column="13" filename="$USER_HOME$/www/js/karma/gruntfile.js" />
-      <jump line="7" column="0" filename="$USER_HOME$/www/js/karma/wallaby.js" />
-      <jump line="28" column="15" filename="$USER_HOME$/www/js/karma/wallaby.js" />
-      <jump line="74" column="47" filename="$USER_HOME$/www/js/karma/lib/logger.js" />
-      <jump line="15" column="1" filename="$USER_HOME$/www/js/karma/lib/logger.js" />
-      <jump line="25" column="0" filename="$USER_HOME$/www/js/karma/wallaby.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/www/js/karma/lib/logger.js" />
-      <jump line="85" column="4" filename="$USER_HOME$/www/js/karma/node_modules/mocks/lib/util.js" />
-      <jump line="136" column="0" filename="$USER_HOME$/www/js/karma/node_modules/mocks/lib/util.js" />
-      <jump line="168" column="10" filename="$USER_HOME$/www/js/karma/test/unit/web-server.spec.js" />
-      <jump line="46" column="39" filename="$USER_HOME$/www/js/karma/wallaby.js" />
-      <jump line="45" column="39" filename="$USER_HOME$/www/js/karma/wallaby.js" />
       <jump line="18" column="11" filename="$USER_HOME$/www/js/karma/test/unit/web-server.spec.js" />
       <jump line="33" column="0" filename="$USER_HOME$/www/js/karma/test/unit/web-server.spec.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/js/karma/test/unit/web-server.spec.js" />
@@ -513,72 +509,79 @@
       <jump line="96" column="15" filename="$USER_HOME$/www/js/karma/README.md" />
       <jump line="9" column="16" filename="$USER_HOME$/www/js/karma/README.md" />
       <jump line="15" column="6" filename="$USER_HOME$/www/js/karma/gruntfile.js" />
+      <jump line="35" column="52" filename="$USER_HOME$/www/js/karma/node_modules/dom-serialize/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/js/karma/node_modules/dom-serialize/index.js" />
+      <jump line="153" column="0" filename="$USER_HOME$/www/js/karma/node_modules/dom-serialize/index.js" />
+      <jump line="15" column="18" filename="$USER_HOME$/www/js/karma/client/stringify.js" />
+      <jump line="35" column="19" filename="$USER_HOME$/www/js/karma/client/stringify.js" />
+      <jump line="39" column="21" filename="$USER_HOME$/www/js/karma/client/stringify.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/www/js/karma/client/stringify.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/www/js/karma/client/stringify.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/js/karma/client/stringify.js" />
+      <jump line="2" column="4" filename="$USER_HOME$/www/js/karma/client/stringify.js" />
+      <jump line="48" column="17" filename="$USER_HOME$/www/js/karma/client/stringify.js" />
+      <jump line="43" column="17" filename="$USER_HOME$/www/js/karma/client/stringify.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/www/js/karma/client/stringify.js" />
+      <jump line="73" column="0" filename="$USER_HOME$/www/js/karma/client/stringify.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobS5jcmVhdGVXZWJTZXJ2ZXIpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICYmIHR5cGVvZiBvYmoubm9kZU5hbWUgPT09ICdzdHJpbmcn</text>
       </register>
       <register name="-" type="4">
-        <text>.only</text>
+        <text encoding="base64">ICYmIHR5cGVvZiBvYmoubm9kZU5hbWUgPT09ICdzdHJpbmcn</text>
       </register>
       <register name="/" type="4">
-        <text>link</text>
+        <text encoding="base64">XDxpc05vZGVcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBmaWxlc1Byb21pc2UsCiAgc2VydmVTdGF0aWNGaWxlLAogIHNlcnZlRmlsZSwKICBpbmplY3RvciwKICAvKiBjb25maWcuYmFzZVBhdGggKi8gYmFzZVBhdGgsCiAgLyogY29uZmlnLnVybFJvb3QgKi8gdXJsUm9vdAo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">KG9iai50YWdOYW1lIHx8IG9iai5ub2RlTmFtZSkgJiYgIWluc3RhbmNlT2Yob2JqLCAnT2JqZWN0Jyk=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobS5jcmVhdGVXZWJTZXJ2ZXIpOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICYmIHR5cGVvZiBvYmoubm9kZU5hbWUgPT09ICdzdHJpbmcn</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>.only</text>
+        <text>;</text>
       </register>
       <register name="3" type="4">
-        <text />
+        <text>!instanceOf(obj, 'Object')</text>
       </register>
       <register name="4" type="4">
-        <text>,</text>
+        <text encoding="base64">KCkgJiYgIWluc3RhbmNlT2Yob2JqLCAnT2JqZWN0Jyk=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICovIHVybFJvb3Q=</text>
+        <text>obj.tagName || obj.nodeName</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">Lyog</text>
+        <text encoding="base64">ICA=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICovIGJhc2VQYXRoLA==</text>
+        <text>;</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Lyog</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobS5jcmVhdGVXZWJTZXJ2ZXIpOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>.only</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>link</last-search>
+      <last-search encoding="base64">XDxpc05vZGVcPg==</last-search>
       <last-offset />
-      <last-pattern>link</last-pattern>
+      <last-pattern encoding="base64">XDxpc05vZGVcPg==</last-pattern>
       <last-replace>rgCom</last-replace>
       <last-substitute>xxCom</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjcmVhdGVXZWJTZXJ2ZXJcPg==</entry>
-        <entry>inject</entry>
-        <entry>$inject</entry>
-        <entry>dj</entry>
-        <entry>di</entry>
-        <entry encoding="base64">XDxjcmVhdGVDdXN0b21IYW5kbGVyXD4=</entry>
-        <entry>base</entry>
         <entry encoding="base64">XDxmaWxlUGF0aFRvVXJsUGF0aFw+</entry>
         <entry>basePath</entry>
         <entry>console.</entry>
@@ -592,6 +595,13 @@
         <entry>de</entry>
         <entry>deve</entry>
         <entry>link</entry>
+        <entry>nodeType</entry>
+        <entry encoding="base64">XDxjb25zdHJ1Y3Rvclw+</entry>
+        <entry>list</entry>
+        <entry>isNode</entry>
+        <entry>node</entry>
+        <entry>tagName</entry>
+        <entry encoding="base64">XDxpc05vZGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>20</entry>
