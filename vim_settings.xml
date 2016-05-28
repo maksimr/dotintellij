@@ -314,7 +314,7 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-view-meta-information.html" timestamp="1461949253563">
         <mark key="'" line="31" column="8" />
       </file>
-      <file name="$USER_HOME$/www/js/karma/client/stringify.js" timestamp="1464463360428">
+      <file name="$USER_HOME$/www/js/karma/client/stringify.js" timestamp="1464464241235">
         <mark key="'" line="70" column="0" />
         <mark key="[" line="12" column="23" />
         <mark key="]" line="12" column="23" />
@@ -423,8 +423,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="7" filename="$USER_HOME$/www/js/karma/test/unit/web-server.spec.js" />
-      <jump line="14" column="7" filename="$USER_HOME$/www/js/karma/test/unit/web-server.spec.js" />
       <jump line="17" column="26" filename="$USER_HOME$/www/js/karma/test/unit/web-server.spec.js" />
       <jump line="20" column="23" filename="$USER_HOME$/www/js/karma/test/unit/web-server.spec.js" />
       <jump line="25" column="18" filename="$USER_HOME$/www/js/karma/test/unit/web-server.spec.js" />
@@ -520,8 +518,10 @@
       <jump line="73" column="0" filename="$USER_HOME$/www/js/karma/client/stringify.js" />
       <jump line="12" column="0" filename="$USER_HOME$/www/js/karma/client/stringify.js" />
       <jump line="3" column="0" filename="$USER_HOME$/www/js/karma/client/stringify.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/www/js/karma/client/stringify.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/js/karma/client/stringify.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/js/karma/client/stringify.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/www/js/karma/client/stringify.js" />
+      <jump line="23" column="18" filename="$USER_HOME$/www/js/karma/client/stringify.js" />
       <jump line="70" column="0" filename="$USER_HOME$/www/js/karma/client/stringify.js" />
     </jumps>
     <registers>
@@ -532,7 +532,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc05vZGVcPg==</text>
+        <text>line</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">KG9iai50YWdOYW1lIHx8IG9iai5ub2RlTmFtZSkgJiYgIWluc3RhbmNlT2Yob2JqLCAnT2JqZWN0Jyk=</text>
@@ -572,18 +572,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc05vZGVcPg==</last-search>
+      <last-search>line</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc05vZGVcPg==</last-pattern>
+      <last-pattern>line</last-pattern>
       <last-replace>rgCom</last-replace>
       <last-substitute>xxCom</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmaWxlUGF0aFRvVXJsUGF0aFw+</entry>
-        <entry>basePath</entry>
         <entry>console.</entry>
         <entry>console</entry>
         <entry>client</entry>
@@ -602,6 +600,8 @@
         <entry>node</entry>
         <entry>tagName</entry>
         <entry encoding="base64">XDxpc05vZGVcPg==</entry>
+        <entry>count</entry>
+        <entry>line</entry>
       </history-search>
       <history-cmd>
         <entry>20</entry>
