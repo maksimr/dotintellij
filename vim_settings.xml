@@ -91,7 +91,7 @@
       <file name="$USER_HOME$/www/js/karma/test/e2e/mocharepoter.feature" timestamp="1464440577399">
         <mark key="'" line="47" column="6" />
       </file>
-      <file name="$USER_HOME$/www/js/karma-intellij-webpack-problem/src/add.js" timestamp="1464553991203">
+      <file name="$USER_HOME$/www/js/karma-intellij-webpack-problem/src/add.js" timestamp="1464554913617">
         <mark key="'" line="1" column="15" />
         <mark key="[" line="15" column="11" />
         <mark key="]" line="15" column="12" />
@@ -200,6 +200,9 @@
         <mark key="]" line="18" column="22" />
         <mark key="^" line="18" column="22" />
         <mark key="." line="18" column="22" />
+      </file>
+      <file name="$USER_HOME$/www/js/karma-intellij-webpack-problem/node_modules/karma/lib/file-list.js" timestamp="1464554750333">
+        <mark key="'" line="319" column="30" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/clipboard/service/yt-clipboard.js" timestamp="1464252122929">
         <mark key="'" line="25" column="2" />
@@ -320,12 +323,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/www/js/karma/client/stringify.js" />
-      <jump line="73" column="0" filename="$USER_HOME$/www/js/karma/client/stringify.js" />
-      <jump line="12" column="0" filename="$USER_HOME$/www/js/karma/client/stringify.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/www/js/karma/client/stringify.js" />
-      <jump line="23" column="18" filename="$USER_HOME$/www/js/karma/client/stringify.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/www/js/karma/client/stringify.js" />
       <jump line="16" column="0" filename="$USER_HOME$/www/js/karma/client/stringify.js" />
       <jump line="17" column="0" filename="$USER_HOME$/www/js/karma/client/stringify.js" />
       <jump line="1" column="0" filename="$USER_HOME$/www/js/karma/client/stringify.js" />
@@ -420,6 +417,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/www/js/karma-intellij/lib/intellijRunner.js" />
       <jump line="75" column="0" filename="$USER_HOME$/www/js/karma-intellij/lib/intellijRunner.js" />
       <jump line="27" column="17" filename="$USER_HOME$/www/js/karma-intellij/lib/fileListUpdater.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/www/js/karma-intellij-webpack-problem/node_modules/karma/lib/file-list.js" />
+      <jump line="242" column="26" filename="$USER_HOME$/www/js/karma-intellij-webpack-problem/node_modules/karma/lib/file-list.js" />
+      <jump line="255" column="37" filename="$USER_HOME$/www/js/karma-intellij-webpack-problem/node_modules/karma/lib/file-list.js" />
+      <jump line="275" column="42" filename="$USER_HOME$/www/js/karma-intellij-webpack-problem/node_modules/karma/lib/file-list.js" />
+      <jump line="277" column="47" filename="$USER_HOME$/www/js/karma-intellij-webpack-problem/node_modules/karma/lib/file-list.js" />
+      <jump line="319" column="30" filename="$USER_HOME$/www/js/karma-intellij-webpack-problem/node_modules/karma/lib/file-list.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -429,7 +432,7 @@
         <text>catch(){</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxydW5UZXN0c1w+</text>
+        <text>update</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Cg==</text>
@@ -469,17 +472,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxydW5UZXN0c1w+</last-search>
+      <last-search>update</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxydW5UZXN0c1w+</last-pattern>
+      <last-pattern>update</last-pattern>
       <last-replace>rgCom</last-replace>
       <last-substitute>xxCom</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>list</entry>
         <entry>isNode</entry>
         <entry encoding="base64">XDxpc05vZGVcPg==</entry>
         <entry>count</entry>
@@ -499,6 +501,7 @@
         <entry>preproce</entry>
         <entry>reporte</entry>
         <entry encoding="base64">XDxydW5UZXN0c1w+</entry>
+        <entry>update</entry>
       </history-search>
       <history-cmd>
         <entry>20</entry>
