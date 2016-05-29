@@ -61,8 +61,8 @@
       <file name="$APPLICATION_CONFIG_DIR$/javascript/nodejs/5.5.0/core-modules/assert.js" timestamp="1464468376753">
         <mark key="'" line="331" column="3" />
       </file>
-      <file name="$USER_HOME$/www/js/karma-intellij/lib/intellijRunner.js" timestamp="1464554353490">
-        <mark key="'" line="75" column="0" />
+      <file name="$USER_HOME$/www/js/karma-intellij/lib/intellijRunner.js" timestamp="1464555515173">
+        <mark key="'" line="19" column="32" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/_reports/edit/range.js" timestamp="1463559174255">
         <mark key="'" line="0" column="0" />
@@ -70,8 +70,10 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/filter/get-issue-field-presentation.js" timestamp="1462448205802">
         <mark key="'" line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/www/js/karma-intellij/lib/intellij.conf.js" timestamp="1464554253842">
+      <file name="$USER_HOME$/www/js/karma-intellij/lib/intellij.conf.js" timestamp="1464555902764">
         <mark key="'" line="17" column="6" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="45" column="33" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/analytics-ng/analytics-ng.js" timestamp="1462871810186">
         <mark key="'" line="121" column="35" />
@@ -91,7 +93,7 @@
       <file name="$USER_HOME$/www/js/karma/test/e2e/mocharepoter.feature" timestamp="1464440577399">
         <mark key="'" line="47" column="6" />
       </file>
-      <file name="$USER_HOME$/www/js/karma-intellij-webpack-problem/src/add.js" timestamp="1464554913617">
+      <file name="$USER_HOME$/www/js/karma-intellij-webpack-problem/src/add.js" timestamp="1464555364188">
         <mark key="'" line="1" column="15" />
         <mark key="[" line="15" column="11" />
         <mark key="]" line="15" column="12" />
@@ -201,8 +203,12 @@
         <mark key="^" line="18" column="22" />
         <mark key="." line="18" column="22" />
       </file>
-      <file name="$USER_HOME$/www/js/karma-intellij-webpack-problem/node_modules/karma/lib/file-list.js" timestamp="1464554750333">
-        <mark key="'" line="319" column="30" />
+      <file name="$USER_HOME$/www/js/karma-intellij-webpack-problem/node_modules/karma/lib/file-list.js" timestamp="1464555427373">
+        <mark key="'" line="380" column="20" />
+        <mark key="[" line="332" column="0" />
+        <mark key="]" line="332" column="0" />
+        <mark key="^" line="333" column="49" />
+        <mark key="." line="332" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/clipboard/service/yt-clipboard.js" timestamp="1464252122929">
         <mark key="'" line="25" column="2" />
@@ -323,12 +329,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/www/js/karma/client/stringify.js" />
-      <jump line="17" column="0" filename="$USER_HOME$/www/js/karma/client/stringify.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/www/js/karma/client/stringify.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/www/js/karma/client/stringify.js" />
-      <jump line="70" column="0" filename="$USER_HOME$/www/js/karma/client/stringify.js" />
-      <jump line="147" column="0" filename="$USER_HOME$/www/js/karma/test/unit/launchers/process.spec.js" />
       <jump line="238" column="0" filename="$USER_HOME$/www/js/karma/test/unit/launchers/process.spec.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/js/karma/test/unit/launchers/process.spec.js" />
       <jump line="227" column="4" filename="$USER_HOME$/www/js/karma/test/unit/launchers/process.spec.js" />
@@ -423,28 +423,34 @@
       <jump line="275" column="42" filename="$USER_HOME$/www/js/karma-intellij-webpack-problem/node_modules/karma/lib/file-list.js" />
       <jump line="277" column="47" filename="$USER_HOME$/www/js/karma-intellij-webpack-problem/node_modules/karma/lib/file-list.js" />
       <jump line="319" column="30" filename="$USER_HOME$/www/js/karma-intellij-webpack-problem/node_modules/karma/lib/file-list.js" />
+      <jump line="380" column="20" filename="$USER_HOME$/www/js/karma-intellij-webpack-problem/node_modules/karma/lib/file-list.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/js/karma-intellij/lib/intellijRunner.js" />
+      <jump line="18" column="22" filename="$USER_HOME$/www/js/karma-intellij/lib/intellijRunner.js" />
+      <jump line="14" column="32" filename="$USER_HOME$/www/js/karma-intellij/lib/intellijRunner.js" />
+      <jump line="4" column="4" filename="$USER_HOME$/www/js/karma-intellij/lib/intellijRunner.js" />
+      <jump line="19" column="32" filename="$USER_HOME$/www/js/karma-intellij/lib/intellijRunner.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBodHRwczovL2dpdGh1Yi5jb20va2FybWEtcnVubmVyL2thcm1hL2lzc3Vlcy82MTQgaXMgcmVhZHkKICB2YXIgbG9nTGV2ZWwgPSBjb25maWcubG9nTGV2ZWw7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>catch(){</text>
       </register>
       <register name="/" type="4">
-        <text>update</text>
+        <text encoding="base64">XDxFWElUX0NPREVfQlVGXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBodHRwczovL2dpdGh1Yi5jb20va2FybWEtcnVubmVyL2thcm1hL2lzc3Vlcy82MTQgaXMgcmVhZHkKICB2YXIgbG9nTGV2ZWwgPSBjb25maWcubG9nTGV2ZWw7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0aHJvdyBFcnJvcignWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVkgJyArIHBhdGgpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRocm93IEVycm9yKCdZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWSAnICsgcGF0aCk7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -456,7 +462,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -465,26 +471,23 @@
         <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>update</last-search>
+      <last-search encoding="base64">XDxFWElUX0NPREVfQlVGXD4=</last-search>
       <last-offset />
-      <last-pattern>update</last-pattern>
+      <last-pattern encoding="base64">XDxFWElUX0NPREVfQlVGXD4=</last-pattern>
       <last-replace>rgCom</last-replace>
       <last-substitute>xxCom</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>isNode</entry>
-        <entry encoding="base64">XDxpc05vZGVcPg==</entry>
-        <entry>count</entry>
         <entry>line</entry>
         <entry>dom</entry>
         <entry>node</entry>
@@ -502,6 +505,9 @@
         <entry>reporte</entry>
         <entry encoding="base64">XDxydW5UZXN0c1w+</entry>
         <entry>update</entry>
+        <entry>YYYY</entry>
+        <entry>debug</entry>
+        <entry encoding="base64">XDxFWElUX0NPREVfQlVGXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>20</entry>
@@ -513,7 +519,6 @@
         <entry>%s/'meta': false,/'meta': false/gc</entry>
         <entry>%s/}],/}]/gc</entry>
         <entry>%s/'meta': true,/'meta': true/gc</entry>
-        <entry>q</entry>
         <entry>%s/parallel/concurrently --no-color/gc</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>%s/at/'at/gc</entry>
@@ -524,6 +529,7 @@
         <entry>%s/agileBoardIssueCreateCtrl/agileIssueCreateDialogCtrl/gc</entry>
         <entry>%s/xxCom/rgCom/gc</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
