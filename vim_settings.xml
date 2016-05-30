@@ -126,7 +126,7 @@
       <file name="$USER_HOME$/www/js/karma/test/e2e/mocharepoter.feature" timestamp="1464440577399">
         <mark key="'" line="47" column="6" />
       </file>
-      <file name="$USER_HOME$/www/js/karma-intellij-webpack-problem/src/add.js" timestamp="1464623218154">
+      <file name="$USER_HOME$/www/js/karma-intellij-webpack-problem/src/add.js" timestamp="1464624180606">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="15" column="11" />
         <mark key="]" line="15" column="12" />
@@ -191,6 +191,13 @@
       <file name="$USER_HOME$/www/js/karma/test/unit/mocks/timer.js" timestamp="1464440744253">
         <mark key="'" line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/www/js/karma-intellij-webpack-problem/node_modules/karma/lib/middleware/source_files.js" timestamp="1464624656630">
+        <mark key="'" line="42" column="30" />
+        <mark key="[" line="33" column="67" />
+        <mark key="]" line="33" column="67" />
+        <mark key="^" line="33" column="67" />
+        <mark key="." line="33" column="67" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/style/yt-issue-view.scss" timestamp="1464600948309">
         <mark key="'" line="97" column="0" />
       </file>
@@ -240,6 +247,12 @@
         <mark key="[" line="85" column="0" />
         <mark key="]" line="85" column="0" />
         <mark key="." line="85" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/js/karma-intellij-webpack-problem/node_modules/karma/lib/middleware/common.js" timestamp="1464624051744">
+        <mark key="[" line="65" column="17" />
+        <mark key="]" line="65" column="24" />
+        <mark key="^" line="65" column="24" />
+        <mark key="." line="65" column="24" />
       </file>
       <file name="$USER_HOME$/www/js/karma/wallaby.js" timestamp="1464443808241">
         <mark key="'" line="72" column="0" />
@@ -396,8 +409,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/header.js" />
-      <jump line="18" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/header.js" />
       <jump line="41" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/header.js" />
       <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-view.js" />
       <jump line="147" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-view.js" />
@@ -496,22 +507,24 @@
       <jump line="302" column="17" filename="$USER_HOME$/www/js/karma-intellij-webpack-problem/node_modules/karma/lib/file-list.js" />
       <jump line="10" column="0" filename="$USER_HOME$/www/js/karma-intellij-webpack-problem/src/add.js" />
       <jump line="179" column="15" filename="$USER_HOME$/www/js/karma-intellij-webpack-problem/node_modules/karma/lib/file-list.js" />
+      <jump line="33" column="8" filename="$USER_HOME$/www/js/karma-intellij-webpack-problem/node_modules/karma/lib/middleware/source_files.js" />
+      <jump line="41" column="30" filename="$USER_HOME$/www/js/karma-intellij-webpack-problem/node_modules/karma/lib/middleware/source_files.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgbm9jYWNoZTogdHJ1ZSwK</text>
+      <register name="&quot;" type="4">
+        <text>file.path</text>
       </register>
       <register name="-" type="4">
-        <text>, file</text>
+        <text>file.path</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkb05vdENhY2hlXD4=</text>
+        <text>ServeFiles</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZygnPj4+JywgZmlsZSk7Cg==</text>
+      <register name="0" type="4">
+        <text>file.contentPath || file.path</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgbm9jYWNoZTogdHJ1ZSwK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZWFkRmlsZTogJyArIGZpbGVwYXRoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -519,43 +532,42 @@
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgbm9jYWNoZTogdHJ1ZSwK</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgbm9jYWNoZTogdHJ1ZSwK</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">ICAvLyByZXF1aXJlKCd3ZWJwYWNrJyk7CiAgLy8gcmVxdWlyZSgna2FybWEtamFzbWluZScpOwogIC8vIHJlcXVpcmUoJ2JhYmVsLWNvcmUnKTsKICAvLyByZXF1aXJlKCdqYXNtaW5lLWNvcmUnKTsKICAvLyByZXF1aXJlKCdrYXJtYScpOwogIC8vIHJlcXVpcmUoJ2thcm1hLXBoYW50b21qcy1sYXVuY2hlcicpOwogIC8vIHJlcXVpcmUoJ2thcm1hLXdlYnBhY2snKTs=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnU0NIRURVTEUnKTsK</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">CQljb25zb2xlLmxvZygnPj4+JywgZmlsZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnU0NIRURVTEUnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCc+Pj4hISEnKTsK</text>
+        <text encoding="base64">CQljb25zb2xlLmxvZygnPj4+JywgZmlsZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpOwo=</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKCc+Pj4hISEnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnU0NIRURVTEUnKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnU0NIRURVTEUnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkb05vdENhY2hlXD4=</last-search>
+      <last-search>ServeFiles</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkb05vdENhY2hlXD4=</last-pattern>
+      <last-pattern>ServeFiles</last-pattern>
       <last-replace>rgCom</last-replace>
       <last-substitute>xxCom</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>list</entry>
         <entry>watch</entry>
         <entry>this.waiting</entry>
         <entry>run</entry>
@@ -575,6 +587,7 @@
         <entry>File</entry>
         <entry encoding="base64">XDxGaWxlXD4=</entry>
         <entry encoding="base64">XDxkb05vdENhY2hlXD4=</entry>
+        <entry>ServeFiles</entry>
       </history-search>
       <history-cmd>
         <entry>20</entry>
