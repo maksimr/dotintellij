@@ -19,6 +19,9 @@
       <file name="/a.dummy" timestamp="1464608774217">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/service/yt-shortcuts-meta-information.js" timestamp="1464614605691">
+        <mark key="'" line="10" column="4" />
+      </file>
       <file name="$USER_HOME$/www/js/karma-jasmine/lib/adapter.js" timestamp="1461830398249">
         <mark key="'" line="365" column="0" />
       </file>
@@ -30,6 +33,9 @@
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/_global.scss" timestamp="1463656150329">
         <mark key="'" line="26" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-comments.js" timestamp="1464614570043">
+        <mark key="'" line="271" column="13" />
       </file>
       <file name="$USER_HOME$/www/js/karma/gruntfile.js" timestamp="1464444232914">
         <mark key="'" line="15" column="6" />
@@ -230,6 +236,9 @@
         <mark key="^" line="333" column="49" />
         <mark key="." line="332" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/service/yt-shortcuts-map.js" timestamp="1464614629813">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/clipboard/service/yt-clipboard.js" timestamp="1464252122929">
         <mark key="'" line="25" column="2" />
       </file>
@@ -317,6 +326,9 @@
       <file name="$USER_HOME$/www/js/karma-intellij/lib/intellijReporter.js" timestamp="1464550761952">
         <mark key="'" line="190" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-view.js" timestamp="1464614555667">
+        <mark key="'" line="147" column="11" />
+      </file>
       <file name="$USER_HOME$/www/js/karma/lib/file-list.js" timestamp="1464552181604">
         <mark key="'" line="352" column="18" />
       </file>
@@ -353,13 +365,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="2" filename="$APPLICATION_CONFIG_DIR$/javascript/nodejs/5.5.0/core-modules/assert.js" />
-      <jump line="292" column="10" filename="$APPLICATION_CONFIG_DIR$/javascript/nodejs/5.5.0/core-modules/assert.js" />
-      <jump line="296" column="4" filename="$APPLICATION_CONFIG_DIR$/javascript/nodejs/5.5.0/core-modules/assert.js" />
-      <jump line="323" column="4" filename="$APPLICATION_CONFIG_DIR$/javascript/nodejs/5.5.0/core-modules/assert.js" />
-      <jump line="327" column="19" filename="$APPLICATION_CONFIG_DIR$/javascript/nodejs/5.5.0/core-modules/assert.js" />
-      <jump line="328" column="10" filename="$APPLICATION_CONFIG_DIR$/javascript/nodejs/5.5.0/core-modules/assert.js" />
-      <jump line="330" column="7" filename="$APPLICATION_CONFIG_DIR$/javascript/nodejs/5.5.0/core-modules/assert.js" />
       <jump line="331" column="3" filename="$APPLICATION_CONFIG_DIR$/javascript/nodejs/5.5.0/core-modules/assert.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/js/karma/test/client/stringify.spec.js" />
       <jump line="92" column="10" filename="$USER_HOME$/www/js/karma/test/client/stringify.spec.js" />
@@ -453,6 +458,13 @@
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/header.js" />
       <jump line="18" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/header.js" />
       <jump line="41" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/header.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-view.js" />
+      <jump line="147" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-view.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-comments.js" />
+      <jump line="271" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-comments.js" />
+      <jump line="172" column="29" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/service/yt-shortcuts-meta-information.js" />
+      <jump line="10" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/service/yt-shortcuts-meta-information.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/service/yt-shortcuts-map.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -462,7 +474,7 @@
         <text>headerCOnfig</text>
       </register>
       <register name="/" type="4">
-        <text>header</text>
+        <text>AddComment</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNkIHlvdXRyYWNrL2NoYXJpc21hL3lvdXRyYWNrLWZyb250ZW5kCgo=</text>
@@ -502,9 +514,9 @@
       </register>
     </registers>
     <search>
-      <last-search>header</last-search>
+      <last-search>AddComment</last-search>
       <last-offset />
-      <last-pattern>header</last-pattern>
+      <last-pattern>AddComment</last-pattern>
       <last-replace>rgCom</last-replace>
       <last-substitute>xxCom</last-substitute>
       <last-dir>1</last-dir>
@@ -512,8 +524,6 @@
     </search>
     <history>
       <history-search>
-        <entry>object</entry>
-        <entry>throw</entry>
         <entry>deps</entry>
         <entry>loc</entry>
         <entry>webpack</entry>
@@ -532,6 +542,8 @@
         <entry>listening</entry>
         <entry encoding="base64">XDxhZnRlclByZXByb2Nlc3NcPg==</entry>
         <entry>header</entry>
+        <entry>shortcuts</entry>
+        <entry>AddComment</entry>
       </history-search>
       <history-cmd>
         <entry>20</entry>
