@@ -301,8 +301,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-voters.js" timestamp="1461951269611">
         <mark key="'" line="75" column="2" />
       </file>
-      <file name="$USER_HOME$/www/js/karma-intellij-webpack-problem/node_modules/karma-webpack/index.js" timestamp="1464622384490">
-        <mark key="'" line="55" column="33" />
+      <file name="$USER_HOME$/www/js/karma-intellij-webpack-problem/node_modules/karma-webpack/index.js" timestamp="1464626670236">
+        <mark key="'" line="187" column="3" />
         <mark key="[" line="117" column="0" />
         <mark key="]" line="117" column="0" />
         <mark key="." line="117" column="0" />
@@ -402,9 +402,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/www/js/karma-intellij-webpack-problem/node_modules/karma/lib/web-server.js" />
-      <jump line="91" column="0" filename="$USER_HOME$/www/js/karma-intellij-webpack-problem/node_modules/karma/lib/web-server.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/www/js/karma-intellij-webpack-problem/node_modules/karma/lib/web-server.js" />
       <jump line="95" column="0" filename="$USER_HOME$/www/js/karma-intellij-webpack-problem/node_modules/karma/lib/web-server.js" />
       <jump line="89" column="0" filename="$USER_HOME$/www/js/karma-intellij-webpack-problem/node_modules/karma/lib/web-server.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/js/karma-intellij-webpack-problem/node_modules/karma/lib/server.js" />
@@ -502,6 +499,9 @@
       <jump line="7" column="4" filename="$USER_HOME$/www/js/karma-intellij-webpack-problem/node_modules/karma/lib/preprocessor.js" />
       <jump line="8" column="32" filename="$USER_HOME$/www/js/karma-intellij-webpack-problem/node_modules/karma/lib/preprocessor.js" />
       <jump line="30" column="17" filename="$USER_HOME$/www/js/karma-intellij-webpack-problem/node_modules/karma/lib/preprocessor.js" />
+      <jump line="141" column="0" filename="$USER_HOME$/www/js/karma-intellij-webpack-problem/node_modules/karma-webpack/index.js" />
+      <jump line="165" column="0" filename="$USER_HOME$/www/js/karma-intellij-webpack-problem/node_modules/karma-webpack/index.js" />
+      <jump line="187" column="3" filename="$USER_HOME$/www/js/karma-intellij-webpack-problem/node_modules/karma-webpack/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -511,7 +511,7 @@
         <text>(file.contentPath || file.path)</text>
       </register>
       <register name="/" type="4">
-        <text>sha</text>
+        <text>preprocessor</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnTWlkZGxld2FyZSAnICsgKGZpbGUuY29udGVudFBhdGggfHwgZmlsZS5wYXRoKSk7Cg==</text>
@@ -551,9 +551,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sha</last-search>
+      <last-search>preprocessor</last-search>
       <last-offset />
-      <last-pattern>sha</last-pattern>
+      <last-pattern>preprocessor</last-pattern>
       <last-replace>rgCom</last-replace>
       <last-substitute>xxCom</last-substitute>
       <last-dir>1</last-dir>
@@ -561,7 +561,6 @@
     </search>
     <history>
       <history-search>
-        <entry>YY</entry>
         <entry>console</entry>
         <entry>this.files</entry>
         <entry>make(</entry>
@@ -581,6 +580,7 @@
         <entry encoding="base64">XDxTQ1JJUFRfVEFHXD4=</entry>
         <entry>hash</entry>
         <entry>sha</entry>
+        <entry>preprocessor</entry>
       </history-search>
       <history-cmd>
         <entry>20</entry>
