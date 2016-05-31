@@ -1,5 +1,7 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="TeamCity.BuildFailed" displayType="STICKY_BALLOON" />
+    <notification groupId="TeamCity.BuildSuccessful" displayType="STICKY_BALLOON" />
     <notification groupId="Unindexed maven repositories gradle detection" displayType="NONE" shouldLog="false" />
   </component>
 </application>
