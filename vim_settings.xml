@@ -76,8 +76,8 @@
         <mark key="^" line="33" column="47" />
         <mark key="." line="33" column="47" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-comments.js" timestamp="1464683546350">
-        <mark key="'" line="289" column="2" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-comments.js" timestamp="1464778579524">
+        <mark key="'" line="98" column="56" />
       </file>
       <file name="$USER_HOME$/www/js/karma/gruntfile.js" timestamp="1464444232914">
         <mark key="'" line="15" column="6" />
@@ -360,8 +360,8 @@
       <file name="$USER_HOME$/www/js/material/src/components/dialog/dialog.js" timestamp="1463995130541">
         <mark key="'" line="487" column="38" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/wiki/directive/yt-wiki-text.js" timestamp="1464778181941">
-        <mark key="'" line="13" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/wiki/directive/yt-wiki-text.js" timestamp="1464778496644">
+        <mark key="'" line="50" column="15" />
         <mark key="[" line="30" column="16" />
         <mark key="]" line="30" column="15" />
         <mark key="." line="30" column="15" />
@@ -604,9 +604,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-custom-field-period-input.js" />
-      <jump line="68" column="27" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/filter/format-as-field-value.js" />
-      <jump line="122" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/filter/format-as-field-value.js" />
       <jump line="23" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-custom-field-period-input.js" />
       <jump line="18" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-custom-field-period-hint.js" />
       <jump line="43" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-custom-field-period-input.js" />
@@ -685,7 +682,6 @@
       <jump line="18" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/wiki/directive/yt-wiki-text.js" />
       <jump line="29" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/wiki/directive/yt-wiki-text.js" />
       <jump line="54" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/wiki/directive/yt-wiki-text.js" />
-      <jump line="50" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/wiki/directive/yt-wiki-text.js" />
       <jump line="28" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/wiki/directive/yt-wiki-text.js" />
       <jump line="47" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/wiki/directive/yt-wiki-text.js" />
       <jump line="198" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-body.js" />
@@ -704,6 +700,10 @@
       <jump line="342" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-view.js" />
       <jump line="128" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-view.js" />
       <jump line="13" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/wiki/directive/yt-wiki-text.js" />
+      <jump line="50" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/wiki/directive/yt-wiki-text.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-comments.js" />
+      <jump line="154" column="32" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-comments.js" />
+      <jump line="98" column="56" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-comments.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -713,7 +713,7 @@
         <text encoding="base64">YW5ndWxhci5pc1VuZGVmaW5lZCh2YWx1ZSkgfHwg</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxleHBlY3REZXNjcmlwdGlvbldpbGxCZVdpa2lmaWVkXD4=</text>
+        <text>isSubmit</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -753,18 +753,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxleHBlY3REZXNjcmlwdGlvbldpbGxCZVdpa2lmaWVkXD4=</last-search>
+      <last-search>isSubmit</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxleHBlY3REZXNjcmlwdGlvbldpbGxCZVdpa2lmaWVkXD4=</last-pattern>
+      <last-pattern>isSubmit</last-pattern>
       <last-replace>rgCom</last-replace>
       <last-substitute>xxCom</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>no-dup</entry>
-        <entry>render issue d</entry>
         <entry>wikify</entry>
         <entry>wikified</entry>
         <entry>wiki</entry>
@@ -783,6 +781,8 @@
         <entry>switch</entry>
         <entry>fit</entry>
         <entry encoding="base64">XDxleHBlY3REZXNjcmlwdGlvbldpbGxCZVdpa2lmaWVkXD4=</entry>
+        <entry>trim(</entry>
+        <entry>isSubmit</entry>
       </history-search>
       <history-cmd>
         <entry>%s/'$type*//gc</entry>
