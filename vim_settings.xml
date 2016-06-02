@@ -233,12 +233,12 @@
         <mark key="." line="15" column="12" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1464870967912">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1464871823943">
         <mark key="'" line="243" column="10" />
-        <mark key="[" line="1256" column="38" />
-        <mark key="]" line="1256" column="51" />
-        <mark key="^" line="1256" column="51" />
-        <mark key="." line="1256" column="51" />
+        <mark key="[" line="636" column="25" />
+        <mark key="]" line="636" column="23" />
+        <mark key="." line="636" column="23" />
+        <mark key="^" line="636" column="23" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-custom-field-simple.js" timestamp="1464733786589">
         <mark key="'" line="53" column="34" />
@@ -696,18 +696,8 @@
       <file name="$USER_HOME$/www/js/karma/node_modules/dom-serialize/index.js" timestamp="1464445261448">
         <mark key="'" line="153" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-board.js" timestamp="1464871008743">
-        <mark key="'" line="319" column="16" />
-        <mark key="[" line="288" column="48" />
-        <mark key="]" line="289" column="7" />
-        <mark key="^" line="289" column="7" />
-        <mark key="." line="289" column="7" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/test/service/command-dialog.js" />
-      <jump line="34" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/test/service/command-dialog.js" />
-      <jump line="48" column="83" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/test/service/command-dialog.js" />
       <jump line="75" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/test/service/command-dialog.js" />
       <jump line="309" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/command-dialog.js" />
       <jump line="63" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/command-dialog.js" />
@@ -805,58 +795,61 @@
       <jump line="629" column="40" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="292" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="243" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="359" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-board.js" />
+      <jump line="901" column="44" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-board.js" />
+      <jump line="355" column="43" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-board.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzcHlPbihhZ2lsZUJvYXJkQ3RybCwgJ2NsZWFyU2VsZWN0aW9uJyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>.boardSelection</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>clerSele</text>
+        <text>getFo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzcHlPbihhZ2lsZUJvYXJkQ3RybC5ib2FyZFNlbGVjdGlvbiwgJ2NsZWFyRm9jdXMnKTsK</text>
+        <text encoding="base64">ICAgICAgICBiZWZvcmVFYWNoKGZ1bmN0aW9uKCkgewogICAgICAgICAgYWdpbGVCb2FyZEN0cmwuZm9jdXNPblF1ZXJ5ID0gZmFsc2U7CiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzcHlPbihhZ2lsZUJvYXJkQ3RybCwgJ2NsZWFyU2VsZWN0aW9uJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGZvY3VzZWRJc3N1ZSA9IHt9Owo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzcHlPbihhZ2lsZUJvYXJkQ3RybC5ib2FyZFNlbGVjdGlvbiwgJ2NsZWFyRm9jdXMnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGFnaWxlQm9hcmRDdHJsLmJvYXJkU2VsZWN0aW9uLmdldEZvY3VzZWQuYW5kLnJldHVyblZhbHVlKGZvY3VzZWRJc3N1ZSk7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGFnaWxlQm9hcmROYXZpZ2F0aW9uLm5hdmlnYXRlRmlyc3RJc3N1ZShhZ2lsZUJvYXJkQ3RybC5zcHJpbnQsIGFnaWxlQm9hcmRDdHJsLmJvYXJkU2VsZWN0aW9uKSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIGlmICghYWdpbGVCb2FyZEN0cmwuYm9hcmRTZWxlY3Rpb24uZ2V0Rm9jdXNlZCgpKSB7CiAgICAgICAgICAgIGFnaWxlQm9hcmRDdHJsLmJvYXJkU2VsZWN0aW9uLmZvY3VzSXNzdWUoYWdpbGVCb2FyZE5hdmlnYXRpb24ubmF2aWdhdGVGaXJzdElzc3VlKGFnaWxlQm9hcmRDdHJsLnNwcmludCwgYWdpbGVCb2FyZEN0cmwuYm9hcmRTZWxlY3Rpb24pKTsKICAgICAgICAgIH0K</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIGFnaWxlQm9hcmRDdHJsLnByZXZpb3VzbHlGb2N1c2VkID0gbnVsbDsK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGV4cGVjdChhZ2lsZUJvYXJkQ3RybC5ib2FyZFNlbGVjdGlvbi5mb2N1c0lzc3VlKQogICAgICAgICAgICAudG9IYXZlQmVlbkNhbGxlZFdpdGgoZmlyc3RJc3N1ZU9uVGhlQm9hcmQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGFnaWxlQm9hcmRDdHJsLmJvYXJkU2VsZWN0aW9uLmZvY3VzSXNzdWUoYWdpbGVCb2FyZE5hdmlnYXRpb24ubmF2aWdhdGVGaXJzdElzc3VlKGFnaWxlQm9hcmRDdHJsLnNwcmludCwgYWdpbGVCb2FyZEN0cmwuYm9hcmRTZWxlY3Rpb24pKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGV4cGVjdCgpLnRvSGF2ZUJlZW5DYWxsZWQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGFnaWxlQm9hcmRDdHJsLnByZXZpb3VzbHlGb2N1c2VkID0gbnVsbDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>clerSele</last-search>
+      <last-search>getFo</last-search>
       <last-offset />
-      <last-pattern>clerSele</last-pattern>
+      <last-pattern>getFo</last-pattern>
       <last-replace>rgCom</last-replace>
       <last-substitute>xxCom</last-substitute>
       <last-dir>1</last-dir>
@@ -864,11 +857,9 @@
     </search>
     <history>
       <history-search>
-        <entry>'esc'</entry>
         <entry>shortcuts</entry>
         <entry>fit</entry>
         <entry>fd</entry>
-        <entry>getFo</entry>
         <entry>toggleSe</entry>
         <entry>toggleSea</entry>
         <entry encoding="base64">XDx0b2dnbGVTZWFyY2hGaWVsZEZvY3VzXD4=</entry>
@@ -884,6 +875,8 @@
         <entry>clear</entry>
         <entry encoding="base64">XDxjbGVhclNlbGVjdGlvblw+</entry>
         <entry>clerSele</entry>
+        <entry>getFoc</entry>
+        <entry>getFo</entry>
       </history-search>
       <history-cmd>
         <entry>%s/'$type*//gc</entry>
