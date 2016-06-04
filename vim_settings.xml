@@ -70,11 +70,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/contenteditable/contenteditable.js" timestamp="1461872018131">
         <mark key="'" line="97" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/controller/command-dialog.js" timestamp="1464970055455">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/controller/command-dialog.js" timestamp="1465032884636">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="1" column="93" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/karma.conf.js" timestamp="1463745428846">
         <mark key="'" line="39" column="0" />
@@ -430,10 +431,10 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/directive/yt-header.js" timestamp="1464685362811">
         <mark key="'" line="105" column="34" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/command-dialog.js" timestamp="1464969993282">
-        <mark key="'" line="179" column="12" />
-        <mark key="[" line="233" column="0" />
-        <mark key="]" line="233" column="37" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/command-dialog.js" timestamp="1465032822581">
+        <mark key="'" line="208" column="10" />
+        <mark key="[" line="162" column="0" />
+        <mark key="]" line="168" column="10" />
         <mark key="^" line="329" column="40" />
         <mark key="." line="329" column="40" />
       </file>
@@ -465,9 +466,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="184" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/command-dialog.js" />
-      <jump line="90" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/command-dialog.js" />
-      <jump line="60" column="29" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/command-dialog.js" />
       <jump line="61" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/command-dialog.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/template/command-dialog.html" />
       <jump line="251" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/command-dialog.js" />
@@ -527,7 +525,6 @@
       <jump line="333" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/command-dialog.js" />
       <jump line="7" column="41" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/command-dialog.js" />
       <jump line="142" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/command-dialog.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/command-dialog.js" />
       <jump line="2" column="1" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/controller/command-dialog.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/controller/command-dialog.js" />
       <jump line="338" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/command-dialog.js" />
@@ -565,19 +562,23 @@
       <jump line="41" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/test/controller/command-dialog.js" />
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/test/controller/command-dialog.js" />
       <jump line="47" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/test/controller/command-dialog.js" />
+      <jump line="200" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/command-dialog.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/command-dialog.js" />
+      <jump line="163" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/command-dialog.js" />
+      <jump line="208" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/command-dialog.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>commandDialogCtrl.getSuggest</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>toBeDefined</text>
+        <text>getSuggest</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRBc3Npc3REYXRhXD4=</text>
+        <text>getSuggest</text>
       </register>
-      <register name="0" type="4">
-        <text>commandDialogCtrl.getSuggest</text>
+      <register name="0" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGJlZm9yZUVhY2goKTsK</text>
@@ -614,18 +615,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRBc3Npc3REYXRhXD4=</last-search>
+      <last-search>getSuggest</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRBc3Npc3REYXRhXD4=</last-pattern>
+      <last-pattern>getSuggest</last-pattern>
       <last-replace>rgCom</last-replace>
       <last-substitute>xxCom</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>fdes</entry>
-        <entry>$inv</entry>
         <entry>summ</entry>
         <entry encoding="base64">Pj4=</entry>
         <entry>$q</entry>
@@ -644,6 +643,8 @@
         <entry encoding="base64">XDxzaW5nbGVJc3N1ZVw+</entry>
         <entry encoding="base64">XDxxdWVyeUFzc2lzdEluc3RhbmNlXD4=</entry>
         <entry encoding="base64">XDxnZXRBc3Npc3REYXRhXD4=</entry>
+        <entry>suggest</entry>
+        <entry>getSuggest</entry>
       </history-search>
       <history-cmd>
         <entry>%s/'$type*//gc</entry>
