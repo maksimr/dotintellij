@@ -6,6 +6,30 @@
     <option name="SUBST_ANNOTATION" value="org.intellij.lang.annotations.Subst" />
     <option name="RESOLVE_REFERENCES" value="true" />
     <injection language="AngularJS" injector-id="xml">
+      <display-name>div/@caret</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("caret")).withParent(xmlTag().withLocalName(string().equalTo("div")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>div/@on-apply</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-apply")).withParent(xmlTag().withLocalName(string().equalTo("div")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>div/@on-change</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-change")).withParent(xmlTag().withLocalName(string().equalTo("div")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>div/@query</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("query")).withParent(xmlTag().withLocalName(string().equalTo("div")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>div/@react-instance</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("react-instance")).withParent(xmlTag().withLocalName(string().equalTo("div")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>div/@x-data-source</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("x-data-source")).withParent(xmlTag().withLocalName(string().equalTo("div")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>rg-button/@on-select</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-select")).withParent(xmlTag().withLocalName(string().equalTo("rg-button")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
