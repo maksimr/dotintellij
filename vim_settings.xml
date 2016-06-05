@@ -18,6 +18,10 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/service/yt-shortcuts-meta-information.js" timestamp="1464614605691">
         <mark key="'" line="10" column="4" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issue-updater.js" timestamp="1465149977016">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="84" column="30" />
+      </file>
       <file name="$USER_HOME$/www/js/karma-jasmine/lib/adapter.js" timestamp="1461830398249">
         <mark key="'" line="365" column="0" />
       </file>
@@ -184,8 +188,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/popup/popup.js" timestamp="1464260277907">
         <mark key="'" line="47" column="6" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-issue-create-dialog.js" timestamp="1464966475219">
-        <mark key="'" line="184" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-issue-create-dialog.js" timestamp="1465149937476">
+        <mark key="'" line="82" column="8" />
         <mark key="[" line="1" column="62" />
         <mark key="]" line="1" column="65" />
         <mark key="." line="1" column="65" />
@@ -472,10 +476,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/test/service/command-dialog.js" />
-      <jump line="0" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/test/service/command-dialog.js" />
-      <jump line="4" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/test/service/command-dialog.js" />
-      <jump line="5" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/test/service/command-dialog.js" />
       <jump line="12" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/test/service/command-dialog.js" />
       <jump line="15" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/test/service/command-dialog.js" />
       <jump line="17" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/test/service/command-dialog.js" />
@@ -572,19 +572,23 @@
       <jump line="63" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/template/command-dialog.html" />
       <jump line="133" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/template/command-dialog.html" />
       <jump line="85" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/template/command-dialog.html" />
+      <jump line="18" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-issue-create-dialog.js" />
+      <jump line="64" column="85" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-issue-create-dialog.js" />
+      <jump line="74" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-issue-create-dialog.js" />
+      <jump line="82" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-issue-create-dialog.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIG5nLW1vZGVsLW9wdGlvbnM9Int1cGRhdGVPbjogJ2tleXByZXNzJywgZGVib3VuY2U6IHtrZXlwcmVzczogMzAwfX0iCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGlzc3VlUmVzb3VyY2UubW92ZURyYWZ0VG9Jc3N1ZXMuc2F2ZSh7CiAgICAgICAgaXNzdWVJZDogaXNzdWVEcmFmdC5pZAo=</text>
       </register>
       <register name="-" type="4">
         <text>commandDialog</text>
       </register>
       <register name="/" type="4">
-        <text>wiki</text>
+        <text>save</text>
       </register>
-      <register name="0" type="4">
-        <text>commandDialogCtrl.comment</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIGlzc3VlUmVzb3VyY2UubW92ZURyYWZ0VG9Jc3N1ZXMuc2F2ZSh7CiAgICAgICAgaXNzdWVJZDogaXNzdWVEcmFmdC5pZAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIG5nLW1vZGVsLW9wdGlvbnM9Int1cGRhdGVPbjogJ2tleXByZXNzJywgZGVib3VuY2U6IHtrZXlwcmVzczogMzAwfX0iCg==</text>
@@ -621,9 +625,9 @@
       </register>
     </registers>
     <search>
-      <last-search>wiki</last-search>
+      <last-search>save</last-search>
       <last-offset />
-      <last-pattern>wiki</last-pattern>
+      <last-pattern>save</last-pattern>
       <last-replace>commandDialogCtrl.</last-replace>
       <last-substitute>data\.</last-substitute>
       <last-dir>1</last-dir>
@@ -639,7 +643,6 @@
         <entry>issueRe</entry>
         <entry encoding="base64">XDxhbmFseXRpY3NNb2RpZmllclw+</entry>
         <entry encoding="base64">XDxzZW5kU3RhdGlzdGljXD4=</entry>
-        <entry>save</entry>
         <entry>on-app</entry>
         <entry encoding="base64">XDxvbkFwcGx5Q29tbWFuZFw+</entry>
         <entry>apply</entry>
@@ -651,6 +654,7 @@
         <entry>yt-iss</entry>
         <entry>wikit</entry>
         <entry>wiki</entry>
+        <entry>save</entry>
       </history-search>
       <history-cmd>
         <entry>%s/,\n'$type.*//gc</entry>
