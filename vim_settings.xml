@@ -28,7 +28,6 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/service/yt-shortcuts-meta-information.js" timestamp="1464614605691">
         <mark key="'" line="10" column="4" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issue-updater.js" timestamp="1465220142282" />
       <file name="$USER_HOME$/www/js/karma-jasmine/lib/adapter.js" timestamp="1461830398249">
         <mark key="'" line="365" column="0" />
       </file>
@@ -136,7 +135,7 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/test/service/i18n-date.js" timestamp="1463509807518">
         <mark key="'" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/test/controller/command-dialog.js" timestamp="1465235596668">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/test/controller/command-dialog.js" timestamp="1465288516710">
         <mark key="'" line="276" column="6" />
         <mark key="[" line="158" column="3" />
         <mark key="]" line="158" column="1" />
@@ -731,7 +730,7 @@
         <text>toHaveBeenCalled</text>
       </register>
       <register name="/" type="4">
-        <text>onAppl</text>
+        <text>updateDraft</text>
       </register>
       <register name="0" type="4">
         <text>commandDialogCtrl.applyCommandIsInProgress</text>
@@ -771,9 +770,9 @@
       </register>
     </registers>
     <search>
-      <last-search>onAppl</last-search>
+      <last-search>updateDraft</last-search>
       <last-offset />
-      <last-pattern>onAppl</last-pattern>
+      <last-pattern>updateDraft</last-pattern>
       <last-replace>commandDialogCtrl.</last-replace>
       <last-substitute>data\.</last-substitute>
       <last-dir>1</last-dir>
@@ -781,7 +780,6 @@
     </search>
     <history>
       <history-search>
-        <entry>issues:</entry>
         <entry>loader</entry>
         <entry>load</entry>
         <entry>inline</entry>
@@ -801,6 +799,7 @@
         <entry encoding="base64">XDxhcHBseUNvbW1hbmRcPg==</entry>
         <entry encoding="base64">XDxhcHBseUNvbW1hbmRJblByb2dyZXNzXD4=</entry>
         <entry>onAppl</entry>
+        <entry>updateDraft</entry>
       </history-search>
       <history-cmd>
         <entry>%s/'$type.*//gc</entry>
