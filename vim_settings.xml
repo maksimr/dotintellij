@@ -118,8 +118,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/contenteditable/contenteditable.js" timestamp="1461872018131">
         <mark key="'" line="97" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/controller/command-dialog.js" timestamp="1465315627646">
-        <mark key="'" line="162" column="35" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/controller/command-dialog.js" timestamp="1465380196312">
+        <mark key="'" line="204" column="41" />
         <mark key="[" line="211" column="0" />
         <mark key="]" line="211" column="0" />
         <mark key="." line="211" column="0" />
@@ -227,8 +227,8 @@
       <file name="$USER_HOME$/www/js/karma/test/e2e/mocharepoter.feature" timestamp="1464440577399">
         <mark key="'" line="47" column="6" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1465303863079">
-        <mark key="'" line="525" column="18" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1465380224756">
+        <mark key="'" line="1272" column="8" />
         <mark key="[" line="634" column="106" />
         <mark key="]" line="634" column="104" />
         <mark key="." line="634" column="104" />
@@ -668,11 +668,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-fields-panel.js" />
-      <jump line="124" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-fields-panel.js" />
-      <jump line="7" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issue-updater.js" />
-      <jump line="121" column="35" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-fields-panel.js" />
-      <jump line="30" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-fields-panel.js" />
       <jump line="10" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-fields-panel.js" />
       <jump line="67" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-fields-panel.js" />
       <jump line="19" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-fields-panel.js" />
@@ -768,6 +763,11 @@
       <jump line="244" column="14" filename="$USER_HOME$/www/js/karma-mocha/node_modules/mocha/lib/runner.js" />
       <jump line="297" column="9" filename="$USER_HOME$/www/js/karma-mocha/node_modules/mocha/lib/runner.js" />
       <jump line="405" column="17" filename="$USER_HOME$/www/js/karma-mocha/node_modules/mocha/lib/runner.js" />
+      <jump line="204" column="41" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/controller/command-dialog.js" />
+      <jump line="1242" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="1320" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="1290" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="1272" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -777,7 +777,7 @@
         <text>.then();</text>
       </register>
       <register name="/" type="4">
-        <text>run</text>
+        <text>AndSettings</text>
       </register>
       <register name="0" type="4">
         <text>commandDialogCtrl.issues[0]</text>
@@ -817,9 +817,9 @@
       </register>
     </registers>
     <search>
-      <last-search>run</last-search>
+      <last-search>AndSettings</last-search>
       <last-offset />
-      <last-pattern>run</last-pattern>
+      <last-pattern>AndSettings</last-pattern>
       <last-replace>commandDialogCtrl.</last-replace>
       <last-substitute>data\.</last-substitute>
       <last-dir>1</last-dir>
@@ -827,8 +827,6 @@
     </search>
     <history>
       <history-search>
-        <entry>watch</entry>
-        <entry>test</entry>
         <entry>save</entry>
         <entry encoding="base64">XDxleHRlbmRcPg==</entry>
         <entry>permi</entry>
@@ -847,6 +845,8 @@
         <entry>reporter</entry>
         <entry>_reporter</entry>
         <entry>run</entry>
+        <entry encoding="base64">XDxnZXRBbmRJbml0Q3VycmVudFNwcmludFw+</entry>
+        <entry>AndSettings</entry>
       </history-search>
       <history-cmd>
         <entry>%s/'$type.*//gc</entry>
