@@ -828,7 +828,7 @@
         <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>remove</text>
+        <text>screen</text>
       </register>
       <register name="0" type="4">
         <text />
@@ -868,9 +868,9 @@
       </register>
     </registers>
     <search>
-      <last-search>remove</last-search>
+      <last-search>screen</last-search>
       <last-offset />
-      <last-pattern>remove</last-pattern>
+      <last-pattern>screen</last-pattern>
       <last-replace>commandDialogCtrl.</last-replace>
       <last-substitute>data\.</last-substitute>
       <last-dir>1</last-dir>
@@ -878,7 +878,6 @@
     </search>
     <history>
       <history-search>
-        <entry>updated</entry>
         <entry>fixed</entry>
         <entry>error</entry>
         <entry>cli</entry>
@@ -898,6 +897,7 @@
         <entry encoding="base64">XDxyZXBvcnRTcGVjUmVzdWx0c1w+</entry>
         <entry encoding="base64">XDxhZGRTY3JlZW5TaG90UmVwb3J0ZXJcPg==</entry>
         <entry>remove</entry>
+        <entry>screen</entry>
       </history-search>
       <history-cmd>
         <entry>%s/'meta': false,/'meta': fasle/gc</entry>
