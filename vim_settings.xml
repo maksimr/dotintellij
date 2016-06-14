@@ -126,12 +126,12 @@
         <mark key="." line="5" column="70" />
         <mark key="^" line="5" column="70" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-issue-create-dialog.js" timestamp="1465898339620">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="122" column="25" />
-        <mark key="]" line="122" column="28" />
-        <mark key="^" line="122" column="28" />
-        <mark key="." line="122" column="28" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-issue-create-dialog.js" timestamp="1465901535515">
+        <mark key="'" line="132" column="6" />
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="0" />
+        <mark key="." line="125" column="0" />
+        <mark key="^" line="157" column="21" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/service/workflow-error-handler.js" timestamp="1465553237472">
         <mark key="'" line="57" column="2" />
@@ -611,15 +611,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/user/test/service/current-user.js" />
-      <jump line="75" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/user/test/service/current-user.js" />
-      <jump line="57" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/user/test/service/current-user.js" />
-      <jump line="10" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/user/test/service/current-user.js" />
-      <jump line="66" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/user/test/service/current-user.js" />
-      <jump line="63" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/user/test/service/current-user.js" />
-      <jump line="59" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/user/test/service/current-user.js" />
-      <jump line="58" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/user/test/service/current-user.js" />
-      <jump line="51" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/user/test/service/current-user.js" />
       <jump line="48" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/teamcity-integration-sidebar.js" />
       <jump line="13" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/workflows.js" />
       <jump line="13" column="37" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/edit-project/edit-project-teamcity.js" />
@@ -711,66 +702,74 @@
       <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-issue-create-dialog.js" />
       <jump line="76" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-issue-create-dialog.js" />
       <jump line="82" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-issue-create-dialog.js" />
+      <jump line="135" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-issue-create-dialog.js" />
+      <jump line="187" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-issue-create-dialog.js" />
+      <jump line="174" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-issue-create-dialog.js" />
+      <jump line="145" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-issue-create-dialog.js" />
+      <jump line="120" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-issue-create-dialog.js" />
+      <jump line="191" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-issue-create-dialog.js" />
+      <jump line="161" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-issue-create-dialog.js" />
+      <jump line="146" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-issue-create-dialog.js" />
+      <jump line="132" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-issue-create-dialog.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGFuZCB1bi14aXQgInNob3VsZCBzYXZlIGlzc3VlIiB0ZXN0cw==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgJHRpbWVvdXQuZmx1c2goVElNRU9VVF9JTlRFUlZBTCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGFuZCB1bi14aXQgInNob3VsZCBzYXZlIGlzc3VlIiB0ZXN0cw==</text>
+        <text>updateDraft.calls.count()</text>
       </register>
       <register name="/" type="4">
-        <text>onIssueChange</text>
+        <text encoding="base64">XDxleHBlY3RVcGRhdGVJc3N1ZURyYWZ0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc2VuZFJlcXVlc3RUb1NlcnZlcigpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJHRpbWVvdXQuZmx1c2goVElNRU9VVF9JTlRFUlZBTCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhciBkZWxheSA9IGZ1bmN0aW9uKGZuKSB7CiAgICAgIHZhciBjYW5jZWxUaW1lb3V0ID0gbnVsbDsKCiAgICAgIHJldHVybiBmdW5jdGlvbigpIHsKICAgICAgICBpZiAoY2FuY2VsVGltZW91dCkgewogICAgICAgICAgJHRpbWVvdXQuY2FuY2VsKGNhbmNlbFRpbWVvdXQpOwogICAgICAgICAgY2FuY2VsVGltZW91dCA9IG51bGw7CiAgICAgICAgfQoKICAgICAgICBjYW5jZWxUaW1lb3V0ID0gJHRpbWVvdXQoZnVuY3Rpb24oKSB7CiAgICAgICAgICBjYW5jZWxUaW1lb3V0ID0gbnVsbDsKICAgICAgICAgIGZuLmFwcGx5KG51bGwsIGFyZ3VtZW50cyk7CiAgICAgICAgfSk7CiAgICAgIH07CiAgICB9Owo=</text>
+        <text encoding="base64">ICAgICAgJHRpbWVvdXQuZmx1c2goVElNRU9VVF9JTlRFUlZBTCk7CiAgICAgICR0aW1lb3V0LmZsdXNoKDIgKiBUSU1FT1VUX0lOVEVSVkFMKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gU2VydmVyIHJlc3BvbnNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coYXBwbHlDb3VudGRvd25UaW1lcik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwbHlDb3VudGRvd25UaW1lciA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgJGh0dHBCYWNrZW5kLmZsdXNoKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zaW5vbi5jbG9jay50aWNrKDE1MCk7Cg==</text>
+        <text encoding="base64">ICAgICAgJHRpbWVvdXQuZmx1c2goVElNRU9VVF9JTlRFUlZBTCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zaW5vbi5jbG9jay50aWNrKDE1MCk7Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gU2VuZCBSZXF1ZXN0IHRvIHRoZSBzZXJ2ZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KGZuKS50b0hhdmVCZWVuQ2FsbGVkKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zaW5vbi5jbG9jay50aWNrKDIxMCk7Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gU2VuZCBSZXF1ZXN0IHRvIHRoZSBzZXJ2ZXIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>onIssueChange</last-search>
+      <last-search encoding="base64">XDxleHBlY3RVcGRhdGVJc3N1ZURyYWZ0XD4=</last-search>
       <last-offset />
-      <last-pattern>onIssueChange</last-pattern>
+      <last-pattern encoding="base64">XDxleHBlY3RVcGRhdGVJc3N1ZURyYWZ0XD4=</last-pattern>
       <last-replace>commandDialogCtrl.</last-replace>
       <last-substitute>data\.</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRTcHJpbnRcPg==</entry>
         <entry encoding="base64">XDxyZWRpcmVjdFRvT3RoZXJTcHJpbnRcPg==</entry>
         <entry>inline</entry>
         <entry>yt-loader</entry>
@@ -790,6 +789,7 @@
         <entry encoding="base64">XDx5dFV0aWxzXD4=</entry>
         <entry>updateDraft</entry>
         <entry>onIssueChange</entry>
+        <entry encoding="base64">XDxleHBlY3RVcGRhdGVJc3N1ZURyYWZ0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/'meta': false,/'meta': fasle/gc</entry>
