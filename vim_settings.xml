@@ -392,6 +392,13 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-resolver.js" timestamp="1466081888672">
         <mark key="'" line="81" column="2" />
       </file>
+      <file name="$USER_HOME$/www/js/voting-server/test/wallaby.js" timestamp="1466184965509">
+        <mark key="'" line="26" column="12" />
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="6" />
+        <mark key="." line="6" column="6" />
+        <mark key="^" line="6" column="6" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-backlog.js" timestamp="1466171407709">
         <mark key="'" line="135" column="2" />
       </file>
@@ -744,9 +751,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/test/directive/yt-header-navigation-menu.js" />
-      <jump line="21" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/test/directive/yt-header-navigation-menu.js" />
-      <jump line="95" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/test/directive/yt-header-navigation-menu.js" />
       <jump line="54" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/agile-board.js" />
       <jump line="207" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/agile-board.js" />
       <jump line="85" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/directive/yt-header-navigation-menu.js" />
@@ -844,19 +848,22 @@
       <jump line="10" column="0" filename="$USER_HOME$/www/js/voting-server/test/immutable_spec.js" />
       <jump line="15" column="0" filename="$USER_HOME$/www/js/voting-server/test/immutable_spec.js" />
       <jump line="19" column="0" filename="$USER_HOME$/www/js/voting-server/test/immutable_spec.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/www/js/voting-server/test/wallaby.js" />
+      <jump line="16" column="5" filename="$USER_HOME$/www/js/voting-server/test/wallaby.js" />
+      <jump line="26" column="12" filename="$USER_HOME$/www/js/voting-server/test/wallaby.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>nextState</text>
+        <text>./</text>
       </register>
       <register name="-" type="4">
-        <text>nextState</text>
+        <text>./</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRNYXJnaW5Ub3BcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KG5leHRTdGF0ZSkudG8uZXF1YWwoNDMpOwo=</text>
+        <text encoding="base64">ICAgICAgJy4vdGVzdC90ZXN0X2hlbHBlci5qcycK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -868,19 +875,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCc+Pj4nKTsK</text>
+        <text encoding="base64">ICAgICAgcnVubmVyOiAnbm9kZScK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJ3BhcmFtczogeycgKwogICAgICAnJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgVU5ERVJfU0VMRUNUT1IgPSAnLnl0LWFnaWxlLWJvYXJkX190b29sYmFyJzsKCiAgICAgICAgLy8gVE9ETyhtYWtzaW1ydik6IERpcnR5IGhhY2sgdG8gc29sdmUgcHJvYmxlbSB3aXRoIGZpcnN0IG1hcmdpbiB0b3AuCiAgICAgICAgLy8gSWYgd2UgZG9uJ3Qgc2V0IG1hcmdpbi10b3AgdGhlbiBpbiBVSSBzaWRlYmFyIHdpbGwgbW92ZSBmcm9tIHRvcCBvZgogICAgICAgIC8vIHZpZXdwb3J0IHRvIHBvc2l0aW9uIHVuZGVyIGFnaWxlLXRvb2xiYXIKICAgICAgICBmdW5jdGlvbiBnZXRNYXJpbmdUb3AoKSB7CiAgICAgICAgICB2YXIgc3luY1dpdGhFbGVtZW50ID0gYW5ndWxhci5lbGVtZW50KFVOREVSX1NFTEVDVE9SKVswXTsKICAgICAgICAgIHZhciBzY3JvbGxlZFRvcCA9IChkb2N1bWVudC5kb2N1bWVudEVsZW1lbnQgJiYgZG9jdW1lbnQuZG9jdW1lbnRFbGVtZW50LnNjcm9sbFRvcCkgfHwgZG9jdW1lbnQuYm9keS5zY3JvbGxUb3A7CiAgICAgICAgICB2YXIgc3luY2VkRWxlbWVudEhlaWdodCA9IHN5bmNXaXRoRWxlbWVudC5vZmZzZXRIZWlnaHQ7CiAgICAgICAgICB2YXIgc3luY2VkRWxlbWVudE9mZnNldFRvcCA9IHN5bmNXaXRoRWxlbWVudC5nZXRCb3VuZGluZ0NsaWVudFJlY3QoKS50b3AgKyBzY3JvbGxlZFRvcDsKICAgICAgICAgIHZhciBib3R0b20gPSBzeW5jZWRFbGVtZW50T2Zmc2V0VG9wICsgc3luY2VkRWxlbWVudEhlaWdodDsKICAgICAgICAgIHZhciBIRVVSSVNJVENfSEFDS19WQUxVRSA9IDEyOwoKICAgICAgICAgIHJldHVybiBNYXRoLm1heChib3R0b20gLSBzY3JvbGxlZFRvcCwgc3luY2VkRWxlbWVudEhlaWdodCkgKyBIRVVSSVNJVENfSEFDS19WQUxVRTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
