@@ -346,8 +346,8 @@
         <mark key="^" line="176" column="229" />
         <mark key="." line="181" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-board-settings.html" timestamp="1466424612311">
-        <mark key="'" line="110" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-board-settings.html" timestamp="1466427268734">
+        <mark key="'" line="1" column="36" />
         <mark key="[" line="1" column="36" />
         <mark key="]" line="1" column="58" />
         <mark key="^" line="1" column="58" />
@@ -461,12 +461,12 @@
         <mark key="." line="101" column="48" />
         <mark key="^" line="101" column="48" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/issue-updater.js" timestamp="1465552301806">
-        <mark key="'" line="157" column="0" />
-        <mark key="[" line="180" column="9" />
-        <mark key="]" line="180" column="9" />
-        <mark key="^" line="180" column="9" />
-        <mark key="." line="180" column="9" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/issue-updater.js" timestamp="1466427614181">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="139" column="98" />
+        <mark key="]" line="139" column="109" />
+        <mark key="^" line="139" column="109" />
+        <mark key="." line="139" column="109" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/agile-board.js" timestamp="1465993094600">
         <mark key="'" line="0" column="0" />
@@ -711,12 +711,11 @@
         <mark key="." line="6" column="5" />
         <mark key="^" line="6" column="5" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-board-with-sidebar.js" timestamp="1466425715079">
-        <mark key="'" line="32" column="78" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-board-with-sidebar.js" timestamp="1466427253019">
+        <mark key="[" line="44" column="5" />
+        <mark key="]" line="48" column="6" />
         <mark key="^" line="23" column="62" />
-        <mark key="." line="23" column="0" />
+        <mark key="." line="48" column="6" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/command-dialog.js" timestamp="1465549316548">
         <mark key="'" line="35" column="25" />
@@ -742,9 +741,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="27" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/e2e/custom-fields.po.js" />
-      <jump line="50" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/e2e/custom-fields.po.js" />
-      <jump line="2" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-board-settings.html" />
       <jump line="43" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/e2e/custom-fields.po.js" />
       <jump line="46" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/e2e/custom-fields.po.js" />
       <jump line="44" column="59" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/e2e/custom-fields.po.js" />
@@ -842,16 +838,19 @@
       <jump line="28" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-board-with-sidebar.js" />
       <jump line="29" column="52" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-board-with-sidebar.js" />
       <jump line="46" column="78" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-board-with-sidebar.js" />
+      <jump line="42" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-board-settings.html" />
+      <jump line="1" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-board-settings.html" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/issue-updater.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>DELETE</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHN0eWxlPSJtYXJnaW4tdG9wOiAnICsgZ2V0TWFyaW5nVG9wKCkgKyAncHgiIA==</text>
+        <text>DELETE</text>
       </register>
       <register name="/" type="4">
-        <text>offset</text>
+        <text>js</text>
       </register>
       <register name="0" type="4">
         <text>.js-agile-board-baseline</text>
@@ -891,9 +890,9 @@
       </register>
     </registers>
     <search>
-      <last-search>offset</last-search>
+      <last-search>js</last-search>
       <last-offset />
-      <last-pattern>offset</last-pattern>
+      <last-pattern>js</last-pattern>
       <last-replace>commandDialogCtrl.</last-replace>
       <last-substitute>data\.</last-substitute>
       <last-dir>1</last-dir>
@@ -901,7 +900,6 @@
     </search>
     <history>
       <history-search>
-        <entry>value</entry>
         <entry>text</entry>
         <entry>set</entry>
         <entry>cle</entry>
@@ -921,6 +919,7 @@
         <entry>header</entry>
         <entry>head</entry>
         <entry>offset</entry>
+        <entry>js</entry>
       </history-search>
       <history-cmd>
         <entry>%s/'meta': false,/'meta': fasle/gc</entry>
