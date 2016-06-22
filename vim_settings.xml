@@ -360,8 +360,8 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-issue-create-dialog.js" timestamp="1466604133252">
-        <mark key="'" line="23" column="79" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-issue-create-dialog.js" timestamp="1466607374000">
+        <mark key="'" line="23" column="15" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-fields-panel.js" timestamp="1465817673450">
         <mark key="'" line="24" column="4" />
@@ -811,9 +811,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/overlay/service/overlay.js" />
-      <jump line="11" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/overlay/service/overlay.js" />
-      <jump line="68" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/overlay/service/overlay.js" />
       <jump line="51" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/overlay/service/overlay.js" />
       <jump line="37" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/overlay/service/overlay.js" />
       <jump line="34" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/overlay/service/overlay.js" />
@@ -907,10 +904,13 @@
       <jump line="192" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-issue-create-dialog.js" />
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-issue-create-dialog.js" />
       <jump line="19" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-issue-create-dialog.js" />
-      <jump line="8" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-issue-create-dialog.js" />
       <jump line="71" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-issue-create-dialog.js" />
       <jump line="34" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-issue-create-dialog.js" />
-      <jump line="23" column="79" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-issue-create-dialog.js" />
+      <jump line="33" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-issue-create-dialog.js" />
+      <jump line="8" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-issue-create-dialog.js" />
+      <jump line="73" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-issue-create-dialog.js" />
+      <jump line="42" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-issue-create-dialog.js" />
+      <jump line="23" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-issue-create-dialog.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -920,7 +920,7 @@
         <text>keypress</text>
       </register>
       <register name="/" type="4">
-        <text>afterSync</text>
+        <text encoding="base64">XDxvbkVycm9yXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIHl0LWV2ZW50LWN0cmwtZW50ZXI9ImFnaWxlSXNzdWVDcmVhdGVEaWFsb2dDdHJsLm9uU2F2ZUlzc3VlKCkiCg==</text>
@@ -960,12 +960,12 @@
       </register>
     </registers>
     <search>
-      <last-search>afterSync</last-search>
+      <last-search encoding="base64">XDxvbkVycm9yXD4=</last-search>
       <last-offset />
-      <last-pattern>afterSync</last-pattern>
+      <last-pattern encoding="base64">XDxvbkVycm9yXD4=</last-pattern>
       <last-replace>commandDialogCtrl.</last-replace>
       <last-substitute>data\.</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -988,8 +988,8 @@
         <entry>onError</entry>
         <entry>onError =</entry>
         <entry encoding="base64">XDxyZXR1cm5cPg==</entry>
-        <entry encoding="base64">XDxvbkVycm9yXD4=</entry>
         <entry>afterSync</entry>
+        <entry encoding="base64">XDxvbkVycm9yXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/at/'at/gc</entry>
