@@ -360,8 +360,8 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-issue-create-dialog.js" timestamp="1466602022850">
-        <mark key="'" line="197" column="10" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-issue-create-dialog.js" timestamp="1466604133252">
+        <mark key="'" line="23" column="79" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-fields-panel.js" timestamp="1465817673450">
         <mark key="'" line="24" column="4" />
@@ -811,13 +811,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="194" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/test/controller/command-dialog.js" />
-      <jump line="206" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/test/controller/command-dialog.js" />
-      <jump line="216" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/test/controller/command-dialog.js" />
-      <jump line="237" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/test/controller/command-dialog.js" />
-      <jump line="295" column="29" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/test/controller/command-dialog.js" />
-      <jump line="6" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/test/controller/command-dialog.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/overlay/overlay.js" />
       <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/overlay/service/overlay.js" />
       <jump line="11" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/overlay/service/overlay.js" />
       <jump line="68" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/overlay/service/overlay.js" />
@@ -911,6 +904,13 @@
       <jump line="20" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/event/directive/yt-event-escape.js" />
       <jump line="9" column="33" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-board-issue-create.html" />
       <jump line="51" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-board-issue-create.html" />
+      <jump line="192" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-issue-create-dialog.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-issue-create-dialog.js" />
+      <jump line="19" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-issue-create-dialog.js" />
+      <jump line="8" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-issue-create-dialog.js" />
+      <jump line="71" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-issue-create-dialog.js" />
+      <jump line="34" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-issue-create-dialog.js" />
+      <jump line="23" column="79" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-issue-create-dialog.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -920,7 +920,7 @@
         <text>keypress</text>
       </register>
       <register name="/" type="4">
-        <text>even</text>
+        <text>afterSync</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIHl0LWV2ZW50LWN0cmwtZW50ZXI9ImFnaWxlSXNzdWVDcmVhdGVEaWFsb2dDdHJsLm9uU2F2ZUlzc3VlKCkiCg==</text>
@@ -960,9 +960,9 @@
       </register>
     </registers>
     <search>
-      <last-search>even</last-search>
+      <last-search>afterSync</last-search>
       <last-offset />
-      <last-pattern>even</last-pattern>
+      <last-pattern>afterSync</last-pattern>
       <last-replace>commandDialogCtrl.</last-replace>
       <last-substitute>data\.</last-substitute>
       <last-dir>1</last-dir>
@@ -970,12 +970,6 @@
     </search>
     <history>
       <history-search>
-        <entry>issues =</entry>
-        <entry>destroy</entry>
-        <entry encoding="base64">XDxzY29wZVw+</entry>
-        <entry encoding="base64">XDxBUElcPg==</entry>
-        <entry>overlay</entry>
-        <entry>over</entry>
         <entry encoding="base64">XDx5dE92ZXJsYXlcPg==</entry>
         <entry encoding="base64">XDxvbkNsb3NlXD4=</entry>
         <entry encoding="base64">XDxjcmVhdGVJc3N1ZURlZmVyXD4=</entry>
@@ -990,6 +984,12 @@
         <entry>enter</entry>
         <entry>canc</entry>
         <entry>even</entry>
+        <entry>sync</entry>
+        <entry>onError</entry>
+        <entry>onError =</entry>
+        <entry encoding="base64">XDxyZXR1cm5cPg==</entry>
+        <entry encoding="base64">XDxvbkVycm9yXD4=</entry>
+        <entry>afterSync</entry>
       </history-search>
       <history-cmd>
         <entry>%s/at/'at/gc</entry>
