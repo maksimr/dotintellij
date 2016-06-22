@@ -272,6 +272,12 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="29" column="73" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/event/directive/yt-event-escape.js" timestamp="1466600425879">
+        <mark key="[" line="1" column="21" />
+        <mark key="]" line="1" column="26" />
+        <mark key="." line="1" column="26" />
+        <mark key="^" line="1" column="26" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth/auth.js" timestamp="1465917975379">
         <mark key="'" line="738" column="0" />
       </file>
@@ -330,8 +336,8 @@
         <mark key="." line="41" column="40" />
         <mark key="^" line="41" column="40" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-board-issue-create.html" timestamp="1466599929851">
-        <mark key="'" line="27" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-board-issue-create.html" timestamp="1466600298182">
+        <mark key="'" line="17" column="0" />
         <mark key="[" line="15" column="77" />
         <mark key="]" line="15" column="76" />
         <mark key="^" line="15" column="76" />
@@ -613,6 +619,11 @@
         <mark key="." line="20" column="30" />
         <mark key="^" line="21" column="5" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/event/directive/yt-event-enter.js" timestamp="1466600390049">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="17" column="4" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/filter/is-issue-draft.js" timestamp="1465152092777">
         <mark key="'" line="28" column="13" />
         <mark key="[" line="28" column="32" />
@@ -796,9 +807,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
-      <jump line="147" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
-      <jump line="285" column="76" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="52" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="1517" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="40" column="27" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-board-issue-create.html" />
@@ -896,37 +904,40 @@
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/shortcuts/shortcuts.js" />
       <jump line="23" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-board-issue-create.html" />
       <jump line="27" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-board-issue-create.html" />
+      <jump line="17" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-board-issue-create.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/event/directive/yt-event-enter.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/event/directive/yt-event-escape.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHJpbmctanMtc2hvcnRjdXRz</text>
+        <text>Enter</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHJpbmctanMtc2hvcnRjdXRz</text>
+        <text>Enter</text>
       </register>
       <register name="/" type="4">
         <text>input</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YW5ndWxhci5tb2R1bGUoJ3lvdXRyYWNrLmNvbXBvbmVudHMuZXZlbnQnKQogIC5kaXJlY3RpdmUoJ3l0RXZlbnRFbnRlcicsIFsKICAgICdFdmVudEtleUNvZGVzJywKICAgIGZ1bmN0aW9uKEV2ZW50S2V5Q29kZXMpIHsKICAgICAgcmV0dXJuIHsKICAgICAgICByZXN0cmljdDogJ0EnLAogICAgICAgIGxpbms6IGZ1bmN0aW9uKHNjb3BlLCBlbGVtZW50LCBhdHRycykgewogICAgICAgICAgZWxlbWVudC5iaW5kKCdrZXlwcmVzcycsIGZ1bmN0aW9uKGV2ZW50KSB7CiAgICAgICAgICAgIGlmIChldmVudC53aGljaCA9PT0gRXZlbnRLZXlDb2Rlcy5FTlRFUikgewogICAgICAgICAgICAgIHNjb3BlLiRhcHBseShmdW5jdGlvbigpIHsKICAgICAgICAgICAgICAgIHNjb3BlLiRldmFsKGF0dHJzLnl0RXZlbnRFbnRlcik7CiAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIH0KICAgICAgICAgIH0pOwogICAgICAgIH0KICAgICAgfTsKICAgIH0KICBdKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbWFrc2ltcnYgb24gMjIvMDYvMTYuCiAqLwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZG9jdW1lbnQ6IHsKICAgICAgICBib2R5OiBib2R5Tm9kZU1vY2sKICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZG9jdW1lbnQ6IHsKICAgICAgICBib2R5OiBib2R5Tm9kZU1vY2sKICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
