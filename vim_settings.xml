@@ -69,6 +69,13 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/react-ng/react-ng.js" timestamp="1466522335906">
         <mark key="'" line="232" column="22" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/externals/header/template/issues-menu-create-button.html" timestamp="1466756925142">
+        <mark key="'" line="22" column="5" />
+        <mark key="[" line="8" column="34" />
+        <mark key="]" line="8" column="38" />
+        <mark key="." line="8" column="38" />
+        <mark key="^" line="8" column="38" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1466689621560">
         <mark key="'" line="72" column="24" />
         <mark key="[" line="96" column="25" />
@@ -675,6 +682,9 @@
         <mark key="^" line="28" column="35" />
         <mark key="." line="28" column="35" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" timestamp="1466757015840">
+        <mark key="'" line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/ring-ui/components/contenteditable/contenteditable.test.js" timestamp="1465204473480">
         <mark key="'" line="67" column="0" />
         <mark key="[" line="59" column="0" />
@@ -682,8 +692,8 @@
         <mark key="^" line="65" column="6" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" timestamp="1466713457170">
-        <mark key="'" line="142" column="2" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" timestamp="1466757305617">
+        <mark key="'" line="25" column="26" />
         <mark key="[" line="119" column="15" />
         <mark key="]" line="119" column="20" />
         <mark key="." line="119" column="20" />
@@ -865,14 +875,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/tags-input/tags-input.test.js" />
-      <jump line="114" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/tags-input/tags-input.test.js" />
-      <jump line="150" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/tags-input/tags-input.test.js" />
-      <jump line="33" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/tags-input/tags-input.test.js" />
-      <jump line="138" column="3" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select.test.js" />
-      <jump line="99" column="39" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select.test.js" />
-      <jump line="92" column="39" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select.test.js" />
-      <jump line="93" column="10" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select.test.js" />
       <jump line="94" column="4" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select.test.js" />
       <jump line="95" column="4" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select.test.js" />
       <jump line="96" column="4" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select.test.js" />
@@ -965,58 +967,66 @@
       <jump line="6" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/e2e/custom-fields.po.js" />
       <jump line="125" column="5" filename="$USER_HOME$/www/js/voting-server/test/core_spec.js" />
       <jump line="52" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/e2e/custom-fields.po.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
+      <jump line="56" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
+      <jump line="65" column="108" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
+      <jump line="30" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
+      <jump line="197" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
+      <jump line="22" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/externals/header/template/issues-menu-create-button.html" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
+      <jump line="25" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>agileIssueCreateDialogCtrl</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEhFTExPCg==</text>
       </register>
       <register name="-" type="4">
         <text>onFoo</text>
       </register>
       <register name="/" type="4">
-        <text>form</text>
+        <text>mps</text>
       </register>
       <register name="0" type="4">
         <text>agileIssueCreateDialogCtrl</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFnaWxlSXNzdWVDcmVhdGVEaWFsb2dDdHJsLmlzU3dpbWxhbmUgPSBmaWVsZFZhbHVlc0ZpbHRlcmluZ0NvbmZpZyAmJiBmaWVsZFZhbHVlc0ZpbHRlcmluZ0NvbmZpZy5pc1N3aW1sYW5lOwogICAgYWdpbGVJc3N1ZUNyZWF0ZURpYWxvZ0N0cmwub25GT08gPSBmdW5jdGlvbigpIHsK</text>
+        <text encoding="base64">ICAgIEhFTExPCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFnaWxlSXNzdWVDcmVhdGVEaWFsb2dDdHJsLmNyZWF0ZUlzc3VlRm9ybSk7Cg==</text>
+        <text encoding="base64">ICAgIGFnaWxlSXNzdWVDcmVhdGVEaWFsb2dDdHJsLmlzU3dpbWxhbmUgPSBmaWVsZFZhbHVlc0ZpbHRlcmluZ0NvbmZpZyAmJiBmaWVsZFZhbHVlc0ZpbHRlcmluZ0NvbmZpZy5pc1N3aW1sYW5lOwogICAgYWdpbGVJc3N1ZUNyZWF0ZURpYWxvZ0N0cmwub25GT08gPSBmdW5jdGlvbigpIHsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFnaWxlSXNzdWVDcmVhdGVEaWFsb2dDdHJsLmNyZWF0ZUlzc3VlRm9ybSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9uRm9jdXM9ezo6dGhpcy5fZm9jdXNIYW5kbGVyfQogICAgICAgICAgb25CbHVyPXs6OnRoaXMuX2JsdXJIYW5kbGVyfQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFnaWxlSXNzdWVDcmVhdGVEaWFsb2dDdHJsLmNyZWF0ZUlzc3VlRm9ybSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25Gb2N1cz17Ojp0aGlzLl9mb2N1c0hhbmRsZXJ9CiAgICAgICAgICAgIG9uQmx1cj17Ojp0aGlzLl9ibHVySGFuZGxlcn0K</text>
+        <text encoding="base64">ICAgICAgICAgIG9uRm9jdXM9ezo6dGhpcy5fZm9jdXNIYW5kbGVyfQogICAgICAgICAgb25CbHVyPXs6OnRoaXMuX2JsdXJIYW5kbGVyfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb25Gb2N1cz17Ojp0aGlzLl9mb2N1c0hhbmRsZXJ9CiAgICAgICAgICAgIG9uQmx1cj17Ojp0aGlzLl9ibHVySGFuZGxlcn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZm9jdXNlZDogdHJ1ZQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgZm9jdXNlZDogdHJ1ZQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMudGFnc0lucHV0LnJlZnMuc2VsZWN0LnJlZnMuZmlsdGVyKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>form</last-search>
+      <last-search>mps</last-search>
       <last-offset />
-      <last-pattern>form</last-pattern>
+      <last-pattern>mps</last-pattern>
       <last-replace>commandDialogCtrl.</last-replace>
       <last-substitute>data\.</last-substitute>
       <last-dir>1</last-dir>
@@ -1024,8 +1034,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onBlur</entry>
-        <entry>this.blur</entry>
         <entry>filter</entry>
         <entry encoding="base64">XDxfZm9jdXNIYW5kbGVyXD4=</entry>
         <entry>onFilte</entry>
@@ -1044,6 +1052,8 @@
         <entry>shortcuts</entry>
         <entry>ring-ui</entry>
         <entry>form</entry>
+        <entry>externals</entry>
+        <entry>mps</entry>
       </history-search>
       <history-cmd>
         <entry>%s/at/'at/gc</entry>
