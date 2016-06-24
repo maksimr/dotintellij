@@ -682,8 +682,8 @@
         <mark key="^" line="28" column="35" />
         <mark key="." line="28" column="35" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" timestamp="1466759066935">
-        <mark key="'" line="133" column="41" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" timestamp="1466762530600">
+        <mark key="'" line="183" column="13" />
         <mark key="[" line="139" column="0" />
         <mark key="]" line="139" column="0" />
         <mark key="." line="139" column="0" />
@@ -878,12 +878,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="6" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select.test.js" />
-      <jump line="133" column="18" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select.test.js" />
-      <jump line="136" column="22" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select.test.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/tags-input/tags-input.test.js" />
-      <jump line="141" column="4" filename="$USER_HOME$/www/jetbrains/ring-ui/components/tags-input/tags-input.js" />
-      <jump line="257" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/tags-input/tags-input.js" />
       <jump line="6" column="15" filename="$USER_HOME$/www/jetbrains/ring-ui/components/tags-input/tags-input.js" />
       <jump line="7" column="22" filename="$USER_HOME$/www/jetbrains/ring-ui/components/tags-input/tags-input.js" />
       <jump line="16" column="28" filename="$USER_HOME$/www/jetbrains/ring-ui/components/tags-input/tags-input.js" />
@@ -964,20 +958,26 @@
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
       <jump line="141" column="29" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
       <jump line="221" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
       <jump line="23" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/externals/header/template/issues-menu-create-button.html" />
-      <jump line="144" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
       <jump line="145" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
       <jump line="146" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
       <jump line="147" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
       <jump line="148" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
-      <jump line="149" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
       <jump line="150" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
       <jump line="151" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
       <jump line="152" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
       <jump line="246" column="50" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
       <jump line="252" column="50" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
       <jump line="133" column="41" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
+      <jump line="149" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
+      <jump line="83" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
+      <jump line="144" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
+      <jump line="190" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
+      <jump line="180" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
+      <jump line="181" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
+      <jump line="182" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
+      <jump line="183" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -987,7 +987,7 @@
         <text>_classpath/jquery-ui-1.8.18.custom-datepicker.css</text>
       </register>
       <register name="/" type="4">
-        <text>_classpath</text>
+        <text>issue</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAnL19jbGFzc3BhdGgvanF1ZXJ5LXVpLTEuOC4xOC5jdXN0b20tZGF0ZXBpY2tlci5jc3MnLAo=</text>
@@ -1027,9 +1027,9 @@
       </register>
     </registers>
     <search>
-      <last-search>_classpath</last-search>
+      <last-search>issue</last-search>
       <last-offset />
-      <last-pattern>_classpath</last-pattern>
+      <last-pattern>issue</last-pattern>
       <last-replace>commandDialogCtrl.</last-replace>
       <last-substitute>data\.</last-substitute>
       <last-dir>1</last-dir>
@@ -1037,9 +1037,6 @@
     </search>
     <history>
       <history-search>
-        <entry>only</entry>
-        <entry>Simulate</entry>
-        <entry>onFilter</entry>
         <entry>refs.filt</entry>
         <entry>type</entry>
         <entry>state.shortcuts</entry>
@@ -1057,6 +1054,9 @@
         <entry>__classp</entry>
         <entry>_class</entry>
         <entry>_classpath</entry>
+        <entry>fla</entry>
+        <entry>expe</entry>
+        <entry>issue</entry>
       </history-search>
       <history-cmd>
         <entry>%s/at/'at/gc</entry>
