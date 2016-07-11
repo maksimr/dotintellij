@@ -627,6 +627,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="3" column="30" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/package.json" timestamp="1468256090925">
+        <mark key="'" line="164" column="15" />
+        <mark key="[" line="164" column="0" />
+        <mark key="]" line="164" column="31" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/test/service/is-workflow-error.js" timestamp="1465550382335">
         <mark key="'" line="7" column="22" />
         <mark key="[" line="0" column="10" />
@@ -830,6 +835,9 @@
         <mark key="." line="119" column="143" />
         <mark key="^" line="119" column="143" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" timestamp="1468256429189">
+        <mark key="'" line="174" column="42" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/service/agile-board-live-updater.js" timestamp="1465820602965">
         <mark key="'" line="19" column="5" />
         <mark key="[" line="10" column="0" />
@@ -989,14 +997,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="33" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/overlay/service/overlay.js" />
-      <jump line="35" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/overlay/service/overlay.js" />
-      <jump line="28" column="3" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/overlay/test/service/overlay.js" />
-      <jump line="30" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/overlay/test/service/overlay.js" />
-      <jump line="28" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/overlay/service/overlay.js" />
-      <jump line="44" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/overlay/test/service/overlay.js" />
-      <jump line="48" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/overlay/test/service/overlay.js" />
-      <jump line="71" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/overlay/service/overlay.js" />
       <jump line="39" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/overlay/service/overlay.js" />
       <jump line="94" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/overlay/service/overlay.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/overlay/service/overlay.js" />
@@ -1089,16 +1089,24 @@
       <jump line="3" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/icon/icon.test.js" />
       <jump line="4" column="34" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/icon/icon.test.js" />
       <jump line="9" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/icon/icon.test.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/package.json" />
+      <jump line="161" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/package.json" />
+      <jump line="160" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/package.json" />
+      <jump line="164" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/package.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
+      <jump line="47" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
+      <jump line="54" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
+      <jump line="174" column="42" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdmFyIGNyZWF0ZUJvYXJkQ2VsbENhcmQgPSBmdW5jdGlvbigkZXZlbnQsIGNlbGwpIHsKICAgICAgICB2YXIgYW5jaG9yRWxlbWVudCA9ICRldmVudCAmJiAkZXZlbnQuY3VycmVudFRhcmdldDsK</text>
+        <text encoding="base64">ICAgICJqZXRicmFpbnMtbG9nb3MiOiAiMS4xLjMxIiwK</text>
       </register>
       <register name="-" type="4">
         <text>if was error when we compile template</text>
       </register>
       <register name="/" type="4">
-        <text>icon</text>
+        <text>svg</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgdmFyIGNyZWF0ZUJvYXJkQ2VsbENhcmQgPSBmdW5jdGlvbigkZXZlbnQsIGNlbGwpIHsKICAgICAgICB2YXIgYW5jaG9yRWxlbWVudCA9ICRldmVudCAmJiAkZXZlbnQuY3VycmVudFRhcmdldDsK</text>
@@ -1138,9 +1146,9 @@
       </register>
     </registers>
     <search>
-      <last-search>icon</last-search>
+      <last-search>svg</last-search>
       <last-offset />
-      <last-pattern>icon</last-pattern>
+      <last-pattern>svg</last-pattern>
       <last-replace>commandDialogCtrl.</last-replace>
       <last-substitute>data\.</last-substitute>
       <last-dir>1</last-dir>
@@ -1148,7 +1156,6 @@
     </search>
     <history>
       <history-search>
-        <entry>issueDraft</entry>
         <entry>hover</entry>
         <entry encoding="base64">XDxob3ZlckhhbmRsZXJcPg==</entry>
         <entry>bind</entry>
@@ -1166,8 +1173,9 @@
         <entry encoding="base64">XDxjb21waWxlVGVtcGxhdGVcPg==</entry>
         <entry encoding="base64">XDxjb21waWxlQ29udGVudFw+</entry>
         <entry>dialog.show</entry>
-        <entry>svg</entry>
         <entry>icon</entry>
+        <entry>logo</entry>
+        <entry>svg</entry>
       </history-search>
       <history-cmd>
         <entry>%s/at/'at/gc</entry>
