@@ -396,6 +396,11 @@
         <mark key="]" line="165" column="0" />
         <mark key="." line="165" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/teamcity-e2e-runner.sh" timestamp="1468340392074">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/projects.js" timestamp="1465993776681">
         <mark key="'" line="32" column="10" />
         <mark key="[" line="19" column="35" />
@@ -1033,8 +1038,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1513" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
-      <jump line="57" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="1506" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="12" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/directive/yt-header.js" />
       <jump line="135" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/directive/yt-header.js" />
@@ -1133,58 +1136,60 @@
       <jump line="520" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-board-settings.js" />
       <jump line="54" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/common-rest.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/common-rest.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/teamcity-e2e-runner.sh" />
+      <jump line="11" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/teamcity-e2e-runner.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bnBtIHBydW5lCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>build</text>
+        <text>prun</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkc2NvcGUuaXNMb2FkaW5nID0gdHJ1ZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8ZGl2IHl0LWxvYWRlcj0ic2NyZWVuIiBuZy1pZj0iaXNMb2FkaW5nIj48L2Rpdj4K</text>
+        <text encoding="base64">bnBtIHBydW5lCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bnBtIHBydW5lCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8eXQtbG9hZGVyIHQK</text>
+        <text encoding="base64">ICA8ZGl2IHl0LWxvYWRlcj0ic2NyZWVuIiBuZy1pZj0iaXNMb2FkaW5nIj48L2Rpdj4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICA8eXQtbG9hZGVyIGxvYWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8eXQtbG9hZGVyIHQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIG92ZXJsYXlFbC5oaWRkZW4gPSBmYWxzZTsK</text>
+        <text encoding="base64">ICA8eXQtbG9hZGVyIGxvYWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvdmVybGF5RWwuaGlkZGVuID0gdHJ1ZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxmdW4+PC9mdW4+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIG92ZXJsYXlFbC5oaWRkZW4gPSBmYWxzZTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvdmVybGF5RWwuaGlkZGVuID0gdHJ1ZTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>build</last-search>
+      <last-search>prun</last-search>
       <last-offset />
-      <last-pattern>build</last-pattern>
+      <last-pattern>prun</last-pattern>
       <last-replace>commandDialogCtrl.</last-replace>
       <last-substitute>data\.</last-substitute>
       <last-dir>1</last-dir>
@@ -1192,7 +1197,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ytDropdownShow</entry>
         <entry>showCreateDialog</entry>
         <entry encoding="base64">XDxkZWZhdWx0T3B0aW9uc1w+</entry>
         <entry>gett</entry>
@@ -1212,6 +1216,7 @@
         <entry>inline</entry>
         <entry>scope</entry>
         <entry>build</entry>
+        <entry>prun</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ytAgileIssueCreateFormCtrl/agileIssueCreateCtrl/gc</entry>
