@@ -144,12 +144,12 @@
         <mark key="." line="140" column="18" />
         <mark key="^" line="140" column="18" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/service/agile-issue-creator.js" timestamp="1468490374540">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="231" column="41" />
-        <mark key="]" line="232" column="17" />
-        <mark key="." line="232" column="17" />
-        <mark key="^" line="232" column="17" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/service/agile-issue-creator.js" timestamp="1468490714610">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="232" column="35" />
+        <mark key="]" line="232" column="35" />
+        <mark key="." line="232" column="35" />
+        <mark key="^" line="232" column="35" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-board.html" timestamp="1466672195938">
         <mark key="'" line="38" column="5" />
@@ -964,12 +964,12 @@
         <mark key="^" line="36" column="32" />
         <mark key="." line="36" column="32" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-issue-creator.js" timestamp="1468490433987">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-issue-creator.js" timestamp="1468490554350">
         <mark key="'" line="49" column="6" />
-        <mark key="[" line="222" column="32" />
-        <mark key="]" line="222" column="31" />
-        <mark key="." line="222" column="31" />
-        <mark key="^" line="222" column="31" />
+        <mark key="[" line="222" column="0" />
+        <mark key="]" line="222" column="0" />
+        <mark key="." line="222" column="0" />
+        <mark key="^" line="222" column="52" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/teamcity-integration-sidebar.js" timestamp="1465820201644">
         <mark key="'" line="48" column="22" />
@@ -1103,8 +1103,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/run-e2e.sh" />
-      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/run-e2e.sh" />
       <jump line="4" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/run-e2e.sh" />
       <jump line="51" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/run-e2e.sh" />
       <jump line="57" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/server.sh" />
@@ -1203,22 +1201,24 @@
       <jump line="7" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/overlay/test/service/overlay.js" />
       <jump line="230" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/service/agile-issue-creator.js" />
       <jump line="24" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/service/agile-issue-creator.js" />
+      <jump line="213" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/service/agile-issue-creator.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/service/agile-issue-creator.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>swimlaneIssueDraft</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>swimlaneIssueDraft</text>
+        <text>$httpBackend</text>
       </register>
       <register name="/" type="4">
-        <text>createSwim</text>
+        <text>$httBac</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1230,7 +1230,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJlZm9yZUVhY2goKTsK</text>
+        <text encoding="base64">CiAgICB2YXIgJHdpbmRvd01vY2s7CiAgICB2YXIgYm9keU5vZGVNb2NrOwogICAgYmVmb3JlRWFjaChhbmd1bGFyLm1vY2subW9kdWxlKGZ1bmN0aW9uKCRwcm92aWRlKSB7CiAgICAgIGJvZHlOb2RlTW9jayA9IGFuZ3VsYXIuZWxlbWVudCgnPGJvZHkvPicpLmdldCgwKTsKICAgICAgJHdpbmRvd01vY2sgPSB7CiAgICAgICAgZG9jdW1lbnQ6IHsKICAgICAgICAgIGJvZHk6IGJvZHlOb2RlTW9jaywKICAgICAgICAgIGNyZWF0ZUVsZW1lbnQ6IGFuZ3VsYXIubm9vcAogICAgICAgIH0KICAgICAgfTsKCiAgICAgICRwcm92aWRlLmNvbnN0YW50KCckd2luZG93JywgJHdpbmRvd01vY2spOwogICAgfSkpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -1239,22 +1239,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgIHZhciAkd2luZG93TW9jazsKICAgIHZhciBib2R5Tm9kZU1vY2s7CiAgICBiZWZvcmVFYWNoKGFuZ3VsYXIubW9jay5tb2R1bGUoZnVuY3Rpb24oJHByb3ZpZGUpIHsKICAgICAgYm9keU5vZGVNb2NrID0gYW5ndWxhci5lbGVtZW50KCc8Ym9keS8+JykuZ2V0KDApOwogICAgICAkd2luZG93TW9jayA9IHsKICAgICAgICBkb2N1bWVudDogewogICAgICAgICAgYm9keTogYm9keU5vZGVNb2NrLAogICAgICAgICAgY3JlYXRlRWxlbWVudDogYW5ndWxhci5ub29wCiAgICAgICAgfQogICAgICB9OwoKICAgICAgJHByb3ZpZGUuY29uc3RhbnQoJyR3aW5kb3cnLCAkd2luZG93TW9jayk7CiAgICB9KSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGdldFN3aW1sYW5lSXNzdWVEcmFmdCgpLnRoZW4oZnVuY3Rpb24oc3dpbWxhbmVJc3N1ZURyYWZ0KSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>createSwim</last-search>
+      <last-search>$httBac</last-search>
       <last-offset />
-      <last-pattern>createSwim</last-pattern>
+      <last-pattern>$httBac</last-pattern>
       <last-replace>VCSChanges</last-replace>
       <last-substitute>Header</last-substitute>
       <last-dir>1</last-dir>
@@ -1262,7 +1262,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDVVNUT01fUE9SVFw+</entry>
         <entry>suck</entry>
         <entry>Header</entry>
         <entry encoding="base64">XDxWQ1NDaGFuZ2VzXD4=</entry>
@@ -1282,6 +1281,7 @@
         <entry encoding="base64">XDxzaG93Q3JlYXRlRGlhbG9nXD4=</entry>
         <entry>createSwimla</entry>
         <entry>createSwim</entry>
+        <entry>$httBac</entry>
       </history-search>
       <history-cmd>
         <entry>%s/fieldType/field.type/gc</entry>
