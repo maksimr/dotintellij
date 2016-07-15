@@ -148,12 +148,11 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/input-size/input-size.scss" timestamp="1466079653088">
         <mark key="'" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/www/js/voting-server/voting-client/src/components/Voting.jsx" timestamp="1468598313203">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="11" column="15" />
+      <file name="$USER_HOME$/www/js/voting-server/voting-client/src/components/Voting.jsx" timestamp="1468599807883">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/tags-input/tags-input.js" timestamp="1466683394102">
         <mark key="'" line="3" column="78" />
@@ -381,12 +380,11 @@
         <mark key="." line="164" column="43" />
         <mark key="^" line="164" column="43" />
       </file>
-      <file name="$USER_HOME$/www/js/voting-server/voting-client/src/index.jsx" timestamp="1468515850279">
-        <mark key="'" line="12" column="2" />
-        <mark key="[" line="12" column="37" />
-        <mark key="]" line="12" column="38" />
-        <mark key="^" line="12" column="39" />
-        <mark key="." line="12" column="38" />
+      <file name="$USER_HOME$/www/js/voting-server/voting-client/src/index.jsx" timestamp="1468599856116">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="12" column="35" />
+        <mark key="]" line="12" column="36" />
+        <mark key="." line="12" column="36" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/compiler-ng/compiler-ng.js" timestamp="1468252402186">
         <mark key="'" line="2" column="0" />
@@ -1172,10 +1170,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/test/service/bundle-usages.js" />
-      <jump line="139" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/test/service/bundle-usages.js" />
-      <jump line="43" column="42" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/test/service/bundle-usages.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/test/service/bundle-usages.js" />
       <jump line="2" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/test/service/bundle-usages.js" />
       <jump line="21" column="29" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/test/service/bundle-usages.js" />
       <jump line="32" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/test/service/bundle-usages.js" />
@@ -1272,13 +1266,17 @@
       <jump line="4" column="0" filename="$USER_HOME$/www/js/voting-server/voting-client/src/components/Voting.jsx" />
       <jump line="2" column="0" filename="$USER_HOME$/www/js/voting-server/voting-client/src/components/Voting.jsx" />
       <jump line="27" column="0" filename="$USER_HOME$/www/js/voting-server/voting-client/src/components/Voting.jsx" />
+      <jump line="17" column="9" filename="$USER_HOME$/www/js/voting-server/voting-client/src/components/Voting.jsx" />
+      <jump line="29" column="0" filename="$USER_HOME$/www/js/voting-server/voting-client/src/components/Voting.jsx" />
+      <jump line="12" column="22" filename="$USER_HOME$/www/js/voting-server/voting-client/src/index.jsx" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/js/voting-server/voting-client/src/index.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPGJ1dHRvbiBjbGFzcz0icmluZy1idG4iCiAgICAgICAgICAgICAgcmctc2VsZWN0CiAgICAgICAgICAgICAgZmlsdGVyPSJ0cnVlIgogICAgICAgICAgICAgIHNlbGVjdC10eXBlPSJkcm9wZG93biIKICAgICAgICAgICAgICBvcHRpb25zPSJpdGVtLmRpc3BsYXlOYW1lIGZvciBpdGVtIGluIGdldEJ1bmRsZUxpc3QoYnVuZGxlKSB0cmFjayBieSBpdGVtLnVpZCIKICAgICAgICAgICAgICBvbi1jaGFuZ2U9Im9uUmVwbGFjZUJ1bmRsZShzZWxlY3RlZCkiCiAgICAgICAgICAgICAgbm90LWZvdW5kLW1lc3NhZ2U9Int7ICdObyBzdWl0YWJsZSB0eXBlcyB0byByZXBsYWNlJyB8IHRyYW5zbGF0ZSB9fSI+CiAgICAgICAgPHNwYW4gdHJhbnNsYXRlPlJlcGxhY2U8L3NwYW4+CiAgICAgICAgPHl0LWljb24gaWNvbj0iY2FyZXQtZG93biIgc2l6ZT0ieHMiPjwveXQtaWNvbj4KICAgICAgPC9idXR0b24+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>createBundleMock</text>
+        <text>hasVoted</text>
       </register>
       <register name="/" type="4">
         <text>merge</text>
@@ -1287,34 +1285,34 @@
         <text encoding="base64">ICAgICAgPGJ1dHRvbiBjbGFzcz0icmluZy1idG4iCiAgICAgICAgICAgICAgcmctc2VsZWN0CiAgICAgICAgICAgICAgZmlsdGVyPSJ0cnVlIgogICAgICAgICAgICAgIHNlbGVjdC10eXBlPSJkcm9wZG93biIKICAgICAgICAgICAgICBvcHRpb25zPSJpdGVtLmRpc3BsYXlOYW1lIGZvciBpdGVtIGluIGdldEJ1bmRsZUxpc3QoYnVuZGxlKSB0cmFjayBieSBpdGVtLnVpZCIKICAgICAgICAgICAgICBvbi1jaGFuZ2U9Im9uUmVwbGFjZUJ1bmRsZShzZWxlY3RlZCkiCiAgICAgICAgICAgICAgbm90LWZvdW5kLW1lc3NhZ2U9Int7ICdObyBzdWl0YWJsZSB0eXBlcyB0byByZXBsYWNlJyB8IHRyYW5zbGF0ZSB9fSI+CiAgICAgICAgPHNwYW4gdHJhbnNsYXRlPlJlcGxhY2U8L3NwYW4+CiAgICAgICAgPHl0LWljb24gaWNvbj0iY2FyZXQtZG93biIgc2l6ZT0ieHMiPjwveXQtaWNvbj4KICAgICAgPC9idXR0b24+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cmVxdWlyZSgnLi9zZXJ2aWNlL2Fzc2lnbi10by1tZScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmVxdWlyZSgnLi9zZXJ2aWNlL2Fzc2lnbi10by1tZScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVxdWlyZSgnLi8uLi9pc3N1ZS1saW5rcy9zZXJ2aWNlL2dldC1pc3N1ZS1saW5rLWRpcmVjdGlvbnMnKTsK</text>
+        <text encoding="base64">cmVxdWlyZSgnLi9zdHlsZS5jc3MnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgogIGZ1bmN0aW9uIGNyZWF0ZUJ1bmRsZU1vY2soZGF0YSkgewogICAgcmV0dXJuIHl0TW9jay5jcmVhdGVCdW5kbGVNb2NrKGRhdGEpCiAgfQo=</text>
+        <text encoding="base64">ICAgIGFsZXJ0KHRoaXMucHJvcHMud2lubmVyKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBtZXJnZSh7CiAgICAgIGlkOiBmYWtlci5yYW5kb20udXVpZCgpCiAgICB9LCBkYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhciBuZXdCdW5kbGUgPSB5dE1vY2suY3JlYXRlQnVuZGxlTW9jaygpOwo=</text>
+        <text encoding="base64">cmVxdWlyZSgnLi9zZXJ2aWNlL2Fzc2lnbi10by1tZScpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc+Pj4+Pj4nKTsK</text>
+        <text encoding="base64">cmVxdWlyZSgnLi9zZXJ2aWNlL2Fzc2lnbi10by1tZScpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY29sdW1uc0N1c3RvbUZpZWxkQnVuZGxlKTsK</text>
+        <text encoding="base64">cmVxdWlyZSgnLi8uLi9pc3N1ZS1saW5rcy9zZXJ2aWNlL2dldC1pc3N1ZS1saW5rLWRpcmVjdGlvbnMnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc+Pj4+JywgYnVuZGxlSWQpOwo=</text>
+        <text encoding="base64">CgogIGZ1bmN0aW9uIGNyZWF0ZUJ1bmRsZU1vY2soZGF0YSkgewogICAgcmV0dXJuIHl0TW9jay5jcmVhdGVCdW5kbGVNb2NrKGRhdGEpCiAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
