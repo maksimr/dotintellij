@@ -861,6 +861,9 @@
         <mark key="." line="41" column="40" />
         <mark key="^" line="41" column="40" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/invalid-board.js" timestamp="1468858763459">
+        <mark key="'" line="39" column="28" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-board-issue-create.html" timestamp="1466686333951">
         <mark key="'" line="29" column="68" />
         <mark key="[" line="0" column="129" />
@@ -1263,8 +1266,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/style/yt-swimlane-column.scss" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/style/yt-swimlane-column.scss" />
       <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dropdown/service/yt-dropdown.js" />
       <jump line="141" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dropdown/service/yt-dropdown.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dropdown/service/yt-dropdown.js" />
@@ -1363,6 +1364,8 @@
       <jump line="2" column="1" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-swimlane-column.js" />
       <jump line="60" column="68" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-swimlane-column.js" />
       <jump line="10" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/test/unit/jasmine-global.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/invalid-board.js" />
+      <jump line="39" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/invalid-board.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1372,7 +1375,7 @@
         <text>bar</text>
       </register>
       <register name="/" type="4">
-        <text>onCreate</text>
+        <text>delete</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBmaXQoJ3Nob3VsZCBiZSB0cnVlJywgZnVuY3Rpb24oKSB7CiAgICB2YXIgbXlSZWdFeHAgPSB0aGlzLnRvUmVnRXhwKCcvZm9vL2JhclxcP209a29vXFwoaWRcXCkmem9vJyk7Cg==</text>
@@ -1412,9 +1415,9 @@
       </register>
     </registers>
     <search>
-      <last-search>onCreate</last-search>
+      <last-search>delete</last-search>
       <last-offset />
-      <last-pattern>onCreate</last-pattern>
+      <last-pattern>delete</last-pattern>
       <last-replace>VCSChanges</last-replace>
       <last-substitute>Header</last-substitute>
       <last-dir>1</last-dir>
@@ -1422,7 +1425,6 @@
     </search>
     <history>
       <history-search>
-        <entry>add</entry>
         <entry encoding="base64">XDxJTkxJTkVfTE9BREVSX1RPR0dMRVJcPg==</entry>
         <entry>loading</entry>
         <entry>action</entry>
@@ -1442,6 +1444,7 @@
         <entry encoding="base64">XDxjcmVhdGVDYXJkXD4=</entry>
         <entry>$q</entry>
         <entry>onCreate</entry>
+        <entry>delete</entry>
       </history-search>
       <history-cmd>
         <entry>%s/fieldType/field.type/gc</entry>
