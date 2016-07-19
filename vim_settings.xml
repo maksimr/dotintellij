@@ -503,6 +503,13 @@
         <mark key="^" line="28" column="35" />
         <mark key="." line="28" column="35" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" timestamp="1468927197604">
+        <mark key="'" line="110" column="8" />
+        <mark key="[" line="27" column="18" />
+        <mark key="]" line="27" column="18" />
+        <mark key="^" line="27" column="18" />
+        <mark key="." line="27" column="18" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/ring-ui/components/contenteditable/contenteditable.test.js" timestamp="1465204473480">
         <mark key="'" line="67" column="0" />
         <mark key="[" line="59" column="0" />
@@ -1270,11 +1277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-swimlane-column.js" />
-      <jump line="40" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-swimlane-column.js" />
-      <jump line="24" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-swimlane-column.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-swimlane-column.js" />
-      <jump line="23" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-swimlane-column.js" />
       <jump line="146" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-swimlane-column.js" />
       <jump line="27" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-swimlane-column.js" />
       <jump line="121" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-swimlane-column.js" />
@@ -1370,6 +1372,11 @@
       <jump line="177" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/agile-board.js" />
       <jump line="12" column="0" filename="$USER_HOME$/www/js/voting-server/voting-client/test/components/Voting_spec.jsx" />
       <jump line="104" column="0" filename="$USER_HOME$/www/js/voting-server/voting-client/test/components/Voting_spec.jsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
+      <jump line="106" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
+      <jump line="110" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
+      <jump line="105" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
+      <jump line="109" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1379,7 +1386,7 @@
         <text>bar</text>
       </register>
       <register name="/" type="4">
-        <text>stag</text>
+        <text>https</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZ1bmN0aW9uIGNyZWF0ZUFnaWxlTW9jayhpc0lzc3VlQmFzZWQsIGVzdGltYXRpb25GaWVsZCwgY29sdW1uRmllbGQsIHN3aW1sYW5lRmllbGQpIHsKICAgICAgcmV0dXJuIHsK</text>
@@ -1419,9 +1426,9 @@
       </register>
     </registers>
     <search>
-      <last-search>stag</last-search>
+      <last-search>https</last-search>
       <last-offset />
-      <last-pattern>stag</last-pattern>
+      <last-pattern>https</last-pattern>
       <last-replace>VCSChanges</last-replace>
       <last-substitute>Header</last-substitute>
       <last-dir>1</last-dir>
@@ -1429,7 +1436,6 @@
     </search>
     <history>
       <history-search>
-        <entry>create-card</entry>
         <entry>create</entry>
         <entry encoding="base64">XDxjcmVhdGVDYXJkXD4=</entry>
         <entry>$q</entry>
@@ -1449,6 +1455,7 @@
         <entry>'</entry>
         <entry>agiles</entry>
         <entry>stag</entry>
+        <entry>https</entry>
       </history-search>
       <history-cmd>
         <entry>%s/fieldType/field.type/gc</entry>
