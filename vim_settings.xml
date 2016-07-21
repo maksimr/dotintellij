@@ -192,7 +192,7 @@
         <mark key="." line="229" column="1" />
         <mark key="^" line="229" column="1" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-board.html" timestamp="1469092367503">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-board.html" timestamp="1469100219261">
         <mark key="'" line="0" column="2" />
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
@@ -860,8 +860,8 @@
         <mark key="." line="145" column="4" />
         <mark key="^" line="145" column="4" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-board-settings.js" timestamp="1469007928846">
-        <mark key="'" line="5" column="2" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-board-settings.js" timestamp="1469100253285">
+        <mark key="'" line="66" column="13" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="43" />
         <mark key="." line="166" column="0" />
@@ -1153,6 +1153,12 @@
         <mark key="]" line="32" column="46" />
         <mark key="." line="32" column="46" />
         <mark key="^" line="32" column="46" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/service/create-custom-field-template.js" timestamp="1469016424324">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="40" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/agile-board.js" timestamp="1465993094600">
         <mark key="'" line="0" column="0" />
@@ -1460,12 +1466,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="0" filename="$USER_HOME$/www/js/voting-server/voting-client/test/components/Voting_spec.jsx" />
-      <jump line="107" column="3" filename="$USER_HOME$/www/js/voting-server/voting-client/test/components/Voting_spec.jsx" />
-      <jump line="9" column="0" filename="$USER_HOME$/www/js/voting-server/voting-client/test/components/Voting_spec.jsx" />
-      <jump line="13" column="6" filename="$USER_HOME$/www/js/voting-server/voting-client/src/components/Vote.jsx" />
-      <jump line="8" column="0" filename="$USER_HOME$/www/js/voting-server/voting-client/src/components/Voting.jsx" />
-      <jump line="14" column="6" filename="$USER_HOME$/www/js/voting-server/voting-client/src/components/Vote.jsx" />
       <jump line="3" column="0" filename="$USER_HOME$/www/js/voting-server/voting-client/src/components/Vote.jsx" />
       <jump line="6" column="2" filename="$USER_HOME$/www/js/voting-server/voting-client/src/components/Winner.jsx" />
       <jump line="12" column="0" filename="$USER_HOME$/www/js/voting-server/voting-client/src/index.jsx" />
@@ -1560,6 +1560,12 @@
       <jump line="167" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/style/agile-table.scss" />
       <jump line="168" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/style/agile-table.scss" />
       <jump line="6" column="1" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/style/agile-table.scss" />
+      <jump line="563" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-board-settings.js" />
+      <jump line="45" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-board-settings.js" />
+      <jump line="71" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-board-settings.js" />
+      <jump line="59" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-board-settings.js" />
+      <jump line="60" column="77" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-board-settings.js" />
+      <jump line="66" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-board-settings.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1569,7 +1575,7 @@
         <text encoding="base64">IGpzLWFnaWxlLXRhYmxlIg==</text>
       </register>
       <register name="/" type="4">
-        <text>collaps</text>
+        <text encoding="base64">XDxyZWxvYWRBZ2lsZVNldHRpbmdzU3RhdHVzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiAkYWdpbGUtdGFibGUtYmFja2dyb3VuZDsKCg==</text>
@@ -1609,18 +1615,16 @@
       </register>
     </registers>
     <search>
-      <last-search>collaps</last-search>
+      <last-search encoding="base64">XDxyZWxvYWRBZ2lsZVNldHRpbmdzU3RhdHVzXD4=</last-search>
       <last-offset />
-      <last-pattern>collaps</last-pattern>
+      <last-pattern encoding="base64">XDxyZWxvYWRBZ2lsZVNldHRpbmdzU3RhdHVzXD4=</last-pattern>
       <last-replace>VCSChanges</last-replace>
       <last-substitute>Header</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>rela</entry>
-        <entry>relayout</entry>
         <entry>imm</entry>
         <entry>yt-board</entry>
         <entry>ytBoard</entry>
@@ -1639,6 +1643,8 @@
         <entry>cell</entry>
         <entry>collapsed</entry>
         <entry>collaps</entry>
+        <entry>status</entry>
+        <entry encoding="base64">XDxyZWxvYWRBZ2lsZVNldHRpbmdzU3RhdHVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/xxCom/rgCom/gc</entry>
