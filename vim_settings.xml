@@ -306,12 +306,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/notification-templates/yt-template-preview-island.html" timestamp="1468413430265">
         <mark key="'" line="7" column="5" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/permission-store.js" timestamp="1469443514077">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="7" column="58" />
-        <mark key="]" line="8" column="21" />
-        <mark key="." line="8" column="21" />
-        <mark key="^" line="8" column="21" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/permission-store.js" timestamp="1469444356238">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="29" column="77" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/permissions/permissions__cache.js" timestamp="1469436518186">
         <mark key="'" line="230" column="10" />
@@ -503,12 +503,12 @@
         <mark key="." line="4" column="1" />
         <mark key="^" line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/test/service/permission-store.js" timestamp="1469443234681">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/test/service/permission-store.js" timestamp="1469444380214">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="2" column="32" />
-        <mark key="]" line="2" column="36" />
-        <mark key="." line="2" column="36" />
-        <mark key="^" line="2" column="36" />
+        <mark key="[" line="60" column="3" />
+        <mark key="]" line="60" column="1" />
+        <mark key="." line="60" column="1" />
+        <mark key="^" line="60" column="1" />
       </file>
       <file name="$USER_HOME$/www/js/voting-server/voting-client/src/index.jsx" timestamp="1469219809398">
         <mark key="'" line="22" column="34" />
@@ -1507,9 +1507,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/www/js/voting-server/voting-client/src/components/Vote.jsx" />
-      <jump line="31" column="0" filename="$USER_HOME$/www/js/voting-server/voting-client/src/components/Vote.jsx" />
-      <jump line="201" column="43" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/column-settings.js" />
       <jump line="22" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/column-settings.js" />
       <jump line="253" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/column-settings.js" />
       <jump line="16" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/permissions-ng/permissions-ng.js" />
@@ -1607,46 +1604,49 @@
       <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/test/service/permission-store.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/permission-store.js" />
       <jump line="6" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/permission-store.js" />
+      <jump line="40" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/permission-store.js" />
+      <jump line="26" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/permission-store.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/permission-store.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGFyZ3MpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cmV0dXJuIA==</text>
+        <text>slice</text>
       </register>
       <register name="/" type="4">
         <text>use(</text>
       </register>
-      <register name="0" type="4">
-        <text>permissionStore</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgZXhwZWN0KHJlc3VsdCkudG9FcXVhbChwZXJtaXNzaW9uVmFsdWUpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGFyZ3MpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXJndW1lbnRzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGFyZ3MpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cocHJvamVjdElkKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHsKICAgICAgICBoYXM6IAogICAgICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiB2YWx1ZTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
