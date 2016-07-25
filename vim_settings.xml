@@ -17,7 +17,7 @@
         <mark key="^" line="92" column="36" />
         <mark key="." line="92" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/permission-route-decorator.js" timestamp="1469459080220">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/permission-route-decorator.js" timestamp="1469466845490">
         <mark key="'" line="88" column="2" />
         <mark key="[" line="66" column="42" />
         <mark key="]" line="66" column="46" />
@@ -205,6 +205,9 @@
         <mark key="]" line="1" column="16" />
         <mark key="." line="1" column="16" />
         <mark key="^" line="1" column="16" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/workflows.js" timestamp="1469466876005">
+        <mark key="'" line="38" column="56" />
       </file>
       <file name="$USER_HOME$/www/js/karma/lib/server.js" timestamp="1466962878463">
         <mark key="'" line="413" column="0" />
@@ -1578,12 +1581,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/create-permission-cache-middleware.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/permission.js" />
-      <jump line="74" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/permissions-ng/permissions-ng.js" />
-      <jump line="160" column="58" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/permissions-ng/permissions-ng.js" />
-      <jump line="108" column="58" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/permissions-ng/permissions-ng.js" />
-      <jump line="3" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/permissions-ng/permissions-ng.js" />
       <jump line="161" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/permissions-ng/permissions-ng.js" />
       <jump line="58" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/permissions-ng/permissions-ng.js" />
       <jump line="27" column="33" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/permissions/permissions.js" />
@@ -1677,7 +1674,13 @@
       <jump line="46" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/permission-route-decorator.js" />
       <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/permission-route-decorator.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/permission-route-decorator.js" />
+      <jump line="25" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/permission-route-decorator.js" />
       <jump line="88" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/permission-route-decorator.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/workflows.js" />
+      <jump line="8" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/workflows.js" />
+      <jump line="9" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/workflows.js" />
+      <jump line="27" column="55" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/workflows.js" />
+      <jump line="38" column="56" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/workflows.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1687,7 +1690,7 @@
         <text>notExistedPermission</text>
       </register>
       <register name="/" type="4">
-        <text>todo</text>
+        <text>i18n</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAK</text>
@@ -1727,9 +1730,9 @@
       </register>
     </registers>
     <search>
-      <last-search>todo</last-search>
+      <last-search>i18n</last-search>
       <last-offset />
-      <last-pattern>todo</last-pattern>
+      <last-pattern>i18n</last-pattern>
       <last-replace>VCSChanges</last-replace>
       <last-substitute>Header</last-substitute>
       <last-dir>1</last-dir>
@@ -1737,7 +1740,6 @@
     </search>
     <history>
       <history-search>
-        <entry>project-create</entry>
         <entry>PERMI</entry>
         <entry>use(</entry>
         <entry>async</entry>
@@ -1754,9 +1756,10 @@
         <entry>userPermi</entry>
         <entry>permissionsSto</entry>
         <entry>type</entry>
-        <entry>error</entry>
         <entry encoding="base64">XDxwZXJtaXNzaW9uc1N0b3JlXD4=</entry>
         <entry>todo</entry>
+        <entry>error</entry>
+        <entry>i18n</entry>
       </history-search>
       <history-cmd>
         <entry>%s/xxCom/rgCom/gc</entry>
