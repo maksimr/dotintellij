@@ -1355,6 +1355,9 @@
         <mark key="^" line="0" column="17" />
         <mark key="." line="0" column="17" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/error.js" timestamp="1469692723819">
+        <mark key="'" line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/template/yt-header-navigation-menu.html" timestamp="1468327118859">
         <mark key="'" line="33" column="0" />
       </file>
@@ -1649,7 +1652,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/directive/yt-header.js" />
       <jump line="77" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth-ng/auth-ng.js" />
       <jump line="10" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/directive/yt-header.js" />
       <jump line="20" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/test/directive/yt-header.js" />
@@ -1749,6 +1751,7 @@
       <jump line="116" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/issue-tree-model.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/issue-tree-model.js" />
       <jump line="11" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/issue-tree-model.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/error.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1758,7 +1761,7 @@
         <text>openClassName</text>
       </register>
       <register name="/" type="4">
-        <text>columnSettings.columns.push</text>
+        <text>isUn</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2YXIgaXNBbHJlYWR5VXNlZCA9IGNvbHVtblNldHRpbmdzQ3RybC5jb2x1bW5TZXR0aW5ncy5jb2x1bW5zLnNvbWUoZnVuY3Rpb24oY29sdW1uKSB7CiAgICAgICAgICByZXR1cm4gY29sdW1uLm5hbWUgPT09IHZhbHVlLm5hbWU7Cg==</text>
@@ -1798,9 +1801,9 @@
       </register>
     </registers>
     <search>
-      <last-search>columnSettings.columns.push</last-search>
+      <last-search>isUn</last-search>
       <last-offset />
-      <last-pattern>columnSettings.columns.push</last-pattern>
+      <last-pattern>isUn</last-pattern>
       <last-replace>VCSChanges</last-replace>
       <last-substitute>Header</last-substitute>
       <last-dir>1</last-dir>
@@ -1808,8 +1811,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpUmVhY3RIZWFkZXJNb2NrXD4=</entry>
-        <entry>auth</entry>
         <entry encoding="base64">XDxzZXRNZW51SXRlbUVuYWJsZWRcPg==</entry>
         <entry>disable</entry>
         <entry>enabl</entry>
@@ -1828,6 +1829,8 @@
         <entry>getBoardName</entry>
         <entry encoding="base64">XDxhcHBseU5ld1NldHRpbmdzV2l0aFN0YXR1c1VwZGF0ZVw+</entry>
         <entry>columnSettings.columns.push</entry>
+        <entry>config</entry>
+        <entry>isUn</entry>
       </history-search>
       <history-cmd>
         <entry>%s/xxCom/rgCom/gc</entry>
