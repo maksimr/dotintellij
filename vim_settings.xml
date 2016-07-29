@@ -295,8 +295,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/README.md" timestamp="1468481983666">
         <mark key="'" line="38" column="87" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1469812195664">
-        <mark key="'" line="1475" column="29" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1469813296020">
+        <mark key="'" line="1095" column="57" />
         <mark key="[" line="1444" column="27" />
         <mark key="]" line="1444" column="37" />
         <mark key="." line="1444" column="37" />
@@ -1797,17 +1797,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="204" column="71" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-card.js" />
-      <jump line="68" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-card.js" />
-      <jump line="240" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-card.js" />
-      <jump line="57" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/slider/test/directive/yt-slider.js" />
-      <jump line="347" column="50" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/slider/directive/yt-slider.js" />
-      <jump line="269" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/slider/directive/yt-slider.js" />
-      <jump line="268" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/slider/directive/yt-slider.js" />
-      <jump line="165" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/slider/directive/yt-slider.js" />
-      <jump line="106" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/slider/directive/yt-slider.js" />
-      <jump line="267" column="46" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/slider/directive/yt-slider.js" />
-      <jump line="266" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/slider/directive/yt-slider.js" />
       <jump line="252" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/slider/directive/yt-slider.js" />
       <jump line="304" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/slider/directive/yt-slider.js" />
       <jump line="327" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/slider/directive/yt-slider.js" />
@@ -1897,6 +1886,17 @@
       <jump line="74" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/agile-board.js" />
       <jump line="100" column="39" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/agile-board.js" />
       <jump line="101" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/agile-board.js" />
+      <jump line="18" column="41" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="110" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="1623" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="753" column="41" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="658" column="39" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="683" column="58" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="688" column="43" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="1101" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="1102" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="1095" column="57" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1906,7 +1906,7 @@
         <text>agileBoardUserProfilerResolve</text>
       </register>
       <register name="/" type="4">
-        <text>Profile</text>
+        <text>backlogModel</text>
       </register>
       <register name="0" type="4">
         <text>agileBoardUserProfileResolve</text>
@@ -1946,9 +1946,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Profile</last-search>
+      <last-search>backlogModel</last-search>
       <last-offset />
-      <last-pattern>Profile</last-pattern>
+      <last-pattern>backlogModel</last-pattern>
       <last-replace>VCSChanges</last-replace>
       <last-substitute>Header</last-substitute>
       <last-dir>1</last-dir>
@@ -1956,8 +1956,6 @@
     </search>
     <history>
       <history-search>
-        <entry>setModelValue</entry>
-        <entry>$viewValue</entry>
         <entry>cardSize</entry>
         <entry encoding="base64">XDxvbkNoYW5nZUNhcmRTaXplXD4=</entry>
         <entry>onCh</entry>
@@ -1968,7 +1966,6 @@
         <entry encoding="base64">XDxhZ2lsZUJvYXJkVXNlclByb2ZpbGVSZXNvbHZlXD4=</entry>
         <entry>default</entry>
         <entry>DEFAULT</entry>
-        <entry>update</entry>
         <entry>onCard</entry>
         <entry>onChange</entry>
         <entry encoding="base64">XDxvbkNoYW5nZUNhcmREZXRhaWxMZXZlbFw+</entry>
@@ -1976,6 +1973,9 @@
         <entry>userProfi</entry>
         <entry>Resolve</entry>
         <entry>Profile</entry>
+        <entry>update</entry>
+        <entry>model</entry>
+        <entry>backlogModel</entry>
       </history-search>
       <history-cmd>
         <entry>%s/xxCom/rgCom/gc</entry>
