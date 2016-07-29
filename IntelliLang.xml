@@ -81,5 +81,9 @@
       <display-name>yt-custom-field-create-form/@on-create</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-create")).withParent(xmlTag().withLocalName(string().equalTo("yt-custom-field-create-form")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-slider/@on-change</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-change")).withParent(xmlTag().withLocalName(string().equalTo("yt-slider")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
   </component>
 </application>
