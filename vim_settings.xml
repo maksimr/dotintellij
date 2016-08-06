@@ -1041,6 +1041,9 @@
         <mark key="^" line="2" column="31" />
         <mark key="." line="2" column="31" />
       </file>
+      <file name="/fragment.java" timestamp="1470499714198">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.test.js" timestamp="1468942798737">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="189" column="0" />
@@ -1379,12 +1382,12 @@
         <mark key="." line="106" column="0" />
         <mark key="^" line="94" column="3" />
       </file>
-      <file name="$USER_HOME$/www/js/HelloWorldReact/test/components/Issue_spec.js" timestamp="1470419963122">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="11" column="4" />
-        <mark key="]" line="11" column="3" />
-        <mark key="." line="11" column="3" />
-        <mark key="^" line="11" column="3" />
+      <file name="$USER_HOME$/www/js/HelloWorldReact/test/components/Issue_spec.js" timestamp="1470500203638">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="19" column="43" />
+        <mark key="]" line="19" column="42" />
+        <mark key="." line="19" column="42" />
+        <mark key="^" line="19" column="42" />
       </file>
       <file name="$USER_HOME$/www/js/voting-server/node_modules/chai/lib/chai.js" timestamp="1466195231384">
         <mark key="'" line="77" column="39" />
@@ -1961,14 +1964,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/www/js/issues/src/App.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/www/js/issues/src/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/js/issues/src/index.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/www/js/issues/index.html" />
-      <jump line="10" column="0" filename="$USER_HOME$/www/js/issues/src/components/App.js" />
-      <jump line="11" column="0" filename="$USER_HOME$/www/js/issues/src/components/App.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/js/issues/src/components/IssueList.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/www/js/issues/src/components/Issue.jsx" />
       <jump line="5" column="0" filename="$USER_HOME$/www/js/issues/src/components/Issue.jsx" />
       <jump line="2" column="0" filename="$USER_HOME$/www/js/issues/src/components/Issue.jsx" />
       <jump line="11" column="0" filename="$USER_HOME$/www/js/issues/src/components/Issue.jsx" />
@@ -2029,9 +2024,6 @@
       <jump line="7" column="10" filename="$USER_HOME$/www/js/HelloWorldReact/src/components/Issue.jsx" />
       <jump line="1" column="30" filename="$USER_HOME$/www/js/HelloWorldReact/test/components/Issue_spec.js" />
       <jump line="21" column="0" filename="$USER_HOME$/www/js/HelloWorldReact/test/components/Issue_spec.js" />
-      <jump line="27" column="0" filename="$USER_HOME$/www/js/HelloWorldReact/test/components/Issue_spec.js" />
-      <jump line="22" column="0" filename="$USER_HOME$/www/js/HelloWorldReact/test/components/Issue_spec.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/js/HelloWorldReact/test/components/Issue_spec.js" />
       <jump line="8" column="0" filename="$USER_HOME$/www/js/HelloWorldReact/src/components/Issue.jsx" />
       <jump line="9" column="0" filename="$USER_HOME$/www/js/HelloWorldReact/src/components/Issue.jsx" />
       <jump line="20" column="0" filename="$USER_HOME$/www/js/HelloWorldReact/src/components/Issue.jsx" />
@@ -2061,13 +2053,24 @@
       <jump line="152" column="11" filename="$USER_HOME$/www/js/HelloWorldReact/node_modules/react/lib/ReactTestUtils.js" />
       <jump line="19" column="5" filename="$USER_HOME$/www/js/HelloWorldReact/test/components/Issue_spec.js" />
       <jump line="20" column="0" filename="$USER_HOME$/www/js/HelloWorldReact/test/components/Issue_spec.js" />
+      <jump line="18" column="5" filename="$USER_HOME$/www/js/HelloWorldReact/test/components/Issue_spec.js" />
+      <jump line="17" column="10" filename="$USER_HOME$/www/js/HelloWorldReact/test/components/Issue_spec.js" />
+      <jump line="2" column="13" filename="$USER_HOME$/www/js/HelloWorldReact/test/components/Issue_spec.js" />
+      <jump line="25" column="4" filename="$USER_HOME$/www/js/HelloWorldReact/test/components/Issue_spec.js" />
+      <jump line="26" column="0" filename="$USER_HOME$/www/js/HelloWorldReact/test/components/Issue_spec.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/www/js/HelloWorldReact/test/components/Issue_spec.js" />
+      <jump line="5" column="13" filename="$USER_HOME$/www/js/HelloWorldReact/test/components/Issue_spec.js" />
+      <jump line="13" column="27" filename="$USER_HOME$/www/js/HelloWorldReact/test/components/Issue_spec.js" />
+      <jump line="22" column="10" filename="$USER_HOME$/www/js/HelloWorldReact/test/components/Issue_spec.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/js/HelloWorldReact/test/components/Issue_spec.js" />
+      <jump line="27" column="0" filename="$USER_HOME$/www/js/HelloWorldReact/test/components/Issue_spec.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.only</text>
+        <text>findDOMNode</text>
       </register>
       <register name="-" type="4">
-        <text>.only</text>
+        <text>findDOMNode</text>
       </register>
       <register name="/" type="4">
         <text>find</text>
@@ -2076,34 +2079,34 @@
         <text>findRenderedComponentWithType</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnPj4+Jyk7Cg==</text>
+        <text encoding="base64">dmFyIGZvbyA9IDFqamsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBmaW5kUmVuZGVyZWRDb21wb25lbnRXaXRoVHlwZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZpbmRSZW5kZXJlZENvbXBvbmVudFdpdGhUeXBlKGlzc3VlQ29tcG9uZW50LCAnJykK</text>
+        <text encoding="base64">ICBIZWxsbwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBnZXRSZW5kZXJlZENoaWxkT2ZDb21wb3NpdGVDb21wb25lbnQK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnPj4+Jyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">SXNzdWUucHJvcFR5cGVzID0gewogIGlzc3VlOiBSZWFjdC5Qcm9wVHlwZXMub2JqZWN0LmlzUmVxdWlyZWQKfTsK</text>
+        <text encoding="base64">ICBmaW5kUmVuZGVyZWRDb21wb25lbnRXaXRoVHlwZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZpbmRSZW5kZXJlZENvbXBvbmVudFdpdGhUeXBlKGlzc3VlQ29tcG9uZW50LCAnJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzdGF0aWMgcHJvcFR5cGVzOiB7CgoKICB9Cg==</text>
+        <text encoding="base64">ICBnZXRSZW5kZXJlZENoaWxkT2ZDb21wb3NpdGVDb21wb25lbnQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
