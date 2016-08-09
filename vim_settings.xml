@@ -1078,12 +1078,12 @@
         <mark key="." line="167" column="50" />
         <mark key="^" line="167" column="50" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/test/service/load-youtrack-projects.js" timestamp="1470747390613">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/test/service/load-youtrack-projects.js" timestamp="1470747581530">
         <mark key="'" line="74" column="2" />
-        <mark key="[" line="75" column="8" />
-        <mark key="]" line="75" column="30" />
-        <mark key="." line="75" column="30" />
-        <mark key="^" line="75" column="30" />
+        <mark key="[" line="94" column="53" />
+        <mark key="]" line="94" column="66" />
+        <mark key="." line="94" column="66" />
+        <mark key="^" line="94" column="66" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/yt-apply-command.js" timestamp="1465389288160">
         <mark key="'" line="46" column="2" />
@@ -2154,46 +2154,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>loadYouTrackProjects</text>
+        <text>load</text>
       </register>
       <register name="-" type="4">
-        <text>loadYouTrackProjects</text>
+        <text>load</text>
       </register>
       <register name="/" type="4">
         <text>pwCon</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBpdCgnc2hvdWxkIGFsbG93IGxvYWQgZGVmaW5lZCBjb3VudCBvZiBsb2FkZWQgcHJvamVjdHMnLCBmdW5jdGlvbigpIHsKICAgIHZhciAkdG9wID0gMTA7Cg==</text>
+        <text encoding="base64">CiAgaXQoJ3Nob3VsZCBsb2FkIGEgY2VydGFpbiBudW1iZXIgb2YgcHJvamVjdHMnLCBmdW5jdGlvbigpIHsKICAgIHZhciAkdG9wID0gMTA7CiAgICB2YXIgbG9hZFRvcFRlbllvdVRyYWNrUHJvamVjdHMgPSBjcmVhdGVTZXJ2aWNlUmVzb3VyY2VMb2FkZXIoc2VydmljZUlkKSgkdG9wKTsKCiAgICAkaHR0cEJhY2tlbmQuZXhwZWN0R0VUKGdldFJlc291cmNlVXJsKHskdG9wOiAkdG9wfSkpLnJlc3BvbmQoewogICAgICByZXNvdXJjZXM6IFtdLAogICAgICB0b3A6ICR0b3AsCiAgICAgIHRvdGFsOiAwCiAgICB9KTsKCiAgICBsb2FkVG9wVGVuWW91VHJhY2tQcm9qZWN0cygpOwoKICAgICRodHRwQmFja2VuZC5mbHVzaCgpOwogIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB2YXIgbG9hZFlvdVRyYWNrUHJvamVjdHM7Cg==</text>
+        <text encoding="base64">CiAgICBsb2FkVG9wVGVuWW91VHJhY2tQcm9qZWN0cygpLnRoZW4oZnVuY3Rpb24ocmVzcG9uc2UpIHsKICAgICAgcmVzcG9uc2UubmV4dCgpCiAgICB9KTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbG9hZFlvdVRyYWNrUHJvamVjdHMgPSBjcmVhdGVTZXJ2aWNlUmVzb3VyY2VMb2FkZXIoc2VydmljZUlkKSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgJHRvcDogNTAK</text>
+        <text encoding="base64">ICB2YXIgbG9hZFlvdVRyYWNrUHJvamVjdHM7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGxvYWRTZXJ2aWNlUmVzb3VyY2UoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBzZXJ2aWNlSWQ6IHNlcnZpY2VJZCwKICAgICAgICAgICAgICBmaWVsZHM6ICdpZCxuYW1lLGtleSxwcm9qZWN0KGlkKSx0b3RhbCcKICAgICAgICAgICAgfSkuJHByb21pc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgbG9hZFlvdVRyYWNrUHJvamVjdHMgPSBjcmVhdGVTZXJ2aWNlUmVzb3VyY2VMb2FkZXIoc2VydmljZUlkKSgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJHRvcDogNTAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
