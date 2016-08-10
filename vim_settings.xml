@@ -31,6 +31,9 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="27" />
       </file>
+      <file name="/a.dummy" timestamp="1470666622836">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-info.js" timestamp="1470825903480">
         <mark key="'" line="113" column="6" />
         <mark key="[" line="125" column="0" />
@@ -543,6 +546,9 @@
         <mark key="]" line="9" column="11" />
         <mark key="." line="9" column="11" />
         <mark key="^" line="9" column="11" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1470832992722">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/template/command-dialog.html" timestamp="1466595526471">
         <mark key="'" line="5" column="0" />
@@ -1647,6 +1653,9 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="92" />
       </file>
+      <file name="/fragment.js2" timestamp="1470650036113">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/package.json" timestamp="1470314178807">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="16" column="50" />
@@ -1660,6 +1669,9 @@
         <mark key="]" line="2" column="31" />
         <mark key="^" line="2" column="31" />
         <mark key="." line="2" column="31" />
+      </file>
+      <file name="/fragment.java" timestamp="1470499714198">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.test.js" timestamp="1468942798737">
         <mark key="'" line="0" column="0" />
@@ -1775,12 +1787,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sticky-panel/directive/yt-sticky-panel.js" timestamp="1470222540233">
         <mark key="'" line="132" column="2" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/template/projects-info.html" timestamp="1470825631072">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/template/projects-info.html" timestamp="1470832882750">
         <mark key="'" line="21" column="45" />
-        <mark key="[" line="21" column="78" />
-        <mark key="]" line="21" column="92" />
-        <mark key="." line="21" column="92" />
-        <mark key="^" line="21" column="92" />
       </file>
       <file name="$USER_HOME$/www/js/voting-server/test/immutable_spec.js" timestamp="1466367260919">
         <mark key="'" line="55" column="13" />
@@ -2069,13 +2077,6 @@
         <mark key="^" line="102" column="7" />
         <mark key="." line="102" column="7" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects.js" timestamp="1470831974054">
-        <mark key="'" line="24" column="5" />
-        <mark key="[" line="21" column="31" />
-        <mark key="]" line="22" column="5" />
-        <mark key="^" line="22" column="5" />
-        <mark key="." line="22" column="5" />
-      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-toolbar.html" timestamp="1469002168940">
         <mark key="'" line="86" column="0" />
       </file>
@@ -2154,7 +2155,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-info.js" />
       <jump line="28" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-info.js" />
       <jump line="103" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/test/controller/projects-info.js" />
       <jump line="110" column="34" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/test/controller/projects-info.js" />
@@ -2254,19 +2254,20 @@
       <jump line="6" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects.js" />
       <jump line="87" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects.js" />
       <jump line="24" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZWxvYWRPblNlYXJjaDogZmFsc2UsCg==</text>
+      <register name="&quot;" type="4">
+        <text>projectsInfoCtrl.project.iconUrl</text>
       </register>
       <register name="-" type="4">
-        <text>getProjectsQuery</text>
+        <text>projectsInfoCtrl.project.iconUrl</text>
       </register>
       <register name="/" type="4">
-        <text>filter</text>
+        <text>icon</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZWxvYWRPblNlYXJjaDogZmFsc2UsCg==</text>
+      <register name="0" type="4">
+        <text>iconUrl</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2275,37 +2276,37 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcXVlcnkgPT09IHRydWUgPyAnJyA6IHF1ZXJ5Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcXVlcnkgPT09IHRydWUgPyAnJyA6IHF1ZXJ5Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBmdW5jdGlvbigpIHsKICAgIH07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBmdW5jdGlvbigpIHsKICAgIH07Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdmFyIHF1ZXJ5ID0gJGxvY2F0aW9uLnNlYXJjaCgpLnF1ZXJ5OwogICAgICByZXR1cm4gcXVlcnkgPT09IHRydWUgPyAnJyA6IHF1ZXJ5Owo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgdmFyIHF1ZXJ5ID0gJGxvY2F0aW9uLnNlYXJjaCgpLnF1ZXJ5OwogICAgICByZXR1cm4gcXVlcnkgPT09IHRydWUgPyAnJyA6IHF1ZXJ5Owo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>filter</last-search>
+      <last-search>icon</last-search>
       <last-offset />
-      <last-pattern>filter</last-pattern>
+      <last-pattern>icon</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2313,7 +2314,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmaWx0ZXJHbG9iYWxQcm9qZWN0XD4=</entry>
         <entry encoding="base64">XDxwd0h1YlJlc291cmNlXD4=</entry>
         <entry encoding="base64">XDxwcm9qZWN0TGlzdFJlc291cmNlXD4=</entry>
         <entry encoding="base64">XDxyb290U2NvcGVcPg==</entry>
@@ -2333,6 +2333,7 @@
         <entry>size</entry>
         <entry>get-pro</entry>
         <entry>filter</entry>
+        <entry>icon</entry>
       </history-search>
       <history-cmd>
         <entry>10</entry>
