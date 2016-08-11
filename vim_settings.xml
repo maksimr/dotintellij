@@ -2248,6 +2248,13 @@
         <mark key="." line="38" column="16" />
         <mark key="^" line="38" column="16" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects.js" timestamp="1470948314970">
+        <mark key="'" line="80" column="8" />
+        <mark key="[" line="80" column="26" />
+        <mark key="]" line="80" column="30" />
+        <mark key="^" line="80" column="30" />
+        <mark key="." line="80" column="30" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-toolbar.html" timestamp="1469002168940">
         <mark key="'" line="86" column="0" />
       </file>
@@ -2327,14 +2334,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="34" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth-ng/auth-ng.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth-ng/auth-ng.js" />
-      <jump line="18" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/auth.js" />
-      <jump line="11" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/service/authorization.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/service/authorization.js" />
-      <jump line="14" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/service/authorization.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/auth.js" />
-      <jump line="12" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/service/authorization.js" />
       <jump line="16" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/service/authorization.js" />
       <jump line="19" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/service/authorization.js" />
       <jump line="29" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/header.js" />
@@ -2427,6 +2426,14 @@
       <jump line="90" column="38" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/directive/yt-header.js" />
       <jump line="88" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/directive/yt-header.js" />
       <jump line="7" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/directive/yt-header.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects.js" />
+      <jump line="119" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects.js" />
+      <jump line="19" column="34" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects.js" />
+      <jump line="20" column="27" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects.js" />
+      <jump line="21" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects.js" />
+      <jump line="23" column="34" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects.js" />
+      <jump line="73" column="37" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects.js" />
+      <jump line="80" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2436,7 +2443,7 @@
         <text encoding="base64">ICAgICAgICAgIA==</text>
       </register>
       <register name="/" type="4">
-        <text>userPermis</text>
+        <text>query</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2YXIgZ2V0VXNlclBlcm1pc3Npb25zID0gZnVuY3Rpb24oKSB7Cgo=</text>
@@ -2476,9 +2483,9 @@
       </register>
     </registers>
     <search>
-      <last-search>userPermis</last-search>
+      <last-search>query</last-search>
       <last-offset />
-      <last-pattern>userPermis</last-pattern>
+      <last-pattern>query</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2486,7 +2493,6 @@
     </search>
     <history>
       <history-search>
-        <entry>karma-phan</entry>
         <entry>onRemove</entry>
         <entry encoding="base64">XDxvblVwZGF0ZUNlbGxcPg==</entry>
         <entry encoding="base64">XDxvblJlbW92ZUZyb21DZWxsXD4=</entry>
@@ -2506,6 +2512,7 @@
         <entry encoding="base64">XDxoZWFkZXJJdGVtc0dldHRlclw+</entry>
         <entry encoding="base64">XDx1c2VyUGVybWlzc2lvbnNcPg==</entry>
         <entry>userPermis</entry>
+        <entry>query</entry>
       </history-search>
       <history-cmd>
         <entry>10</entry>
