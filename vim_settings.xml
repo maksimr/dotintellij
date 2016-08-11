@@ -71,12 +71,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1470833541882">
-        <mark key="'" line="65" column="63" />
-        <mark key="[" line="65" column="166" />
-        <mark key="]" line="65" column="165" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1470915890302">
+        <mark key="'" line="123" column="25" />
+        <mark key="[" line="73" column="37" />
+        <mark key="]" line="73" column="38" />
         <mark key="^" line="65" column="165" />
-        <mark key="." line="65" column="165" />
+        <mark key="." line="73" column="38" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/utils.js" timestamp="1470645154163">
         <mark key="'" line="354" column="2" />
@@ -1789,12 +1789,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-dashboard/webpack-embed.config.js" timestamp="1469784786140">
         <mark key="'" line="53" column="11" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-bottom-toolbar.html" timestamp="1470914529336">
-        <mark key="'" line="34" column="113" />
-        <mark key="[" line="48" column="90" />
-        <mark key="]" line="48" column="88" />
-        <mark key="^" line="48" column="88" />
-        <mark key="." line="48" column="88" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-bottom-toolbar.html" timestamp="1470915567560">
+        <mark key="'" line="42" column="11" />
+        <mark key="[" line="49" column="90" />
+        <mark key="]" line="49" column="88" />
+        <mark key="^" line="49" column="88" />
+        <mark key="." line="49" column="88" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/ring-component/ring-component_with-shortcuts.js" timestamp="1466680203131">
         <mark key="'" line="48" column="0" />
@@ -2263,8 +2263,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="187" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project.js" />
       <jump line="14" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/edit-project.html" />
       <jump line="18" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/template/projects.html" />
       <jump line="47" column="32" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/template/projects.html" />
@@ -2363,6 +2361,8 @@
       <jump line="9" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-bottom-toolbar.html" />
       <jump line="20" column="50" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-bottom-toolbar.html" />
       <jump line="34" column="113" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-bottom-toolbar.html" />
+      <jump line="42" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-bottom-toolbar.html" />
+      <jump line="123" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2372,7 +2372,7 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>isOpen</text>
+        <text>karma-phan</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8vV2l0aG91dCBpdCBidWlsZCBmcmVlemVzCiAgICBwcm9jZXNzLmVudi5VVl9USFJFQURQT09MX1NJWkUgPSAxMDA7Cg==</text>
@@ -2412,9 +2412,9 @@
       </register>
     </registers>
     <search>
-      <last-search>isOpen</last-search>
+      <last-search>karma-phan</last-search>
       <last-offset />
-      <last-pattern>isOpen</last-pattern>
+      <last-pattern>karma-phan</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2422,7 +2422,6 @@
     </search>
     <history>
       <history-search>
-        <entry>acti</entry>
         <entry>skip</entry>
         <entry>report</entry>
         <entry>skipp</entry>
@@ -2442,6 +2441,7 @@
         <entry>stats</entry>
         <entry>prof</entry>
         <entry>isOpen</entry>
+        <entry>karma-phan</entry>
       </history-search>
       <history-cmd>
         <entry>10</entry>
