@@ -1236,8 +1236,8 @@
         <mark key="." line="48" column="83" />
         <mark key="^" line="48" column="83" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-board-with-sidebar.js" timestamp="1471000901669">
-        <mark key="'" line="19" column="9" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-board-with-sidebar.js" timestamp="1471003626952">
+        <mark key="'" line="25" column="49" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/_reports/edit/prototype-select/gapCustomFieldPrototype.js" timestamp="1469003842932">
         <mark key="'" line="77" column="2" />
@@ -2390,8 +2390,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth-ng/auth-ng.js" />
-      <jump line="69" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/config/config.js" />
       <jump line="24" column="1" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/auth.js" />
       <jump line="28" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/auth.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/auth.js" />
@@ -2490,6 +2488,8 @@
       <jump line="19" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-board-with-sidebar.js" />
       <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header-menu-builder/header-menu-builder.js" />
       <jump line="12" column="33" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header-menu-builder/header-menu-builder.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-board-with-sidebar.js" />
+      <jump line="25" column="49" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-board-with-sidebar.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2499,7 +2499,7 @@
         <text>qeury</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfeWFyZ3NcPg==</text>
+        <text>sidebar</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Cg==</text>
@@ -2539,17 +2539,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfeWFyZ3NcPg==</last-search>
+      <last-search>sidebar</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfeWFyZ3NcPg==</last-pattern>
+      <last-pattern>sidebar</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>debugger</entry>
         <entry>auth</entry>
         <entry>user</entry>
         <entry encoding="base64">XDxoZWFkZXJJdGVtc0dldHRlclw+</entry>
@@ -2569,6 +2568,7 @@
         <entry>parse</entry>
         <entry>options</entry>
         <entry encoding="base64">XDxfeWFyZ3NcPg==</entry>
+        <entry>sidebar</entry>
       </history-search>
       <history-cmd>
         <entry>112</entry>
