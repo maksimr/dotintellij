@@ -78,6 +78,10 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("assignees")).withParent(xmlTag().withLocalName(string().equalTo("yt-agile-card-assignee")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-agile-card-assignee/@ng-model</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-model")).withParent(xmlTag().withLocalName(string().equalTo("yt-agile-card-assignee")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>yt-agile-card-assignee/@on-change</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-change")).withParent(xmlTag().withLocalName(string().equalTo("yt-agile-card-assignee")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
