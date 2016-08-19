@@ -34,7 +34,7 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select-ng/select-ng__options.js" timestamp="1470844170118">
         <mark key="'" line="123" column="20" />
       </file>
-      <file name="/a.dummy" timestamp="1471534821132">
+      <file name="/a.dummy" timestamp="1471598490168">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -697,6 +697,9 @@
         <mark key="." line="277" column="40" />
         <mark key="^" line="277" column="40" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/yt-one-issue-assignee.js" timestamp="1471598620448">
+        <mark key="'" line="6" column="43" />
+      </file>
       <file name="$USER_HOME$/www/js/voting-server/voting-client/node_modules/fbjs/lib/shallowEqual.js" timestamp="1469390049118">
         <mark key="'" line="65" column="23" />
       </file>
@@ -1170,12 +1173,12 @@
         <mark key="." line="5" column="26" />
         <mark key="^" line="5" column="26" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-assignee-select.js" timestamp="1471535606984">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="59" column="20" />
-        <mark key="]" line="59" column="36" />
-        <mark key="." line="59" column="36" />
-        <mark key="^" line="59" column="36" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-assignee-select.js" timestamp="1471598753589">
+        <mark key="'" line="75" column="0" />
+        <mark key="[" line="17" column="48" />
+        <mark key="]" line="17" column="68" />
+        <mark key="." line="17" column="68" />
+        <mark key="^" line="17" column="68" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/ring-ui/node_modules/react/lib/ReactTestUtils.js" timestamp="1466681891177">
         <mark key="'" line="461" column="21" />
@@ -2089,6 +2092,11 @@
         <mark key="." line="311" column="0" />
         <mark key="^" line="13" column="57" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/service/choose-assignee-field.js" timestamp="1471598489509">
+        <mark key="'" line="38" column="29" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="20" column="38" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/event/event.js" timestamp="1466601909960">
         <mark key="'" line="5" column="4" />
         <mark key="[" line="20" column="30" />
@@ -2193,6 +2201,9 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="12" column="17" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/service/get-custom-field-possible-values.js" timestamp="1471598583663">
+        <mark key="'" line="13" column="12" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/test/directive/yt-header.js" timestamp="1470923844889">
         <mark key="'" line="22" column="0" />
@@ -2443,13 +2454,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="39" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issues-assignee-action.js" />
-      <jump line="68" column="35" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issues-assignee-action.js" />
-      <jump line="85" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issues-assignee-action.js" />
-      <jump line="131" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issues-assignee-action.js" />
-      <jump line="149" column="41" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issues-assignee-action.js" />
-      <jump line="147" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issues-assignee-action.js" />
-      <jump line="26" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issues-assignee-action.js" />
       <jump line="186" column="37" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issues-assignee-action.js" />
       <jump line="183" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issues-assignee-action.js" />
       <jump line="43" column="47" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issues-assignee-action.js" />
@@ -2543,34 +2547,41 @@
       <jump line="174" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issues-assignee-action.js" />
       <jump line="138" column="34" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issues-assignee-action.js" />
       <jump line="135" column="27" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issues-assignee-action.js" />
+      <jump line="63" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-assignee-select.js" />
+      <jump line="26" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/service/choose-assignee-field.js" />
+      <jump line="38" column="29" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/service/choose-assignee-field.js" />
+      <jump line="20" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/service/get-custom-field-possible-values.js" />
+      <jump line="13" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/service/get-custom-field-possible-values.js" />
+      <jump line="6" column="43" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/yt-one-issue-assignee.js" />
+      <jump line="73" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-assignee-select.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>angular.noop;</text>
       </register>
       <register name="-" type="4">
-        <text>issue</text>
+        <text>angular.noop;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhc3NpZ25lZUZpZWxkXD4=</text>
+        <text>getASs</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgdGVzdEFzc2lnbmVlc0ZpZWxkTmFtZSA9IGZ1bmN0aW9uKGZpZWxkKSB7CiAgICAgICAgICBpZiAoIWZpZWxkIHx8ICFmaWVsZC5uYW1lKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHl0TW9jayA9IF95dE1vY2tfOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CgogICAgdmFyICRodHRwQmFja2VuZDsKICAgIGJlZm9yZUVhY2goaW5qZWN0KGZ1bmN0aW9uKF8kaHR0cEJhY2tlbmRfKSB7CiAgICAgICRodHRwQmFja2VuZCA9IF8kaHR0cEJhY2tlbmRfOwogICAgfSkpOwo=</text>
+        <text encoding="base64">ICAgICAgdmFyIHByb2plY3RGaWVsZFVzZXJCdW5kbGVJZCA9IGZha2VyLnJhbmRvbS51dWlkKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHl0TW9jayA9IF95dE1vY2tfOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgogICAgdmFyICRodHRwQmFja2VuZDsKICAgIGJlZm9yZUVhY2goaW5qZWN0KGZ1bmN0aW9uKF8kaHR0cEJhY2tlbmRfKSB7CiAgICAgICRodHRwQmFja2VuZCA9IF8kaHR0cEJhY2tlbmRfOwogICAgfSkpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -2585,29 +2596,23 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpdCgnc2hvdWxkIGxvYWQgYXNzaWduZWVzJywgZnVuY3Rpb24oKSB7CgogIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhc3NpZ25lZUZpZWxkXD4=</last-search>
+      <last-search>getASs</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhc3NpZ25lZUZpZWxkXD4=</last-pattern>
+      <last-pattern>getASs</last-pattern>
       <last-replace>display</last-replace>
       <last-substitute>visible</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getCu</entry>
-        <entry encoding="base64">XDxjdXJyZW50QXNzaWduZWVNb2RlbFw+</entry>
-        <entry encoding="base64">XDx0b0Fzc2lnbmVlU2VsZWN0T3B0aW9uXD4=</entry>
-        <entry encoding="base64">XDxsb3dlckNhc2VRdWVyeVw+</entry>
-        <entry encoding="base64">XDx1cGRhdGVBc3NpZ25lZUZpZWxkXD4=</entry>
-        <entry>current</entry>
         <entry>getOption</entry>
         <entry>currentUser</entry>
         <entry>map</entry>
@@ -2622,6 +2627,12 @@
         <entry>MultipleUse</entry>
         <entry>bundle</entry>
         <entry encoding="base64">XDxhc3NpZ25lZUZpZWxkXD4=</entry>
+        <entry>load</entry>
+        <entry>getAss</entry>
+        <entry encoding="base64">XDxjb2xsZWN0aW9uTmFtZVw+</entry>
+        <entry>getAssignees</entry>
+        <entry encoding="base64">XDxnZXRDdXN0b21GaWVsZFBvc3NpYmxlVmFsdWVzXD4=</entry>
+        <entry>getASs</entry>
       </history-search>
       <history-cmd>
         <entry>37</entry>
