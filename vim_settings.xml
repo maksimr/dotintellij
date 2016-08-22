@@ -703,7 +703,8 @@
         <mark key="." line="28" column="63" />
         <mark key="^" line="28" column="63" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/yt-one-issue-assignee.js" timestamp="1471862413113">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/yt-one-issue-assignee.js" timestamp="1471863540480">
+        <mark key="'" line="203" column="2" />
         <mark key="[" line="122" column="0" />
         <mark key="]" line="122" column="39" />
         <mark key="^" line="115" column="96" />
@@ -1911,6 +1912,9 @@
       <file name="$USER_HOME$/www/js/issues/test/test_helper.js" timestamp="1470414752085">
         <mark key="'" line="13" column="6" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/backlog-hierarchy-navigation.js" timestamp="1471863489930">
+        <mark key="'" line="57" column="2" />
+      </file>
       <file name="$USER_HOME$/www/js/karma-jasmine/src/adapter.js" timestamp="1471624631832">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="219" column="0" />
@@ -2495,14 +2499,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-assignee-select.js" />
-      <jump line="29" column="93" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/yt-one-issue-assignee.js" />
-      <jump line="59" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/yt-one-issue-assignee.js" />
-      <jump line="60" column="127" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/yt-one-issue-assignee.js" />
-      <jump line="111" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/yt-one-issue-assignee.js" />
-      <jump line="55" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-assignee-select.js" />
-      <jump line="21" column="43" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/service/get-custom-field-possible-values.js" />
-      <jump line="12" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/service/get-custom-field-possible-values.js" />
       <jump line="24" column="41" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/service/get-custom-field-possible-values.js" />
       <jump line="7" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/service/load-bundle-field-collection.js" />
       <jump line="21" column="84" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/service/load-bundle-field-collection.js" />
@@ -2595,6 +2591,14 @@
       <jump line="28" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/yt-one-issue-assignee.js" />
       <jump line="5" column="77" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/yt-one-issue-assignee.js" />
       <jump line="31" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/yt-one-issue-assignee.js" />
+      <jump line="37" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/backlog-hierarchy-navigation.js" />
+      <jump line="54" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/backlog-hierarchy-navigation.js" />
+      <jump line="35" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/backlog-hierarchy-navigation.js" />
+      <jump line="56" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/backlog-hierarchy-navigation.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/backlog-hierarchy-navigation.js" />
+      <jump line="57" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/backlog-hierarchy-navigation.js" />
+      <jump line="175" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/yt-one-issue-assignee.js" />
+      <jump line="203" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/yt-one-issue-assignee.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2604,7 +2608,7 @@
         <text>retur</text>
       </register>
       <register name="/" type="4">
-        <text>getAss</text>
+        <text encoding="base64">XDx1cGRhdGVQbGFjZWhvbGRlckhvcml6b250YWxQb3NpdGlvblw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGN1cnJlbnRVc2VyOiBnZXRDdXJyZW50VXNlcigpCg==</text>
@@ -2644,17 +2648,16 @@
       </register>
     </registers>
     <search>
-      <last-search>getAss</last-search>
+      <last-search encoding="base64">XDx1cGRhdGVQbGFjZWhvbGRlckhvcml6b250YWxQb3NpdGlvblw+</last-search>
       <last-offset />
-      <last-pattern>getAss</last-pattern>
+      <last-pattern encoding="base64">XDx1cGRhdGVQbGFjZWhvbGRlckhvcml6b250YWxQb3NpdGlvblw+</last-pattern>
       <last-replace>display</last-replace>
       <last-substitute>visible</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>load</entry>
         <entry encoding="base64">XDxidW5kbGVcPg==</entry>
         <entry>bundle</entry>
         <entry>user</entry>
@@ -2674,6 +2677,7 @@
         <entry>choo</entry>
         <entry encoding="base64">XDxjaG9vc2VBc3NpZ25lZUZpZWxkXD4=</entry>
         <entry>getAss</entry>
+        <entry encoding="base64">XDx1cGRhdGVQbGFjZWhvbGRlckhvcml6b250YWxQb3NpdGlvblw+</entry>
       </history-search>
       <history-cmd>
         <entry>37</entry>
