@@ -77,12 +77,10 @@
         <mark key="." line="127" column="49" />
         <mark key="^" line="128" column="89" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/ring/style/ring.scss" timestamp="1471967811386">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="7" column="14" />
-        <mark key="]" line="7" column="15" />
-        <mark key="." line="7" column="15" />
-        <mark key="^" line="7" column="18" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/ring/style/ring.scss" timestamp="1471968658112">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/utils.js" timestamp="1470645154163">
         <mark key="'" line="354" column="2" />
@@ -2553,7 +2551,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="343" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-card-assignee.js" />
       <jump line="244" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-card-assignee.js" />
       <jump line="345" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-card-assignee.js" />
       <jump line="196" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-card-assignee.js" />
@@ -2653,10 +2650,11 @@
       <jump line="78" column="66" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng.js" />
       <jump line="101" column="6" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng.js" />
       <jump line="102" column="6" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng.js" />
+      <jump line="6" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/ring/style/ring.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNsYXNzTmFtZT0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>'ring-select-popup'</text>
@@ -2668,34 +2666,34 @@
         <text>ring-select-popup</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNsYXNzTmFtZT0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCBjbGFzc05hbWVzIGZyb20gJ2NsYXNzbmFtZXMnOwo=</text>
+        <text encoding="base64">LnJpbmctcG9wdXAgewogIG1heC13aWR0aDogMzUwcHg7Cn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICB3aXRoLWluZmluaXRlLXNjcm9sbD0idHJ1ZSIK</text>
+        <text encoding="base64">ICAgICAgICAgIGNsYXNzTmFtZT0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGltcG9ydCBjbGFzc05hbWVzIGZyb20gJ2NsYXNzbmFtZXMnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICB3aXRoLWluZmluaXRlLXNjcm9sbD0idHJ1ZSIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGl0KCdzaG91bGQgc29ydCBhc3NpZ25lZXMgYnkgZnVsbE5hbWUgYWxwaGFiZXRpY2FsbHknLCBmdW5jdGlvbigpIHsKICAgICAgdmFyIGN1cnJlbnRVc2VyTW9jayA9IHtpZDogJzIzLTAnfTsKCiAgICAgIHZhciBhc3NpZ25lZXMgPSBbewogICAgICAgICdmdWxsTmFtZSc6ICdBIEsnLAogICAgICAgICdpZCc6ICcyMy0xMScKICAgICAgfSwgewogICAgICAgICdmdWxsTmFtZSc6ICdBIFAnLAogICAgICAgICdpZCc6ICcyMy0xOScKICAgICAgfSwgewogICAgICAgICdmdWxsTmFtZSc6ICdBIEcnLAogICAgICAgICdpZCc6ICcyMy0yNycKICAgICAgfSwgewogICAgICAgICdmdWxsTmFtZSc6ICdBIEMnLAogICAgICAgICdpZCc6ICcyMy0yOCcKICAgICAgfSwgewogICAgICAgICdmdWxsTmFtZSc6ICdBIENoJywKICAgICAgICAnaWQnOiAnMjMtMzgnCiAgICAgIH0sIHsKICAgICAgICAnZnVsbE5hbWUnOiAnQSBEJywKICAgICAgICAnaWQnOiAnMjMtNTUnCiAgICAgIH0sIHsKICAgICAgICAnZnVsbE5hbWUnOiAnQSBQJywKICAgICAgICAnaWQnOiAnMjMtNjMnCiAgICAgIH0sIHsKICAgICAgICAnZnVsbE5hbWUnOiAnQSBQZScsCiAgICAgICAgJ2lkJzogJzIzLTY4JwogICAgICB9LCB7CiAgICAgICAgJ2Z1bGxOYW1lJzogJ0EgVCcsCiAgICAgICAgJ2lkJzogJzIzLTcwJwogICAgICB9LCB7CiAgICAgICAgJ2Z1bGxOYW1lJzogJ0EgSycsCiAgICAgICAgJ2lkJzogJzIzLTEwMScKICAgICAgfSwgewogICAgICAgICdmdWxsTmFtZSc6ICdBIFBvJywKICAgICAgICAnaWQnOiAnMjMtMTA2JwogICAgICB9XTsKCiAgICAgIHZhciBhc3NpZ25lZVNvcnRlZCA9IFsKICAgICAgICB7CiAgICAgICAgICAnZnVsbE5hbWUnOiAnQSBLJywKICAgICAgICAgICdpZCc6ICcyMy0xMDEnCiAgICAgICAgfSwgewogICAgICAgICAgJ2Z1bGxOYW1lJzogJ0EgVCcsCiAgICAgICAgICAnaWQnOiAnMjMtNzAnCiAgICAgICAgfSwgewogICAgICAgICAgJ2Z1bGxOYW1lJzogJ0EgQycsCiAgICAgICAgICAnaWQnOiAnMjMtMjgnCiAgICAgICAgfSwgewogICAgICAgICAgJ2Z1bGxOYW1lJzogJ0EgRCcsCiAgICAgICAgICAnaWQnOiAnMjMtNTUnCiAgICAgICAgfSwgewogICAgICAgICAgJ2Z1bGxOYW1lJzogJ0EgUCcsCiAgICAgICAgICAnaWQnOiAnMjMtNjMnCiAgICAgICAgfSwgewogICAgICAgICAgJ2Z1bGxOYW1lJzogJ0EgQ2gnLAogICAgICAgICAgJ2lkJzogJzIzLTM4JwogICAgICAgIH0sIHsKICAgICAgICAgICdmdWxsTmFtZSc6ICdBIEcnLAogICAgICAgICAgJ2lkJzogJzIzLTI3JwogICAgICAgIH0sIHsKICAgICAgICAgICdmdWxsTmFtZSc6ICdBIEsnLAogICAgICAgICAgJ2lkJzogJzIzLTExJwogICAgICAgIH0sIHsKICAgICAgICAgICdmdWxsTmFtZSc6ICdBIFAnLAogICAgICAgICAgJ2lkJzogJzIzLTE5JwogICAgICAgIH0sIHsKICAgICAgICAgICdmdWxsTmFtZSc6ICdBIFBvJywKICAgICAgICAgICdpZCc6ICcyMy0xMDYnCiAgICAgICAgfSwgewogICAgICAgICAgJ2Z1bGxOYW1lJzogJ0EgUGUnLAogICAgICAgICAgJ2lkJzogJzIzLTY4JwogICAgICAgIH1dOwoKICAgICAgZ2V0Q3VycmVudFVzZXIuc2V0KGN1cnJlbnRVc2VyTW9jayk7CgogICAgICBleHBlY3QoZ2V0QXNzaWduZWVzKGFzc2lnbmVlcykpLnRvRXF1YWwoYXNzaWduZWVTb3J0ZWQpOwogICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGl0KCdzaG91bGQgc29ydCBhc3NpZ25lZXMgYnkgZnVsbE5hbWUgYWxwaGFiZXRpY2FsbHknLCBmdW5jdGlvbigpIHsKICAgICAgdmFyIGN1cnJlbnRVc2VyTW9jayA9IHtpZDogJzIzLTAnfTsKCiAgICAgIHZhciBhc3NpZ25lZXMgPSBbewogICAgICAgICdmdWxsTmFtZSc6ICdBIEsnLAogICAgICAgICdpZCc6ICcyMy0xMScKICAgICAgfSwgewogICAgICAgICdmdWxsTmFtZSc6ICdBIFAnLAogICAgICAgICdpZCc6ICcyMy0xOScKICAgICAgfSwgewogICAgICAgICdmdWxsTmFtZSc6ICdBIEcnLAogICAgICAgICdpZCc6ICcyMy0yNycKICAgICAgfSwgewogICAgICAgICdmdWxsTmFtZSc6ICdBIEMnLAogICAgICAgICdpZCc6ICcyMy0yOCcKICAgICAgfSwgewogICAgICAgICdmdWxsTmFtZSc6ICdBIENoJywKICAgICAgICAnaWQnOiAnMjMtMzgnCiAgICAgIH0sIHsKICAgICAgICAnZnVsbE5hbWUnOiAnQSBEJywKICAgICAgICAnaWQnOiAnMjMtNTUnCiAgICAgIH0sIHsKICAgICAgICAnZnVsbE5hbWUnOiAnQSBQJywKICAgICAgICAnaWQnOiAnMjMtNjMnCiAgICAgIH0sIHsKICAgICAgICAnZnVsbE5hbWUnOiAnQSBQZScsCiAgICAgICAgJ2lkJzogJzIzLTY4JwogICAgICB9LCB7CiAgICAgICAgJ2Z1bGxOYW1lJzogJ0EgVCcsCiAgICAgICAgJ2lkJzogJzIzLTcwJwogICAgICB9LCB7CiAgICAgICAgJ2Z1bGxOYW1lJzogJ0EgSycsCiAgICAgICAgJ2lkJzogJzIzLTEwMScKICAgICAgfSwgewogICAgICAgICdmdWxsTmFtZSc6ICdBIFBvJywKICAgICAgICAnaWQnOiAnMjMtMTA2JwogICAgICB9XTsKCiAgICAgIHZhciBhc3NpZ25lZVNvcnRlZCA9IFsKICAgICAgICB7CiAgICAgICAgICAnZnVsbE5hbWUnOiAnQSBLJywKICAgICAgICAgICdpZCc6ICcyMy0xMDEnCiAgICAgICAgfSwgewogICAgICAgICAgJ2Z1bGxOYW1lJzogJ0EgVCcsCiAgICAgICAgICAnaWQnOiAnMjMtNzAnCiAgICAgICAgfSwgewogICAgICAgICAgJ2Z1bGxOYW1lJzogJ0EgQycsCiAgICAgICAgICAnaWQnOiAnMjMtMjgnCiAgICAgICAgfSwgewogICAgICAgICAgJ2Z1bGxOYW1lJzogJ0EgRCcsCiAgICAgICAgICAnaWQnOiAnMjMtNTUnCiAgICAgICAgfSwgewogICAgICAgICAgJ2Z1bGxOYW1lJzogJ0EgUCcsCiAgICAgICAgICAnaWQnOiAnMjMtNjMnCiAgICAgICAgfSwgewogICAgICAgICAgJ2Z1bGxOYW1lJzogJ0EgQ2gnLAogICAgICAgICAgJ2lkJzogJzIzLTM4JwogICAgICAgIH0sIHsKICAgICAgICAgICdmdWxsTmFtZSc6ICdBIEcnLAogICAgICAgICAgJ2lkJzogJzIzLTI3JwogICAgICAgIH0sIHsKICAgICAgICAgICdmdWxsTmFtZSc6ICdBIEsnLAogICAgICAgICAgJ2lkJzogJzIzLTExJwogICAgICAgIH0sIHsKICAgICAgICAgICdmdWxsTmFtZSc6ICdBIFAnLAogICAgICAgICAgJ2lkJzogJzIzLTE5JwogICAgICAgIH0sIHsKICAgICAgICAgICdmdWxsTmFtZSc6ICdBIFBvJywKICAgICAgICAgICdpZCc6ICcyMy0xMDYnCiAgICAgICAgfSwgewogICAgICAgICAgJ2Z1bGxOYW1lJzogJ0EgUGUnLAogICAgICAgICAgJ2lkJzogJzIzLTY4JwogICAgICAgIH1dOwoKICAgICAgZ2V0Q3VycmVudFVzZXIuc2V0KGN1cnJlbnRVc2VyTW9jayk7CgogICAgICBleHBlY3QoZ2V0QXNzaWduZWVzKGFzc2lnbmVlcykpLnRvRXF1YWwoYXNzaWduZWVTb3J0ZWQpOwogICAgfSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
