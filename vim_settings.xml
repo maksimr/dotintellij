@@ -1476,8 +1476,8 @@
         <mark key="." line="34" column="1" />
         <mark key="^" line="34" column="1" />
       </file>
-      <file name="$USER_HOME$/www/js/specht/src/parse-js.js" timestamp="1472116701965">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/www/js/specht/src/parse-js.js" timestamp="1472121364012">
+        <mark key="'" line="6" column="32" />
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="22" />
       </file>
@@ -1858,8 +1858,8 @@
         <mark key="^" line="7" column="25" />
         <mark key="." line="7" column="19" />
       </file>
-      <file name="$USER_HOME$/www/js/specht/src/spetch.js" timestamp="1472121166932">
-        <mark key="'" line="145" column="2" />
+      <file name="$USER_HOME$/www/js/specht/src/spetch.js" timestamp="1472121389460">
+        <mark key="'" line="12" column="0" />
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
@@ -2090,10 +2090,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="4" filename="$USER_HOME$/www/js/specht/src/spetch.js" />
-      <jump line="3" column="7" filename="$USER_HOME$/www/js/specht/src/spetch.js" />
-      <jump line="9" column="7" filename="$USER_HOME$/www/js/specht/src/index.js" />
-      <jump line="122" column="19" filename="$USER_HOME$/www/js/specht/src/index.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/js/specht/src/spetch.js" />
       <jump line="5" column="0" filename="$USER_HOME$/www/js/specht/src/index.js" />
       <jump line="18" column="2" filename="$USER_HOME$/www/js/specht/src/index.js" />
@@ -2162,11 +2158,8 @@
       <jump line="127" column="19" filename="$USER_HOME$/www/js/specht/src/spetch.js" />
       <jump line="41" column="20" filename="$USER_HOME$/www/js/specht/src/spetch.js" />
       <jump line="190" column="0" filename="$USER_HOME$/www/js/specht/src/spetch.js" />
-      <jump line="40" column="10" filename="$USER_HOME$/www/js/specht/src/spetch.js" />
       <jump line="58" column="6" filename="$USER_HOME$/www/js/specht/src/spetch.js" />
-      <jump line="119" column="10" filename="$USER_HOME$/www/js/specht/src/spetch.js" />
       <jump line="128" column="19" filename="$USER_HOME$/www/js/specht/src/spetch.js" />
-      <jump line="150" column="11" filename="$USER_HOME$/www/js/specht/src/spetch.js" />
       <jump line="146" column="10" filename="$USER_HOME$/www/js/specht/src/spetch.js" />
       <jump line="24" column="9" filename="$USER_HOME$/www/js/specht/src/spetch.js" />
       <jump line="187" column="89" filename="$USER_HOME$/www/js/specht/src/spetch.js" />
@@ -2190,6 +2183,13 @@
       <jump line="5" column="20" filename="$USER_HOME$/www/js/specht/src/spetch.js" />
       <jump line="96" column="39" filename="$USER_HOME$/www/js/specht/src/spetch.js" />
       <jump line="145" column="2" filename="$USER_HOME$/www/js/specht/src/spetch.js" />
+      <jump line="140" column="2" filename="$USER_HOME$/www/js/specht/src/spetch.js" />
+      <jump line="119" column="22" filename="$USER_HOME$/www/js/specht/src/spetch.js" />
+      <jump line="40" column="22" filename="$USER_HOME$/www/js/specht/src/spetch.js" />
+      <jump line="150" column="2" filename="$USER_HOME$/www/js/specht/src/spetch.js" />
+      <jump line="71" column="20" filename="$USER_HOME$/www/js/specht/src/parse-js.js" />
+      <jump line="6" column="32" filename="$USER_HOME$/www/js/specht/src/parse-js.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/www/js/specht/src/spetch.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2199,7 +2199,7 @@
         <text>teamcity</text>
       </register>
       <register name="/" type="4">
-        <text>name</text>
+        <text>push</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBjb25zdCBodG1sRXh0ZW5zaW9uID0gWycuaHRtbCddOwogIGNvbnN0IGpzRXh0ZW5zaW9uID0gWycuanMnXTsK</text>
@@ -2239,9 +2239,9 @@
       </register>
     </registers>
     <search>
-      <last-search>name</last-search>
+      <last-search>push</last-search>
       <last-offset />
-      <last-pattern>name</last-pattern>
+      <last-pattern>push</last-pattern>
       <last-replace>const spet</last-replace>
       <last-substitute>let spet</last-substitute>
       <last-dir>1</last-dir>
@@ -2249,8 +2249,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZWFkZGlycFw+</entry>
-        <entry encoding="base64">XDx0aHJvdWdoMlw+</entry>
         <entry>getUr</entry>
         <entry>checkUr</entry>
         <entry>patter</entry>
@@ -2269,6 +2267,8 @@
         <entry encoding="base64">XDxjaGVja1VybHNcPg==</entry>
         <entry>getUrls</entry>
         <entry>name</entry>
+        <entry encoding="base64">XDxnZXRSb290RGlyZWN0b3J5XD4=</entry>
+        <entry>push</entry>
       </history-search>
       <history-cmd>
         <entry>82</entry>
