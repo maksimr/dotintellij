@@ -886,12 +886,11 @@
         <mark key="^" line="338" column="4" />
         <mark key="." line="338" column="4" />
       </file>
-      <file name="$USER_HOME$/www/js/specht/test/foo.spec.js" timestamp="1472129859639">
-        <mark key="'" line="17" column="5" />
-        <mark key="[" line="5" column="19" />
-        <mark key="]" line="5" column="19" />
-        <mark key="." line="5" column="19" />
-        <mark key="^" line="5" column="19" />
+      <file name="$USER_HOME$/www/js/specht/test/foo.spec.js" timestamp="1472130028233">
+        <mark key="[" line="23" column="2" />
+        <mark key="]" line="23" column="6" />
+        <mark key="^" line="23" column="6" />
+        <mark key="." line="23" column="6" />
       </file>
       <file name="$USER_HOME$/www/js/specht/src/lib/ignore.js" timestamp="1472128956395">
         <mark key="[" line="4" column="0" />
@@ -2234,11 +2233,11 @@
       <jump line="14" column="5" filename="$USER_HOME$/www/js/specht/test/foo.spec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBtb2NrCg==</text>
+      <register name="&quot;" type="4">
+        <text>var</text>
       </register>
       <register name="-" type="4">
-        <text>()</text>
+        <text>var</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZWFsRnNcPg==</text>
@@ -2247,34 +2246,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBtb2NrCg==</text>
+        <text encoding="base64">ICBjb25zdCBpZ25vcmVGaWx0ZXIgPSBjb252ZXJ0SWdub3JlRmlsZVRvRmlsdGVyKCcvdG1wLy5naXRpZ25vcmUnKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBtb2NrKCk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBtb2NrKHt9KTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBtb2NrKCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZnVuY3Rpb24gY29udmVydElnbm9yZUZpbGVUb0ZpbHRlcihmaWxlUGF0aCkgewogIHJldHVybiBmdW5jdGlvbigpIHsKICAgIHJldHVybiBmYWxzZTsKICB9Owp9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnYWZ0ZXJFYWNoJyk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnYmVmb3JlRWFjaCcpOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJzw8PDw8Pj4+Jyk7Cg==</text>
+        <text encoding="base64">ICBtb2NrCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBtb2NrKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IG1vY2sgZnJvbSAnbW9jay1mcyc7Cg==</text>
+        <text encoding="base64">ICBtb2NrKHt9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBtb2NrKHsKICAgICcvdG1wJzogewogICAgICAnLmdpdGlnbm9yZSc6ICdmb28nCiAgICB9CiAgfSk7Cg==</text>
+        <text encoding="base64">ICBtb2NrKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
