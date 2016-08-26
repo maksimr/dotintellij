@@ -90,10 +90,12 @@
         <mark key="]" line="215" column="0" />
         <mark key="." line="215" column="0" />
       </file>
-      <file name="$USER_HOME$/www/js/specht/node_modules/mock-fs/lib/index.js" timestamp="1472206042511">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="112" column="8" />
-        <mark key="]" line="112" column="14" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1472231399287">
+        <mark key="'" line="130" column="0" />
+        <mark key="[" line="130" column="111" />
+        <mark key="]" line="130" column="111" />
+        <mark key="." line="130" column="111" />
+        <mark key="^" line="130" column="111" />
       </file>
       <file name="$USER_HOME$/www/js/specht/node_modules/through2/through2.js" timestamp="1472207207203">
         <mark key="'" line="51" column="17" />
@@ -196,15 +198,11 @@
         <mark key="]" line="2" column="39" />
         <mark key="." line="268" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issue-assignee.js" timestamp="1472231332768">
+        <mark key="'" line="61" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="0" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
-      <jump line="42" column="2" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
-      <jump line="72" column="11" filename="$USER_HOME$/www/js/specht/src/runner.js" />
-      <jump line="34" column="0" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
-      <jump line="45" column="0" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
-      <jump line="60" column="0" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
-      <jump line="74" column="0" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
       <jump line="66" column="0" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
       <jump line="44" column="0" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
       <jump line="61" column="0" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
@@ -298,16 +296,23 @@
       <jump line="66" column="0" filename="$USER_HOME$/www/js/specht/src/runner.js" />
       <jump line="155" column="0" filename="$USER_HOME$/www/js/specht/src/runner.js" />
       <jump line="9" column="0" filename="$USER_HOME$/www/js/specht/src/runner.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issue-assignee.js" />
+      <jump line="255" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issue-assignee.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issue-assignee.js" />
+      <jump line="237" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issue-assignee.js" />
+      <jump line="61" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issue-assignee.js" />
+      <jump line="34" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="130" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>!beforeCheckUrl || !beforeCheckUrl(url)</text>
+        <text>jetbrains-check-ui-links</text>
       </register>
       <register name="-" type="4">
-        <text>!beforeCheckUrl || !beforeCheckUrl(url)</text>
+        <text>jetbrains-check-ui-links</text>
       </register>
       <register name="/" type="4">
-        <text>start</text>
+        <text>sp</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgewogIHBhdHRlcm4sCiAganNFeHRlbnNpb24sCiAgaHRtbEV4dGVuc2lvbiwKICBqc1J1bGVzLAogIGh0bWxSdWxlcywKICBpZ25vcmVGaWxlLAogIGhlbHAsCiAgdGVhbWNpdHksCiAgXzogW3Jvb3QgPSBwcm9jZXNzLmN3ZCgpXQp9ID0geWFyZ3MuCiAgdXNhZ2UoYFVzYWdlOiAkMCBbcGF0aF0gW29wdGlvbnNdCgpFeGFtcGxlOiAkMCBwYXRoL3RvL3N0YXJ0L2Zyb20gXFwKLS1wYXR0ZXJuIGh0dHBzOi8vd3d3LmpldGJyYWlucy5jb20vaHViL2hlbHAvMS4wLyVzLmh0bWwgXFwKLS1pZ25vcmUtZmlsZSAuZ2l0aWdub3JlIFxcCi0taHRtbC1ydWxlcyBzdmc6eGxpbms6aHJlZiBodWItcGFnZS1oZWxwLWxpbms6dXJsIFxcCi0tanMtcnVsZXMgZ2V0SGVscFVybEZpbHRlciBnZXRIZWxwVXJsSW5TZWNvbmRQYXJhbWV0ZXI6MSBcXAotLWh0bWwtZXh0ZW5zaW9uIC5odG1sIC5odG0gXFwKLS10ZWFtY2l0eQoKQXQgbGVhc3Qgb25lIG9mIC0tanMtcnVsZXMgb3IgLS1odG1sLXJ1bGVzIHBhcmFtZXRlcnMgaXMgcmVxdWlyZWQuIFdpbGwgZXhpdCB3aXRoIGNvZGUgMSBvdGhlcndpc2UuYCkuCiAgb3B0aW9uKCdwYXR0ZXJuJywgewogICAgZGVzY3JpYmU6ICdIZWxwIHNpdGUgcGF0dGVybiwgZS5nLjogaHR0cHM6Ly93d3cuamV0YnJhaW5zLmNvbS9odWIvaGVscC8xLjAvJXMuaHRtbC4g4oCcJXPigJ0gcGxhY2Vob2xkZXIgaXMgcmVwbGFjZWQgd2l0aCBwYXJ0cyBmb3VuZCBieSBwYXJzZXJzJywKICAgIGRlZmF1bHQ6ICclcycKICB9KS4KICBvcHRpb24oJ2lnbm9yZS1maWxlJywgewogICAgZGVzY3JpYmU6ICdGaWxlcyBhbmQgZGlyZWN0b3JpZXMgdG8gaWdub3JlLCB1c2VzIC5naXRnbm9yZSBmb3JtYXQuIFJlbGF0aXZlIGZyb20gcGF0aC4nCiAgfSkuCiAgb3B0aW9uKCdodG1sLXJ1bGVzJywgewogICAgZGVzY3JpYmU6ICdSdWxlcyBvZiBwYXJzaW5nIEhUTUwgZmlsZXMsIGluIGZvcm0gb2YgPHRhZyBuYW1lPjo8YXR0cmlidXRlIG5hbWU+LiBYTUwgbmFtZXNwYWNlcyBmb3IgYXR0cmlidXRlcyBhcmUgc3VwcG9ydGVkLicsCiAgICBhcnJheTogdHJ1ZQogIH0pLgogIG9wdGlvbignanMtcnVsZXMnLCB7CiAgICBkZXNjcmliZTogJ1J1bGVzIG9mIHBhcnNpbmcgSmF2YVNjcmlwdCBmaWxlcywgaW4gZm9ybSBvZiA8ZnVuY3Rpb24gbmFtZT5bOjxhcmd1bWVudCBudW1iZXIsIGRlZmF1bHQgaXMgMD5dLicsCiAgICBhcnJheTogdHJ1ZQogIH0pLgogIG9wdGlvbignaHRtbC1leHRlbnNpb24nLCB7CiAgICBkZXNjcmliZTogJ0V4dGVuc2lvbnMgb2YgSFRNTCBmaWxlcycsCiAgICBhcnJheTogdHJ1ZSwKICAgIGRlZmF1bHQ6IFsnLmh0bWwnXQogIH0pLgogIG9wdGlvbignanMtZXh0ZW5zaW9uJywgewogICAgZGVzY3JpYmU6ICdFeHRlbnNpb25zIG9mIEphdmFTY3JpcHQgZmlsZXMnLAogICAgYXJyYXk6IHRydWUsCiAgICBkZWZhdWx0OiBbJy5qcyddCiAgfSkuCiAgb3B0aW9uKCd0ZWFtY2l0eScsIHsKICAgIGRlc2NyaWJlOiAnUmVwb3J0IGNoZWNrIHJlc3VsdHMgdG8gVGVhbUNpdHknLAogICAgYm9vbGVhbjogdHJ1ZQogIH0pLgogIGhlbHAoJ2hlbHAnKS4KICBhcmd2Owo=</text>
@@ -347,9 +352,9 @@
       </register>
     </registers>
     <search>
-      <last-search>start</last-search>
+      <last-search>sp</last-search>
       <last-offset />
-      <last-pattern>start</last-pattern>
+      <last-pattern>sp</last-pattern>
       <last-replace>const spet</last-replace>
       <last-substitute>let spet</last-substitute>
       <last-dir>1</last-dir>
@@ -357,7 +362,6 @@
     </search>
     <history>
       <history-search>
-        <entry>documents</entry>
         <entry>getIgnore</entry>
         <entry>read</entry>
         <entry>colu</entry>
@@ -377,6 +381,7 @@
         <entry>before</entry>
         <entry encoding="base64">XDxjcmVhdGVSdW5uZXJcPg==</entry>
         <entry>start</entry>
+        <entry>sp</entry>
       </history-search>
       <history-cmd>
         <entry>212</entry>
