@@ -3,40 +3,44 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/www/js/specht/src/index.js" timestamp="1472203439801">
+        <mark key="'" line="162" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="32" />
+        <mark key="." line="122" column="0" />
+      </file>
       <file name="$USER_HOME$/www/js/specht/test/index.spec.js" timestamp="1472052943835">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
         <mark key="^" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/www/js/specht/node_modules/mock-fs/lib/index.js" timestamp="1472129438357">
-        <mark key="'" line="2" column="4" />
-      </file>
-      <file name="$USER_HOME$/www/js/specht/node_modules/through2/through2.js" timestamp="1472123221810">
-        <mark key="'" line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/js/specht/lib/parser/js.js" timestamp="1472144279940">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="72" column="40" />
-        <mark key="]" line="72" column="40" />
-        <mark key="." line="72" column="40" />
-        <mark key="^" line="72" column="40" />
-      </file>
-      <file name="$USER_HOME$/www/js/specht/logs/foo/index.js" timestamp="1472139546509">
-        <mark key="'" line="197" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/js/specht/.eslintrc" timestamp="1472140422584">
-        <mark key="'" line="7" column="5" />
-        <mark key="[" line="8" column="5" />
-        <mark key="]" line="8" column="15" />
-        <mark key="^" line="8" column="15" />
-        <mark key="." line="8" column="15" />
+      <file name="$USER_HOME$/www/js/specht/src/spetch.js" timestamp="1472123724686">
+        <mark key="'" line="61" column="30" />
+        <mark key="[" line="144" column="19" />
+        <mark key="]" line="144" column="19" />
+        <mark key="." line="144" column="19" />
+        <mark key="^" line="144" column="19" />
       </file>
       <file name="$USER_HOME$/www/js/specht/test/spetch.spec.js" timestamp="1472127926270">
         <mark key="'" line="112" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="48" />
         <mark key="." line="116" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/js/specht/src/runner.js" timestamp="1472204027103">
+        <mark key="'" line="9" column="17" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="32" />
+        <mark key="^" line="9" column="32" />
+        <mark key="." line="9" column="20" />
+      </file>
+      <file name="$USER_HOME$/www/js/specht/package.json" timestamp="1472202223760">
+        <mark key="'" line="9" column="3" />
+        <mark key="[" line="52" column="24" />
+        <mark key="]" line="52" column="24" />
+        <mark key="." line="52" column="24" />
+        <mark key="^" line="14" column="21" />
       </file>
       <file name="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" timestamp="1472144061623">
         <mark key="'" line="52" column="25" />
@@ -45,29 +49,10 @@
         <mark key="." line="63" column="0" />
         <mark key="^" line="66" column="25" />
       </file>
-      <file name="$USER_HOME$/www/js/specht/logs/foo/parse-js.js" timestamp="1472144820033">
+      <file name="$USER_HOME$/www/js/specht/logs/foo/parse-js.js" timestamp="1472200595155">
         <mark key="'" line="85" column="0" />
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="63" />
-      </file>
-      <file name="$USER_HOME$/www/js/specht/package.json" timestamp="1472139011188">
-        <mark key="'" line="42" column="32" />
-        <mark key="[" line="12" column="26" />
-        <mark key="]" line="12" column="27" />
-        <mark key="." line="12" column="27" />
-        <mark key="^" line="42" column="28" />
-      </file>
-      <file name="$USER_HOME$/www/js/specht/.gitignore" timestamp="1472137675499">
-        <mark key="'" line="112" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/js/specht/test/foo.js" timestamp="1472132934833">
-        <mark key="[" line="0" column="23" />
-        <mark key="]" line="0" column="26" />
-        <mark key="." line="0" column="26" />
-        <mark key="^" line="0" column="26" />
       </file>
       <file name="$USER_HOME$/www/js/specht/test/lib/ignore.js" timestamp="1472126753542">
         <mark key="[" line="25" column="28" />
@@ -75,30 +60,55 @@
         <mark key="^" line="25" column="32" />
         <mark key="." line="25" column="32" />
       </file>
-      <file name="$USER_HOME$/www/js/specht/test/foo.spec.js" timestamp="1472133356852">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/www/js/specht/src/runnerSpec.js" timestamp="1472204039959">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="27" column="32" />
+        <mark key="]" line="27" column="48" />
+        <mark key="." line="27" column="48" />
+        <mark key="^" line="27" column="48" />
       </file>
-      <file name="$USER_HOME$/www/js/specht/src/lib/ignore.js" timestamp="1472132664008">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/www/js/specht/node_modules/mock-fs/lib/index.js" timestamp="1472203540614">
+        <mark key="'" line="43" column="29" />
+        <mark key="[" line="112" column="8" />
+        <mark key="]" line="112" column="14" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/issue-custom-field/yt-issue-custom-field-complex.html" timestamp="1471974598580">
-        <mark key="[" line="4" column="24" />
-        <mark key="]" line="4" column="64" />
-        <mark key="." line="4" column="64" />
-        <mark key="^" line="4" column="64" />
+      <file name="$USER_HOME$/www/js/specht/node_modules/through2/through2.js" timestamp="1472123221810">
+        <mark key="'" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/js/specht/node_modules/graceful-fs/graceful-fs.js" timestamp="1472203785495">
+        <mark key="'" line="46" column="17" />
       </file>
       <file name="$USER_HOME$/www/js/specht/node_modules/eslint-config-airbnb-base/README.md" timestamp="1472138836186">
         <mark key="'" line="48" column="32" />
         <mark key="[" line="48" column="20" />
         <mark key="]" line="48" column="37" />
       </file>
-      <file name="$USER_HOME$/www/js/specht/node_modules/ignore-file/index.js" timestamp="1472125864703">
-        <mark key="'" line="15" column="9" />
+      <file name="$USER_HOME$/www/js/specht/lib/parser/js.js" timestamp="1472144279940">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="72" column="40" />
+        <mark key="]" line="72" column="40" />
+        <mark key="." line="72" column="40" />
+        <mark key="^" line="72" column="40" />
+      </file>
+      <file name="$USER_HOME$/www/js/specht/test/foo.spec.js" timestamp="1472133356852">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/js/specht/.gitignore" timestamp="1472137675499">
+        <mark key="'" line="112" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/js/specht/src/lib/ignore.js" timestamp="1472132664008">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/js/specht/logs/foo/index.js" timestamp="1472139546509">
+        <mark key="'" line="197" column="0" />
       </file>
       <file name="$USER_HOME$/www/js/specht/src/parse-js.js" timestamp="1472133693222">
         <mark key="'" line="85" column="0" />
@@ -110,8 +120,30 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/www/js/specht/test/foo.js" timestamp="1472132934833">
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="0" column="26" />
+        <mark key="." line="0" column="26" />
+        <mark key="^" line="0" column="26" />
+      </file>
       <file name="$USER_HOME$/www/js/specht/node_modules/babel-types/lib/index.js" timestamp="1472143062707">
         <mark key="'" line="65" column="4" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/issue-custom-field/yt-issue-custom-field-complex.html" timestamp="1471974598580">
+        <mark key="[" line="4" column="24" />
+        <mark key="]" line="4" column="64" />
+        <mark key="." line="4" column="64" />
+        <mark key="^" line="4" column="64" />
+      </file>
+      <file name="$USER_HOME$/www/js/specht/.eslintrc" timestamp="1472140422584">
+        <mark key="'" line="7" column="5" />
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="8" column="15" />
+        <mark key="^" line="8" column="15" />
+        <mark key="." line="8" column="15" />
+      </file>
+      <file name="$USER_HOME$/www/js/specht/node_modules/ignore-file/index.js" timestamp="1472125864703">
+        <mark key="'" line="15" column="9" />
       </file>
       <file name="$USER_HOME$/www/js/specht/test/FileList.spec.js" timestamp="1472128891362">
         <mark key="'" line="23" column="0" />
@@ -120,90 +152,8 @@
         <mark key="^" line="14" column="17" />
         <mark key="." line="14" column="17" />
       </file>
-      <file name="$USER_HOME$/www/js/specht/src/index.js" timestamp="1472133015777">
-        <mark key="'" line="202" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="33" />
-        <mark key="." line="122" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/js/specht/src/spetch.js" timestamp="1472123724686">
-        <mark key="'" line="61" column="30" />
-        <mark key="[" line="144" column="19" />
-        <mark key="]" line="144" column="19" />
-        <mark key="." line="144" column="19" />
-        <mark key="^" line="144" column="19" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="17" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="29" column="6" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="41" column="6" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="38" column="14" filename="$USER_HOME$/www/js/specht/logs/foo/parse-js.js" />
-      <jump line="36" column="0" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="59" column="0" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="60" column="0" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="73" column="0" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="84" column="0" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="74" column="27" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="93" column="0" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="57" column="4" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="21" column="0" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="88" column="0" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="104" column="18" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="105" column="9" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="97" column="0" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="96" column="2" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="11" column="0" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="86" column="0" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="65" column="0" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="64" column="0" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="91" column="2" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="83" column="0" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="94" column="0" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="102" column="0" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="35" column="6" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="117" column="21" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="112" column="20" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="81" column="3" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="121" column="14" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="24" column="0" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="111" column="0" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="49" column="0" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="85" column="0" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="103" column="0" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="90" column="2" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="98" column="0" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="63" column="17" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="70" column="0" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="76" column="0" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="116" column="0" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="131" column="0" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="130" column="0" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="142" column="0" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="141" column="0" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="151" column="0" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="80" column="0" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="152" column="0" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="65" column="4" filename="$USER_HOME$/www/js/specht/node_modules/babel-types/lib/index.js" />
-      <jump line="2" column="30" filename="$USER_HOME$/www/js/specht/lib/parser/js.js" />
-      <jump line="13" column="0" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="10" column="0" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="7" column="0" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="80" column="0" filename="$USER_HOME$/www/js/specht/lib/parser/js.js" />
-      <jump line="4" column="43" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="68" column="0" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="61" column="0" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="69" column="0" filename="$USER_HOME$/www/js/specht/lib/parser/js_Spec.js" />
-      <jump line="51" column="6" filename="$USER_HOME$/www/js/specht/logs/foo/parse-js.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/www/js/specht/lib/parser/js.js" />
-      <jump line="78" column="0" filename="$USER_HOME$/www/js/specht/lib/parser/js.js" />
-      <jump line="86" column="0" filename="$USER_HOME$/www/js/specht/lib/parser/js.js" />
-      <jump line="93" column="2" filename="$USER_HOME$/www/js/specht/lib/parser/js.js" />
       <jump line="90" column="0" filename="$USER_HOME$/www/js/specht/lib/parser/js.js" />
       <jump line="36" column="0" filename="$USER_HOME$/www/js/specht/lib/parser/js.js" />
       <jump line="5" column="38" filename="$USER_HOME$/www/js/specht/lib/parser/js.js" />
@@ -233,60 +183,129 @@
       <jump line="16" column="0" filename="$USER_HOME$/www/js/specht/logs/foo/parse-js.js" />
       <jump line="35" column="46" filename="$USER_HOME$/www/js/specht/logs/foo/parse-js.js" />
       <jump line="84" column="0" filename="$USER_HOME$/www/js/specht/logs/foo/parse-js.js" />
+      <jump line="22" column="23" filename="$USER_HOME$/www/js/specht/logs/foo/parse-js.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/js/specht/logs/foo/parse-js.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/js/specht/logs/foo/parse-js.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/js/specht/logs/foo/parse-js.js" />
       <jump line="85" column="0" filename="$USER_HOME$/www/js/specht/logs/foo/parse-js.js" />
+      <jump line="12" column="26" filename="$USER_HOME$/www/js/specht/package.json" />
+      <jump line="43" column="0" filename="$USER_HOME$/www/js/specht/package.json" />
+      <jump line="40" column="137" filename="$USER_HOME$/www/js/specht/src/index.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/www/js/specht/src/index.js" />
+      <jump line="202" column="0" filename="$USER_HOME$/www/js/specht/src/index.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/js/specht/src/index.js" />
+      <jump line="126" column="0" filename="$USER_HOME$/www/js/specht/src/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/js/specht/src/index.js" />
+      <jump line="182" column="0" filename="$USER_HOME$/www/js/specht/src/index.js" />
+      <jump line="25" column="0" filename="$USER_HOME$/www/js/specht/src/index.js" />
+      <jump line="158" column="0" filename="$USER_HOME$/www/js/specht/src/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/js/specht/src/runner.js" />
+      <jump line="198" column="0" filename="$USER_HOME$/www/js/specht/src/index.js" />
+      <jump line="169" column="0" filename="$USER_HOME$/www/js/specht/src/index.js" />
+      <jump line="201" column="2" filename="$USER_HOME$/www/js/specht/src/index.js" />
+      <jump line="173" column="9" filename="$USER_HOME$/www/js/specht/src/index.js" />
+      <jump line="63" column="0" filename="$USER_HOME$/www/js/specht/node_modules/mock-fs/lib/index.js" />
+      <jump line="127" column="2" filename="$USER_HOME$/www/js/specht/node_modules/mock-fs/lib/index.js" />
+      <jump line="128" column="8" filename="$USER_HOME$/www/js/specht/node_modules/mock-fs/lib/index.js" />
+      <jump line="12" column="4" filename="$USER_HOME$/www/js/specht/src/runnerSpec.js" />
+      <jump line="27" column="0" filename="$USER_HOME$/www/js/specht/src/runnerSpec.js" />
+      <jump line="104" column="4" filename="$USER_HOME$/www/js/specht/node_modules/mock-fs/lib/index.js" />
+      <jump line="107" column="0" filename="$USER_HOME$/www/js/specht/node_modules/mock-fs/lib/index.js" />
+      <jump line="15" column="4" filename="$USER_HOME$/www/js/specht/node_modules/mock-fs/lib/index.js" />
+      <jump line="131" column="0" filename="$USER_HOME$/www/js/specht/node_modules/mock-fs/lib/index.js" />
+      <jump line="132" column="21" filename="$USER_HOME$/www/js/specht/node_modules/mock-fs/lib/index.js" />
+      <jump line="134" column="31" filename="$USER_HOME$/www/js/specht/node_modules/mock-fs/lib/index.js" />
+      <jump line="136" column="38" filename="$USER_HOME$/www/js/specht/node_modules/mock-fs/lib/index.js" />
+      <jump line="137" column="20" filename="$USER_HOME$/www/js/specht/node_modules/mock-fs/lib/index.js" />
+      <jump line="8" column="25" filename="$USER_HOME$/www/js/specht/node_modules/mock-fs/lib/index.js" />
+      <jump line="9" column="3" filename="$USER_HOME$/www/js/specht/package.json" />
+      <jump line="65" column="18" filename="$USER_HOME$/www/js/specht/node_modules/mock-fs/lib/index.js" />
+      <jump line="46" column="4" filename="$USER_HOME$/www/js/specht/node_modules/mock-fs/lib/index.js" />
+      <jump line="47" column="4" filename="$USER_HOME$/www/js/specht/node_modules/mock-fs/lib/index.js" />
+      <jump line="92" column="2" filename="$USER_HOME$/www/js/specht/node_modules/mock-fs/lib/index.js" />
+      <jump line="61" column="9" filename="$USER_HOME$/www/js/specht/node_modules/mock-fs/lib/index.js" />
+      <jump line="91" column="2" filename="$USER_HOME$/www/js/specht/node_modules/mock-fs/lib/index.js" />
+      <jump line="69" column="9" filename="$USER_HOME$/www/js/specht/node_modules/mock-fs/lib/index.js" />
+      <jump line="113" column="2" filename="$USER_HOME$/www/js/specht/node_modules/mock-fs/lib/index.js" />
+      <jump line="52" column="29" filename="$USER_HOME$/www/js/specht/node_modules/mock-fs/lib/index.js" />
+      <jump line="58" column="17" filename="$USER_HOME$/www/js/specht/node_modules/mock-fs/lib/index.js" />
+      <jump line="8" column="25" filename="$USER_HOME$/www/js/specht/src/runnerSpec.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/www/js/specht/src/runnerSpec.js" />
+      <jump line="18" column="23" filename="$USER_HOME$/www/js/specht/src/runnerSpec.js" />
+      <jump line="163" column="9" filename="$USER_HOME$/www/js/specht/src/index.js" />
+      <jump line="9" column="7" filename="$USER_HOME$/www/js/specht/src/index.js" />
+      <jump line="17" column="12" filename="$USER_HOME$/www/js/specht/src/runnerSpec.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/www/js/specht/src/runnerSpec.js" />
+      <jump line="13" column="9" filename="$USER_HOME$/www/js/specht/src/runner.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/js/specht/src/runner.js" />
+      <jump line="108" column="17" filename="$USER_HOME$/www/js/specht/src/index.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/www/js/specht/src/runner.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/www/js/specht/src/runner.js" />
+      <jump line="8" column="22" filename="$USER_HOME$/www/js/specht/src/index.js" />
+      <jump line="162" column="0" filename="$USER_HOME$/www/js/specht/src/index.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/www/js/specht/src/runner.js" />
+      <jump line="22" column="0" filename="$USER_HOME$/www/js/specht/src/runnerSpec.js" />
+      <jump line="20" column="7" filename="$USER_HOME$/www/js/specht/src/runnerSpec.js" />
+      <jump line="43" column="29" filename="$USER_HOME$/www/js/specht/node_modules/mock-fs/lib/index.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/www/js/specht/src/runner.js" />
+      <jump line="24" column="22" filename="$USER_HOME$/www/js/specht/src/runnerSpec.js" />
+      <jump line="46" column="17" filename="$USER_HOME$/www/js/specht/node_modules/graceful-fs/graceful-fs.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/www/js/specht/src/runnerSpec.js" />
+      <jump line="25" column="0" filename="$USER_HOME$/www/js/specht/src/runnerSpec.js" />
+      <jump line="9" column="17" filename="$USER_HOME$/www/js/specht/src/runner.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/www/js/specht/src/runnerSpec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB2YXIgZXJyb3IgPSByZXN1bHQuZXJyb3JbMF07Cg==</text>
+      <register name="&quot;" type="4">
+        <text>console.log.bind(console)</text>
       </register>
       <register name="-" type="4">
-        <text>line: 1, column: 4</text>
+        <text>console.log.bind(console)</text>
       </register>
       <register name="/" type="4">
-        <text>error</text>
+        <text>restore</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB2YXIgZXJyb3IgPSByZXN1bHQuZXJyb3JbMF07Cg==</text>
+        <text encoding="base64">aW1wb3J0IHRocm91Z2gyIGZyb20gJ3Rocm91Z2gyJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB0LmRlZXBFcXVhbChyZXN1bHQuZXJyb3IsIFt7CiAgICBwcm9jTmFtZTogJ2ZvbycsCiAgICBwb3M6IHt9CiAgfV0pOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNyZWF0ZVJ1bm5lciBmcm9tICcuL3J1bm5lcic7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByb2NOYW1lOiAnZm9vJywK</text>
+        <text encoding="base64">aW1wb3J0IGZzIGZyb20gJ2ZzJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0LmRlZXBFcXVhbChyZXN1bHQuZXJyb3IsIFt7CiAgICBwcm9jTmFtZTogJ2ZvbycsCiAgICBwb3M6IHtsaW5lOiAxLCBjb2x1bW46IDR9CiAgfV0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1lc3NhZ2U6IAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhmcy5yZWFkRmlsZVN5bmMoJy9mb28vYmFyLmpzJykudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGZzIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBmdW5jdGlvbiBjcmVhdGVFcnJvcigpIHsKCiAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IG1vY2sgZnJvbSAnbW9jay1mcyc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IG1vY2sgZnJvbSAnbW9jay1mcyc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHJlYWRkaXJwIGZyb20gJ3JlYWRkaXJwJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNpbm9uIGZyb20gJ3Npbm9uJzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>error</last-search>
+      <last-search>restore</last-search>
       <last-offset />
-      <last-pattern>error</last-pattern>
+      <last-pattern>restore</last-pattern>
       <last-replace>const spet</last-replace>
       <last-substitute>let spet</last-substitute>
       <last-dir>1</last-dir>
@@ -294,26 +313,26 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtaW5pbWF0Y2hcPg==</entry>
-        <entry>cb</entry>
-        <entry>va</entry>
-        <entry>module.exports</entry>
-        <entry encoding="base64">XDxzZXRCaW5kaW5nXD4=</entry>
-        <entry encoding="base64">XDxyZWFsRnNcPg==</entry>
-        <entry encoding="base64">XDxtb3VudGZzXD4=</entry>
-        <entry>lib</entry>
-        <entry>air</entry>
-        <entry>lega</entry>
-        <entry>es5</entry>
-        <entry>t =</entry>
-        <entry>rules</entry>
-        <entry encoding="base64">XDx0cmF2ZXJzZVw+</entry>
-        <entry encoding="base64">XDxlcnJvclw+</entry>
         <entry>isStr</entry>
         <entry>log</entry>
         <entry>loc</entry>
         <entry>exports</entry>
         <entry>error</entry>
+        <entry>pars</entry>
+        <entry>getFilters</entry>
+        <entry>fs</entry>
+        <entry>mockfs</entry>
+        <entry>bind</entry>
+        <entry>moun</entry>
+        <entry>mount</entry>
+        <entry encoding="base64">XDxvcmlnaW5hbEJpbmRpbmdcPg==</entry>
+        <entry encoding="base64">XDxvcmlnaW5hbFN0YXRzXD4=</entry>
+        <entry encoding="base64">XDxzZXRCaW5kaW5nXD4=</entry>
+        <entry encoding="base64">XDxtb2NrRnVuY3Rpb25cPg==</entry>
+        <entry encoding="base64">XDx0aHJvdWdoMlw+</entry>
+        <entry>readd</entry>
+        <entry>readdirp</entry>
+        <entry>restore</entry>
       </history-search>
       <history-cmd>
         <entry>82</entry>
