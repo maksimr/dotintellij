@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/www/js/specht/src/index.js" timestamp="1472211710805">
-        <mark key="'" line="6" column="0" />
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="78" />
+      <file name="$USER_HOME$/www/js/specht/src/index.js" timestamp="1472212707246">
+        <mark key="'" line="189" column="23" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="119" column="2" />
         <mark key="." line="122" column="0" />
       </file>
       <file name="$USER_HOME$/www/js/specht/src/spetch.js" timestamp="1472123724686">
@@ -26,12 +26,12 @@
         <mark key="]" line="0" column="48" />
         <mark key="." line="116" column="0" />
       </file>
-      <file name="$USER_HOME$/www/js/specht/src/runner.js" timestamp="1472211982567">
-        <mark key="'" line="40" column="0" />
-        <mark key="[" line="58" column="53" />
-        <mark key="]" line="59" column="5" />
-        <mark key="." line="59" column="7" />
-        <mark key="^" line="59" column="5" />
+      <file name="$USER_HOME$/www/js/specht/src/runner.js" timestamp="1472212720326">
+        <mark key="'" line="25" column="19" />
+        <mark key="[" line="30" column="75" />
+        <mark key="]" line="38" column="18" />
+        <mark key="^" line="38" column="18" />
+        <mark key="." line="38" column="18" />
       </file>
       <file name="$USER_HOME$/www/js/specht/package.json" timestamp="1472206630781">
         <mark key="'" line="46" column="23" />
@@ -53,11 +53,12 @@
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="63" />
       </file>
-      <file name="$USER_HOME$/www/js/specht/src/runnerSpec.js" timestamp="1472211552755">
+      <file name="$USER_HOME$/www/js/specht/src/runnerSpec.js" timestamp="1472212303360">
         <mark key="'" line="11" column="22" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+        <mark key="[" line="39" column="13" />
+        <mark key="]" line="39" column="16" />
+        <mark key="." line="39" column="16" />
+        <mark key="^" line="39" column="16" />
       </file>
       <file name="$USER_HOME$/www/js/specht/node_modules/through2/node_modules/readable-stream/lib/_stream_writable.js" timestamp="1472207144925">
         <mark key="'" line="179" column="28" />
@@ -148,16 +149,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="20" filename="$USER_HOME$/www/js/specht/node_modules/mock-fs/lib/index.js" />
-      <jump line="58" column="36" filename="$USER_HOME$/www/js/specht/node_modules/mock-fs/lib/index.js" />
-      <jump line="56" column="36" filename="$USER_HOME$/www/js/specht/node_modules/mock-fs/lib/index.js" />
-      <jump line="52" column="4" filename="$USER_HOME$/www/js/specht/node_modules/mock-fs/lib/index.js" />
-      <jump line="86" column="17" filename="$USER_HOME$/www/js/specht/node_modules/mock-fs/lib/index.js" />
-      <jump line="113" column="0" filename="$USER_HOME$/www/js/specht/node_modules/mock-fs/lib/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/js/specht/node_modules/mock-fs/lib/index.js" />
-      <jump line="71" column="17" filename="$USER_HOME$/www/js/specht/node_modules/mock-fs/lib/index.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/www/js/specht/node_modules/mock-fs/lib/index.js" />
-      <jump line="56" column="12" filename="$USER_HOME$/www/js/specht/node_modules/graceful-fs/graceful-fs.js" />
       <jump line="5" column="0" filename="$USER_HOME$/www/js/specht/node_modules/graceful-fs/graceful-fs.js" />
       <jump line="29" column="0" filename="$USER_HOME$/www/js/specht/node_modules/graceful-fs/graceful-fs.js" />
       <jump line="31" column="16" filename="$USER_HOME$/www/js/specht/node_modules/graceful-fs/graceful-fs.js" />
@@ -213,8 +204,6 @@
       <jump line="54" column="15" filename="$USER_HOME$/www/js/specht/src/index.js" />
       <jump line="59" column="13" filename="$USER_HOME$/www/js/specht/src/index.js" />
       <jump line="106" column="47" filename="$USER_HOME$/www/js/specht/src/index.js" />
-      <jump line="107" column="40" filename="$USER_HOME$/www/js/specht/src/index.js" />
-      <jump line="116" column="36" filename="$USER_HOME$/www/js/specht/src/index.js" />
       <jump line="118" column="5" filename="$USER_HOME$/www/js/specht/src/index.js" />
       <jump line="123" column="35" filename="$USER_HOME$/www/js/specht/src/index.js" />
       <jump line="133" column="32" filename="$USER_HOME$/www/js/specht/src/index.js" />
@@ -248,43 +237,55 @@
       <jump line="6" column="0" filename="$USER_HOME$/www/js/specht/src/index.js" />
       <jump line="16" column="68" filename="$USER_HOME$/www/js/specht/src/runner.js" />
       <jump line="40" column="0" filename="$USER_HOME$/www/js/specht/src/runner.js" />
+      <jump line="24" column="0" filename="$USER_HOME$/www/js/specht/src/runner.js" />
+      <jump line="158" column="2" filename="$USER_HOME$/www/js/specht/src/index.js" />
+      <jump line="159" column="8" filename="$USER_HOME$/www/js/specht/src/index.js" />
+      <jump line="29" column="0" filename="$USER_HOME$/www/js/specht/src/runner.js" />
+      <jump line="71" column="0" filename="$USER_HOME$/www/js/specht/src/runner.js" />
+      <jump line="23" column="19" filename="$USER_HOME$/www/js/specht/src/runner.js" />
+      <jump line="115" column="6" filename="$USER_HOME$/www/js/specht/src/index.js" />
+      <jump line="116" column="4" filename="$USER_HOME$/www/js/specht/src/index.js" />
+      <jump line="90" column="37" filename="$USER_HOME$/www/js/specht/src/index.js" />
+      <jump line="96" column="13" filename="$USER_HOME$/www/js/specht/src/index.js" />
+      <jump line="107" column="26" filename="$USER_HOME$/www/js/specht/src/index.js" />
+      <jump line="189" column="23" filename="$USER_HOME$/www/js/specht/src/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpZiAocGFyc2VyKSB7CiAgICBwYXJzZXIoe2Z1bGxQYXRoLCBydWxlcywgcHVzaCwgbmV4dH0pOwogIH0gZWxzZSB7CiAgICBuZXh0KCk7CiAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZmlsZUZpbHRlcjog</text>
+        <text>Url</text>
       </register>
       <register name="/" type="4">
-        <text>ignore</text>
+        <text>getUrls</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpZiAocGFyc2VyKSB7CiAgICBwYXJzZXIoe2Z1bGxQYXRoLCBydWxlcywgcHVzaCwgbmV4dH0pOwogIH0gZWxzZSB7CiAgICBuZXh0KCk7CiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGsK</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGlzSWdub3JlZCA9IGlnbm9yZS5zeW5jKHJlc29sdmUocm9vdERpciwgaWdub3JlRmlsZSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkb2N1bWVudHMuc2V0KGRvY3VtZW50LCBwYXRoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKCFkb2N1bWVudHMuaGFzKGRvY3VtZW50KSkgewo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBleHRlbnNpb25zID0gWycuanMnLCAnLmh0bWwnXTsK</text>
+        <text encoding="base64">ICBydW5uZXIuZ2V0UGFyc2VyID0gZnVuY3Rpb24gZ2V0UGFyc2VyKGZpbGVOYW1lKSB7CiAgICByZXR1cm4gKHJ1bm5lci5sYW5nUHJvcHMuZ2V0KGV4dG5hbWUoZmlsZU5hbWUpKSB8fCB7fSkucGFyc2VyOwogIH07Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHtleHRuYW1lfSBmcm9tICdwYXRoJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">bGV0IGV4dGVuc2lvbnM7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBwYXJzZXI7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -297,9 +298,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ignore</last-search>
+      <last-search>getUrls</last-search>
       <last-offset />
-      <last-pattern>ignore</last-pattern>
+      <last-pattern>getUrls</last-pattern>
       <last-replace>const spet</last-replace>
       <last-substitute>let spet</last-substitute>
       <last-dir>1</last-dir>
@@ -307,12 +308,6 @@
     </search>
     <history>
       <history-search>
-        <entry>realpath</entry>
-        <entry>fs</entry>
-        <entry>realpa</entry>
-        <entry>path</entry>
-        <entry>real</entry>
-        <entry>non-string</entry>
         <entry>validChunk</entry>
         <entry>objectMode</entry>
         <entry encoding="base64">XDxXcml0YWJsZVN0YXRlXD4=</entry>
@@ -327,6 +322,12 @@
         <entry encoding="base64">XDxpbmNsdWRlc1w+</entry>
         <entry>includes</entry>
         <entry>ignore</entry>
+        <entry encoding="base64">XDxzdGFydFRpbWVcPg==</entry>
+        <entry>parser</entry>
+        <entry>convert</entry>
+        <entry>pars</entry>
+        <entry>langProps</entry>
+        <entry>getUrls</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Header/VCSChanges/gc</entry>
