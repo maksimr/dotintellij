@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/www/js/specht/src/index.js" timestamp="1472218013980">
-        <mark key="'" line="71" column="6" />
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="112" column="4" />
+      <file name="$USER_HOME$/www/js/specht/src/index.js" timestamp="1472228872615">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="69" column="6" />
         <mark key="." line="122" column="0" />
       </file>
       <file name="$USER_HOME$/www/js/specht/src/spetch.js" timestamp="1472123724686">
@@ -29,19 +29,19 @@
         <mark key="]" line="0" column="48" />
         <mark key="." line="116" column="0" />
       </file>
-      <file name="$USER_HOME$/www/js/specht/src/runner.js" timestamp="1472227652372">
-        <mark key="'" line="101" column="0" />
-        <mark key="[" line="5" column="28" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-        <mark key="^" line="6" column="0" />
+      <file name="$USER_HOME$/www/js/specht/src/runner.js" timestamp="1472229234905">
+        <mark key="'" line="41" column="4" />
+        <mark key="[" line="104" column="8" />
+        <mark key="]" line="104" column="11" />
+        <mark key="." line="104" column="11" />
+        <mark key="^" line="104" column="11" />
       </file>
-      <file name="$USER_HOME$/www/js/specht/package.json" timestamp="1472219595107">
-        <mark key="'" line="55" column="0" />
-        <mark key="[" line="18" column="54" />
-        <mark key="]" line="18" column="65" />
-        <mark key="." line="18" column="65" />
-        <mark key="^" line="18" column="65" />
+      <file name="$USER_HOME$/www/js/specht/package.json" timestamp="1472228941940">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="4" column="16" />
+        <mark key="." line="4" column="16" />
+        <mark key="^" line="4" column="16" />
         <mark key="o" line="19" column="0" />
       </file>
       <file name="$USER_HOME$/www/js/specht/src/readdir.js" timestamp="1472218559059">
@@ -126,17 +126,25 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/www/js/specht/src/cli.js" timestamp="1472228895437">
+        <mark key="'" line="71" column="0" />
+        <mark key="[" line="14" column="6" />
+        <mark key="]" line="14" column="12" />
+        <mark key="." line="14" column="12" />
+        <mark key="^" line="14" column="12" />
+      </file>
       <file name="$USER_HOME$/www/js/specht/.gitignore" timestamp="1472137675499">
         <mark key="'" line="112" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/js/specht/test/runnerSpec.js" timestamp="1472227339322">
-        <mark key="'" line="87" column="0" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="101" column="38" />
+      <file name="$USER_HOME$/www/js/specht/test/runnerSpec.js" timestamp="1472228450180">
+        <mark key="'" line="119" column="2" />
+        <mark key="[" line="110" column="4" />
+        <mark key="]" line="110" column="3" />
+        <mark key="." line="110" column="3" />
+        <mark key="^" line="110" column="3" />
       </file>
       <file name="$USER_HOME$/www/js/specht/logs/foo/index.js" timestamp="1472139546509">
         <mark key="'" line="197" column="0" />
@@ -190,40 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="32" filename="$USER_HOME$/www/js/specht/package.json" />
-      <jump line="55" column="0" filename="$USER_HOME$/www/js/specht/package.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/js/specht/test/enable-hack-for-mock-fs.js" />
-      <jump line="19" column="0" filename="$USER_HOME$/www/js/specht/test/readdirSpec.js" />
-      <jump line="83" column="0" filename="$USER_HOME$/www/js/specht/test/readdirSpec.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/www/js/specht/test/enable-hack-for-mock-fs.js" />
-      <jump line="7" column="0" filename="$USER_HOME$/www/js/specht/test/enable-hack-for-mock-fs.js" />
-      <jump line="20" column="1" filename="$USER_HOME$/www/js/specht/test/enable-hack-for-mock-fs.js" />
-      <jump line="17" column="0" filename="$USER_HOME$/www/js/specht/test/readdirSpec.js" />
-      <jump line="68" column="0" filename="$USER_HOME$/www/js/specht/test/readdirSpec.js" />
-      <jump line="7" column="0" filename="$USER_HOME$/www/js/specht/test/readdirSpec.js" />
-      <jump line="81" column="0" filename="$USER_HOME$/www/js/specht/test/readdirSpec.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/www/js/specht/test/readdirSpec.js" />
-      <jump line="82" column="0" filename="$USER_HOME$/www/js/specht/test/readdirSpec.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/www/js/specht/test/enable-hack-for-mock-fs.js" />
-      <jump line="18" column="0" filename="$USER_HOME$/www/js/specht/test/readdirSpec.js" />
-      <jump line="50" column="0" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
-      <jump line="47" column="0" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
-      <jump line="25" column="0" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
-      <jump line="10" column="0" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/www/js/specht/test/readdirSpec.js" />
-      <jump line="63" column="0" filename="$USER_HOME$/www/js/specht/test/readdirSpec.js" />
-      <jump line="33" column="0" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
-      <jump line="12" column="0" filename="$USER_HOME$/www/js/specht/test/readdirSpec.js" />
-      <jump line="97" column="0" filename="$USER_HOME$/www/js/specht/src/runner.js" />
-      <jump line="138" column="11" filename="$USER_HOME$/www/js/specht/src/runner.js" />
-      <jump line="144" column="52" filename="$USER_HOME$/www/js/specht/src/runner.js" />
-      <jump line="32" column="0" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
-      <jump line="31" column="0" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
-      <jump line="26" column="2" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/www/js/specht/src/parser/parse-js.js" />
-      <jump line="41" column="0" filename="$USER_HOME$/www/js/specht/src/parser/parse-js.js" />
       <jump line="64" column="0" filename="$USER_HOME$/www/js/specht/src/parser/parse-js.js" />
       <jump line="69" column="52" filename="$USER_HOME$/www/js/specht/src/parser/parse-js.js" />
       <jump line="74" column="0" filename="$USER_HOME$/www/js/specht/src/runner.js" />
@@ -234,7 +208,6 @@
       <jump line="14" column="0" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
       <jump line="42" column="2" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
       <jump line="72" column="11" filename="$USER_HOME$/www/js/specht/src/runner.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/js/specht/src/runner.js" />
       <jump line="34" column="0" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
       <jump line="45" column="0" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
       <jump line="60" column="0" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
@@ -243,7 +216,6 @@
       <jump line="44" column="0" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
       <jump line="61" column="0" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
       <jump line="18" column="0" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
-      <jump line="71" column="0" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
       <jump line="59" column="0" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
       <jump line="86" column="2" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
       <jump line="85" column="9" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
@@ -260,7 +232,6 @@
       <jump line="9" column="0" filename="$USER_HOME$/www/js/specht/src/runner.js" />
       <jump line="1" column="0" filename="$USER_HOME$/www/js/specht/src/convert-rules.js" />
       <jump line="39" column="0" filename="$USER_HOME$/www/js/specht/src/runner.js" />
-      <jump line="41" column="50" filename="$USER_HOME$/www/js/specht/src/runner.js" />
       <jump line="44" column="46" filename="$USER_HOME$/www/js/specht/src/runner.js" />
       <jump line="42" column="7" filename="$USER_HOME$/www/js/specht/src/runner.js" />
       <jump line="54" column="29" filename="$USER_HOME$/www/js/specht/src/runner.js" />
@@ -276,7 +247,6 @@
       <jump line="68" column="2" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
       <jump line="24" column="0" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
       <jump line="84" column="0" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
-      <jump line="27" column="0" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
       <jump line="90" column="0" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
       <jump line="97" column="0" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
       <jump line="87" column="0" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
@@ -289,59 +259,97 @@
       <jump line="114" column="0" filename="$USER_HOME$/www/js/specht/src/runner.js" />
       <jump line="24" column="0" filename="$USER_HOME$/www/js/specht/src/runner.js" />
       <jump line="6" column="0" filename="$USER_HOME$/www/js/specht/src/runner.js" />
-      <jump line="101" column="0" filename="$USER_HOME$/www/js/specht/src/runner.js" />
+      <jump line="43" column="0" filename="$USER_HOME$/www/js/specht/src/runner.js" />
+      <jump line="27" column="0" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
+      <jump line="88" column="0" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
+      <jump line="110" column="0" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
+      <jump line="102" column="7" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
+      <jump line="92" column="3" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
+      <jump line="71" column="0" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
+      <jump line="115" column="2" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
+      <jump line="122" column="2" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
+      <jump line="50" column="9" filename="$USER_HOME$/www/js/specht/src/runner.js" />
+      <jump line="51" column="0" filename="$USER_HOME$/www/js/specht/src/runner.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/js/specht/src/runner.js" />
+      <jump line="156" column="0" filename="$USER_HOME$/www/js/specht/src/runner.js" />
+      <jump line="56" column="0" filename="$USER_HOME$/www/js/specht/src/runner.js" />
+      <jump line="52" column="0" filename="$USER_HOME$/www/js/specht/src/runner.js" />
+      <jump line="109" column="0" filename="$USER_HOME$/www/js/specht/src/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/js/specht/src/index.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/www/js/specht/src/cli.js" />
+      <jump line="160" column="0" filename="$USER_HOME$/www/js/specht/src/cli.js" />
+      <jump line="171" column="0" filename="$USER_HOME$/www/js/specht/src/cli.js" />
+      <jump line="45" column="2" filename="$USER_HOME$/www/js/specht/src/cli.js" />
+      <jump line="5" column="2" filename="$USER_HOME$/www/js/specht/src/cli.js" />
+      <jump line="54" column="13" filename="$USER_HOME$/www/js/specht/src/cli.js" />
+      <jump line="13" column="12" filename="$USER_HOME$/www/js/specht/src/cli.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/js/specht/src/cli.js" />
+      <jump line="48" column="0" filename="$USER_HOME$/www/js/specht/src/cli.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/www/js/specht/src/cli.js" />
+      <jump line="75" column="0" filename="$USER_HOME$/www/js/specht/src/cli.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/js/specht/src/cli.js" />
+      <jump line="71" column="0" filename="$USER_HOME$/www/js/specht/src/cli.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/js/specht/package.json" />
+      <jump line="31" column="0" filename="$USER_HOME$/www/js/specht/src/runner.js" />
+      <jump line="101" column="41" filename="$USER_HOME$/www/js/specht/src/runner.js" />
+      <jump line="104" column="28" filename="$USER_HOME$/www/js/specht/src/runner.js" />
+      <jump line="99" column="0" filename="$USER_HOME$/www/js/specht/src/runner.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/js/specht/src/runner.js" />
+      <jump line="70" column="4" filename="$USER_HOME$/www/js/specht/src/runner.js" />
+      <jump line="120" column="0" filename="$USER_HOME$/www/js/specht/src/runner.js" />
+      <jump line="41" column="4" filename="$USER_HOME$/www/js/specht/src/runner.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHt0ZXN0U3RhcnRlZCwgdGVzdEZpbmlzaGVkLCB0ZXN0RmFpbGVkfSBmcm9tICd0ZWFtY2l0eS1zZXJ2aWNlLW1lc3NhZ2VzJzsK</text>
+      <register name="&quot;" type="4">
+        <text>!beforeCheckUrl || !beforeCheckUrl(url)</text>
       </register>
       <register name="-" type="4">
-        <text>filePath</text>
+        <text>!beforeCheckUrl || !beforeCheckUrl(url)</text>
       </register>
       <register name="/" type="4">
-        <text>stat</text>
+        <text>before</text>
       </register>
-      <register name="0" type="4">
-        <text>sourceFilePath</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y29uc3QgewogIHBhdHRlcm4sCiAganNFeHRlbnNpb24sCiAgaHRtbEV4dGVuc2lvbiwKICBqc1J1bGVzLAogIGh0bWxSdWxlcywKICBpZ25vcmVGaWxlLAogIGhlbHAsCiAgdGVhbWNpdHksCiAgXzogW3Jvb3QgPSBwcm9jZXNzLmN3ZCgpXQp9ID0geWFyZ3MuCiAgdXNhZ2UoYFVzYWdlOiAkMCBbcGF0aF0gW29wdGlvbnNdCgpFeGFtcGxlOiAkMCBwYXRoL3RvL3N0YXJ0L2Zyb20gXFwKLS1wYXR0ZXJuIGh0dHBzOi8vd3d3LmpldGJyYWlucy5jb20vaHViL2hlbHAvMS4wLyVzLmh0bWwgXFwKLS1pZ25vcmUtZmlsZSAuZ2l0aWdub3JlIFxcCi0taHRtbC1ydWxlcyBzdmc6eGxpbms6aHJlZiBodWItcGFnZS1oZWxwLWxpbms6dXJsIFxcCi0tanMtcnVsZXMgZ2V0SGVscFVybEZpbHRlciBnZXRIZWxwVXJsSW5TZWNvbmRQYXJhbWV0ZXI6MSBcXAotLWh0bWwtZXh0ZW5zaW9uIC5odG1sIC5odG0gXFwKLS10ZWFtY2l0eQoKQXQgbGVhc3Qgb25lIG9mIC0tanMtcnVsZXMgb3IgLS1odG1sLXJ1bGVzIHBhcmFtZXRlcnMgaXMgcmVxdWlyZWQuIFdpbGwgZXhpdCB3aXRoIGNvZGUgMSBvdGhlcndpc2UuYCkuCiAgb3B0aW9uKCdwYXR0ZXJuJywgewogICAgZGVzY3JpYmU6ICdIZWxwIHNpdGUgcGF0dGVybiwgZS5nLjogaHR0cHM6Ly93d3cuamV0YnJhaW5zLmNvbS9odWIvaGVscC8xLjAvJXMuaHRtbC4g4oCcJXPigJ0gcGxhY2Vob2xkZXIgaXMgcmVwbGFjZWQgd2l0aCBwYXJ0cyBmb3VuZCBieSBwYXJzZXJzJywKICAgIGRlZmF1bHQ6ICclcycKICB9KS4KICBvcHRpb24oJ2lnbm9yZS1maWxlJywgewogICAgZGVzY3JpYmU6ICdGaWxlcyBhbmQgZGlyZWN0b3JpZXMgdG8gaWdub3JlLCB1c2VzIC5naXRnbm9yZSBmb3JtYXQuIFJlbGF0aXZlIGZyb20gcGF0aC4nCiAgfSkuCiAgb3B0aW9uKCdodG1sLXJ1bGVzJywgewogICAgZGVzY3JpYmU6ICdSdWxlcyBvZiBwYXJzaW5nIEhUTUwgZmlsZXMsIGluIGZvcm0gb2YgPHRhZyBuYW1lPjo8YXR0cmlidXRlIG5hbWU+LiBYTUwgbmFtZXNwYWNlcyBmb3IgYXR0cmlidXRlcyBhcmUgc3VwcG9ydGVkLicsCiAgICBhcnJheTogdHJ1ZQogIH0pLgogIG9wdGlvbignanMtcnVsZXMnLCB7CiAgICBkZXNjcmliZTogJ1J1bGVzIG9mIHBhcnNpbmcgSmF2YVNjcmlwdCBmaWxlcywgaW4gZm9ybSBvZiA8ZnVuY3Rpb24gbmFtZT5bOjxhcmd1bWVudCBudW1iZXIsIGRlZmF1bHQgaXMgMD5dLicsCiAgICBhcnJheTogdHJ1ZQogIH0pLgogIG9wdGlvbignaHRtbC1leHRlbnNpb24nLCB7CiAgICBkZXNjcmliZTogJ0V4dGVuc2lvbnMgb2YgSFRNTCBmaWxlcycsCiAgICBhcnJheTogdHJ1ZSwKICAgIGRlZmF1bHQ6IFsnLmh0bWwnXQogIH0pLgogIG9wdGlvbignanMtZXh0ZW5zaW9uJywgewogICAgZGVzY3JpYmU6ICdFeHRlbnNpb25zIG9mIEphdmFTY3JpcHQgZmlsZXMnLAogICAgYXJyYXk6IHRydWUsCiAgICBkZWZhdWx0OiBbJy5qcyddCiAgfSkuCiAgb3B0aW9uKCd0ZWFtY2l0eScsIHsKICAgIGRlc2NyaWJlOiAnUmVwb3J0IGNoZWNrIHJlc3VsdHMgdG8gVGVhbUNpdHknLAogICAgYm9vbGVhbjogdHJ1ZQogIH0pLgogIGhlbHAoJ2hlbHAnKS4KICBhcmd2Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHt0ZXN0U3RhcnRlZCwgdGVzdEZpbmlzaGVkLCB0ZXN0RmFpbGVkfSBmcm9tICd0ZWFtY2l0eS1zZXJ2aWNlLW1lc3NhZ2VzJzsK</text>
+        <text encoding="base64">Y29uc3QgewogIHBhdHRlcm4sCiAganNFeHRlbnNpb24sCiAgaHRtbEV4dGVuc2lvbiwKICBqc1J1bGVzLAogIGh0bWxSdWxlcywKICBpZ25vcmVGaWxlLAogIGhlbHAsCiAgdGVhbWNpdHksCiAgXzogW3Jvb3REaXIgPSBwcm9jZXNzLmN3ZCgpXQp9ID0geWFyZ3MudXNhZ2UoYFVzYWdlOiAkMCBbcGF0aF0gW29wdGlvbnNdCgpFeGFtcGxlOiAkMCBwYXRoL3RvL3N0YXJ0L2Zyb20gXFwKLS1wYXR0ZXJuIGh0dHBzOi8vd3d3LmpldGJyYWlucy5jb20vaHViL2hlbHAvMS4wLyVzLmh0bWwgXFwKLS1pZ25vcmUtZmlsZSAuZ2l0aWdub3JlIFxcCi0taHRtbC1ydWxlcyBzdmc6eGxpbms6aHJlZiBodWItcGFnZS1oZWxwLWxpbms6dXJsIFxcCi0tanMtcnVsZXMgZ2V0SGVscFVybEZpbHRlciBnZXRIZWxwVXJsSW5TZWNvbmRQYXJhbWV0ZXI6MSBcXAotLWh0bWwtZXh0ZW5zaW9uIC5odG1sIC5odG0gXFwKLS10ZWFtY2l0eQoKQXQgbGVhc3Qgb25lIG9mIC0tanMtcnVsZXMgb3IgLS1odG1sLXJ1bGVzIHBhcmFtZXRlcnMgaXMgcmVxdWlyZWQuIFdpbGwgZXhpdCB3aXRoIGNvZGUgMSBvdGhlcndpc2UuYCkub3B0aW9uKCdwYXR0ZXJuJywgewogIGRlc2NyaWJlOiAnSGVscCBzaXRlIHBhdHRlcm4sIGUuZy46IGh0dHBzOi8vd3d3LmpldGJyYWlucy5jb20vaHViL2hlbHAvMS4wLyVzLmh0bWwuIOKAnCVz4oCdIHBsYWNlaG9sZGVyIGlzIHJlcGxhY2VkIHdpdGggcGFydHMgZm91bmQgYnkgcGFyc2VycycsCiAgZGVmYXVsdDogJyVzJwp9KS5vcHRpb24oJ2lnbm9yZS1maWxlJywgewogIGRlc2NyaWJlOiAnRmlsZXMgYW5kIGRpcmVjdG9yaWVzIHRvIGlnbm9yZSwgdXNlcyAuZ2l0Z25vcmUgZm9ybWF0LiBSZWxhdGl2ZSBmcm9tIHBhdGguJwp9KS5vcHRpb24oJ2h0bWwtcnVsZXMnLCB7CiAgZGVzY3JpYmU6ICdSdWxlcyBvZiBwYXJzaW5nIEhUTUwgZmlsZXMsIGluIGZvcm0gb2YgPHRhZyBuYW1lPjo8YXR0cmlidXRlIG5hbWU+LiBYTUwgbmFtZXNwYWNlcyBmb3IgYXR0cmlidXRlcyBhcmUgc3VwcG9ydGVkLicsCiAgYXJyYXk6IHRydWUKfSkub3B0aW9uKCdqcy1ydWxlcycsIHsKICBkZXNjcmliZTogJ1J1bGVzIG9mIHBhcnNpbmcgSmF2YVNjcmlwdCBmaWxlcywgaW4gZm9ybSBvZiA8ZnVuY3Rpb24gbmFtZT5bOjxhcmd1bWVudCBudW1iZXIsIGRlZmF1bHQgaXMgMD5dLicsCiAgYXJyYXk6IHRydWUKfSkub3B0aW9uKCdodG1sLWV4dGVuc2lvbicsIHsKICBkZXNjcmliZTogJ0V4dGVuc2lvbnMgb2YgSFRNTCBmaWxlcycsCiAgYXJyYXk6IHRydWUsCiAgZGVmYXVsdDogWycuaHRtbCddCn0pLm9wdGlvbignanMtZXh0ZW5zaW9uJywgewogIGRlc2NyaWJlOiAnRXh0ZW5zaW9ucyBvZiBKYXZhU2NyaXB0IGZpbGVzJywKICBhcnJheTogdHJ1ZSwKICBkZWZhdWx0OiBbJy5qcyddCn0pLm9wdGlvbigndGVhbWNpdHknLCB7CiAgZGVzY3JpYmU6ICdSZXBvcnQgY2hlY2sgcmVzdWx0cyB0byBUZWFtQ2l0eScsCiAgYm9vbGVhbjogdHJ1ZQp9KS5oZWxwKCdoZWxwJykuYXJndjsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkb2N1bWVudCwKICAgICAgICBzdGF0dXNDb2RlLAogICAgICAgIHVybCwKICAgICAgICBzb3VyY2VGaWxlUGF0aDogcnVubmVyLmRvY3VtZW50cy5nZXQoZG9jdW1lbnQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IFNVQ0NFU1NfQ09ERSA9IDIwMDsK</text>
+        <text encoding="base64">Y29uc3QgZG9jdW1lbnRzID0gbmV3IE1hcCgpOwpjb25zdCBsYW5nUHJvcHMgPSBuZXcgTWFwKCk7CgpmdW5jdGlvbiBjb252ZXJ0UnVsZXMocnVsZXMsIGRlZmF1bHRWYWx1ZSkgewogIGNvbnN0IFJVTEVfREVMSU1JVEVSID0gJzonOwogIGNvbnN0IGxvb2t1cCA9IG5ldyBNYXAoKTsKCiAgcnVsZXMuZm9yRWFjaChydWxlID0+IHsKICAgIGNvbnN0IFtrZXksIC4uLnJ1bGVQYXJ0c10gPSBydWxlLnNwbGl0KFJVTEVfREVMSU1JVEVSKTsKCiAgICBzd2l0Y2ggKHJ1bGVQYXJ0cy5sZW5ndGgpIHsKICAgICAgY2FzZSAwOgogICAgICAgIGlmIChkZWZhdWx0VmFsdWUgPT0gbnVsbCkgewogICAgICAgICAgdGhyb3cgbmV3IEVycm9yKGBBdHRyaWJ1dGUgbmFtZSBmb3IgdGFnIOKAnCR7a2V5feKAnSBpcyBleHBlY3RlZC5gKTsKICAgICAgICB9CiAgICAgICAgbG9va3VwLnNldChrZXksIGRlZmF1bHRWYWx1ZSk7CiAgICAgICAgYnJlYWs7CgogICAgICBjYXNlIDE6CiAgICAgICAgbG9va3VwLnNldChrZXksIHJ1bGVQYXJ0c1swXSk7CiAgICAgICAgYnJlYWs7CgogICAgICAvLyBTdXBwb3J0IGF0dHJpYnV0ZXMgd2l0aCBuYW1lc3BhY2VzCiAgICAgIGNhc2UgMjoKICAgICAgICBsb29rdXAuc2V0KGtleSwgcnVsZVBhcnRzLmpvaW4oUlVMRV9ERUxJTUlURVIpKTsKICAgICAgICBicmVhazsKCiAgICAgIGRlZmF1bHQ6CiAgICAgICAgdGhyb3cgbmV3IEVycm9yKGBSdWxlIG11c3QgY29udGFpbiBtYXhpbXVtIDIgZGVsaW1pdGVycyAoJHtSVUxFX0RFTElNSVRFUn0pYCk7CiAgICB9CiAgfSk7CgogIHJldHVybiBsb29rdXA7Cn0KCmZ1bmN0aW9uIGdldFVybHMoe25hbWUsIHBhdGgsIGZ1bGxQYXRofSwgZW5jLCBuZXh0KSB7CiAgY29uc3Qge3J1bGVzLCBwYXJzZXJ9ID0gbGFuZ1Byb3BzLmdldChleHRuYW1lKG5hbWUpKSB8fCB7fTsKICBjb25zdCBwdXNoID0gZG9jdW1lbnQgPT4gewogICAgaWYgKCFkb2N1bWVudHMuaGFzKGRvY3VtZW50KSkgewogICAgICB0aGlzLnB1c2goZG9jdW1lbnQpOwogICAgICBkb2N1bWVudHMuc2V0KGRvY3VtZW50LCBwYXRoKTsKICAgIH0KICB9OwoKICBpZiAocGFyc2VyKSB7CiAgICBwYXJzZXIoe2Z1bGxQYXRoLCBydWxlcywgcHVzaCwgbmV4dH0pOwogIH0gZWxzZSB7CiAgICBuZXh0KCk7CiAgfQp9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CmNvbnN0IGhhbmRsZXJzID0ge2h0dHAsIGh0dHBzfTsKZnVuY3Rpb24gY2hlY2tVcmxzKGRvY3VtZW50LCBlbmMsIG5leHQpIHsKICBjb25zdCB1cmwgPSBmb3JtYXQocGF0dGVybiwgZG9jdW1lbnQpOwogIGNvbnN0IFtwcm90b2NvbF0gPSB1cmwuc3BsaXQoJzovLycpOwogIGNvbnN0IGhhbmRsZXIgPSBoYW5kbGVyc1twcm90b2NvbF07CgogIGlmICghaGFuZGxlcikgewogICAgdGhyb3cgbmV3IEVycm9yKGBQcm90b2NvbCDigJwke3Byb3RvY29sfeKAnSBmcm9tIHVybCDigJwke3VybH3igJ0gaXMgbm90IHN1cHBvcnRlZC5gKTsKICB9CgogIGhhbmRsZXIuZ2V0KHVybCwgKHtzdGF0dXNDb2RlfSkgPT4gbmV4dChudWxsLCB7c3RhdHVzQ29kZSwgdXJsLCBkb2N1bWVudH0pKS5vbignZXJyb3InLCBuZXh0KTsKfQoKZnVuY3Rpb24gZ2V0RmlsdGVycyhleHRlbnNpb25zLCBjYWxsYmFjaykgewogIGNvbnN0IGZpbHRlckJ5RXh0ZW5zaW9uID0gZW50cnkgPT4gZXh0ZW5zaW9ucy5pbmNsdWRlcyhleHRuYW1lKGVudHJ5Lm5hbWUpKTsKCiAgaWYgKCFpZ25vcmVGaWxlKSB7CiAgICBjYWxsYmFjayhmaWx0ZXJCeUV4dGVuc2lvbik7CiAgICByZXR1cm47CiAgfQoKICBpZ25vcmUocmVzb2x2ZShyb290LCBpZ25vcmVGaWxlKSwgKGVyciwgZmlsdGVyKSA9PiB7CiAgICBpZiAoZXJyKSB7CiAgICAgIHRocm93IGVycjsKICAgIH0KCiAgICBjb25zdCBmaWxlRmlsdGVyID0gZW50cnkgPT4gZmlsdGVyQnlFeHRlbnNpb24oZW50cnkpICYmICFmaWx0ZXIoZW50cnkucGF0aCk7CiAgICBjb25zdCBkaXJlY3RvcnlGaWx0ZXIgPSBlbnRyeSA9PiAhZmlsdGVyKGVudHJ5LnBhdGgpOwoKICAgIGNhbGxiYWNrKGZpbGVGaWx0ZXIsIGRpcmVjdG9yeUZpbHRlcik7CiAgfSk7Cn0KCi8vIFRPRE86IFVzZSBwaXBlIHRvIHN0ZG91dCBpbnN0ZWFkIG9mIGNvbnNvbGUubG9nCmZ1bmN0aW9uIHN0YXJ0KGZpbGVGaWx0ZXIsIGRpcmVjdG9yeUZpbHRlcikgewogIGNvbnN0IHN0YXJ0VGltZSA9IERhdGUubm93KCk7CiAgY29uc3QgU1VDQ0VTU19DT0RFID0gMjAwOwoKICByZWFkZGlycCh7CiAgICByb290LAogICAgZmlsZUZpbHRlciwKICAgIGRpcmVjdG9yeUZpbHRlcgogIH0pLnBpcGUodGhyb3VnaDIub2JqKGdldFVybHMpKS5waXBlKHRocm91Z2gyLm9iaihjaGVja1VybHMpKS5vbignZGF0YScsICh7c3RhdHVzQ29kZSwgdXJsLCBkb2N1bWVudH0pID0+IHsKICAgIGlmICh0ZWFtY2l0eSkgewogICAgICB0ZXN0U3RhcnRlZCh7bmFtZTogZG9jdW1lbnR9KTsKCiAgICAgIGlmIChzdGF0dXNDb2RlICE9PSBTVUNDRVNTX0NPREUpIHsKICAgICAgICBjb25zdCBtZXNzYWdlID0gYEdvdCByZXNwb25zZSAke3N0YXR1c0NvZGV9IGZyb20gJHt1cmx9LiBBdCBmaXJzdCBmb3VuZCBpbiBwYXRoOiAke2RvY3VtZW50cy5nZXQoZG9jdW1lbnQpfS5gOwogICAgICAgIHRlc3RGYWlsZWQoe25hbWU6IGRvY3VtZW50LCBtZXNzYWdlfSk7CiAgICAgIH0KICAgICAgdGVzdEZpbmlzaGVkKHtuYW1lOiBkb2N1bWVudH0pOwogICAgfSBlbHNlIHsKICAgICAgY29uc29sZS5sb2coYEdvdCByZXNwb25zZSAke3N0YXR1c0NvZGV9IGZyb20gJHt1cmx9YCk7CiAgICB9CiAgfSkub24oJ2ZpbmlzaCcsICgpID0+IHsKICAgIGNvbnN0IG1zID0gMTAwMDsKICAgIGNvbnNvbGUubG9nKGBGaW5pc2hlZCBpbiAkeyhEYXRlLm5vdygpIC0gc3RhcnRUaW1lKSAvIG1zfXNgKTsKICB9KTsKfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuCiAgICAgIHRlc3RTdGFydGVkKHtuYW1lOiBkb2N1bWVudH0pOwoKICAgICAgaWYgKHN0YXR1c0NvZGUgIT09IFNVQ0NFU1NfQ09ERSkgewogICAgICAgIGNvbnN0IG1lc3NhZ2UgPSBgR290IHJlc3BvbnNlICR7c3RhdHVzQ29kZX0gZnJvbSAke3VybH0uIEF0IGZpcnN0IGZvdW5kIGluIHBhdGg6ICR7cnVubmVyLmRvY3VtZW50cy5nZXQoZG9jdW1lbnQpfS5gOwogICAgICAgIHRlc3RGYWlsZWQoe25hbWU6IGRvY3VtZW50LCBtZXNzYWdlfSk7CiAgICAgIH0KICAgICAgdGVzdEZpbmlzaGVkKHtuYW1lOiBkb2N1bWVudH0pOwogICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBleHRlbnNpb25zID0gW107CiAgaWYgKGh0bWxSdWxlcykgewogICAgZXh0ZW5zaW9ucy5wdXNoKC4uLmh0bWxFeHRlbnNpb24pOwogICAgY29uc3QgaHRtbFBhcmFtcyA9IHtwYXJzZXI6IHBhcnNlSFRNTCwgcnVsZXM6IGNvbnZlcnRSdWxlcyhodG1sUnVsZXMpfTsKICAgIGh0bWxFeHRlbnNpb24uZm9yRWFjaChleHQgPT4gbGFuZ1Byb3BzLnNldChleHQsIGh0bWxQYXJhbXMpKTsKICB9CiAgaWYgKGpzUnVsZXMpIHsKICAgIGV4dGVuc2lvbnMucHVzaCguLi5qc0V4dGVuc2lvbik7CiAgICBjb25zdCBqc1BhcmFtcyA9IHtwYXJzZXI6IHBhcnNlSlMsIHJ1bGVzOiBjb252ZXJ0UnVsZXMoanNSdWxlcywgMCl9OwogICAganNFeHRlbnNpb24uZm9yRWFjaChleHQgPT4gbGFuZ1Byb3BzLnNldChleHQsIGpzUGFyYW1zKSk7CiAgfQoKICBnZXRGaWx0ZXJzKGV4dGVuc2lvbnMsIHN0YXJ0KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMucHJpbnRNZXNzYWdlKGBHb3QgcmVzcG9uc2UgJHtyZXN1bHQuc3RhdHVzQ29kZX0gZnJvbSAke3Jlc3VsdC51cmx9YCk7Cg==</text>
+        <text encoding="base64">ICAgIGpzUnVsZXMsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>stat</last-search>
+      <last-search>before</last-search>
       <last-offset />
-      <last-pattern>stat</last-pattern>
+      <last-pattern>before</last-pattern>
       <last-replace>const spet</last-replace>
       <last-substitute>let spet</last-substitute>
       <last-dir>1</last-dir>
@@ -349,12 +357,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ex</entry>
-        <entry>exten</entry>
-        <entry>ignoreFile</entry>
-        <entry>exte</entry>
-        <entry encoding="base64">XDxjb252ZXJ0UnVsZXNcPg==</entry>
-        <entry>teamcity</entry>
         <entry encoding="base64">XDxwYXJzZUpTXD4=</entry>
         <entry>documents</entry>
         <entry>getIgnore</entry>
@@ -369,6 +371,12 @@
         <entry>onTestResult</entry>
         <entry>sinon</entry>
         <entry>stat</entry>
+        <entry>requestUrl</entry>
+        <entry>confi</entry>
+        <entry encoding="base64">XDxyb290XD4=</entry>
+        <entry>ind</entry>
+        <entry>https</entry>
+        <entry>before</entry>
       </history-search>
       <history-cmd>
         <entry>212</entry>
