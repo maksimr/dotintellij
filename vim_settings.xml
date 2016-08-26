@@ -26,11 +26,12 @@
         <mark key="]" line="0" column="48" />
         <mark key="." line="116" column="0" />
       </file>
-      <file name="$USER_HOME$/www/js/specht/src/runner.js" timestamp="1472204607973">
+      <file name="$USER_HOME$/www/js/specht/src/runner.js" timestamp="1472208734763">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+        <mark key="[" line="10" column="65" />
+        <mark key="]" line="11" column="21" />
+        <mark key="." line="11" column="21" />
+        <mark key="^" line="11" column="21" />
       </file>
       <file name="$USER_HOME$/www/js/specht/package.json" timestamp="1472206630781">
         <mark key="'" line="46" column="23" />
@@ -52,12 +53,11 @@
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="63" />
       </file>
-      <file name="$USER_HOME$/www/js/specht/src/runnerSpec.js" timestamp="1472207244667">
-        <mark key="'" line="6" column="28" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="34" column="60" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/www/js/specht/src/runnerSpec.js" timestamp="1472208782550">
+        <mark key="'" line="11" column="4" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="38" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/www/js/specht/node_modules/through2/node_modules/readable-stream/lib/_stream_writable.js" timestamp="1472207144925">
         <mark key="'" line="179" column="28" />
@@ -148,8 +148,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="24" filename="$USER_HOME$/www/js/specht/node_modules/graceful-fs/graceful-fs.js" />
-      <jump line="45" column="4" filename="$USER_HOME$/www/js/specht/node_modules/graceful-fs/graceful-fs.js" />
       <jump line="38" column="9" filename="$USER_HOME$/www/js/specht/node_modules/graceful-fs/graceful-fs.js" />
       <jump line="34" column="44" filename="$USER_HOME$/www/js/specht/node_modules/graceful-fs/graceful-fs.js" />
       <jump line="32" column="16" filename="$USER_HOME$/www/js/specht/node_modules/graceful-fs/graceful-fs.js" />
@@ -248,13 +246,15 @@
       <jump line="65" column="22" filename="$USER_HOME$/www/js/specht/node_modules/through2/through2.js" />
       <jump line="51" column="17" filename="$USER_HOME$/www/js/specht/node_modules/through2/through2.js" />
       <jump line="6" column="28" filename="$USER_HOME$/www/js/specht/src/runnerSpec.js" />
+      <jump line="32" column="0" filename="$USER_HOME$/www/js/specht/src/runnerSpec.js" />
+      <jump line="11" column="4" filename="$USER_HOME$/www/js/specht/src/runnerSpec.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdIRUxMTycpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHtjcmVhdGVSdW5uZXJ9IGZyb20gJy4vcnVubmVyJzsK</text>
       </register>
       <register name="-" type="4">
-        <text>chunk</text>
+        <text encoding="base64">e3Jvb3Q6IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aHJvdWdoMlw+</text>
@@ -263,34 +263,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdIRUxMTycpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHtjcmVhdGVSdW5uZXJ9IGZyb20gJy4vcnVubmVyJzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnPj4+JywgY2h1bmspOwo=</text>
+        <text encoding="base64">aW1wb3J0IHNpbm9uIGZyb20gJ3Npbm9uJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnPj4+PicpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHJlYWRkaXJwIGZyb20gJ3JlYWRkaXJwJzsKaW1wb3J0IHRocm91Z2gyIGZyb20gJ3Rocm91Z2gyJzsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBydW5uZXIucmVhZGRpcignL2ZvbycsIGNhbGxiYWNrKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc+Pj4nKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICApCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBjYWxsYmFjayA9IHNpbm9uLnNweSgpOwo=</text>
+        <text encoding="base64">ICB9KS5waXBlKHRocm91Z2gyKHtvYmplY3RNb2RlOiB0cnVlfSwgKCkgPT4gewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHQucGFzcygpOwogICAgdC5lbmQoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
