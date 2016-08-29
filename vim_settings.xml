@@ -290,8 +290,10 @@
         <mark key="]" line="2" column="39" />
         <mark key="." line="268" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issue-assignee.js" timestamp="1472470011817">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issue-assignee.js" timestamp="1472471344318">
         <mark key="'" line="5" column="0" />
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="138" column="50" />
       </file>
     </filemarks>
     <jumps>
@@ -397,8 +399,8 @@
       <jump line="25" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-bottom-toolbar.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>agileBoardCtrl.boardSelection.getActiveIssues()[0]</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGluc3RhbmNlLm1lQXNzaWduZWVGaWVsZFZhbHVlID0gcmVzcG9uc2UuZmlsdGVyKGZ1bmN0aW9uKHVzZXIpIHsKICAgICAgICAgICAgcmV0dXJuIHVzZXIucmluZ0lkID09PSBjdXJyZW50LnJpbmdJZDsK</text>
       </register>
       <register name="-" type="4">
         <text>agileBoardCtrl.boardSelection.getActiveIssues()[0]</text>
@@ -406,8 +408,8 @@
       <register name="/" type="4">
         <text>fiel</text>
       </register>
-      <register name="0" type="4">
-        <text>agileBoardCtrl.boardSelection.getActiveIssues()</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIGluc3RhbmNlLm1lQXNzaWduZWVGaWVsZFZhbHVlID0gcmVzcG9uc2UuZmlsdGVyKGZ1bmN0aW9uKHVzZXIpIHsKICAgICAgICAgICAgcmV0dXJuIHVzZXIucmluZ0lkID09PSBjdXJyZW50LnJpbmdJZDsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgICAgIHZhciBvblVwZGF0ZUNlbGwgPSBmdW5jdGlvbih0YXJnZXRDZWxsSWQsIHRhcmdldENvbHVtbklkLCBtb3ZlZElzc3VlLCBsZWFkaW5nSXNzdWUpIHsKICAgICAgICBsZWFkaW5nSXNzdWUgPSBsZWFkaW5nSXNzdWUgfHwge307CgogICAgICAgIHZhciB1cGRhdGVCb2FyZElzc3Vlc09yZGVyID0gZnVuY3Rpb24oY2VsbElkLCBjb2x1bW5JZCwgbGVhZGluZ0lzc3VlSWQsIG1vdmVkSXNzdWVJZCkgewogICAgICAgICAgdmFyIGFnaWxlSWQgPSBhZ2lsZUJvYXJkQ3RybC5hZ2lsZS5pZDsKICAgICAgICAgIHZhciBzcHJpbnRJZCA9IGFnaWxlQm9hcmRDdHJsLnNwcmludC5pZDsKCiAgICAgICAgICByZXR1cm4gYWdpbGVSZXNvdXJjZS5ib2FyZENlbGxJc3N1ZU9yZGVyLnNhdmUoewogICAgICAgICAgICBhZ2lsZUlkOiBhZ2lsZUlkLAogICAgICAgICAgICBzcHJpbnRJZDogc3ByaW50SWQsCiAgICAgICAgICAgIGNlbGxJZDogY2VsbElkLAogICAgICAgICAgICBjb2x1bW5JZDogY29sdW1uSWQKICAgICAgICAgIH0sIHsKICAgICAgICAgICAgbGVhZGluZzogbGVhZGluZ0lzc3VlSWQgPyB7CiAgICAgICAgICAgICAgaWQ6IGxlYWRpbmdJc3N1ZUlkCiAgICAgICAgICAgIH0gOiBudWxsLAogICAgICAgICAgICBtb3ZlZDogewogICAgICAgICAgICAgIGlkOiBtb3ZlZElzc3VlSWQKICAgICAgICAgICAgfQogICAgICAgICAgfSkuJHByb21pc2UuY2F0Y2goaHR0cEVycm9ySGFuZGxlci5zaG93TWVzc2FnZSk7CiAgICAgICAgfTsKCiAgICAgICAgcmV0dXJuIHVwZGF0ZUJvYXJkSXNzdWVzT3JkZXIodGFyZ2V0Q2VsbElkLCB0YXJnZXRDb2x1bW5JZCwgbGVhZGluZ0lzc3VlLmlkLCBtb3ZlZElzc3VlLmlkKQogICAgICAgICAgLnRoZW4oZnVuY3Rpb24ocmVzcG9uc2UpIHsKICAgICAgICAgICAgdmFyIG1vdmVkT25Cb2FyZElzc3VlID0gYm9hcmRNb2RlbFVwZGF0ZXIuZmluZElzc3VlT25Cb2FyZChhZ2lsZUJvYXJkQ3RybC5zcHJpbnQsIG1vdmVkSXNzdWUpOwogICAgICAgICAgICBpZiAobW92ZWRPbkJvYXJkSXNzdWUpIHsKICAgICAgICAgICAgICBib2FyZE1vZGVsVXBkYXRlci5wcm9jZXNzRXN0aW1hdGlvbkZvckNvbHVtbkFuZFJvdyhtb3ZlZE9uQm9hcmRJc3N1ZS5pc3N1ZSwgbW92ZWRPbkJvYXJkSXNzdWUuY29sdW1uLCBtb3ZlZE9uQm9hcmRJc3N1ZS5yb3csIDEpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGFuZ3VsYXIuZXh0ZW5kKG1vdmVkSXNzdWUsIHJlc3BvbnNlLm1vdmVkKTsKICAgICAgICAgIH0pOwogICAgICB9Owo=</text>
