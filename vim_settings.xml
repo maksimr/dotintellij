@@ -98,11 +98,11 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1472458268426">
-        <mark key="'" line="1516" column="11" />
-        <mark key="[" line="1434" column="0" />
-        <mark key="]" line="1434" column="0" />
-        <mark key="." line="1434" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1472463751963">
+        <mark key="'" line="1578" column="36" />
+        <mark key="[" line="233" column="0" />
+        <mark key="]" line="264" column="8" />
+        <mark key="." line="233" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" timestamp="1472463116631">
         <mark key="'" line="259" column="0" />
@@ -258,15 +258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="0" filename="$USER_HOME$/www/js/specht/src/runner.js" />
-      <jump line="18" column="0" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
-      <jump line="70" column="0" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
-      <jump line="149" column="0" filename="$USER_HOME$/www/js/specht/src/runner.js" />
-      <jump line="139" column="0" filename="$USER_HOME$/www/js/specht/src/runner.js" />
-      <jump line="156" column="0" filename="$USER_HOME$/www/js/specht/src/runner.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/js/specht/src/runner.js" />
-      <jump line="66" column="0" filename="$USER_HOME$/www/js/specht/src/runner.js" />
-      <jump line="155" column="0" filename="$USER_HOME$/www/js/specht/src/runner.js" />
       <jump line="9" column="0" filename="$USER_HOME$/www/js/specht/src/runner.js" />
       <jump line="21" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issue-assignee.js" />
       <jump line="13" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issue-assignee.js" />
@@ -358,58 +349,67 @@
       <jump line="205" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/.eslintrc" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
       <jump line="259" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
+      <jump line="1450" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="1130" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="1578" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="249" column="27" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="980" column="32" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="1129" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="1205" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="1544" column="44" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="1546" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGVuYWJsZUVTNigpOwo=</text>
+        <text encoding="base64">CiAgICAgIHZhciBvblVwZGF0ZUNlbGwgPSBmdW5jdGlvbih0YXJnZXRDZWxsSWQsIHRhcmdldENvbHVtbklkLCBtb3ZlZElzc3VlLCBsZWFkaW5nSXNzdWUpIHsKICAgICAgICBsZWFkaW5nSXNzdWUgPSBsZWFkaW5nSXNzdWUgfHwge307CgogICAgICAgIHZhciB1cGRhdGVCb2FyZElzc3Vlc09yZGVyID0gZnVuY3Rpb24oY2VsbElkLCBjb2x1bW5JZCwgbGVhZGluZ0lzc3VlSWQsIG1vdmVkSXNzdWVJZCkgewogICAgICAgICAgdmFyIGFnaWxlSWQgPSBhZ2lsZUJvYXJkQ3RybC5hZ2lsZS5pZDsKICAgICAgICAgIHZhciBzcHJpbnRJZCA9IGFnaWxlQm9hcmRDdHJsLnNwcmludC5pZDsKCiAgICAgICAgICByZXR1cm4gYWdpbGVSZXNvdXJjZS5ib2FyZENlbGxJc3N1ZU9yZGVyLnNhdmUoewogICAgICAgICAgICBhZ2lsZUlkOiBhZ2lsZUlkLAogICAgICAgICAgICBzcHJpbnRJZDogc3ByaW50SWQsCiAgICAgICAgICAgIGNlbGxJZDogY2VsbElkLAogICAgICAgICAgICBjb2x1bW5JZDogY29sdW1uSWQKICAgICAgICAgIH0sIHsKICAgICAgICAgICAgbGVhZGluZzogbGVhZGluZ0lzc3VlSWQgPyB7CiAgICAgICAgICAgICAgaWQ6IGxlYWRpbmdJc3N1ZUlkCiAgICAgICAgICAgIH0gOiBudWxsLAogICAgICAgICAgICBtb3ZlZDogewogICAgICAgICAgICAgIGlkOiBtb3ZlZElzc3VlSWQKICAgICAgICAgICAgfQogICAgICAgICAgfSkuJHByb21pc2UuY2F0Y2goaHR0cEVycm9ySGFuZGxlci5zaG93TWVzc2FnZSk7CiAgICAgICAgfTsKCiAgICAgICAgcmV0dXJuIHVwZGF0ZUJvYXJkSXNzdWVzT3JkZXIodGFyZ2V0Q2VsbElkLCB0YXJnZXRDb2x1bW5JZCwgbGVhZGluZ0lzc3VlLmlkLCBtb3ZlZElzc3VlLmlkKQogICAgICAgICAgLnRoZW4oZnVuY3Rpb24ocmVzcG9uc2UpIHsKICAgICAgICAgICAgdmFyIG1vdmVkT25Cb2FyZElzc3VlID0gYm9hcmRNb2RlbFVwZGF0ZXIuZmluZElzc3VlT25Cb2FyZChhZ2lsZUJvYXJkQ3RybC5zcHJpbnQsIG1vdmVkSXNzdWUpOwogICAgICAgICAgICBpZiAobW92ZWRPbkJvYXJkSXNzdWUpIHsKICAgICAgICAgICAgICBib2FyZE1vZGVsVXBkYXRlci5wcm9jZXNzRXN0aW1hdGlvbkZvckNvbHVtbkFuZFJvdyhtb3ZlZE9uQm9hcmRJc3N1ZS5pc3N1ZSwgbW92ZWRPbkJvYXJkSXNzdWUuY29sdW1uLCBtb3ZlZE9uQm9hcmRJc3N1ZS5yb3csIDEpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGFuZ3VsYXIuZXh0ZW5kKG1vdmVkSXNzdWUsIHJlc3BvbnNlLm1vdmVkKTsKICAgICAgICAgIH0pOwogICAgICB9Owo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">YXN5bmMg</text>
       </register>
       <register name="/" type="4">
-        <text>enable</text>
+        <text>onUpdate</text>
       </register>
       <register name="0" type="4">
         <text>boardSettings.getSelectedUpdateableBy()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVuYWJsZUVTNigpOwo=</text>
+        <text encoding="base64">CiAgICAgIHZhciBvblVwZGF0ZUNlbGwgPSBmdW5jdGlvbih0YXJnZXRDZWxsSWQsIHRhcmdldENvbHVtbklkLCBtb3ZlZElzc3VlLCBsZWFkaW5nSXNzdWUpIHsKICAgICAgICBsZWFkaW5nSXNzdWUgPSBsZWFkaW5nSXNzdWUgfHwge307CgogICAgICAgIHZhciB1cGRhdGVCb2FyZElzc3Vlc09yZGVyID0gZnVuY3Rpb24oY2VsbElkLCBjb2x1bW5JZCwgbGVhZGluZ0lzc3VlSWQsIG1vdmVkSXNzdWVJZCkgewogICAgICAgICAgdmFyIGFnaWxlSWQgPSBhZ2lsZUJvYXJkQ3RybC5hZ2lsZS5pZDsKICAgICAgICAgIHZhciBzcHJpbnRJZCA9IGFnaWxlQm9hcmRDdHJsLnNwcmludC5pZDsKCiAgICAgICAgICByZXR1cm4gYWdpbGVSZXNvdXJjZS5ib2FyZENlbGxJc3N1ZU9yZGVyLnNhdmUoewogICAgICAgICAgICBhZ2lsZUlkOiBhZ2lsZUlkLAogICAgICAgICAgICBzcHJpbnRJZDogc3ByaW50SWQsCiAgICAgICAgICAgIGNlbGxJZDogY2VsbElkLAogICAgICAgICAgICBjb2x1bW5JZDogY29sdW1uSWQKICAgICAgICAgIH0sIHsKICAgICAgICAgICAgbGVhZGluZzogbGVhZGluZ0lzc3VlSWQgPyB7CiAgICAgICAgICAgICAgaWQ6IGxlYWRpbmdJc3N1ZUlkCiAgICAgICAgICAgIH0gOiBudWxsLAogICAgICAgICAgICBtb3ZlZDogewogICAgICAgICAgICAgIGlkOiBtb3ZlZElzc3VlSWQKICAgICAgICAgICAgfQogICAgICAgICAgfSkuJHByb21pc2UuY2F0Y2goaHR0cEVycm9ySGFuZGxlci5zaG93TWVzc2FnZSk7CiAgICAgICAgfTsKCiAgICAgICAgcmV0dXJuIHVwZGF0ZUJvYXJkSXNzdWVzT3JkZXIodGFyZ2V0Q2VsbElkLCB0YXJnZXRDb2x1bW5JZCwgbGVhZGluZ0lzc3VlLmlkLCBtb3ZlZElzc3VlLmlkKQogICAgICAgICAgLnRoZW4oZnVuY3Rpb24ocmVzcG9uc2UpIHsKICAgICAgICAgICAgdmFyIG1vdmVkT25Cb2FyZElzc3VlID0gYm9hcmRNb2RlbFVwZGF0ZXIuZmluZElzc3VlT25Cb2FyZChhZ2lsZUJvYXJkQ3RybC5zcHJpbnQsIG1vdmVkSXNzdWUpOwogICAgICAgICAgICBpZiAobW92ZWRPbkJvYXJkSXNzdWUpIHsKICAgICAgICAgICAgICBib2FyZE1vZGVsVXBkYXRlci5wcm9jZXNzRXN0aW1hdGlvbkZvckNvbHVtbkFuZFJvdyhtb3ZlZE9uQm9hcmRJc3N1ZS5pc3N1ZSwgbW92ZWRPbkJvYXJkSXNzdWUuY29sdW1uLCBtb3ZlZE9uQm9hcmRJc3N1ZS5yb3csIDEpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGFuZ3VsYXIuZXh0ZW5kKG1vdmVkSXNzdWUsIHJlc3BvbnNlLm1vdmVkKTsKICAgICAgICAgIH0pOwogICAgICB9Owo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CmZ1bmN0aW9uIGVuYWJsZUVTNigpIHsKICByZXF1aXJlKCdiYWJlbC1jb3JlL3JlZ2lzdGVyJykoewogICAgcHJlc2V0czogWydlczIwMTUnXSwKICAgIHBsdWdpbnM6IFsndHJhbnNmb3JtLWFzeW5jLXRvLWdlbmVyYXRvciddCiAgfSk7CiAgcmVxdWlyZSgnYmFiZWwtcG9seWZpbGwnKTsKfQo=</text>
+        <text encoding="base64">ICAgIGVuYWJsZUVTNigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAicGFyc2VyIjogImJhYmVsLWVzbGludCIsCg==</text>
+        <text encoding="base64">CmZ1bmN0aW9uIGVuYWJsZUVTNigpIHsKICByZXF1aXJlKCdiYWJlbC1jb3JlL3JlZ2lzdGVyJykoewogICAgcHJlc2V0czogWydlczIwMTUnXSwKICAgIHBsdWdpbnM6IFsndHJhbnNmb3JtLWFzeW5jLXRvLWdlbmVyYXRvciddCiAgfSk7CiAgcmVxdWlyZSgnYmFiZWwtcG9seWZpbGwnKTsKfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1lc2xpbnQiOiAiNi4wLjQiLAo=</text>
+        <text encoding="base64">ICAicGFyc2VyIjogImJhYmVsLWVzbGludCIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1jb3JlIjogIjYuOS4xIiwK</text>
+        <text encoding="base64">ICAgICJiYWJlbC1lc2xpbnQiOiAiNi4wLjQiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1wbHVnaW4tdHJhbnNmb3JtLWFzeW5jLXRvLWdlbmVyYXRvciI6ICI2LjguMCIsCg==</text>
+        <text encoding="base64">ICAgICJiYWJlbC1jb3JlIjogIjYuOS4xIiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1wb2x5ZmlsbCI6ICI2LjkuMSIsCg==</text>
+        <text encoding="base64">ICAgICJiYWJlbC1wbHVnaW4tdHJhbnNmb3JtLWFzeW5jLXRvLWdlbmVyYXRvciI6ICI2LjguMCIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1wcmVzZXQtZXMyMDE1IjogIjYuOS4wIiwK</text>
+        <text encoding="base64">ICAgICJiYWJlbC1wb2x5ZmlsbCI6ICI2LjkuMSIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICJiYWJlbC1wcmVzZXQtZXMyMDE1IjogIjYuOS4wIiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>enable</last-search>
+      <last-search>onUpdate</last-search>
       <last-offset />
-      <last-pattern>enable</last-pattern>
+      <last-pattern>onUpdate</last-pattern>
       <last-replace>const spet</last-replace>
       <last-substitute>let spet</last-substitute>
       <last-dir>1</last-dir>
@@ -417,9 +417,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0cmFuc2NsdWRlXD4=</entry>
-        <entry encoding="base64">XDxjb21waWxlRGlyZWN0aXZlXD4=</entry>
-        <entry>tran</entry>
         <entry>oauth</entry>
         <entry>separ</entry>
         <entry>respon</entry>
@@ -437,6 +434,9 @@
         <entry>aw</entry>
         <entry>es</entry>
         <entry>enable</entry>
+        <entry>onUpdateCell</entry>
+        <entry encoding="base64">XDxvblVwZGF0ZUNlbGxcPg==</entry>
+        <entry>onUpdate</entry>
       </history-search>
       <history-cmd>
         <entry>212</entry>
