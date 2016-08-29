@@ -39,7 +39,7 @@
         <mark key="." line="94" column="55" />
         <mark key="^" line="94" column="55" />
       </file>
-      <file name="/a.dummy" timestamp="1472455751120">
+      <file name="/a.dummy" timestamp="1472457918896">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/js/specht/package.json" timestamp="1472228941940">
@@ -94,12 +94,11 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1472457276802">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1472458268426">
         <mark key="'" line="1516" column="11" />
-        <mark key="[" line="1512" column="12" />
-        <mark key="]" line="1512" column="12" />
-        <mark key="^" line="1512" column="12" />
-        <mark key="." line="1512" column="12" />
+        <mark key="[" line="1434" column="0" />
+        <mark key="]" line="1434" column="0" />
+        <mark key="." line="1434" column="0" />
       </file>
       <file name="$USER_HOME$/www/js/specht/src/reporter/console.js" timestamp="1472227372469">
         <mark key="'" line="0" column="0" />
@@ -148,6 +147,7 @@
         <mark key="]" line="387" column="0" />
         <mark key="." line="387" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/fullscreen-mode-switcher/service/fullscreen-mode-switcher.js" timestamp="1472457918339" />
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/auth.js" timestamp="1472455489633">
         <mark key="'" line="1" column="0" />
       </file>
@@ -348,8 +348,8 @@
       <jump line="1516" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>click</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>click</text>
@@ -361,34 +361,34 @@
         <text encoding="base64">ICAgIGVsZW1lbnQuY2xpY2soKTsKICAgIGV4cGVjdChlbGVtZW50WzBdLmhhc0F0dHJpYnV0ZSgndGFiaW5kZXgnKSkudG9CZUZhbHN5KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjb250cm9sbGVyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZS5tZXNzYWdlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIHZhciBleGl0RnJvbUZ1bGxTY3JlZW4gPSBmdWxsU2NyZWVuTW9kZVN3aXRjaGVyLm9uKG9uRXhpdCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc+Pj4nLCBvbkVycm9yKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjb250cm9sbGVyKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZS5tZXNzYWdlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc+Pj4+JywgbmV4dCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc+Pj4nLCBvbkVycm9yKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobmV4dCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5leHQpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc+Pj4+JywgbmV4dCk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobmV4dCk7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgewogIHBhdHRlcm4sCiAganNFeHRlbnNpb24sCiAgaHRtbEV4dGVuc2lvbiwKICBqc1J1bGVzLAogIGh0bWxSdWxlcywKICBpZ25vcmVGaWxlLAogIGhlbHAsCiAgdGVhbWNpdHksCiAgXzogW3Jvb3REaXIgPSBwcm9jZXNzLmN3ZCgpXQp9ID0geWFyZ3MudXNhZ2UoYFVzYWdlOiAkMCBbcGF0aF0gW29wdGlvbnNdCgpFeGFtcGxlOiAkMCBwYXRoL3RvL3N0YXJ0L2Zyb20gXFwKLS1wYXR0ZXJuIGh0dHBzOi8vd3d3LmpldGJyYWlucy5jb20vaHViL2hlbHAvMS4wLyVzLmh0bWwgXFwKLS1pZ25vcmUtZmlsZSAuZ2l0aWdub3JlIFxcCi0taHRtbC1ydWxlcyBzdmc6eGxpbms6aHJlZiBodWItcGFnZS1oZWxwLWxpbms6dXJsIFxcCi0tanMtcnVsZXMgZ2V0SGVscFVybEZpbHRlciBnZXRIZWxwVXJsSW5TZWNvbmRQYXJhbWV0ZXI6MSBcXAotLWh0bWwtZXh0ZW5zaW9uIC5odG1sIC5odG0gXFwKLS10ZWFtY2l0eQoKQXQgbGVhc3Qgb25lIG9mIC0tanMtcnVsZXMgb3IgLS1odG1sLXJ1bGVzIHBhcmFtZXRlcnMgaXMgcmVxdWlyZWQuIFdpbGwgZXhpdCB3aXRoIGNvZGUgMSBvdGhlcndpc2UuYCkub3B0aW9uKCdwYXR0ZXJuJywgewogIGRlc2NyaWJlOiAnSGVscCBzaXRlIHBhdHRlcm4sIGUuZy46IGh0dHBzOi8vd3d3LmpldGJyYWlucy5jb20vaHViL2hlbHAvMS4wLyVzLmh0bWwuIOKAnCVz4oCdIHBsYWNlaG9sZGVyIGlzIHJlcGxhY2VkIHdpdGggcGFydHMgZm91bmQgYnkgcGFyc2VycycsCiAgZGVmYXVsdDogJyVzJwp9KS5vcHRpb24oJ2lnbm9yZS1maWxlJywgewogIGRlc2NyaWJlOiAnRmlsZXMgYW5kIGRpcmVjdG9yaWVzIHRvIGlnbm9yZSwgdXNlcyAuZ2l0Z25vcmUgZm9ybWF0LiBSZWxhdGl2ZSBmcm9tIHBhdGguJwp9KS5vcHRpb24oJ2h0bWwtcnVsZXMnLCB7CiAgZGVzY3JpYmU6ICdSdWxlcyBvZiBwYXJzaW5nIEhUTUwgZmlsZXMsIGluIGZvcm0gb2YgPHRhZyBuYW1lPjo8YXR0cmlidXRlIG5hbWU+LiBYTUwgbmFtZXNwYWNlcyBmb3IgYXR0cmlidXRlcyBhcmUgc3VwcG9ydGVkLicsCiAgYXJyYXk6IHRydWUKfSkub3B0aW9uKCdqcy1ydWxlcycsIHsKICBkZXNjcmliZTogJ1J1bGVzIG9mIHBhcnNpbmcgSmF2YVNjcmlwdCBmaWxlcywgaW4gZm9ybSBvZiA8ZnVuY3Rpb24gbmFtZT5bOjxhcmd1bWVudCBudW1iZXIsIGRlZmF1bHQgaXMgMD5dLicsCiAgYXJyYXk6IHRydWUKfSkub3B0aW9uKCdodG1sLWV4dGVuc2lvbicsIHsKICBkZXNjcmliZTogJ0V4dGVuc2lvbnMgb2YgSFRNTCBmaWxlcycsCiAgYXJyYXk6IHRydWUsCiAgZGVmYXVsdDogWycuaHRtbCddCn0pLm9wdGlvbignanMtZXh0ZW5zaW9uJywgewogIGRlc2NyaWJlOiAnRXh0ZW5zaW9ucyBvZiBKYXZhU2NyaXB0IGZpbGVzJywKICBhcnJheTogdHJ1ZSwKICBkZWZhdWx0OiBbJy5qcyddCn0pLm9wdGlvbigndGVhbWNpdHknLCB7CiAgZGVzY3JpYmU6ICdSZXBvcnQgY2hlY2sgcmVzdWx0cyB0byBUZWFtQ2l0eScsCiAgYm9vbGVhbjogdHJ1ZQp9KS5oZWxwKCdoZWxwJykuYXJndjsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5leHQpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
