@@ -328,10 +328,15 @@
         <mark key="^" line="156" column="29" />
         <mark key="." line="50" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-board.js" timestamp="1472482124759">
+        <mark key="'" line="364" column="25" />
+        <mark key="[" line="835" column="30" />
+        <mark key="]" line="835" column="30" />
+        <mark key="^" line="835" column="30" />
+        <mark key="." line="835" column="30" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="94" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/issue-assignee.js" />
-      <jump line="77" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/issue-assignee.js" />
       <jump line="399" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/issue-assignee.js" />
       <jump line="398" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/issue-assignee.js" />
       <jump line="133" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/issue-assignee.js" />
@@ -430,16 +435,18 @@
       <jump line="55" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/controller/command-dialog.js" />
       <jump line="53" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/controller/command-dialog.js" />
       <jump line="40" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/controller/command-dialog.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-board.js" />
+      <jump line="364" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-board.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>response</text>
+        <text>require('mout/random/guid')();</text>
       </register>
       <register name="-" type="4">
-        <text>response</text>
+        <text>require('mout/random/guid')();</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtb2RpZnlIVE1MTGlua3NcPg==</text>
+        <text>guid</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Cg==</text>
@@ -479,18 +486,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtb2RpZnlIVE1MTGlua3NcPg==</last-search>
+      <last-search>guid</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtb2RpZnlIVE1MTGlua3NcPg==</last-pattern>
+      <last-pattern>guid</last-pattern>
       <last-replace>const spet</last-replace>
       <last-substitute>let spet</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>prese</entry>
-        <entry>pres</entry>
         <entry>curr</entry>
         <entry>filter</entry>
         <entry>users</entry>
@@ -509,6 +514,8 @@
         <entry>query</entry>
         <entry>modi</entry>
         <entry encoding="base64">XDxtb2RpZnlIVE1MTGlua3NcPg==</entry>
+        <entry>mount</entry>
+        <entry>guid</entry>
       </history-search>
       <history-cmd>
         <entry>212</entry>
