@@ -70,6 +70,10 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-apply-search")).withParent(xmlTag().withLocalName(string().equalTo("search-query-panel")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>search-query-panel/@placeholder</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("placeholder")).withParent(xmlTag().withLocalName(string().equalTo("search-query-panel")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>search-query-panel/@query</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("query")).withParent(xmlTag().withLocalName(string().equalTo("search-query-panel")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
