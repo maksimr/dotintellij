@@ -211,8 +211,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-create.js" timestamp="1472729197043">
         <mark key="'" line="25" column="39" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1472734615595">
-        <mark key="'" line="1416" column="35" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1472734747483">
+        <mark key="'" line="1552" column="10" />
         <mark key="[" line="1548" column="0" />
         <mark key="]" line="1548" column="0" />
         <mark key="." line="1548" column="0" />
@@ -553,7 +553,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="309" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-create.js" />
       <jump line="23" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-create.js" />
       <jump line="24" column="34" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-create.js" />
       <jump line="25" column="39" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-create.js" />
@@ -653,6 +652,7 @@
       <jump line="1080" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="1773" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="1416" column="35" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="1552" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -662,7 +662,7 @@
         <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxib2FyZFNlYXJjaFF1ZXJ5TW9kZWxcPg==</text>
+        <text>agileBoardCtrl.query</text>
       </register>
       <register name="0" type="4">
         <text>agileBoardCtrl.query</text>
@@ -702,17 +702,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxib2FyZFNlYXJjaFF1ZXJ5TW9kZWxcPg==</last-search>
+      <last-search>agileBoardCtrl.query</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxib2FyZFNlYXJjaFF1ZXJ5TW9kZWxcPg==</last-pattern>
+      <last-pattern>agileBoardCtrl.query</last-pattern>
       <last-replace>const spet</last-replace>
       <last-substitute>let spet</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>name</entry>
         <entry>projects =</entry>
         <entry>name =</entry>
         <entry>project =</entry>
@@ -732,6 +731,7 @@
         <entry encoding="base64">XDxnZXRBbmRJbml0Q3VycmVudFNwcmludFw+</entry>
         <entry>init</entry>
         <entry encoding="base64">XDxib2FyZFNlYXJjaFF1ZXJ5TW9kZWxcPg==</entry>
+        <entry>agileBoardCtrl.query</entry>
       </history-search>
       <history-cmd>
         <entry>212</entry>
