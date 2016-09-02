@@ -12,7 +12,7 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1472738463264">
+      <file name="/a.dummy" timestamp="1472824743746">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/node_modules/babel-preset-jetbrains/index.js" timestamp="1472646994071">
@@ -193,12 +193,12 @@
       <file name="$USER_HOME$/www/js/specht/node_modules/ignore-file/index.js" timestamp="1472125864703">
         <mark key="'" line="15" column="9" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-board.html" timestamp="1472749589295">
-        <mark key="'" line="45" column="39" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="12" column="18" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-board.html" timestamp="1472824773514">
+        <mark key="'" line="12" column="12" />
+        <mark key="[" line="16" column="24" />
+        <mark key="]" line="16" column="33" />
+        <mark key="." line="16" column="33" />
+        <mark key="^" line="16" column="33" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/template/projects-create.html" timestamp="1472728566915">
         <mark key="'" line="12" column="97" />
@@ -448,8 +448,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/issue.js" timestamp="1472467162027">
         <mark key="'" line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/search-query-panel/directive/search-query-panel.js" timestamp="1472821337207">
-        <mark key="'" line="41" column="28" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/search-query-panel/directive/search-query-panel.js" timestamp="1472824720118">
+        <mark key="'" line="166" column="2" />
         <mark key="[" line="142" column="31" />
         <mark key="]" line="142" column="41" />
         <mark key="^" line="142" column="41" />
@@ -599,11 +599,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/search-query-panel/test/directive/search-query-panel.js" />
-      <jump line="35" column="51" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/search-query-panel/test/directive/search-query-panel.js" />
-      <jump line="92" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/search-query-panel/test/directive/search-query-panel.js" />
-      <jump line="88" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/search-query-panel/test/directive/search-query-panel.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/search-query-panel/directive/search-query-panel.js" />
       <jump line="9" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/search-query-panel/directive/search-query-panel.js" />
       <jump line="16" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/search-query-panel/directive/search-query-panel.js" />
       <jump line="30" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/search-query-panel/directive/search-query-panel.js" />
@@ -699,13 +694,18 @@
       <jump line="17" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/search-query-panel/directive/search-query-panel.js" />
       <jump line="33" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/search-query-panel/directive/search-query-panel.js" />
       <jump line="41" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/search-query-panel/directive/search-query-panel.js" />
+      <jump line="49" column="32" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/search-query-panel/directive/search-query-panel.js" />
+      <jump line="165" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/search-query-panel/directive/search-query-panel.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/search-query-panel/directive/search-query-panel.js" />
+      <jump line="166" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/search-query-panel/directive/search-query-panel.js" />
+      <jump line="12" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-board.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHF1ZXJ5UmVzdFJlc291cmNlLnNlYXJjaCA9IHt9OwogICAgcXVlcnlSZXN0UmVzb3VyY2Uuc2VhcmNoLnVuZGVybGluZUFuZFN1Z2dlc3QgPSBqYXNtaW5lLmNyZWF0ZVNweSgpCiAgICAgIC5hbmQucmV0dXJuVmFsdWUoJHEuZGVmZXIoKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>query</text>
       </register>
       <register name="-" type="4">
-        <text>, 'search'</text>
+        <text>query</text>
       </register>
       <register name="/" type="4">
         <text>query</text>
