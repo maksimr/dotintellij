@@ -301,10 +301,10 @@
         <mark key="^" line="66" column="70" />
         <mark key="." line="66" column="70" />
       </file>
-      <file name="$USER_HOME$/www/js/tt/index.js" timestamp="1473082910681">
-        <mark key="'" line="30" column="4" />
-        <mark key="[" line="297" column="0" />
-        <mark key="]" line="303" column="6" />
+      <file name="$USER_HOME$/www/js/tt/index.js" timestamp="1473088385560">
+        <mark key="'" line="263" column="9" />
+        <mark key="[" line="265" column="5" />
+        <mark key="]" line="265" column="46" />
       </file>
       <file name="$USER_HOME$/www/js/specht/node_modules/graceful-fs/polyfills.js" timestamp="1472206103449">
         <mark key="'" line="67" column="26" />
@@ -336,12 +336,12 @@
         <mark key="^" line="113" column="7" />
         <mark key="." line="113" column="0" />
       </file>
-      <file name="$USER_HOME$/www/js/tt/test/remoteBuildSpec.js" timestamp="1473083891653">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="11" column="35" />
-        <mark key="]" line="11" column="50" />
-        <mark key="^" line="11" column="50" />
-        <mark key="." line="11" column="50" />
+      <file name="$USER_HOME$/www/js/tt/test/remoteBuildSpec.js" timestamp="1473088432543">
+        <mark key="'" line="150" column="0" />
+        <mark key="[" line="149" column="3" />
+        <mark key="]" line="149" column="44" />
+        <mark key="^" line="149" column="2" />
+        <mark key="." line="149" column="2" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/popup/popup.js" timestamp="1472644167816">
         <mark key="'" line="571" column="0" />
@@ -683,17 +683,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="0" filename="$USER_HOME$/www/js/tt/test/fooSpec.js" />
-      <jump line="130" column="0" filename="$USER_HOME$/www/js/tt/test/fooSpec.js" />
-      <jump line="158" column="6" filename="$USER_HOME$/www/js/tt/test/fooSpec.js" />
-      <jump line="139" column="0" filename="$USER_HOME$/www/js/tt/test/fooSpec.js" />
-      <jump line="141" column="0" filename="$USER_HOME$/www/js/tt/test/fooSpec.js" />
-      <jump line="157" column="13" filename="$USER_HOME$/www/js/tt/test/fooSpec.js" />
-      <jump line="2" column="24" filename="$USER_HOME$/www/js/tt/test/fooSpec.js" />
-      <jump line="161" column="10" filename="$USER_HOME$/www/js/tt/test/fooSpec.js" />
-      <jump line="58" column="0" filename="$USER_HOME$/www/js/tt/lib/request.js" />
-      <jump line="55" column="0" filename="$USER_HOME$/www/js/tt/lib/request.js" />
-      <jump line="145" column="0" filename="$USER_HOME$/www/js/tt/test/fooSpec.js" />
       <jump line="297" column="0" filename="$USER_HOME$/www/js/tt/index.js" />
       <jump line="309" column="15" filename="$USER_HOME$/www/js/tt/index.js" />
       <jump line="326" column="48" filename="$USER_HOME$/www/js/tt/index.js" />
@@ -745,7 +734,6 @@
       <jump line="93" column="4" filename="$USER_HOME$/www/js/tt/test/remoteBuildSpec.js" />
       <jump line="103" column="0" filename="$USER_HOME$/www/js/tt/test/remoteBuildSpec.js" />
       <jump line="109" column="0" filename="$USER_HOME$/www/js/tt/test/remoteBuildSpec.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/js/tt/test/remoteBuildSpec.js" />
       <jump line="8" column="0" filename="$USER_HOME$/www/js/tt/lib/remoteBuild.js" />
       <jump line="91" column="0" filename="$USER_HOME$/www/js/tt/test/remoteBuildSpec.js" />
       <jump line="53" column="0" filename="$USER_HOME$/www/js/tt/lib/remoteBuild.js" />
@@ -783,19 +771,31 @@
       <jump line="49" column="1" filename="$USER_HOME$/www/js/tt/lib/remoteBuild.js" />
       <jump line="66" column="0" filename="$USER_HOME$/www/js/tt/lib/remoteBuild.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/js/tt/lib/remoteBuild.js" />
+      <jump line="130" column="14" filename="$USER_HOME$/www/js/tt/test/remoteBuildSpec.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/js/tt/test/remoteBuildSpec.js" />
+      <jump line="114" column="0" filename="$USER_HOME$/www/js/tt/test/remoteBuildSpec.js" />
+      <jump line="145" column="0" filename="$USER_HOME$/www/js/tt/test/remoteBuildSpec.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/js/tt/test/remoteBuildSpec.js" />
+      <jump line="122" column="4" filename="$USER_HOME$/www/js/tt/index.js" />
+      <jump line="221" column="10" filename="$USER_HOME$/www/js/tt/index.js" />
+      <jump line="212" column="2" filename="$USER_HOME$/www/js/tt/index.js" />
+      <jump line="265" column="38" filename="$USER_HOME$/www/js/tt/index.js" />
+      <jump line="263" column="9" filename="$USER_HOME$/www/js/tt/index.js" />
+      <jump line="148" column="34" filename="$USER_HOME$/www/js/tt/test/remoteBuildSpec.js" />
+      <jump line="150" column="0" filename="$USER_HOME$/www/js/tt/test/remoteBuildSpec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICByZXR1cm4gZ3Vlc3RBdXRoKAogICAgYXBwUmVzdChidWlsZHMpCiAgKSgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>/guestAuth/app/rest/builds/id:%s/artifacts</text>
       </register>
       <register name="-" type="4">
-        <text>sendBuildRequest</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZW5kQnVpbGRSZXF1ZXN0XD4=</text>
+        <text encoding="base64">XDxhcnRpZmFjdHNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>buildType(buildTypeId)(builds)</text>
+        <text>/guestAuth/app/rest/builds/id:%s/artifacts</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICByZXR1cm4gZ3Vlc3RBdXRoKAogICAgYXBwUmVzdChidWlsZHMpCiAgKSgpOwo=</text>
@@ -832,9 +832,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZW5kQnVpbGRSZXF1ZXN0XD4=</last-search>
+      <last-search encoding="base64">XDxhcnRpZmFjdHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZW5kQnVpbGRSZXF1ZXN0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxhcnRpZmFjdHNcPg==</last-pattern>
       <last-replace>const spet</last-replace>
       <last-substitute>let spet</last-substitute>
       <last-dir>-1</last-dir>
@@ -842,8 +842,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rg</entry>
-        <entry>@see</entry>
         <entry>build</entry>
         <entry encoding="base64">XDxidWlsZFR5cGVJZFw+</entry>
         <entry encoding="base64">XDxub2NrXD4=</entry>
@@ -862,6 +860,8 @@
         <entry>install</entry>
         <entry encoding="base64">XDxjcmVhdGVCdWlsZFJlcXVlc3RcPg==</entry>
         <entry encoding="base64">XDxzZW5kQnVpbGRSZXF1ZXN0XD4=</entry>
+        <entry encoding="base64">XDxkb3dubG9hZEJ1aWxkXD4=</entry>
+        <entry encoding="base64">XDxhcnRpZmFjdHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>212</entry>
