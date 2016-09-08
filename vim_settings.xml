@@ -155,12 +155,12 @@
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/test/service/create-response-error-message.js" timestamp="1473339112834">
-        <mark key="'" line="19" column="52" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/test/service/create-response-error-message.js" timestamp="1473339557896">
+        <mark key="'" line="95" column="0" />
+        <mark key="[" line="19" column="124" />
+        <mark key="]" line="19" column="124" />
+        <mark key="." line="19" column="124" />
+        <mark key="^" line="19" column="124" />
       </file>
       <file name="$USER_HOME$/www/js/specht/logs/foo/index.js" timestamp="1472139546509">
         <mark key="'" line="197" column="0" />
@@ -854,10 +854,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="46" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/test/auth.js" />
-      <jump line="44" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/test/auth.js" />
-      <jump line="13" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/test/auth.js" />
-      <jump line="46" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/test/auth.js" />
       <jump line="52" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/test/auth.js" />
       <jump line="77" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/test/auth.js" />
       <jump line="47" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/test/auth.js" />
@@ -917,7 +913,6 @@
       <jump line="32" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/test/service/create-response-error-message.js" />
       <jump line="16" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/test/service/create-response-error-message.js" />
       <jump line="60" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/test/service/create-response-error-message.js" />
-      <jump line="20" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/test/service/create-response-error-message.js" />
       <jump line="111" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/test/service/create-response-error-message.js" />
       <jump line="110" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/test/service/create-response-error-message.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/test/service/create-response-error-message.js" />
@@ -954,6 +949,11 @@
       <jump line="7" column="63" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/test/service/create-response-error-message.js" />
       <jump line="1" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/service/get-error-message-from-response.js" />
       <jump line="19" column="52" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/test/service/create-response-error-message.js" />
+      <jump line="20" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/test/service/create-response-error-message.js" />
+      <jump line="132" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/test/service/create-response-error-message.js" />
+      <jump line="69" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/test/service/create-response-error-message.js" />
+      <jump line="119" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/test/service/create-response-error-message.js" />
+      <jump line="96" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/test/service/create-response-error-message.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -963,7 +963,7 @@
         <text>error-meta</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRFcnJvck1lc3NhZ2VGcm9tUmVzcG9uc2VcPg==</text>
+        <text>not show</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cmVxdWlyZSgnLi9zZXJ2aWNlL2Vycm9yLW1ldGEnKTsK</text>
@@ -1003,17 +1003,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRFcnJvck1lc3NhZ2VGcm9tUmVzcG9uc2VcPg==</last-search>
+      <last-search>not show</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRFcnJvck1lc3NhZ2VGcm9tUmVzcG9uc2VcPg==</last-pattern>
+      <last-pattern>not show</last-pattern>
       <last-replace>const spet</last-replace>
       <last-substitute>let spet</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXN0b3JlTG9jYXRpb25cPg==</entry>
         <entry>auth</entry>
         <entry>in</entry>
         <entry>scrop</entry>
@@ -1033,6 +1032,7 @@
         <entry>getErrorMessage</entry>
         <entry encoding="base64">XDxnZXRFcnJvck1lc3NhZ2VcPg==</entry>
         <entry encoding="base64">XDxnZXRFcnJvck1lc3NhZ2VGcm9tUmVzcG9uc2VcPg==</entry>
+        <entry>not show</entry>
       </history-search>
       <history-cmd>
         <entry>70</entry>
