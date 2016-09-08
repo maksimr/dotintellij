@@ -496,12 +496,12 @@
       <file name="$USER_HOME$/www/js/tt/test/teamcityBuildsSpec.js" timestamp="1473080969233">
         <mark key="'" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/service/http-error-handler.js" timestamp="1473342175539">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/service/http-error-handler.js" timestamp="1473342948940">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-        <mark key="^" line="53" column="7" />
+        <mark key="[" line="2" column="141" />
+        <mark key="]" line="2" column="140" />
+        <mark key="." line="2" column="140" />
+        <mark key="^" line="2" column="140" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-custom-field-lazy.js" timestamp="1472455122552">
         <mark key="'" line="32" column="12" />
@@ -963,11 +963,11 @@
       <jump line="21" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/service/create-response-error-message.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHEucmVqZWN0KHJlc3BvbnNlKTsK</text>
+      <register name="&quot;" type="4">
+        <text>, createResponseErrorMessage</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHx8IHtlcnJvcjogY3VzdG9tRXJyb3JNZXNzYWdlIHx8ICdVbnJlY29nbml6ZWQgc2VydmVyIGVycm9yJ30=</text>
+        <text>, createResponseErrorMessage</text>
       </register>
       <register name="/" type="4">
         <text>alert</text>
@@ -1043,7 +1043,6 @@
       </history-search>
       <history-cmd>
         <entry>70</entry>
-        <entry>q</entry>
         <entry>%s/ytDiscrete/discrete/gc</entry>
         <entry>%s/ytSign/sign/gc</entry>
         <entry>:w</entry>
@@ -1061,6 +1060,7 @@
         <entry>109</entry>
         <entry>65</entry>
         <entry>55</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
