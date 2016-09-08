@@ -487,10 +487,10 @@
       <file name="$USER_HOME$/www/js/tt/test/teamcityBuildsSpec.js" timestamp="1473080969233">
         <mark key="'" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/service/http-error-handler.js" timestamp="1473333963984">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/service/http-error-handler.js" timestamp="1473334277881">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="148" column="34" />
-        <mark key="]" line="148" column="33" />
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="134" column="9" />
         <mark key="^" line="148" column="33" />
         <mark key="." line="148" column="33" />
       </file>
@@ -558,6 +558,9 @@
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/form/template/yt-radio.html" timestamp="1473249577938">
         <mark key="'" line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/test/service/http-error-handler.js" timestamp="1473334296265">
+        <mark key="'" line="54" column="15" />
       </file>
       <file name="$USER_HOME$/www/js/specht/src/cli.js" timestamp="1472230981053">
         <mark key="'" line="65" column="0" />
@@ -830,28 +833,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="655" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth/auth.js" />
-      <jump line="653" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth/auth.js" />
-      <jump line="643" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth/auth.js" />
-      <jump line="618" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth/auth.js" />
-      <jump line="242" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth/auth.js" />
-      <jump line="199" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth/auth.js" />
-      <jump line="652" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth/auth.js" />
-      <jump line="90" column="33" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth/auth.js" />
-      <jump line="142" column="59" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth/auth.js" />
-      <jump line="188" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth/auth.js" />
-      <jump line="189" column="29" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth/auth.js" />
-      <jump line="202" column="35" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth/auth.js" />
-      <jump line="315" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth/auth.js" />
-      <jump line="338" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth/auth.js" />
-      <jump line="359" column="37" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth/auth.js" />
-      <jump line="363" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth/auth.js" />
-      <jump line="370" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth/auth.js" />
-      <jump line="380" column="101" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth/auth.js" />
-      <jump line="462" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth/auth.js" />
-      <jump line="477" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth/auth.js" />
-      <jump line="615" column="98" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth/auth.js" />
-      <jump line="640" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth/auth.js" />
       <jump line="656" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth/auth.js" />
       <jump line="89" column="44" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth/auth.js" />
       <jump line="22" column="43" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/oauth.js" />
@@ -929,20 +910,42 @@
       <jump line="12" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/oauth.js" />
       <jump line="28" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/auth.js" />
       <jump line="54" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/auth.js" />
+      <jump line="101" column="29" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/service/http-error-handler.js" />
+      <jump line="20" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/test/service/http-error-handler.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/service/http-error-handler.js" />
+      <jump line="108" column="33" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/service/http-error-handler.js" />
+      <jump line="12" column="37" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/service/http-error-handler.js" />
+      <jump line="95" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/service/http-error-handler.js" />
+      <jump line="156" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/service/http-error-handler.js" />
+      <jump line="125" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/service/http-error-handler.js" />
+      <jump line="129" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/service/http-error-handler.js" />
+      <jump line="130" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/service/http-error-handler.js" />
+      <jump line="151" column="45" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/service/http-error-handler.js" />
+      <jump line="118" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/service/http-error-handler.js" />
+      <jump line="121" column="68" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/service/http-error-handler.js" />
+      <jump line="126" column="54" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/service/http-error-handler.js" />
+      <jump line="117" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/service/http-error-handler.js" />
+      <jump line="159" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/service/http-error-handler.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/service/http-error-handler.js" />
+      <jump line="76" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/test/service/http-error-handler.js" />
+      <jump line="143" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/test/service/http-error-handler.js" />
+      <jump line="49" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/test/service/http-error-handler.js" />
+      <jump line="50" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/test/service/http-error-handler.js" />
+      <jump line="59" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/test/service/http-error-handler.js" />
+      <jump line="54" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/test/service/http-error-handler.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>window.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGVycm9yTWVzc2FnZS5wdXNoKHJlc3BvbnNlRXJyb3JNZXNzYWdlKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>window.</text>
       </register>
       <register name="/" type="4">
-        <text>load</text>
+        <text>show</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgIGVycm9yTWVzc2FnZS5wdXNoKHJlc3BvbnNlRXJyb3JNZXNzYWdlKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -979,9 +982,9 @@
       </register>
     </registers>
     <search>
-      <last-search>load</last-search>
+      <last-search>show</last-search>
       <last-offset />
-      <last-pattern>load</last-pattern>
+      <last-pattern>show</last-pattern>
       <last-replace>const spet</last-replace>
       <last-substitute>let spet</last-substitute>
       <last-dir>1</last-dir>
@@ -989,13 +992,6 @@
     </search>
     <history>
       <history-search>
-        <entry>conso</entry>
-        <entry>reload</entry>
-        <entry>req</entry>
-        <entry>ifram</entry>
-        <entry encoding="base64">XDxfcmVkaXJlY3RGcmFtZVw+</entry>
-        <entry encoding="base64">XDxyZXNldFByb21pc2VcPg==</entry>
-        <entry encoding="base64">XDxjbGVhblVwXD4=</entry>
         <entry encoding="base64">XDxyZW1vdmVUb2tlbkxpc3RlbmVyXD4=</entry>
         <entry encoding="base64">XDxfbG9hZFRva2VuSW5CYWNrZ3JvdW5kXD4=</entry>
         <entry>background</entry>
@@ -1009,6 +1005,13 @@
         <entry>null</entry>
         <entry encoding="base64">XDxjcmVhdGVSaW5nQ29uZmlnU3RvcmFnZVw+</entry>
         <entry>load</entry>
+        <entry>def</entry>
+        <entry>status</entry>
+        <entry encoding="base64">XDxnZXRBY3Rpb25MaW5rc0ZvckVycm9yTWVzc2FnZVw+</entry>
+        <entry encoding="base64">XDxzaG93RXJyb3JNZXNzYWdlXD4=</entry>
+        <entry>custom</entry>
+        <entry>showError</entry>
+        <entry>show</entry>
       </history-search>
       <history-cmd>
         <entry>70</entry>
