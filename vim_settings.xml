@@ -497,8 +497,8 @@
         <mark key="." line="9" column="110" />
         <mark key="^" line="8" column="14" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issue-assignee.js" timestamp="1472474470817">
-        <mark key="'" line="116" column="10" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issue-assignee.js" timestamp="1473674235742">
+        <mark key="'" line="196" column="19" />
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
         <mark key="^" line="156" column="29" />
@@ -924,10 +924,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="178" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
-      <jump line="198" column="43" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
-      <jump line="200" column="75" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
-      <jump line="231" column="33" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="251" column="43" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="78" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/backlog-issues-tree-model.js" />
       <jump line="71" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/service/backlog-issues-tree-model.js" />
@@ -1024,6 +1020,10 @@
       <jump line="125" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/backlog-issues-model.js" />
       <jump line="29" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/backlog-issues-model.js" />
       <jump line="103" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/backlog-issues-model.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issue-assignee.js" />
+      <jump line="202" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issue-assignee.js" />
+      <jump line="120" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issue-assignee.js" />
+      <jump line="196" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issue-assignee.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1033,7 +1033,7 @@
         <text>create(agileId, data);</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2FkQXRMZWFzdFw+</text>
+        <text encoding="base64">XDxleGNsdWRlQWxyZWFkeVNlbGVjdGVkVXNlcnNGb3JTaW5nbGVWYWx1ZUZpZWxkXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwYXJhbXMgPSBwYXJhbXMgfHwge307Cg==</text>
@@ -1073,9 +1073,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2FkQXRMZWFzdFw+</last-search>
+      <last-search encoding="base64">XDxleGNsdWRlQWxyZWFkeVNlbGVjdGVkVXNlcnNGb3JTaW5nbGVWYWx1ZUZpZWxkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2FkQXRMZWFzdFw+</last-pattern>
+      <last-pattern encoding="base64">XDxleGNsdWRlQWxyZWFkeVNlbGVjdGVkVXNlcnNGb3JTaW5nbGVWYWx1ZUZpZWxkXD4=</last-pattern>
       <last-replace>const spet</last-replace>
       <last-substitute>let spet</last-substitute>
       <last-dir>-1</last-dir>
@@ -1083,7 +1083,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxiYWNrbG9nSXNzdWVUcmVlXD4=</entry>
         <entry encoding="base64">XDxMYXp5VHJlZU1vZGVsXD4=</entry>
         <entry>data</entry>
         <entry>sourceData</entry>
@@ -1103,6 +1102,7 @@
         <entry>fetch(</entry>
         <entry>load</entry>
         <entry encoding="base64">XDxsb2FkQXRMZWFzdFw+</entry>
+        <entry encoding="base64">XDxleGNsdWRlQWxyZWFkeVNlbGVjdGVkVXNlcnNGb3JTaW5nbGVWYWx1ZUZpZWxkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>70</entry>
