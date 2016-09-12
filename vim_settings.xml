@@ -15,7 +15,7 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/sinon/lib/sinon/sandbox.js" timestamp="1473179275906">
         <mark key="'" line="135" column="29" />
       </file>
-      <file name="/a.dummy" timestamp="1473681688554">
+      <file name="/a.dummy" timestamp="1473682808546">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/node_modules/babel-preset-jetbrains/index.js" timestamp="1472646994071">
@@ -92,12 +92,12 @@
         <mark key="]" line="124" column="0" />
         <mark key="." line="124" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1473251842187">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="111" column="32" />
-        <mark key="]" line="111" column="33" />
-        <mark key="^" line="125" column="61" />
-        <mark key="." line="111" column="33" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1473682539716">
+        <mark key="'" line="13" column="31" />
+        <mark key="[" line="96" column="20" />
+        <mark key="]" line="96" column="23" />
+        <mark key="^" line="96" column="23" />
+        <mark key="." line="96" column="23" />
       </file>
       <file name="$USER_HOME$/www/js/tt/foo.js" timestamp="1473093911059">
         <mark key="'" line="35" column="0" />
@@ -887,12 +887,12 @@
       <file name="$USER_HOME$/www/js/tt/node_modules/ora/index.js" timestamp="1473103285082">
         <mark key="'" line="103" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/style/agile-toolbar.scss" timestamp="1473161369350">
-        <mark key="'" line="15" column="5" />
-        <mark key="[" line="107" column="5" />
-        <mark key="]" line="110" column="18" />
-        <mark key="^" line="110" column="18" />
-        <mark key="." line="110" column="18" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/style/agile-toolbar.scss" timestamp="1473682849036">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="^" line="114" column="29" />
+        <mark key="." line="112" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/template/command-dialog.html" timestamp="1473169731520">
         <mark key="'" line="1" column="0" />
@@ -961,9 +961,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dropdown/service/yt-dropdown.js" />
-      <jump line="54" column="35" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dropdown/service/yt-dropdown.js" />
-      <jump line="55" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dropdown/service/yt-dropdown.js" />
       <jump line="59" column="29" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dropdown/service/yt-dropdown.js" />
       <jump line="60" column="45" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dropdown/service/yt-dropdown.js" />
       <jump line="62" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dropdown/service/yt-dropdown.js" />
@@ -1061,16 +1058,19 @@
       <jump line="9" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-backlog-issue.js" />
       <jump line="88" column="41" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-backlog-issue.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-backlog-issue.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="13" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="9" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/style/agile-toolbar.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkZG9jdW1lbnQsCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="-" type="4">
-        <text>, popupConfig.anchorElement, options.popupContainer</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
-        <text>body</text>
+        <text>edit</text>
       </register>
       <register name="0" type="4">
         <text>options.popupContainer</text>
@@ -1110,9 +1110,9 @@
       </register>
     </registers>
     <search>
-      <last-search>body</last-search>
+      <last-search>edit</last-search>
       <last-offset />
-      <last-pattern>body</last-pattern>
+      <last-pattern>edit</last-pattern>
       <last-replace>const spet</last-replace>
       <last-substitute>let spet</last-substitute>
       <last-dir>1</last-dir>
@@ -1120,9 +1120,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZW5kZXJQb3B1cFw+</entry>
-        <entry encoding="base64">XDxwb3B1cENvbnRhaW5lclw+</entry>
-        <entry>popupCont</entry>
         <entry encoding="base64">XDxzaG93Q3JlYXRlRHJvcGRvd25cPg==</entry>
         <entry encoding="base64">XDxnZXRDcmVhdGVJc3N1ZUNvbmZpZ1w+</entry>
         <entry>config</entry>
@@ -1140,6 +1137,9 @@
         <entry>options</entry>
         <entry encoding="base64">XDxjcmVhdGVCYWNrbG9nU3VidGFza1w+</entry>
         <entry>body</entry>
+        <entry>ring-ui</entry>
+        <entry>date</entry>
+        <entry>edit</entry>
       </history-search>
       <history-cmd>
         <entry>70</entry>
