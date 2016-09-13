@@ -640,8 +640,8 @@
       <file name="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng.js" timestamp="1473695498532">
         <mark key="'" line="476" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/search-query-panel/directive/search-query-panel.js" timestamp="1473693953709">
-        <mark key="'" line="131" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/search-query-panel/directive/search-query-panel.js" timestamp="1473755033464">
+        <mark key="'" line="165" column="2" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -688,15 +688,15 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="51" column="27" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/query-assist/query-assist.js" timestamp="1473700237413">
-        <mark key="'" line="188" column="50" />
-        <mark key="[" line="188" column="12" />
-        <mark key="]" line="188" column="20" />
+      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/query-assist/query-assist.js" timestamp="1473755006912">
+        <mark key="'" line="201" column="30" />
+        <mark key="[" line="155" column="0" />
+        <mark key="]" line="156" column="36" />
         <mark key="." line="188" column="20" />
         <mark key="^" line="188" column="20" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/query-assist/query-assist.test.js" timestamp="1473709731781">
-        <mark key="'" line="177" column="15" />
+      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/query-assist/query-assist.test.js" timestamp="1473754773558">
+        <mark key="'" line="194" column="0" />
         <mark key="[" line="202" column="0" />
         <mark key="]" line="202" column="0" />
         <mark key="." line="202" column="0" />
@@ -966,11 +966,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="512" column="10" filename="$USER_HOME$/www/jetbrains/ring-ui/components/query-assist/query-assist.js" />
-      <jump line="519" column="19" filename="$USER_HOME$/www/jetbrains/ring-ui/components/query-assist/query-assist.js" />
-      <jump line="520" column="30" filename="$USER_HOME$/www/jetbrains/ring-ui/components/query-assist/query-assist.js" />
-      <jump line="541" column="9" filename="$USER_HOME$/www/jetbrains/ring-ui/components/query-assist/query-assist.js" />
-      <jump line="634" column="15" filename="$USER_HOME$/www/jetbrains/ring-ui/components/query-assist/query-assist.js" />
       <jump line="640" column="33" filename="$USER_HOME$/www/jetbrains/ring-ui/components/query-assist/query-assist.js" />
       <jump line="641" column="30" filename="$USER_HOME$/www/jetbrains/ring-ui/components/query-assist/query-assist.js" />
       <jump line="642" column="27" filename="$USER_HOME$/www/jetbrains/ring-ui/components/query-assist/query-assist.js" />
@@ -1066,19 +1061,24 @@
       <jump line="381" column="33" filename="$USER_HOME$/www/jetbrains/ring-ui/components/query-assist/query-assist.test.js" />
       <jump line="279" column="39" filename="$USER_HOME$/www/jetbrains/ring-ui/components/query-assist/query-assist.test.js" />
       <jump line="177" column="15" filename="$USER_HOME$/www/jetbrains/ring-ui/components/query-assist/query-assist.test.js" />
+      <jump line="194" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/query-assist/query-assist.test.js" />
+      <jump line="201" column="30" filename="$USER_HOME$/www/jetbrains/ring-ui/components/query-assist/query-assist.js" />
+      <jump line="8" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/search-query-panel/directive/search-query-panel.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/search-query-panel/directive/search-query-panel.js" />
+      <jump line="165" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/search-query-panel/directive/search-query-panel.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB3aWxsUmVjZWl2ZVByb3BzKHtjYXJldCwgZGVsYXksIGZvY3VzLCBxdWVyeX0pIHsKICAgIHRoaXMuc2V0dXBSZXF1ZXN0SGFuZGxlcihkZWxheSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
-        <text>enbale</text>
+        <text>willUp</text>
       </register>
-      <register name="0" type="4">
-        <text>this.immediateState.focus</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICB3aWxsUmVjZWl2ZVByb3BzKHtjYXJldCwgZGVsYXksIGZvY3VzLCBxdWVyeX0pIHsKICAgIHRoaXMuc2V0dXBSZXF1ZXN0SGFuZGxlcihkZWxheSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbnN0IGlzRm9jdXNlZCA9IEJvb2xlYW4odGhpcy5pbW1lZGlhdGVTdGF0ZS5mb2N1cyk7Cg==</text>
@@ -1115,9 +1115,9 @@
       </register>
     </registers>
     <search>
-      <last-search>enbale</last-search>
+      <last-search>willUp</last-search>
       <last-offset />
-      <last-pattern>enbale</last-pattern>
+      <last-pattern>willUp</last-pattern>
       <last-replace>enable</last-replace>
       <last-substitute>enbale</last-substitute>
       <last-dir>1</last-dir>
@@ -1133,7 +1133,6 @@
         <entry>componentWill</entry>
         <entry>toggle</entry>
         <entry encoding="base64">XDx0b2dnbGVTaG9ydGN1dHNcPg==</entry>
-        <entry>willUp</entry>
         <entry>willUpdat</entry>
         <entry>will</entry>
         <entry>short</entry>
@@ -1145,6 +1144,7 @@
         <entry>ena</entry>
         <entry>enba</entry>
         <entry>enbale</entry>
+        <entry>willUp</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ytDiscrete/discrete/gc</entry>
