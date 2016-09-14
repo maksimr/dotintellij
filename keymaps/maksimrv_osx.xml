@@ -1,4 +1,8 @@
 <keymap version="1" name="maksimrv.osx" parent="Default for XWin">
+  <action id="$Delete">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="ctrl alt back_space" />
+  </action>
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="shift ctrl z" />
     <keyboard-shortcut first-keystroke="shift alt back_space" />
@@ -17,6 +21,9 @@
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="shift alt f10" />
     <keyboard-shortcut first-keystroke="alt comma" second-keystroke="r" />
+  </action>
+  <action id="Editor Delete">
+    <keyboard-shortcut first-keystroke="ctrl alt back_space" />
   </action>
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl r" />
@@ -70,5 +77,9 @@
   </action>
   <action id="Upsource.ShowNewsFeed">
     <keyboard-shortcut first-keystroke="alt o" second-keystroke="n" />
+  </action>
+  <action id="armory.node.AddAsRootToOther">
+    <keyboard-shortcut first-keystroke="ctrl up" />
+    <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
 </keymap>
