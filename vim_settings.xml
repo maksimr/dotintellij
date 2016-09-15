@@ -140,12 +140,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/ring-component/ring-component_with-shortcuts.test.js" timestamp="1473943560513">
-        <mark key="'" line="212" column="6" />
-        <mark key="[" line="175" column="0" />
-        <mark key="]" line="175" column="0" />
-        <mark key="." line="175" column="0" />
-        <mark key="^" line="175" column="5" />
+      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/ring-component/ring-component_with-shortcuts.test.js" timestamp="1473946055447">
+        <mark key="'" line="149" column="0" />
+        <mark key="[" line="149" column="10" />
+        <mark key="]" line="149" column="9" />
+        <mark key="." line="149" column="9" />
+        <mark key="^" line="149" column="9" />
       </file>
       <file name="$USER_HOME$/www/js/specht/.eslintrc" timestamp="1472140422584">
         <mark key="'" line="7" column="5" />
@@ -919,7 +919,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select/select.js" />
       <jump line="76" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select/select.js" />
       <jump line="77" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select/select.js" />
       <jump line="79" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select/select.js" />
@@ -1005,7 +1004,6 @@
       <jump line="176" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/ring-component/ring-component_with-shortcuts.test.js" />
       <jump line="186" column="4" filename="$USER_HOME$/www/jetbrains/ring-ui/components/ring-component/ring-component_with-shortcuts.test.js" />
       <jump line="188" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/ring-component/ring-component_with-shortcuts.test.js" />
-      <jump line="149" column="9" filename="$USER_HOME$/www/jetbrains/ring-ui/components/ring-component/ring-component_with-shortcuts.test.js" />
       <jump line="179" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/ring-component/ring-component_with-shortcuts.test.js" />
       <jump line="32" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/ring-component/ring-component_with-shortcuts.js" />
       <jump line="171" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/ring-component/ring-component_with-shortcuts.test.js" />
@@ -1019,16 +1017,18 @@
       <jump line="72" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/ring-component/ring-component_with-shortcuts.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/ring-component/ring-component_with-shortcuts.js" />
       <jump line="69" column="16" filename="$USER_HOME$/www/jetbrains/ring-ui/components/ring-component/ring-component_with-shortcuts.js" />
+      <jump line="164" column="6" filename="$USER_HOME$/www/jetbrains/ring-ui/components/ring-component/ring-component_with-shortcuts.test.js" />
+      <jump line="149" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/ring-component/ring-component_with-shortcuts.test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.only</text>
       </register>
       <register name="-" type="4">
-        <text>params</text>
+        <text>.only</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1bmJpbmRTY29wZVw+</text>
+        <text>only</text>
       </register>
       <register name="0" type="4">
         <text>shortcuts.spliceScope(params.shortcutsScope)</text>
@@ -1068,17 +1068,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1bmJpbmRTY29wZVw+</last-search>
+      <last-search>only</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1bmJpbmRTY29wZVw+</last-pattern>
+      <last-pattern>only</last-pattern>
       <last-replace>enable</last-replace>
       <last-substitute>enbale</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>delete</entry>
         <entry>modal</entry>
         <entry>del</entry>
         <entry encoding="base64">XDxnZXRTaG9ydGN1dHNQcm9wc1w+</entry>
@@ -1098,6 +1097,7 @@
         <entry>props</entry>
         <entry encoding="base64">XDxzaG9ydGN1dHNFbmFibGVkXD4=</entry>
         <entry encoding="base64">XDx1bmJpbmRTY29wZVw+</entry>
+        <entry>only</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ytDiscrete/discrete/gc</entry>
