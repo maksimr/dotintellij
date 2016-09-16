@@ -254,6 +254,10 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/template/projects-create.html" timestamp="1472728566915">
         <mark key="'" line="12" column="97" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/serverside-events/service/yt-serverside-events.js" timestamp="1474023012191">
+        <mark key="[" line="45" column="21" />
+        <mark key="]" line="45" column="38" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/form/directive/yt-form-checkbox.js" timestamp="1472457197441">
         <mark key="'" line="46" column="35" />
       </file>
@@ -858,6 +862,9 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/http-proxy-middleware/lib/config-factory.js" timestamp="1473266116013">
         <mark key="'" line="24" column="12" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-live-updater.js" timestamp="1474022995640">
+        <mark key="'" line="12" column="8" />
+      </file>
       <file name="$USER_HOME$/www/js/tt/node_modules/ora/index.js" timestamp="1473103285082">
         <mark key="'" line="103" column="0" />
       </file>
@@ -937,29 +944,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-sprint-options.js" />
-      <jump line="23" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-sprint-options.js" />
-      <jump line="69" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-sprint-options.js" />
-      <jump line="59" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-sprint-options.js" />
-      <jump line="0" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/list/list__item.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
-      <jump line="13" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
-      <jump line="96" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
-      <jump line="52" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-sprint-options.js" />
-      <jump line="49" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-sprint-options.js" />
-      <jump line="41" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-sprint-options.js" />
-      <jump line="109" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-sprint-options.js" />
-      <jump line="100" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-sprint-options.js" />
-      <jump line="2" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-sprint-options.js" />
-      <jump line="3" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-sprint-options.js" />
-      <jump line="22" column="33" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-sprint-options.js" />
-      <jump line="220" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/ring-component/ring-component_with-shortcuts.test.js" />
-      <jump line="74" column="17" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list__item.js" />
-      <jump line="2" column="9" filename="$USER_HOME$/www/jetbrains/ring-ui/components/query-assist/query-assist.js" />
-      <jump line="6" column="3" filename="$USER_HOME$/www/jetbrains/ring-ui/components/query-assist/query-assist.js" />
-      <jump line="14" column="6" filename="$USER_HOME$/www/jetbrains/ring-ui/components/query-assist/query-assist.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list__item.js" />
-      <jump line="92" column="19" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list__item.js" />
       <jump line="6" column="22" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list__item.js" />
       <jump line="13" column="44" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list__item.js" />
       <jump line="68" column="17" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list__item.js" />
@@ -1037,16 +1021,39 @@
       <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-board.js" />
       <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-board.js" />
       <jump line="922" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-board.js" />
+      <jump line="38" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-live-updater.js" />
+      <jump line="411" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-live-updater.js" />
+      <jump line="394" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-live-updater.js" />
+      <jump line="390" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-live-updater.js" />
+      <jump line="388" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-live-updater.js" />
+      <jump line="387" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-live-updater.js" />
+      <jump line="366" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-live-updater.js" />
+      <jump line="341" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-live-updater.js" />
+      <jump line="333" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-live-updater.js" />
+      <jump line="329" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-live-updater.js" />
+      <jump line="323" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-live-updater.js" />
+      <jump line="317" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-live-updater.js" />
+      <jump line="313" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-live-updater.js" />
+      <jump line="308" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-live-updater.js" />
+      <jump line="303" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-live-updater.js" />
+      <jump line="297" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-live-updater.js" />
+      <jump line="246" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-live-updater.js" />
+      <jump line="236" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-live-updater.js" />
+      <jump line="232" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-live-updater.js" />
+      <jump line="228" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-live-updater.js" />
+      <jump line="223" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-live-updater.js" />
+      <jump line="221" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-live-updater.js" />
+      <jump line="12" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-live-updater.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dmFyIHJlYWN0ID0gcmVxdWlyZSgncmVhY3QnKQo=</text>
+      <register name="&quot;" type="4">
+        <text>api/eventSourceBus</text>
       </register>
       <register name="-" type="4">
         <text>required</text>
       </register>
       <register name="/" type="4">
-        <text>hasEdit</text>
+        <text encoding="base64">XDxldmVudFNvdXJjZVw+</text>
       </register>
       <register name="0" type="4">
         <text>rgba(fff, fff, fff, 0.2)</text>
@@ -1086,17 +1093,16 @@
       </register>
     </registers>
     <search>
-      <last-search>hasEdit</last-search>
+      <last-search encoding="base64">XDxldmVudFNvdXJjZVw+</last-search>
       <last-offset />
-      <last-pattern>hasEdit</last-pattern>
+      <last-pattern encoding="base64">XDxldmVudFNvdXJjZVw+</last-pattern>
       <last-replace>enable</last-replace>
       <last-substitute>enbale</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyb290QXR0cnNcPg==</entry>
         <entry>key</entry>
         <entry>onClickEdi</entry>
         <entry>ring-ui</entry>
@@ -1116,6 +1122,7 @@
         <entry>background</entry>
         <entry>label</entry>
         <entry>hasEdit</entry>
+        <entry encoding="base64">XDxldmVudFNvdXJjZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ytDiscrete/discrete/gc</entry>
