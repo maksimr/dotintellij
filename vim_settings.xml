@@ -596,17 +596,16 @@
       <file name="$USER_HOME$/www/jetbrains/ring-ui/components/shortcuts/shortcuts.js" timestamp="1473941649300">
         <mark key="'" line="205" column="24" />
       </file>
-      <file name="$USER_HOME$/www/js/tt/index.js" timestamp="1474234671925">
+      <file name="$USER_HOME$/www/js/tt/index.js" timestamp="1474235414254">
         <mark key="'" line="212" column="2" />
-        <mark key="[" line="265" column="37" />
-        <mark key="]" line="265" column="46" />
+        <mark key="[" line="265" column="0" />
+        <mark key="]" line="266" column="29" />
       </file>
-      <file name="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" timestamp="1474233992075">
-        <mark key="'" line="51" column="2" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="28" column="12" />
-        <mark key="." line="27" column="81" />
-        <mark key="^" line="27" column="81" />
+      <file name="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" timestamp="1474236391965">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="^" line="44" column="64" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/webpack.config.js" timestamp="1472645676628">
         <mark key="'" line="99" column="2" />
@@ -989,11 +988,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="0" filename="$USER_HOME$/www/js/tt/lib/request.js" />
-      <jump line="28" column="0" filename="$USER_HOME$/www/js/tt/test/requestSpec.js" />
-      <jump line="87" column="34" filename="$USER_HOME$/www/js/tt/test/requestSpec.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/www/js/tt/test/requestSpec.js" />
-      <jump line="89" column="0" filename="$USER_HOME$/www/js/tt/test/requestSpec.js" />
       <jump line="9" column="40" filename="$USER_HOME$/www/js/tt/test/requestSpec.js" />
       <jump line="46" column="0" filename="$USER_HOME$/www/js/tt/lib/request.js" />
       <jump line="52" column="16" filename="$USER_HOME$/www/js/tt/lib/request.js" />
@@ -1028,7 +1022,6 @@
       <jump line="23" column="12" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
       <jump line="11" column="0" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
       <jump line="8" column="0" filename="$USER_HOME$/www/js/tt/lib/request.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/js/tt/node_modules/lodash/lodash.js" />
       <jump line="151" column="26" filename="$USER_HOME$/www/js/tt/node_modules/lodash/lodash.js" />
       <jump line="193" column="14" filename="$USER_HOME$/www/js/tt/node_modules/lodash/lodash.js" />
@@ -1079,53 +1072,59 @@
       <jump line="30" column="0" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
       <jump line="33" column="39" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
       <jump line="8" column="0" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
-      <jump line="32" column="0" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
       <jump line="41" column="4" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
-      <jump line="28" column="27" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
       <jump line="29" column="0" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
       <jump line="24" column="0" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
       <jump line="38" column="0" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
       <jump line="44" column="2" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
       <jump line="276" column="0" filename="$USER_HOME$/www/js/tt/index.js" />
       <jump line="212" column="2" filename="$USER_HOME$/www/js/tt/index.js" />
+      <jump line="32" column="0" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
+      <jump line="63" column="0" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
+      <jump line="57" column="0" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
+      <jump line="28" column="1" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
+      <jump line="71" column="2" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
+      <jump line="94" column="0" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
+      <jump line="89" column="0" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/artifacts</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CgogIGl0KCdzaG91bGQgZ2V0IG9ubHkgZm9yIHNwZWNpZmljIGJ1aWxkIHR5cGUnLCBmdW5jdGlvbigpIHsKICAgIGV4cGVjdCh0ZXN0UmVxdWVzdC5xdWVyeS5sb2NhdG9yKQogICAgICAudG9NYXRjaCgnYnVpbGRUeXBlOjpidWlsZFR5cGVJZCcpOwogIH0pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>?locator=status:SUCCESS</text>
+        <text>,buildType::buildTypeId</text>
       </register>
       <register name="/" type="4">
         <text>artifacts</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuICdZVERFVl9CdWlsZEFydGlmYWN0c0phckFuZFdhckdyYWRsZSc7CiAgICBjYXNlICc2NSc6Cg==</text>
+        <text encoding="base64">ICAgIGV4cGVjdEpzb25SZXF1ZXN0KHRlc3RSZXF1ZXN0KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICcvYXBwL3Jlc3QvYnVpbGRzL2J1aWxkVHlwZTpGT08sc3RhdHVzOlNVQ0NFU1MsbnVtYmVyOjE2L2FydGlmYWN0cycgCg==</text>
+        <text encoding="base64">CgogIGl0KCdzaG91bGQgZ2V0IG9ubHkgZm9yIHNwZWNpZmljIGJ1aWxkIHR5cGUnLCBmdW5jdGlvbigpIHsKICAgIGV4cGVjdCh0ZXN0UmVxdWVzdC5xdWVyeS5sb2NhdG9yKQogICAgICAudG9NYXRjaCgnYnVpbGRUeXBlOjpidWlsZFR5cGVJZCcpOwogIH0pOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGV4cGVjdChjcmVhdGVCdWlsZHNSZXF1ZXN0KHt9KS5oZWFkZXJzLkFjY2VwdCkKICAgICAgLnRvRXF1YWwoJ2FwcGxpY2F0aW9uL2pzb24nKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFyIF8gPSByZXF1aXJlKCdsb2Rhc2gnKTsK</text>
+        <text encoding="base64">ICAgIGV4cGVjdCh0ZXN0UmVxdWVzdC5oZWFkZXJzLkFjY2VwdCkKICAgICAgLnRvRXF1YWwoJ2FwcGxpY2F0aW9uL2pzb24nKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJsb2Rhc2giOiAiNC4xNS4wIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuYygpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuYygpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dmFyIGNvbXBvc2UgPSBmdW5jdGlvbigpIHsKICB2YXIgZnVuY3MgPSBBcnJheS5wcm90b3R5cGUuc2xpY2UuY2FsbChhcmd1bWVudHMpOwoKICByZXR1cm4gZnVuY3MucmVkdWNlKGZ1bmN0aW9uKGYsIGcpIHsKICAgIHJldHVybiBmdW5jdGlvbigpIHsKICAgICAgcmV0dXJuIGYoZy5hcHBseSh0aGlzLCBhcmd1bWVudHMpKTsKICAgIH07CiAgfSk7Cn07Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMucmVxdWVzdCAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
