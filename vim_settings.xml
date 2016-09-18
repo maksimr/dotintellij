@@ -596,10 +596,10 @@
       <file name="$USER_HOME$/www/jetbrains/ring-ui/components/shortcuts/shortcuts.js" timestamp="1473941649300">
         <mark key="'" line="205" column="24" />
       </file>
-      <file name="$USER_HOME$/www/js/tt/index.js" timestamp="1474234002071">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="275" column="14" />
-        <mark key="]" line="275" column="48" />
+      <file name="$USER_HOME$/www/js/tt/index.js" timestamp="1474234671925">
+        <mark key="'" line="212" column="2" />
+        <mark key="[" line="265" column="37" />
+        <mark key="]" line="265" column="46" />
       </file>
       <file name="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" timestamp="1474233992075">
         <mark key="'" line="51" column="2" />
@@ -989,8 +989,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="0" filename="$USER_HOME$/www/js/tt/test/requestSpec.js" />
-      <jump line="66" column="0" filename="$USER_HOME$/www/js/tt/test/requestSpec.js" />
       <jump line="29" column="0" filename="$USER_HOME$/www/js/tt/lib/request.js" />
       <jump line="28" column="0" filename="$USER_HOME$/www/js/tt/test/requestSpec.js" />
       <jump line="87" column="34" filename="$USER_HOME$/www/js/tt/test/requestSpec.js" />
@@ -1089,19 +1087,21 @@
       <jump line="24" column="0" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
       <jump line="38" column="0" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
       <jump line="44" column="2" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
+      <jump line="276" column="0" filename="$USER_HOME$/www/js/tt/index.js" />
+      <jump line="212" column="2" filename="$USER_HOME$/www/js/tt/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>YTDEV_BuildArtifactsJarAndWarGradle</text>
+        <text>/artifacts</text>
       </register>
       <register name="-" type="4">
         <text>?locator=status:SUCCESS</text>
       </register>
       <register name="/" type="4">
-        <text>lod</text>
+        <text>artifacts</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFkZFBhdGgoJy9ndWVzdEF1dGgvYXBwL3Jlc3QvYnVpbGRUeXBlcy86YnVpbGRUeXBlcy9idWlsZHMvbnVtYmVyOjE2L2FydGlmYWN0cycpCiAgKShyZXF1ZXN0KQo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuICdZVERFVl9CdWlsZEFydGlmYWN0c0phckFuZFdhckdyYWRsZSc7CiAgICBjYXNlICc2NSc6Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICcvYXBwL3Jlc3QvYnVpbGRzL2J1aWxkVHlwZTpGT08sc3RhdHVzOlNVQ0NFU1MsbnVtYmVyOjE2L2FydGlmYWN0cycgCg==</text>
@@ -1138,9 +1138,9 @@
       </register>
     </registers>
     <search>
-      <last-search>lod</last-search>
+      <last-search>artifacts</last-search>
       <last-offset />
-      <last-pattern>lod</last-pattern>
+      <last-pattern>artifacts</last-pattern>
       <last-replace>enable</last-replace>
       <last-substitute>enbale</last-substitute>
       <last-dir>1</last-dir>
@@ -1148,7 +1148,6 @@
     </search>
     <history>
       <history-search>
-        <entry>create</entry>
         <entry>nock</entry>
         <entry>after</entry>
         <entry>requ</entry>
@@ -1168,6 +1167,7 @@
         <entry>compose</entry>
         <entry>lodash</entry>
         <entry>lod</entry>
+        <entry>artifacts</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ytDiscrete/discrete/gc</entry>
