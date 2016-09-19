@@ -197,12 +197,12 @@
         <mark key="." line="202" column="12" />
         <mark key="^" line="202" column="12" />
       </file>
-      <file name="$USER_HOME$/www/js/tt/test/ls-remoteSpec.js" timestamp="1474320585958">
-        <mark key="'" line="24" column="13" />
-        <mark key="[" line="18" column="87" />
-        <mark key="]" line="36" column="96" />
-        <mark key="." line="36" column="96" />
-        <mark key="^" line="36" column="96" />
+      <file name="$USER_HOME$/www/js/tt/test/ls-remoteSpec.js" timestamp="1474321121411">
+        <mark key="'" line="51" column="8" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="34" column="38" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/form/directive/yt-form-checkbox.js" timestamp="1472457197441">
         <mark key="'" line="46" column="35" />
@@ -516,6 +516,12 @@
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/specht/lib/runner.js" timestamp="1472554751605">
         <mark key="'" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/js/tt/lib/team-city-request.js" timestamp="1474320876343">
+        <mark key="[" line="18" column="52" />
+        <mark key="]" line="18" column="52" />
+        <mark key="^" line="18" column="52" />
+        <mark key="." line="18" column="52" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/ring-ui/node_modules/react/lib/React.js" timestamp="1473953189427">
         <mark key="'" line="68" column="0" />
@@ -1041,8 +1047,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/controller/command-dialog.js" />
-      <jump line="105" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/controller/command-dialog.js" />
       <jump line="122" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/controller/command-dialog.js" />
       <jump line="130" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/controller/command-dialog.js" />
       <jump line="137" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/controller/command-dialog.js" />
@@ -1141,49 +1145,51 @@
       <jump line="15" column="3" filename="$USER_HOME$/www/js/tt/test/ls-remoteSpec.js" />
       <jump line="3" column="0" filename="$USER_HOME$/www/js/tt/test/ls-remoteSpec.js" />
       <jump line="21" column="13" filename="$USER_HOME$/www/js/tt/test/ls-remoteSpec.js" />
+      <jump line="25" column="0" filename="$USER_HOME$/www/js/tt/test/ls-remoteSpec.js" />
+      <jump line="35" column="8" filename="$USER_HOME$/www/js/tt/test/ls-remoteSpec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>bar</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJz4+JywgcmVzcG9uc2UpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>bar</text>
+        <text>respone</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
-      <register name="0" type="4">
-        <text>/guestAuth/app/rest/builds?locator=buildType:</text>
+      <register name="0" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2RlZmF1bHRCcmFuY2gnOiB0cnVlLAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJz4+JywgcmVzcG9uc2UpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9ib2UoJ2h0dHA6Ly9mb28uY29tL2d1ZXN0QXV0aC9hcHAvcmVzdC9idWlsZHM/bG9jYXRvcj1idWlsZFR5cGU6JyArIGJ1aWxkVHlwZUlkICsgJyZjb3VudD0xMCcpLm9uKCdkb25lJywgZnVuY3Rpb24ocmVzcG9uZSkgewogICAgICBkb25lKCk7CiAgICB9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJz4+JywgcmVzcG9uZSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdCh0cnVlKS50b0VxdWFsKHRydWUpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGh0dHAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLm5vY2tTY29wZSkgewogICAgICB0aGlzLm5vY2tTY29wZS5kb25lKCk7CiAgICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICB0Y1JlcXVlc3QuY3JlYXRlQnVpbGRMaXN0UmVxdWVzdCgKICAgIHRjUmVxdWVzdC5jcmVhdGVSZXF1ZXN0KGhvc3QpCiAgKQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMubm9ja1Njb3BlLmRvbmUoKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5vY2suaXNEb25lKCk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
