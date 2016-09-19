@@ -601,12 +601,12 @@
         <mark key="[" line="265" column="0" />
         <mark key="]" line="266" column="29" />
       </file>
-      <file name="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" timestamp="1474240239449">
-        <mark key="'" line="101" column="0" />
-        <mark key="[" line="76" column="46" />
-        <mark key="]" line="76" column="47" />
-        <mark key="." line="76" column="47" />
-        <mark key="^" line="76" column="35" />
+      <file name="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" timestamp="1474244124667">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="86" column="26" />
+        <mark key="]" line="86" column="23" />
+        <mark key="^" line="86" column="23" />
+        <mark key="." line="86" column="23" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/webpack.config.js" timestamp="1472645676628">
         <mark key="'" line="99" column="2" />
@@ -989,15 +989,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/www/js/tt/test/requestSpec.js" />
-      <jump line="75" column="0" filename="$USER_HOME$/www/js/tt/test/requestSpec.js" />
-      <jump line="16" column="0" filename="$USER_HOME$/www/js/tt/lib/request.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/www/js/tt/lib/request.js" />
-      <jump line="21" column="0" filename="$USER_HOME$/www/js/tt/lib/request.js" />
-      <jump line="37" column="0" filename="$USER_HOME$/www/js/tt/lib/request.js" />
-      <jump line="8" column="24" filename="$USER_HOME$/www/js/tt/test/requestSpec.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
-      <jump line="10" column="3" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
       <jump line="676" column="20" filename="$USER_HOME$/www/js/tt/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/js/tt/index.js" />
       <jump line="16" column="3" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
@@ -1040,7 +1031,6 @@
       <jump line="12" column="0" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
       <jump line="18" column="0" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
       <jump line="7" column="0" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
-      <jump line="35" column="0" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
       <jump line="9" column="35" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
       <jump line="15" column="0" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
       <jump line="21" column="0" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
@@ -1051,7 +1041,6 @@
       <jump line="30" column="0" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
       <jump line="33" column="39" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
       <jump line="8" column="0" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
-      <jump line="41" column="4" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
       <jump line="29" column="0" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
       <jump line="24" column="0" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
@@ -1089,67 +1078,76 @@
       <jump line="4" column="0" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
       <jump line="72" column="0" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
       <jump line="96" column="0" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
+      <jump line="77" column="8" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
+      <jump line="106" column="0" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
+      <jump line="36" column="0" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
+      <jump line="78" column="0" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
+      <jump line="41" column="0" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
+      <jump line="82" column="6" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
+      <jump line="35" column="4" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
+      <jump line="87" column="0" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
+      <jump line="117" column="0" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
+      <jump line="43" column="0" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>\$</text>
+        <text>toEqual</text>
       </register>
       <register name="-" type="4">
-        <text>\$</text>
+        <text>toEqual</text>
       </register>
       <register name="/" type="4">
-        <text>build</text>
+        <text encoding="base64">XDxpbnRlcnBvbGF0ZVJlcXVlc3RcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>/\$\{([^}]+)\}/g</text>
+        <text>interpolateRequest({buildTypeId: 'foo'})</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhciBzeW50YXggPSAvXCRceyhbXn1dKylcfS9nOwo=</text>
+        <text encoding="base64">ICAgICAgaW50ZXJwb2xhdGVSZXF1ZXN0KHtidWlsZFR5cGVJZDogJ2Zvbyd9KSh0ZXN0UmVxdWVzdCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhciB0bXBsID0gIkhlbGxvICR7MH0hIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhciBpbnRlcnBvbGF0ZSA9IHJlcXVpcmUoJ21vdXQvc3RyaW5nL2ludGVycG9sYXRlJyk7CiAgICB2YXIgdXJsID0gaW50ZXJwb2xhdGUocmVxdWVzdC5zdHJpbmdpZnkodGVzdFJlcXVlc3QpLCB7CiAgICAgIGJ1aWxkVHlwZUlkOiAnZm9vJwogICAgfSwgL1woKFtefV0rKVwpL2cpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpdCgnc2hvdWxkIGZvbycsIGZ1bmN0aW9uKCkgewogICAgZXhwZWN0KHJlcXVlc3Quc3RyaW5naWZ5KHRlc3RSZXF1ZXN0KSkudG9FcXVhbCgnJyk7CiAgfSk7CgoK</text>
+        <text encoding="base64">ICAgICAgdXJsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgYnVpbGRUeXBlSWQ6ICdmb28nCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgogIGl0KCdzaG91bGQgaW50ZXJwb2xhdGUgYnVpbGRUeXBlSWQnLCBmdW5jdGlvbigpIHsKICAgIGV4cGVjdChyZXF1ZXN0LnN0cmluZ2lmeSh0ZXN0UmVxdWVzdCkpLnRvRXF1YWwoJycpOwogIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gcmVxdWlyZSgnbW91dC9zdHJpbmcvaW50ZXJwb2xhdGUnKSh1cmwsIHsKICAgIGJ1aWxkVHlwZUlkOiAnZm9vJwogIH0sIC9cKChbXn1dKylcKS9nKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB2YXIgaW50ZXJwb2xhdGUgPSByZXF1aXJlKCdtb3V0L3N0cmluZy9pbnRlcnBvbGF0ZScpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>build</last-search>
+      <last-search encoding="base64">XDxpbnRlcnBvbGF0ZVJlcXVlc3RcPg==</last-search>
       <last-offset />
-      <last-pattern>build</last-pattern>
+      <last-pattern encoding="base64">XDxpbnRlcnBvbGF0ZVJlcXVlc3RcPg==</last-pattern>
       <last-replace>enable</last-replace>
       <last-substitute>enbale</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxodHRwVHJhbnNwb3J0XD4=</entry>
-        <entry>headers</entry>
         <entry>application</entry>
         <entry encoding="base64">XDxhcHBseURlZmF1bHRzXD4=</entry>
         <entry>application\/json</entry>
@@ -1168,6 +1166,8 @@
         <entry>install</entry>
         <entry>name</entry>
         <entry>build</entry>
+        <entry>inter</entry>
+        <entry encoding="base64">XDxpbnRlcnBvbGF0ZVJlcXVlc3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ytDiscrete/discrete/gc</entry>
