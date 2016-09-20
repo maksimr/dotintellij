@@ -53,8 +53,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/yt-backlog-issue.html" timestamp="1473856487991">
         <mark key="'" line="69" column="23" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1473952620960">
-        <mark key="'" line="96" column="5" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1474372292482">
+        <mark key="'" line="95" column="23" />
         <mark key="[" line="96" column="20" />
         <mark key="]" line="96" column="23" />
         <mark key="^" line="96" column="23" />
@@ -461,8 +461,8 @@
         <mark key="^" line="264" column="28" />
         <mark key="." line="264" column="28" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" timestamp="1473249727032">
-        <mark key="'" line="30" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" timestamp="1474372809717">
+        <mark key="'" line="50" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/test.config.js" timestamp="1472468195952">
         <mark key="'" line="56" column="0" />
@@ -1063,16 +1063,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="59" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/production.config.js" />
-      <jump line="68" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/production.config.js" />
-      <jump line="79" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/production.config.js" />
-      <jump line="3" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/production.config.js" />
-      <jump line="26" column="34" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/production.config.js" />
-      <jump line="54" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/production.config.js" />
-      <jump line="2" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/production.config.js" />
-      <jump line="39" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/production.config.js" />
-      <jump line="11" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/production.config.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/production.config.js" />
       <jump line="102" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/production.config.js" />
       <jump line="5" column="0" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
       <jump line="84" column="0" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
@@ -1163,6 +1153,16 @@
       <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/production.config.js" />
       <jump line="7" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/production.config.js" />
       <jump line="108" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/production.config.js" />
+      <jump line="95" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="21" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
+      <jump line="116" column="29" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
+      <jump line="122" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
+      <jump line="0" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
+      <jump line="59" column="48" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
+      <jump line="65" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
+      <jump line="195" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
+      <jump line="198" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
+      <jump line="50" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1172,7 +1172,7 @@
         <text>JSON.stringify({});</text>
       </register>
       <register name="/" type="4">
-        <text>done</text>
+        <text>develop</text>
       </register>
       <register name="0" type="4">
         <text>'/guestAuth/app/rest/builds/buildType:' + buildTypeId + ',number:' + this.buildNumber + '/artifacts/content/youtrack-' + this.buildNumber + '.jar'</text>
@@ -1212,9 +1212,9 @@
       </register>
     </registers>
     <search>
-      <last-search>done</last-search>
+      <last-search>develop</last-search>
       <last-offset />
-      <last-pattern>done</last-pattern>
+      <last-pattern>develop</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1222,7 +1222,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tv-mode</entry>
         <entry>wrapper</entry>
         <entry>actions</entry>
         <entry>toggle</entry>
@@ -1242,6 +1241,7 @@
         <entry>host</entry>
         <entry>strin</entry>
         <entry>done</entry>
+        <entry>develop</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ytDiscrete/discrete/gc</entry>
