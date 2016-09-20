@@ -580,6 +580,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/test/e2e/headerSpec.js" timestamp="1472467155489">
         <mark key="'" line="196" column="53" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-backlog-issue.js" timestamp="1474373308223">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-custom-field-lazy.js" timestamp="1472455247704">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="64" column="20" />
@@ -1063,7 +1069,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="102" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/production.config.js" />
       <jump line="5" column="0" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
       <jump line="84" column="0" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
       <jump line="73" column="0" filename="$USER_HOME$/www/js/tt/test/buildsRequestSpec.js" />
@@ -1163,58 +1168,59 @@
       <jump line="195" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
       <jump line="198" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
       <jump line="50" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-backlog-issue.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>JSON.stringify({});</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCRxLnJlc29sdmUpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>JSON.stringify({});</text>
       </register>
       <register name="/" type="4">
-        <text>develop</text>
+        <text>resolve</text>
       </register>
       <register name="0" type="4">
         <text>'/guestAuth/app/rest/builds/buildType:' + buildTypeId + ',number:' + this.buildNumber + '/artifacts/content/youtrack-' + this.buildNumber + '.jar'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCRxLnJlc29sdmUpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5ldyByZXF1aXJlKCdidWZmZXInKS5CdWZmZXIoJ2ZvbycpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcvZ3Vlc3RBdXRoL2FwcC9yZXN0L2J1aWxkcy9idWlsZFR5cGU6JyArIGJ1aWxkVHlwZUlkICsgJyxudW1iZXI6JyArIHRoaXMuYnVpbGROdW1iZXIgKyAnL2FydGlmYWN0cy9jb250ZW50L3lvdXRyYWNrLScgKyB0aGlzLmJ1aWxkTnVtYmVyICsgJy5qYXInKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5ldyByZXF1aXJlKCdidWZmZXInKS5CdWZmZXIoJ2ZvbycpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCcvZ3Vlc3RBdXRoL2FwcC9yZXN0L2J1aWxkcy9idWlsZFR5cGU6JyArIGJ1aWxkVHlwZUlkICsgJyxudW1iZXI6JyArIHRoaXMuYnVpbGROdW1iZXIgKyAnL2FydGlmYWN0cy9jb250ZW50L3lvdXRyYWNrLScgKyB0aGlzLmJ1aWxkTnVtYmVyICsgJy5qYXInKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXF1ZXN0VXJsKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXF1ZXN0VXJsKTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICdjb3VudCc6IDEsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICdidWlsZCc6IFtjcmVhdGVCdWlsZE1vY2soKV0K</text>
+        <text encoding="base64">ICAgICdjb3VudCc6IDEsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>develop</last-search>
+      <last-search>resolve</last-search>
       <last-offset />
-      <last-pattern>develop</last-pattern>
+      <last-pattern>resolve</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1222,7 +1228,6 @@
     </search>
     <history>
       <history-search>
-        <entry>wrapper</entry>
         <entry>actions</entry>
         <entry>toggle</entry>
         <entry>bro</entry>
@@ -1242,6 +1247,7 @@
         <entry>strin</entry>
         <entry>done</entry>
         <entry>develop</entry>
+        <entry>resolve</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ytDiscrete/discrete/gc</entry>
