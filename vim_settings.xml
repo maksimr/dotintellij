@@ -11,7 +11,7 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/sinon/lib/sinon/sandbox.js" timestamp="1473179275906">
         <mark key="'" line="135" column="29" />
       </file>
-      <file name="/a.dummy" timestamp="1474546575964">
+      <file name="/a.dummy" timestamp="1474548055723">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/node_modules/babel-preset-jetbrains/index.js" timestamp="1472646994071">
@@ -310,8 +310,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth-ng/auth-ng.js" timestamp="1473323133740">
         <mark key="'" line="77" column="41" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" timestamp="1474547043647">
-        <mark key="'" line="183" column="17" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" timestamp="1474548060378">
+        <mark key="'" line="207" column="4" />
         <mark key="[" line="168" column="39" />
         <mark key="]" line="168" column="44" />
         <mark key="." line="170" column="0" />
@@ -1135,8 +1135,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/permission-route-decorator.js" />
-      <jump line="75" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/permission-route-decorator.js" />
       <jump line="37" column="37" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
       <jump line="182" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
       <jump line="193" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
@@ -1146,7 +1144,6 @@
       <jump line="199" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
       <jump line="203" column="33" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
       <jump line="206" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
-      <jump line="207" column="34" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
       <jump line="220" column="53" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
       <jump line="221" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
       <jump line="3" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
@@ -1235,6 +1232,9 @@
       <jump line="13" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/error-page-ng/error-page-ng.js" />
       <jump line="108" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/error-page-ng/error-page-ng.js" />
       <jump line="114" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/error-page-ng/error-page-ng.js" />
+      <jump line="208" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
+      <jump line="165" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
+      <jump line="207" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1244,7 +1244,7 @@
         <text>error</text>
       </register>
       <register name="/" type="4">
-        <text>rgErrorPage'</text>
+        <text encoding="base64">XDxyZWRpcmVjdFRvRXJyb3JQYWdlXD4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">ZXJyb3IuZGF0YSAmJiBlcnJvci5kYXRhLmRlc2NyaXB0aW9u</text>
@@ -1284,18 +1284,16 @@
       </register>
     </registers>
     <search>
-      <last-search>rgErrorPage'</last-search>
+      <last-search encoding="base64">XDxyZWRpcmVjdFRvRXJyb3JQYWdlXD4=</last-search>
       <last-offset />
-      <last-pattern>rgErrorPage'</last-pattern>
+      <last-pattern encoding="base64">XDxyZWRpcmVjdFRvRXJyb3JQYWdlXD4=</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0ZWFtVXNlckdyb3VwXD4=</entry>
-        <entry encoding="base64">XDxjcmVhdGVUZWFtXD4=</entry>
         <entry>short</entry>
         <entry>readOnly</entry>
         <entry>config</entry>
@@ -1314,6 +1312,8 @@
         <entry>descri</entry>
         <entry>descripti</entry>
         <entry>rgErrorPage'</entry>
+        <entry encoding="base64">XDxjaGVja0FwcGxpY2F0aW9uRXJyb3JcPg==</entry>
+        <entry encoding="base64">XDxyZWRpcmVjdFRvRXJyb3JQYWdlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ytDiscrete/discrete/gc</entry>
