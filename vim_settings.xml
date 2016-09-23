@@ -438,8 +438,8 @@
         <mark key="." line="90" column="4" />
         <mark key="^" line="90" column="4" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/service/yt-shortcuts.js" timestamp="1472469999582">
-        <mark key="'" line="71" column="24" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/service/yt-shortcuts.js" timestamp="1474630518587">
+        <mark key="'" line="63" column="24" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/issue.js" timestamp="1472467162027">
         <mark key="'" line="82" column="0" />
@@ -471,8 +471,8 @@
         <mark key="^" line="68" column="18" />
         <mark key="." line="68" column="18" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/config/service/load-config.js" timestamp="1474542970109">
-        <mark key="'" line="1" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/config/service/load-config.js" timestamp="1474630535922">
+        <mark key="'" line="83" column="0" />
         <mark key="[" line="78" column="24" />
         <mark key="]" line="78" column="24" />
         <mark key="^" line="78" column="24" />
@@ -1206,11 +1206,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/dashboard/test/dashboard.js" />
-      <jump line="66" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/dashboard/dashboard.js" />
-      <jump line="33" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/dashboard/dashboard.js" />
-      <jump line="41" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/dashboard/dashboard.js" />
-      <jump line="42" column="52" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/dashboard/dashboard.js" />
       <jump line="14" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/dashboard/dashboard.js" />
       <jump line="29" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/service/config-error-route-decorator.js" />
       <jump line="10" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/test/service/config-error-route-decorator.js" />
@@ -1306,6 +1301,11 @@
       <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/service/redirect-to-error-page.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/service/redirect-to-error-page.js" />
       <jump line="8" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/service/redirect-to-error-page.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/service/yt-shortcuts.js" />
+      <jump line="40" column="46" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/service/yt-shortcuts.js" />
+      <jump line="23" column="33" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/service/yt-shortcuts.js" />
+      <jump line="63" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/service/yt-shortcuts.js" />
+      <jump line="83" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/config/service/load-config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1315,7 +1315,7 @@
         <text>andular</text>
       </register>
       <register name="/" type="4">
-        <text>DEFA</text>
+        <text>short</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Cg==</text>
@@ -1355,9 +1355,9 @@
       </register>
     </registers>
     <search>
-      <last-search>DEFA</last-search>
+      <last-search>short</last-search>
       <last-offset />
-      <last-pattern>DEFA</last-pattern>
+      <last-pattern>short</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1365,9 +1365,6 @@
     </search>
     <history>
       <history-search>
-        <entry>licen</entry>
-        <entry>descri</entry>
-        <entry>descripti</entry>
         <entry>rgErrorPage'</entry>
         <entry encoding="base64">XDxjaGVja0FwcGxpY2F0aW9uRXJyb3JcPg==</entry>
         <entry encoding="base64">XDxyZWRpcmVjdFRvRXJyb3JQYWdlXD4=</entry>
@@ -1385,6 +1382,9 @@
         <entry>user-profile</entry>
         <entry>require</entry>
         <entry>DEFA</entry>
+        <entry>map</entry>
+        <entry>des</entry>
+        <entry>short</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ytDiscrete/discrete/gc</entry>
