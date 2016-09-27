@@ -124,6 +124,9 @@
         <mark key="^" line="1" column="77" />
         <mark key="." line="1" column="77" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-backlog.js" timestamp="1474972817480">
+        <mark key="'" line="376" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/search-query-panel/search-query-panel.js" timestamp="1472745051662">
         <mark key="'" line="0" column="0" />
       </file>
@@ -1209,8 +1212,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/oauth.html" timestamp="1473160252291">
         <mark key="'" line="20" column="36" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects.js" timestamp="1472730668759">
-        <mark key="'" line="131" column="30" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects.js" timestamp="1474972864156">
+        <mark key="'" line="124" column="8" />
         <mark key="[" line="133" column="66" />
         <mark key="]" line="134" column="72" />
         <mark key="^" line="134" column="72" />
@@ -1317,10 +1320,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/www/js/tt/test/configSpec.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/www/js/tt/lib/config.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/www/js/tt/lib/config.js" />
-      <jump line="35" column="5" filename="$USER_HOME$/www/js/tt/lib/cli.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/js/tt/lib/cli.js" />
       <jump line="43" column="0" filename="$USER_HOME$/www/js/tt/lib/cli.js" />
       <jump line="11" column="0" filename="$USER_HOME$/www/js/tt/test/install-remoteSpec.js" />
@@ -1417,6 +1416,10 @@
       <jump line="3" column="0" filename="$USER_HOME$/www/js/bb/lib/run.js" />
       <jump line="78" column="0" filename="$USER_HOME$/www/js/bb/lib/run.js" />
       <jump line="12" column="18" filename="$USER_HOME$/www/js/yvm/package.json" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-backlog.js" />
+      <jump line="376" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-backlog.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects.js" />
+      <jump line="124" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1426,7 +1429,7 @@
         <text>const</text>
       </register>
       <register name="/" type="4">
-        <text>const</text>
+        <text>init</text>
       </register>
       <register name="0" type="4">
         <text>./lib/cli.js</text>
@@ -1466,9 +1469,9 @@
       </register>
     </registers>
     <search>
-      <last-search>const</last-search>
+      <last-search>init</last-search>
       <last-offset />
-      <last-pattern>const</last-pattern>
+      <last-pattern>init</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1476,7 +1479,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ls</entry>
         <entry>download</entry>
         <entry>readd</entry>
         <entry>readline</entry>
@@ -1496,6 +1498,7 @@
         <entry>unins</entry>
         <entry>Remove</entry>
         <entry>const</entry>
+        <entry>init</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ytDiscrete/discrete/gc</entry>
