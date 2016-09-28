@@ -631,10 +631,10 @@
         <mark key="^" line="264" column="28" />
         <mark key="." line="264" column="28" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" timestamp="1474978272973">
-        <mark key="'" line="215" column="0" />
-        <mark key="[" line="197" column="63" />
-        <mark key="]" line="198" column="33" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" timestamp="1475075583824">
+        <mark key="'" line="101" column="0" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="112" />
         <mark key="." line="198" column="33" />
         <mark key="^" line="198" column="33" />
       </file>
@@ -1397,8 +1397,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/production.config.js" timestamp="1474371943077">
         <mark key="'" line="108" column="2" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/dashboard/test/dashboard.js" timestamp="1475059965873">
-        <mark key="'" line="58" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/dashboard/test/dashboard.js" timestamp="1475075152189">
+        <mark key="'" line="47" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/ring-ui/components/checkbox-ng/checkbox-ng.js" timestamp="1473940946031">
         <mark key="'" line="46" column="15" />
@@ -1412,11 +1412,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="18" filename="$USER_HOME$/www/js/yvm/lib/run.js" />
-      <jump line="42" column="0" filename="$USER_HOME$/www/js/yvm/lib/run.js" />
-      <jump line="25" column="0" filename="$USER_HOME$/www/js/yvm/lib/run.js" />
-      <jump line="49" column="4" filename="$USER_HOME$/www/js/yvm/lib/run.js" />
-      <jump line="48" column="23" filename="$USER_HOME$/www/js/yvm/lib/run.js" />
       <jump line="33" column="34" filename="$USER_HOME$/www/js/yvm/lib/run.js" />
       <jump line="36" column="0" filename="$USER_HOME$/www/js/yvm/test/runSpec.js" />
       <jump line="5" column="0" filename="$USER_HOME$/www/js/yvm/test/runSpec.js" />
@@ -1512,19 +1507,24 @@
       <jump line="26" column="0" filename="$USER_HOME$/www/js/yvm/test/ls-remoteSpec.js" />
       <jump line="1" column="0" filename="$USER_HOME$/www/js/yvm/test/ls-remoteSpec.js" />
       <jump line="49" column="0" filename="$USER_HOME$/www/js/yvm/test/ls-remoteSpec.js" />
+      <jump line="47" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/dashboard/test/dashboard.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
+      <jump line="91" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
+      <jump line="100" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
+      <jump line="101" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>First of all you should download or build jar file which you want debug and put it to **charisma/build/** forlder</text>
       </register>
       <register name="-" type="4">
         <text>tmp</text>
       </register>
       <register name="/" type="4">
-        <text>after</text>
+        <text>build</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="0" type="4">
+        <text>First of all you should download or build jar file which you want debug and put it to **charisma/build/** forlder</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIG1vY2sucmVzdG9yZSgpOwo=</text>
@@ -1561,9 +1561,9 @@
       </register>
     </registers>
     <search>
-      <last-search>after</last-search>
+      <last-search>build</last-search>
       <last-offset />
-      <last-pattern>after</last-pattern>
+      <last-pattern>build</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1571,7 +1571,6 @@
     </search>
     <history>
       <history-search>
-        <entry>permi</entry>
         <entry>faker</entry>
         <entry>permiss</entry>
         <entry>permission</entry>
@@ -1591,6 +1590,7 @@
         <entry>ls</entry>
         <entry>spy</entry>
         <entry>after</entry>
+        <entry>build</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ytSign/sign/gc</entry>
