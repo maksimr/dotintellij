@@ -20,9 +20,6 @@
         <mark key="." line="5" column="39" />
         <mark key="^" line="5" column="39" />
       </file>
-      <file name="/a.dummy" timestamp="1474992077592">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/node_modules/babel-preset-jetbrains/index.js" timestamp="1472646994071">
         <mark key="'" line="33" column="52" />
         <mark key="[" line="15" column="70" />
@@ -84,8 +81,8 @@
         <mark key="^" line="57" column="51" />
         <mark key="." line="57" column="51" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1474975896502">
-        <mark key="'" line="125" column="33" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1475076347199">
+        <mark key="'" line="124" column="68" />
         <mark key="[" line="134" column="22" />
         <mark key="]" line="134" column="204" />
         <mark key="^" line="96" column="23" />
@@ -291,8 +288,8 @@
         <mark key="^" line="423" column="23" />
         <mark key="." line="423" column="16" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" timestamp="1474974335731">
-        <mark key="'" line="8" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" timestamp="1475076328477">
+        <mark key="'" line="259" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/README.md" timestamp="1474976302833">
         <mark key="'" line="52" column="10" />
@@ -309,6 +306,9 @@
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/main-core.scss" timestamp="1474285625092">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/teamcity-e2e-runner.sh" timestamp="1475076366632">
+        <mark key="'" line="41" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/projects.js" timestamp="1474996923974">
         <mark key="'" line="97" column="13" />
@@ -1412,16 +1412,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="34" filename="$USER_HOME$/www/js/yvm/lib/run.js" />
-      <jump line="36" column="0" filename="$USER_HOME$/www/js/yvm/test/runSpec.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/www/js/yvm/test/runSpec.js" />
-      <jump line="31" column="13" filename="$USER_HOME$/www/js/yvm/test/runSpec.js" />
-      <jump line="27" column="4" filename="$USER_HOME$/www/js/yvm/test/runSpec.js" />
-      <jump line="25" column="6" filename="$USER_HOME$/www/js/yvm/test/runSpec.js" />
-      <jump line="32" column="0" filename="$USER_HOME$/www/js/yvm/test/runSpec.js" />
-      <jump line="105" column="0" filename="$USER_HOME$/www/js/yvm/test/runSpec.js" />
-      <jump line="112" column="0" filename="$USER_HOME$/www/js/yvm/test/runSpec.js" />
-      <jump line="115" column="0" filename="$USER_HOME$/www/js/yvm/test/runSpec.js" />
       <jump line="99" column="0" filename="$USER_HOME$/www/js/yvm/test/runSpec.js" />
       <jump line="62" column="7" filename="$USER_HOME$/www/js/yvm/test/runSpec.js" />
       <jump line="55" column="28" filename="$USER_HOME$/www/js/yvm/test/runSpec.js" />
@@ -1512,6 +1502,16 @@
       <jump line="91" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
       <jump line="100" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
       <jump line="101" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
+      <jump line="83" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
+      <jump line="259" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
+      <jump line="134" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="149" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="48" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="74" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="124" column="68" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/teamcity-e2e-runner.sh" />
+      <jump line="33" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/teamcity-e2e-runner.sh" />
+      <jump line="41" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/teamcity-e2e-runner.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1521,7 +1521,7 @@
         <text>tmp</text>
       </register>
       <register name="/" type="4">
-        <text>build</text>
+        <text>conte</text>
       </register>
       <register name="0" type="4">
         <text>First of all you should download or build jar file which you want debug and put it to **charisma/build/** forlder</text>
@@ -1561,9 +1561,9 @@
       </register>
     </registers>
     <search>
-      <last-search>build</last-search>
+      <last-search>conte</last-search>
       <last-offset />
-      <last-pattern>build</last-pattern>
+      <last-pattern>conte</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1571,8 +1571,6 @@
     </search>
     <history>
       <history-search>
-        <entry>faker</entry>
-        <entry>permiss</entry>
         <entry>permission</entry>
         <entry>jar</entry>
         <entry>rest</entry>
@@ -1591,6 +1589,8 @@
         <entry>spy</entry>
         <entry>after</entry>
         <entry>build</entry>
+        <entry>team</entry>
+        <entry>conte</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ytSign/sign/gc</entry>
