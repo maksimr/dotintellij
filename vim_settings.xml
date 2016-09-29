@@ -287,11 +287,8 @@
         <mark key="." line="63" column="0" />
         <mark key="^" line="66" column="25" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1475166502819">
-        <mark key="'" line="110" column="0" />
-        <mark key="[" line="269" column="0" />
-        <mark key="]" line="269" column="0" />
-        <mark key="." line="269" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1475166809968">
+        <mark key="'" line="27" column="21" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" timestamp="1475076328477">
         <mark key="'" line="259" column="0" />
@@ -681,9 +678,6 @@
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/http-proxy-middleware/lib/config-factory.js" timestamp="1473266116013">
         <mark key="'" line="24" column="12" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1475138862006">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/js/tt/lib/remoteBuild.js" timestamp="1474143997274">
         <mark key="'" line="29" column="16" />
@@ -1483,10 +1477,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/test/service/permission-route-decorator.js" />
-      <jump line="135" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/test/service/permission-route-decorator.js" />
-      <jump line="110" column="43" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/test/service/permission-route-decorator.js" />
-      <jump line="102" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/test/service/permission-route-decorator.js" />
       <jump line="112" column="29" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/test/service/permission-route-decorator.js" />
       <jump line="107" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/test/service/permission-route-decorator.js" />
       <jump line="105" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/test/service/permission-route-decorator.js" />
@@ -1583,6 +1573,10 @@
       <jump line="7" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project.js" />
       <jump line="160" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project.js" />
       <jump line="110" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="23" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="1207" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="908" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="27" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1592,7 +1586,7 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>storedFocusedIssue</text>
+        <text>store</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLy8gY2hlY2sgdGhhdCB3ZSBjYW4gdXBkYXRlIGF0IGxlYXN0IG9uZSBwcm9qZWN0IG9uIGluc3RhbmNlLCB0aGVuIHNlcnZlciB3aWxsIGNoZWNrIGlzIGl0IHBvc3NpYmxlIHRvIGVkaXQgc2VsZWN0ZWQgcHJvamVjdCAoc2VlIEpULTM2NDExKQogICAgICBhY2Nlc3M6IHsK</text>
@@ -1632,9 +1626,9 @@
       </register>
     </registers>
     <search>
-      <last-search>storedFocusedIssue</last-search>
+      <last-search>store</last-search>
       <last-offset />
-      <last-pattern>storedFocusedIssue</last-pattern>
+      <last-pattern>store</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1654,7 +1648,6 @@
         <entry encoding="base64">XDxoYXNQZXJtaXNzaW9uXD4=</entry>
         <entry encoding="base64">XDxjcmVhdGVQZXJtaXNzaW9uRXJyb3JcPg==</entry>
         <entry>define</entry>
-        <entry>store</entry>
         <entry>value</entry>
         <entry encoding="base64">XDxfZ2V0UGVybWlzc2lvblZhbHVlXD4=</entry>
         <entry>has</entry>
@@ -1662,6 +1655,7 @@
         <entry>permi</entry>
         <entry>init</entry>
         <entry>storedFocusedIssue</entry>
+        <entry>store</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ytSign/sign/gc</entry>
