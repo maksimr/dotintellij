@@ -20,7 +20,7 @@
         <mark key="." line="5" column="39" />
         <mark key="^" line="5" column="39" />
       </file>
-      <file name="/a.dummy" timestamp="1475164299913">
+      <file name="/a.dummy" timestamp="1475167651274">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/node_modules/babel-preset-jetbrains/index.js" timestamp="1472646994071">
@@ -1074,8 +1074,8 @@
         <mark key="." line="30" column="47" />
         <mark key="^" line="30" column="47" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project.js" timestamp="1475165977854">
-        <mark key="'" line="160" column="2" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project.js" timestamp="1475167762114">
+        <mark key="'" line="36" column="6" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/config/service/yt-config.js" timestamp="1474465822994">
         <mark key="'" line="37" column="2" />
@@ -1477,13 +1477,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="29" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/test/service/permission-route-decorator.js" />
-      <jump line="107" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/test/service/permission-route-decorator.js" />
-      <jump line="105" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/test/service/permission-route-decorator.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/test/service/permission-route-decorator.js" />
-      <jump line="103" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/test/service/permission-route-decorator.js" />
-      <jump line="27" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/test/service/permission-route-decorator.js" />
-      <jump line="145" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/test/service/permission-route-decorator.js" />
       <jump line="28" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/test/service/permission-route-decorator.js" />
       <jump line="144" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/test/service/permission-route-decorator.js" />
       <jump line="33" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/test/service/permission-route-decorator.js" />
@@ -1577,6 +1570,13 @@
       <jump line="1207" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="908" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="27" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="83" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project.js" />
+      <jump line="13" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project.js" />
+      <jump line="56" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project.js" />
+      <jump line="6" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project.js" />
+      <jump line="55" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project.js" />
+      <jump line="158" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project.js" />
+      <jump line="36" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1586,7 +1586,7 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>store</text>
+        <text encoding="base64">XDxwcm9qZWN0RmllbGRzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLy8gY2hlY2sgdGhhdCB3ZSBjYW4gdXBkYXRlIGF0IGxlYXN0IG9uZSBwcm9qZWN0IG9uIGluc3RhbmNlLCB0aGVuIHNlcnZlciB3aWxsIGNoZWNrIGlzIGl0IHBvc3NpYmxlIHRvIGVkaXQgc2VsZWN0ZWQgcHJvamVjdCAoc2VlIEpULTM2NDExKQogICAgICBhY2Nlc3M6IHsK</text>
@@ -1626,19 +1626,16 @@
       </register>
     </registers>
     <search>
-      <last-search>store</last-search>
+      <last-search encoding="base64">XDxwcm9qZWN0RmllbGRzXD4=</last-search>
       <last-offset />
-      <last-pattern>store</last-pattern>
+      <last-pattern encoding="base64">XDxwcm9qZWN0RmllbGRzXD4=</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>permissions</entry>
-        <entry>inPro</entry>
-        <entry>userPer</entry>
         <entry>extra</entry>
         <entry>permiss</entry>
         <entry>invoke</entry>
@@ -1656,6 +1653,9 @@
         <entry>init</entry>
         <entry>storedFocusedIssue</entry>
         <entry>store</entry>
+        <entry>perm</entry>
+        <entry encoding="base64">XDxoYXNMb3dMZXZlbFBlcm1pc3Npb25cPg==</entry>
+        <entry encoding="base64">XDxwcm9qZWN0RmllbGRzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ytSign/sign/gc</entry>
