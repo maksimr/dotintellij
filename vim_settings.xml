@@ -712,6 +712,13 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/command-dialog.js" timestamp="1474100869003">
         <mark key="'" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/style/edit-project.scss" timestamp="1475236980099">
+        <mark key="'" line="24" column="25" />
+        <mark key="[" line="28" column="30" />
+        <mark key="]" line="28" column="41" />
+        <mark key="." line="28" column="41" />
+        <mark key="^" line="28" column="41" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/config/test/service/config.js" timestamp="1474387189621">
         <mark key="'" line="8" column="21" />
         <mark key="[" line="6" column="6" />
@@ -1059,6 +1066,9 @@
         <mark key="]" line="39" column="5" />
         <mark key="^" line="39" column="5" />
         <mark key="." line="39" column="5" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/style/admin.scss" timestamp="1475236459480">
+        <mark key="'" line="11" column="11" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/.eslintrc" timestamp="1472463098013">
         <mark key="'" line="129" column="0" />
@@ -1480,12 +1490,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="68" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/permission-route-decorator.js" />
-      <jump line="23" column="38" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/permission-route-decorator.js" />
-      <jump line="24" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/permission-route-decorator.js" />
-      <jump line="25" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/permission-route-decorator.js" />
-      <jump line="26" column="58" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/permission-route-decorator.js" />
-      <jump line="43" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/permission-route-decorator.js" />
       <jump line="42" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/permission-route-decorator.js" />
       <jump line="27" column="40" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/permission-route-decorator.js" />
       <jump line="47" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/test/service/permission-route-decorator.js" />
@@ -1580,68 +1584,71 @@
       <jump line="40" column="0" filename="$USER_HOME$/www/js/yvm/lib/team-city-request.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project.js" />
       <jump line="170" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/edit-project.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/style/admin.scss" />
+      <jump line="5" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/style/admin.scss" />
+      <jump line="11" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/style/admin.scss" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/style/edit-project.scss" />
+      <jump line="23" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/style/edit-project.scss" />
+      <jump line="24" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/style/edit-project.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLy8gY2hlY2sgdGhhdCB3ZSBjYW4gdXBkYXRlIGF0IGxlYXN0IG9uZSBwcm9qZWN0IG9uIGluc3RhbmNlLCB0aGVuIHNlcnZlciB3aWxsIGNoZWNrIGlzIGl0IHBvc3NpYmxlIHRvIGVkaXQgc2VsZWN0ZWQgcHJvamVjdCAoc2VlIEpULTM2NDExKQogICAgICBhY2Nlc3M6IHsK</text>
+      <register name="&quot;" type="4">
+        <text>hack</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>hack</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcm9qZWN0RmllbGRzXD4=</text>
+        <text>mix</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLy8gY2hlY2sgdGhhdCB3ZSBjYW4gdXBkYXRlIGF0IGxlYXN0IG9uZSBwcm9qZWN0IG9uIGluc3RhbmNlLCB0aGVuIHNlcnZlciB3aWxsIGNoZWNrIGlzIGl0IHBvc3NpYmxlIHRvIGVkaXQgc2VsZWN0ZWQgcHJvamVjdCAoc2VlIEpULTM2NDExKQogICAgICBhY2Nlc3M6IHsK</text>
+        <text encoding="base64">ICAgICAgdmVydGljYWwtYWxpZ246IGluaGVyaXQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CgogIGl0KCdzaG91bGQgYWxsb3cgcGFzcyBmdW5jdGlvbiBhcyBwZXJtaXNzaW9uIGNoZWNrZXInLCBmdW5jdGlvbigpIHsKICAgIHBlcm1pc3Npb25zQ2FjaGVNb2NrLmhhcy53aXRoQXJncygnZm9vJykucmV0dXJucyhmYWxzZSk7CgogICAgZXhwZWN0KHBlcm1pc3Npb25zU3RvcmUuaGFzKCdmb28nKSkudG9FcXVhbCh0cnVlKTsKICB9KTsK</text>
+        <text encoding="base64">ICAgICAgdmVydGljYWwtYWxpZ246IGluaGVyaXQ7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdmVydGljYWwtYWxpZ246IGluaGVyaXQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBlcm1pc3Npb25zU3RvcmUuZGVmaW5lKCdmb28nLCBmdW5jdGlvbigpIHsKICAgICAgY29uc29sZS5sb2coYXJndW1lbnRzKTsKICAgICAgcmV0dXJuIGZhbHNlOwogICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgdG9wOiAwOwogICAgICBwb3NpdGlvbjogc3RhdGljOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB0b3A6IDA7CiAgICAgICAgcG9zaXRpb246IHN0YXRpYzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgdG9wOiAwOwogICAgICBwb3NpdGlvbjogc3RhdGljOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdChwZXJtaXNzaW9uc1N0b3JlLmhhcyhwZXJtaXNzaW9uTmFtZSkpLnRvRXF1YWwoZmFsc2UpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgdmVydGljYWwtYWxpZ246IG1pZGRsZTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcm9qZWN0RmllbGRzXD4=</last-search>
+      <last-search>mix</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcm9qZWN0RmllbGRzXD4=</last-pattern>
+      <last-pattern>mix</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>extra</entry>
-        <entry>permiss</entry>
-        <entry>invoke</entry>
         <entry>wait</entry>
         <entry>while</entry>
         <entry encoding="base64">XDxleHRyYWN0UGVybWlzc2lvbnNGcm9tUm91dGVcPg==</entry>
@@ -1659,6 +1666,9 @@
         <entry>perm</entry>
         <entry encoding="base64">XDxoYXNMb3dMZXZlbFBlcm1pc3Npb25cPg==</entry>
         <entry encoding="base64">XDxwcm9qZWN0RmllbGRzXD4=</entry>
+        <entry>edit</entry>
+        <entry>team</entry>
+        <entry>mix</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ytSign/sign/gc</entry>
