@@ -1189,8 +1189,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="1" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/issue-link-types.js" timestamp="1475241851720">
-        <mark key="'" line="137" column="7" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/issue-link-types.js" timestamp="1475243353075">
+        <mark key="[" line="195" column="0" />
+        <mark key="]" line="195" column="0" />
+        <mark key="." line="195" column="0" />
+        <mark key="^" line="202" column="65" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/search-query-panel/directive/search-query-panel.js" timestamp="1473854096875">
         <mark key="'" line="34" column="13" />
@@ -1494,8 +1497,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/create-permissions-store.js" />
-      <jump line="3" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/test/service/permissions-store.js" />
       <jump line="57" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/test/service/permissions-store.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/test/service/permissions-store.js" />
       <jump line="51" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/test/service/permissions-store.js" />
@@ -1537,7 +1538,6 @@
       <jump line="42" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/issue-link-types/edit-dlg.html" />
       <jump line="5" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/issue-link-types.js" />
       <jump line="115" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/issue-link-types.js" />
-      <jump line="117" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/issue-link-types.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/issue-link-types.js" />
       <jump line="2" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/issue-link-types.js" />
       <jump line="10" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/issue-link-types.js" />
@@ -1594,19 +1594,22 @@
       <jump line="20" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/issue-link-types.js" />
       <jump line="32" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/issue-link-types.js" />
       <jump line="111" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/issue-link-types.js" />
+      <jump line="117" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/issue-link-types.js" />
+      <jump line="199" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/issue-link-types.js" />
+      <jump line="196" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/issue-link-types.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>check that item removed</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>check that item removed</text>
+        <text>message</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25maXJtXD4=</text>
+        <text>confirm</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgcmVtb3ZlYWJsZUl0ZW1zTmFtZSA9IGlzc3VlTGlua1R5cGVzLm1hcChmdW5jdGlvbihpdGVtKSB7CiAgICAgICAgICByZXR1cm4gaXRlbS5uYW1lOwogICAgICAgIH0pLmpvaW4oJywgJyk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1615,10 +1618,10 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgcmVtb3ZlYWJsZUl0ZW1zTmFtZSA9IGlzc3VlTGlua1R5cGVzLm1hcChmdW5jdGlvbihpdGVtKSB7CiAgICAgICAgICByZXR1cm4gaXRlbS5uYW1lOwogICAgICAgIH0pLmpvaW4oJywgJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBpdCgnc2hvdWxkIGNoZWNrIHRoYXQgJHNjb3BlLmVkaXRMaW5rVHlwZSgpIHdhcyBjYWxsZWQgYWZ0ZXIgY2xpY2sgb24gZWRpdCBidXR0b24nLCBpbmplY3QoZnVuY3Rpb24oJGNvbXBpbGUpIHsKICAgIC8vVE9ETzogbW92ZSB0byBlMmUKICAgIHZhciBlZGl0TGlua1R5cGUgPSBzcHlPbigkc2NvcGUsICdlZGl0TGlua1R5cGUnKTsKICAgIHZhciBpdGVtID0gJGNvbXBpbGUoJzxidXR0b24gbmctY2xpY2s9ImVkaXRMaW5rVHlwZSh0YWJsZVNlbGVjdGVkSXRlbXMpIj4nKSgkc2NvcGUpOwogICAgYW5ndWxhci5lbGVtZW50KGl0ZW0pLmVxKDApLmNsaWNrKCk7CiAgICBleHBlY3QoZWRpdExpbmtUeXBlKS50b0hhdmVCZWVuQ2FsbGVkKCk7CiAgfSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgbWVzc2FnZSA9IGkxOG4oJ0FyZSB5b3Ugc3VyZSB5b3Ugd2FudCB0byBkZWxldGUgInt7bmFtZXN9fSI/Jywge25hbWVzOiByZW1vdmVhYmxlSXRlbXNOYW1lfSk7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -1627,34 +1630,32 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBpdCgnc2hvdWxkIGNoZWNrIHRoYXQgJHNjb3BlLnJlbW92ZUxpbmtUeXBlKCkgd2FzIGNhbGxlZCBhZnRlciBjbGljayBvbiByZW1vdmUgYnV0dG9uJywgaW5qZWN0KGZ1bmN0aW9uKCRjb21waWxlKSB7CiAgICAvL1RPRE86IG1vdmUgdG8gZTJlCiAgICB2YXIgcmVtb3ZlTGlua1R5cGUgPSBzcHlPbigkc2NvcGUsICdyZW1vdmVMaW5rVHlwZScpOwogICAgdmFyIGl0ZW0gPSAkY29tcGlsZSgnPGJ1dHRvbiBuZy1jbGljaz0icmVtb3ZlTGlua1R5cGUoc2VsZWN0ZWRJc3N1ZUxpbmtUeXBlcykiPicpKCRzY29wZSk7CiAgICBhbmd1bGFyLmVsZW1lbnQoaXRlbSkuZXEoMCkuY2xpY2soKTsKICAgIGV4cGVjdChyZW1vdmVMaW5rVHlwZSkudG9IYXZlQmVlbkNhbGxlZCgpOwogIH0pKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdFJlcXVlc3RJc3N1ZUxpbmtUeXBlVXNhZ2VzKGlzc3VlTGlua1R5cGVTZXJ2ZXJSZXNwb25jZU1vY2tbMF0pLnJlc3BvbmQoe3ZhbHVlOiAxfSk7CiAgICBleHBlY3RSZXF1ZXN0SXNzdWVMaW5rVHlwZVVzYWdlcyhpc3N1ZUxpbmtUeXBlU2VydmVyUmVzcG9uY2VNb2NrWzFdKS5yZXNwb25kKHt2YWx1ZTogMH0pOwo=</text>
+        <text encoding="base64">ICBpdCgnc2hvdWxkIGNoZWNrIHRoYXQgJHNjb3BlLmVkaXRMaW5rVHlwZSgpIHdhcyBjYWxsZWQgYWZ0ZXIgY2xpY2sgb24gZWRpdCBidXR0b24nLCBpbmplY3QoZnVuY3Rpb24oJGNvbXBpbGUpIHsKICAgIC8vVE9ETzogbW92ZSB0byBlMmUKICAgIHZhciBlZGl0TGlua1R5cGUgPSBzcHlPbigkc2NvcGUsICdlZGl0TGlua1R5cGUnKTsKICAgIHZhciBpdGVtID0gJGNvbXBpbGUoJzxidXR0b24gbmctY2xpY2s9ImVkaXRMaW5rVHlwZSh0YWJsZVNlbGVjdGVkSXRlbXMpIj4nKSgkc2NvcGUpOwogICAgYW5ndWxhci5lbGVtZW50KGl0ZW0pLmVxKDApLmNsaWNrKCk7CiAgICBleHBlY3QoZWRpdExpbmtUeXBlKS50b0hhdmVCZWVuQ2FsbGVkKCk7CiAgfSkpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdmFsdWU6IDAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb25maXJtXD4=</last-search>
+      <last-search>confirm</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25maXJtXD4=</last-pattern>
+      <last-pattern>confirm</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>permi</entry>
-        <entry>init</entry>
         <entry>storedFocusedIssue</entry>
         <entry>store</entry>
         <entry>perm</entry>
@@ -1673,6 +1674,8 @@
         <entry>name</entry>
         <entry encoding="base64">XDx0YXJnZXRUb1NvdXJjZVw+</entry>
         <entry encoding="base64">XDxjb25maXJtXD4=</entry>
+        <entry>configr</entry>
+        <entry>confirm</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ytSign/sign/gc</entry>
