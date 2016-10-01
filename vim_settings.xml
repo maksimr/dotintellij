@@ -423,9 +423,11 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/overlay/service/overlay.js" timestamp="1473677928296">
         <mark key="'" line="28" column="22" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/auth/auth.test.js" timestamp="1475348784950">
-        <mark key="]" line="19" column="3" />
-        <mark key="." line="19" column="3" />
+      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/auth/auth.test.js" timestamp="1475348978601">
+        <mark key="'" line="20" column="7" />
+        <mark key="[" line="20" column="7" />
+        <mark key="]" line="20" column="42" />
+        <mark key="." line="20" column="7" />
         <mark key="^" line="19" column="3" />
       </file>
       <file name="$USER_HOME$/www/js/specht/src/reporter/teamcity.js" timestamp="1472227611778">
@@ -1513,8 +1515,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/issue-link-types.js" />
-      <jump line="23" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/issue-link-types.js" />
       <jump line="8" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/issue-link-types/dialog-edit-issue-link-type.html" />
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/issue-link-types/dialog-edit-issue-link-type.html" />
       <jump line="7" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/issue-link-types/dialog-edit-issue-link-type.html" />
@@ -1613,13 +1613,15 @@
       <jump line="19" column="35" filename="$USER_HOME$/www/jetbrains/ring-ui/components/error-page-ng/error-page-ng.js" />
       <jump line="309" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/auth/auth.js" />
       <jump line="642" column="29" filename="$USER_HOME$/www/jetbrains/ring-ui/components/auth/auth.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/auth/auth.test.js" />
+      <jump line="20" column="7" filename="$USER_HOME$/www/jetbrains/ring-ui/components/auth/auth.test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGl0KCdzaG91bGQgcmVxdWlyZSBwcm92aWRlIHNlcnZlciB1cmknLCAoKSA9PiB7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">JyAgICBpdCgnc2hvdWxkIHJlcXVpcmUgcHJvdmlkZSBzZXJ2ZXIgdXJpJywgKCkgPT4gewon</text>
       </register>
       <register name="-" type="4">
-        <text>save</text>
+        <text>''</text>
       </register>
       <register name="/" type="4">
         <text>saveIssueLinkType</text>
