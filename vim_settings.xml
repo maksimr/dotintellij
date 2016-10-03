@@ -349,11 +349,6 @@
         <mark key="^" line="62" column="28" />
         <mark key="." line="62" column="28" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sidebar-table/template/yt-sidebar-table.html" timestamp="1475495810934">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/issues-selection.js" timestamp="1474827868570">
         <mark key="'" line="136" column="0" />
         <mark key="[" line="131" column="0" />
@@ -1620,6 +1615,9 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/production.config.js" timestamp="1474371943077">
         <mark key="'" line="108" column="2" />
       </file>
+      <file name="$USER_HOME$/www/js/oauth-in-action-code/exercises/ch-4-ex-4/protectedResource.js" timestamp="1475516868821">
+        <mark key="'" line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/dashboard/test/dashboard.js" timestamp="1475075152189">
         <mark key="'" line="47" column="0" />
       </file>
@@ -1645,7 +1643,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="50" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.html" />
       <jump line="12" column="75" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.html" />
       <jump line="13" column="30" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.html" />
       <jump line="15" column="45" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.html" />
@@ -1745,6 +1742,7 @@
       <jump line="10" column="0" filename="$USER_HOME$/www/js/oauth-in-action-code/exercises/ch-4-ex-3/protectedResource.js" />
       <jump line="5" column="0" filename="$USER_HOME$/www/js/oauth-in-action-code/exercises/ch-4-ex-3/protectedResource.js" />
       <jump line="84" column="0" filename="$USER_HOME$/www/js/oauth-in-action-code/exercises/ch-4-ex-3/protectedResource.js" />
+      <jump line="23" column="0" filename="$USER_HOME$/www/js/oauth-in-action-code/exercises/ch-4-ex-4/protectedResource.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1754,7 +1752,7 @@
         <text>.ring-list__text__label</text>
       </register>
       <register name="/" type="4">
-        <text>fit</text>
+        <text>favor</text>
       </register>
       <register name="0" type="4">
         <text>.ring-list__item__label</text>
@@ -1794,9 +1792,9 @@
       </register>
     </registers>
     <search>
-      <last-search>fit</last-search>
+      <last-search>favor</last-search>
       <last-offset />
-      <last-pattern>fit</last-pattern>
+      <last-pattern>favor</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1804,7 +1802,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dialog.show</entry>
         <entry>$valid</entry>
         <entry encoding="base64">XDxyZ0RpYWxvZ0RpcmVjdGl2ZVw+</entry>
         <entry>elemnt</entry>
@@ -1824,6 +1821,7 @@
         <entry>visi</entry>
         <entry encoding="base64">XDxwb3B1cEl0ZW1zQnlcPg==</entry>
         <entry>fit</entry>
+        <entry>favor</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ytSign/sign/gc</entry>
