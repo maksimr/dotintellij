@@ -20,7 +20,7 @@
         <mark key="." line="5" column="39" />
         <mark key="^" line="5" column="39" />
       </file>
-      <file name="/a.dummy" timestamp="1475567015633">
+      <file name="/a.dummy" timestamp="1475572573994">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/node_modules/babel-preset-jetbrains/index.js" timestamp="1472646994071">
@@ -290,8 +290,12 @@
         <mark key="." line="63" column="0" />
         <mark key="^" line="66" column="25" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1475166809968">
-        <mark key="'" line="27" column="21" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1475572636288">
+        <mark key="'" line="1689" column="70" />
+        <mark key="[" line="1856" column="18" />
+        <mark key="]" line="1856" column="38" />
+        <mark key="^" line="1856" column="38" />
+        <mark key="." line="1856" column="38" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" timestamp="1475538053792">
         <mark key="[" line="0" column="0" />
@@ -1644,12 +1648,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="272" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
-      <jump line="258" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
-      <jump line="271" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
-      <jump line="185" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
-      <jump line="290" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
       <jump line="256" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
       <jump line="31" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/protractor-snapshot/index.js" />
       <jump line="12" column="34" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/protractor-snapshot/index.js" />
@@ -1744,19 +1742,25 @@
       <jump line="49" column="37" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/auth.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/auth.js" />
       <jump line="631" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth/auth.js" />
+      <jump line="567" column="46" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="281" column="72" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="276" column="27" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="142" column="69" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="1856" column="32" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="1689" column="70" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5164</text>
+        <text>agileBoardCtrl.</text>
       </register>
       <register name="-" type="4">
-        <text>5164</text>
+        <text>agileBoardCtrl.</text>
       </register>
       <register name="/" type="4">
-        <text>request_creden</text>
+        <text encoding="base64">XDxib2FyZENvbHVtbnNVdGlsc1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgc2NvcGU6IFsKICAgICAgICByaW5nQ29uZmlnLnNlcnZpY2VJZCwgJ1Vwc291cmNlJywgJ1RlYW1DaXR5Jwo=</text>
+      <register name="0" type="4">
+        <text>agileBoardCtrl.boardColumnsUtils</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNyZWRlbnRpYWxzOiAnaW5jbHVkZScK</text>
@@ -1793,17 +1797,16 @@
       </register>
     </registers>
     <search>
-      <last-search>request_creden</last-search>
+      <last-search encoding="base64">XDxib2FyZENvbHVtbnNVdGlsc1w+</last-search>
       <last-offset />
-      <last-pattern>request_creden</last-pattern>
+      <last-pattern encoding="base64">XDxib2FyZENvbHVtbnNVdGlsc1w+</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>headers</entry>
         <entry>calle</entry>
         <entry>Auth</entry>
         <entry encoding="base64">XDxERUZBVUxUX0NPTkZJR1w+</entry>
@@ -1823,6 +1826,7 @@
         <entry>ring-ui</entry>
         <entry encoding="base64">XDxyZXF1ZXN0X2NyZWRlbnRpYWxzXD4=</entry>
         <entry>request_creden</entry>
+        <entry encoding="base64">XDxib2FyZENvbHVtbnNVdGlsc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ytSign/sign/gc</entry>
