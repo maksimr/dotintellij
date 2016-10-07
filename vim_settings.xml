@@ -138,6 +138,9 @@
         <mark key="." line="72" column="40" />
         <mark key="^" line="72" column="40" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-comments.js" timestamp="1475841711706">
+        <mark key="'" line="77" column="16" />
+      </file>
       <file name="$USER_HOME$/www/js/specht/test/runnerSpec.js" timestamp="1472232469965">
         <mark key="'" line="126" column="0" />
         <mark key="[" line="122" column="31" />
@@ -521,8 +524,10 @@
         <mark key="." line="61" column="91" />
         <mark key="^" line="61" column="91" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/issue-resource.js" timestamp="1472478196921">
-        <mark key="'" line="315" column="12" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/issue-resource.js" timestamp="1475841423173">
+        <mark key="'" line="70" column="28" />
+        <mark key="[" line="434" column="0" />
+        <mark key="]" line="435" column="52" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/webpack-dev-server/bin/webpack-dev-server.js" timestamp="1473256091151">
         <mark key="'" line="198" column="0" />
@@ -879,6 +884,9 @@
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/_reports/types/cumulativeFlow/editCumulativeFlow.js" timestamp="1474973887053">
         <mark key="'" line="55" column="41" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-comments.html" timestamp="1475841350415">
+        <mark key="'" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/error-page-ng/error-page-ng.js" timestamp="1474993955446">
         <mark key="'" line="3" column="28" />
@@ -1683,16 +1691,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="333" column="60" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth/auth.js" />
-      <jump line="63" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth/auth.js" />
-      <jump line="656" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth/auth.js" />
-      <jump line="1" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth/auth.js" />
-      <jump line="266" column="34" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth/auth.js" />
-      <jump line="275" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth/auth.js" />
-      <jump line="285" column="40" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth/auth.js" />
-      <jump line="13" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/auth.js" />
-      <jump line="0" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth-ng/auth-ng.js" />
-      <jump line="57" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth-ng/auth-ng.js" />
       <jump line="56" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth-ng/auth-ng.js" />
       <jump line="46" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth/auth.js" />
       <jump line="67" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth/auth.js" />
@@ -1783,19 +1781,29 @@
       <jump line="21" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/config/service/load-config.js" />
       <jump line="122" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/config/service/load-config.js" />
       <jump line="56" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/config/service/load-config.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-comments.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/issue-resource.js" />
+      <jump line="70" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/issue-resource.js" />
+      <jump line="73" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-comments.js" />
+      <jump line="68" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-comments.js" />
+      <jump line="23" column="29" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-comments.js" />
+      <jump line="85" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-comments.js" />
+      <jump line="94" column="32" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-comments.js" />
+      <jump line="90" column="39" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-comments.js" />
+      <jump line="77" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-comments.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Load</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbW1lbnRzOiByZXNvdXJjZSgnYXBpL2lzc3Vlcy86aXNzdWVJZC9jb21tZW50cy86Y29tbWVudElkJywgbnVsbCwgewogICAgICAgICAgICBmaWVsZHM6IElTU1VFX0NPTU1FTlRTX0ZJRUxEUy50b1N0cmluZygpCg==</text>
       </register>
       <register name="-" type="4">
         <text>Load</text>
       </register>
       <register name="/" type="4">
-        <text>error</text>
+        <text encoding="base64">XDx1cGRhdGVEcmFmdFJlc291cmNlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbW1lbnRzOiByZXNvdXJjZSgnYXBpL2lzc3Vlcy86aXNzdWVJZC9jb21tZW50cy86Y29tbWVudElkJywgbnVsbCwgewogICAgICAgICAgICBmaWVsZHM6IElTU1VFX0NPTU1FTlRTX0ZJRUxEUy50b1N0cmluZygpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY29uZmlnLmJhY2tlbmQuZXJyb3IpOwo=</text>
@@ -1832,22 +1840,16 @@
       </register>
     </registers>
     <search>
-      <last-search>error</last-search>
+      <last-search encoding="base64">XDx1cGRhdGVEcmFmdFJlc291cmNlXD4=</last-search>
       <last-offset />
-      <last-pattern>error</last-pattern>
+      <last-pattern encoding="base64">XDx1cGRhdGVEcmFmdFJlc291cmNlXD4=</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>sleep</entry>
-        <entry>waitFor</entry>
-        <entry>wait</entry>
-        <entry encoding="base64">XDx3YWl0SHViTG9naW5QYWdlXD4=</entry>
-        <entry>driver</entry>
-        <entry>clean</entry>
         <entry>rebuild</entry>
         <entry>cache</entry>
         <entry>defau</entry>
@@ -1862,6 +1864,12 @@
         <entry>can</entry>
         <entry encoding="base64">XDxvbkxvYWRFcnJvclw+</entry>
         <entry>error</entry>
+        <entry>add</entry>
+        <entry>comments</entry>
+        <entry encoding="base64">XDx3b3JrZmxvd0Vycm9yQ0xJRGVjb3JhdG9yXD4=</entry>
+        <entry>createDra</entry>
+        <entry>draft</entry>
+        <entry encoding="base64">XDx1cGRhdGVEcmFmdFJlc291cmNlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ytSign/sign/gc</entry>
