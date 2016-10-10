@@ -107,8 +107,11 @@
       <file name="$USER_HOME$/www/js/specht/node_modules/through2/through2.js" timestamp="1472207207203">
         <mark key="'" line="51" column="17" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-sort-config.js" timestamp="1473859969140">
-        <mark key="'" line="3" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-sort-config.js" timestamp="1476092700713">
+        <mark key="'" line="264" column="6" />
+        <mark key="[" line="265" column="0" />
+        <mark key="]" line="265" column="17" />
+        <mark key="." line="265" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/reports.js" timestamp="1474991483644">
         <mark key="'" line="24" column="40" />
@@ -310,8 +313,8 @@
         <mark key="." line="63" column="0" />
         <mark key="^" line="66" column="25" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1475572636288">
-        <mark key="'" line="1689" column="70" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1476092323718">
+        <mark key="'" line="1706" column="0" />
         <mark key="[" line="1856" column="18" />
         <mark key="]" line="1856" column="38" />
         <mark key="^" line="1856" column="38" />
@@ -1252,6 +1255,9 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/.eslintrc" timestamp="1472463098013">
         <mark key="'" line="129" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-backlog.js" timestamp="1476092782097">
+        <mark key="'" line="516" column="37" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/issue-link-types/toolbar.html" timestamp="1475482689537">
         <mark key="'" line="2" column="23" />
         <mark key="[" line="14" column="43" />
@@ -1701,9 +1707,10 @@
         <mark key="." line="153" column="99" />
         <mark key="^" line="153" column="99" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-table.html" timestamp="1476091483389">
-        <mark key="[" line="178" column="9" />
-        <mark key="]" line="178" column="24" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-table.html" timestamp="1476092148207">
+        <mark key="'" line="186" column="0" />
+        <mark key="[" line="178" column="0" />
+        <mark key="]" line="179" column="66" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/query-assist/query-assist.js" timestamp="1473695363059">
         <mark key="'" line="731" column="0" />
@@ -1750,18 +1757,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="160" column="44" filename="$USER_HOME$/www/js/oauth-in-action-code/exercises/ch-5-ex-1/authorizationServer.js" />
-      <jump line="144" column="24" filename="$USER_HOME$/www/js/oauth-in-action-code/exercises/ch-5-ex-1/authorizationServer.js" />
-      <jump line="147" column="49" filename="$USER_HOME$/www/js/oauth-in-action-code/exercises/ch-5-ex-1/authorizationServer.js" />
-      <jump line="151" column="39" filename="$USER_HOME$/www/js/oauth-in-action-code/exercises/ch-5-ex-1/authorizationServer.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/www/js/oauth-in-action-code/exercises/ch-5-ex-2/authorizationServer.js" />
-      <jump line="13" column="92" filename="$USER_HOME$/www/js/oauth-in-action-code/exercises/ch-5-ex-2/authorizationServer.js" />
-      <jump line="23" column="42" filename="$USER_HOME$/www/js/oauth-in-action-code/exercises/ch-5-ex-2/authorizationServer.js" />
-      <jump line="117" column="11" filename="$USER_HOME$/www/js/oauth-in-action-code/exercises/ch-5-ex-2/authorizationServer.js" />
-      <jump line="161" column="27" filename="$USER_HOME$/www/js/oauth-in-action-code/exercises/ch-5-ex-2/authorizationServer.js" />
-      <jump line="187" column="15" filename="$USER_HOME$/www/js/oauth-in-action-code/exercises/ch-5-ex-2/authorizationServer.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/www/js/oauth-in-action-code/exercises/ch-5-ex-3/authorizationServer.js" />
-      <jump line="139" column="28" filename="$USER_HOME$/www/js/oauth-in-action-code/exercises/ch-5-ex-3/authorizationServer.js" />
       <jump line="89" column="49" filename="$USER_HOME$/www/js/oauth-in-action-code/exercises/ch-5-ex-3/authorizationServer.js" />
       <jump line="138" column="0" filename="$USER_HOME$/www/js/oauth-in-action-code/exercises/ch-5-ex-3/authorizationServer.js" />
       <jump line="182" column="28" filename="$USER_HOME$/www/js/oauth-in-action-code/exercises/ch-5-ex-3/authorizationServer.js" />
@@ -1850,58 +1845,70 @@
       <jump line="4" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/auth.js" />
       <jump line="35" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/auth.js" />
       <jump line="55" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/auth.js" />
+      <jump line="181" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-table.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-table.html" />
+      <jump line="186" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-table.html" />
+      <jump line="1706" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-sort-config.js" />
+      <jump line="182" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-sort-config.js" />
+      <jump line="279" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-sort-config.js" />
+      <jump line="280" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-sort-config.js" />
+      <jump line="264" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-sort-config.js" />
+      <jump line="254" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-backlog.js" />
+      <jump line="732" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-backlog.js" />
+      <jump line="516" column="37" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-backlog.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>yt-follow-scroll</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="-" type="4">
         <text>query.client_id</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjcmVhdGVSaW5nQ29uZmlnU3RvcmFnZVw+</text>
+        <text encoding="base64">XDxhcHBseURyYWdJbnNpZGVCYWNrbG9nXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBuZy1pZj0iIWFnaWxlQm9hcmRDdHJsLnR2TW9kZSIKICAgICAgICAgICBjbGFzcz0ieXQtYm90dG9tLXRvb2xiYXJfX3Njcm9sbGVyIgo=</text>
+        <text encoding="base64">ICAgICAgICA8eXQtZm9sbG93LXNjcm9sbCByZXNpemUtZXZlbnQtbmFtZT0ie3thZ2lsZUJvYXJkQ3RybC5BR0lMRV9CQUNLTE9HX1RPR0dMRV9FVkVOVH19IgogICAgICAgICAgICAgICAgICAgICAgICAgIHN5bmMtd2lkdGgtZWxlbWVudD0iLnl0LWJvYXJkLWNvbnRhaW5lciIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWNjZXNzX3Rva2VuOiBhY2Nlc3NfdG9rZW4sCiAgICAgICAgICAgIGNsaWVudF9pZDogY2xpZW50SWQsCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4+PicpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWNjZXNzX3Rva2VuOiBhY2Nlc3NfdG9rZW4sCiAgICAgICAgICAgIGNsaWVudF9pZDogY2xpZW50SWQsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZhciBmb3JtX2RhdGEgPSBxcy5zdHJpbmdpZnkoewogICAgICAgIGdyYW50X3R5cGU6ICdjbGllbnRfY3JlZGVudGlhbHMnLAogICAgICAgIHNjb3BlOiBjbGllbnQuc2NvcGUKICAgIH0pOwoKICAgIHZhciBoZWFkZXJzID0gewogICAgICAgICdDb250ZW50LVR5cGUnOiAnYXBwbGljYWl0b24veC13d3ctZm9ybS11cmxlbmNvZGVkJywKICAgICAgICAnQXV0aG9yaXphdGlvbic6ICdCYXNpYyAnICsgbmV3IEJ1ZmZlcihxdWVyeXN0cmluZy5lc2NhcGUoY2xpZW50LmNsaWVudF9pZCkgKyAnOicgKyBxdWVyeXN0cmluZy5lc2NhcGUoY2xpZW50LmNsaWVudF9zZWNyZXQpKS50b1N0cmluZygnYmFzZTY0JykKICAgIH07CgogICAgdmFyIHRva1JlcyA9IHJlcXVlc3QoJ1BPU1QnLCBhdXRoU2VydmVyLnRva2VuRW5kcG9pbnQsIHsKICAgICAgICBib2R5OiBmb3JtX2RhdGEsCiAgICAgICAgaGVhZGVyczogaGVhZGVycwogICAgfSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">RXhjZXJwdCBGcm9tOiBKdXN0aW4gUmljaGVyLiDigJxPQXV0aCAyIGluIEFjdGlvbiBNRUFQIFYwOS7igJ0gaUJvb2tzLgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcS5ib2R5KTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHZhciBmb3JtX2RhdGEgPSBxcy5zdHJpbmdpZnkoewogICAgICAgIGdyYW50X3R5cGU6ICdjbGllbnRfY3JlZGVudGlhbHMnLAogICAgICAgIHNjb3BlOiBjbGllbnQuc2NvcGUKICAgIH0pOwoKICAgIHZhciBoZWFkZXJzID0gewogICAgICAgICdDb250ZW50LVR5cGUnOiAnYXBwbGljYWl0b24veC13d3ctZm9ybS11cmxlbmNvZGVkJywKICAgICAgICAnQXV0aG9yaXphdGlvbic6ICdCYXNpYyAnICsgbmV3IEJ1ZmZlcihxdWVyeXN0cmluZy5lc2NhcGUoY2xpZW50LmNsaWVudF9pZCkgKyAnOicgKyBxdWVyeXN0cmluZy5lc2NhcGUoY2xpZW50LmNsaWVudF9zZWNyZXQpKS50b1N0cmluZygnYmFzZTY0JykKICAgIH07CgogICAgdmFyIHRva1JlcyA9IHJlcXVlc3QoJ1BPU1QnLCBhdXRoU2VydmVyLnRva2VuRW5kcG9pbnQsIHsKICAgICAgICBib2R5OiBmb3JtX2RhdGEsCiAgICAgICAgaGVhZGVyczogaGVhZGVycwogICAgfSk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">RXhjZXJwdCBGcm9tOiBKdXN0aW4gUmljaGVyLiDigJxPQXV0aCAyIGluIEFjdGlvbiBNRUFQIFYwOS7igJ0gaUJvb2tzLgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcS5ib2R5KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlIHt9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjcmVhdGVSaW5nQ29uZmlnU3RvcmFnZVw+</last-search>
+      <last-search encoding="base64">XDxhcHBseURyYWdJbnNpZGVCYWNrbG9nXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjcmVhdGVSaW5nQ29uZmlnU3RvcmFnZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxhcHBseURyYWdJbnNpZGVCYWNrbG9nXD4=</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>-1</last-dir>
@@ -1909,12 +1916,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\/author</entry>
-        <entry encoding="base64">XDx1cmxQYXJzZWRcPg==</entry>
-        <entry>authroizedEnd</entry>
-        <entry>Endpoint</entry>
-        <entry encoding="base64">XDxyZXF1ZXN0XD4=</entry>
-        <entry>approve</entry>
         <entry>user</entry>
         <entry>author</entry>
         <entry>authorize</entry>
@@ -1929,6 +1930,12 @@
         <entry>redire</entry>
         <entry>token</entry>
         <entry encoding="base64">XDxjcmVhdGVSaW5nQ29uZmlnU3RvcmFnZVw+</entry>
+        <entry>backlogSor</entry>
+        <entry>backlog-sort</entry>
+        <entry>back</entry>
+        <entry encoding="base64">XDxnZXRDb25maWdcPg==</entry>
+        <entry encoding="base64">XDxnZXRMZWFkaW5nTW9kZWxcPg==</entry>
+        <entry encoding="base64">XDxhcHBseURyYWdJbnNpZGVCYWNrbG9nXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>29</entry>
