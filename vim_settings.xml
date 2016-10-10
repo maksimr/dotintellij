@@ -391,8 +391,8 @@
         <mark key="." line="162" column="0" />
         <mark key="^" line="161" column="42" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/auth.js" timestamp="1475571401558">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/auth.js" timestamp="1476089786969">
+        <mark key="'" line="55" column="0" />
         <mark key="[" line="49" column="25" />
         <mark key="]" line="49" column="35" />
         <mark key="." line="49" column="35" />
@@ -1746,15 +1746,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="27" filename="$USER_HOME$/www/js/oauth-in-action-code/exercises/ch-5-ex-1/authorizationServer.js" />
-      <jump line="150" column="34" filename="$USER_HOME$/www/js/oauth-in-action-code/exercises/ch-5-ex-1/authorizationServer.js" />
-      <jump line="155" column="34" filename="$USER_HOME$/www/js/oauth-in-action-code/exercises/ch-5-ex-1/authorizationServer.js" />
-      <jump line="148" column="20" filename="$USER_HOME$/www/js/oauth-in-action-code/exercises/ch-5-ex-1/authorizationServer.js" />
-      <jump line="161" column="0" filename="$USER_HOME$/www/js/oauth-in-action-code/exercises/ch-5-ex-1/authorizationServer.js" />
-      <jump line="146" column="20" filename="$USER_HOME$/www/js/oauth-in-action-code/exercises/ch-5-ex-1/authorizationServer.js" />
-      <jump line="196" column="0" filename="$USER_HOME$/www/js/oauth-in-action-code/exercises/ch-5-ex-1/authorizationServer.js" />
-      <jump line="5" column="4" filename="$USER_HOME$/www/js/oauth-in-action-code/exercises/ch-5-ex-1/authorizationServer.js" />
-      <jump line="145" column="0" filename="$USER_HOME$/www/js/oauth-in-action-code/exercises/ch-5-ex-1/authorizationServer.js" />
       <jump line="160" column="44" filename="$USER_HOME$/www/js/oauth-in-action-code/exercises/ch-5-ex-1/authorizationServer.js" />
       <jump line="144" column="24" filename="$USER_HOME$/www/js/oauth-in-action-code/exercises/ch-5-ex-1/authorizationServer.js" />
       <jump line="147" column="49" filename="$USER_HOME$/www/js/oauth-in-action-code/exercises/ch-5-ex-1/authorizationServer.js" />
@@ -1846,6 +1837,15 @@
       <jump line="202" column="0" filename="$USER_HOME$/www/js/oauth-in-action-code/exercises/ch-6-ex-2/authorizationServer.js" />
       <jump line="13" column="0" filename="$USER_HOME$/www/js/oauth-in-action-code/exercises/ch-6-ex-2/authorizationServer.js" />
       <jump line="325" column="0" filename="$USER_HOME$/www/js/oauth-in-action-code/exercises/ch-6-ex-2/authorizationServer.js" />
+      <jump line="39" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/auth.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/auth.js" />
+      <jump line="45" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/auth.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/auth.js" />
+      <jump line="33" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/auth.js" />
+      <jump line="31" column="73" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/auth.js" />
+      <jump line="4" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/auth.js" />
+      <jump line="35" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/auth.js" />
+      <jump line="55" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/auth.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1855,7 +1855,7 @@
         <text>query.client_id</text>
       </register>
       <register name="/" type="4">
-        <text>token</text>
+        <text encoding="base64">XDxjcmVhdGVSaW5nQ29uZmlnU3RvcmFnZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CiAgICAgICAgICAkaHR0cCh7Cg==</text>
@@ -1895,17 +1895,16 @@
       </register>
     </registers>
     <search>
-      <last-search>token</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVSaW5nQ29uZmlnU3RvcmFnZVw+</last-search>
       <last-offset />
-      <last-pattern>token</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVSaW5nQ29uZmlnU3RvcmFnZVw+</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhdXRob3JpemF0aW9uXD4=</entry>
         <entry>\/author</entry>
         <entry encoding="base64">XDx1cmxQYXJzZWRcPg==</entry>
         <entry>authroizedEnd</entry>
@@ -1925,6 +1924,7 @@
         <entry>implic</entry>
         <entry>redire</entry>
         <entry>token</entry>
+        <entry encoding="base64">XDxjcmVhdGVSaW5nQ29uZmlnU3RvcmFnZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>29</entry>
