@@ -1179,8 +1179,8 @@
         <mark key="." line="0" column="16" />
         <mark key="^" line="39" column="5" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/test-documentation.js" timestamp="1476288027960">
-        <mark key="'" line="7" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/test-documentation.js" timestamp="1476288053602">
+        <mark key="'" line="20" column="0" />
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
@@ -1526,8 +1526,8 @@
         <mark key="^" line="103" column="31" />
         <mark key="." line="103" column="31" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/create-search-query-model.js" timestamp="1472746551159">
-        <mark key="'" line="35" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/create-search-query-model.js" timestamp="1476288202407">
+        <mark key="'" line="15" column="25" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-gettext-cli/package.json" timestamp="1475497359239">
         <mark key="'" line="50" column="3" />
@@ -1558,6 +1558,9 @@
         <mark key="]" line="31" column="14" />
         <mark key="." line="31" column="16" />
         <mark key="^" line="13" column="10" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/serverside-events/test/service/yt-serverside-events.js" timestamp="1476288100858">
+        <mark key="'" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-issue-creator.js" timestamp="1473681687813">
         <mark key="'" line="269" column="6" />
@@ -1799,12 +1802,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20583" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
-      <jump line="329" column="1" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/backlog.js" />
-      <jump line="415" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/backlog.js" />
-      <jump line="318" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/backlog.js" />
-      <jump line="315" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/backlog.js" />
       <jump line="32" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/backlog.js" />
       <jump line="395" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/backlog.js" />
       <jump line="374" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/backlog.js" />
@@ -1899,6 +1896,12 @@
       <jump line="37" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/test-documentation.js" />
       <jump line="35" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/test-documentation.js" />
       <jump line="7" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/test-documentation.js" />
+      <jump line="20" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/test-documentation.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/serverside-events/test/service/yt-serverside-events.js" />
+      <jump line="23" column="45" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/create-search-query-model.js" />
+      <jump line="16" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/create-search-query-model.js" />
+      <jump line="40" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/create-search-query-model.js" />
+      <jump line="15" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/create-search-query-model.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1908,7 +1911,7 @@
         <text>Start drag Issue1 under Issue2</text>
       </register>
       <register name="/" type="4">
-        <text>template</text>
+        <text encoding="base64">XDxjcmVhdGVFdmVudEVtaXR0ZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLy8gU3RhcnQgZHJhZyBJc3N1ZTEgdW5kZXIgSXNzdWUyCiAgICAgIC8vCiAgICAgIC8vCiAgICAgIC8vICAgW0lzc3VlMS4xXVtIXQogICAgICAvLyBbSXNzdWUyXVtWXQogICAgICAvLyBbSXNzdWUxXVtWXQogICAgICAvLwo=</text>
@@ -1948,18 +1951,16 @@
       </register>
     </registers>
     <search>
-      <last-search>template</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVFdmVudEVtaXR0ZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>template</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVFdmVudEVtaXR0ZXJcPg==</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>issue</entry>
-        <entry>addIssue</entry>
         <entry>addIssueToTree</entry>
         <entry>isCard</entry>
         <entry>isCardVisi</entry>
@@ -1978,6 +1979,8 @@
         <entry encoding="base64">XDxvblNvcnRCYWNrbG9nSXNzdWVzXD4=</entry>
         <entry>leading</entry>
         <entry>template</entry>
+        <entry>watch</entry>
+        <entry encoding="base64">XDxjcmVhdGVFdmVudEVtaXR0ZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>29</entry>
