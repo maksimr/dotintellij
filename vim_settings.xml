@@ -1650,12 +1650,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/oauth.html" timestamp="1473160252291">
         <mark key="'" line="20" column="36" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects.js" timestamp="1474973662789">
-        <mark key="'" line="124" column="8" />
-        <mark key="[" line="133" column="66" />
-        <mark key="]" line="134" column="72" />
-        <mark key="^" line="134" column="72" />
-        <mark key="." line="134" column="72" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects.js" timestamp="1476292669574">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="126" column="10" />
+        <mark key="]" line="126" column="16" />
+        <mark key="." line="126" column="16" />
+        <mark key="^" line="126" column="16" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/ring-ui/components/auth-ng/auth-ng.js" timestamp="1475569330302">
         <mark key="'" line="47" column="8" />
@@ -1802,8 +1802,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="395" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/backlog.js" />
-      <jump line="374" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/backlog.js" />
       <jump line="425" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/backlog.js" />
       <jump line="281" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/backlog.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/backlog.js" />
@@ -1902,66 +1900,67 @@
       <jump line="40" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/create-search-query-model.js" />
       <jump line="15" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/create-search-query-model.js" />
       <jump line="12" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/documentation/test/filter/documentation-link.js" />
+      <jump line="116" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLy8gVGhlIHByb2JsZW0gaW4gZGVzeW5jIHZpc3VhbCBwcmVzZW50YXRpb24gbW9kZWwoc29ydGFibGUpIHdoaWNoIHdvcmsgd2l0aCBET00K</text>
+      <register name="&quot;" type="4">
+        <text>runInfiniteScrollCheck</text>
       </register>
       <register name="-" type="4">
-        <text>Start drag Issue1 under Issue2</text>
+        <text>runInfiniteScrollCheck</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjcmVhdGVFdmVudEVtaXR0ZXJcPg==</text>
+        <text>time</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLy8gU3RhcnQgZHJhZyBJc3N1ZTEgdW5kZXIgSXNzdWUyCiAgICAgIC8vCiAgICAgIC8vCiAgICAgIC8vICAgW0lzc3VlMS4xXVtIXQogICAgICAvLyBbSXNzdWUyXVtWXQogICAgICAvLyBbSXNzdWUxXVtWXQogICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJHEsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLy8gVGhlIHByb2JsZW0gaW4gZGVzeW5jIHZpc3VhbCBwcmVzZW50YXRpb24gbW9kZWwoc29ydGFibGUpIHdoaWNoIHdvcmsgd2l0aCBET00K</text>
+        <text encoding="base64">ICAgICAgICAgICR0aW1lb3V0KGZ1bmN0aW9uKCkgewogICAgICAgICAgICAkcm9vdFNjb3BlLiRlbWl0KHByb2plY3RzQ3RybC5JTkZJTklURV9TQ1JPTExfRVZFTlQpOwogICAgICAgICAgfSwgMjApOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gYW5kIGFwcGxpY2F0aW9uIG1vZGVsKGphdmFzY3JpcHQpLiBXaGVuIHdlIHN0YXJ0IGRyYWcgdGhlIGlzc3VlIHdpdGgK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwcm9qZWN0c0N0cmwucHJvamVjdHNTa2lwICsgcGFnZVNpemUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLy8gc3VidGFza3MsIGlzc3VlJ3MgIHN1YnRhc2tzIGhpZGRlbiBidXQgc3RpbGwgaXMgbG9jYXRlZCBpbiBET00uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8KICAgICAgLy8gSW5pdGlhbCB2aXN1YWwgbW9kZWwgZm9yIHVzZXI6CiAgICAgIC8vICAgViAtIHZpc2libGUgZm9yIHVzZXIKICAgICAgLy8gICBIIC0gaGlkZGVuIGZvciB1c2VyCiAgICAgIC8vCiAgICAgIC8vIFtJc3N1ZTFdW1ZdCiAgICAgIC8vICAgW0lzc3VlMS4xXVtWXQogICAgICAvLyBbSXNzdWUyXVtWXQogICAgICAvLwogICAgICAvLyBTdGFydCBkcmFnIElzc3VlMSB1bmRlciBJc3N1ZTIKICAgICAgLy8KICAgICAgLy8KICAgICAgLy8gICBbSXNzdWUxLjFdW0hdCiAgICAgIC8vIFtJc3N1ZTJdW1ZdCiAgICAgIC8vIFtJc3N1ZTFdW1ZdCiAgICAgIC8vCiAgICAgIC8vIFJldHVybiBJc3N1MSBhYm92ZSBJc3N1ZTIKICAgICAgLy8KICAgICAgLy8gICBbSXNzdWUxLjFdW0hdCiAgICAgIC8vIFtJc3N1ZTFdW1ZdCiAgICAgIC8vIFtJc3N1ZTJdW1ZdCiAgICAgIC8vCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gJHJvb3RTY29wZS4kZW1pdChwcm9qZWN0c0N0cmwuSU5GSU5JVEVfU0NST0xMX0VWRU5UKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgLy8gW0lzc3VlMV1bVl0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLy8K</text>
+        <text encoding="base64">ICAgICAgICAvLyAkdGltZW91dChmdW5jdGlvbigpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gW0lzc3VlMV1bVl0K</text>
+        <text encoding="base64">ICAgICAgICAvLyB9LCAxMDAwKTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcS53aGVuKHByb2plY3RzQ3RybC5nZXRQcm9qZWN0cyhwcm9qZWN0c0N0cmwucHJvamVjdHNTa2lwICsgcGFnZVNpemUsIHByb2plY3RzQ3RybC5xdWVyeSkpCiAgICAgICAgICAudGhlbihmdW5jdGlvbihwcm9qZWN0cykgewogICAgICAgICAgICB1cGRhdGVQcm9qZWN0cyhwcm9qZWN0c0N0cmwucHJvamVjdHMuY29uY2F0KHByb2plY3RzKSk7CiAgICAgICAgICAgICRyb290U2NvcGUuJGVtaXQocHJvamVjdHNDdHJsLklORklOSVRFX1NDUk9MTF9FVkVOVCk7CiAgICAgICAgICB9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjcmVhdGVFdmVudEVtaXR0ZXJcPg==</last-search>
+      <last-search>time</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjcmVhdGVFdmVudEVtaXR0ZXJcPg==</last-pattern>
+      <last-pattern>time</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>addIssueToTree</entry>
         <entry>isCard</entry>
         <entry>isCardVisi</entry>
         <entry>UNLO</entry>
@@ -1981,6 +1980,7 @@
         <entry>template</entry>
         <entry>watch</entry>
         <entry encoding="base64">XDxjcmVhdGVFdmVudEVtaXR0ZXJcPg==</entry>
+        <entry>time</entry>
       </history-search>
       <history-cmd>
         <entry>29</entry>
