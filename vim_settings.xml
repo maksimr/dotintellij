@@ -68,11 +68,6 @@
         <mark key="^" line="99" column="38" />
         <mark key="." line="99" column="38" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/lazy-tree-model.js" timestamp="1476206785148">
-        <mark key="'" line="10" column="11" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="29" />
-      </file>
       <file name="$USER_HOME$/www/js/oauth-in-action-code/exercises/ch-5-ex-1/client.js" timestamp="1475862740707">
         <mark key="'" line="12" column="24" />
         <mark key="[" line="168" column="1" />
@@ -332,12 +327,12 @@
         <mark key="." line="63" column="0" />
         <mark key="^" line="66" column="25" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1476350960118">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1476351510456">
         <mark key="'" line="73" column="7" />
-        <mark key="[" line="1086" column="30" />
-        <mark key="]" line="1087" column="28" />
+        <mark key="[" line="1087" column="0" />
+        <mark key="]" line="1087" column="0" />
         <mark key="^" line="1087" column="28" />
-        <mark key="." line="1087" column="28" />
+        <mark key="." line="1087" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" timestamp="1475859529089">
         <mark key="'" line="277" column="0" />
@@ -977,6 +972,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/test/e2e/headerSpec.js" timestamp="1472467155489">
         <mark key="'" line="196" column="53" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issue-view-dialog.js" timestamp="1476351602049">
+        <mark key="'" line="26" column="28" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-custom-field-lazy.js" timestamp="1472455247704">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="64" column="20" />
@@ -1197,11 +1198,6 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="3" />
-      </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/backlog-issues-tree-model.js" timestamp="1476208307745">
-        <mark key="'" line="67" column="43" />
-        <mark key="[" line="98" column="0" />
-        <mark key="]" line="98" column="55" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/report/test/directive/yt-report-view.js" timestamp="1472659358313">
         <mark key="'" line="21" column="15" />
@@ -1834,7 +1830,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="338" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-ui-sortable/src/sortable.js" />
       <jump line="6" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/lazy-tree-model.js" />
       <jump line="147" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/lazy-tree-model.js" />
       <jump line="159" column="56" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/lazy-tree-model.js" />
@@ -1934,28 +1929,29 @@
       <jump line="105" column="63" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-table.html" />
       <jump line="110" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-table.html" />
       <jump line="73" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="26" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issue-view-dialog.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGlzc3VlVmlld0RpYWxvZ0N0cmwuaXNzdWUpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>-emitter</text>
       </register>
       <register name="/" type="4">
-        <text>sortableIssue</text>
+        <text>issue-pre</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="0" type="4">
+        <text>issueViewDialogCtrl.issue</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGlzc3VlVmlld0RpYWxvZ0N0cmwuaXNzdWUpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbWFrc2ltcnYgb24gMTMvMTAvMjAxNi4KICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJz4+Pj4nKTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -1964,16 +1960,16 @@
         <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbWFrc2ltcnYgb24gMTMvMTAvMjAxNi4KICovCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICR0aW1lb3V0KGZ1bmN0aW9uKCkgewogICAgICAgICAgICAkcm9vdFNjb3BlLiRlbWl0KHByb2plY3RzQ3RybC5JTkZJTklURV9TQ1JPTExfRVZFTlQpOwogICAgICAgICAgfSwgMjApOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwcm9qZWN0c0N0cmwucHJvamVjdHNTa2lwICsgcGFnZVNpemUpOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbWFrc2ltcnYgb24gMTMvMTAvMjAxNi4KICovCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICR0aW1lb3V0KGZ1bmN0aW9uKCkgewogICAgICAgICAgICAkcm9vdFNjb3BlLiRlbWl0KHByb2plY3RzQ3RybC5JTkZJTklURV9TQ1JPTExfRVZFTlQpOwogICAgICAgICAgfSwgMjApOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gJHJvb3RTY29wZS4kZW1pdChwcm9qZWN0c0N0cmwuSU5GSU5JVEVfU0NST0xMX0VWRU5UKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwcm9qZWN0c0N0cmwucHJvamVjdHNTa2lwICsgcGFnZVNpemUpOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1983,9 +1979,9 @@
       </register>
     </registers>
     <search>
-      <last-search>sortableIssue</last-search>
+      <last-search>issue-pre</last-search>
       <last-offset />
-      <last-pattern>sortableIssue</last-pattern>
+      <last-pattern>issue-pre</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1993,7 +1989,6 @@
     </search>
     <history>
       <history-search>
-        <entry>parent</entry>
         <entry encoding="base64">XDxuZXdMZWFkaW5nTm9kZVw+</entry>
         <entry>inside</entry>
         <entry>backlogItem</entry>
@@ -2013,6 +2008,7 @@
         <entry>yt-swimlane</entry>
         <entry>swimlane</entry>
         <entry>sortableIssue</entry>
+        <entry>issue-pre</entry>
       </history-search>
       <history-cmd>
         <entry>29</entry>
