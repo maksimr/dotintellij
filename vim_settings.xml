@@ -337,6 +337,13 @@
         <mark key="." line="63" column="0" />
         <mark key="^" line="66" column="25" />
       </file>
+      <file name="$USER_HOME$/tmp/chrome/chromium/src/content/child/web_url_loader_impl.cc" timestamp="1476618041316">
+        <mark key="'" line="1228" column="15" />
+        <mark key="[" line="622" column="71" />
+        <mark key="]" line="622" column="78" />
+        <mark key="^" line="622" column="78" />
+        <mark key="." line="622" column="78" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1476355868845">
         <mark key="'" line="1875" column="0" />
         <mark key="[" line="358" column="0" />
@@ -1371,6 +1378,13 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth/auth__request-builder.js" timestamp="1475571155405">
         <mark key="'" line="34" column="4" />
       </file>
+      <file name="$USER_HOME$/tmp/chrome/chromium/src/content/child/resource_dispatcher.cc" timestamp="1476618644433">
+        <mark key="'" line="396" column="0" />
+        <mark key="[" line="514" column="67" />
+        <mark key="]" line="514" column="80" />
+        <mark key="." line="514" column="80" />
+        <mark key="^" line="514" column="80" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/create-permissions-store.js" timestamp="1475165115291">
         <mark key="'" line="16" column="15" />
       </file>
@@ -1856,15 +1870,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/project-wizard/src/blocks/hub/hub__resource.js" />
-      <jump line="133" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects.js" />
-      <jump line="131" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects.js" />
-      <jump line="70" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects.js" />
-      <jump line="114" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects.js" />
-      <jump line="32" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/test/controller/projects.js" />
-      <jump line="33" column="29" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/test/controller/projects.js" />
-      <jump line="34" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/test/controller/projects.js" />
-      <jump line="37" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/test/controller/projects.js" />
       <jump line="46" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/test/controller/projects.js" />
       <jump line="52" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/test/controller/projects.js" />
       <jump line="53" column="47" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/test/controller/projects.js" />
@@ -1956,61 +1961,70 @@
       <jump line="486" column="21" filename="$USER_HOME$/tmp/chrome/chromium/src/content/browser/loader/resource_loader.cc" />
       <jump line="195" column="2" filename="$USER_HOME$/tmp/chrome/chromium/src/content/browser/loader/resource_loader.cc" />
       <jump line="183" column="2" filename="$USER_HOME$/tmp/chrome/chromium/src/content/browser/loader/resource_loader.cc" />
+      <jump line="7" column="0" filename="$USER_HOME$/tmp/chrome/chromium/src/content/child/web_url_loader_impl.cc" />
+      <jump line="435" column="0" filename="$USER_HOME$/tmp/chrome/chromium/src/content/child/web_url_loader_impl.cc" />
+      <jump line="455" column="17" filename="$USER_HOME$/tmp/chrome/chromium/src/content/child/web_url_loader_impl.cc" />
+      <jump line="613" column="0" filename="$USER_HOME$/tmp/chrome/chromium/src/content/child/web_url_loader_impl.cc" />
+      <jump line="622" column="15" filename="$USER_HOME$/tmp/chrome/chromium/src/content/child/web_url_loader_impl.cc" />
+      <jump line="1010" column="15" filename="$USER_HOME$/tmp/chrome/chromium/src/content/child/web_url_loader_impl.cc" />
+      <jump line="1228" column="15" filename="$USER_HOME$/tmp/chrome/chromium/src/content/child/web_url_loader_impl.cc" />
+      <jump line="0" column="0" filename="$USER_HOME$/tmp/chrome/chromium/src/content/child/resource_dispatcher.cc" />
+      <jump line="396" column="0" filename="$USER_HOME$/tmp/chrome/chromium/src/content/child/resource_dispatcher.cc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2222</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIERWTE9HKDEpIDw8ICJGT09PT09PTyhPblJlY2VpdmVkUmVkaXJlY3QpIjsK</text>
       </register>
       <register name="-" type="4">
         <text>2222</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDYW5jZWxSZXF1ZXN0SW50ZXJuYWxcPg==</text>
+        <text>FOO</text>
       </register>
       <register name="0" type="4">
         <text>user.avatar.pictureUrl</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBEVkwK</text>
+        <text encoding="base64">ICAgIERWTE9HKDEpIDw8ICJGT09PT09PTyhPblJlY2VpdmVkUmVkaXJlY3QpIjsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBEVkwK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgJHNjb3BlLiRvbignJGRlc3Ryb3knLCBmdW5jdGlvbigpIHsKICAgICAgICBsb2FkUHJvamVjdHNEYXRhLmxhc3RSZXF1ZXN0UHJvbWlzZSA9IG51bGw7CiAgICAgIH0pOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgJHNjb3BlLiRvbignJGRlc3Ryb3knLCBmdW5jdGlvbigpIHsKICAgICAgICBsb2FkUHJvamVjdHNEYXRhLmxhc3RSZXF1ZXN0UHJvbWlzZSA9IG51bGw7CiAgICAgIH0pOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiBsb2FkQWRkaXRpb25hbERhdGFGb3JQcm9qZWN0KHByb2plY3QpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiBsb2FkQWRkaXRpb25hbERhdGFGb3JQcm9qZWN0KHByb2plY3QpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChsb2FkUHJvamVjdHNEYXRhLikK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4+PicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIChsb2FkUHJvamVjdHNEYXRhLikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDYW5jZWxSZXF1ZXN0SW50ZXJuYWxcPg==</last-search>
+      <last-search>FOO</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDYW5jZWxSZXF1ZXN0SW50ZXJuYWxcPg==</last-pattern>
+      <last-pattern>FOO</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -2033,8 +2047,8 @@
         <entry>count</entry>
         <entry>url</entry>
         <entry encoding="base64">XDxsb2FkUHJvamVjdHNEYXRhXD4=</entry>
-        <entry>FOO</entry>
         <entry encoding="base64">XDxDYW5jZWxSZXF1ZXN0SW50ZXJuYWxcPg==</entry>
+        <entry>FOO</entry>
       </history-search>
       <history-cmd>
         <entry>29</entry>
