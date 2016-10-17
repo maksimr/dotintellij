@@ -410,13 +410,13 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/yt-workflow-rule-preview.html" timestamp="1472661500961">
         <mark key="'" line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/tmp/chrome/chromium/src/third_party/WebKit/Source/core/xmlhttprequest/XMLHttpRequest.cpp" timestamp="1476722956607">
-        <mark key="a" line="1106" column="23" />
-        <mark key="'" line="1237" column="15" />
-        <mark key="[" line="1143" column="61" />
-        <mark key="]" line="1143" column="68" />
-        <mark key="." line="1143" column="68" />
-        <mark key="^" line="1143" column="68" />
+      <file name="$USER_HOME$/tmp/chrome/chromium/src/third_party/WebKit/Source/core/xmlhttprequest/XMLHttpRequest.cpp" timestamp="1476723847407">
+        <mark key="a" line="1139" column="0" />
+        <mark key="'" line="1236" column="15" />
+        <mark key="[" line="1139" column="17" />
+        <mark key="]" line="1139" column="18" />
+        <mark key="." line="1139" column="18" />
+        <mark key="^" line="1139" column="57" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/popup-menu/popup-menu.js" timestamp="1472645356018">
         <mark key="'" line="62" column="0" />
@@ -1925,14 +1925,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="5" filename="$USER_HOME$/tmp/chrome/chromium/src/third_party/WebKit/Source/core/xmlhttprequest/XMLHttpRequest.cpp" />
-      <jump line="1209" column="21" filename="$USER_HOME$/tmp/chrome/chromium/src/third_party/WebKit/Source/core/xmlhttprequest/XMLHttpRequest.cpp" />
-      <jump line="1476" column="4" filename="$USER_HOME$/tmp/chrome/chromium/src/third_party/WebKit/Source/core/xmlhttprequest/XMLHttpRequest.cpp" />
-      <jump line="1210" column="21" filename="$USER_HOME$/tmp/chrome/chromium/src/third_party/WebKit/Source/core/xmlhttprequest/XMLHttpRequest.cpp" />
-      <jump line="1481" column="17" filename="$USER_HOME$/tmp/chrome/chromium/src/third_party/WebKit/Source/core/xmlhttprequest/XMLHttpRequest.cpp" />
-      <jump line="1482" column="4" filename="$USER_HOME$/tmp/chrome/chromium/src/third_party/WebKit/Source/core/xmlhttprequest/XMLHttpRequest.cpp" />
-      <jump line="1791" column="32" filename="$USER_HOME$/tmp/chrome/chromium/src/third_party/WebKit/Source/core/xmlhttprequest/XMLHttpRequest.cpp" />
-      <jump line="30" column="0" filename="$USER_HOME$/tmp/chrome/chromium/src/third_party/WebKit/Source/core/fetch/ResourceLoaderOptions.h" />
       <jump line="57" column="3" filename="$USER_HOME$/tmp/chrome/chromium/src/third_party/WebKit/Source/core/fetch/ResourceLoaderOptions.h" />
       <jump line="110" column="31" filename="$USER_HOME$/tmp/chrome/chromium/src/third_party/WebKit/Source/core/fetch/ResourceLoaderOptions.h" />
       <jump line="84" column="3" filename="$USER_HOME$/tmp/chrome/chromium/src/third_party/WebKit/Source/core/fetch/ResourceLoaderOptions.h" />
@@ -2025,58 +2017,66 @@
       <jump line="1191" column="7" filename="$USER_HOME$/tmp/chrome/chromium/src/third_party/WebKit/Source/core/xmlhttprequest/XMLHttpRequest.cpp" />
       <jump line="1112" column="23" filename="$USER_HOME$/tmp/chrome/chromium/src/third_party/WebKit/Source/core/xmlhttprequest/XMLHttpRequest.cpp" />
       <jump line="1233" column="15" filename="$USER_HOME$/tmp/chrome/chromium/src/third_party/WebKit/Source/core/xmlhttprequest/XMLHttpRequest.cpp" />
+      <jump line="1132" column="0" filename="$USER_HOME$/tmp/chrome/chromium/src/third_party/WebKit/Source/core/xmlhttprequest/XMLHttpRequest.cpp" />
+      <jump line="1134" column="8" filename="$USER_HOME$/tmp/chrome/chromium/src/third_party/WebKit/Source/core/xmlhttprequest/XMLHttpRequest.cpp" />
+      <jump line="1224" column="36" filename="$USER_HOME$/tmp/chrome/chromium/src/third_party/WebKit/Source/core/xmlhttprequest/XMLHttpRequest.cpp" />
+      <jump line="1470" column="65" filename="$USER_HOME$/tmp/chrome/chromium/src/third_party/WebKit/Source/core/xmlhttprequest/XMLHttpRequest.cpp" />
+      <jump line="1729" column="54" filename="$USER_HOME$/tmp/chrome/chromium/src/third_party/WebKit/Source/core/xmlhttprequest/XMLHttpRequest.cpp" />
+      <jump line="1068" column="15" filename="$USER_HOME$/tmp/chrome/chromium/src/third_party/WebKit/Source/core/xmlhttprequest/XMLHttpRequest.cpp" />
+      <jump line="1139" column="17" filename="$USER_HOME$/tmp/chrome/chromium/src/third_party/WebKit/Source/core/xmlhttprequest/XMLHttpRequest.cpp" />
+      <jump line="1236" column="15" filename="$USER_HOME$/tmp/chrome/chromium/src/third_party/WebKit/Source/core/xmlhttprequest/XMLHttpRequest.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIERWTE9HKDEpIDw8ICJaT09PT09PKFhNTEh0dHBSZXF1ZXN0OjppbnRlcm5hbEFib3J0KCkpIEkiOwo=</text>
+        <text encoding="base64">ICBEVkxPRygxKSA8PCAiWk9PT09PTyhYTUxIdHRwUmVxdWVzdDo6aW50ZXJuYWxBYm9ydCgpKSBJSUkgIiA8PCB0aGlzOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IDw8IG1fdXJsLmdldFN0cmluZygpIDw8ICcgJyA8PCB0aGlzOw==</text>
       </register>
       <register name="/" type="4">
-        <text>FOO</text>
+        <text>FOOO</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIERWTE9HKDEpIDw8ICJaT09PT09PKFhNTEh0dHBSZXF1ZXN0OjppbnRlcm5hbEFib3J0KCkpIElJIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIERWTE9HKDEpIDw8ICJaT09PT09PKFhNTEh0dHBSZXF1ZXN0OjppbnRlcm5hbEFib3J0KCkpIEkiOwo=</text>
+        <text encoding="base64">ICBEVkxPRygxKSA8PCAiWk9PT09PTyhYTUxIdHRwUmVxdWVzdDo6aW50ZXJuYWxBYm9ydCgpKSBJSUkgIiA8PCB0aGlzOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIERWTE9HKDEpIDw8ICJaT09PT09PKFhNTEh0dHBSZXF1ZXN0OjppbnRlcm5hbEFib3J0KCkpIEkiOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1fZXJyb3IgPSB0cnVlOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0cnVlOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIG1fZXJyb3IgPSB0cnVlOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHJldHVybiB0cnVlOwo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBEVkxPRygxKSA8PCAiRk9PT09PKFhNTEh0dHBSZXF1ZXN0OjphYm9ydCgpKSAiIDw8IG1fdXJsLmdldFN0cmluZygpIDw8ICcgJyA8PCB0aGlzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICBEVkxPRygxKSA8PCAiRk9PT09PKFhNTEh0dHBSZXF1ZXN0OjphYm9ydCgpKSAiIDw8IG1fdXJsLmdldFN0cmluZygpIDw8ICcgJyA8PCB0aGlzOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIERWTE9HKDEpIDw8ICJaT09PTyhSZXNvdXJjZUxvYWRlcjo6c3RhcnQpICIgPDwgbV9yZXNvdXJjZS0+bGFzdFJlc291cmNlUmVxdWVzdCgpLnVybCgpLmdldFN0cmluZygpOwo=</text>
+        <text encoding="base64">ICBEVkxPRygxKSA8PCAiRk9PT09PKFhNTEh0dHBSZXF1ZXN0OjphYm9ydCgpKSAiIDw8IG1fdXJsLmdldFN0cmluZygpIDw8ICcgJyA8PCB0aGlzOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIERWTE9HKDEpIDw8ICJaT09PTyhSZXNvdXJjZUxvYWRlcjo6c3RhcnQpICIgPDwgbV9yZXNvdXJjZS0+bGFzdFJlc291cmNlUmVxdWVzdCgpLnVybCgpLmdldFN0cmluZygpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>FOO</last-search>
+      <last-search>FOOO</last-search>
       <last-offset />
-      <last-pattern>FOO</last-pattern>
+      <last-pattern>FOOO</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2084,9 +2084,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoYW5kbGVEaWRDYW5jZWxcPg==</entry>
-        <entry encoding="base64">XDxoYW5kbGVEaWRUaW1lb3V0XD4=</entry>
-        <entry>info</entry>
         <entry encoding="base64">XDxyZXF1ZXN0SW5pdGlhdG9yQ29udGV4dFw+</entry>
         <entry encoding="base64">XDxkaWRGYWlsTG9hZGluZ1w+</entry>
         <entry>didFai</entry>
@@ -2104,6 +2101,9 @@
         <entry encoding="base64">PDw=</entry>
         <entry encoding="base64">XDxpbnRlcm5hbEFib3J0XD4=</entry>
         <entry>FOO</entry>
+        <entry>abort</entry>
+        <entry>ZOOOO</entry>
+        <entry>FOOO</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Should/should/gc</entry>
