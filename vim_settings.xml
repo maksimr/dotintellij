@@ -1386,8 +1386,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth/auth__request-builder.js" timestamp="1475571155405">
         <mark key="'" line="34" column="4" />
       </file>
-      <file name="$USER_HOME$/tmp/chrome/chromium/src/content/child/resource_dispatcher.cc" timestamp="1476701084850">
-        <mark key="'" line="6" column="0" />
+      <file name="$USER_HOME$/tmp/chrome/chromium/src/content/child/resource_dispatcher.cc" timestamp="1476701921232">
+        <mark key="'" line="821" column="0" />
         <mark key="[" line="514" column="67" />
         <mark key="]" line="514" column="80" />
         <mark key="." line="514" column="80" />
@@ -1881,8 +1881,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects.js" />
-      <jump line="80" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects.js" />
       <jump line="113" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects.js" />
       <jump line="159" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/test/controller/projects.js" />
       <jump line="28" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/test/controller/projects.js" />
@@ -1981,6 +1979,8 @@
       <jump line="453" column="0" filename="$USER_HOME$/tmp/chrome/chromium/src/content/child/resource_dispatcher.cc" />
       <jump line="4" column="0" filename="$USER_HOME$/tmp/chrome/chromium/src/content/child/resource_dispatcher.cc" />
       <jump line="6" column="0" filename="$USER_HOME$/tmp/chrome/chromium/src/content/child/resource_dispatcher.cc" />
+      <jump line="775" column="47" filename="$USER_HOME$/tmp/chrome/chromium/src/content/child/resource_dispatcher.cc" />
+      <jump line="821" column="0" filename="$USER_HOME$/tmp/chrome/chromium/src/content/child/resource_dispatcher.cc" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1990,7 +1990,7 @@
         <text>256m</text>
       </register>
       <register name="/" type="4">
-        <text>FOOO</text>
+        <text>FOO</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LVhtczI1Nm0K</text>
@@ -2030,9 +2030,9 @@
       </register>
     </registers>
     <search>
-      <last-search>FOOO</last-search>
+      <last-search>FOO</last-search>
       <last-offset />
-      <last-pattern>FOOO</last-pattern>
+      <last-pattern>FOO</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2058,8 +2058,8 @@
         <entry>url</entry>
         <entry encoding="base64">XDxsb2FkUHJvamVjdHNEYXRhXD4=</entry>
         <entry encoding="base64">XDxDYW5jZWxSZXF1ZXN0SW50ZXJuYWxcPg==</entry>
-        <entry>FOO</entry>
         <entry>FOOO</entry>
+        <entry>FOO</entry>
       </history-search>
       <history-cmd>
         <entry>29</entry>
