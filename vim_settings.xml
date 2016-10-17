@@ -370,12 +370,12 @@
         <mark key="." line="40" column="66" />
         <mark key="^" line="40" column="66" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/projects.js" timestamp="1476701318183">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/projects.js" timestamp="1476703133034">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
+        <mark key="[" line="74" column="34" />
+        <mark key="]" line="74" column="34" />
         <mark key="^" line="89" column="61" />
+        <mark key="." line="74" column="34" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mock/service/agile-board-model-mock.js" timestamp="1474634327292">
         <mark key="'" line="1" column="42" />
@@ -1095,12 +1095,12 @@
         <mark key="^" line="37" column="28" />
         <mark key="." line="37" column="28" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-create.js" timestamp="1474473297471">
-        <mark key="'" line="259" column="31" />
-        <mark key="[" line="307" column="8" />
-        <mark key="]" line="307" column="7" />
-        <mark key="." line="307" column="7" />
-        <mark key="^" line="307" column="7" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-create.js" timestamp="1476703248766">
+        <mark key="'" line="145" column="8" />
+        <mark key="[" line="163" column="30" />
+        <mark key="]" line="163" column="30" />
+        <mark key="." line="163" column="30" />
+        <mark key="^" line="163" column="5" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/global/global.scss" timestamp="1473955380771">
         <mark key="'" line="7" column="11" />
@@ -1847,9 +1847,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects.js" />
-      <jump line="108" column="42" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/test/controller/projects.js" />
-      <jump line="111" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/test/controller/projects.js" />
       <jump line="88" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/test/controller/projects.js" />
       <jump line="72" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/project-wizard/src/blocks/hub/hub__resource.js" />
       <jump line="133" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects.js" />
@@ -1947,66 +1944,68 @@
       <jump line="139" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects.js" />
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects.js" />
       <jump line="147" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-create.js" />
+      <jump line="163" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-create.js" />
+      <jump line="145" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-create.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByb2plY3RzQ3RybC5jaGVja0NhbkNyZWF0ZSA9IGZ1bmN0aW9uKCkgewogICAgICB5b3V0cmFja1Jlc291cmNlLmNhbkNyZWF0ZShjb25maWcuYmFja2VuZC55b3V0cmFja0Jhc2VVcmkpLmNoZWNrKCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAg</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>config</text>
+        <text encoding="base64">XDxjaGVja0lmQ2FuQ3JlYXRlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByb2plY3RzQ3RybC5jaGVja0NhbkNyZWF0ZSA9IGZ1bmN0aW9uKCkgewogICAgICB5b3V0cmFja1Jlc291cmNlLmNhbkNyZWF0ZShjb25maWcuYmFja2VuZC55b3V0cmFja0Jhc2VVcmkpLmNoZWNrKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY2hlY2tJZkNhbkNyZWF0ZShwcm9qZWN0KS50aGVuKGZ1bmN0aW9uKCkgewo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY2hlY2tJZkNhbkNyZWF0ZShwcm9qZWN0KS50aGVuKGZ1bmN0aW9uKCkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXNvbHZlOiB7CiAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgJHNjb3BlLiRvbignJGRlc3Ryb3knLCBmdW5jdGlvbigpIHsKICAgICAgICBsb2FkUHJvamVjdHNEYXRhLmxhc3RSZXF1ZXN0UHJvbWlzZSA9IG51bGw7CiAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNhbkNyZWF0ZVJlc29sdmU6IFsKICAgICAgICAgICAgJ3lvdXRyYWNrUmVzb3VyY2UnLAogICAgICAgICAgICAnY29uZmlnJywKICAgICAgICAgICAgZnVuY3Rpb24oeW91dHJhY2tSZXNvdXJjZSwgY29uZmlnKSB7CiAgICAgICAgICAgICAgcmV0dXJuIHlvdXRyYWNrUmVzb3VyY2UuY2FuQ3JlYXRlKGNvbmZpZy5iYWNrZW5kLnlvdXRyYWNrQmFzZVVyaSkuY2hlY2soKS4kcHJvbWlzZTsKICAgICAgICAgICAgfQogICAgICAgICAgXQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiBsb2FkQWRkaXRpb25hbERhdGFGb3JQcm9qZWN0KHByb2plY3QpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChsb2FkUHJvamVjdHNEYXRhLikK</text>
+        <text encoding="base64">ICAgICAgJHNjb3BlLiRvbignJGRlc3Ryb3knLCBmdW5jdGlvbigpIHsKICAgICAgICBsb2FkUHJvamVjdHNEYXRhLmxhc3RSZXF1ZXN0UHJvbWlzZSA9IG51bGw7CiAgICAgIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4+PicpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>config</last-search>
+      <last-search encoding="base64">XDxjaGVja0lmQ2FuQ3JlYXRlXD4=</last-search>
       <last-offset />
-      <last-pattern>config</last-pattern>
+      <last-pattern encoding="base64">XDxjaGVja0lmQ2FuQ3JlYXRlXD4=</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>?</entry>
         <entry>toReg</entry>
         <entry>fields</entry>
         <entry>team</entry>
@@ -2024,8 +2023,9 @@
         <entry>count</entry>
         <entry>url</entry>
         <entry encoding="base64">XDxsb2FkUHJvamVjdHNEYXRhXD4=</entry>
-        <entry>canCreate</entry>
         <entry>config</entry>
+        <entry>canCreate</entry>
+        <entry encoding="base64">XDxjaGVja0lmQ2FuQ3JlYXRlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>29</entry>
