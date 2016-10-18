@@ -50,6 +50,10 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("yt-event-escape")).withParent(xmlTag().withLocalName(string().equalTo("input")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>rg-button/@loader</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("loader")).withParent(xmlTag().withLocalName(string().equalTo("rg-button")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>rg-button/@on-select</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-select")).withParent(xmlTag().withLocalName(string().equalTo("rg-button")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
