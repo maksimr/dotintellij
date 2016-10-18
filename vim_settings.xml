@@ -870,6 +870,9 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/test/unit/test-bundle.webpack.js" timestamp="1474318498196">
         <mark key="'" line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/polling-processor.js" timestamp="1476807881661">
+        <mark key="'" line="15" column="90" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/user/service/get-current-user.js" timestamp="1472479972010">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="68" column="0" />
@@ -1141,6 +1144,9 @@
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/template/projects-create.html" timestamp="1476806947850">
         <mark key="'" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/serverside-events/service/yt-serverside-events.js" timestamp="1476808419943">
+        <mark key="'" line="107" column="35" />
       </file>
       <file name="$USER_HOME$/www/js/tt/lib/ls.js" timestamp="1474901126730">
         <mark key="'" line="16" column="5" />
@@ -1703,8 +1709,8 @@
         <mark key="." line="31" column="16" />
         <mark key="^" line="13" column="10" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/serverside-events/test/service/yt-serverside-events.js" timestamp="1476288100858">
-        <mark key="'" line="10" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/serverside-events/test/service/yt-serverside-events.js" timestamp="1476807706396">
+        <mark key="'" line="97" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-issue-creator.js" timestamp="1473681687813">
         <mark key="'" line="269" column="6" />
@@ -1873,6 +1879,9 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/issue-link-types/sidebar.html" timestamp="1475484203635">
         <mark key="'" line="54" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-live-updater.js" timestamp="1476807623655">
+        <mark key="'" line="554" column="2" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-backlog-issue.js" timestamp="1474876538127">
         <mark key="'" line="15" column="8" />
         <mark key="[" line="172" column="0" />
@@ -1958,39 +1967,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-create.js" />
-      <jump line="142" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-create.js" />
-      <jump line="146" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-create.js" />
-      <jump line="147" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-create.js" />
-      <jump line="2" column="62" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-create.js" />
-      <jump line="267" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-create.js" />
-      <jump line="3" column="45" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-create.js" />
-      <jump line="36" column="3" filename="$USER_HOME$/www/jetbrains/hub/client-side/app/blocks/app/app.js" />
-      <jump line="28" column="8" filename="$USER_HOME$/www/jetbrains/hub/client-side/app/blocks/app/app.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/hub/client-side/app/blocks/app/app.js" />
-      <jump line="263" column="0" filename="$USER_HOME$/www/jetbrains/hub/client-side/app/blocks/app/app.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/hub/client-side/project-wizard/blocks/youtrack-integration/youtrack-integration.js" />
-      <jump line="128" column="0" filename="$USER_HOME$/www/jetbrains/hub/client-side/project-wizard/blocks/youtrack-integration/youtrack-integration.js" />
-      <jump line="82" column="2" filename="$USER_HOME$/www/jetbrains/hub/client-side/project-wizard/blocks/youtrack-integration/youtrack-integration.js" />
-      <jump line="90" column="0" filename="$USER_HOME$/www/jetbrains/hub/client-side/project-wizard/blocks/youtrack-integration/youtrack-integration.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/www/jetbrains/hub/client-side/project-wizard/blocks/youtrack-integration/youtrack-integration.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/hub/client-side/project-wizard/blocks/youtrack-integration/youtrack-integration.js" />
-      <jump line="25" column="0" filename="$USER_HOME$/www/jetbrains/hub/client-side/project-wizard/blocks/youtrack-integration/youtrack-integration.spec.js" />
-      <jump line="57" column="0" filename="$USER_HOME$/www/jetbrains/hub/client-side/project-wizard/blocks/youtrack-integration/youtrack-integration.spec.js" />
-      <jump line="72" column="0" filename="$USER_HOME$/www/jetbrains/hub/client-side/project-wizard/blocks/youtrack-integration/youtrack-integration.spec.js" />
-      <jump line="103" column="8" filename="$USER_HOME$/www/jetbrains/hub/client-side/project-wizard/blocks/youtrack-integration/youtrack-integration.spec.js" />
-      <jump line="28" column="0" filename="$USER_HOME$/www/jetbrains/hub/client-side/project-wizard/blocks/youtrack-integration/youtrack-integration.spec.js" />
-      <jump line="130" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-create.js" />
-      <jump line="320" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-create.js" />
-      <jump line="49" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-create.js" />
-      <jump line="89" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
-      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/test/controller/projects-create.js" />
-      <jump line="197" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/test/controller/projects-create.js" />
-      <jump line="45" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/project-wizard/src/blocks/youtrack-integration/youtrack-integration.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/project-wizard/src/blocks/youtrack-integration/youtrack-integration.js" />
-      <jump line="131" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/project-wizard/src/blocks/youtrack-integration/youtrack-integration.js" />
-      <jump line="18" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/project-wizard/project-wizard.js" />
       <jump line="32" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/project-wizard/project-wizard.js" />
       <jump line="7" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/project-wizard/project-wizard.js" />
       <jump line="19" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/test/controller/projects-create.js" />
@@ -2058,6 +2034,39 @@
       <jump line="3" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/project-wizard/src/blocks/app/app__routes.js" />
       <jump line="25" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/projects.js" />
       <jump line="11" column="42" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/project-wizard/project-wizard.js" />
+      <jump line="37" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-live-updater.js" />
+      <jump line="554" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-live-updater.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/serverside-events/service/yt-serverside-events.js" />
+      <jump line="126" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/serverside-events/service/yt-serverside-events.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/serverside-events/test/service/yt-serverside-events.js" />
+      <jump line="89" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/serverside-events/test/service/yt-serverside-events.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/serverside-events/service/yt-serverside-events.js" />
+      <jump line="34" column="37" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/serverside-events/service/yt-serverside-events.js" />
+      <jump line="22" column="38" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/serverside-events/service/yt-serverside-events.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/serverside-events/service/yt-serverside-events.js" />
+      <jump line="123" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/serverside-events/service/yt-serverside-events.js" />
+      <jump line="117" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/serverside-events/service/yt-serverside-events.js" />
+      <jump line="111" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/serverside-events/service/yt-serverside-events.js" />
+      <jump line="97" column="32" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/serverside-events/service/yt-serverside-events.js" />
+      <jump line="91" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/serverside-events/service/yt-serverside-events.js" />
+      <jump line="85" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/serverside-events/service/yt-serverside-events.js" />
+      <jump line="80" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/serverside-events/service/yt-serverside-events.js" />
+      <jump line="64" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/serverside-events/service/yt-serverside-events.js" />
+      <jump line="43" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/serverside-events/service/yt-serverside-events.js" />
+      <jump line="37" column="27" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/serverside-events/service/yt-serverside-events.js" />
+      <jump line="19" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/serverside-events/test/service/yt-serverside-events.js" />
+      <jump line="97" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/serverside-events/test/service/yt-serverside-events.js" />
+      <jump line="19" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/serverside-events/service/yt-serverside-events.js" />
+      <jump line="93" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/serverside-events/service/yt-serverside-events.js" />
+      <jump line="9" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/polling-processor.js" />
+      <jump line="15" column="90" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/polling-processor.js" />
+      <jump line="128" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/serverside-events/service/yt-serverside-events.js" />
+      <jump line="13" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/serverside-events/service/yt-serverside-events.js" />
+      <jump line="122" column="35" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/serverside-events/service/yt-serverside-events.js" />
+      <jump line="47" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/serverside-events/service/yt-serverside-events.js" />
+      <jump line="44" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/serverside-events/service/yt-serverside-events.js" />
+      <jump line="48" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/serverside-events/service/yt-serverside-events.js" />
+      <jump line="107" column="35" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/serverside-events/service/yt-serverside-events.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2067,7 +2076,7 @@
         <text>projects</text>
       </register>
       <register name="/" type="4">
-        <text>LIST</text>
+        <text encoding="base64">XDx3YXRjaERvZ1RpbWVvdXRcPg==</text>
       </register>
       <register name="0" type="4">
         <text>projectList</text>
@@ -2107,24 +2116,16 @@
       </register>
     </registers>
     <search>
-      <last-search>LIST</last-search>
+      <last-search encoding="base64">XDx3YXRjaERvZ1RpbWVvdXRcPg==</last-search>
       <last-offset />
-      <last-pattern>LIST</last-pattern>
+      <last-pattern encoding="base64">XDx3YXRjaERvZ1RpbWVvdXRcPg==</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>2000</entry>
-        <entry>annot</entry>
-        <entry>canCreate</entry>
-        <entry>auth</entry>
-        <entry>server</entry>
-        <entry encoding="base64">XDxzZXJ2ZXJVcmlcPg==</entry>
-        <entry>serverUri</entry>
-        <entry>url</entry>
         <entry encoding="base64">XDx1cmxcPg==</entry>
         <entry>hub</entry>
         <entry>reso</entry>
@@ -2137,6 +2138,14 @@
         <entry>uti</entry>
         <entry>cancel</entry>
         <entry>LIST</entry>
+        <entry>watch</entry>
+        <entry>dog</entry>
+        <entry>EventSour</entry>
+        <entry encoding="base64">XDxfbmF0aXZlRXZlbnRTb3VyY2VcPg==</entry>
+        <entry encoding="base64">XDxzb3VyY2VcPg==</entry>
+        <entry encoding="base64">XDxzZXRVcFdhdGNoRG9nVGltZXJcPg==</entry>
+        <entry encoding="base64">XDxwcm9jZXNzUmVzcG9uc2VcPg==</entry>
+        <entry encoding="base64">XDx3YXRjaERvZ1RpbWVvdXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>29</entry>
