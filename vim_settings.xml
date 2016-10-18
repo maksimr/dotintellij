@@ -27,6 +27,16 @@
         <mark key="." line="5" column="39" />
         <mark key="^" line="5" column="39" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-info.js" timestamp="1476816992165">
+        <mark key="'" line="124" column="2" />
+        <mark key="[" line="5" column="59" />
+        <mark key="]" line="5" column="69" />
+        <mark key="." line="5" column="69" />
+        <mark key="^" line="5" column="69" />
+      </file>
+      <file name="/a.dummy" timestamp="1476816794096">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/node_modules/babel-preset-jetbrains/index.js" timestamp="1472646994071">
         <mark key="'" line="33" column="52" />
         <mark key="[" line="15" column="70" />
@@ -1213,6 +1223,9 @@
         <mark key="[" line="7" column="0" />
         <mark key="]" line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/template/projects-info.html" timestamp="1476816747457">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/www/js/tt/node_modules/nock/lib/scope.js" timestamp="1474319642132">
         <mark key="'" line="5" column="0" />
       </file>
@@ -1972,11 +1985,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/project-wizard/project-wizard.js" />
-      <jump line="19" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/test/controller/projects-create.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/test/controller/projects-create.js" />
-      <jump line="11" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/test/controller/projects-create.js" />
-      <jump line="18" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/test/controller/projects-create.js" />
       <jump line="15" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/test/controller/projects-create.js" />
       <jump line="27" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/auth.js" />
       <jump line="41" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/auth.js" />
@@ -2072,16 +2080,21 @@
       <jump line="48" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/serverside-events/service/yt-serverside-events.js" />
       <jump line="107" column="35" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/serverside-events/service/yt-serverside-events.js" />
       <jump line="7" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/.editorconfig" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/template/projects-info.html" />
+      <jump line="5" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-info.js" />
+      <jump line="54" column="53" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-info.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-info.js" />
+      <jump line="124" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-info.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">WypdCgo=</text>
+      <register name="&quot;" type="4">
+        <text>projects</text>
       </register>
       <register name="-" type="4">
         <text>projects</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3YXRjaERvZ1RpbWVvdXRcPg==</text>
+        <text encoding="base64">XDxwcm9qZWN0c0xpc3RVcmxcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">WypdCgo=</text>
@@ -2121,9 +2134,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx3YXRjaERvZ1RpbWVvdXRcPg==</last-search>
+      <last-search encoding="base64">XDxwcm9qZWN0c0xpc3RVcmxcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3YXRjaERvZ1RpbWVvdXRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwcm9qZWN0c0xpc3RVcmxcPg==</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>-1</last-dir>
@@ -2131,8 +2144,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1cmxcPg==</entry>
-        <entry>hub</entry>
         <entry>reso</entry>
         <entry>pwHubResource.create</entry>
         <entry>canCre</entry>
@@ -2151,6 +2162,8 @@
         <entry encoding="base64">XDxzZXRVcFdhdGNoRG9nVGltZXJcPg==</entry>
         <entry encoding="base64">XDxwcm9jZXNzUmVzcG9uc2VcPg==</entry>
         <entry encoding="base64">XDx3YXRjaERvZ1RpbWVvdXRcPg==</entry>
+        <entry>remove</entry>
+        <entry encoding="base64">XDxwcm9qZWN0c0xpc3RVcmxcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>29</entry>
