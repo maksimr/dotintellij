@@ -20,7 +20,7 @@
         <mark key="." line="5" column="69" />
         <mark key="^" line="5" column="69" />
       </file>
-      <file name="/a.dummy" timestamp="1477053805752">
+      <file name="/a.dummy" timestamp="1477056671200">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dashboard/dashboard.js" timestamp="1474989750521">
@@ -319,8 +319,10 @@
       <file name="$USER_HOME$/www/js/oauth-in-action-code/exercises/ch-3-ex-2/authorizationServer.js" timestamp="1475422031211">
         <mark key="'" line="136" column="8" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sidebar-table/directive/yt-sidebar-table.js" timestamp="1475495515729">
-        <mark key="'" line="43" column="63" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sidebar-table/directive/yt-sidebar-table.js" timestamp="1477057331404">
+        <mark key="'" line="2" column="31" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="46" column="21" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board-backlog.js" timestamp="1476111644163">
         <mark key="'" line="13" column="37" />
@@ -1906,7 +1908,7 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/gap-report-rest.js" timestamp="1476350115064">
         <mark key="'" line="113" column="14" />
       </file>
-      <file name="/Dummy.youtrack" timestamp="1477051522207">
+      <file name="/Dummy.youtrack" timestamp="1477056572344">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/project-wizard/package.json" timestamp="1476793457590">
@@ -2072,8 +2074,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/service/agile-board-live-updater.js" />
-      <jump line="68" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/serverside-events/test/service/yt-serverside-events.js" />
       <jump line="99" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/serverside-events/service/yt-serverside-events.js" />
       <jump line="13" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/serverside-events/service/create-event-source.js" />
       <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/serverside-events/test/service/create-event-source.js" />
@@ -2172,19 +2172,21 @@
       <jump line="4698" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/jquery/dist/jquery.js" />
       <jump line="959" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="2004" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="52" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sidebar-table/directive/yt-sidebar-table.js" />
+      <jump line="2" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sidebar-table/directive/yt-sidebar-table.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgIHZhciBnZXRTd2ltbGFuZUNvbHVtbldpZHRoID0gZnVuY3Rpb24oKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICogQHNlZSBKVC0zMTA0OAogICAgICAgICAgICAgICAgICAgKi8K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgICAg</text>
       </register>
       <register name="/" type="4">
-        <text>fix:</text>
+        <text>JT</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgICAgIHZhciBnZXRTd2ltbGFuZUNvbHVtbldpZHRoID0gZnVuY3Rpb24oKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICogQHNlZSBKVC0zMTA0OAogICAgICAgICAgICAgICAgICAgKi8K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2221,9 +2223,9 @@
       </register>
     </registers>
     <search>
-      <last-search>fix:</last-search>
+      <last-search>JT</last-search>
       <last-offset />
-      <last-pattern>fix:</last-pattern>
+      <last-pattern>JT</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2231,7 +2233,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxFdmVudFNvdXJjZU1vY2tcPg==</entry>
         <entry>ping</entry>
         <entry>message</entry>
         <entry>unsu</entry>
@@ -2251,6 +2252,7 @@
         <entry>fix</entry>
         <entry>dispatch:</entry>
         <entry>fix:</entry>
+        <entry>JT</entry>
       </history-search>
       <history-cmd>
         <entry>29</entry>
