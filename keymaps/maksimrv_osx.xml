@@ -12,6 +12,9 @@
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
     <keyboard-shortcut first-keystroke="alt semicolon" />
   </action>
+  <action id="ActivateYouTrackToolWindow">
+    <keyboard-shortcut first-keystroke="alt comma" second-keystroke="y" />
+  </action>
   <action id="ChangesView.Commit">
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="c" />
   </action>
