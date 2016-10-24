@@ -789,6 +789,9 @@
         <mark key="." line="59" column="17" />
         <mark key="^" line="59" column="17" />
       </file>
+      <file name="/fragment.js" timestamp="1477306127762">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-menu-create-button.js" timestamp="1476801791560">
         <mark key="[" line="1" column="51" />
         <mark key="]" line="1" column="50" />
@@ -1007,13 +1010,13 @@
         <mark key="." line="140" column="15" />
         <mark key="^" line="140" column="15" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/service/agile-board-live-updater.js" timestamp="1477303032737">
-        <mark key="b" line="238" column="0" />
-        <mark key="'" line="246" column="18" />
-        <mark key="[" line="529" column="76" />
-        <mark key="]" line="529" column="97" />
-        <mark key="." line="529" column="97" />
-        <mark key="^" line="529" column="97" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/service/agile-board-live-updater.js" timestamp="1477306825030">
+        <mark key="b" line="239" column="0" />
+        <mark key="'" line="13" column="6" />
+        <mark key="[" line="543" column="69" />
+        <mark key="]" line="543" column="68" />
+        <mark key="." line="543" column="68" />
+        <mark key="^" line="543" column="68" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/project-wizard/src/blocks/youtrack-integration/youtrack-integration.js" timestamp="1476797310328">
         <mark key="'" line="131" column="0" />
@@ -2045,12 +2048,13 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/issue-link-types/sidebar.html" timestamp="1475484203635">
         <mark key="'" line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-live-updater.js" timestamp="1477302834313">
-        <mark key="a" line="451" column="13" />
-        <mark key="'" line="451" column="50" />
-        <mark key="[" line="489" column="22" />
-        <mark key="]" line="489" column="36" />
-        <mark key="." line="490" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-live-updater.js" timestamp="1477306716666">
+        <mark key="a" line="515" column="15" />
+        <mark key="'" line="198" column="0" />
+        <mark key="[" line="198" column="0" />
+        <mark key="]" line="199" column="28" />
+        <mark key="." line="490" column="58" />
+        <mark key="^" line="490" column="58" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-backlog-issue.js" timestamp="1474876538127">
         <mark key="'" line="15" column="8" />
@@ -2105,11 +2109,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="13" filename="$USER_HOME$/www/js/oauth-server-mock/test/serverSpec.js" />
-      <jump line="41" column="0" filename="$USER_HOME$/www/js/oauth-server-mock/test/serverSpec.js" />
-      <jump line="32" column="8" filename="$USER_HOME$/www/js/oauth-server-mock/test/serverSpec.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/www/js/oauth-server-mock/.eslintrc" />
-      <jump line="23" column="25" filename="$USER_HOME$/www/js/oauth-server-mock/.eslintrc" />
       <jump line="21" column="5" filename="$USER_HOME$/www/js/oauth-server-mock/.eslintrc" />
       <jump line="20" column="5" filename="$USER_HOME$/www/js/oauth-server-mock/.eslintrc" />
       <jump line="80" column="0" filename="$USER_HOME$/www/js/oauth-server-mock/test/serverSpec.js" />
@@ -2205,22 +2204,27 @@
       <jump line="12" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/service/agile-board-live-updater.js" />
       <jump line="549" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/service/agile-board-live-updater.js" />
       <jump line="246" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/service/agile-board-live-updater.js" />
+      <jump line="512" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-live-updater.js" />
+      <jump line="504" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-live-updater.js" />
+      <jump line="556" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/service/agile-board-live-updater.js" />
+      <jump line="13" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/service/agile-board-live-updater.js" />
+      <jump line="198" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-live-updater.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fakeBacklogIssuesModel</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>fakeBacklogIssuesModel</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmYWtlQWdpbGVJZFw+</text>
+        <text encoding="base64">XDxmYWtlclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZmFrZVRyZWUgPSB7CiAgICAgICAgZ2V0Tm9kZTogamFzbWluZS5jcmVhdGVTcHkoJ2dldE5vZGUnKS5hbmQucmV0dXJuVmFsdWUoZmFrZU5vZGUpLAogICAgICAgIGFkZElzc3VlVG9UcmVlOiBqYXNtaW5lLmNyZWF0ZVNweSgnYWRkSXNzdWVUb1RyZWUnKS5hbmQucmV0dXJuVmFsdWUoZmFrZU5vZGUpLAogICAgICAgIGZldGNoTm9kZTogamFzbWluZS5jcmVhdGVTcHkoJ2ZldGNoTm9kZScpLAogICAgICAgIGZvckVhY2hOb2RlOiBqYXNtaW5lLmNyZWF0ZVNweSgnZm9yRWFjaE5vZGUnKQogICAgICB9OwoKICAgICAgZmFrZUJhY2tsb2dJc3N1ZXNNb2RlbCA9IHsKICAgICAgICBhZ2lsZUlkOiAnZmFrZUFnaWxlSWQnLAogICAgICAgIHRyZWU6IGZha2VUcmVlCiAgICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgdmFyIHBhcmVudCA9IGlzc3VlLnBhcmVudC5pc3N1ZXNbMF0gJiYgYmFja2xvZ0lzc3Vlc01vZGVsLnRyZWUuZ2V0Tm9kZShpc3N1ZS5wYXJlbnQuaXNzdWVzWzBdLmlkKTsKICAgICAgcmV0dXJuIHBhcmVudCB8fCBudWxsOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgcGEK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -2229,34 +2233,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzd2ltbGFuZTogc3dpbWxhbmUgfHwgYWdpbGVCb2FyZE1vZGVsTW9jay5nZXRGYWtlU3dpbWxhbmUoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBmYWtlVHJlZSA9IHsKICAgICAgZ2V0Tm9kZTogamFzbWluZS5jcmVhdGVTcHkoJ2dldE5vZGUnKS5hbmQucmV0dXJuVmFsdWUoZmFrZU5vZGUpLAogICAgICBhZGRJc3N1ZVRvVHJlZTogamFzbWluZS5jcmVhdGVTcHkoJ2FkZElzc3VlVG9UcmVlJykuYW5kLnJldHVyblZhbHVlKGZha2VOb2RlKSwKICAgICAgZmV0Y2hOb2RlOiBqYXNtaW5lLmNyZWF0ZVNweSgnZmV0Y2hOb2RlJyksCiAgICAgIGZvckVhY2hOb2RlOiBqYXNtaW5lLmNyZWF0ZVNweSgnZm9yRWFjaE5vZGUnKQogICAgfTsK</text>
+        <text encoding="base64">ICAgIHZhciBvblVwZGF0ZVNwcmludFN3aW1sYW5lOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc3B5T24oYWdpbGVCb2FyZExpdmVVcGRhdGVyLCAnX3VwZGF0ZVN3aW1sYW5lJyk7CgogICAgICBvblVwZGF0ZVNwcmludFN3aW1sYW5lKGNyZWF0ZVVwZGF0ZVNwcmludFN3aW1sYW5lRXZlbnQoKSk7CgogICAgICBleHBlY3QoYWdpbGVCb2FyZExpdmVVcGRhdGVyLl91cGRhdGVTd2ltbGFuZSkudG9IYXZlQmVlbkNhbGxlZCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZnVuY3Rpb24oZGF0YSkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgogICAgICBmdW5jdGlvbiBvbkFkZElzc3VlVG9CYWNrbG9nKCkgewogICAgICAgIHJldHVybiBmdW5jdGlvbihkYXRhKSB7CiAgICAgICAgICB2YXIgaXNzdWUgPSBkYXRhLmJhY2tsb2dJc3N1ZTsKICAgICAgICAgIHZhciBub2RlID0gYmFja2xvZ0lzc3Vlc01vZGVsLnRyZWUuZ2V0Tm9kZShpc3N1ZS5pZCk7CiAgICAgICAgICBpZiAobm9kZSkgewogICAgICAgICAgICByZXR1cm4gdXBkYXRlQmFja2xvZ05vZGVXaXRoQW5pbWF0aW9uKG5vZGUsIGRhdGEsIGJhY2tsb2dJc3N1ZXNNb2RlbCk7CiAgICAgICAgICB9CgogICAgICAgICAgdmFyIHBhcmVudE5vZGUgPSBnZXRJc3N1ZVBhcmVudE5vZGUoaXNzdWUsIGJhY2tsb2dJc3N1ZXNNb2RlbCk7CiAgICAgICAgICBub2RlID0gYmFja2xvZ0lzc3Vlc01vZGVsLnRyZWUuYWRkSXNzdWVUb1RyZWUoZGF0YS5iYWNrbG9nSXNzdWUsIHBhcmVudE5vZGUpOwogICAgICAgICAgbm9kZS5tYXRjaGVzID0gZGF0YS5tYXRjaGVzU2VhcmNoOwoKICAgICAgICAgIGlmIChzaG91bGREaXNwbGF5Tm9kZShub2RlLCBiYWNrbG9nSXNzdWVzTW9kZWwudHJlZSkpIHsKICAgICAgICAgICAgeXRBZ2lsZUFuaW1hdGlvbi5hbmltYXRlSXNzdWVNb3ZlKGlzc3VlLCBNT1ZFRF9CQUNLTE9HX0NBUkRfQU5JTUFUSU9OX0NMQVNTKTsKCiAgICAgICAgICAgIG5vZGUuc3RhdGUgPSBJc3N1ZVRyZWVNb2RlbFN0YXRlcy5MT0FESU5HOwogICAgICAgICAgICBiYWNrbG9nSXNzdWVzTW9kZWwudHJlZS5mZXRjaE5vZGUobm9kZSwgewogICAgICAgICAgICAgIGFnaWxlSWQ6IGJhY2tsb2dJc3N1ZXNNb2RlbC5hZ2lsZUlkLAogICAgICAgICAgICAgIGZpZWxkczogYmFja2xvZ0lzc3Vlc01vZGVsLmZpZWxkcwogICAgICAgICAgICB9KTsKICAgICAgICAgIH0KICAgICAgICB9OwogICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhciB5dEFnaWxlQW5pbWF0aW9uOwogICAgYmVmb3JlRWFjaChpbmplY3QoZnVuY3Rpb24oX3l0QWdpbGVBbmltYXRpb25fKSB7CiAgICAgIHl0QWdpbGVBbmltYXRpb24gPSBfeXRBZ2lsZUFuaW1hdGlvbl87CiAgICB9KSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CgogICAgaXQoJ3Nob3VsZCB1cGRhdGUgcG9zaXRpb24gYmVjYXVzZSBjYXJkIGNhbiB0dXJuIGludG8gc3dpbWxhbmUnLCBmdW5jdGlvbigpIHsKICAgICAgc3B5T24oYm9hcmRNb2RlbFVwZGF0ZXIsICdyZW1vdmVDYXJkRnJvbU9sZFBvc2l0aW9uJyk7CgogICAgICBvblVwZGF0ZVNwcmludFN3aW1sYW5lKGNyZWF0ZVVwZGF0ZVNwcmludFN3aW1sYW5lRXZlbnQoKSk7CgogICAgICBleHBlY3QoYm9hcmRNb2RlbFVwZGF0ZXIucmVtb3ZlQ2FyZEZyb21PbGRQb3NpdGlvbikudG9IYXZlQmVlbkNhbGxlZCgpOwogICAgfSk7CgoKICAgIGl0KCdzaG91bGQgYW5pbWF0ZSB1cGRhdGUnLCBmdW5jdGlvbigpIHsKICAgICAgc3B5T24oeXRBZ2lsZUFuaW1hdGlvbiwgJ2FuaW1hdGVJc3N1ZVVwZGF0ZScpOwoKICAgICAgb25VcGRhdGVTcHJpbnRTd2ltbGFuZShjcmVhdGVVcGRhdGVTcHJpbnRTd2ltbGFuZUV2ZW50KCkpOwoKICAgICAgZXhwZWN0KHl0QWdpbGVBbmltYXRpb24uYW5pbWF0ZUlzc3VlVXBkYXRlKS50b0hhdmVCZWVuQ2FsbGVkKCk7CiAgICB9KTsKCgogICAgaXQoJ3Nob3VsZCByZW1vdmUgc3dpbWxhbmUgc3VidGFzayBmcm9tIHRoZSBib2FyZCBpZiBzd2ltbGFuZSBpcyBub3Qgb24gdGhlIGJvYXJkLiBJdCBwcmV2ZW50IGR1cGxpY2F0aW9uIGlzc3VlcyBvbiB0aGUgYm9hcmQnLCBmdW5jdGlvbigpIHsKICAgICAgc3B5T24oYWdpbGVCb2FyZExpdmVVcGRhdGVyLCAnX3JlbW92ZUFsbFN3aW1sYW5lQ2FyZHNGcm9tQm9hcmQnKTsKCiAgICAgIG9uVXBkYXRlU3ByaW50U3dpbWxhbmUoY3JlYXRlVXBkYXRlU3ByaW50U3dpbWxhbmVFdmVudCgpKTsKCiAgICAgIGV4cGVjdChhZ2lsZUJvYXJkTGl2ZVVwZGF0ZXIuX3JlbW92ZUFsbFN3aW1sYW5lQ2FyZHNGcm9tQm9hcmQpLnRvSGF2ZUJlZW5DYWxsZWQoKTsKICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgZnVuY3Rpb24gb25BZGRJc3N1ZVRvQmFja2xvZygpIHsKICAgICAgICByZXR1cm4gZnVuY3Rpb24oZGF0YSkgewogICAgICAgICAgdmFyIGlzc3VlID0gZGF0YS5iYWNrbG9nSXNzdWU7CiAgICAgICAgICB2YXIgbm9kZSA9IGJhY2tsb2dJc3N1ZXNNb2RlbC50cmVlLmdldE5vZGUoaXNzdWUuaWQpOwogICAgICAgICAgaWYgKG5vZGUpIHsKICAgICAgICAgICAgcmV0dXJuIHVwZGF0ZUJhY2tsb2dOb2RlV2l0aEFuaW1hdGlvbihub2RlLCBkYXRhLCBiYWNrbG9nSXNzdWVzTW9kZWwpOwogICAgICAgICAgfQoKICAgICAgICAgIHZhciBwYXJlbnROb2RlID0gZ2V0SXNzdWVQYXJlbnROb2RlKGlzc3VlLCBiYWNrbG9nSXNzdWVzTW9kZWwpOwogICAgICAgICAgbm9kZSA9IGJhY2tsb2dJc3N1ZXNNb2RlbC50cmVlLmFkZElzc3VlVG9UcmVlKGRhdGEuYmFja2xvZ0lzc3VlLCBwYXJlbnROb2RlKTsKICAgICAgICAgIG5vZGUubWF0Y2hlcyA9IGRhdGEubWF0Y2hlc1NlYXJjaDsKCiAgICAgICAgICBpZiAoc2hvdWxkRGlzcGxheU5vZGUobm9kZSwgYmFja2xvZ0lzc3Vlc01vZGVsLnRyZWUpKSB7CiAgICAgICAgICAgIHl0QWdpbGVBbmltYXRpb24uYW5pbWF0ZUlzc3VlTW92ZShpc3N1ZSwgTU9WRURfQkFDS0xPR19DQVJEX0FOSU1BVElPTl9DTEFTUyk7CgogICAgICAgICAgICBub2RlLnN0YXRlID0gSXNzdWVUcmVlTW9kZWxTdGF0ZXMuTE9BRElORzsKICAgICAgICAgICAgYmFja2xvZ0lzc3Vlc01vZGVsLnRyZWUuZmV0Y2hOb2RlKG5vZGUsIHsKICAgICAgICAgICAgICBhZ2lsZUlkOiBiYWNrbG9nSXNzdWVzTW9kZWwuYWdpbGVJZCwKICAgICAgICAgICAgICBmaWVsZHM6IGJhY2tsb2dJc3N1ZXNNb2RlbC5maWVsZHMKICAgICAgICAgICAgfSk7CiAgICAgICAgICB9CiAgICAgICAgfTsKICAgICAgfQoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmYWtlQWdpbGVJZFw+</last-search>
+      <last-search encoding="base64">XDxmYWtlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmYWtlQWdpbGVJZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxmYWtlclw+</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>-1</last-dir>
@@ -2264,8 +2268,6 @@
     </search>
     <history>
       <history-search>
-        <entry>string</entry>
-        <entry>getReg</entry>
         <entry>getRequ</entry>
         <entry>createRe</entry>
         <entry encoding="base64">XDx1cGRhdGVCYWNrbG9nTm9kZVw+</entry>
@@ -2284,6 +2286,8 @@
         <entry encoding="base64">XDxmYWtlQmFja2xvZ0lzc3Vlc01vZGVsXD4=</entry>
         <entry>faker</entry>
         <entry encoding="base64">XDxmYWtlQWdpbGVJZFw+</entry>
+        <entry encoding="base64">XDxvbkFkZElzc3VlVG9CYWNrbG9nXD4=</entry>
+        <entry encoding="base64">XDxmYWtlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>29</entry>
