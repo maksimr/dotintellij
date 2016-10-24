@@ -713,8 +713,8 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="32" column="22" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/backlog-issues-tree-model.js" timestamp="1477311961604">
-        <mark key="'" line="114" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/backlog-issues-tree-model.js" timestamp="1477317310333">
+        <mark key="'" line="54" column="6" />
         <mark key="[" line="168" column="18" />
         <mark key="]" line="168" column="30" />
         <mark key="." line="168" column="30" />
@@ -1126,12 +1126,11 @@
         <mark key="^" line="168" column="1" />
         <mark key="." line="168" column="1" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/lazy-tree-model.js" timestamp="1477316029684">
-        <mark key="'" line="117" column="13" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="56" column="28" />
-        <mark key="." line="56" column="28" />
-        <mark key="^" line="56" column="28" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/lazy-tree-model.js" timestamp="1477317289981">
+        <mark key="'" line="116" column="13" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/babel-plugin-transform-es2015-block-scoping/package.json" timestamp="1472469956063">
         <mark key="'" line="36" column="18" />
@@ -2133,11 +2132,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="239" column="49" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-live-updater.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/service/agile-board-live-updater.js" />
-      <jump line="310" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/service/agile-board-live-updater.js" />
-      <jump line="303" column="77" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/service/agile-board-live-updater.js" />
-      <jump line="301" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/service/agile-board-live-updater.js" />
       <jump line="299" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/service/agile-board-live-updater.js" />
       <jump line="285" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/service/agile-board-live-updater.js" />
       <jump line="281" column="70" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/service/agile-board-live-updater.js" />
@@ -2233,46 +2227,51 @@
       <jump line="45" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/lazy-tree-model.js" />
       <jump line="201" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/lazy-tree-model.js" />
       <jump line="116" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/lazy-tree-model.js" />
+      <jump line="169" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/backlog-issues-tree-model.js" />
+      <jump line="181" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/backlog-issues-tree-model.js" />
+      <jump line="182" column="33" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/backlog-issues-tree-model.js" />
+      <jump line="52" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/backlog-issues-tree-model.js" />
+      <jump line="54" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/backlog-issues-tree-model.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRoaXMuY3JlZGVudGlhbHMgPSBvcHRpb25zLmNyZWRlbnRpYWxzIHx8ICdvbWl0JwogICAgdGhpcy5oZWFkZXJzID0gbmV3IEhlYWRlcnMob3B0aW9ucy5oZWFkZXJzKQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5wYXJlbnQpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>PARENT</text>
       </register>
       <register name="/" type="4">
-        <text>root</text>
+        <text>roots</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRoaXMuY3JlZGVudGlhbHMgPSBvcHRpb25zLmNyZWRlbnRpYWxzIHx8ICdvbWl0JwogICAgdGhpcy5oZWFkZXJzID0gbmV3IEhlYWRlcnMob3B0aW9ucy5oZWFkZXJzKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKG5vZGUuaWQpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5wYXJlbnQpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnUEFSRU5UJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKG5vZGUuaWQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnUk9PVFMnKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnUEFSRU5UJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnUk9PVFMnKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpbmRleCwgbm9kZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpbmRleCwgbm9kZSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGFyZ2V0Tm9kZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpbmRleCwgbm9kZSk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGFyZ2V0Tm9kZSk7Cg==</text>
@@ -2282,9 +2281,9 @@
       </register>
     </registers>
     <search>
-      <last-search>root</last-search>
+      <last-search>roots</last-search>
       <last-offset />
-      <last-pattern>root</last-pattern>
+      <last-pattern>roots</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2292,8 +2291,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxidWlsZFRoZVRyZWVcPg==</entry>
-        <entry>onHide</entry>
         <entry>hide</entry>
         <entry encoding="base64">XDxiYWNrbG9nTGlzdGVuZXJzXD4=</entry>
         <entry>createNode</entry>
@@ -2312,6 +2309,8 @@
         <entry encoding="base64">XDx2aXNpdFw+</entry>
         <entry>UNLOADED</entry>
         <entry>root</entry>
+        <entry>tree</entry>
+        <entry>roots</entry>
       </history-search>
       <history-cmd>
         <entry>29</entry>
