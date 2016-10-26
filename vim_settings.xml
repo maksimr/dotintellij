@@ -1308,12 +1308,12 @@
         <mark key="." line="55" column="63" />
         <mark key="^" line="55" column="63" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-column-settings-column-item.js" timestamp="1477486573206">
-        <mark key="'" line="39" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="31" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="38" column="1" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-column-settings-column-item.js" timestamp="1477486768232">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="44" column="68" />
+        <mark key="]" line="44" column="78" />
+        <mark key="." line="44" column="78" />
+        <mark key="^" line="44" column="78" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/javascript/nodejs/0.12.9/core-modules/events.js" timestamp="1476965716899">
         <mark key="'" line="4" column="0" />
@@ -2151,8 +2151,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/agile-resource.js" />
-      <jump line="40" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-board-settings.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
       <jump line="6" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-resource/angular-resource.js" />
       <jump line="7" column="41" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-resource/angular-resource.js" />
@@ -2251,49 +2249,51 @@
       <jump line="293" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/column-settings.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/column-settings.js" />
       <jump line="39" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-column-settings-column-item.js" />
+      <jump line="27" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-column-settings-column-item.js" />
+      <jump line="48" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-column-settings-column-item.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB2YXIgZmFrZXIgPSByZXF1aXJlKCdmYWtlcicpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>toBeDefined</text>
       </register>
       <register name="-" type="4">
-        <text>.name</text>
+        <text>toBeDefined</text>
       </register>
       <register name="/" type="4">
         <text>faker</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB2YXIgZmFrZXIgPSByZXF1aXJlKCdmYWtlcicpOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGV4cGVjdChkaXJlY3RpdmVTY29wZSkudG9CZURlZmluZWQoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB2YXIgZmFrZVNldHRpbmdzVXBkYXRlcjsK</text>
+        <text encoding="base64">ICAgIGMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZha2VTZXR0aW5nc1VwZGF0ZXIgPSB7fTsK</text>
+        <text encoding="base64">ICAgICAgICBpZDogZmFrZXIucmFuZG9tLnV1aWQoKSwKICAgICAgICBwcmVzZW50YXRpb246IGZha2VyLnJhbmRvbS53b3JkKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICRzY29wZS5zZXR0aW5nc1VwZGF0ZXIgPSBmYWtlU2V0dGluZ3NVcGRhdGVyOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICRzY29wZS5zZXR0aW5nc1VwZGF0ZXIgPSBmYWtlU2V0dGluZ3NVcGRhdGVyOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgc2NvcGU6IHt9LAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICB2YXIgZmFrZVNldHRpbmdzVXBkYXRlcjsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgcmVxdWlyZSgnLi4vLi4vYWdpbGUtYm9hcmQnKS5kaXJlY3RpdmUoJ3l0Q29sdW1uU2V0dGluZ3NDb2x1bW5JdGVtJywgZnVuY3Rpb24oKSB7CiAgICAKICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
