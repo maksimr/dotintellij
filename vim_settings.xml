@@ -1649,12 +1649,12 @@
       <file name="$USER_HOME$/www/js/yvm/lib/config.js" timestamp="1475080824929">
         <mark key="'" line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/www/js/oauth-server-mock/test/serverSpec.js" timestamp="1477910761982">
-        <mark key="'" line="216" column="2" />
-        <mark key="[" line="360" column="0" />
-        <mark key="]" line="362" column="47" />
-        <mark key="." line="362" column="47" />
-        <mark key="^" line="362" column="47" />
+      <file name="$USER_HOME$/www/js/oauth-server-mock/test/serverSpec.js" timestamp="1478018627782">
+        <mark key="'" line="210" column="10" />
+        <mark key="[" line="211" column="0" />
+        <mark key="]" line="211" column="0" />
+        <mark key="." line="211" column="0" />
+        <mark key="^" line="210" column="18" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/dashboard/dashboard.js" timestamp="1474546155372">
         <mark key="'" line="72" column="0" />
@@ -2157,12 +2157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="34" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-board-settings.js" />
-      <jump line="68" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/column-settings.html" />
-      <jump line="62" column="48" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/column-settings.html" />
-      <jump line="44" column="43" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/column-settings.html" />
-      <jump line="77" column="40" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/column-settings.html" />
-      <jump line="104" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/column-settings.html" />
       <jump line="2" column="0" filename="$USER_HOME$/www/js/falcon/extension/js/background.js" />
       <jump line="43" column="12" filename="$USER_HOME$/www/js/falcon/extension/js/background.js" />
       <jump line="40" column="0" filename="$USER_HOME$/www/js/falcon/extension/js/background.js" />
@@ -2257,19 +2251,25 @@
       <jump line="315" column="28" filename="$USER_HOME$/www/js/oauth-server-mock/test/serverSpec.js" />
       <jump line="348" column="39" filename="$USER_HOME$/www/js/oauth-server-mock/test/serverSpec.js" />
       <jump line="216" column="2" filename="$USER_HOME$/www/js/oauth-server-mock/test/serverSpec.js" />
+      <jump line="260" column="0" filename="$USER_HOME$/www/js/oauth-server-mock/test/serverSpec.js" />
+      <jump line="226" column="5" filename="$USER_HOME$/www/js/oauth-server-mock/test/serverSpec.js" />
+      <jump line="320" column="27" filename="$USER_HOME$/www/js/oauth-server-mock/test/serverSpec.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/js/oauth-server-mock/test/serverSpec.js" />
+      <jump line="412" column="0" filename="$USER_HOME$/www/js/oauth-server-mock/test/serverSpec.js" />
+      <jump line="210" column="10" filename="$USER_HOME$/www/js/oauth-server-mock/test/serverSpec.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>clientCredentials</text>
+        <text>client.client_id</text>
       </register>
       <register name="/" type="4">
-        <text>authori</text>
+        <text>code</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgc2VydmVyLmF1dGhvcml6YXRpb25Db2RlLmdlbmVyYXRlKCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2278,37 +2278,37 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdmFyIHJlZGlyZWN0VXJpOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdmFyIHJlZGlyZWN0VXJpID0gYXV0aG9yaXphdGlvbi5yZWRpcmVjdFVyaTsK</text>
+        <text encoding="base64">ICAgICAgc2VydmVyLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJz4+PicpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCc+Pj4nLCBpdGVtcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgc2VydmVyLmF1dGhvcml6YXRpb25Db2RlLmdlbmVyYXRlKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJz4+PicsIGl0ZW1zW2tleV0pOwo=</text>
+        <text encoding="base64">ICAgICAgc2VydmVyLmF1dGhvcml6YXRpb25Db2RlLnJlbW92ZSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCc+Pj4nLCBpdGVtcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxzcGFuIHl0LWxvYWRlcj0iaW5saW5lIgogICAgICAgICAgICAgICAgbmctaWY9ImNvbHVtblNldHRpbmdzQ3RybC5pc0xvYWRpbmcgJiYgY29sdW1uLmlkID09PSBjb2x1bW5TZXR0aW5nc0N0cmwucHJvY2Vzc2lnQ29sdW1uSWQiPjwvc3Bhbj4K</text>
+        <text encoding="base64">ICAgICAgdmFyIHJlZGlyZWN0VXJpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>authori</last-search>
+      <last-search>code</last-search>
       <last-offset />
-      <last-pattern>authori</last-pattern>
+      <last-pattern>code</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2316,8 +2316,6 @@
     </search>
     <history>
       <history-search>
-        <entry>addRemove</entry>
-        <entry encoding="base64">XDxMVF9PQkpcPg==</entry>
         <entry encoding="base64">XDxvYmplY3RcPg==</entry>
         <entry encoding="base64">XDxkaXNhYmxlSWZCbGFja2xpc3RlZFw+</entry>
         <entry>onChange</entry>
@@ -2336,6 +2334,8 @@
         <entry>redirect</entry>
         <entry>state</entry>
         <entry>authori</entry>
+        <entry>generate</entry>
+        <entry>code</entry>
       </history-search>
       <history-cmd>
         <entry>29</entry>
