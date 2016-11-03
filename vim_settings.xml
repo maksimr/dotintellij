@@ -1965,8 +1965,8 @@
       <file name="$USER_HOME$/www/js/falcon/extension/js/popup.js" timestamp="1477728751969">
         <mark key="'" line="14" column="24" />
       </file>
-      <file name="$USER_HOME$/www/js/infinite-scroller/scripts/infinite-scroll.js" timestamp="1478196297669">
-        <mark key="'" line="267" column="7" />
+      <file name="$USER_HOME$/www/js/infinite-scroller/scripts/infinite-scroll.js" timestamp="1478205733764">
+        <mark key="'" line="59" column="2" />
         <mark key="[" line="360" column="0" />
         <mark key="]" line="360" column="0" />
         <mark key="." line="360" column="0" />
@@ -2201,9 +2201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="6" filename="$USER_HOME$/www/js/ui-element-samples/infinite-scroller/scripts/infinite-scroll.js" />
-      <jump line="88" column="11" filename="$USER_HOME$/www/js/ui-element-samples/infinite-scroller/scripts/infinite-scroll.js" />
-      <jump line="193" column="4" filename="$USER_HOME$/www/js/ui-element-samples/infinite-scroller/index.html" />
       <jump line="195" column="17" filename="$USER_HOME$/www/js/ui-element-samples/infinite-scroller/index.html" />
       <jump line="190" column="22" filename="$USER_HOME$/www/js/ui-element-samples/infinite-scroller/index.html" />
       <jump line="130" column="0" filename="$USER_HOME$/www/js/ui-element-samples/infinite-scroller/index.html" />
@@ -2301,6 +2298,9 @@
       <jump line="26" column="4" filename="$USER_HOME$/www/js/infinite-scroller/scripts/infinite-scroll.js" />
       <jump line="272" column="0" filename="$USER_HOME$/www/js/infinite-scroller/scripts/infinite-scroll.js" />
       <jump line="267" column="7" filename="$USER_HOME$/www/js/infinite-scroller/scripts/infinite-scroll.js" />
+      <jump line="225" column="2" filename="$USER_HOME$/www/js/infinite-scroller/scripts/infinite-scroll.js" />
+      <jump line="262" column="52" filename="$USER_HOME$/www/js/infinite-scroller/scripts/infinite-scroll.js" />
+      <jump line="59" column="2" filename="$USER_HOME$/www/js/infinite-scroller/scripts/infinite-scroll.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2310,7 +2310,7 @@
         <text>this.lastAttachedItem_</text>
       </register>
       <register name="/" type="4">
-        <text>items</text>
+        <text>fetch</text>
       </register>
       <register name="0" type="4">
         <text>lastScreenItem.index + RUNWAY_ITEMS</text>
@@ -2350,9 +2350,9 @@
       </register>
     </registers>
     <search>
-      <last-search>items</last-search>
+      <last-search>fetch</last-search>
       <last-offset />
-      <last-pattern>items</last-pattern>
+      <last-pattern>fetch</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2360,8 +2360,6 @@
     </search>
     <history>
       <history-search>
-        <entry>chat-timeline</entry>
-        <entry>css</entry>
         <entry>perf</entry>
         <entry>opti</entry>
         <entry>js</entry>
@@ -2380,6 +2378,8 @@
         <entry>anchor</entry>
         <entry encoding="base64">XDxTQ1JPTExfUlVOV0FZXD4=</entry>
         <entry>items</entry>
+        <entry>render</entry>
+        <entry>fetch</entry>
       </history-search>
       <history-cmd>
         <entry>29</entry>
