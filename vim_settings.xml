@@ -1694,12 +1694,11 @@
       <file name="$USER_HOME$/www/js/yvm/lib/config.js" timestamp="1475080824929">
         <mark key="'" line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/www/js/oauth-server-mock/test/serverSpec.js" timestamp="1478251413470">
-        <mark key="'" line="346" column="0" />
-        <mark key="[" line="211" column="0" />
-        <mark key="]" line="211" column="0" />
-        <mark key="." line="211" column="0" />
-        <mark key="^" line="210" column="18" />
+      <file name="$USER_HOME$/www/js/oauth-server-mock/test/serverSpec.js" timestamp="1478251836517">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/dashboard/dashboard.js" timestamp="1474546155372">
         <mark key="'" line="72" column="0" />
@@ -2203,13 +2202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="2" filename="$USER_HOME$/www/js/ui-element-samples/infinite-scroller/index.html" />
-      <jump line="191" column="25" filename="$USER_HOME$/www/js/ui-element-samples/infinite-scroller/index.html" />
-      <jump line="120" column="0" filename="$USER_HOME$/www/js/ui-element-samples/infinite-scroller/index.html" />
-      <jump line="137" column="2" filename="$USER_HOME$/www/js/ui-element-samples/infinite-scroller/index.html" />
-      <jump line="180" column="14" filename="$USER_HOME$/www/js/ui-element-samples/infinite-scroller/index.html" />
-      <jump line="201" column="0" filename="$USER_HOME$/www/js/ui-element-samples/infinite-scroller/index.html" />
-      <jump line="2" column="0" filename="$USER_HOME$/www/js/ui-element-samples/infinite-scroller/index.html" />
       <jump line="243" column="2" filename="$USER_HOME$/www/js/ui-element-samples/infinite-scroller/scripts/infinite-scroll.js" />
       <jump line="396" column="0" filename="$USER_HOME$/www/js/ui-element-samples/infinite-scroller/scripts/infinite-scroll.js" />
       <jump line="10" column="0" filename="$USER_HOME$/www/js/ui-element-samples/infinite-scroller/scripts/infinite-scroll.js" />
@@ -2303,13 +2295,20 @@
       <jump line="19" column="0" filename="$USER_HOME$/www/js/oauth-server-mock/test/serverSpec.js" />
       <jump line="260" column="0" filename="$USER_HOME$/www/js/oauth-server-mock/test/serverSpec.js" />
       <jump line="346" column="0" filename="$USER_HOME$/www/js/oauth-server-mock/test/serverSpec.js" />
+      <jump line="42" column="12" filename="$USER_HOME$/www/js/oauth-server-mock/test/serverSpec.js" />
+      <jump line="20" column="12" filename="$USER_HOME$/www/js/oauth-server-mock/test/serverSpec.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/www/js/oauth-server-mock/test/serverSpec.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/www/js/oauth-server-mock/test/serverSpec.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/js/oauth-server-mock/test/serverSpec.js" />
+      <jump line="34" column="54" filename="$USER_HOME$/www/js/oauth-server-mock/test/serverSpec.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/www/js/oauth-server-mock/test/serverSpec.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKE9iamVjdC5rZXlzKFByb21pc2UpWzFdKTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="-" type="4">
-        <text>.forEach(function(foo) {</text>
+        <text>v</text>
       </register>
       <register name="/" type="4">
         <text>token:</text>
@@ -2318,38 +2317,38 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKE9iamVjdC5rZXlzKFByb21pc2UpWzFdKTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">dmFyIG1lcmdlID0gcmVxdWlyZSgnbW91dC9vYmplY3QvbWVyZ2UnKTsKdmFyIHVybCA9IHJlcXVpcmUoJ3VybCcpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZm9vKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKE9iamVjdC5rZXlzKFByb21pc2UpWzFdKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBleHBlY3QoUHJvbWlzZXByb3RvdHlwZSkudG9FcXVhbCh7fSk7Cg==</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZm9vKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text>new Promise(function() {
-    })</text>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgICBleHBlY3QoUHJvbWlzZXByb3RvdHlwZSkudG9FcXVhbCh7fSk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKFByb21pc2UpOwo=</text>
+      <register name="8" type="4">
+        <text>new Promise(function() {
+    })</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action AceJumpAction</text>
       </register>
     </registers>
     <search>
@@ -2385,7 +2384,6 @@
         <entry>token:</entry>
       </history-search>
       <history-cmd>
-        <entry>29</entry>
         <entry>126</entry>
         <entry>%s/Should/should/gc</entry>
         <entry>%s/assignees/assignee/gc</entry>
@@ -2405,6 +2403,7 @@
         <entry>222</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>action AceJumpAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
