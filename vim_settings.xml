@@ -253,8 +253,8 @@
         <mark key="]" line="14" column="6" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/www/js/infinite-scroller/test/infinite-scrollSpec.js" timestamp="1478206796930">
-        <mark key="'" line="31" column="22" />
+      <file name="$USER_HOME$/www/js/infinite-scroller/test/infinite-scrollSpec.js" timestamp="1478250867978">
+        <mark key="'" line="104" column="0" />
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
@@ -1326,6 +1326,9 @@
         <mark key="." line="8" column="6" />
         <mark key="^" line="8" column="6" />
       </file>
+      <file name="/HTML File.txt.ft" timestamp="1478251279180">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/www/js/tt/lib/cli.js" timestamp="1474912098159">
         <mark key="'" line="59" column="63" />
         <mark key="[" line="55" column="57" />
@@ -1691,8 +1694,8 @@
       <file name="$USER_HOME$/www/js/yvm/lib/config.js" timestamp="1475080824929">
         <mark key="'" line="16" column="9" />
       </file>
-      <file name="$USER_HOME$/www/js/oauth-server-mock/test/serverSpec.js" timestamp="1478109497515">
-        <mark key="'" line="6" column="0" />
+      <file name="$USER_HOME$/www/js/oauth-server-mock/test/serverSpec.js" timestamp="1478251413470">
+        <mark key="'" line="346" column="0" />
         <mark key="[" line="211" column="0" />
         <mark key="]" line="211" column="0" />
         <mark key="." line="211" column="0" />
@@ -2200,13 +2203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
-      <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
-      <jump line="26" column="21" filename="$USER_HOME$/www/js/ui-element-samples/infinite-scroller/scripts/infinite-scroll.js" />
-      <jump line="389" column="0" filename="$USER_HOME$/www/js/ui-element-samples/infinite-scroller/scripts/infinite-scroll.js" />
-      <jump line="132" column="4" filename="$USER_HOME$/www/js/ui-element-samples/infinite-scroller/index.html" />
-      <jump line="48" column="5" filename="$USER_HOME$/www/js/ui-element-samples/infinite-scroller/index.html" />
-      <jump line="231" column="0" filename="$USER_HOME$/www/js/ui-element-samples/infinite-scroller/scripts/infinite-scroll.js" />
       <jump line="142" column="2" filename="$USER_HOME$/www/js/ui-element-samples/infinite-scroller/index.html" />
       <jump line="191" column="25" filename="$USER_HOME$/www/js/ui-element-samples/infinite-scroller/index.html" />
       <jump line="120" column="0" filename="$USER_HOME$/www/js/ui-element-samples/infinite-scroller/index.html" />
@@ -2244,7 +2240,6 @@
       <jump line="74" column="0" filename="$USER_HOME$/www/js/infinite-scroller/test/infinite-scrollSpec.js" />
       <jump line="1" column="0" filename="$USER_HOME$/www/js/infinite-scroller/test/infinite-scrollSpec.js" />
       <jump line="17" column="0" filename="$USER_HOME$/www/js/infinite-scroller/test/infinite-scrollSpec.js" />
-      <jump line="12" column="0" filename="$USER_HOME$/www/js/infinite-scroller/test/infinite-scrollSpec.js" />
       <jump line="73" column="0" filename="$USER_HOME$/www/js/infinite-scroller/test/infinite-scrollSpec.js" />
       <jump line="228" column="6" filename="$USER_HOME$/www/js/infinite-scroller/scripts/infinite-scroll.js" />
       <jump line="236" column="0" filename="$USER_HOME$/www/js/infinite-scroller/scripts/infinite-scroll.js" />
@@ -2300,6 +2295,14 @@
       <jump line="43" column="2" filename="$USER_HOME$/www/js/infinite-scroller/scripts/infinite-scroll.js" />
       <jump line="54" column="74" filename="$USER_HOME$/www/js/infinite-scroller/scripts/infinite-scroll.js" />
       <jump line="363" column="17" filename="$USER_HOME$/www/js/infinite-scroller/scripts/infinite-scroll.js" />
+      <jump line="46" column="0" filename="$USER_HOME$/www/js/infinite-scroller/test/infinite-scrollSpec.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/www/js/infinite-scroller/test/infinite-scrollSpec.js" />
+      <jump line="104" column="0" filename="$USER_HOME$/www/js/infinite-scroller/test/infinite-scrollSpec.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/js/oauth-server-mock/test/serverSpec.js" />
+      <jump line="411" column="0" filename="$USER_HOME$/www/js/oauth-server-mock/test/serverSpec.js" />
+      <jump line="19" column="0" filename="$USER_HOME$/www/js/oauth-server-mock/test/serverSpec.js" />
+      <jump line="260" column="0" filename="$USER_HOME$/www/js/oauth-server-mock/test/serverSpec.js" />
+      <jump line="346" column="0" filename="$USER_HOME$/www/js/oauth-server-mock/test/serverSpec.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2309,7 +2312,7 @@
         <text>.forEach(function(foo) {</text>
       </register>
       <register name="/" type="4">
-        <text>fetch</text>
+        <text>token:</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Cg==</text>
@@ -2350,9 +2353,9 @@
       </register>
     </registers>
     <search>
-      <last-search>fetch</last-search>
+      <last-search>token:</last-search>
       <last-offset />
-      <last-pattern>fetch</last-pattern>
+      <last-pattern>token:</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2360,7 +2363,6 @@
     </search>
     <history>
       <history-search>
-        <entry>infi</entry>
         <entry>Source</entry>
         <entry encoding="base64">XDx0b21ic3RvbmVfXD4=</entry>
         <entry>index.html</entry>
@@ -2380,6 +2382,7 @@
         <entry>resolve</entry>
         <entry>Promise</entry>
         <entry>fetch</entry>
+        <entry>token:</entry>
       </history-search>
       <history-cmd>
         <entry>29</entry>
