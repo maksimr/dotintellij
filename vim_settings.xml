@@ -985,11 +985,12 @@
         <mark key="." line="46" column="0" />
         <mark key="^" line="51" column="27" />
       </file>
-      <file name="$USER_HOME$/www/js/karma-mocha/lib/index.js" timestamp="1478367526672">
-        <mark key="'" line="13" column="29" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/www/js/karma-mocha/lib/index.js" timestamp="1478368229405">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="38" column="1" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/create-search-query-model.js" timestamp="1476289562807">
         <mark key="'" line="15" column="25" />
@@ -2063,12 +2064,12 @@
       <file name="$USER_HOME$/www/js/karma-mocha/lib/adapter.js" timestamp="1478353856031">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/js/karma-mocha/test/lib/index.spec.js" timestamp="1478365637387">
-        <mark key="'" line="42" column="0" />
-        <mark key="[" line="54" column="39" />
-        <mark key="]" line="54" column="43" />
-        <mark key="." line="54" column="43" />
-        <mark key="^" line="54" column="43" />
+      <file name="$USER_HOME$/www/js/karma-mocha/test/lib/index.spec.js" timestamp="1478368666644">
+        <mark key="'" line="26" column="4" />
+        <mark key="[" line="46" column="24" />
+        <mark key="]" line="46" column="27" />
+        <mark key="." line="46" column="27" />
+        <mark key="^" line="46" column="27" />
       </file>
       <file name="$USER_HOME$/www/js/specht/src/readdirSpec.js" timestamp="1472219479679">
         <mark key="'" line="18" column="0" />
@@ -2282,12 +2283,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="0" filename="$USER_HOME$/www/js/karma-mocha/test/lib/index.spec.js" />
-      <jump line="17" column="0" filename="$USER_HOME$/www/js/karma-mocha/.travis.yml" />
-      <jump line="10" column="0" filename="$USER_HOME$/www/js/karma-mocha/test/lib/index.spec.js" />
-      <jump line="11" column="0" filename="$USER_HOME$/www/js/karma-mocha/test/lib/index.spec.js" />
-      <jump line="17" column="0" filename="$USER_HOME$/www/js/karma-mocha/test/lib/index.spec.js" />
-      <jump line="41" column="0" filename="$USER_HOME$/www/js/karma-mocha/test/lib/index.spec.js" />
       <jump line="38" column="0" filename="$USER_HOME$/www/js/karma-mocha/test/lib/index.spec.js" />
       <jump line="12" column="3" filename="$USER_HOME$/www/js/karma-mocha/test/lib/index.spec.js" />
       <jump line="47" column="0" filename="$USER_HOME$/www/js/karma-mocha/test/lib/index.spec.js" />
@@ -2339,7 +2334,6 @@
       <jump line="29" column="0" filename="$USER_HOME$/www/js/karma-mocha/node_modules/mocha/bin/mocha" />
       <jump line="2" column="0" filename="$USER_HOME$/www/js/karma-mocha/node_modules/mocha/bin/_mocha" />
       <jump line="540" column="0" filename="$USER_HOME$/www/js/karma-mocha/node_modules/mocha/bin/_mocha" />
-      <jump line="38" column="0" filename="$USER_HOME$/www/js/karma-mocha/lib/index.js" />
       <jump line="398" column="4" filename="$USER_HOME$/www/js/karma-mocha/node_modules/mocha/bin/_mocha" />
       <jump line="68" column="17" filename="$USER_HOME$/www/js/karma-mocha/node_modules/mocha/bin/_mocha" />
       <jump line="542" column="0" filename="$USER_HOME$/www/js/karma-mocha/node_modules/mocha/bin/_mocha" />
@@ -2382,22 +2376,29 @@
       <jump line="0" column="0" filename="$USER_HOME$/www/js/karma-mocha/node_modules/mocha/bin/_mocha" />
       <jump line="457" column="21" filename="$USER_HOME$/www/js/karma-mocha/node_modules/mocha/bin/_mocha" />
       <jump line="13" column="29" filename="$USER_HOME$/www/js/karma-mocha/lib/index.js" />
+      <jump line="38" column="0" filename="$USER_HOME$/www/js/karma-mocha/lib/index.js" />
+      <jump line="54" column="0" filename="$USER_HOME$/www/js/karma-mocha/lib/index.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/www/js/karma-mocha/lib/index.js" />
+      <jump line="32" column="4" filename="$USER_HOME$/www/js/karma-mocha/test/lib/index.spec.js" />
+      <jump line="34" column="51" filename="$USER_HOME$/www/js/karma-mocha/test/lib/index.spec.js" />
+      <jump line="70" column="0" filename="$USER_HOME$/www/js/karma-mocha/test/lib/index.spec.js" />
+      <jump line="26" column="4" filename="$USER_HOME$/www/js/karma-mocha/test/lib/index.spec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dmFyIG1pbmltaXN0ID0gcmVxdWlyZSgnbWluaW1pc3QnKQo=</text>
+      <register name="&quot;" type="4">
+        <text>equal</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAg</text>
+        <text>equal</text>
       </register>
       <register name="/" type="4">
-        <text>array</text>
+        <text>config</text>
       </register>
-      <register name="0" type="4">
-        <text>!opts.hasOwnProperty(optName)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgZXhwZWN0KGNvbmZpZy5jbGllbnQubW9jaGEucmVxdWlyZSkudG8uY29udGFpbnMoJ3Nob3VsZCcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">dmFyIG1pbmltaXN0ID0gcmVxdWlyZSgnbWluaW1pc3QnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICctLWdsb2JhbHMgZm9vLGJhcicsCiAgICAgICAgICAnLS1nbG9iYWxzIHpvbycsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -2406,34 +2407,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjb25maWcuY2xpZW50Lm1vY2hhKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KGNvbmZpZy5jbGllbnQubW9jaGEucmVxdWlyZSkudG8uYmUuZXF1YWwoWydzaG91bGQnXSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmICghb3B0cy5oYXNPd25Qcm9wZXJ0eShvcHROYW1lKSkgewo=</text>
+        <text encoding="base64">ICAgICAgdmFyIG1vY2hhQ29uZmlnID0ge30K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3B0c1tvcHROYW1lXSA9IHRydWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9wdHNbb3B0TmFtZV0gPSBvcHRzW29wdE5hbWVdIHx8IHRydWUK</text>
+        <text encoding="base64">ICBtb2NoYUNvbmZpZyA9IGV4dGVuZChsb2FkTW9jaGFPcHRzKCksIG1vY2hhQ29uZmlnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9wdHMuCg==</text>
+        <text encoding="base64">ICAgICAgaW5pdE1vY2hhKGZpbGVzLCBtb2NoYUNvbmZpZykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>array</last-search>
+      <last-search>config</last-search>
       <last-offset />
-      <last-pattern>array</last-pattern>
+      <last-pattern>config</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2441,7 +2442,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbml0TW9jaGFcPg==</entry>
         <entry>exect</entry>
         <entry>expect</entry>
         <entry>chai</entry>
@@ -2461,6 +2461,7 @@
         <entry>require</entry>
         <entry encoding="base64">XDxwcm9ncmFtXD4=</entry>
         <entry>array</entry>
+        <entry>config</entry>
       </history-search>
       <history-cmd>
         <entry>126</entry>
