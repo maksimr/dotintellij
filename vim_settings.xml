@@ -64,8 +64,8 @@
         <mark key="^" line="89" column="29" />
         <mark key="." line="89" column="29" />
       </file>
-      <file name="$USER_HOME$/www/js/karma-mocha/gruntfile.js" timestamp="1478537999773">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/www/js/karma-mocha/gruntfile.js" timestamp="1478542600818">
+        <mark key="'" line="38" column="4" />
         <mark key="[" line="64" column="7" />
         <mark key="]" line="64" column="27" />
         <mark key="." line="64" column="27" />
@@ -2301,8 +2301,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="299" column="25" filename="$USER_HOME$/www/js/foo/client.js" />
-      <jump line="279" column="21" filename="$USER_HOME$/www/js/foo/client.js" />
       <jump line="258" column="9" filename="$USER_HOME$/www/js/foo/client.js" />
       <jump line="143" column="27" filename="$USER_HOME$/www/js/foo/client.js" />
       <jump line="205" column="42" filename="$USER_HOME$/www/js/foo/client.js" />
@@ -2401,6 +2399,8 @@
       <jump line="47" column="0" filename="$USER_HOME$/www/js/karma-mocha/gruntfile.js" />
       <jump line="57" column="3" filename="$USER_HOME$/www/js/karma-mocha/gruntfile.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/js/karma-mocha/gruntfile.js" />
+      <jump line="64" column="7" filename="$USER_HOME$/www/js/karma-mocha/gruntfile.js" />
+      <jump line="38" column="4" filename="$USER_HOME$/www/js/karma-mocha/gruntfile.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2410,7 +2410,7 @@
         <text>npm-contributors</text>
       </register>
       <register name="/" type="4">
-        <text>render</text>
+        <text encoding="base64">XDxjb252ZW50aW9uYWxDaGFuZ2Vsb2dcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgJ25wbS1jb250cmlidXRvcnMnLAo=</text>
@@ -2450,17 +2450,16 @@
       </register>
     </registers>
     <search>
-      <last-search>render</last-search>
+      <last-search encoding="base64">XDxjb252ZW50aW9uYWxDaGFuZ2Vsb2dcPg==</last-search>
       <last-offset />
-      <last-pattern>render</last-pattern>
+      <last-pattern encoding="base64">XDxjb252ZW50aW9uYWxDaGFuZ2Vsb2dcPg==</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>setup</entry>
         <entry>report</entry>
         <entry encoding="base64">XDx1cmxcPg==</entry>
         <entry>state</entry>
@@ -2480,6 +2479,7 @@
         <entry>title</entry>
         <entry>tit</entry>
         <entry>render</entry>
+        <entry encoding="base64">XDxjb252ZW50aW9uYWxDaGFuZ2Vsb2dcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>126</entry>
