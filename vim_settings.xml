@@ -213,9 +213,9 @@
       <file name="chrome-extension://bgnkhhnnamicmpeenaelnjfhikgbkllg/lib/libs/extended-css.js" timestamp="1478111677242">
         <mark key="'" line="2995" column="0" />
       </file>
-      <file name="$USER_HOME$/www/js/karma-mocha/src/adapter.js" timestamp="1478561819111">
+      <file name="$USER_HOME$/www/js/karma-mocha/src/adapter.js" timestamp="1478591468742">
         <mark key="c" line="239" column="0" />
-        <mark key="'" line="57" column="23" />
+        <mark key="'" line="141" column="10" />
         <mark key="[" line="147" column="0" />
         <mark key="]" line="147" column="0" />
         <mark key="." line="147" column="0" />
@@ -2303,11 +2303,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="937" column="32" filename="$USER_HOME$/www/js/karma-mocha/node_modules/mocha/lib/runner.js" />
-      <jump line="942" column="12" filename="$USER_HOME$/www/js/karma-mocha/node_modules/mocha/lib/runner.js" />
-      <jump line="23" column="18" filename="$USER_HOME$/www/js/karma-mocha/node_modules/mocha/lib/runner.js" />
-      <jump line="26" column="4" filename="$USER_HOME$/www/js/karma-mocha/node_modules/mocha/lib/runner.js" />
-      <jump line="67" column="8" filename="$USER_HOME$/www/js/karma-mocha/node_modules/mocha/lib/runner.js" />
       <jump line="82" column="20" filename="$USER_HOME$/www/js/karma-mocha/node_modules/mocha/lib/runner.js" />
       <jump line="91" column="21" filename="$USER_HOME$/www/js/karma-mocha/node_modules/mocha/lib/runner.js" />
       <jump line="146" column="20" filename="$USER_HOME$/www/js/karma-mocha/node_modules/mocha/lib/runner.js" />
@@ -2403,6 +2398,11 @@
       <jump line="578" column="0" filename="$USER_HOME$/www/js/karma-mocha/test/src/adapter.spec.js" />
       <jump line="19" column="0" filename="$USER_HOME$/www/js/karma-mocha/test/src/adapter.spec.js" />
       <jump line="10" column="21" filename="$USER_HOME$/www/js/karma-mocha/test/src/adapter.spec.js" />
+      <jump line="91" column="0" filename="$USER_HOME$/www/js/karma-mocha/src/adapter.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/js/karma-mocha/src/adapter.js" />
+      <jump line="244" column="0" filename="$USER_HOME$/www/js/karma-mocha/src/adapter.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/www/js/karma-mocha/src/adapter.js" />
+      <jump line="141" column="10" filename="$USER_HOME$/www/js/karma-mocha/src/adapter.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2412,7 +2412,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>window</text>
+        <text>skippe</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dmFyIG9yZ01vY2hhUnVuID0gbW9jaGEucnVuCgo=</text>
@@ -2452,9 +2452,9 @@
       </register>
     </registers>
     <search>
-      <last-search>window</last-search>
+      <last-search>skippe</last-search>
       <last-offset />
-      <last-pattern>window</last-pattern>
+      <last-pattern>skippe</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2462,7 +2462,6 @@
     </search>
     <history>
       <history-search>
-        <entry>port</entry>
         <entry>title</entry>
         <entry>tit</entry>
         <entry>render</entry>
@@ -2482,6 +2481,7 @@
         <entry>run</entry>
         <entry>global</entry>
         <entry>window</entry>
+        <entry>skippe</entry>
       </history-search>
       <history-cmd>
         <entry>126</entry>
