@@ -64,12 +64,11 @@
         <mark key="^" line="89" column="29" />
         <mark key="." line="89" column="29" />
       </file>
-      <file name="$USER_HOME$/www/js/karma-mocha/gruntfile.js" timestamp="1478598104340">
-        <mark key="'" line="66" column="11" />
-        <mark key="[" line="64" column="7" />
-        <mark key="]" line="64" column="27" />
-        <mark key="." line="64" column="27" />
-        <mark key="^" line="64" column="27" />
+      <file name="$USER_HOME$/www/js/karma-mocha/gruntfile.js" timestamp="1478610336176">
+        <mark key="'" line="65" column="77" />
+        <mark key="[" line="38" column="4" />
+        <mark key="]" line="38" column="24" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/ring/style/ring.scss" timestamp="1473176097435">
         <mark key="'" line="7" column="0" />
@@ -2303,9 +2302,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="19" filename="$USER_HOME$/www/js/karma-mocha/node_modules/mocha/lib/runner.js" />
-      <jump line="155" column="22" filename="$USER_HOME$/www/js/karma-mocha/node_modules/mocha/lib/runner.js" />
-      <jump line="156" column="24" filename="$USER_HOME$/www/js/karma-mocha/node_modules/mocha/lib/runner.js" />
       <jump line="159" column="15" filename="$USER_HOME$/www/js/karma-mocha/node_modules/mocha/lib/runner.js" />
       <jump line="166" column="28" filename="$USER_HOME$/www/js/karma-mocha/node_modules/mocha/lib/runner.js" />
       <jump line="47" column="1" filename="$USER_HOME$/www/js/karma-mocha/node_modules/mocha/lib/runner.js" />
@@ -2402,59 +2398,62 @@
       <jump line="21" column="0" filename="$USER_HOME$/www/js/karma-mocha/src/adapter.js" />
       <jump line="56" column="15" filename="$USER_HOME$/www/js/karma-mocha/gruntfile.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/js/karma-mocha/gruntfile.js" />
-      <jump line="66" column="11" filename="$USER_HOME$/www/js/karma-mocha/gruntfile.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/www/js/karma-mocha/gruntfile.js" />
+      <jump line="62" column="10" filename="$USER_HOME$/www/js/karma-mocha/gruntfile.js" />
+      <jump line="66" column="17" filename="$USER_HOME$/www/js/karma-mocha/gruntfile.js" />
+      <jump line="61" column="77" filename="$USER_HOME$/www/js/karma-mocha/gruntfile.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">dmFyIG9yZ01vY2hhUnVuID0gbW9jaGEucnVuCgo=</text>
+      <register name="&quot;" type="4">
+        <text>conventionalChangelog</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>skippe</text>
+        <text>type</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">dmFyIG9yZ01vY2hhUnVuID0gbW9jaGEucnVuCgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc+Pj4nKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb21taXRNZXNzYWdlOiAnY2hvcmU6IHJlbGVhc2UgdiVWRVJTSU9OJScsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnPj4+Pjw8PCcsIHJ1bm5lcikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJz4+Pj48PDwnKQo=</text>
+        <text encoding="base64">ICAgICAgJ25wbS1jb250cmlidXRvcnMnLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dmFyIG9yZ01vY2hhUnVuID0gbW9jaGEucnVuCgpjb25zb2xlLmxvZygnPj4+Pjw8PCcpCm1vY2hhLnJ1biA9IGZ1bmN0aW9uIChmbikgewogIHZhciBydW5uZXIgPSBvcmdNb2NoYVJ1bihmbikKCiAgcnVubmVyLm9uKCdzdWl0ZSBlbmQnLCBmdW5jdGlvbiAoc3VpdGUpIHsKICAgIGRlbGV0ZSBzdWl0ZS50ZXN0cwogICAgZGVsZXRlIHN1aXRlLl9iZWZvcmVBbGwKICAgIGRlbGV0ZSBzdWl0ZS5fYmVmb3JlRWFjaAogICAgZGVsZXRlIHN1aXRlLl9hZnRlckVhY2gKICAgIGRlbGV0ZSBzdWl0ZS5jdHgKICAgIGRlbGV0ZSBzdWl0ZS5fYWZ0ZXJBbGwKICB9KQp9Cg==</text>
+        <text encoding="base64">ICAgICAgJ2J1aWxkJywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnPj4+Pjw8PCcpCg==</text>
+        <text encoding="base64">ICAgICAgJ2J1bXA6JyArICh0eXBlIHx8ICdwYXRjaCcpICsgJzpidW1wLW9ubHknLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJz4+Pj4nKQo=</text>
+        <text encoding="base64">ICAgICAgJ25wbS1wdWJsaXNoJywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc+Pj4+JykK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc+Pj4nKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwZW5kaW5nOiBza2lwcGVkLAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnPj4+Pjw8PCcsIHJ1bm5lcikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QodGMucmVzdWx0LnBlbmRpbmcpLnRvLmVxKHRydWUpCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJz4+Pj48PDwnKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>skippe</last-search>
+      <last-search>type</last-search>
       <last-offset />
-      <last-pattern>skippe</last-pattern>
+      <last-pattern>type</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2462,8 +2461,6 @@
     </search>
     <history>
       <history-search>
-        <entry>title</entry>
-        <entry>tit</entry>
         <entry>render</entry>
         <entry encoding="base64">XDxjb252ZW50aW9uYWxDaGFuZ2Vsb2dcPg==</entry>
         <entry>run =</entry>
@@ -2482,6 +2479,8 @@
         <entry>global</entry>
         <entry>window</entry>
         <entry>skippe</entry>
+        <entry>chan</entry>
+        <entry>type</entry>
       </history-search>
       <history-cmd>
         <entry>126</entry>
