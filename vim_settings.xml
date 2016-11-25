@@ -1036,6 +1036,9 @@
         <mark key="." line="31" column="16" />
         <mark key="^" line="13" column="10" />
       </file>
+      <file name="$USER_HOME$/www/js/karma/lib/launcher.js" timestamp="1480096267434">
+        <mark key="'" line="199" column="13" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-issue-creator.js" timestamp="1473681687813">
         <mark key="'" line="269" column="6" />
         <mark key="[" line="2" column="0" />
@@ -1329,8 +1332,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-board.html" timestamp="1477053669180">
         <mark key="'" line="23" column="5" />
       </file>
-      <file name="$USER_HOME$/www/js/karma/lib/server.js" timestamp="1480096123421">
-        <mark key="'" line="430" column="0" />
+      <file name="$USER_HOME$/www/js/karma/lib/server.js" timestamp="1480096228410">
+        <mark key="'" line="437" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/error.js" timestamp="1474545749607">
         <mark key="'" line="16" column="0" />
@@ -2222,6 +2225,9 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/issue-link-types/edit-dlg.html" timestamp="1475241684937">
         <mark key="'" line="42" column="31" />
       </file>
+      <file name="$USER_HOME$/www/js/karma/lib/launchers/process.js" timestamp="1480096238450">
+        <mark key="'" line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/form/directive/yt-radio.js" timestamp="1473250826299">
         <mark key="'" line="7" column="15" />
         <mark key="[" line="24" column="33" />
@@ -2300,19 +2306,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/www/js/karma-mocha/gruntfile.js" />
-      <jump line="62" column="10" filename="$USER_HOME$/www/js/karma-mocha/gruntfile.js" />
-      <jump line="66" column="17" filename="$USER_HOME$/www/js/karma-mocha/gruntfile.js" />
-      <jump line="61" column="77" filename="$USER_HOME$/www/js/karma-mocha/gruntfile.js" />
-      <jump line="18" column="4" filename="$USER_HOME$/www/js/karma-mocha/node_modules/mocha/bin/mocha" />
-      <jump line="8" column="0" filename="$USER_HOME$/www/js/karma-mocha/node_modules/mocha/bin/mocha" />
-      <jump line="44" column="32" filename="$USER_HOME$/www/js/karma-mocha/node_modules/mocha/lib/mocha.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/js/karma-mocha/node_modules/mocha/lib/mocha.js" />
-      <jump line="517" column="0" filename="$USER_HOME$/www/js/karma-mocha/node_modules/mocha/lib/mocha.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/www/js/karma-mocha/node_modules/mocha/lib/mocha.js" />
-      <jump line="472" column="33" filename="$USER_HOME$/www/js/karma-mocha/node_modules/mocha/lib/mocha.js" />
-      <jump line="475" column="1" filename="$USER_HOME$/www/js/karma-mocha/node_modules/mocha/lib/mocha.js" />
-      <jump line="491" column="49" filename="$USER_HOME$/www/js/karma-mocha/node_modules/mocha/lib/mocha.js" />
       <jump line="3" column="0" filename="$USER_HOME$/www/js/karma-mocha/src/adapter.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/js/karma-mocha/src/adapter.js" />
       <jump line="51" column="22" filename="$USER_HOME$/www/js/karma-mocha/test/lib/index.spec.js" />
@@ -2400,6 +2393,19 @@
       <jump line="1186" column="0" filename="$USER_HOME$/www/js/karma-mocha/node_modules/mocha/mocha.js" />
       <jump line="41" column="0" filename="$USER_HOME$/www/js/karma/lib/server.js" />
       <jump line="430" column="0" filename="$USER_HOME$/www/js/karma/lib/server.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/www/js/karma/lib/server.js" />
+      <jump line="437" column="0" filename="$USER_HOME$/www/js/karma/lib/server.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/www/js/karma/lib/launchers/process.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/js/karma/lib/launcher.js" />
+      <jump line="225" column="0" filename="$USER_HOME$/www/js/karma/lib/launcher.js" />
+      <jump line="9" column="44" filename="$USER_HOME$/www/js/karma/lib/launcher.js" />
+      <jump line="16" column="2" filename="$USER_HOME$/www/js/karma/lib/launcher.js" />
+      <jump line="22" column="4" filename="$USER_HOME$/www/js/karma/lib/launcher.js" />
+      <jump line="52" column="46" filename="$USER_HOME$/www/js/karma/lib/launcher.js" />
+      <jump line="95" column="28" filename="$USER_HOME$/www/js/karma/lib/launcher.js" />
+      <jump line="101" column="48" filename="$USER_HOME$/www/js/karma/lib/launcher.js" />
+      <jump line="168" column="6" filename="$USER_HOME$/www/js/karma/lib/launcher.js" />
+      <jump line="199" column="13" filename="$USER_HOME$/www/js/karma/lib/launcher.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2409,7 +2415,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>ui</text>
+        <text>process</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB3aW5kb3cuX19rYXJtYV9fLnN0YXJ0ID0gY3JlYXRlTW9jaGFTdGFydEZuKHdpbmRvdy5tb2NoYSkKICB3aW5kb3cubW9jaGEuc2V0dXAoY3JlYXRlQ29uZmlnT2JqZWN0KHdpbmRvdy5fX2thcm1hX18pKQo=</text>
@@ -2449,9 +2455,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ui</last-search>
+      <last-search>process</last-search>
       <last-offset />
-      <last-pattern>ui</last-pattern>
+      <last-pattern>process</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2459,8 +2465,6 @@
     </search>
     <history>
       <history-search>
-        <entry>before</entry>
-        <entry encoding="base64">XDxzZWxmXD4=</entry>
         <entry>name</entry>
         <entry>beforeEach</entry>
         <entry>before each</entry>
@@ -2479,6 +2483,8 @@
         <entry>setup</entry>
         <entry>delay</entry>
         <entry>ui</entry>
+        <entry>resu</entry>
+        <entry>process</entry>
       </history-search>
       <history-cmd>
         <entry>126</entry>
