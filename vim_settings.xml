@@ -790,11 +790,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/service/license-error-checker.js" timestamp="1474374669294">
         <mark key="'" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" timestamp="1480154844109">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" timestamp="1480156479439">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="43" column="20" />
+        <mark key="]" line="43" column="21" />
+        <mark key="." line="43" column="21" />
+        <mark key="^" line="43" column="21" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/index.html" timestamp="1475849819668">
         <mark key="'" line="15" column="0" />
@@ -2353,11 +2354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/www/js/karma/lib/launcher.js" />
-      <jump line="225" column="0" filename="$USER_HOME$/www/js/karma/lib/launcher.js" />
-      <jump line="9" column="44" filename="$USER_HOME$/www/js/karma/lib/launcher.js" />
-      <jump line="16" column="2" filename="$USER_HOME$/www/js/karma/lib/launcher.js" />
-      <jump line="22" column="4" filename="$USER_HOME$/www/js/karma/lib/launcher.js" />
       <jump line="52" column="46" filename="$USER_HOME$/www/js/karma/lib/launcher.js" />
       <jump line="95" column="28" filename="$USER_HOME$/www/js/karma/lib/launcher.js" />
       <jump line="101" column="48" filename="$USER_HOME$/www/js/karma/lib/launcher.js" />
@@ -2436,9 +2432,6 @@
       <jump line="5" column="4" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/core_test.clj" />
       <jump line="3" column="13" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/core_test.clj" />
       <jump line="9" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
-      <jump line="10" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
-      <jump line="4" column="17" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
-      <jump line="5" column="9" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
       <jump line="3" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
       <jump line="13" column="5" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
       <jump line="8" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
@@ -2453,51 +2446,57 @@
       <jump line="19" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
       <jump line="18" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
       <jump line="20" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
+      <jump line="4" column="9" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
+      <jump line="25" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
+      <jump line="5" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
+      <jump line="10" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
+      <jump line="36" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
+      <jump line="37" column="2" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
+      <jump line="23" column="18" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
+      <jump line="41" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">O2sK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">KyAyKmZpYihuLTQpIA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDU=</text>
+        <text encoding="base64">KyAyKmZpYihuLTQpIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbXBsXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>(some #(= (mod 3 %) 0) [3])</text>
+      <register name="0" type="2">
+        <text encoding="base64">OyBmaWIobikgPSAzKmZpYihuLTMpICsgMipmaWIobi00KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">O2sK</text>
+        <text encoding="base64">OyBmaWIobikgPSBmaWIobi0yKSArIGZpYihuLTMpICsgZmliKG4tMikK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">OyBmaWIobikgPSAyKihmaWIobi0zKSArIGZpYihuLTQpKSArIGZpYihuLTMpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KHNvbWUgIyg9IChtb2QgMyAlKSAwKSBbM10pCg==</text>
+        <text encoding="base64">Owo=</text>
       </register>
-      <register name="4" type="4">
-        <text>(or
-               (= (mod x 3) 0)
-               (= (mod x 5) 0))</text>
+      <register name="4" type="2">
+        <text encoding="base64">Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">OyAgZmliKG4tMSkgKyAxCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="8">
+        <text encoding="base64">IAogCiAKIA==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KHN1bSAxMCkK</text>
+        <text encoding="base64">Owo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KG1vZCAxMCAzKQo=</text>
+        <text encoding="base64">ZmliIChuKSAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
