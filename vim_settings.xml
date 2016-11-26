@@ -790,12 +790,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/service/license-error-checker.js" timestamp="1474374669294">
         <mark key="'" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" timestamp="1480156479439">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="43" column="20" />
-        <mark key="]" line="43" column="21" />
-        <mark key="." line="43" column="21" />
-        <mark key="^" line="43" column="21" />
+      <file name="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" timestamp="1480160007830">
+        <mark key="'" line="54" column="0" />
+        <mark key="[" line="55" column="24" />
+        <mark key="]" line="55" column="25" />
+        <mark key="." line="55" column="25" />
+        <mark key="^" line="47" column="45" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/index.html" timestamp="1475849819668">
         <mark key="'" line="15" column="0" />
@@ -2354,7 +2354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="46" filename="$USER_HOME$/www/js/karma/lib/launcher.js" />
       <jump line="95" column="28" filename="$USER_HOME$/www/js/karma/lib/launcher.js" />
       <jump line="101" column="48" filename="$USER_HOME$/www/js/karma/lib/launcher.js" />
       <jump line="168" column="6" filename="$USER_HOME$/www/js/karma/lib/launcher.js" />
@@ -2454,49 +2453,50 @@
       <jump line="37" column="2" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
       <jump line="23" column="18" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
       <jump line="41" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
+      <jump line="49" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">KyAyKmZpYihuLTQpIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">KGlzICg9IChmaWItZXZlbi1zdW0gMikgMikpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KyAyKmZpYihuLTQpIA==</text>
+        <text>acc</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbXBsXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">OyBmaWIobikgPSAzKmZpYihuLTMpICsgMipmaWIobi00KQo=</text>
+        <text encoding="base64">KGlzICg9IChmaWItZXZlbi1zdW0gMikgMikpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">OyBmaWIobikgPSBmaWIobi0yKSArIGZpYihuLTMpICsgZmliKG4tMikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZjEK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">OyBmaWIobikgPSAyKihmaWIobi0zKSArIGZpYihuLTQpKSArIGZpYihuLTMpCg==</text>
+        <text encoding="base64">KGlzICg9IChmaWItZXZlbi1zdW0gMSkgMSkpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Owo=</text>
+        <text encoding="base64">KGlzICg9IChmaWItZXZlbi1zdW0gMykgMykpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Owo=</text>
+        <text encoding="base64">KGlzICg9IChmaWItZXZlbi1zdW0gNSkgOCkpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">OyAgZmliKG4tMSkgKyAxCg==</text>
+        <text encoding="base64">KGlzICg9IChmaWItZXZlbi1zdW0gNykgMjEpKQo=</text>
       </register>
-      <register name="6" type="8">
-        <text encoding="base64">IAogCiAKIA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">KHRlc3RpbmcgIlByb2JsZW0gMiIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgMSAxCiAgICAgICAgICAgICAgICAgICAgICAgICAgIDIgMgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZmliIChuKSAK</text>
+        <text encoding="base64">OyBmaWIobikgPSBmaWIobi0xKSAgICsgZmliKG4tMikKOyBmaWIobikgPSAyKmZpYihuLTIpICsgZmliKG4tMykKOyBmaWIobikgPSAzKmZpYihuLTMpICsgMipmaWIobi00KQo7IGZpYihuKSA9IDUqZmliKG4tNCkgKyAzKmZpYihuLTUpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
