@@ -790,12 +790,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/service/license-error-checker.js" timestamp="1474374669294">
         <mark key="'" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" timestamp="1480125534086">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="5" column="3" />
-        <mark key="]" line="5" column="10" />
-        <mark key="." line="5" column="10" />
-        <mark key="^" line="5" column="10" />
+      <file name="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" timestamp="1480149782348">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="4" column="3" />
+        <mark key="]" line="4" column="7" />
+        <mark key="." line="4" column="7" />
+        <mark key="^" line="4" column="7" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/index.html" timestamp="1475849819668">
         <mark key="'" line="15" column="0" />
@@ -1680,7 +1680,7 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-bottom-toolbar.js" timestamp="1474284764430">
         <mark key="'" line="185" column="0" />
       </file>
-      <file name="/REPL.clj" timestamp="1480121917324">
+      <file name="/REPL.clj" timestamp="1480149767266">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -2354,9 +2354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1211" column="13" filename="$USER_HOME$/www/js/karma-mocha/node_modules/mocha/mocha.js" />
-      <jump line="1209" column="16" filename="$USER_HOME$/www/js/karma-mocha/node_modules/mocha/mocha.js" />
-      <jump line="1201" column="21" filename="$USER_HOME$/www/js/karma-mocha/node_modules/mocha/mocha.js" />
       <jump line="1200" column="13" filename="$USER_HOME$/www/js/karma-mocha/node_modules/mocha/mocha.js" />
       <jump line="1198" column="15" filename="$USER_HOME$/www/js/karma-mocha/node_modules/mocha/mocha.js" />
       <jump line="1197" column="20" filename="$USER_HOME$/www/js/karma-mocha/node_modules/mocha/mocha.js" />
@@ -2454,13 +2451,16 @@
       <jump line="3" column="13" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/core_test.clj" />
       <jump line="3" column="5" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
       <jump line="9" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
+      <jump line="8" column="7" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
+      <jump line="10" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
+      <jump line="7" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>* 1 1</text>
+        <text>sum-impl</text>
       </register>
       <register name="-" type="4">
-        <text>* 1 1</text>
+        <text>sum-impl</text>
       </register>
       <register name="/" type="4">
         <text>idea</text>
@@ -2469,34 +2469,34 @@
         <text>Find the sum of all the multiples of 3 or 5 below 1000.</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">OyBGaW5kIHRoZSBzdW0gb2YgYWxsIHRoZSBtdWx0aXBsZXMgb2YgMyBvciA1IGJlbG93IDEwMDAuCg==</text>
+        <text encoding="base64">ICAoZGVmbiBzdW0taW1wbCBbXSAoKiAxIDEpKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
+      <register name="2" type="2">
+        <text encoding="base64">OyBGaW5kIHRoZSBzdW0gb2YgYWxsIHRoZSBtdWx0aXBsZXMgb2YgMyBvciA1IGJlbG93IDEwMDAuCg==</text>
+      </register>
+      <register name="3" type="8">
         <text encoding="base64">IAogCiA=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Owo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">KGRlZnRlc3QgcHJvYmxlbS0xKQo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">KHByb2JsZW0tMSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KHByb2JsZW0tMSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KCsgMiAyKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KCsgMiAyKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
