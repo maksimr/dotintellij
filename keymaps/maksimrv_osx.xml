@@ -77,20 +77,32 @@
   <action id=":cursive.actions.paredit/wrap-square">
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
   </action>
+  <action id=":cursive.repl.actions/clear-repl">
+    <keyboard-shortcut first-keystroke="alt l" second-keystroke="l" />
+  </action>
+  <action id=":cursive.repl.actions/jump-to-output">
+    <keyboard-shortcut first-keystroke="alt l" second-keystroke="e" />
+  </action>
   <action id=":cursive.repl.actions/load-file">
-    <keyboard-shortcut first-keystroke="shift ctrl l" />
+    <keyboard-shortcut first-keystroke="alt l" second-keystroke="f" />
   </action>
   <action id=":cursive.repl.actions/run-top-sexp">
-    <keyboard-shortcut first-keystroke="shift ctrl p" />
+    <keyboard-shortcut first-keystroke="alt l" second-keystroke="p" />
   </action>
   <action id=":cursive.repl.actions/search-history">
     <keyboard-shortcut first-keystroke="ctrl alt e" />
   </action>
   <action id=":cursive.repl.actions/sync-files">
-    <keyboard-shortcut first-keystroke="shift ctrl m" />
+    <keyboard-shortcut first-keystroke="alt l" second-keystroke="s" />
   </action>
   <action id=":cursive.testing.actions/remove-test-markers">
     <keyboard-shortcut first-keystroke="shift ctrl back_space" />
+  </action>
+  <action id=":cursive.testing.actions/run-ns-tests">
+    <keyboard-shortcut first-keystroke="alt l" second-keystroke="shift t" />
+  </action>
+  <action id=":cursive.testing.actions/run-single-test">
+    <keyboard-shortcut first-keystroke="alt l" second-keystroke="t" />
   </action>
   <action id="AceJumpAction">
     <keyboard-shortcut first-keystroke="ctrl semicolon" />
@@ -176,4 +188,5 @@
     <keyboard-shortcut first-keystroke="ctrl up" />
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="context.load" />
 </keymap>
