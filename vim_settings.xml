@@ -1509,10 +1509,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/www/edx/fp101x/src/Main.hs" timestamp="1480209979127">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/www/edx/fp101x/src/Main.hs" timestamp="1480241694257">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/www/js/specht/src/convert-rules.js" timestamp="1472226208522">
         <mark key="'" line="3" column="0" />
@@ -2386,7 +2387,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1405" column="0" filename="$USER_HOME$/www/js/karma/static/karma.js" />
       <jump line="12" column="0" filename="$USER_HOME$/www/js/karma/static/karma.js" />
       <jump line="25" column="17" filename="$USER_HOME$/www/js/karma/static/karma.js" />
       <jump line="210" column="22" filename="$USER_HOME$/www/js/karma/static/karma.js" />
@@ -2465,7 +2465,6 @@
       <jump line="14" column="0" filename="$USER_HOME$/www/edx/fp101x/fp101x.cabal" />
       <jump line="3" column="0" filename="$USER_HOME$/www/edx/fp101x/test-foo.hs" />
       <jump line="0" column="0" filename="$USER_HOME$/www/edx/fp101x/test-foo.hs" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/edx/fp101x/src/Main.hs" />
       <jump line="7" column="0" filename="$USER_HOME$/www/edx/fp101x/src/Main.hs" />
       <jump line="2" column="0" filename="$USER_HOME$/www/edx/fp101x/src/Main.hs" />
       <jump line="7" column="0" filename="$USER_HOME$/www/edx/fp101x/test/Main.hs" />
@@ -2486,16 +2485,18 @@
       <jump line="0" column="0" filename="$USER_HOME$/www/edx/fp101x/fp101x.cabal" />
       <jump line="23" column="2" filename="$USER_HOME$/www/edx/fp101x/fp101x.cabal" />
       <jump line="5" column="0" filename="$USER_HOME$/www/edx/fp101x/src/Main.hs" />
+      <jump line="6" column="14" filename="$USER_HOME$/www/edx/fp101x/src/Main.hs" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/edx/fp101x/src/Main.hs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGhlYWQgWzEsIDIsIDMsIDQgNV0K</text>
+        <text encoding="base64">ICAgIHB1dFN0ckxuIGhlYWQgWzEsIDIsIDNdCg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>do</text>
+        <text>&quot;This test always fails!&quot;</text>
       </register>
       <register name="/" type="4">
         <text>main</text>
@@ -2504,34 +2505,34 @@
         <text encoding="base64">ICAgIHB1dFN0ckxuICJUaGlzIHRlc3QgYWx3YXlzIGZhaWxzISIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGhlYWQgWzEsIDIsIDMsIDQgNV0K</text>
+        <text encoding="base64">ICAgIHB1dFN0ckxuIGhlYWQgWzEsIDIsIDNdCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGhlYWQgWzEsIDIsIDMsIDQsIDVdCg==</text>
+        <text encoding="base64">ICAgIGhlYWQgWzEsIDIsIDMsIDQgNV0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1dFN0ckxuICJUaGlzIHRlc3QgYWx3YXlzIGZhaWxzISIK</text>
+        <text encoding="base64">ICAgIGhlYWQgWzEsIDIsIDMsIDQsIDVdCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIHB1dFN0ckxuICJUaGlzIHRlc3QgYWx3YXlzIGZhaWxzISIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGV4aXRGYWlsdXJlCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1dFN0ckxuICJIZWxsbyBXb3JsZCEiCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIHB1dFN0ckxuICJUaGlzIHRlc3QgYWx3YXlzIGZhaWxzISIK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGV4aXRGYWlsdXJlCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHB1dFN0ckxuICJIZWxsbyBXb3JsZCEiCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBocy1zb3VyY2UtZGlyczogICAgICAgc3JjCg==</text>
+        <text encoding="base64">ICAgIHB1dFN0ckxuICJUaGlzIHRlc3QgYWx3YXlzIGZhaWxzISIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
