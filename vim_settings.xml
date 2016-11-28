@@ -801,10 +801,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/service/license-error-checker.js" timestamp="1474374669294">
         <mark key="'" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" timestamp="1480362947628">
-        <mark key="[" line="147" column="0" />
-        <mark key="]" line="147" column="0" />
-        <mark key="." line="147" column="0" />
+      <file name="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" timestamp="1480364013319">
+        <mark key="'" line="172" column="0" />
+        <mark key="[" line="191" column="3" />
+        <mark key="]" line="191" column="6" />
+        <mark key="." line="191" column="6" />
+        <mark key="^" line="191" column="6" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/index.html" timestamp="1475849819668">
         <mark key="'" line="15" column="0" />
@@ -2400,15 +2402,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/www/edx/fp101x/test/Main.hs" />
-      <jump line="1" column="0" filename="$USER_HOME$/www/edx/fp101x/fp101x.cabal" />
-      <jump line="8" column="22" filename="$USER_HOME$/www/edx/fp101x/fp101x.cabal" />
-      <jump line="22" column="0" filename="$USER_HOME$/www/edx/fp101x/fp101x.cabal" />
-      <jump line="9" column="22" filename="$USER_HOME$/www/edx/fp101x/fp101x.cabal" />
-      <jump line="40" column="26" filename="$USER_HOME$/www/edx/fp101x/stack.yaml" />
-      <jump line="13" column="2" filename="$USER_HOME$/www/edx/fp101x/fp101x.cabal" />
-      <jump line="15" column="0" filename="$USER_HOME$/www/edx/fp101x/fp101x.cabal" />
-      <jump line="27" column="16" filename="$USER_HOME$/www/edx/fp101x/fp101x.cabal" />
       <jump line="16" column="2" filename="$USER_HOME$/www/edx/fp101x/fp101x.cabal" />
       <jump line="19" column="23" filename="$USER_HOME$/www/edx/fp101x/fp101x.cabal" />
       <jump line="21" column="2" filename="$USER_HOME$/www/edx/fp101x/fp101x.cabal" />
@@ -2500,22 +2493,31 @@
       <jump line="132" column="16" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
       <jump line="127" column="26" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
       <jump line="143" column="5" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
+      <jump line="148" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
+      <jump line="144" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
+      <jump line="147" column="2" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
+      <jump line="145" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
+      <jump line="151" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
+      <jump line="155" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
+      <jump line="156" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
+      <jump line="169" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
+      <jump line="172" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IC0gMTA=</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>99</text>
+        <text encoding="base64">IC0gMTA=</text>
       </register>
       <register name="/" type="4">
         <text>prime</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">NyA4Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2524,28 +2526,41 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">MiA1ID4gMyAzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KCogNyA3KQooKiA2IDcpCigqIDUgOSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KCogOTk2IDk5OSkK</text>
+        <text encoding="base64">MSA1ID4gMiAyCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">KGV4cCAxMCAoLSAoY291bnQgKG51bS10by1saXN0IDkpKSAxKSkK</text>
+      <register name="5" type="8">
+        <text>- 9
+- 8
+- 8
+- 7
+- 6
+- 7
+- 6
+- 5
+- 4
+- 6
+- 5
+- 4
+- 3
+- 2</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIChudW0tdG8tbGlzdCBbbl0KICAgICAgICAgICAgKGxldGZuIFsobnVtLXRvLWxpc3QtaW1wbCBbbiBsXQogICAgICAgICAgICAgICAgICAgICAgKGlmICg9IG4gMCkKICAgICAgICAgICAgICAgICAgICAgICAgbAogICAgICAgICAgICAgICAgICAgICAgICAobnVtLXRvLWxpc3QtaW1wbAogICAgICAgICAgICAgICAgICAgICAgICAgIChxdW90IG4gMTApCiAgICAgICAgICAgICAgICAgICAgICAgICAgKGNvbnMgKG1vZCBuIDEwKSBsKSkpKV0KICAgICAgICAgICAgICAobnVtLXRvLWxpc3QtaW1wbCBuICcoKSkpKQo=</text>
+        <text encoding="base64">MiAyCjEgMgoxIDEKCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KGlzLXBhbGluZHJvbWUgMjEwMTIpCg==</text>
+        <text encoding="base64">MSAyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KGlzLXBhbGluZHJvbWUgMjEwMTIpCg==</text>
+        <text encoding="base64">MSAzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBmYWxzZQo=</text>
+        <text encoding="base64">OSA5Cgo4IDkKOCA4Cgo3IDkKNyA4Cgo2IDkKCjcgNwoKNiA4Cgo1IDkKCjYgNwoKNSA4Cgo2IDYK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
