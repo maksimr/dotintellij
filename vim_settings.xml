@@ -801,12 +801,11 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/service/license-error-checker.js" timestamp="1474374669294">
         <mark key="'" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" timestamp="1480354531561">
-        <mark key="'" line="89" column="39" />
-        <mark key="[" line="90" column="39" />
-        <mark key="]" line="90" column="42" />
-        <mark key="^" line="90" column="37" />
-        <mark key="." line="90" column="43" />
+      <file name="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" timestamp="1480355263790">
+        <mark key="[" line="98" column="14" />
+        <mark key="]" line="100" column="4" />
+        <mark key="." line="100" column="4" />
+        <mark key="^" line="100" column="4" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/index.html" timestamp="1475849819668">
         <mark key="'" line="15" column="0" />
@@ -2402,8 +2401,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
-      <jump line="48" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
       <jump line="36" column="18" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
       <jump line="22" column="9" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
       <jump line="11" column="7" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
@@ -2502,52 +2499,54 @@
       <jump line="90" column="4" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
       <jump line="5" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
       <jump line="89" column="39" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
+      <jump line="77" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
+      <jump line="93" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>6857</text>
+        <text>polindrome</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>(fib-even-sum 4000000)</text>
+        <text>polindrome</text>
       </register>
       <register name="/" type="4">
         <text>prime</text>
       </register>
-      <register name="0" type="4">
-        <text>6857</text>
+      <register name="0" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KHByaW1lLWZhY3RvciA2MDA4NTE0NzUxNDMpCg==</text>
+        <text encoding="base64">QSBwYWxpbmRyb21pYyBudW1iZXIgcmVhZHMgdGhlIHNhbWUgYm90aCB3YXlzLiBUaGUgbGFyZ2VzdCBwYWxpbmRyb21lIG1hZGUgZnJvbSB0aGUgcHJvZHVjdCBvZiB0d28gMi1kaWdpdCBudW1iZXJzIGlzIDkwMDkgPSA5MSDDlyA5OS4KCkZpbmQgdGhlIGxhcmdlc3QgcGFsaW5kcm9tZSBtYWRlIGZyb20gdGhlIHByb2R1Y3Qgb2YgdHdvIDMtZGlnaXQgbnVtYmVycy4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KHByaW1lLWZhY3RvciA2MDA4NTE0NzUxNDMpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">KGdldC1uZXh0LXByaW1lIDIzKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAoaWYgKCkpCg==</text>
+        <text encoding="base64">KGdldC1uZXh0LXByaW1lIDIzKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpZiAoKQo=</text>
+        <text encoding="base64">ICAoaWYgKCkpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBpZiAoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2667,6 +2666,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed Y</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
