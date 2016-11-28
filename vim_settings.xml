@@ -801,12 +801,10 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/service/license-error-checker.js" timestamp="1474374669294">
         <mark key="'" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" timestamp="1480362121319">
-        <mark key="'" line="127" column="26" />
-        <mark key="[" line="127" column="23" />
-        <mark key="]" line="127" column="26" />
-        <mark key="." line="127" column="26" />
-        <mark key="^" line="127" column="26" />
+      <file name="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" timestamp="1480362947628">
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="147" column="0" />
+        <mark key="." line="147" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/index.html" timestamp="1475849819668">
         <mark key="'" line="15" column="0" />
@@ -2402,7 +2400,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/www/edx/fp101x/src/Main.hs" />
       <jump line="7" column="0" filename="$USER_HOME$/www/edx/fp101x/test/Main.hs" />
       <jump line="1" column="0" filename="$USER_HOME$/www/edx/fp101x/fp101x.cabal" />
       <jump line="8" column="22" filename="$USER_HOME$/www/edx/fp101x/fp101x.cabal" />
@@ -2502,52 +2499,53 @@
       <jump line="129" column="25" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
       <jump line="132" column="16" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
       <jump line="127" column="26" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
+      <jump line="143" column="5" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICgqIGEgYik=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICgqIGEgYik=</text>
+        <text>99</text>
       </register>
       <register name="/" type="4">
         <text>prime</text>
       </register>
-      <register name="0" type="4">
-        <text>(exp 10 (- (count (num-to-list n)) 1))</text>
+      <register name="0" type="2">
+        <text encoding="base64">NyA4Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KGV4cCAxMCAoLSAoY291bnQgKG51bS10by1saXN0IDkpKSAxKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIChudW0tdG8tbGlzdCBbbl0KICAgICAgICAgICAgKGxldGZuIFsobnVtLXRvLWxpc3QtaW1wbCBbbiBsXQogICAgICAgICAgICAgICAgICAgICAgKGlmICg9IG4gMCkKICAgICAgICAgICAgICAgICAgICAgICAgbAogICAgICAgICAgICAgICAgICAgICAgICAobnVtLXRvLWxpc3QtaW1wbAogICAgICAgICAgICAgICAgICAgICAgICAgIChxdW90IG4gMTApCiAgICAgICAgICAgICAgICAgICAgICAgICAgKGNvbnMgKG1vZCBuIDEwKSBsKSkpKV0KICAgICAgICAgICAgICAobnVtLXRvLWxpc3QtaW1wbCBuICcoKSkpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KGlzLXBhbGluZHJvbWUgMjEwMTIpCg==</text>
+        <text encoding="base64">KCogNyA3KQooKiA2IDcpCigqIDUgOSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KGlzLXBhbGluZHJvbWUgMjEwMTIpCg==</text>
+        <text encoding="base64">KCogOTk2IDk5OSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBmYWxzZQo=</text>
+        <text encoding="base64">KGV4cCAxMCAoLSAoY291bnQgKG51bS10by1saXN0IDkpKSAxKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIChudW0tdG8tbGlzdCBbbl0KICAgICAgICAgICAgKGxldGZuIFsobnVtLXRvLWxpc3QtaW1wbCBbbiBsXQogICAgICAgICAgICAgICAgICAgICAgKGlmICg9IG4gMCkKICAgICAgICAgICAgICAgICAgICAgICAgbAogICAgICAgICAgICAgICAgICAgICAgICAobnVtLXRvLWxpc3QtaW1wbAogICAgICAgICAgICAgICAgICAgICAgICAgIChxdW90IG4gMTApCiAgICAgICAgICAgICAgICAgICAgICAgICAgKGNvbnMgKG1vZCBuIDEwKSBsKSkpKV0KICAgICAgICAgICAgICAobnVtLXRvLWxpc3QtaW1wbCBuICcoKSkpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKGlmICg9IGEgYikKICAgICAgICAgICAgICAoZmluZC1wYWxpbmRyb21lLWltcGwgKC0gYSAxKSBuKQogICAgICAgICAgICAgIChmaW5kLXBhbGluZHJvbWUtaW1wbCBhICgtIGIgMSkpCiAgICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">KGlzLXBhbGluZHJvbWUgMjEwMTIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KGlzLXBhbGluZHJvbWUgMjEwMTIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJygoKiBhIGIpIGEgYikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBmYWxzZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
