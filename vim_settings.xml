@@ -1820,12 +1820,12 @@
       <file name="$USER_HOME$/www/js/yvm/node_modules/expect/lib/SpyUtils.js" timestamp="1475062653291">
         <mark key="'" line="25" column="2" />
       </file>
-      <file name="$USER_HOME$/www/js/karma-jasmine/src/adapter.js" timestamp="1480349080053">
-        <mark key="'" line="159" column="12" />
-        <mark key="[" line="226" column="30" />
-        <mark key="]" line="226" column="30" />
-        <mark key="." line="226" column="30" />
-        <mark key="^" line="226" column="30" />
+      <file name="$USER_HOME$/www/js/karma-jasmine/src/adapter.js" timestamp="1480443222913">
+        <mark key="'" line="214" column="31" />
+        <mark key="[" line="160" column="25" />
+        <mark key="]" line="160" column="29" />
+        <mark key="." line="160" column="29" />
+        <mark key="^" line="160" column="29" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-comments.html" timestamp="1475841350415">
         <mark key="'" line="2" column="0" />
@@ -2402,9 +2402,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="2" filename="$USER_HOME$/www/edx/fp101x/fp101x.cabal" />
-      <jump line="19" column="23" filename="$USER_HOME$/www/edx/fp101x/fp101x.cabal" />
-      <jump line="21" column="2" filename="$USER_HOME$/www/edx/fp101x/fp101x.cabal" />
       <jump line="20" column="2" filename="$USER_HOME$/www/edx/fp101x/fp101x.cabal" />
       <jump line="3" column="0" filename="$USER_HOME$/www/edx/fp101x/src/Main.hs" />
       <jump line="10" column="0" filename="$USER_HOME$/www/edx/fp101x/fp101x.cabal" />
@@ -2502,39 +2499,45 @@
       <jump line="156" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
       <jump line="169" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
       <jump line="172" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
+      <jump line="224" column="31" filename="$USER_HOME$/www/js/karma-jasmine/src/adapter.js" />
+      <jump line="226" column="30" filename="$USER_HOME$/www/js/karma-jasmine/src/adapter.js" />
+      <jump line="211" column="31" filename="$USER_HOME$/www/js/karma-jasmine/src/adapter.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IC0gMTA=</text>
+        <text>may</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC0gMTA=</text>
+        <text>may</text>
       </register>
       <register name="/" type="4">
-        <text>prime</text>
+        <text>_Date</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBiZWNhdXNlIHVzZXIgY2FuIG1vY2sgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">MiA1ID4gMyAzCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">MiA1ID4gMyAzCg==</text>
+      </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">MSA1ID4gMiAyCg==</text>
       </register>
-      <register name="5" type="8">
+      <register name="6" type="8">
         <text>- 9
 - 8
 - 8
@@ -2550,26 +2553,23 @@
 - 3
 - 2</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">MiAyCjEgMgoxIDEKCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">MSAyCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">MSAzCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">OSA5Cgo4IDkKOCA4Cgo3IDkKNyA4Cgo2IDkKCjcgNwoKNiA4Cgo1IDkKCjYgNwoKNSA4Cgo2IDYK</text>
+        <text encoding="base64">MSAzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>prime</last-search>
+      <last-search>_Date</last-search>
       <last-offset />
-      <last-pattern>prime</last-pattern>
+      <last-pattern>_Date</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2577,7 +2577,6 @@
     </search>
     <history>
       <history-search>
-        <entry>global</entry>
         <entry>now</entry>
         <entry encoding="base64">XDxjb21wbGV0ZVw+</entry>
         <entry>idea</entry>
@@ -2593,10 +2592,11 @@
         <entry>clock</entry>
         <entry>report</entry>
         <entry>getTime</entry>
-        <entry>_Date</entry>
         <entry>DAte</entry>
         <entry>Date</entry>
         <entry>prime</entry>
+        <entry>_date</entry>
+        <entry>_Date</entry>
       </history-search>
       <history-cmd>
         <entry>%s/label/fullName/gc</entry>
