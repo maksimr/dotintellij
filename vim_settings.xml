@@ -60,8 +60,8 @@
       <file name="$USER_HOME$/www/js/yvm/lib/request.js" timestamp="1475138933153">
         <mark key="'" line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1480588631158">
-        <mark key="'" line="4" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1480594458037">
+        <mark key="'" line="137" column="100" />
       </file>
       <file name="$USER_HOME$/www/js/karma-mocha/gruntfile.js" timestamp="1478611686745">
         <mark key="'" line="65" column="77" />
@@ -2112,8 +2112,9 @@
         <mark key="." line="735" column="0" />
         <mark key="^" line="11" column="19" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/ring-hub/webpack.config.js" timestamp="1476359773028">
-        <mark key="'" line="250" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/ring-hub/webpack.config.js" timestamp="1480594625683">
+        <mark key="'" line="71" column="42" />
+        <mark key="." line="0" column="165" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/ring-ui/components/error-page-ng/error-page-ng.js" timestamp="1475497873535">
         <mark key="'" line="39" column="0" />
@@ -2400,11 +2401,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/www/js/karma-jasmine/node_modules/jasmine-core/lib/jasmine-core/jasmine.js" />
-      <jump line="515" column="9" filename="$USER_HOME$/www/js/karma-jasmine/node_modules/jasmine-core/lib/jasmine-core/jasmine.js" />
-      <jump line="1154" column="104" filename="$USER_HOME$/www/js/karma-jasmine/node_modules/jasmine-core/lib/jasmine-core/jasmine.js" />
-      <jump line="1219" column="66" filename="$USER_HOME$/www/js/karma-jasmine/node_modules/jasmine-core/lib/jasmine-core/jasmine.js" />
-      <jump line="3444" column="10" filename="$USER_HOME$/www/js/karma-jasmine/node_modules/jasmine-core/lib/jasmine-core/jasmine.js" />
       <jump line="3445" column="15" filename="$USER_HOME$/www/js/karma-jasmine/node_modules/jasmine-core/lib/jasmine-core/jasmine.js" />
       <jump line="319" column="0" filename="$USER_HOME$/www/js/karma-jasmine/src/adapter.js" />
       <jump line="52" column="22" filename="$USER_HOME$/www/js/karma-jasmine/src/adapter.js" />
@@ -2500,6 +2496,11 @@
       <jump line="282" column="7" filename="$USER_HOME$/www/js/karma/lib/config.js" />
       <jump line="159" column="18" filename="$USER_HOME$/www/js/karma/lib/server.js" />
       <jump line="365" column="43" filename="$USER_HOME$/www/js/karma/lib/server.js" />
+      <jump line="41" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="137" column="100" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/ring-hub/webpack.config.js" />
+      <jump line="32" column="35" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/ring-hub/webpack.config.js" />
+      <jump line="71" column="42" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/ring-hub/webpack.config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2512,7 +2513,7 @@
         <text>r</text>
       </register>
       <register name="/" type="4">
-        <text>bind</text>
+        <text>auth</text>
       </register>
       <register name="0" type="4">
         <text>906609</text>
@@ -2552,9 +2553,9 @@
       </register>
     </registers>
     <search>
-      <last-search>bind</last-search>
+      <last-search>auth</last-search>
       <last-offset />
-      <last-pattern>bind</last-pattern>
+      <last-pattern>auth</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2562,8 +2563,6 @@
     </search>
     <history>
       <history-search>
-        <entry>test</entry>
-        <entry>main</entry>
         <entry>nega</entry>
         <entry>date</entry>
         <entry>time</entry>
@@ -2582,6 +2581,8 @@
         <entry>host</entry>
         <entry encoding="base64">XDxob3N0bmFtZVw+</entry>
         <entry>bind</entry>
+        <entry>hub</entry>
+        <entry>auth</entry>
       </history-search>
       <history-cmd>
         <entry>%s/initialize/set/gc</entry>
