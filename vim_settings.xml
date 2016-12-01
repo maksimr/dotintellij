@@ -23,7 +23,7 @@
         <mark key="." line="5" column="69" />
         <mark key="^" line="5" column="69" />
       </file>
-      <file name="/a.dummy" timestamp="1480579945882">
+      <file name="/a.dummy" timestamp="1480597095683">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dashboard/dashboard.js" timestamp="1474989750521">
@@ -92,10 +92,10 @@
         <mark key="." line="104" column="0" />
         <mark key="^" line="87" column="3" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/webpack.config.js" timestamp="1480596033585">
-        <mark key="'" line="98" column="0" />
-        <mark key="[" line="92" column="20" />
-        <mark key="]" line="92" column="23" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/webpack.config.js" timestamp="1480597183404">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="55" column="35" />
+        <mark key="]" line="55" column="47" />
         <mark key="^" line="92" column="23" />
         <mark key="." line="92" column="23" />
       </file>
@@ -1758,6 +1758,9 @@
       <file name="$USER_HOME$/www/jetbrains/hub/project-wizard-client-side/karma.conf.js" timestamp="1476790394142">
         <mark key="'" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/package.json" timestamp="1480597077522">
+        <mark key="'" line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/www/js/falcon/extension/js/preferences.js" timestamp="1477728779969">
         <mark key="'" line="172" column="23" />
       </file>
@@ -2412,8 +2415,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="8" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
-      <jump line="82" column="14" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
       <jump line="81" column="6" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
       <jump line="70" column="16" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
       <jump line="23" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
@@ -2512,10 +2513,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/README.md" />
       <jump line="37" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/README.md" />
       <jump line="44" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/README.md" />
+      <jump line="16" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/package.json" />
+      <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/webpack.config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJzdGFydDpiYWNrZW5kOmZyb250ZW5kIjogIm5wbSBydW4gc3RhcnQ6YmFja2VuZCAtLSAtRGZyb250ZW5kPXRydWUiLAo=</text>
+      <register name="&quot;" type="4">
+        <text>HUB.templates</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -2524,10 +2527,10 @@
         <text encoding="base64">bnBtIHJ1biBidWlsZCAmJiA=</text>
       </register>
       <register name="/" type="4">
-        <text>front</text>
+        <text>HUB.templates</text>
       </register>
       <register name="0" type="4">
-        <text>-Dfrontend=true</text>
+        <text>HUB.templates</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICJzdGFydDpiYWNrZW5kOmZyb250ZW5kIjogIm5wbSBydW4gc3RhcnQ6YmFja2VuZCAtLSAtRGZyb250ZW5kPXRydWUiLAo=</text>
@@ -2564,9 +2567,9 @@
       </register>
     </registers>
     <search>
-      <last-search>front</last-search>
+      <last-search>HUB.templates</last-search>
       <last-offset />
-      <last-pattern>front</last-pattern>
+      <last-pattern>HUB.templates</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -2574,8 +2577,6 @@
     </search>
     <history>
       <history-search>
-        <entry>clock</entry>
-        <entry>report</entry>
         <entry>getTime</entry>
         <entry>DAte</entry>
         <entry>Date</entry>
@@ -2594,6 +2595,8 @@
         <entry>auth</entry>
         <entry>run</entry>
         <entry>front</entry>
+        <entry>HUB.templa</entry>
+        <entry>HUB.templates</entry>
       </history-search>
       <history-cmd>
         <entry>%s/initialize/set/gc</entry>
