@@ -20,7 +20,7 @@
         <mark key="." line="5" column="69" />
         <mark key="^" line="5" column="69" />
       </file>
-      <file name="/a.dummy" timestamp="1480691539576">
+      <file name="/a.dummy" timestamp="1480698587659">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dashboard/dashboard.js" timestamp="1474989750521">
@@ -1257,8 +1257,9 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-board.html" timestamp="1477053669180">
         <mark key="'" line="23" column="5" />
       </file>
-      <file name="$USER_HOME$/www/js/karma/lib/server.js" timestamp="1480579969360">
-        <mark key="'" line="365" column="43" />
+      <file name="$USER_HOME$/www/js/karma/lib/server.js" timestamp="1480698787342">
+        <mark key="a" line="186" column="21" />
+        <mark key="'" line="186" column="8" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/error.js" timestamp="1474545749607">
         <mark key="'" line="16" column="0" />
@@ -2304,12 +2305,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="20" filename="$USER_HOME$/www/jetbrains/hub/client-side/app/blocks/menu/menu-api.test.js" />
-      <jump line="36" column="6" filename="$USER_HOME$/www/jetbrains/hub/client-side/app/blocks/menu/menu-api.test.js" />
-      <jump line="118" column="0" filename="$USER_HOME$/www/jetbrains/hub/client-side/app/blocks/menu/menu.js" />
-      <jump line="210" column="0" filename="$USER_HOME$/www/jetbrains/hub/client-side/app/blocks/menu/menu.js" />
-      <jump line="101" column="0" filename="$USER_HOME$/www/jetbrains/hub/client-side/app/blocks/menu/menu.js" />
-      <jump line="112" column="0" filename="$USER_HOME$/www/jetbrains/hub/client-side/app/blocks/menu/menu.js" />
       <jump line="17" column="0" filename="$USER_HOME$/www/jetbrains/hub/client-side/app/blocks/menu/menu.js" />
       <jump line="13" column="0" filename="$USER_HOME$/www/jetbrains/hub/client-side/app/blocks/menu/menu.js" />
       <jump line="221" column="0" filename="$USER_HOME$/www/jetbrains/hub/client-side/app/blocks/menu/menu.js" />
@@ -2404,6 +2399,12 @@
       <jump line="53" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/config/config.js" />
       <jump line="74" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/config/config.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/config/config.js" />
+      <jump line="365" column="8" filename="$USER_HOME$/www/js/karma/lib/server.js" />
+      <jump line="427" column="20" filename="$USER_HOME$/www/js/karma/lib/server.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/js/karma/lib/server.js" />
+      <jump line="28" column="40" filename="$USER_HOME$/www/js/karma/lib/server.js" />
+      <jump line="60" column="28" filename="$USER_HOME$/www/js/karma/lib/server.js" />
+      <jump line="186" column="8" filename="$USER_HOME$/www/js/karma/lib/server.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2416,7 +2417,7 @@
         <text>plugin</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoZWFkZXJJdGVtc1w+</text>
+        <text encoding="base64">XDxwcm9jZXNzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBpdCgnZGlzYWJsZSBsb2dpbiBtZW51IGl0ZW0gYnkgZGVmYXVsdCcsICgpID0+IHsKICAgIGV4cGVjdChodWJNZW51QXBpLmdldENvbmZpZygpLmVuYWJsZWRNZW51SXRlbXNbaHViTWVudUFwaS5NRU5VX0lURU1fVFlQRS5MT0dJTl0pLnRvLmJlLmVxdWFsKGZhbHNlKTsKICB9KTsK</text>
@@ -2456,9 +2457,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoZWFkZXJJdGVtc1w+</last-search>
+      <last-search encoding="base64">XDxwcm9jZXNzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoZWFkZXJJdGVtc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxwcm9jZXNzXD4=</last-pattern>
       <last-replace encoding="base64">IGZyb20=</last-replace>
       <last-substitute>,\s*{.*} from</last-substitute>
       <last-dir>-1</last-dir>
@@ -2466,7 +2467,6 @@
     </search>
     <history>
       <history-search>
-        <entry>stub</entry>
         <entry>logo</entry>
         <entry encoding="base64">XDxlbmFibGVkTWVudUl0ZW1zXD4=</entry>
         <entry>navigat</entry>
@@ -2486,6 +2486,7 @@
         <entry encoding="base64">XDxnZXRIZWFkZXJNZW51SXRlbXNcPg==</entry>
         <entry>config</entry>
         <entry encoding="base64">XDxoZWFkZXJJdGVtc1w+</entry>
+        <entry encoding="base64">XDxwcm9jZXNzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>226</entry>
