@@ -1067,11 +1067,11 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/project-wizard/src/blocks/youtrack-integration/youtrack-integration.js" timestamp="1476797310328">
         <mark key="'" line="131" column="0" />
       </file>
-      <file name="$USER_HOME$/www/clojure/alg/test/alg/core_test.clj" timestamp="1480785605173">
-        <mark key="[" line="16" column="22" />
-        <mark key="]" line="16" column="22" />
-        <mark key="." line="16" column="22" />
-        <mark key="^" line="16" column="22" />
+      <file name="$USER_HOME$/www/clojure/alg/test/alg/core_test.clj" timestamp="1480786930912">
+        <mark key="'" line="13" column="7" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/www/js/tt/node_modules/ora/index.js" timestamp="1473103285082">
         <mark key="'" line="103" column="0" />
@@ -2323,8 +2323,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="65" filename="$USER_HOME$/www/js/karma/test/unit/server.spec.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/js/karma/test/unit/server.spec.js" />
       <jump line="6" column="6" filename="$USER_HOME$/www/js/karma/test/unit/server.spec.js" />
       <jump line="8" column="6" filename="$USER_HOME$/www/js/karma/test/unit/server.spec.js" />
       <jump line="9" column="6" filename="$USER_HOME$/www/js/karma/test/unit/server.spec.js" />
@@ -2423,16 +2421,18 @@
       <jump line="5" column="4" filename="$USER_HOME$/www/clojure/alg/test/alg/core_test.clj" />
       <jump line="3" column="0" filename="$USER_HOME$/www/clojure/alg/test/alg/core_test.clj" />
       <jump line="15" column="6" filename="$USER_HOME$/www/clojure/alg/test/alg/core_test.clj" />
+      <jump line="16" column="19" filename="$USER_HOME$/www/clojure/alg/test/alg/core_test.clj" />
+      <jump line="13" column="7" filename="$USER_HOME$/www/clojure/alg/test/alg/core_test.clj" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICcoMSAyIDMgNCA1IDYgNyA4KSkpCg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(swap-impl )</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxERUZBVUxUX0hPU1ROQU1FXD4=</text>
@@ -2441,34 +2441,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICcoMSAyIDMgNCA1IDYgNyA4KSkpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KGRlZm4gc3dhcCBbbCBhaSBiaV0KICAoampraykpCgooaXMgKD0gKHN3YXAgJygxIDIpIDAgMSkgJygyIDEpKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KGRlZm4gc3dhcCBbbCBhaSBiaV0KICAobGV0Zm4gWyhzd2FwLWltcGwgW2wgaSBhaSBiaSBhdiBidiByXQogICAgICAgICAgICAoaWYgKD0gbCBuaWwpCiAgICAgICAgICAgICAgcgogICAgICAgICAgICAgIChpZiAoPSBpIGFpKQogICAgICAgICAgICAgICAgKHN3YXAtaW1wbCApKSkpXQogICAgKHN3YXAtaW1wbCBsIDAgYWkgYmkgKGdldCBsIGFpKSAoZ2V0IGwgYmkpIG5pbCkpKQoKKGlzICg9IChzd2FwICcoMSAyKSAwIDEpICcoMiAxKSkpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KHNlbGVjdGlvbi1zb3J0ICcoMSAyKSkK</text>
+        <text encoding="base64">OyBpZiBpID09IGFpIHRoZW4gbFtiaV0KOyAoYSBiIGMpCjsgIDEgMgo7IChhKSAoYiBjKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KGlzICg9IDAgMSkpCg==</text>
+        <text encoding="base64">Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmdGVzdCBhLXRlc3QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB0ZXN0aW5nICJGSVhNRSwgSSBmYWlsLiIK</text>
+        <text encoding="base64">KGRlZm4gc3dhcCBbbCBhaSBiaV0KICAoampraykpCgooaXMgKD0gKHN3YXAgJygxIDIpIDAgMSkgJygyIDEpKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">OzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KHNlbGVjdGlvbi1zb3J0ICcoMSAyKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
