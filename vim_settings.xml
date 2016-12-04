@@ -1536,6 +1536,9 @@
       <file name="$USER_HOME$/www/js/tt/test/lsLocalBuildsSpec.js" timestamp="1474147767956">
         <mark key="'" line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/www/js/karma/lib/reporters/base.js" timestamp="1480839705807">
+        <mark key="'" line="82" column="9" />
+      </file>
       <file name="$USER_HOME$/www/js/specht/test/readdirSpec.js" timestamp="1472220014232">
         <mark key="'" line="11" column="0" />
         <mark key="[" line="2" column="0" />
@@ -2328,17 +2331,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="4" filename="$USER_HOME$/www/js/karma/test/unit/server.spec.js" />
-      <jump line="73" column="4" filename="$USER_HOME$/www/js/karma/test/unit/server.spec.js" />
-      <jump line="87" column="37" filename="$USER_HOME$/www/js/karma/test/unit/server.spec.js" />
-      <jump line="88" column="40" filename="$USER_HOME$/www/js/karma/test/unit/server.spec.js" />
-      <jump line="92" column="0" filename="$USER_HOME$/www/js/karma/test/unit/server.spec.js" />
-      <jump line="64" column="25" filename="$USER_HOME$/www/js/karma/lib/server.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/www/js/karma/test/unit/mocha-globals.js" />
-      <jump line="24" column="0" filename="$USER_HOME$/www/js/karma/test/unit/server.spec.js" />
-      <jump line="38" column="4" filename="$USER_HOME$/www/js/karma/test/unit/server.spec.js" />
-      <jump line="12" column="7" filename="$USER_HOME$/www/js/karma/test/unit/mocha-globals.js" />
-      <jump line="147" column="0" filename="$USER_HOME$/www/js/karma/lib/server.js" />
       <jump line="370" column="8" filename="$USER_HOME$/www/js/karma/lib/server.js" />
       <jump line="361" column="13" filename="$USER_HOME$/www/js/karma/lib/server.js" />
       <jump line="206" column="25" filename="$USER_HOME$/www/js/karma/test/unit/server.spec.js" />
@@ -2428,6 +2420,17 @@
       <jump line="2" column="0" filename="$USER_HOME$/www/js/karma/lib/runner.js" />
       <jump line="79" column="0" filename="$USER_HOME$/www/js/karma/lib/runner.js" />
       <jump line="80" column="0" filename="$USER_HOME$/www/js/karma/lib/runner.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/js/karma/lib/reporters/base.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/js/karma/lib/reporters/base.js" />
+      <jump line="49" column="11" filename="$USER_HOME$/www/js/karma/lib/reporters/base.js" />
+      <jump line="59" column="29" filename="$USER_HOME$/www/js/karma/lib/reporters/base.js" />
+      <jump line="62" column="9" filename="$USER_HOME$/www/js/karma/lib/reporters/base.js" />
+      <jump line="78" column="11" filename="$USER_HOME$/www/js/karma/lib/reporters/base.js" />
+      <jump line="91" column="11" filename="$USER_HOME$/www/js/karma/lib/reporters/base.js" />
+      <jump line="106" column="9" filename="$USER_HOME$/www/js/karma/lib/reporters/base.js" />
+      <jump line="112" column="13" filename="$USER_HOME$/www/js/karma/lib/reporters/base.js" />
+      <jump line="5" column="7" filename="$USER_HOME$/www/js/karma/lib/reporters/base.js" />
+      <jump line="82" column="9" filename="$USER_HOME$/www/js/karma/lib/reporters/base.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2440,7 +2443,7 @@
         <text>(swap-impl )</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxERUZBVUxUX0hPU1ROQU1FXD4=</text>
+        <text encoding="base64">XDxhZGFwdGVyc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICB2YXIgdGFpbFBvcyA9IGJ1ZmZlci5sZW5ndGggLSBCdWZmZXIuYnl0ZUxlbmd0aChjb25zdGFudC5FWElUX0NPREUpIC0gMgoK</text>
@@ -2480,9 +2483,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxERUZBVUxUX0hPU1ROQU1FXD4=</last-search>
+      <last-search encoding="base64">XDxhZGFwdGVyc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxERUZBVUxUX0hPU1ROQU1FXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxhZGFwdGVyc1w+</last-pattern>
       <last-replace encoding="base64">IGZyb20=</last-replace>
       <last-substitute>,\s*{.*} from</last-substitute>
       <last-dir>-1</last-dir>
@@ -2490,9 +2493,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mock</entry>
-        <entry>kill</entry>
-        <entry>sinon</entry>
         <entry encoding="base64">XDxyZW1vdmVBbGxMaXN0ZW5lcnNcPg==</entry>
         <entry>close</entry>
         <entry encoding="base64">XDxkb25lXD4=</entry>
@@ -2510,6 +2510,9 @@
         <entry>listen</entry>
         <entry>hostname</entry>
         <entry encoding="base64">XDxERUZBVUxUX0hPU1ROQU1FXD4=</entry>
+        <entry>decor</entry>
+        <entry>write</entry>
+        <entry encoding="base64">XDxhZGFwdGVyc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>226</entry>
