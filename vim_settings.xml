@@ -30,9 +30,6 @@
         <mark key="." line="5" column="69" />
         <mark key="^" line="5" column="69" />
       </file>
-      <file name="/a.dummy" timestamp="1481109226127">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dashboard/dashboard.js" timestamp="1474989750521">
         <mark key="'" line="77" column="14" />
       </file>
@@ -626,8 +623,8 @@
         <mark key="^" line="22" column="552" />
         <mark key="." line="22" column="552" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/components/mount/mount.js" timestamp="1481112855516">
-        <mark key="'" line="10" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/components/mount/mount.js" timestamp="1481113577323">
+        <mark key="'" line="29" column="0" />
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
         <mark key="^" line="16" column="11" />
@@ -925,9 +922,6 @@
         <mark key="." line="59" column="17" />
         <mark key="^" line="59" column="17" />
       </file>
-      <file name="/fragment.js" timestamp="1481100168227">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/www/jetbrains/hub/project-wizard-client-side/src/blocks/youtrack-integration/youtrack-integration.spec.js" timestamp="1476793417394">
         <mark key="'" line="106" column="0" />
         <mark key="[" line="7" column="0" />
@@ -1184,10 +1178,10 @@
         <mark key="." line="75" column="18" />
         <mark key="^" line="75" column="18" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/hub/test/e2e/hub-headerSpec.js" timestamp="1481044127539">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="24" column="19" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/hub/test/e2e/hub-headerSpec.js" timestamp="1481113667255">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="35" column="2" />
         <mark key="." line="40" column="47" />
         <mark key="^" line="40" column="47" />
       </file>
@@ -1776,6 +1770,12 @@
       <file name="$USER_HOME$/www/js/falcon/extension/js/preferences.js" timestamp="1477728779969">
         <mark key="'" line="172" column="23" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/hub/test/e2e/hub.po.js" timestamp="1481113711357">
+        <mark key="[" line="4" column="5" />
+        <mark key="]" line="4" column="5" />
+        <mark key="." line="4" column="5" />
+        <mark key="^" line="4" column="5" />
+      </file>
       <file name="$USER_HOME$/www/js/yvm/lib/cli.js" timestamp="1475083374087">
         <mark key="'" line="64" column="0" />
         <mark key="[" line="43" column="39" />
@@ -2330,6 +2330,13 @@
         <mark key="." line="0" column="16" />
         <mark key="^" line="0" column="16" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/hub/test/e2e/hub-footerSpec.js" timestamp="1481113642503">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="13" column="23" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/www/js/oauth-in-action-code/exercises/ch-3-ex-1/client.js" timestamp="1475418101326">
         <mark key="'" line="36" column="4" />
         <mark key="[" line="103" column="28" />
@@ -2545,13 +2552,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/agile-board.js" />
-      <jump line="7" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/agile-board.js" />
-      <jump line="8" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/agile-board.js" />
-      <jump line="9" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/agile-board.js" />
-      <jump line="19" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/agile-board.js" />
-      <jump line="20" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/agile-board.js" />
-      <jump line="21" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/agile-board.js" />
       <jump line="22" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/agile-board.js" />
       <jump line="23" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/agile-board.js" />
       <jump line="24" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/agile-board.js" />
@@ -2637,24 +2637,31 @@
       <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/components/mount/mount.js" />
       <jump line="35" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/components/mount/mount.js" />
       <jump line="16" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/components/mount/mount.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/components/mount/mount.js" />
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/components/mount/mount.js" />
       <jump line="28" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/components/mount/mount.js" />
       <jump line="26" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/components/mount/mount.js" />
       <jump line="15" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/components/mount/mount.js" />
       <jump line="7" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/components/mount/mount.js" />
-      <jump line="29" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/components/mount/mount.js" />
       <jump line="10" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/components/mount/mount.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/components/mount/mount.js" />
+      <jump line="29" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/components/mount/mount.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/hub/test/e2e/hub-headerSpec.js" />
+      <jump line="18" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/hub/test/e2e/hub-footerSpec.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/hub/test/e2e/hub-headerSpec.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/hub/test/e2e/hub-footerSpec.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/hub/test/e2e/hub.po.js" />
+      <jump line="2" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/hub/test/e2e/hub.po.js" />
+      <jump line="1" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/hub/test/e2e/hub.po.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>directive</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>scss</text>
@@ -2663,7 +2670,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Owo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -2672,25 +2679,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB7Cg==</text>
+        <text encoding="base64">ICAgIGdvVG9FbWJlZGRlZEh1YlBhZ2U6IGdvVG9FbWJlZGRlZEh1YlBhZ2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmVzdHJpY3Q6ICdFJywK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAuZGVjb3JhdG9yKCdodWJNZW51RGlyZWN0aXZlJywgZnVuY3Rpb24oJGRlbGVnYXRlKSB7CiAgICByZXR1cm4gW10uY29uY2F0KCRkZWxlZ2F0ZVskZGVsZWdhdGUubGVuZ3RoIC0gMV0pOwogIH0pCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBbXS5jb25jYXQoJGRlbGVnYXRlWyRkZWxlZ2F0ZS5sZW5ndGggLSAxXSk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBnb1RvRW1iZWRkZWRIdWJQYWdlOiBnb1RvRW1iZWRkZWRIdWJQYWdlCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">XSkuZGVjb3JhdG9yKCdodWJNZW51RGlyZWN0aXZlJywgZnVuY3Rpb24oJGRlbGVnYXRlKSB7Cg==</text>
+        <text encoding="base64">ICBmdW5jdGlvbiBnb1RvRW1iZWRkZWRIdWJQYWdlKHBhZ2UpIHsKICB2YXIgcGF0aCA9IHJlcXVpcmUoJ3BhdGgnKTsKICBwYWdlID0gcGFnZSB8fCAndXNlcnMnOwoKICByZXR1cm4gcGFnZUdvKAogICAgcGF0aC5qb2luKCcvYWRtaW4vaHViJywgcGFnZSkKICApOwp9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICByZXR1cm4gW10uY29uY2F0KCRkZWxlZ2F0ZVskZGVsZWdhdGUubGVuZ3RoIC0gMV0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
