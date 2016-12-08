@@ -240,12 +240,6 @@
         <mark key="^" line="26" column="50" />
         <mark key="." line="26" column="50" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/yt-workflow-rule-icon.html" timestamp="1481204778727">
-        <mark key="[" line="1" column="32" />
-        <mark key="]" line="2" column="35" />
-        <mark key="." line="2" column="35" />
-        <mark key="^" line="2" column="35" />
-      </file>
       <file name="chrome-extension://bgnkhhnnamicmpeenaelnjfhikgbkllg/lib/libs/extended-css.js" timestamp="1478111677242">
         <mark key="'" line="2995" column="0" />
       </file>
@@ -448,11 +442,11 @@
         <mark key="." line="90" column="4" />
         <mark key="^" line="90" column="4" />
       </file>
-      <file name="$USER_HOME$/www/js/karma-jasmine/README.md" timestamp="1481220033133">
-        <mark key="[" line="81" column="22" />
-        <mark key="]" line="82" column="28" />
-        <mark key="." line="82" column="28" />
-        <mark key="^" line="82" column="28" />
+      <file name="$USER_HOME$/www/js/karma-jasmine/README.md" timestamp="1481224503360">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
+        <mark key="^" line="79" column="8" />
       </file>
       <file name="$USER_HOME$/www/js/oauth-in-action-code/exercises/ch-4-ex-2/client.js" timestamp="1475445228118">
         <mark key="'" line="45" column="0" />
@@ -1946,12 +1940,12 @@
       <file name="$USER_HOME$/www/js/yvm/node_modules/expect/lib/SpyUtils.js" timestamp="1475062653291">
         <mark key="'" line="25" column="2" />
       </file>
-      <file name="$USER_HOME$/www/js/karma-jasmine/src/adapter.js" timestamp="1481219751577">
-        <mark key="'" line="226" column="15" />
-        <mark key="[" line="336" column="20" />
-        <mark key="]" line="336" column="20" />
-        <mark key="." line="336" column="20" />
-        <mark key="^" line="336" column="20" />
+      <file name="$USER_HOME$/www/js/karma-jasmine/src/adapter.js" timestamp="1481225046980">
+        <mark key="'" line="386" column="0" />
+        <mark key="[" line="337" column="21" />
+        <mark key="]" line="337" column="21" />
+        <mark key="." line="337" column="21" />
+        <mark key="^" line="337" column="21" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/hub/client-side/karma.conf.js" timestamp="1481126450837">
         <mark key="'" line="59" column="0" />
@@ -2675,10 +2669,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1861" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/jasmine-core/lib/jasmine-core/jasmine.js" />
-      <jump line="1864" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/jasmine-core/lib/jasmine-core/jasmine.js" />
-      <jump line="1865" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/jasmine-core/lib/jasmine-core/jasmine.js" />
-      <jump line="2909" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/jasmine-core/lib/jasmine-core/jasmine.js" />
       <jump line="2936" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/jasmine-core/lib/jasmine-core/jasmine.js" />
       <jump line="2981" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/jasmine-core/lib/jasmine-core/jasmine.js" />
       <jump line="1153" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/jasmine-core/lib/jasmine-core/jasmine.js" />
@@ -2775,16 +2765,20 @@
       <jump line="470" column="54" filename="$USER_HOME$/www/js/karma-jasmine/node_modules/jasmine-core/lib/jasmine-core/jasmine.js" />
       <jump line="482" column="34" filename="$USER_HOME$/www/js/karma-jasmine/node_modules/jasmine-core/lib/jasmine-core/jasmine.js" />
       <jump line="525" column="8" filename="$USER_HOME$/www/js/karma-jasmine/node_modules/jasmine-core/lib/jasmine-core/jasmine.js" />
+      <jump line="339" column="4" filename="$USER_HOME$/www/js/karma-jasmine/src/adapter.js" />
+      <jump line="385" column="0" filename="$USER_HOME$/www/js/karma-jasmine/src/adapter.js" />
+      <jump line="43" column="0" filename="$USER_HOME$/www/js/karma-jasmine/src/adapter.js" />
+      <jump line="386" column="0" filename="$USER_HOME$/www/js/karma-jasmine/src/adapter.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>undefined</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgIA==</text>
+        <text>undefined</text>
       </register>
       <register name="/" type="4">
         <text>seed</text>
@@ -2793,34 +2787,34 @@
         <text encoding="base64">YGBganMKbW9kdWxlLmV4cG9ydHMgPSBmdW5jdGlvbihjb25maWcpIHsKICBjb25maWcuc2V0KHsKICAgIC4uLgogICAgY2xpZW50OiB7CiAgICAgIGFyZ3M6IFsnLS1ncmVwJywgJzxwYXR0ZXJuPiddLAogICAgICAuLi4KICAgIH0KICB9KQp9CmBgYAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC4uLgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLi4uCg==</text>
+      <register name="2" type="8">
+        <text encoding="base64">ICAKICAKICA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">WW91IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLi4uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">WW91IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChqYXNtaW5lQ29uZmlnLnNlZWQgIT09IHVuZGVmaW5lZCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgamFzbWluZUVudi5zZWVkKGphc21pbmVDb25maWcuc2VlZCkKICAgIH0KCiAgICBpZiAoamFzbWluZUNvbmZpZy5yYW5kb20gIT09IHVuZGVmaW5lZCkgewogICAgICBqYXNtaW5lRW52LnJhbmRvbWl6ZVRlc3RzKGphc21pbmVDb25maWcucmFuZG9tKQogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChqYXNtaW5lQ29uZmlnLnN0b3BPbkZhaWx1cmUgIT09IHVuZGVmaW5lZCkgewogICAgICBqYXNtaW5lRW52LnRocm93T25FeHBlY3RhdGlvbkZhaWx1cmUoamFzbWluZUNvbmZpZy5zdG9wT25GYWlsdXJlKQogICAgfQo=</text>
+        <text encoding="base64">ICAgIGlmIChqYXNtaW5lQ29uZmlnLnNlZWQgIT09IHVuZGVmaW5lZCkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgamFzbWluZUVudi5zZWVkKGphc21pbmVDb25maWcuc2VlZCkKICAgIH0KCiAgICBpZiAoamFzbWluZUNvbmZpZy5yYW5kb20gIT09IHVuZGVmaW5lZCkgewogICAgICBqYXNtaW5lRW52LnJhbmRvbWl6ZVRlc3RzKGphc21pbmVDb25maWcucmFuZG9tKQogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
