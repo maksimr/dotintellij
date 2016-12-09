@@ -342,8 +342,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/ring-hub/app/blocks/dashboard-adapter/dashboard-adapter.js" timestamp="1480605279671">
         <mark key="'" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/workflow/table.html" timestamp="1481204712791">
-        <mark key="'" line="22" column="18" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/workflow/table.html" timestamp="1481276741737">
+        <mark key="'" line="37" column="16" />
         <mark key="[" line="22" column="30" />
         <mark key="]" line="22" column="48" />
         <mark key="." line="22" column="48" />
@@ -1209,14 +1209,6 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="16" column="1" />
       </file>
-      <file name="$USER_HOME$/www/js/karma-jasmine/test/adapter.spec.js" timestamp="1481224260743">
-        <mark key="a" line="356" column="0" />
-        <mark key="'" line="337" column="12" />
-        <mark key="[" line="389" column="64" />
-        <mark key="]" line="389" column="59" />
-        <mark key="^" line="389" column="59" />
-        <mark key="." line="357" column="41" />
-      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" timestamp="1481204187691">
         <mark key="'" line="36" column="9" />
         <mark key="[" line="204" column="0" />
@@ -1267,11 +1259,11 @@
         <mark key="." line="1" column="38" />
         <mark key="^" line="1" column="38" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/test/unit/jasmine-global.js" timestamp="1481243124757">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/test/unit/jasmine-global.js" timestamp="1481276711788">
         <mark key="'" line="35" column="2" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="47" />
-        <mark key="." line="9" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
         <mark key="^" line="7" column="43" />
       </file>
       <file name="$USER_HOME$/www/js/oauth-in-action-code/exercises/ch-4-ex-4/protectedResource.js" timestamp="1475522252910">
@@ -2706,8 +2698,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1658" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-mocks/angular-mocks.js" />
-      <jump line="1659" column="35" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-mocks/angular-mocks.js" />
       <jump line="1666" column="48" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-mocks/angular-mocks.js" />
       <jump line="1671" column="72" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-mocks/angular-mocks.js" />
       <jump line="1672" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-mocks/angular-mocks.js" />
@@ -2806,10 +2796,12 @@
       <jump line="60" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/jasmine-core/lib/jasmine-core/jasmine.js" />
       <jump line="37" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/test/unit/jasmine-global.js" />
       <jump line="35" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/test/unit/jasmine-global.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/workflow/table.html" />
+      <jump line="37" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/workflow/table.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -2818,7 +2810,7 @@
         <text>runDetails.order, runDetails</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxKc0FwaVJlcG9ydGVyXD4=</text>
+        <text>title</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCctLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0nKTsK</text>
@@ -2830,45 +2822,44 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cmdsb2JhbC5qc0FwaVJlcG9ydGVyLl9qYXNtaW5lRG9uZSA9IGdsb2JhbC5qc0FwaVJlcG9ydGVyLmphc21pbmVEb25lOwpnbG9iYWwuanNBcGlSZXBvcnRlci5qYXNtaW5lRG9uZSA9IGZ1bmN0aW9uKHJ1bkRldGFpbHMpIHsKICBydW5EZXRhaWxzID0gcnVuRGV0YWlscyB8fCB7fTsKICBpZiAocnVuRGV0YWlscy5vcmRlcikgewogICAgY29uc29sZS5sb2coJy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLScpOwogICAgY29uc29sZS5sb2cocnVuRGV0YWlscy5vcmRlciwgcnVuRGV0YWlscyk7CiAgICBjb25zb2xlLmxvZygnLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tJyk7CiAgfQogIHJldHVybiB0aGlzLl9qYXNtaW5lRG9uZShydW5EZXRhaWxzKTsKfTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coZ2xvYmFsLmpzQXBpUmVwb3J0ZXIpOwo=</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">amFzbWluZS5nZXRFbnYoKS5zZWVkKCc0MzIxJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNldExhc3RWaXNpdGVkU3ByaW50RXhwZWN0YXRpb24oY2hlY2tlZFNwcmludC5pZCk7Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coZ2xvYmFsLmpzQXBpUmVwb3J0ZXIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNldExhc3RWaXNpdGVkU3ByaW50RXhwZWN0YXRpb24oJ3NwcmludC0zJyk7Cg==</text>
+        <text encoding="base64">amFzbWluZS5nZXRFbnYoKS5zZWVkKCc0MzIxJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxKc0FwaVJlcG9ydGVyXD4=</last-search>
+      <last-search>title</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxKc0FwaVJlcG9ydGVyXD4=</last-pattern>
+      <last-pattern>title</last-pattern>
       <last-replace />
       <last-substitute>url!</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>conosole.log</entry>
         <entry>request</entry>
         <entry>$http</entry>
         <entry>$httpBackend.get</entry>
@@ -2888,6 +2879,7 @@
         <entry encoding="base64">XDxqYXNtaW5lRG9uZVw+</entry>
         <entry encoding="base64">XDxSZXBvcnREaXNwYXRjaGVyXD4=</entry>
         <entry encoding="base64">XDxKc0FwaVJlcG9ydGVyXD4=</entry>
+        <entry>title</entry>
       </history-search>
       <history-cmd>
         <entry>222</entry>
