@@ -80,6 +80,21 @@
           <node name="method" />
         </scheme>
       </context>
+      <context name="python_class" default="Standard">
+        <scheme name="Standard">
+          <node name="groups" />
+          <node name="class" />
+          <node name="constructor" />
+          <node name="method" />
+        </scheme>
+      </context>
+      <context name="python_file" default="Standard">
+        <scheme name="Standard">
+          <node name="groups" />
+          <node name="class" />
+          <node name="function" />
+        </scheme>
+      </context>
     </sortingScheme>
     <licenses>
       <license>Ms29bIGVlAJ/0+T123XnzympSJDYSK8X6tRyIc/cLEKJJGeOqPyZb9gKbV1vIAzuqHD8gXLEJb7M
@@ -88,6 +103,12 @@ LkQWhJAxsQRdmNnunfZudW1iZXI6MzY1MjE5CnRpdGxlOlBlcnNvbmFsIExpY2Vuc2UKbmFtZTpN
 YWtzaW0gUnl6aGlrb3YKZW1haWw6cnYubWFrc2ltQGdtYWlsLmNvbQp0eXBlOmNvbW1vbgpsZXZl
 bDpwZXJzb25hbApwbGF0Zm9ybTpJZGVhVWx0aW1hdGUKZmVhdHVyZXM6YmFzZSxqYXZhX2V4dAp1
 cGRhdGVzVW50aWw6MTQ3NDYyOTA3Nw==</license>
+      <license>1zZezJ2a/F1tJZxZ+283c93uSsHSc1skU52Vtpa2YqkzhMfOyMtMJGyvH77AvV0XZpnpdkQLm0XV
+N1RJ272LSL+EDEDxBGdKDI/D0HYSWe8A7jKO+NQZNdPMbYXRW9Gyc1BeFYSDsMQix50fsFTmJrXQ
+s/DZ8gsNYg2l79gS1htudW1iZXI6MzUxMjM5CnRpdGxlOlRyaWFsIExpY2Vuc2UKdHlwZTpjb21t
+b24KbGV2ZWw6dHJpYWwKcGxhdGZvcm06SWRlYVVsdGltYXRlCmZlYXR1cmVzOmJhc2UsamF2YV9l
+eHQsZ3Jvb3Z5X2V4dCxzY2FsYV9leHQscGhwX2V4dCxweXRob25fZXh0CmV4cGlyZToxNDgzMTk1
+Njg0</license>
     </licenses>
   </component>
 </application>
