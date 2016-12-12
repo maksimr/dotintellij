@@ -83,8 +83,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/ring/style/ring.scss" timestamp="1473176097435">
         <mark key="'" line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/utils.js" timestamp="1481044160207">
-        <mark key="'" line="372" column="2" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/utils.js" timestamp="1481551845777">
+        <mark key="'" line="376" column="2" />
         <mark key="[" line="119" column="21" />
         <mark key="]" line="119" column="28" />
         <mark key="^" line="119" column="28" />
@@ -2288,7 +2288,7 @@
         <mark key="." line="30" column="47" />
         <mark key="^" line="30" column="47" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/test/service/utils.js" timestamp="1481043253326">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/test/service/utils.js" timestamp="1481551858272">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="0" />
@@ -2700,9 +2700,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="34" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/workflows.js" />
-      <jump line="58" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/workflows.js" />
-      <jump line="79" column="42" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/directive/yt-workflow-table.js" />
       <jump line="3" column="54" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/workflows.js" />
       <jump line="19" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/directive/yt-workflow-table.js" />
       <jump line="33" column="39" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/yt-workflow-table.html" />
@@ -2800,6 +2797,9 @@
       <jump line="76" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
       <jump line="65" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
       <jump line="96" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/utils.js" />
+      <jump line="376" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/utils.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/test/service/utils.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2812,7 +2812,7 @@
         <text>/admin/editProject/38-1?tab=workflow</text>
       </register>
       <register name="/" type="4">
-        <text>protrac</text>
+        <text>toAbsolute</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAK</text>
@@ -2852,9 +2852,9 @@
       </register>
     </registers>
     <search>
-      <last-search>protrac</last-search>
+      <last-search>toAbsolute</last-search>
       <last-offset />
-      <last-pattern>protrac</last-pattern>
+      <last-pattern>toAbsolute</last-pattern>
       <last-replace>$ctrl.getWorkflowItemName</last-replace>
       <last-substitute>getWorkflowItemName</last-substitute>
       <last-dir>1</last-dir>
@@ -2862,8 +2862,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxXT1JLRkxPV1NfRklFTERTXD4=</entry>
-        <entry>projectReso</entry>
         <entry>worfklowsResou</entry>
         <entry encoding="base64">XDx3b3JrZmxvd3NSZXNvdXJjZVw+</entry>
         <entry encoding="base64">XDxvblJlbW92ZVdvcmtmbG93UnVsZUZyb21Qcm9qZWN0XD4=</entry>
@@ -2882,6 +2880,8 @@
         <entry encoding="base64">XDxjdXN0b21GaWVsZHNQYWdlXD4=</entry>
         <entry>jar</entry>
         <entry>protrac</entry>
+        <entry>absoluteUrl</entry>
+        <entry>toAbsolute</entry>
       </history-search>
       <history-cmd>
         <entry>%s/,\s*{.*} from/ from/gc</entry>
