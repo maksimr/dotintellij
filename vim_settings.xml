@@ -307,8 +307,8 @@
         <mark key="." line="39" column="3" />
         <mark key="^" line="39" column="3" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/column-settings.js" timestamp="1477417761939">
-        <mark key="'" line="251" column="23" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/column-settings.js" timestamp="1481552908375">
+        <mark key="'" line="45" column="4" />
         <mark key="[" line="56" column="31" />
         <mark key="]" line="57" column="5" />
         <mark key="." line="57" column="5" />
@@ -1330,10 +1330,6 @@
         <mark key="^" line="15" column="70" />
         <mark key="." line="15" column="70" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/yt-workflow-rule-preview.js" timestamp="1481538142164">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="38" />
-      </file>
       <file name="$USER_HOME$/www/js/specht/src/readdir.js" timestamp="1472218559059">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="39" column="5" />
@@ -2288,7 +2284,7 @@
         <mark key="." line="30" column="47" />
         <mark key="^" line="30" column="47" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/test/service/utils.js" timestamp="1481551858272">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/test/service/utils.js" timestamp="1481552891239">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="0" />
@@ -2700,7 +2696,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="54" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/workflows.js" />
       <jump line="19" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/directive/yt-workflow-table.js" />
       <jump line="33" column="39" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/yt-workflow-table.html" />
       <jump line="92" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/yt-workflow-table.html" />
@@ -2800,6 +2795,7 @@
       <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/utils.js" />
       <jump line="376" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/utils.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/test/service/utils.js" />
+      <jump line="45" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/column-settings.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2812,7 +2808,7 @@
         <text>/admin/editProject/38-1?tab=workflow</text>
       </register>
       <register name="/" type="4">
-        <text>toAbsolute</text>
+        <text>getColumn</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAK</text>
@@ -2852,9 +2848,9 @@
       </register>
     </registers>
     <search>
-      <last-search>toAbsolute</last-search>
+      <last-search>getColumn</last-search>
       <last-offset />
-      <last-pattern>toAbsolute</last-pattern>
+      <last-pattern>getColumn</last-pattern>
       <last-replace>$ctrl.getWorkflowItemName</last-replace>
       <last-substitute>getWorkflowItemName</last-substitute>
       <last-dir>1</last-dir>
@@ -2862,7 +2858,6 @@
     </search>
     <history>
       <history-search>
-        <entry>worfklowsResou</entry>
         <entry encoding="base64">XDx3b3JrZmxvd3NSZXNvdXJjZVw+</entry>
         <entry encoding="base64">XDxvblJlbW92ZVdvcmtmbG93UnVsZUZyb21Qcm9qZWN0XD4=</entry>
         <entry encoding="base64">XDxwcm9qZWN0c1Jlc291cmNlXD4=</entry>
@@ -2882,6 +2877,7 @@
         <entry>protrac</entry>
         <entry>absoluteUrl</entry>
         <entry>toAbsolute</entry>
+        <entry>getColumn</entry>
       </history-search>
       <history-cmd>
         <entry>%s/,\s*{.*} from/ from/gc</entry>
