@@ -612,10 +612,10 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/specht/lib/runner.js" timestamp="1472554751605">
         <mark key="'" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/www/js/yvm/test/ls-remoteSpec.js" timestamp="1481560470641">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="26" column="12" />
-        <mark key="]" line="26" column="38" />
+      <file name="$USER_HOME$/www/js/yvm/test/ls-remoteSpec.js" timestamp="1481561089287">
+        <mark key="'" line="24" column="55" />
+        <mark key="[" line="24" column="26" />
+        <mark key="]" line="24" column="31" />
         <mark key="." line="52" column="26" />
         <mark key="^" line="52" column="26" />
       </file>
@@ -835,6 +835,9 @@
         <mark key="]" line="19" column="0" />
         <mark key="^" line="25" column="84" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/js/yvm/lib/install-remote.js" timestamp="1481561449971">
+        <mark key="'" line="17" column="36" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/test-documentation.js" timestamp="1476798864718">
         <mark key="'" line="36" column="0" />
@@ -1480,14 +1483,6 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-board.html" timestamp="1477053669180">
         <mark key="'" line="23" column="5" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/workflows.js" timestamp="1481539248014">
-        <mark key="a" line="326" column="15" />
-        <mark key="'" line="502" column="23" />
-        <mark key="[" line="326" column="44" />
-        <mark key="]" line="326" column="44" />
-        <mark key="." line="326" column="44" />
-        <mark key="^" line="326" column="44" />
-      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/error.js" timestamp="1481042487113">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="9" column="20" />
@@ -1899,10 +1894,10 @@
         <mark key="." line="6" column="39" />
         <mark key="^" line="6" column="39" />
       </file>
-      <file name="$USER_HOME$/www/js/yvm/lib/cli.js" timestamp="1481560481937">
-        <mark key="'" line="47" column="0" />
-        <mark key="[" line="6" column="16" />
-        <mark key="]" line="6" column="51" />
+      <file name="$USER_HOME$/www/js/yvm/lib/cli.js" timestamp="1481561125397">
+        <mark key="'" line="21" column="16" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="0" />
         <mark key="." line="43" column="38" />
         <mark key="^" line="43" column="38" />
       </file>
@@ -2697,8 +2692,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="322" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/workflows.js" />
-      <jump line="503" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/workflows.js" />
       <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/workflows.js" />
       <jump line="2" column="87" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/workflows.js" />
       <jump line="50" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/projects-resource.js" />
@@ -2770,7 +2763,6 @@
       <jump line="50" column="0" filename="$USER_HOME$/www/js/yvm/test/ls-remoteSpec.js" />
       <jump line="46" column="20" filename="$USER_HOME$/www/js/yvm/test/ls-remoteSpec.js" />
       <jump line="32" column="20" filename="$USER_HOME$/www/js/yvm/test/ls-remoteSpec.js" />
-      <jump line="24" column="9" filename="$USER_HOME$/www/js/yvm/test/ls-remoteSpec.js" />
       <jump line="68" column="20" filename="$USER_HOME$/www/js/yvm/test/ls-remoteSpec.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/js/yvm/test/ls-remoteSpec.js" />
       <jump line="47" column="0" filename="$USER_HOME$/www/js/yvm/lib/cli.js" />
@@ -2797,10 +2789,13 @@
       <jump line="1079" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/lib/jquery-ui/jquery-ui.js" />
       <jump line="1230" column="38" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/lib/jquery-ui/jquery-ui.js" />
       <jump line="1305" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/lib/jquery-ui/jquery-ui.js" />
+      <jump line="21" column="16" filename="$USER_HOME$/www/js/yvm/lib/cli.js" />
+      <jump line="24" column="55" filename="$USER_HOME$/www/js/yvm/test/ls-remoteSpec.js" />
+      <jump line="17" column="36" filename="$USER_HOME$/www/js/yvm/lib/install-remote.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>http://buildserver.labs.intellij.net</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dmFyIGJ1aWxkVHlwZUlkID0gJ1lUREVWX0J1aWxkQXJ0aWZhY3RzSmFyQW5kV2FyR3JhZGxlJzsKCg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -2809,10 +2804,10 @@
         <text>'http://foo.com',</text>
       </register>
       <register name="/" type="4">
-        <text>scroll</text>
+        <text>artifact</text>
       </register>
-      <register name="0" type="4">
-        <text>http://buildserver.labs.intellij.net</text>
+      <register name="0" type="2">
+        <text encoding="base64">dmFyIGJ1aWxkVHlwZUlkID0gJ1lUREVWX0J1aWxkQXJ0aWZhY3RzSmFyQW5kV2FyR3JhZGxlJzsKCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICB2YXIgCg==</text>
@@ -2849,9 +2844,9 @@
       </register>
     </registers>
     <search>
-      <last-search>scroll</last-search>
+      <last-search>artifact</last-search>
       <last-offset />
-      <last-pattern>scroll</last-pattern>
+      <last-pattern>artifact</last-pattern>
       <last-replace>$ctrl.getWorkflowItemName</last-replace>
       <last-substitute>getWorkflowItemName</last-substitute>
       <last-dir>1</last-dir>
@@ -2859,8 +2854,6 @@
     </search>
     <history>
       <history-search>
-        <entry>workflows</entry>
-        <entry encoding="base64">XDxjcmVhdGVQcm9qZWN0VXJsXD4=</entry>
         <entry>FIELDS:</entry>
         <entry>restore</entry>
         <entry>FIELDS</entry>
@@ -2879,6 +2872,8 @@
         <entry encoding="base64">XDxidWlsZHNMb2NhdG9yXD4=</entry>
         <entry>sortable</entry>
         <entry>scroll</entry>
+        <entry encoding="base64">XDxidWlsZFR5cGVJZFw+</entry>
+        <entry>artifact</entry>
       </history-search>
       <history-cmd>
         <entry>%s/,\s*{.*} from/ from/gc</entry>
