@@ -1,0 +1,7 @@
+<templateSet group="AngularJS ">
+  <template name="ngtd" value="$scope = $rootScope.$new();&#10;element = $compile('&lt;div&gt;&lt;/div&gt;')($scope);&#10;$scope.$digest();" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
