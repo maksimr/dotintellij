@@ -2404,12 +2404,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/create-permissions-store.js" timestamp="1475165115291">
         <mark key="'" line="16" column="15" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-boards.js" timestamp="1481656369488">
-        <mark key="'" line="7" column="81" />
-        <mark key="[" line="7" column="76" />
-        <mark key="]" line="7" column="81" />
-        <mark key="." line="7" column="81" />
-        <mark key="^" line="7" column="81" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-boards.js" timestamp="1481657116056">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="21" column="53" />
+        <mark key="]" line="21" column="51" />
+        <mark key="." line="21" column="51" />
+        <mark key="^" line="21" column="51" />
       </file>
       <file name="$USER_HOME$/www/js/karma/test/unit/mocha-globals.js" timestamp="1480709734358">
         <mark key="'" line="12" column="7" />
@@ -2815,7 +2815,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/main-core.scss" />
       <jump line="100" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/main-core.scss" />
       <jump line="104" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/main-core.scss" />
       <jump line="110" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/main-core.scss" />
@@ -2863,7 +2862,6 @@
       <jump line="53" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-boards.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-boards.js" />
       <jump line="37" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-boards.js" />
-      <jump line="50" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-boards.js" />
       <jump line="27" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-boards.js" />
       <jump line="48" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-boards.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/test/service/command-dialog.js" />
@@ -2915,19 +2913,21 @@
       <jump line="45" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-boards.js" />
       <jump line="41" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-boards.js" />
       <jump line="15" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-boards.js" />
+      <jump line="50" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-boards.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-boards.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Issue has no sprints</text>
+        <text>ytUtils.memoize(</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>Issue has no sprints</text>
+        <text>ytUtils.memoize(</text>
       </register>
       <register name="/" type="4">
-        <text>has no</text>
+        <text>memo</text>
       </register>
       <register name="0" type="4">
         <text>ytIssueBoardsDropdownCtrl.sprints</text>
@@ -2967,9 +2967,9 @@
       </register>
     </registers>
     <search>
-      <last-search>has no</last-search>
+      <last-search>memo</last-search>
       <last-offset />
-      <last-pattern>has no</last-pattern>
+      <last-pattern>memo</last-pattern>
       <last-replace>$ctrl.getWorkflowItemName</last-replace>
       <last-substitute>getWorkflowItemName</last-substitute>
       <last-dir>1</last-dir>
@@ -2977,8 +2977,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bindTo</entry>
-        <entry encoding="base64">XDxiaW5kVG9Db250b2xsZXJcPg==</entry>
         <entry encoding="base64">XDxfc2hvd1w+</entry>
         <entry>link</entry>
         <entry>loading</entry>
@@ -2997,6 +2995,8 @@
         <entry>action</entry>
         <entry>icon-action</entry>
         <entry>has no</entry>
+        <entry>ytMem</entry>
+        <entry>memo</entry>
       </history-search>
       <history-cmd>
         <entry>%s/,\s*{.*} from/ from/gc</entry>
