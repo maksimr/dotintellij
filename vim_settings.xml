@@ -2086,8 +2086,8 @@
         <mark key="." line="27" column="27" />
         <mark key="^" line="27" column="27" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/serverside-events/service/yt-serverside-events.js" timestamp="1481199351573">
-        <mark key="'" line="147" column="2" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/serverside-events/service/yt-serverside-events.js" timestamp="1481626843814">
+        <mark key="'" line="120" column="8" />
         <mark key="[" line="26" column="0" />
         <mark key="]" line="27" column="42" />
         <mark key="." line="48" column="0" />
@@ -2330,6 +2330,9 @@
         <mark key="]" line="8" column="34" />
         <mark key="^" line="8" column="34" />
         <mark key="." line="8" column="34" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/unsupported-browser/service/unsupported-browser.js" timestamp="1481627205738">
+        <mark key="." line="3" column="25" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/filter/sort-user-values-by-current-user.js" timestamp="1472478297199">
         <mark key="'" line="4" column="1" />
@@ -2703,13 +2706,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/issue.js" />
-      <jump line="87" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/issue.js" />
-      <jump line="64" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/issue.js" />
-      <jump line="1" column="70" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/issue.js" />
-      <jump line="12" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/issue.js" />
-      <jump line="49" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-view.js" />
-      <jump line="160" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-view.js" />
       <jump line="43" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-view.js" />
       <jump line="29" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-view.js" />
       <jump line="227" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-view.js" />
@@ -2803,6 +2799,13 @@
       <jump line="56" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/form/directive/yt-form-state-select.js" />
       <jump line="8" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/form/directive/yt-form-state-select.js" />
       <jump line="10" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/form/directive/yt-form-state-select.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/serverside-events/service/yt-serverside-events.js" />
+      <jump line="138" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/serverside-events/service/yt-serverside-events.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/serverside-events/service/yt-serverside-events.js" />
+      <jump line="51" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/serverside-events/service/yt-serverside-events.js" />
+      <jump line="52" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/serverside-events/service/yt-serverside-events.js" />
+      <jump line="108" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/serverside-events/service/yt-serverside-events.js" />
+      <jump line="120" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/serverside-events/service/yt-serverside-events.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2815,7 +2818,7 @@
         <text>bindings</text>
       </register>
       <register name="/" type="4">
-        <text>present</text>
+        <text encoding="base64">XDxzZXRVcFdhdGNoRG9nVGltZXJcPg==</text>
       </register>
       <register name="0" type="4">
         <text>currentUserMock</text>
@@ -2855,20 +2858,16 @@
       </register>
     </registers>
     <search>
-      <last-search>present</last-search>
+      <last-search encoding="base64">XDxzZXRVcFdhdGNoRG9nVGltZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>present</last-pattern>
+      <last-pattern encoding="base64">XDxzZXRVcFdhdGNoRG9nVGltZXJcPg==</last-pattern>
       <last-replace>$ctrl.getWorkflowItemName</last-replace>
       <last-substitute>getWorkflowItemName</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>pageTitle</entry>
-        <entry encoding="base64">XDxpbml0RmllbGRzQ29udGFpbmVyUG9zaXRpb25pbmdcPg==</entry>
-        <entry>yt-issue</entry>
-        <entry>scope</entry>
         <entry encoding="base64">XDxyZ1Nob3J0Y3V0c1w+</entry>
         <entry>rg-shor</entry>
         <entry>element</entry>
@@ -2885,6 +2884,10 @@
         <entry>select</entry>
         <entry>item</entry>
         <entry>present</entry>
+        <entry>setLast</entry>
+        <entry>watchtod</entry>
+        <entry>watch</entry>
+        <entry encoding="base64">XDxzZXRVcFdhdGNoRG9nVGltZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/,\s*{.*} from/ from/gc</entry>
