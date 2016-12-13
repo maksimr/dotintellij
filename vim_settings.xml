@@ -766,9 +766,9 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/template/projects-create.html" timestamp="1476806947850">
         <mark key="'" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-view.js" timestamp="1481630376297">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-view.js" timestamp="1481630442784">
         <mark key="a" line="284" column="46" />
-        <mark key="'" line="12" column="0" />
+        <mark key="'" line="360" column="11" />
         <mark key="[" line="52" column="0" />
         <mark key="]" line="54" column="38" />
         <mark key="^" line="54" column="23" />
@@ -2720,9 +2720,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-view.js" />
-      <jump line="158" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-view.js" />
-      <jump line="61" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-view.js" />
       <jump line="108" column="32" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-view.js" />
       <jump line="109" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-view.js" />
       <jump line="16" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-view.js" />
@@ -2820,6 +2817,9 @@
       <jump line="0" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-view.js" />
       <jump line="361" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-view.js" />
       <jump line="12" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-view.js" />
+      <jump line="97" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-view.js" />
+      <jump line="158" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-view.js" />
+      <jump line="360" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-view.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2832,7 +2832,7 @@
         <text>fakeC</text>
       </register>
       <register name="/" type="4">
-        <text>binding</text>
+        <text encoding="base64">XDxleHBlY3REZXNjcmlwdGlvbldpbGxCZVdpa2lmaWVkXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Cg==</text>
@@ -2872,17 +2872,16 @@
       </register>
     </registers>
     <search>
-      <last-search>binding</last-search>
+      <last-search encoding="base64">XDxleHBlY3REZXNjcmlwdGlvbldpbGxCZVdpa2lmaWVkXD4=</last-search>
       <last-offset />
-      <last-pattern>binding</last-pattern>
+      <last-pattern encoding="base64">XDxleHBlY3REZXNjcmlwdGlvbldpbGxCZVdpa2lmaWVkXD4=</last-pattern>
       <last-replace>$ctrl.getWorkflowItemName</last-replace>
       <last-substitute>getWorkflowItemName</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1c2VyUGVybWlzc2lvbnNNb2NrXD4=</entry>
         <entry>userPermi</entry>
         <entry encoding="base64">XDx1cGRhdGVyXD4=</entry>
         <entry>createIssue</entry>
@@ -2902,6 +2901,7 @@
         <entry encoding="base64">XDxzZXRDdXJyZW50VXNlclw+</entry>
         <entry encoding="base64">XDxjcmVhdGVVc2VyXD4=</entry>
         <entry>binding</entry>
+        <entry encoding="base64">XDxleHBlY3REZXNjcmlwdGlvbldpbGxCZVdpa2lmaWVkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/,\s*{.*} from/ from/gc</entry>
