@@ -464,8 +464,8 @@
       <file name="$USER_HOME$/www/js/oauth-in-action-code/exercises/ch-4-ex-2/client.js" timestamp="1475445228118">
         <mark key="'" line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/get-issue-sprints.js" timestamp="1481638130207">
-        <mark key="'" line="12" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/get-issue-sprints.js" timestamp="1481657942065">
+        <mark key="'" line="12" column="46" />
         <mark key="[" line="34" column="3" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="32" column="0" />
@@ -473,8 +473,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/service/yt-shortcuts.js" timestamp="1474630518587">
         <mark key="'" line="63" column="24" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/issue.js" timestamp="1481638154920">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/issue.js" timestamp="1481657958978">
+        <mark key="'" line="68" column="11" />
         <mark key="[" line="74" column="30" />
         <mark key="]" line="74" column="35" />
         <mark key="." line="74" column="35" />
@@ -2815,14 +2815,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/main-core.scss" />
-      <jump line="104" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/main-core.scss" />
-      <jump line="110" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/main-core.scss" />
-      <jump line="114" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/main-core.scss" />
-      <jump line="116" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/main-core.scss" />
-      <jump line="121" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/main-core.scss" />
-      <jump line="104" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dropdown/service/yt-dropdown.js" />
-      <jump line="7" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dropdown/service/yt-dropdown.js" />
       <jump line="152" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dropdown/service/yt-dropdown.js" />
       <jump line="67" column="37" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dropdown/service/yt-dropdown.js" />
       <jump line="4" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-boards.js" />
@@ -2915,6 +2907,14 @@
       <jump line="15" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-boards.js" />
       <jump line="50" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-boards.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-boards.js" />
+      <jump line="24" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/get-issue-sprints.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/get-issue-sprints.js" />
+      <jump line="15" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/get-issue-sprints.js" />
+      <jump line="31" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/get-issue-sprints.js" />
+      <jump line="0" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/get-issue-sprints.js" />
+      <jump line="8" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/get-issue-sprints.js" />
+      <jump line="12" column="46" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/get-issue-sprints.js" />
+      <jump line="68" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/issue.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2927,7 +2927,7 @@
         <text>ytUtils.memoize(</text>
       </register>
       <register name="/" type="4">
-        <text>memo</text>
+        <text>get-issue-sprint</text>
       </register>
       <register name="0" type="4">
         <text>ytIssueBoardsDropdownCtrl.sprints</text>
@@ -2967,9 +2967,9 @@
       </register>
     </registers>
     <search>
-      <last-search>memo</last-search>
+      <last-search>get-issue-sprint</last-search>
       <last-offset />
-      <last-pattern>memo</last-pattern>
+      <last-pattern>get-issue-sprint</last-pattern>
       <last-replace>$ctrl.getWorkflowItemName</last-replace>
       <last-substitute>getWorkflowItemName</last-substitute>
       <last-dir>1</last-dir>
@@ -2977,8 +2977,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfc2hvd1w+</entry>
-        <entry>link</entry>
         <entry>loading</entry>
         <entry encoding="base64">XDxMT0FESU5HX0FOQ0hPUl9DTEFTU19OQU1FXD4=</entry>
         <entry>onOpen</entry>
@@ -2997,6 +2995,8 @@
         <entry>has no</entry>
         <entry>ytMem</entry>
         <entry>memo</entry>
+        <entry>getIssue</entry>
+        <entry>get-issue-sprint</entry>
       </history-search>
       <history-cmd>
         <entry>%s/,\s*{.*} from/ from/gc</entry>
