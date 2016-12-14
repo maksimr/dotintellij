@@ -73,10 +73,10 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/ring-ui/components/footer-ng/footer-ng.js" timestamp="1481110394312">
         <mark key="'" line="46" column="2" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1481723838161">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="105" column="19" />
-        <mark key="]" line="105" column="20" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1481726024268">
+        <mark key="'" line="107" column="19" />
+        <mark key="[" line="144" column="18" />
+        <mark key="]" line="144" column="44" />
         <mark key="^" line="114" column="21" />
         <mark key="." line="105" column="20" />
       </file>
@@ -2834,7 +2834,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-boards.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/test/service/command-dialog.js" />
       <jump line="23" column="32" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/test/service/command-dialog.js" />
       <jump line="26" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/test/service/command-dialog.js" />
@@ -2934,10 +2933,11 @@
       <jump line="9" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-boards-dropdown.html" />
       <jump line="24" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-boards-dropdown.html" />
       <jump line="16" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="107" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>12</text>
+        <text>npm run build --prefix=hub/</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -2949,7 +2949,7 @@
         <text>event</text>
       </register>
       <register name="0" type="4">
-        <text>ytIssueBoardsDropdownCtrl.sprints | filter:search</text>
+        <text>npm run build --prefix=hub/</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgPHl0LWljb24gY2xhc3M9Inl0LWdyZXktdGV4dCIKICAgICAgICAgICAgICAgc2l6ZT0ic20iCiAgICAgICAgICAgICAgIGljb249InNlYXJjaC1lbXB0eSI+PC95dC1pY29uPgoK</text>
