@@ -73,10 +73,10 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/ring-ui/components/footer-ng/footer-ng.js" timestamp="1481110394312">
         <mark key="'" line="46" column="2" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1481730037394">
-        <mark key="'" line="107" column="19" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="106" column="22" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1481734233786">
+        <mark key="'" line="105" column="0" />
+        <mark key="[" line="134" column="5" />
+        <mark key="]" line="134" column="21" />
         <mark key="^" line="114" column="21" />
         <mark key="." line="105" column="20" />
       </file>
@@ -1185,8 +1185,8 @@
         <mark key="." line="66" column="25" />
         <mark key="^" line="66" column="25" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/e2e/agile-boardSpec.js" timestamp="1481028122957">
-        <mark key="'" line="457" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/e2e/agile-boardSpec.js" timestamp="1481733913968">
+        <mark key="'" line="5" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="507" column="2" />
         <mark key="." line="78" column="3" />
@@ -2788,8 +2788,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/main-core.scss" />
-      <jump line="132" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/main-core.scss" />
       <jump line="9" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/global/global.scss" />
       <jump line="20" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/global/global.scss" />
       <jump line="18" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/global/global.scss" />
@@ -2888,10 +2886,12 @@
       <jump line="12" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issue-view-dialog.js" />
       <jump line="73" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issue-view-dialog.js" />
       <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issue-view-dialog.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/e2e/agile-boardSpec.js" />
+      <jump line="105" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB2YXIgJHE7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>test:e2e:teamcity</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -2900,7 +2900,7 @@
         <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
-        <text>$location</text>
+        <text>test</text>
       </register>
       <register name="0" type="4">
         <text>$location.search().issuePreviewId</text>
@@ -2940,9 +2940,9 @@
       </register>
     </registers>
     <search>
-      <last-search>$location</last-search>
+      <last-search>test</last-search>
       <last-offset />
-      <last-pattern>$location</last-pattern>
+      <last-pattern>test</last-pattern>
       <last-replace>$ctrl.getWorkflowItemName</last-replace>
       <last-substitute>getWorkflowItemName</last-substitute>
       <last-dir>1</last-dir>
@@ -2950,9 +2950,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get-issue-sprint</entry>
-        <entry>eee</entry>
-        <entry>#eee</entry>
         <entry>border</entry>
         <entry>input</entry>
         <entry>event</entry>
@@ -2970,6 +2967,9 @@
         <entry encoding="base64">XDxpc3N1ZVZpZXdEaWFsb2dcPg==</entry>
         <entry>destroy</entry>
         <entry>$location</entry>
+        <entry>Lorem Ipsum</entry>
+        <entry>change</entry>
+        <entry>test</entry>
       </history-search>
       <history-cmd>
         <entry>%s/,\s*{.*} from/ from/gc</entry>
