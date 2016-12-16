@@ -80,8 +80,12 @@
         <mark key="^" line="114" column="21" />
         <mark key="." line="105" column="20" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/scripts-resource.js" timestamp="1481900191066">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/scripts-resource.js" timestamp="1481902624410">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="27" column="45" />
+        <mark key="]" line="27" column="43" />
+        <mark key="." line="27" column="43" />
+        <mark key="^" line="27" column="43" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/ring/style/ring.scss" timestamp="1473176097435">
         <mark key="'" line="7" column="0" />
@@ -1693,6 +1697,12 @@
         <mark key="^" line="19" column="28" />
         <mark key="." line="19" column="15" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/scripts/script.js" timestamp="1481902595858">
+        <mark key="[" line="33" column="8" />
+        <mark key="]" line="33" column="9" />
+        <mark key="." line="33" column="9" />
+        <mark key="^" line="33" column="9" />
+      </file>
       <file name="$USER_HOME$/www/js/tt/test/teamcityBuildsSpec.js" timestamp="1473080969233">
         <mark key="'" line="17" column="0" />
       </file>
@@ -2918,14 +2928,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/scripts-resource.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNjcmlwdHM6IHJlc291cmNlKCdhcGkvYWRtaW4vd29ya2Zsb3dzJywgbWV0aG9kcywgewogICAgICAgICAgICBmaWVsZHM6ICdpZCxuYW1lLHRpdGxlLGF1dG9BdHRhY2gscmVhZE9ubHksY29udmVydGVkLHVwZGF0ZWQsdXBkYXRlZEJ5KGxvZ2luKSxyZXN0b3JlU3RhdHVzKGlkKSxydWxlcyhpZCxuYW1lKSx1cGRhdGVkQnksdXNhZ2VzKHByb2plY3QoaWQsbmFtZSxyaW5nSWQpLGlzQnJva2VuKScKICAgICAgICAgIH0pLAo=</text>
+      <register name="&quot;" type="4">
+        <text>:scriptId</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>workflows</text>
+        <text>:scriptId</text>
       </register>
       <register name="/" type="4">
         <text>script</text>
@@ -2934,16 +2944,16 @@
         <text encoding="base64">ICAgICAgICAgIHdvcmtmbG93czogcmVzb3VyY2UoJ2FwaS9hZG1pbi93b3JrZmxvd3MnLCBtZXRob2RzLCB7CiAgICAgICAgICAgIGZpZWxkczogJ2lkLG5hbWUsdGl0bGUsYXV0b0F0dGFjaCxyZWFkT25seSxjb252ZXJ0ZWQsdXBkYXRlZCx1cGRhdGVkQnkobG9naW4pLHJlc3RvcmVTdGF0dXMoaWQpLHJ1bGVzKGlkLG5hbWUpLHVwZGF0ZWRCeSx1c2FnZXMocHJvamVjdChpZCxuYW1lLHJpbmdJZCksaXNCcm9rZW4pJwogICAgICAgICAgfSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNjcmlwdHM6IHJlc291cmNlKCdhcGkvYWRtaW4vd29ya2Zsb3dzJywgbWV0aG9kcywgewogICAgICAgICAgICBmaWVsZHM6ICdpZCxuYW1lLHRpdGxlLGF1dG9BdHRhY2gscmVhZE9ubHksY29udmVydGVkLHVwZGF0ZWQsdXBkYXRlZEJ5KGxvZ2luKSxyZXN0b3JlU3RhdHVzKGlkKSxydWxlcyhpZCxuYW1lKSx1cGRhdGVkQnksdXNhZ2VzKHByb2plY3QoaWQsbmFtZSxyaW5nSWQpLGlzQnJva2VuKScKICAgICAgICAgIH0pLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIDogJ0BzY3JpcHRJZCcsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlcXVpcmUoJy4uLy4uL2FkbWluJykubmFtZQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHNjcmlwdHM6IHJlc291cmNlKCdhcGkvYWRtaW4vd29ya2Zsb3dzJywgbWV0aG9kcywgewogICAgICAgICAgICBmaWVsZHM6ICdpZCxuYW1lLHRpdGxlLGF1dG9BdHRhY2gscmVhZE9ubHksY29udmVydGVkLHVwZGF0ZWQsdXBkYXRlZEJ5KGxvZ2luKSxyZXN0b3JlU3RhdHVzKGlkKSxydWxlcyhpZCxuYW1lKSx1cGRhdGVkQnksdXNhZ2VzKHByb2plY3QoaWQsbmFtZSxyaW5nSWQpLGlzQnJva2VuKScKICAgICAgICAgIH0pLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlcXVpcmUoJy4uLy4uL2FkbWluJykubmFtZQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -2952,16 +2962,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbWFrc2ltcnYgb24gMTYvMTIvMjAxNi4KICovCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0ieXQtdmd1dHRlci0zIj4KICAgICAgICA8dGFibGUgY2xhc3M9Inl0LWluZm9ybWF0aW9uLXRhYmxlIj4KICAgICAgICAgIDx0aGVhZD4KICAgICAgICAgIDx0cj4KICAgICAgICAgICAgPHRoIHRyYW5zbGF0ZT5EdW5ubyB3aGF0PC90aD4KICAgICAgICAgICAgPHRoIHRyYW5zbGF0ZT5EdW5ubyB3aGF0PC90aD4KICAgICAgICAgIDwvdHI+CiAgICAgICAgICA8L3RoZWFkPgogICAgICAgICAgPHRib2R5PgogICAgICAgICAgPHRyPgogICAgICAgICAgICA8dGQ+QTwvdGQ+CiAgICAgICAgICAgIDx0ZD5CPC90ZD4KICAgICAgICAgIDwvdHI+CiAgICAgICAgICA8L3Rib2R5PgogICAgICAgIDwvdGFibGU+CiAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbWFrc2ltcnYgb24gMTYvMTIvMjAxNi4KICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
