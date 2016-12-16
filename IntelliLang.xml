@@ -114,6 +114,10 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("rg-tooltip")).withParent(xmlTag().withLocalName(string().equalTo("span")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-agile-board-general-settings/@on-update</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-update")).withParent(xmlTag().withLocalName(string().equalTo("yt-agile-board-general-settings")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>yt-agile-card-assignee/@assignees</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("assignees")).withParent(xmlTag().withLocalName(string().equalTo("yt-agile-card-assignee")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
