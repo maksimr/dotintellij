@@ -1029,6 +1029,9 @@
       <file name="$USER_HOME$/www/js/tt/node_modules/oboe/dist/oboe-node.js" timestamp="1474147080037">
         <mark key="'" line="2448" column="57" />
       </file>
+      <file name="$USER_HOME$/www/js/karma-cli/bin/karma" timestamp="1482057054373">
+        <mark key="'" line="33" column="2" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/test/service/http-error-handler.js" timestamp="1473420577262">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="50" column="0" />
@@ -1442,6 +1445,9 @@
         <mark key="]" line="147" column="17" />
         <mark key="^" line="147" column="17" />
         <mark key="." line="147" column="17" />
+      </file>
+      <file name="$USER_HOME$/www/js/karma/lib/runner.js" timestamp="1482057085565">
+        <mark key="'" line="72" column="0" />
       </file>
       <file name="$USER_HOME$/www/js/oauth-in-action-code/exercises/ch-3-ex-1/node_modules/underscore/underscore.js" timestamp="1475407637653">
         <mark key="'" line="1425" column="45" />
@@ -2841,16 +2847,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/agile-board.js" />
-      <jump line="316" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/agile-board.js" />
-      <jump line="6" column="1" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-board-general-settings.js" />
-      <jump line="185" column="46" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-board-general-settings.js" />
-      <jump line="193" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-board-general-settings.js" />
-      <jump line="200" column="53" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-board-general-settings.js" />
-      <jump line="208" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-board-general-settings.js" />
-      <jump line="30" column="3" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-board-general-settings.js" />
-      <jump line="41" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-board-general-settings.js" />
-      <jump line="25" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-board-general-settings.js" />
       <jump line="7" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-board-general-settings.js" />
       <jump line="55" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-board-general-settings.js" />
       <jump line="8" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-board-general-settings.js" />
@@ -2941,6 +2937,16 @@
       <jump line="695" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/service/agile-board-live-updater.js" />
       <jump line="6" column="1" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/service/agile-board-live-updater.js" />
       <jump line="70" column="19" filename="$USER_HOME$/www/js/karma/lib/runner.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/js/karma-cli/bin/karma" />
+      <jump line="9" column="64" filename="$USER_HOME$/www/js/karma-cli/bin/karma" />
+      <jump line="17" column="4" filename="$USER_HOME$/www/js/karma-cli/bin/karma" />
+      <jump line="59" column="6" filename="$USER_HOME$/www/js/karma-cli/bin/karma" />
+      <jump line="62" column="0" filename="$USER_HOME$/www/js/karma-cli/bin/karma" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/js/karma-cli/bin/karma" />
+      <jump line="18" column="15" filename="$USER_HOME$/www/js/karma-cli/bin/karma" />
+      <jump line="33" column="2" filename="$USER_HOME$/www/js/karma-cli/bin/karma" />
+      <jump line="17" column="30" filename="$USER_HOME$/www/js/karma/lib/runner.js" />
+      <jump line="72" column="0" filename="$USER_HOME$/www/js/karma/lib/runner.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2953,7 +2959,7 @@
         <text>registeredListeners</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjcmVhdGVFdmVudFNvdXJjZU1vY2tcPg==</text>
+        <text>run</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Cg==</text>
@@ -2993,20 +2999,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjcmVhdGVFdmVudFNvdXJjZU1vY2tcPg==</last-search>
+      <last-search>run</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjcmVhdGVFdmVudFNvdXJjZU1vY2tcPg==</last-pattern>
+      <last-pattern>run</last-pattern>
       <last-replace>$ctrl.getWorkflowItemName</last-replace>
       <last-substitute>getWorkflowItemName</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>load</entry>
-        <entry>compile</entry>
-        <entry>add proje</entry>
-        <entry>confirm</entry>
         <entry encoding="base64">XDxjb25maXJtTW9ja1w+</entry>
         <entry>swimlane</entry>
         <entry>sprint</entry>
@@ -3023,6 +3025,10 @@
         <entry encoding="base64">XDxkb2N1bWVudFw+</entry>
         <entry>trigg</entry>
         <entry encoding="base64">XDxjcmVhdGVFdmVudFNvdXJjZU1vY2tcPg==</entry>
+        <entry>main</entry>
+        <entry encoding="base64">XDxrYXJtYUNsaVJ1blw+</entry>
+        <entry encoding="base64">XDxrYXJtYUNsaVw+</entry>
+        <entry>run</entry>
       </history-search>
       <history-cmd>
         <entry>%s/file-loader/ulr/gca</entry>
