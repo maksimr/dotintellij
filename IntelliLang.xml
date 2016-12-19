@@ -86,6 +86,10 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("options")).withParent(xmlTag().withLocalName(string().equalTo("rg-select")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>rg-table-column/@ng-switch</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-switch")).withParent(xmlTag().withLocalName(string().equalTo("rg-table-column")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>rg-table-row/@ng-switch</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-switch")).withParent(xmlTag().withLocalName(string().equalTo("rg-table-row")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
