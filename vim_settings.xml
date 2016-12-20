@@ -597,11 +597,11 @@
       <file name="$USER_HOME$/www/js/tt/test/teamCityRequestSpec.js" timestamp="1474319377379">
         <mark key="'" line="81" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/scripts/script-list.html" timestamp="1482235917790">
-        <mark key="'" line="43" column="22" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/scripts/script-list.html" timestamp="1482238679474">
+        <mark key="'" line="42" column="44" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/www/clojure/project-euler/problems/problem_1.clj" timestamp="1480120376487">
         <mark key="'" line="3" column="6" />
@@ -2964,8 +2964,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/scripts/script-list.js" />
-      <jump line="29" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/scripts/script-list.js" />
       <jump line="127" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/scripts/script-list.js" />
       <jump line="131" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/scripts/script-list.js" />
       <jump line="45" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/scripts/script-list.js" />
@@ -3064,6 +3062,8 @@
       <jump line="22" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sidebar/style/yt-sidebar.scss" />
       <jump line="0" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sidebar/style/yt-sidebar.scss" />
       <jump line="11" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sidebar/sidebar.js" />
+      <jump line="9" column="40" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/scripts/script-list.html" />
+      <jump line="47" column="44" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/scripts/script-list.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -3076,7 +3076,7 @@
         <text>.component</text>
       </register>
       <register name="/" type="4">
-        <text>animate</text>
+        <text encoding="base64">XDxvbkFkZFNjcmlwdFw+</text>
       </register>
       <register name="0" type="4">
         <text>class=&quot;script-sidebar&quot;</text>
@@ -3088,45 +3088,44 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmVxdWlyZSgnIXN0eWxlLWxvYWRlciFjc3MtbG9hZGVyISFzZW1hbnRpYy11aS1jc3MvY29tcG9uZW50cy9zaWRlYmFyLmNzcycpOwo=</text>
+        <text encoding="base64">ICAgIDxyZy1idXR0b24gY2xhc3M9Inl0LWd1dHRlci0xIgogICAgICAgICAgICAgICBuZy1jbGljaz0ic2NyaXB0TGlzdEN0cmwub25BZGRTY3JpcHQoJGV2ZW50KSI+CiAgICAgIDxzcGFuIHRyYW5zbGF0ZT5DcmVhdGUgc2NyaXB0PC9zcGFuPgogICAgPC9yZy1idXR0b24+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVxdWlyZSgnc2VtYW50aWMtdWktY3NzL2NvbXBvbmVudHMvc2lkZWJhcicpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmVwbGFjZTogdHJ1ZSwK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InNjcmlwdC1zaWRlYmFyIj4K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">cmVxdWlyZSgnIXN0eWxlLWxvYWRlciFjc3MtbG9hZGVyISFzZW1hbnRpYy11aS1jc3MvY29tcG9uZW50cy9zaWRlYmFyLmNzcycpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">cmVxdWlyZSgnc2VtYW50aWMtdWktY3NzL2NvbXBvbmVudHMvc2lkZWJhcicpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgcmVwbGFjZTogdHJ1ZSwK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBuZy1pbmNsdWRlPSIncGFnZXMvYWRtaW4vdGVtcGxhdGUvc2NyaXB0cy9zY3JpcHQtbGlzdC5odG1sJyI+PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InNjcmlwdC1zaWRlYmFyIj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Lnl0LXNpZGViYXIgewogIHdpZHRoOiAxMDAlOwp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>animate</last-search>
+      <last-search encoding="base64">XDxvbkFkZFNjcmlwdFw+</last-search>
       <last-offset />
-      <last-pattern>animate</last-pattern>
+      <last-pattern encoding="base64">XDxvbkFkZFNjcmlwdFw+</last-pattern>
       <last-replace />
       <last-substitute>-legacy</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>work</entry>
         <entry>script</entry>
         <entry encoding="base64">XDxzaG93RWRpdFdvcmtmbG93RGlhbG9nXD4=</entry>
         <entry>hide</entry>
@@ -3146,6 +3145,7 @@
         <entry>push</entry>
         <entry>access</entry>
         <entry>animate</entry>
+        <entry encoding="base64">XDxvbkFkZFNjcmlwdFw+</entry>
       </history-search>
       <history-cmd>
         <entry>324</entry>
