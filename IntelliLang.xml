@@ -70,6 +70,10 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("options")).withParent(xmlTag().withLocalName(string().equalTo("rg-button")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>rg-button/@rg-promised-click</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("rg-promised-click")).withParent(xmlTag().withLocalName(string().equalTo("rg-button")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>rg-select/@config</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("config")).withParent(xmlTag().withLocalName(string().equalTo("rg-select")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
