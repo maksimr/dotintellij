@@ -776,12 +776,12 @@
         <mark key="." line="13" column="47" />
         <mark key="^" line="13" column="47" />
       </file>
-      <file name="$USER_HOME$/www/clojure/project-euler/test/project_euler/10001st_prime.clj" timestamp="1482778931918">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="7" column="16" />
-        <mark key="]" line="7" column="14" />
-        <mark key="^" line="7" column="14" />
-        <mark key="." line="7" column="14" />
+      <file name="$USER_HOME$/www/clojure/project-euler/test/project_euler/10001st_prime.clj" timestamp="1482780722062">
+        <mark key="'" line="9" column="15" />
+        <mark key="[" line="25" column="8" />
+        <mark key="]" line="25" column="11" />
+        <mark key="^" line="25" column="11" />
+        <mark key="." line="25" column="11" />
       </file>
       <file name="$USER_HOME$/www/js/yvm/lib/ls-remote.js" timestamp="1475083657399">
         <mark key="'" line="4" column="45" />
@@ -2446,9 +2446,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="402" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/workflows.js" />
-      <jump line="28" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/workflows.js" />
-      <jump line="20" column="33" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/workflows.js" />
       <jump line="404" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/workflows.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/workflows.js" />
       <jump line="17" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/workflows.js" />
@@ -2546,16 +2543,19 @@
       <jump line="3" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/sum_square_difference.clj" />
       <jump line="21" column="9" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/sum_square_difference.clj" />
       <jump line="3" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/10001st_prime.clj" />
+      <jump line="15" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/10001st_prime.clj" />
+      <jump line="1" column="24" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/10001st_prime.clj" />
+      <jump line="9" column="15" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/10001st_prime.clj" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>25164150</text>
+        <text>conj</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>100</text>
+        <text>conj</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbXBsXD4=</text>
@@ -2564,31 +2564,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KC0gKHNxdWFyZSAoc3VtIDAgMTAwKSkgKHN1bS1zcXVhcmUgMCAxMDApKQo=</text>
+        <text encoding="base64">KHByaW50IChjb25kIGZvbykpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3VtLXNxdWFyZS1kaWZmZXJlbmNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAoc3VtLXNxdWFyZSAwIDEwKQo=</text>
+        <text encoding="base64">KHJhbmdlIDAgMTMpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KHN1bS1zcXVhcmUgMCAxMCkK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">KHNxdWFyZSAoc3VtIDAgMTApKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">KGRlZm4gcHJpbWVzIFtuXQogIChsZXRmbiBbCiAgICAgICAgICAoKQogICAgICAgICAgXQoKICAgICkpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">KC0gKHNxdWFyZSAoc3VtIDAgMTAwKSkgKHN1bS1zcXVhcmUgMCAxMDApKQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">KGRlZm4gc3VtIFtmcm9tIHRvXQogICkK</text>
+        <text encoding="base64">c3VtLXNxdWFyZS1kaWZmZXJlbmNlCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -2630,7 +2630,6 @@
         <entry encoding="base64">XDxpbXBsXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>18</entry>
         <entry>313</entry>
         <entry>90</entry>
         <entry>W</entry>
@@ -2649,6 +2648,7 @@
         <entry>%s/\.btn/.ring-button/gc</entry>
         <entry>action AceJumpAction</entry>
         <entry>22</entry>
+        <entry>11</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
