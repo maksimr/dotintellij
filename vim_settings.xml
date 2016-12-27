@@ -1020,12 +1020,12 @@
         <mark key="." line="71" column="49" />
         <mark key="^" line="71" column="49" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/scripts/script-list.html" timestamp="1482828217025">
-        <mark key="'" line="18" column="15" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="87" />
-        <mark key="." line="25" column="82" />
-        <mark key="^" line="25" column="82" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/scripts/script-list.html" timestamp="1482834781636">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="58" column="83" />
+        <mark key="]" line="58" column="100" />
+        <mark key="." line="58" column="100" />
+        <mark key="^" line="58" column="100" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/service/issues-selection.js" timestamp="1474875666377">
         <mark key="'" line="197" column="2" />
@@ -1925,8 +1925,8 @@
         <mark key="." line="3" column="6" />
         <mark key="^" line="3" column="6" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/scripts/script-editor.html" timestamp="1482832223789">
-        <mark key="'" line="50" column="41" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/scripts/script-editor.html" timestamp="1482834738014">
+        <mark key="'" line="68" column="26" />
         <mark key="[" line="68" column="23" />
         <mark key="]" line="68" column="26" />
         <mark key="." line="68" column="26" />
@@ -2467,9 +2467,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/event_fibonacci_numbers.clj" />
-      <jump line="26" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/event_fibonacci_numbers.clj" />
-      <jump line="4" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/largest_prime_factor.clj" />
       <jump line="34" column="4" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/largest_prime_factor.clj" />
       <jump line="2" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
       <jump line="7" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/largest_palindrome_product.clj" />
@@ -2567,10 +2564,13 @@
       <jump line="10" column="29" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/overlay/service/overlay.js" />
       <jump line="27" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/workflow/dialog-search-script.html" />
       <jump line="50" column="41" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/scripts/script-editor.html" />
+      <jump line="68" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/scripts/script-editor.html" />
+      <jump line="70" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/scripts/script-list.html" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/scripts/script-list.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Search</text>
+        <text>filter:scriptListCtrl.search</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -2579,10 +2579,10 @@
         <text>Search</text>
       </register>
       <register name="/" type="4">
-        <text>Sear</text>
+        <text>filter</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICByZXF1aXJlKCcuLi8uLi9jb21wb25lbnRzL2FuaW1hdGUvYW5pbWF0ZScpLm5hbWUsCg==</text>
+      <register name="0" type="4">
+        <text>filter:scriptListCtrl.search</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZy10b29sdGlwPSJ7eydTZWFyY2ggc2NyaXB0IChDbWQrSyknIHwgdHJhbnNsYXRlfX0iCg==</text>
@@ -2619,9 +2619,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Sear</last-search>
+      <last-search>filter</last-search>
       <last-offset />
-      <last-pattern>Sear</last-pattern>
+      <last-pattern>filter</last-pattern>
       <last-replace>.ring-button</last-replace>
       <last-substitute>\.btn</last-substitute>
       <last-dir>1</last-dir>
@@ -2629,7 +2629,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2FkU2NyaXB0XD4=</entry>
         <entry>controller</entry>
         <entry encoding="base64">XDxyZWplY3RcPg==</entry>
         <entry>prime</entry>
@@ -2649,6 +2648,7 @@
         <entry>tab</entry>
         <entry>template</entry>
         <entry>Sear</entry>
+        <entry>filter</entry>
       </history-search>
       <history-cmd>
         <entry>313</entry>
