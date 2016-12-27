@@ -2361,6 +2361,12 @@
         <mark key="^" line="2" column="7" />
         <mark key="." line="2" column="7" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/style/scripting-workflow.scss" timestamp="1482837480898">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
+      </file>
       <file name="$USER_HOME$/www/js/oauth-in-action-code/exercises/ch-4-ex-4/protectedResource.js" timestamp="1475522252910">
         <mark key="'" line="38" column="8" />
         <mark key="[" line="88" column="0" />
@@ -2467,7 +2473,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="4" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/largest_prime_factor.clj" />
       <jump line="2" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/problem_1_test.clj" />
       <jump line="7" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/largest_palindrome_product.clj" />
       <jump line="52" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/largest_palindrome_product.clj" />
@@ -2567,61 +2572,62 @@
       <jump line="68" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/scripts/script-editor.html" />
       <jump line="70" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/scripts/script-list.html" />
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/scripts/script-list.html" />
+      <jump line="11" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/style/scripting-workflow.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>filter:scriptListCtrl.search</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBoZWlnaHQ6IDgwMHB4Owo=</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>Search</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>filter</text>
+        <text>yt-script</text>
       </register>
       <register name="0" type="4">
         <text>filter:scriptListCtrl.search</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZy10b29sdGlwPSJ7eydTZWFyY2ggc2NyaXB0IChDbWQrSyknIHwgdHJhbnNsYXRlfX0iCg==</text>
+        <text encoding="base64">ICBoZWlnaHQ6IDgwMHB4Owo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8Yj57e3J1bGUubmFtZX19PC9iPgo=</text>
+        <text encoding="base64">ICBvdmVyZmxvdzogaGlkZGVuOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPGI+CiAgICAgICAge3tydWxlLm5hbWV9fQogICAgICA8L2I+Cg==</text>
+        <text encoding="base64">ICAgICAgICByZy10b29sdGlwPSJ7eydTZWFyY2ggc2NyaXB0IChDbWQrSyknIHwgdHJhbnNsYXRlfX0iCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8Yj57e3J1bGUubmFtZX19PC9iPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgIDxzcGFuIGNsYXNzPSJ5dC1ndXR0ZXItMSB5dC1oaW50LXRleHQiPgogICAgICAgICAgKHt7cnVsZS53b3JrZmxvdy5uYW1lfX0pCiAgICAgIDwvc3Bhbj4K</text>
+        <text encoding="base64">ICAgICAgPGI+CiAgICAgICAge3tydWxlLm5hbWV9fQogICAgICA8L2I+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aXRsZTogJy4uLicsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBrZXk6IAo=</text>
+        <text encoding="base64">CiAgICAgIDxzcGFuIGNsYXNzPSJ5dC1ndXR0ZXItMSB5dC1oaW50LXRleHQiPgogICAgICAgICAgKHt7cnVsZS53b3JrZmxvdy5uYW1lfX0pCiAgICAgIDwvc3Bhbj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaGlkZTogZnVuY3Rpb24oKSB7CiAgICAgICAgeXRPdmVybGF5LmhpZGUoKTsKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB0aXRsZTogJy4uLicsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocnVsZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBrZXk6IAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>filter</last-search>
+      <last-search>yt-script</last-search>
       <last-offset />
-      <last-pattern>filter</last-pattern>
+      <last-pattern>yt-script</last-pattern>
       <last-replace>.ring-button</last-replace>
       <last-substitute>\.btn</last-substitute>
       <last-dir>1</last-dir>
@@ -2629,7 +2635,6 @@
     </search>
     <history>
       <history-search>
-        <entry>controller</entry>
         <entry encoding="base64">XDxyZWplY3RcPg==</entry>
         <entry>prime</entry>
         <entry encoding="base64">XDxpbXBsXD4=</entry>
@@ -2649,6 +2654,7 @@
         <entry>template</entry>
         <entry>Sear</entry>
         <entry>filter</entry>
+        <entry>yt-script</entry>
       </history-search>
       <history-cmd>
         <entry>313</entry>
