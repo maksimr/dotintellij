@@ -1553,12 +1553,12 @@
         <mark key="^" line="9" column="39" />
         <mark key="." line="9" column="39" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/scripts/script.js" timestamp="1482951691817">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/scripts/script.js" timestamp="1482952896007">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="^" line="86" column="50" />
-        <mark key="." line="87" column="0" />
+        <mark key="[" line="60" column="25" />
+        <mark key="]" line="60" column="31" />
+        <mark key="." line="60" column="31" />
+        <mark key="^" line="60" column="31" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/edit-project/workflows/rule-sidebar.html" timestamp="1482758536470">
         <mark key="'" line="44" column="42" />
@@ -2394,12 +2394,12 @@
         <mark key="^" line="103" column="31" />
         <mark key="." line="103" column="31" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/code-editor.js" timestamp="1482951638346">
-        <mark key="'" line="9" column="15" />
-        <mark key="[" line="3" column="39" />
-        <mark key="]" line="3" column="42" />
-        <mark key="." line="3" column="42" />
-        <mark key="^" line="3" column="42" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/code-editor.js" timestamp="1482952869664">
+        <mark key="'" line="10" column="15" />
+        <mark key="[" line="4" column="31" />
+        <mark key="]" line="4" column="43" />
+        <mark key="." line="4" column="43" />
+        <mark key="^" line="4" column="43" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/lib/commonjs.js" timestamp="1482922761167">
         <mark key="'" line="32" column="3" />
@@ -2483,6 +2483,11 @@
         <mark key="]" line="142" column="73" />
         <mark key="^" line="142" column="72" />
         <mark key="." line="142" column="72" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/codemirror/addon/edit/closebrackets.js" timestamp="1482952883238">
+        <mark key="'" line="199" column="0" />
+        <mark key="[" line="19" column="27" />
+        <mark key="]" line="19" column="43" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/test/service/yt-shortcuts.js" timestamp="1482830290828">
         <mark key="'" line="170" column="22" />
@@ -2580,8 +2585,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="228" column="44" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/lib/modules.js" />
-      <jump line="229" column="47" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/lib/modules.js" />
       <jump line="236" column="54" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/lib/modules.js" />
       <jump line="243" column="35" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/lib/modules.js" />
       <jump line="263" column="35" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/lib/modules.js" />
@@ -2680,22 +2683,24 @@
       <jump line="18" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/codemirror/addon/dialog/dialog.js" />
       <jump line="7" column="40" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/codemirror/addon/dialog/dialog.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/scripts/script.js" />
+      <jump line="24" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/codemirror/addon/edit/closebrackets.js" />
+      <jump line="199" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/codemirror/addon/edit/closebrackets.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cmVxdWlyZSgnY29kZW1pcnJvci9hZGRvbi9kaWFsb2cvZGlhbG9nJyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>autoCloseBrackets</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>lint</text>
+        <text>dialog</text>
       </register>
       <register name="/" type="4">
         <text>extra</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">cmVxdWlyZSgnY29kZW1pcnJvci9hZGRvbi9kaWFsb2cvZGlhbG9nJyk7Cg==</text>
+      <register name="0" type="4">
+        <text>autoCloseBrackets</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2VydmVyLnNlbGVjdE5hbWUoY20pOwo=</text>
