@@ -154,6 +154,10 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("add-card-to-sprint")).withParent(xmlTag().withLocalName(string().equalTo("yt-backlog-issue")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-create-workflow-button/@on-after-create</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-after-create")).withParent(xmlTag().withLocalName(string().equalTo("yt-create-workflow-button")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>yt-custom-field-create-form/@on-cancel</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-cancel")).withParent(xmlTag().withLocalName(string().equalTo("yt-custom-field-create-form")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
