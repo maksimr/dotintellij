@@ -1449,6 +1449,9 @@
         <mark key="." line="9" column="24" />
         <mark key="^" line="9" column="24" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/workflows-resource.js" timestamp="1483973558257">
+        <mark key="'" line="47" column="10" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/lib/defs/ecmascript5.json" timestamp="1483172853699">
         <mark key="'" line="576" column="7" />
         <mark key="[" line="1" column="22" />
@@ -2629,8 +2632,8 @@
         <mark key="." line="97" column="1" />
         <mark key="^" line="97" column="1" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sticky-panel/service/yt-scroll.js" timestamp="1483971390795">
-        <mark key="'" line="32" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sticky-panel/service/yt-scroll.js" timestamp="1483973510627">
+        <mark key="'" line="26" column="0" />
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
@@ -2665,14 +2668,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="0" filename="$USER_HOME$/www/js/karma/lib/reporters/progress.js" />
-      <jump line="23" column="2" filename="$USER_HOME$/www/js/karma/lib/reporters/progress.js" />
-      <jump line="61" column="0" filename="$USER_HOME$/www/js/karma/lib/reporters/progress.js" />
-      <jump line="51" column="32" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-board-general-settings.js" />
-      <jump line="218" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-board-general-settings.js" />
-      <jump line="33" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-board-general-settings.js" />
-      <jump line="124" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-board-general-settings.js" />
-      <jump line="139" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-board-general-settings.js" />
       <jump line="17" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-board-general-settings.js" />
       <jump line="213" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-board-general-settings.js" />
       <jump line="46" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-board-general-settings.js" />
@@ -2765,6 +2760,14 @@
       <jump line="34" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sticky-panel/service/yt-scroll.js" />
       <jump line="31" column="49" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sticky-panel/service/yt-scroll.js" />
       <jump line="32" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sticky-panel/service/yt-scroll.js" />
+      <jump line="19" column="49" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sticky-panel/service/yt-scroll.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sticky-panel/service/yt-scroll.js" />
+      <jump line="46" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sticky-panel/service/yt-scroll.js" />
+      <jump line="26" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sticky-panel/service/yt-scroll.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/workflows-resource.js" />
+      <jump line="25" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/workflows-resource.js" />
+      <jump line="27" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/workflows-resource.js" />
+      <jump line="47" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/workflows-resource.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2777,7 +2780,7 @@
         <text>i18n</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZWJvdW5jZWRMaXN0ZW5lclw+</text>
+        <text>updatedBy</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICByZXF1aXJlKCcuLi9pMThuL2kxOG4nKS5uYW1lCg==</text>
@@ -2817,18 +2820,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZWJvdW5jZWRMaXN0ZW5lclw+</last-search>
+      <last-search>updatedBy</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZWJvdW5jZWRMaXN0ZW5lclw+</last-pattern>
+      <last-pattern>updatedBy</last-pattern>
       <last-replace>dark</last-replace>
       <last-substitute>railscasts</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkM1BhbGV0dGVcPg==</entry>
-        <entry>gutter</entry>
         <entry>white</entry>
         <entry encoding="base64">XDxsb2FkU2NyaXB0c1w+</entry>
         <entry>expanded</entry>
@@ -2847,6 +2848,8 @@
         <entry>issue</entry>
         <entry>over</entry>
         <entry encoding="base64">XDxkZWJvdW5jZWRMaXN0ZW5lclw+</entry>
+        <entry>up</entry>
+        <entry>updatedBy</entry>
       </history-search>
       <history-cmd>
         <entry>90</entry>
