@@ -24,7 +24,7 @@
         <mark key="." line="5" column="69" />
         <mark key="^" line="5" column="69" />
       </file>
-      <file name="/a.dummy" timestamp="1483950791532">
+      <file name="/a.dummy" timestamp="1483961974068">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/js/tt/lib/path.js" timestamp="1474110810871">
@@ -223,8 +223,8 @@
         <mark key="^" line="26" column="50" />
         <mark key="." line="26" column="50" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1481732157653">
-        <mark key="'" line="600" column="27" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1483961948975">
+        <mark key="'" line="735" column="32" />
         <mark key="[" line="1744" column="0" />
         <mark key="]" line="1744" column="0" />
         <mark key="." line="1744" column="0" />
@@ -1134,8 +1134,8 @@
         <mark key="." line="13" column="22" />
         <mark key="^" line="13" column="22" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-board-with-sidebar.js" timestamp="1477053834874">
-        <mark key="'" line="38" column="67" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-board-with-sidebar.js" timestamp="1483962018377">
+        <mark key="'" line="38" column="86" />
         <mark key="[" line="38" column="23" />
         <mark key="]" line="38" column="22" />
         <mark key="." line="38" column="22" />
@@ -2534,12 +2534,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/www/js/karma/lib/reporters/progress.js" />
-      <jump line="15" column="7" filename="$USER_HOME$/www/js/karma/lib/reporters/progress.js" />
-      <jump line="61" column="7" filename="$USER_HOME$/www/js/karma/lib/reporters/base.js" />
-      <jump line="18" column="7" filename="$USER_HOME$/www/js/karma/lib/reporters/base.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/js/karma/lib/reporters/base.js" />
-      <jump line="4" column="65" filename="$USER_HOME$/www/js/karma/lib/reporters/base.js" />
       <jump line="8" column="10" filename="$USER_HOME$/www/js/karma/lib/reporters/base.js" />
       <jump line="11" column="34" filename="$USER_HOME$/www/js/karma/lib/reporters/base.js" />
       <jump line="12" column="24" filename="$USER_HOME$/www/js/karma/lib/reporters/base.js" />
@@ -2634,6 +2628,12 @@
       <jump line="272" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
       <jump line="265" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
       <jump line="278" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="729" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="734" column="43" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="735" column="32" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="27" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-board-with-sidebar.js" />
+      <jump line="38" column="86" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-board-with-sidebar.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2646,7 +2646,7 @@
         <text>test-bundle.webpack</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXREZXZTZXJ2ZXJVcmlcPg==</text>
+        <text encoding="base64">XDxnZXRNYXJpbmdUb3BcPg==</text>
       </register>
       <register name="0" type="4">
         <text>--params.server.protocol='https'</text>
@@ -2686,9 +2686,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXREZXZTZXJ2ZXJVcmlcPg==</last-search>
+      <last-search encoding="base64">XDxnZXRNYXJpbmdUb3BcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXREZXZTZXJ2ZXJVcmlcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRNYXJpbmdUb3BcPg==</last-pattern>
       <last-replace>dark</last-replace>
       <last-substitute>railscasts</last-substitute>
       <last-dir>-1</last-dir>
@@ -2696,8 +2696,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvbkJyb3dzZXJDb21wbGV0ZVw+</entry>
-        <entry encoding="base64">XDxvbkJyb3dzZXJFcnJvclw+</entry>
         <entry>browser</entry>
         <entry>remove</entry>
         <entry encoding="base64">XDx3cml0ZUNvbW1vbk1zZ1w+</entry>
@@ -2716,6 +2714,8 @@
         <entry>protocol</entry>
         <entry>port</entry>
         <entry encoding="base64">XDxnZXREZXZTZXJ2ZXJVcmlcPg==</entry>
+        <entry>scroll</entry>
+        <entry encoding="base64">XDxnZXRNYXJpbmdUb3BcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>90</entry>
