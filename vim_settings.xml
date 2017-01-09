@@ -24,7 +24,7 @@
         <mark key="." line="5" column="69" />
         <mark key="^" line="5" column="69" />
       </file>
-      <file name="/a.dummy" timestamp="1483961974068">
+      <file name="/a.dummy" timestamp="1483964283833">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/js/tt/lib/path.js" timestamp="1474110810871">
@@ -1976,10 +1976,10 @@
         <mark key="." line="252" column="27" />
         <mark key="^" line="252" column="27" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sticky-panel/directive/yt-sticky-panel.js" timestamp="1482839673753">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sticky-panel/directive/yt-sticky-panel.js" timestamp="1483964698144">
+        <mark key="'" line="147" column="42" />
+        <mark key="[" line="198" column="0" />
+        <mark key="]" line="206" column="14" />
         <mark key="." line="35" column="0" />
         <mark key="^" line="35" column="45" />
       </file>
@@ -2534,10 +2534,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="10" filename="$USER_HOME$/www/js/karma/lib/reporters/base.js" />
-      <jump line="11" column="34" filename="$USER_HOME$/www/js/karma/lib/reporters/base.js" />
-      <jump line="12" column="24" filename="$USER_HOME$/www/js/karma/lib/reporters/base.js" />
-      <jump line="15" column="33" filename="$USER_HOME$/www/js/karma/lib/reporters/base.js" />
       <jump line="56" column="0" filename="$USER_HOME$/www/js/karma/lib/reporters/progress.js" />
       <jump line="8" column="0" filename="$USER_HOME$/www/js/karma/lib/reporters/progress.js" />
       <jump line="52" column="0" filename="$USER_HOME$/www/js/karma/lib/reporters/progress.js" />
@@ -2634,10 +2630,14 @@
       <jump line="735" column="32" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="27" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-board-with-sidebar.js" />
       <jump line="38" column="86" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-board-with-sidebar.js" />
+      <jump line="201" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sticky-panel/directive/yt-sticky-panel.js" />
+      <jump line="170" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sticky-panel/directive/yt-sticky-panel.js" />
+      <jump line="154" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sticky-panel/directive/yt-sticky-panel.js" />
+      <jump line="147" column="42" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sticky-panel/directive/yt-sticky-panel.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>--params.server.protocol='https'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2NvcGUuJGFwcGx5QXN5bmMoZnVuY3Rpb24oKSB7IC8vdGltZW91dCBiZWNhdXNlIG9mIGZ1bGwtc2NyZWVuIG1vZGUgKGFwcGx5QXN5bmMgZG9lc24ndCBoZWxwKQogICAgICAgICAgICAgIHNldFRvcEJvdW5kYXJ5KCk7CgogICAgICAgICAgICAgIHNjcm9sbFN1YnNjcmlwdGlvbiA9IHl0U2Nyb2xsLnN1YnNjcmliZShzY3JvbGxMaXN0ZW5lciwgYXR0cnMuc2Nyb2xsQ29udGFpbmVyKTsKICAgICAgICAgICAgICBzdWJzY3JpYmVPbkxheW91dEV2ZW50KCk7CiAgICAgICAgICAgICAgc3Vic2NyaWJlT25TeW5jSG9yaXpvbnRhbFNjcm9sbFdpdGhFbGVtZW50KCk7CgogICAgICAgICAgICAgIGNhbGxBbGxMaXN0ZW5lcnMoKTsKICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -2646,10 +2646,10 @@
         <text>test-bundle.webpack</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRNYXJpbmdUb3BcPg==</text>
+        <text encoding="base64">XDxjYWxsQWxsTGlzdGVuZXJzXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>--params.server.protocol='https'</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2NvcGUuJGFwcGx5QXN5bmMoZnVuY3Rpb24oKSB7IC8vdGltZW91dCBiZWNhdXNlIG9mIGZ1bGwtc2NyZWVuIG1vZGUgKGFwcGx5QXN5bmMgZG9lc24ndCBoZWxwKQogICAgICAgICAgICAgIHNldFRvcEJvdW5kYXJ5KCk7CgogICAgICAgICAgICAgIHNjcm9sbFN1YnNjcmlwdGlvbiA9IHl0U2Nyb2xsLnN1YnNjcmliZShzY3JvbGxMaXN0ZW5lciwgYXR0cnMuc2Nyb2xsQ29udGFpbmVyKTsKICAgICAgICAgICAgICBzdWJzY3JpYmVPbkxheW91dEV2ZW50KCk7CiAgICAgICAgICAgICAgc3Vic2NyaWJlT25TeW5jSG9yaXpvbnRhbFNjcm9sbFdpdGhFbGVtZW50KCk7CgogICAgICAgICAgICAgIGNhbGxBbGxMaXN0ZW5lcnMoKTsKICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgJHNjb3BlOiAkcm9vdFNjb3BlLiRuZXcoKQo=</text>
@@ -2686,9 +2686,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRNYXJpbmdUb3BcPg==</last-search>
+      <last-search encoding="base64">XDxjYWxsQWxsTGlzdGVuZXJzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRNYXJpbmdUb3BcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjYWxsQWxsTGlzdGVuZXJzXD4=</last-pattern>
       <last-replace>dark</last-replace>
       <last-substitute>railscasts</last-substitute>
       <last-dir>-1</last-dir>
@@ -2696,8 +2696,6 @@
     </search>
     <history>
       <history-search>
-        <entry>browser</entry>
-        <entry>remove</entry>
         <entry encoding="base64">XDx3cml0ZUNvbW1vbk1zZ1w+</entry>
         <entry>forma</entry>
         <entry encoding="base64">XDxjcmVhdGVCcm93c2VyTW9ja1w+</entry>
@@ -2716,6 +2714,8 @@
         <entry encoding="base64">XDxnZXREZXZTZXJ2ZXJVcmlcPg==</entry>
         <entry>scroll</entry>
         <entry encoding="base64">XDxnZXRNYXJpbmdUb3BcPg==</entry>
+        <entry encoding="base64">XDxzY3JvbGxTdWJzY3JpcHRpb25cPg==</entry>
+        <entry encoding="base64">XDxjYWxsQWxsTGlzdGVuZXJzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>90</entry>
