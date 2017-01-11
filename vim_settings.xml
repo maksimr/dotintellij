@@ -347,11 +347,6 @@
         <mark key="." line="4" column="1" />
         <mark key="^" line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/filter/is-workflow-read-only.js" timestamp="1484049010659">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/overlay/service/overlay.js" timestamp="1482830728125">
         <mark key="'" line="10" column="29" />
       </file>
@@ -1220,8 +1215,8 @@
         <mark key="^" line="90" column="34" />
         <mark key="." line="90" column="34" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/components.gradle" timestamp="1481020587021">
-        <mark key="'" line="41" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/components.gradle" timestamp="1484138569849">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="23" column="18" />
         <mark key="]" line="23" column="25" />
         <mark key="." line="23" column="25" />
@@ -1607,8 +1602,8 @@
         <mark key="^" line="9" column="39" />
         <mark key="." line="9" column="39" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/scripts/script.js" timestamp="1484132673551">
-        <mark key="'" line="102" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/scripts/script.js" timestamp="1484139040796">
+        <mark key="'" line="23" column="16" />
         <mark key="[" line="64" column="16" />
         <mark key="]" line="64" column="19" />
         <mark key="." line="104" column="0" />
@@ -2683,8 +2678,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sticky-panel/service/yt-scroll.js" />
-      <jump line="26" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sticky-panel/service/yt-scroll.js" />
       <jump line="16" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/workflows-resource.js" />
       <jump line="25" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/workflows-resource.js" />
       <jump line="27" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/workflows-resource.js" />
@@ -2783,6 +2776,8 @@
       <jump line="33" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/file-uploader/test/directive/yt-on-paste-image.js" />
       <jump line="48" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/file-uploader/directive/yt-paste-image.js" />
       <jump line="102" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/scripts/script.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/components.gradle" />
+      <jump line="23" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/scripts/script.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2795,7 +2790,7 @@
         <text>targetIsInput</text>
       </register>
       <register name="/" type="4">
-        <text>theme</text>
+        <text>maven</text>
       </register>
       <register name="0" type="4">
         <text>idea</text>
@@ -2835,9 +2830,9 @@
       </register>
     </registers>
     <search>
-      <last-search>theme</last-search>
+      <last-search>maven</last-search>
       <last-offset />
-      <last-pattern>theme</last-pattern>
+      <last-pattern>maven</last-pattern>
       <last-replace>dark</last-replace>
       <last-substitute>railscasts</last-substitute>
       <last-dir>1</last-dir>
@@ -2845,7 +2840,6 @@
     </search>
     <history>
       <history-search>
-        <entry>undo</entry>
         <entry>read</entry>
         <entry>remove</entry>
         <entry>delete</entry>
@@ -2865,6 +2859,7 @@
         <entry>shor</entry>
         <entry encoding="base64">XDxmZWF0dXJlRmxhZ3NcPg==</entry>
         <entry>theme</entry>
+        <entry>maven</entry>
       </history-search>
       <history-cmd>
         <entry>90</entry>
