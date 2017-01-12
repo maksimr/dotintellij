@@ -1226,12 +1226,12 @@
         <mark key="^" line="2" column="7" />
         <mark key="." line="2" column="7" />
       </file>
-      <file name="$USER_HOME$/www/clojure/project-euler/test/project_euler/largest_product_in_a_series.clj" timestamp="1484081011119">
-        <mark key="'" line="60" column="0" />
-        <mark key="[" line="55" column="22" />
-        <mark key="]" line="56" column="2" />
-        <mark key="." line="56" column="2" />
-        <mark key="^" line="56" column="2" />
+      <file name="$USER_HOME$/www/clojure/project-euler/test/project_euler/largest_product_in_a_series.clj" timestamp="1484249978173">
+        <mark key="'" line="56" column="17" />
+        <mark key="[" line="56" column="26" />
+        <mark key="]" line="56" column="26" />
+        <mark key="." line="56" column="26" />
+        <mark key="^" line="56" column="20" />
       </file>
       <file name="$USER_HOME$/www/js/oauth-in-action-code/exercises/ch-4-ex-4/protectedResource.js" timestamp="1475522252910">
         <mark key="'" line="38" column="8" />
@@ -1879,6 +1879,9 @@
         <mark key="." line="39" column="10" />
         <mark key="^" line="39" column="10" />
       </file>
+      <file name="/REPL.clj" timestamp="1484247658099">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/directive/yt-custom-field-create-form.js" timestamp="1481488755512">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="0" column="1" />
@@ -2158,14 +2161,6 @@
         <mark key="." line="16" column="51" />
         <mark key="^" line="16" column="5" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/hub/client-side/webpack.config.js" timestamp="1484218619640">
-        <mark key="a" line="151" column="17" />
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="151" column="28" />
-        <mark key="." line="151" column="43" />
-        <mark key="^" line="151" column="43" />
-      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sticky-panel/directive/yt-sticky-panel.js" timestamp="1483964698144">
         <mark key="'" line="147" column="42" />
         <mark key="[" line="198" column="0" />
@@ -2413,14 +2408,6 @@
         <mark key="]" line="108" column="27" />
         <mark key="." line="735" column="0" />
         <mark key="^" line="11" column="19" />
-      </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/ring-hub/webpack.config.js" timestamp="1484224517551">
-        <mark key="a" line="151" column="17" />
-        <mark key="'" line="110" column="8" />
-        <mark key="[" line="152" column="24" />
-        <mark key="]" line="152" column="25" />
-        <mark key="." line="152" column="25" />
-        <mark key="^" line="152" column="25" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/tern/defs/browser.json" timestamp="1483101172393">
         <mark key="'" line="3376" column="2" />
@@ -2799,18 +2786,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="122" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/ring-hub/package.json" />
-      <jump line="9" column="119" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/ring-hub/package.json" />
-      <jump line="15" column="114" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/ring-hub/package.json" />
-      <jump line="16" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/ring-hub/package.json" />
-      <jump line="19" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/ring-hub/package.json" />
-      <jump line="22" column="114" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/ring-hub/package.json" />
-      <jump line="26" column="118" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/ring-hub/package.json" />
-      <jump line="27" column="115" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/ring-hub/package.json" />
-      <jump line="33" column="118" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/ring-hub/package.json" />
-      <jump line="36" column="114" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/ring-hub/package.json" />
-      <jump line="151" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/ring-hub/package.json" />
-      <jump line="163" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/ring-hub/package.json" />
       <jump line="172" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/ring-hub/package.json" />
       <jump line="74" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/ring-hub/package.json" />
       <jump line="80" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/ring-hub/package.json" />
@@ -2899,52 +2874,64 @@
       <jump line="134" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/profile/template/user-profile-general.html" />
       <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
       <jump line="3" column="3" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="9" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/largest_product_in_a_series.clj" />
+      <jump line="6" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/largest_product_in_a_series.clj" />
+      <jump line="54" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/largest_product_in_a_series.clj" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/largest_product_in_a_series.clj" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/largest_product_in_a_series.clj" />
+      <jump line="53" column="8" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/largest_product_in_a_series.clj" />
+      <jump line="62" column="9" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/largest_product_in_a_series.clj" />
+      <jump line="60" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/largest_product_in_a_series.clj" />
+      <jump line="55" column="9" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/largest_product_in_a_series.clj" />
+      <jump line="52" column="10" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/largest_product_in_a_series.clj" />
+      <jump line="10" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/largest_product_in_a_series.clj" />
+      <jump line="56" column="17" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/largest_product_in_a_series.clj" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IFw=</text>
+        <text>?</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IFw=</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text>engine</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vVGhpcyBzdHJpbmcgaXMgUkVRVUlSRUQgdG8gYnVpbGQgd2l0aCBuZXcgbm9kZS1zYXNzIGh0dHBzOi8vZ2l0aHViLmNvbS9qdGFuZ2VsZGVyL3Nhc3MtbG9hZGVyL2lzc3Vlcy8xMDAKICAgIC8vV2l0aG91dCBpdCBidWlsZCBmcmVlemVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0idXNlci1wcm9maWxlX19wcm9maWxlLXRhYnMiPgogIDxwPgogIDxkaXYgY2xhc3M9InJpbmctZm9ybV9fZ3JvdXAiPgogICAgPGxhYmVsIGNsYXNzPSJyaW5nLWZvcm1fX2xhYmVsIiB0cmFuc2xhdGU+SHViIFByb2ZpbGU8L2xhYmVsPgoKICAgIDxkaXYgY2xhc3M9InJpbmctZm9ybV9fY29udHJvbCI+CiAgICAgIDxhIGNsYXNzPSJ5dC1saW5rIiBocmVmPSIiIHRyYW5zbGF0ZT5DaGFuZ2UgbG9naW4sIHBhc3N3b3JkLCBhdmF0YXIgJiBjb250YWN0IGRhdGE8L2E+CiAgICA8L2Rpdj4KICA8L2Rpdj4KCiAgPGRpdiBjbGFzcz0icmluZy1mb3JtX19ncm91cCI+CiAgICA8bGFiZWwgY2xhc3M9InJpbmctZm9ybV9fbGFiZWwiIHRyYW5zbGF0ZT5Mb2dpbjwvbGFiZWw+CgogICAgPGRpdiBjbGFzcz0icmluZy1mb3JtX19jb250cm9sIj4KICAgICAgPGxhYmVsPnt7dXNlclByb2ZpbGVHZW5lcmFsQ3RybC51c2VyLmxvZ2lufX08L2xhYmVsPgogICAgPC9kaXY+CiAgPC9kaXY+CgogIDxkaXYgY2xhc3M9InJpbmctZm9ybV9fZ3JvdXAiPgogICAgPGxhYmVsIGNsYXNzPSJyaW5nLWZvcm1fX2xhYmVsIiB0cmFuc2xhdGU+RnVsbCBOYW1lPC9sYWJlbD4KCiAgICA8ZGl2IGNsYXNzPSJyaW5nLWZvcm1fX2NvbnRyb2wiPgogICAgICA8bGFiZWw+e3t1c2VyUHJvZmlsZUdlbmVyYWxDdHJsLnVzZXIuZnVsbE5hbWV9fTwvbGFiZWw+CiAgICA8L2Rpdj4KICA8L2Rpdj4KCiAgPGRpdiBjbGFzcz0icmluZy1mb3JtX19ncm91cCIgbmctaWY9InVzZXJQcm9maWxlR2VuZXJhbEN0cmwudXNlci5lbWFpbCI+CiAgICA8bGFiZWwgY2xhc3M9InJpbmctZm9ybV9fbGFiZWwiIHRyYW5zbGF0ZT5FbWFpbDwvbGFiZWw+CgogICAgPGRpdiBjbGFzcz0icmluZy1mb3JtX19jb250cm9sIj4KICAgICAgPGxhYmVsPnt7dXNlclByb2ZpbGVHZW5lcmFsQ3RybC51c2VyLmVtYWlsfX08L2xhYmVsPgogICAgPC9kaXY+CiAgPC9kaXY+CiAgPC9wPgogIDxwPgogIDxkaXYgY2xhc3M9Inl0LXZndXR0ZXItMyI+CiAgPGxhYmVsPgogICAgPHl0LWZvcm0tY2hlY2tib3gKICAgICAgbmctbW9kZWw9InVzZXJQcm9maWxlR2VuZXJhbEN0cmwuYXBwZWFyYW5jZVByb2ZpbGUuZXhjZXB0aW9uc0V4cGFuZGVkIgogICAgICBuZy1jaGFuZ2U9InVzZXJQcm9maWxlR2VuZXJhbEN0cmwuc2F2ZUFwcGVhcmFuY2VQcm9maWxlKCkiPjwveXQtZm9ybS1jaGVja2JveD4KICAgIDxzcGFuIHRyYW5zbGF0ZT5FeGNlcHRpb24gc3RhY2sgdHJhY2VzIGFyZSBleHBhbmRlZCBieSBkZWZhdWx0PC9zcGFuPgogIDwvbGFiZWw+CiAgPC9kaXY+CiAgPGRpdiBjbGFzcz0ieXQtdmd1dHRlci0zIj4KICA8bGFiZWw+CiAgICA8eXQtZm9ybS1jaGVja2JveAogICAgICBuZy1tb2RlbD0idXNlclByb2ZpbGVHZW5lcmFsQ3RybC5hcHBlYXJhbmNlUHJvZmlsZS5zaG93UHJvcGVydGllc09uVGhlTGVmdCIKICAgICAgbmctY2hhbmdlPSJ1c2VyUHJvZmlsZUdlbmVyYWxDdHJsLnNhdmVBcHBlYXJhbmNlUHJvZmlsZSgpIj48L3l0LWZvcm0tY2hlY2tib3g+CiAgICA8c3BhbiB0cmFuc2xhdGU+U2hvdyBmaWVsZHMgcGFuZSBvbiB0aGUgbGVmdDwvc3Bhbj4KICA8L2xhYmVsPgogIDwvZGl2PgogIDxkaXYgY2xhc3M9Inl0LXZndXR0ZXItMyI+CiAgPGxhYmVsPgogICAgPHl0LWZvcm0tY2hlY2tib3gKICAgICAgbmctbW9kZWw9InVzZXJQcm9maWxlR2VuZXJhbEN0cmwuZ2VuZXJhbFByb2ZpbGUuc3VnZ2VzdEJhdGNoU2lsZW50QXBwbHkiCiAgICAgIG5nLWNoYW5nZT0idXNlclByb2ZpbGVHZW5lcmFsQ3RybC5zYXZlR2VuZXJhbFByb2ZpbGUoKSI+PC95dC1mb3JtLWNoZWNrYm94PgogICAgPHNwYW4gdHJhbnNsYXRlPkFsd2F5cyBzdWdnZXN0IGFwcGx5aW5nIGNvbW1hbmRzIHNpbGVudGx5IHRvIGEgYmF0Y2ggb2YgaXNzdWVzPC9zcGFuPgogIDwvbGFiZWw+CiAgPC9kaXY+CiAgPGRpdiBjbGFzcz0ieXQtdmd1dHRlci0zIj4KICA8bGFiZWw+CiAgICA8eXQtZm9ybS1jaGVja2JveCBuZy1tb2RlbD0idXNlclByb2ZpbGVHZW5lcmFsQ3RybC5nZW5lcmFsUHJvZmlsZS5zdWdnZXN0U2F2ZWRTZWFyY2hBc0NvbnRleHQiCiAgICAgICAgICAgICAgICAgICAgICBuZy1jaGFuZ2U9InVzZXJQcm9maWxlR2VuZXJhbEN0cmwuc2F2ZUdlbmVyYWxQcm9maWxlKCkiPjwveXQtZm9ybS1jaGVja2JveD4KICAgIDxzcGFuIHRyYW5zbGF0ZT5TdWdnZXN0IHNldHRpbmcgc2F2ZWQgc2VhcmNoZXMgYXMgYSBjb250ZXh0PC9zcGFuPgogIDwvbGFiZWw+CiAgPC9kaXY+CiAgPGRpdiBjbGFzcz0ieXQtdmd1dHRlci0zIj4KICA8bGFiZWw+CiAgICA8eXQtZm9ybS1jaGVja2JveCBuZy1tb2RlbD0idXNlclByb2ZpbGVHZW5lcmFsQ3RybC5nZW5lcmFsUHJvZmlsZS50cmFja09ubGluZVN0YXR1cyIgXAogICAgICAgICAgICAgICAgICAgICAgbmctY2hhbmdlPSJ1c2VyUHJvZmlsZUdlbmVyYWxDdHJsLnNhdmVHZW5lcmFsUHJvZmlsZSgpIj48L3l0LWZvcm0tY2hlY2tib3g+CiAgICA8c3BhbiB0cmFuc2xhdGU+QWxsb3cgb3RoZXIgdXNlcnMgdG8gc2VlIG15IG9ubGluZSBzdGF0dXM8L3NwYW4+CiAgPC9sYWJlbD4KICA8L2Rpdj4KICA8L3A+CjwvZGl2Pgo=</text>
+        <text encoding="base64">KGVtcHR5PyAiXG4iKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxsYWJlbCBjbGFzcz0icmluZy1mb3JtX19sYWJlbCIgdHJhbnNsYXRlPkh1YiBQcm9maWxlPC9sYWJlbD4K</text>
+        <text encoding="base64">KGNsb2p1cmUuc3RyaW5nL3RyaW0gIiAiKQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InJpbmctZm9ybV9fY29udHJvbCI+CiAgICAgIDxhIGNsYXNzPSJ5dC1saW5rIiBocmVmPSIiIHRyYW5zbGF0ZT5DaGFuZ2UgbG9naW4sIHBhc3N3b3JkLCBhdmF0YXIgJiBjb250YWN0IGRhdGE8L2E+CiAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICBsZXRmbiBbKHBhcnNlLWludCBbc10KICAgICAgICAgICAgICAgICAgICAoSW50ZWdlci9wYXJzZUludCAocmUtZmluZCAjIlxBLT9cZCsiIHMpKSldCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1hcCBwYXJzZS1pbnQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJyaW5nLWZvcm1fX2dyb3VwIj4KICAgIDxsYWJlbCBjbGFzcz0icmluZy1mb3JtX19sYWJlbCIgdHJhbnNsYXRlPkxvZ2luPC9sYWJlbD4KCiAgICA8ZGl2IGNsYXNzPSJyaW5nLWZvcm1fX2NvbnRyb2wiPgogICAgICA8bGFiZWw+e3t1c2VyUHJvZmlsZUdlbmVyYWxDdHJsLnVzZXIubG9naW59fTwvbGFiZWw+CiAgICA8L2Rpdj4KICA8L2Rpdj4KCiAgPGRpdiBjbGFzcz0icmluZy1mb3JtX19ncm91cCI+CiAgICA8bGFiZWwgY2xhc3M9InJpbmctZm9ybV9fbGFiZWwiIHRyYW5zbGF0ZT5GdWxsIE5hbWU8L2xhYmVsPgoKICAgIDxkaXYgY2xhc3M9InJpbmctZm9ybV9fY29udHJvbCI+CiAgICAgIDxsYWJlbD57e3VzZXJQcm9maWxlR2VuZXJhbEN0cmwudXNlci5mdWxsTmFtZX19PC9sYWJlbD4KICAgIDwvZGl2PgogIDwvZGl2PgoKICA8ZGl2IGNsYXNzPSJyaW5nLWZvcm1fX2dyb3VwIiBuZy1pZj0idXNlclByb2ZpbGVHZW5lcmFsQ3RybC51c2VyLmVtYWlsIj4KICAgIDxsYWJlbCBjbGFzcz0icmluZy1mb3JtX19sYWJlbCIgdHJhbnNsYXRlPkVtYWlsPC9sYWJlbD4KCiAgICA8ZGl2IGNsYXNzPSJyaW5nLWZvcm1fX2NvbnRyb2wiPgogICAgICA8bGFiZWw+e3t1c2VyUHJvZmlsZUdlbmVyYWxDdHJsLnVzZXIuZW1haWx9fTwvbGFiZWw+CiAgICA8L2Rpdj4KICA8L2Rpdj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8ZGl2IGNsYXNzPSJyaW5nLWZvcm1fX2dyb3VwIj4KICAgIDxsYWJlbCBjbGFzcz0icmluZy1mb3JtX19sYWJlbCIgdHJhbnNsYXRlPkh1YiBQcm9maWxlPC9sYWJlbD4KCiAgICA8ZGl2IGNsYXNzPSJyaW5nLWZvcm1fX2NvbnRyb2wiPgogICAgICA8YSBjbGFzcz0ieXQtbGluayIgaHJlZj0iIiB0cmFuc2xhdGU+Q2hhbmdlIGxvZ2luLCBwYXNzd29yZCwgYXZhdGFyICYgY29udGFjdCBkYXRhPC9hPgogICAgPC9kaXY+CiAgPC9kaXY+CgogIDxkaXYgY2xhc3M9InJpbmctZm9ybV9fZ3JvdXAiPgogICAgPGxhYmVsIGNsYXNzPSJyaW5nLWZvcm1fX2xhYmVsIiB0cmFuc2xhdGU+TG9naW48L2xhYmVsPgoKICAgIDxkaXYgY2xhc3M9InJpbmctZm9ybV9fY29udHJvbCI+CiAgICAgIDxsYWJlbD57e3VzZXJQcm9maWxlR2VuZXJhbEN0cmwudXNlci5sb2dpbn19PC9sYWJlbD4KICAgIDwvZGl2PgogIDwvZGl2PgoKICA8ZGl2IGNsYXNzPSJyaW5nLWZvcm1fX2dyb3VwIj4KICAgIDxsYWJlbCBjbGFzcz0icmluZy1mb3JtX19sYWJlbCIgdHJhbnNsYXRlPkZ1bGwgTmFtZTwvbGFiZWw+CgogICAgPGRpdiBjbGFzcz0icmluZy1mb3JtX19jb250cm9sIj4KICAgICAgPGxhYmVsPnt7dXNlclByb2ZpbGVHZW5lcmFsQ3RybC51c2VyLmZ1bGxOYW1lfX08L2xhYmVsPgogICAgPC9kaXY+CiAgPC9kaXY+CgogIDxkaXYgY2xhc3M9InJpbmctZm9ybV9fZ3JvdXAiIG5nLWlmPSJ1c2VyUHJvZmlsZUdlbmVyYWxDdHJsLnVzZXIuZW1haWwiPgogICAgPGxhYmVsIGNsYXNzPSJyaW5nLWZvcm1fX2xhYmVsIiB0cmFuc2xhdGU+RW1haWw8L2xhYmVsPgoKICAgIDxkaXYgY2xhc3M9InJpbmctZm9ybV9fY29udHJvbCI+CiAgICAgIDxsYWJlbD57e3VzZXJQcm9maWxlR2VuZXJhbEN0cmwudXNlci5lbWFpbH19PC9sYWJlbD4KICAgIDwvZGl2PgogIDwvZGl2Pgo=</text>
+        <text encoding="base64">KHRvLWxpc3QgIjEyMyIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICA8L3A+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICA8L3A+Cg==</text>
+        <text encoding="base64">KGRyb3AgNCBbMSAyIDMgNCA1IDZdKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
