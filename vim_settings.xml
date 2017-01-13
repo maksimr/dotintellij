@@ -68,8 +68,8 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1484242273287">
-        <mark key="'" line="3" column="3" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1484295046154">
+        <mark key="'" line="93" column="5" />
         <mark key="[" line="117" column="16" />
         <mark key="]" line="117" column="22" />
         <mark key="." line="117" column="16" />
@@ -1250,8 +1250,8 @@
         <mark key="^" line="2" column="7" />
         <mark key="." line="2" column="7" />
       </file>
-      <file name="$USER_HOME$/www/clojure/project-euler/test/project_euler/largest_product_in_a_series.clj" timestamp="1484270925119">
-        <mark key="'" line="70" column="0" />
+      <file name="$USER_HOME$/www/clojure/project-euler/test/project_euler/largest_product_in_a_series.clj" timestamp="1484294722945">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="74" column="28" />
         <mark key="]" line="74" column="28" />
         <mark key="." line="74" column="28" />
@@ -2819,12 +2819,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="103" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
-      <jump line="149" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
-      <jump line="27" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/production.config.js" />
-      <jump line="16" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/production.config.js" />
-      <jump line="21" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/production.config.js" />
-      <jump line="107" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/production.config.js" />
       <jump line="15" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/production.config.js" />
       <jump line="22" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/production.config.js" />
       <jump line="147" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
@@ -2911,14 +2905,20 @@
       <jump line="27" column="6" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/largest_product_in_a_series.clj" />
       <jump line="72" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/largest_product_in_a_series.clj" />
       <jump line="49" column="41" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/largest_product_in_a_series.clj" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/largest_product_in_a_series.clj" />
       <jump line="1" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/largest_product_in_a_series.clj" />
       <jump line="22" column="31" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/largest_product_in_a_series.clj" />
       <jump line="3" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/largest_product_in_a_series.clj" />
       <jump line="2" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/largest_product_in_a_series.clj" />
-      <jump line="74" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/largest_product_in_a_series.clj" />
       <jump line="8" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/largest_product_in_a_series.clj" />
       <jump line="70" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/largest_product_in_a_series.clj" />
+      <jump line="15" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/largest_product_in_a_series.clj" />
+      <jump line="74" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/largest_product_in_a_series.clj" />
+      <jump line="67" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/largest_product_in_a_series.clj" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/clojure/project-euler/test/project_euler/largest_product_in_a_series.clj" />
+      <jump line="130" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="77" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="78" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="93" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2931,7 +2931,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>0</text>
+        <text>phantomjs</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">KGdldC1iaWctc3VtLW9mIDEzIGRpZ2l0cyAwKQo9PiAyMzUxNDYyNDAwMAo=</text>
@@ -2971,9 +2971,9 @@
       </register>
     </registers>
     <search>
-      <last-search>0</last-search>
+      <last-search>phantomjs</last-search>
       <last-offset />
-      <last-pattern>0</last-pattern>
+      <last-pattern>phantomjs</last-pattern>
       <last-replace>dark</last-replace>
       <last-substitute>railscasts</last-substitute>
       <last-dir>1</last-dir>
@@ -2981,9 +2981,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dash</entry>
-        <entry>babel</entry>
-        <entry>npm</entry>
         <entry>copy</entry>
         <entry>server</entry>
         <entry>progress</entry>
@@ -3001,6 +2998,9 @@
         <entry>version</entry>
         <entry>engine</entry>
         <entry>0</entry>
+        <entry>karma-pahantomjs</entry>
+        <entry>karma-phantom</entry>
+        <entry>phantomjs</entry>
       </history-search>
       <history-cmd>
         <entry>90</entry>
