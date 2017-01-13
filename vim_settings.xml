@@ -108,10 +108,10 @@
         <mark key="." line="104" column="0" />
         <mark key="^" line="87" column="3" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/webpack.config.js" timestamp="1484308959938">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/webpack.config.js" timestamp="1484313796423">
+        <mark key="'" line="98" column="0" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="100" column="0" />
         <mark key="." line="13" column="0" />
         <mark key="^" line="72" column="3" />
       </file>
@@ -676,10 +676,10 @@
         <mark key="^" line="22" column="552" />
         <mark key="." line="22" column="552" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/components/mount/mount.js" timestamp="1484308817140">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/components/mount/mount.js" timestamp="1484313658174">
         <mark key="'" line="14" column="12" />
-        <mark key="[" line="11" column="1" />
-        <mark key="]" line="11" column="1" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="61" />
         <mark key="." line="11" column="1" />
         <mark key="^" line="11" column="1" />
       </file>
@@ -2873,7 +2873,6 @@
       <jump line="15" column="42" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/webpack.config.js" />
       <jump line="87" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/webpack.config.js" />
       <jump line="95" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/webpack.config.js" />
-      <jump line="98" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/webpack.config.js" />
       <jump line="13" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/webpack.config.js" />
       <jump line="79" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
       <jump line="7" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/style/scripting-workflow.scss" />
@@ -2887,10 +2886,11 @@
       <jump line="161" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/style/scripting-workflow.scss" />
       <jump line="165" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/style/scripting-workflow.scss" />
       <jump line="189" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/style/scripting-workflow.scss" />
+      <jump line="98" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/webpack.config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBmbGV4LWJhc2lzOiAkc2NyaXB0LXNpZGViYXItd2lkdGg7Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gc2V0dXBBbHdheXNCdWlsZEJhYmVsSGFjaygpIHsKICBwcm9jZXNzLmVudi5CQUJFTF9FTlYgPSAncHJvZHVjdGlvbic7Cn0K</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -2899,10 +2899,10 @@
         <text>450px;</text>
       </register>
       <register name="/" type="4">
-        <text>width</text>
+        <text encoding="base64">XDxzZXR1cEFsd2F5c0J1aWxkQmFiZWxIYWNrXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwcm9jZXNzLmVudi5CQUJFTF9FTlYgPSAncHJvZHVjdGlvbic7Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gc2V0dXBBbHdheXNCdWlsZEJhYmVsSGFjaygpIHsKICBwcm9jZXNzLmVudi5CQUJFTF9FTlYgPSAncHJvZHVjdGlvbic7Cn0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBmbGV4LWJhc2lzOiAkc2NyaXB0LXNpZGViYXItd2lkdGg7Cg==</text>
@@ -2939,17 +2939,16 @@
       </register>
     </registers>
     <search>
-      <last-search>width</last-search>
+      <last-search encoding="base64">XDxzZXR1cEFsd2F5c0J1aWxkQmFiZWxIYWNrXD4=</last-search>
       <last-offset />
-      <last-pattern>width</last-pattern>
+      <last-pattern encoding="base64">XDxzZXR1cEFsd2F5c0J1aWxkQmFiZWxIYWNrXD4=</last-pattern>
       <last-replace>dark</last-replace>
       <last-substitute>railscasts</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>success</entry>
         <entry>hub</entry>
         <entry>load</entry>
         <entry>split</entry>
@@ -2969,6 +2968,7 @@
         <entry>mount</entry>
         <entry>webpack</entry>
         <entry>width</entry>
+        <entry encoding="base64">XDxzZXR1cEFsd2F5c0J1aWxkQmFiZWxIYWNrXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>90</entry>
