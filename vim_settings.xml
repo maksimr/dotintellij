@@ -150,12 +150,12 @@
         <mark key="^" line="1" column="35" />
         <mark key="." line="1" column="35" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/karma.conf.js" timestamp="1482362202574">
-        <mark key="'" line="67" column="14" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="17" />
-        <mark key="." line="60" column="14" />
-        <mark key="^" line="60" column="14" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/karma.conf.js" timestamp="1484296429736">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="72" column="80" />
+        <mark key="]" line="72" column="80" />
+        <mark key="." line="72" column="80" />
+        <mark key="^" line="72" column="80" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/agile-board.js" timestamp="1484240029318">
         <mark key="'" line="229" column="17" />
@@ -163,12 +163,6 @@
         <mark key="]" line="24" column="47" />
         <mark key="." line="22" column="0" />
         <mark key="^" line="24" column="32" />
-      </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-hub/webpack.config.js" timestamp="1484225805911">
-        <mark key="'" line="129" column="8" />
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="150" column="0" />
-        <mark key="." line="150" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/externals/header/test/controller/mps-agile-menu-create-button.js" timestamp="1473179855087">
         <mark key="'" line="9" column="0" />
@@ -2819,9 +2813,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/production.config.js" />
-      <jump line="22" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/production.config.js" />
-      <jump line="147" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
       <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
       <jump line="295" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
@@ -2919,22 +2910,25 @@
       <jump line="77" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
       <jump line="78" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
       <jump line="93" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="6" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/karma.conf.js" />
+      <jump line="57" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/karma.conf.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/karma.conf.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">KGdldC1iaWctc3VtLW9mIDEzIGRpZ2l0cyAwKQo9PiAyMzUxNDYyNDAwMAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">J3RlYW1jaXR5JyA6IA==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">J3RlYW1jaXR5JyA6IA==</text>
       </register>
       <register name="/" type="4">
-        <text>phantomjs</text>
+        <text>log</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">KGdldC1iaWctc3VtLW9mIDEzIGRpZ2l0cyAwKQo9PiAyMzUxNDYyNDAwMAo=</text>
+      <register name="0" type="4">
+        <text>process.env.TEAMCITY_VERSION ? 'teamcity' : []</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2971,9 +2965,9 @@
       </register>
     </registers>
     <search>
-      <last-search>phantomjs</last-search>
+      <last-search>log</last-search>
       <last-offset />
-      <last-pattern>phantomjs</last-pattern>
+      <last-pattern>log</last-pattern>
       <last-replace>dark</last-replace>
       <last-substitute>railscasts</last-substitute>
       <last-dir>1</last-dir>
@@ -2981,7 +2975,6 @@
     </search>
     <history>
       <history-search>
-        <entry>copy</entry>
         <entry>server</entry>
         <entry>progress</entry>
         <entry>bail</entry>
@@ -3001,6 +2994,7 @@
         <entry>karma-pahantomjs</entry>
         <entry>karma-phantom</entry>
         <entry>phantomjs</entry>
+        <entry>log</entry>
       </history-search>
       <history-cmd>
         <entry>90</entry>
