@@ -1410,8 +1410,8 @@
         <mark key="." line="88" column="0" />
         <mark key="^" line="84" column="34" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/production.config.js" timestamp="1484582000032">
-        <mark key="'" line="19" column="25" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/production.config.js" timestamp="1484841015207">
+        <mark key="'" line="57" column="72" />
         <mark key="[" line="19" column="12" />
         <mark key="]" line="19" column="30" />
         <mark key="." line="5" column="0" />
@@ -2665,11 +2665,10 @@
         <mark key="^" line="8" column="34" />
         <mark key="." line="8" column="34" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-workflow/src/main/kotlin/jetbrains/charisma/workflow/shortcuts/ScriptEditorShortcuts.kt" timestamp="1484838370633">
-        <mark key="[" line="52" column="37" />
-        <mark key="]" line="52" column="37" />
-        <mark key="." line="52" column="37" />
-        <mark key="^" line="52" column="37" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-workflow/src/main/kotlin/jetbrains/charisma/workflow/shortcuts/ScriptEditorShortcuts.kt" timestamp="1484840526681">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/filter/sort-user-values-by-current-user.js" timestamp="1472478297199">
         <mark key="'" line="4" column="1" />
@@ -3118,8 +3117,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/config/config.js" />
-      <jump line="2" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/i18n.js" />
       <jump line="39" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/service/i18n-translate.js" />
       <jump line="53" column="29" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/service/i18n-translate.js" />
       <jump line="16" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/service/i18n-translate.js" />
@@ -3218,10 +3215,12 @@
       <jump line="140" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/charisma-app/src/main/kotlin/jetbrains/charisma/persistent/globalSettings/KeyboardShortcuts.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/charisma-app/src/main/kotlin/jetbrains/charisma/persistent/globalSettings/KeyboardShortcuts.kt" />
       <jump line="5" column="35" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-workflow/src/main/kotlin/jetbrains/charisma/workflow/gaprest/Workflow.kt" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/production.config.js" />
+      <jump line="57" column="72" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/production.config.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>SPACE</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYmluZChNQUNJTlRPU0gpIHsgQ01EICsgIkEiIH0K</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -3230,49 +3229,49 @@
         <text>SPACE</text>
       </register>
       <register name="/" type="4">
-        <text>space</text>
+        <text>node_mod</text>
       </register>
       <register name="0" type="4">
         <text>CTRL + SPACE</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHNob3J0Y3V0LmtleSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmluZChNQUNJTlRPU0gpIHsgQ01EICsgIkEiIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCc+Pj4nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHNob3J0Y3V0LmtleSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCc+Pj4nKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB7e3NldHRpbmdzLmxvY2FsZVNldHRpbmdzLnRyYW5zbGF0aW9uU3RhdHVzLm1lc3NhZ2V9fQo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJz4+Pj4+PkhVQicsIGxvY2FsZS5sYW5ndWFnZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB7e3NldHRpbmdzLmxvY2FsZVNldHRpbmdzLnRyYW5zbGF0aW9uU3RhdHVzLm1lc3NhZ2V9fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBodWJDb25maWcuYXV0aC5zZXJ2ZXJVcmkgPSBjb25maWcuYmFja2VuZC5yaW5nLnVybDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJz4+Pj4+PkhVQicsIGxvY2FsZS5sYW5ndWFnZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBodWJDb25maWcuYXV0aC5zZXJ2ZXJVcmkgPSBjb25maWcuYmFja2VuZC5yaW5nLnVybDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICByZXR1cm4gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>space</last-search>
+      <last-search>node_mod</last-search>
       <last-offset />
-      <last-pattern>space</last-pattern>
+      <last-pattern>node_mod</last-pattern>
       <last-replace>angular.noop</last-replace>
       <last-substitute>{ }</last-substitute>
       <last-dir>1</last-dir>
@@ -3280,7 +3279,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXRMYW5nVG9HZXR0ZXh0XD4=</entry>
         <entry encoding="base64">XDxsb2FkUmVtb3RlVHJhbnNsYXRlXD4=</entry>
         <entry>load</entry>
         <entry>trans</entry>
@@ -3300,6 +3298,7 @@
         <entry>short</entry>
         <entry>shor</entry>
         <entry>space</entry>
+        <entry>node_mod</entry>
       </history-search>
       <history-cmd>
         <entry>%s/tableTreeView/$ctrl.tableTreeView/gc</entry>
