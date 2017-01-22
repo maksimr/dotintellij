@@ -739,11 +739,10 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/edit-project/workflows/workflow-sidebar.html" timestamp="1482758563481">
         <mark key="'" line="19" column="72" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/start-webdriver.sh" timestamp="1485123952270">
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="0" column="10" />
-        <mark key="." line="0" column="10" />
-        <mark key="^" line="0" column="10" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/start-webdriver.sh" timestamp="1485124832286">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/lib/workflow-hint.js" timestamp="1482849601660">
         <mark key="'" line="193" column="8" />
@@ -3361,50 +3360,50 @@
       <jump line="16" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/teamcity-e2e-runner.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>sh</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">JChucG0gYmluKS93ZWJkcml2ZXItbWFuYWdlciBjbGVhbgo=</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>sh</text>
+        <text>clen</text>
       </register>
       <register name="/" type="4">
         <text>web</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2V0IC1lCg==</text>
+        <text encoding="base64">JChucG0gYmluKS93ZWJkcml2ZXItbWFuYWdlciB1cGRhdGUgLS1zdGFuZGFsb25lCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Li9ub2RlX21vZHVsZXMvLmJpbi93ZWJkcml2ZXItbWFuYWdlciB1cGRhdGUK</text>
+        <text encoding="base64">JChucG0gYmluKS93ZWJkcml2ZXItbWFuYWdlciBjbGVhbgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Li9ub2RlX21vZHVsZXMvLmJpbi93ZWJkcml2ZXItbWFuYWdlciB1cGRhdGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICR3aW5kb3cuZ2V0U2VsZWN0aW9uID0gamFzbWluZS5jcmVhdGVTcHkoJyR3aW5kb3cuZ2V0U2VsZWN0aW9uJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgJHdpbmRvdy5nZXRTZWxlY3Rpb24gPSBqYXNtaW5lLmNyZWF0ZVNweSgnJHdpbmRvdy5nZXRTZWxlY3Rpb24nKS5hbmQucmV0dXJuVmFsdWUoc2VsZWN0ZWRUZXN0KTsK</text>
+        <text encoding="base64">ICAgICR3aW5kb3cuZ2V0U2VsZWN0aW9uID0gamFzbWluZS5jcmVhdGVTcHkoJyR3aW5kb3cuZ2V0U2VsZWN0aW9uJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgJHdpbmRvdy5nZXRTZWxlY3Rpb24gPSBqYXNtaW5lLmNyZWF0ZVNweSgnJHdpbmRvdy5nZXRTZWxlY3Rpb24nKS5hbmQucmV0dXJuVmFsdWUoJycpOwo=</text>
+        <text encoding="base64">ICAgICAgJHdpbmRvdy5nZXRTZWxlY3Rpb24gPSBqYXNtaW5lLmNyZWF0ZVNweSgnJHdpbmRvdy5nZXRTZWxlY3Rpb24nKS5hbmQucmV0dXJuVmFsdWUoc2VsZWN0ZWRUZXN0KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJHdpbmRvdy5nZXRTZWxlY3Rpb24gPSBqYXNtaW5lLmNyZWF0ZVNweSgnJHdpbmRvdy5nZXRTZWxlY3Rpb24nKS5hbmQucmV0dXJuVmFsdWUoJycpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gbGVodm9sazogdGhpcyBpcyByZWZhY3RvcmVkIGRpcmVjdGl2ZSBmcm9tIGh0dHBzOi8vZ2l0aHViLmNvbS9hbmd1bGFyLXVpL3VpLWNvZGVtaXJyb3IK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gbGVodm9sazogdGhpcyBpcyByZWZhY3RvcmVkIGRpcmVjdGl2ZSBmcm9tIGh0dHBzOi8vZ2l0aHViLmNvbS9hbmd1bGFyLXVpL3VpLWNvZGVtaXJyb3IK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">LypnbG9iYWwgd2luZG93OnRydWUqLwp3aW5kb3cuSlNISU5UID0gcmVxdWlyZSgnanNoaW50JykuSlNISU5UOyAvL2NvZGUtbWlycm9yIGxpbnRlciBnZXRzIEpTSElOVCBmcm9tIHdpbmRvdwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
