@@ -3,7 +3,14 @@
     <remote-server name="Docker" type="docker">
       <configuration>
         <option name="certificatesPath" value="$USER_HOME$/.docker/machine/machines/intellij" />
-        <option name="machine" value="intellij" />
+        <option name="pathMappings">
+          <list>
+            <DockerPathMappingImpl>
+              <option name="localPath" value="$USER_HOME$/www/jetbrains/youtrack" />
+              <option name="virtualMachinePath" value="/foo" />
+            </DockerPathMappingImpl>
+          </list>
+        </option>
       </configuration>
     </remote-server>
   </component>
