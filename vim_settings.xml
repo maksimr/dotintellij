@@ -786,8 +786,8 @@
         <mark key="^" line="22" column="552" />
         <mark key="." line="22" column="552" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/components/mount/mount.js" timestamp="1484835744122">
-        <mark key="'" line="25" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/components/mount/mount.js" timestamp="1485172946601">
+        <mark key="'" line="26" column="0" />
         <mark key="[" line="7" column="54" />
         <mark key="]" line="7" column="76" />
         <mark key="." line="7" column="54" />
@@ -1267,12 +1267,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/svg-sprite-loader/lib/svg-document.js" timestamp="1484662423210">
         <mark key="'" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/Dockerfile" timestamp="1485168571841">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="18" column="19" />
-        <mark key="]" line="18" column="20" />
-        <mark key="^" line="21" column="0" />
-        <mark key="." line="18" column="20" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/Dockerfile" timestamp="1485173339329">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="11" column="4" />
+        <mark key="]" line="11" column="87" />
+        <mark key="^" line="21" column="17" />
+        <mark key="." line="21" column="21" />
       </file>
       <file name="$USER_HOME$/www/js/specht/test/FileList.spec.js" timestamp="1472128891362">
         <mark key="'" line="23" column="0" />
@@ -3063,8 +3063,8 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/hub/client-side/app/blocks/goto/goto.js" timestamp="1485172824289">
-        <mark key="'" line="265" column="11" />
+      <file name="$USER_HOME$/www/jetbrains/hub/client-side/app/blocks/goto/goto.js" timestamp="1485172938931">
+        <mark key="'" line="246" column="0" />
       </file>
       <file name="$USER_HOME$/www/js/karma-mocha/.travis.yml" timestamp="1478358667204">
         <mark key="'" line="17" column="0" />
@@ -3271,9 +3271,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/directive/yt-code-editor.js" />
-      <jump line="41" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/jshint/src/jshint.js" />
-      <jump line="51" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/jshint/src/jshint.js" />
       <jump line="53" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/jshint/src/jshint.js" />
       <jump line="172" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/jshint/src/jshint.js" />
       <jump line="341" column="29" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/jshint/src/jshint.js" />
@@ -3351,7 +3348,6 @@
       <jump line="24" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/README.md" />
       <jump line="11" column="78" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/README.md" />
       <jump line="85" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/README.md" />
-      <jump line="35" column="37" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/Dockerfile" />
       <jump line="39" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/Dockerfile" />
       <jump line="41" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/Dockerfile" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/ring-hub/app/blocks/goto/goto.js" />
@@ -3371,22 +3367,26 @@
       <jump line="281" column="0" filename="$USER_HOME$/www/jetbrains/hub/client-side/app/blocks/goto/goto.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/hub/client-side/app/blocks/goto/goto.js" />
       <jump line="265" column="11" filename="$USER_HOME$/www/jetbrains/hub/client-side/app/blocks/goto/goto.js" />
+      <jump line="246" column="0" filename="$USER_HOME$/www/jetbrains/hub/client-side/app/blocks/goto/goto.js" />
+      <jump line="7" column="38" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/components/mount/mount.js" />
+      <jump line="26" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/components/mount/mount.js" />
+      <jump line="35" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/Dockerfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4+Jyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>docker push docker-registry.labs.intellij.net/jetbrains/youtrack-frontend-env:latest</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXB0LWdldCBpbnN0YWxsIC15IA==</text>
+        <text encoding="base64">IHdnZXQgdW56aXAgZ2l0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnb3RvTG9jYXRpb25zXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="0" type="4">
+        <text>docker push docker-registry.labs.intellij.net/jetbrains/youtrack-frontend-env:latest</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4+Jyk7Cg==</text>
