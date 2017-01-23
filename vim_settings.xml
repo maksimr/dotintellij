@@ -1597,6 +1597,12 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="28" column="55" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/ring-hub/app/blocks/goto/goto.js" timestamp="1485171996325">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="279" column="0" />
+        <mark key="]" line="279" column="0" />
+        <mark key="." line="279" column="0" />
+      </file>
       <file name="$USER_HOME$/www/js/oauth-in-action-code/exercises/ch-5-ex-1/client.js" timestamp="1475862740707">
         <mark key="'" line="12" column="24" />
         <mark key="[" line="168" column="1" />
@@ -3262,7 +3268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="224" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/jshint/src/options.js" />
       <jump line="328" column="56" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/jshint/src/options.js" />
       <jump line="397" column="56" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/jshint/src/options.js" />
       <jump line="423" column="56" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/jshint/src/options.js" />
@@ -3362,10 +3367,11 @@
       <jump line="35" column="37" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/Dockerfile" />
       <jump line="39" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/Dockerfile" />
       <jump line="41" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/Dockerfile" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/ring-hub/app/blocks/goto/goto.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">YXB0LWdldCBpbnN0YWxsIC15IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4+Jyk7Cg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -3380,7 +3386,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4+Jyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -3389,16 +3395,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UlVOIHdnZXQgLU8gL3RtcC9qcmUtbGludXgteDY0LnRhci5neiAtLWhlYWRlciAiQ29va2llOiBvcmFjbGVsaWNlbnNlPWFjY2VwdC1zZWN1cmViYWNrdXAtY29va2llIiBodHRwOi8vZG93bmxvYWQub3JhY2xlLmNvbS9vdG4tcHViL2phdmEvamRrLzh1NzctYjAzL2pyZS04dTc3LWxpbnV4LXg2NC50YXIuZ3oKUlVOIG1rZGlyIC9vcHQvanJlClJVTiB0YXIgLXp4ZiAvdG1wL2pyZS1saW51eC14NjQudGFyLmd6IC1DIC9vcHQvanJlClJVTiB1cGRhdGUtYWx0ZXJuYXRpdmVzIC0taW5zdGFsbCAvdXNyL2Jpbi9qYXZhIGphdmEgL29wdC9qcmUvanJlMS44LjBfNzcvYmluL2phdmEgMTAwCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">UlVOIHdnZXQgLU8gL3RtcC9qcmUtbGludXgteDY0LnRhci5neiAtLWhlYWRlciAiQ29va2llOiBvcmFjbGVsaWNlbnNlPWFjY2VwdC1zZWN1cmViYWNrdXAtY29va2llIiBodHRwOi8vZG93bmxvYWQub3JhY2xlLmNvbS9vdG4tcHViL2phdmEvamRrLzh1NzctYjAzL2pyZS04dTc3LWxpbnV4LXg2NC50YXIuZ3oKUlVOIG1rZGlyIC9vcHQvanJlClJVTiB0YXIgLXp4ZiAvdG1wL2pyZS1saW51eC14NjQudGFyLmd6IC1DIC9vcHQvanJlClJVTiB1cGRhdGUtYWx0ZXJuYXRpdmVzIC0taW5zdGFsbCAvdXNyL2Jpbi9qYXZhIGphdmEgL29wdC9qcmUvanJlMS44LjBfNzcvYmluL2phdmEgMTAwCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBJbnN0YWxsIEphdmEgOApSVU4gd2dldCAtTyAvdG1wL2pyZS1saW51eC14NjQudGFyLmd6IC0taGVhZGVyICJDb29raWU6IG9yYWNsZWxpY2Vuc2U9YWNjZXB0LXNlY3VyZWJhY2t1cC1jb29raWUiIGh0dHA6Ly9kb3dubG9hZC5vcmFjbGUuY29tL290bi1wdWIvamF2YS9qZGsvOHU3Ny1iMDMvanJlLTh1NzctbGludXgteDY0LnRhci5negpSVU4gbWtkaXIgL29wdC9qcmUKUlVOIHRhciAtenhmIC90bXAvanJlLWxpbnV4LXg2NC50YXIuZ3ogLUMgL29wdC9qcmUKUlVOIHVwZGF0ZS1hbHRlcm5hdGl2ZXMgLS1pbnN0YWxsIC91c3IvYmluL2phdmEgamF2YSAvb3B0L2pyZS9qcmUxLjguMF83Ny9iaW4vamF2YSAxMDAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">JChucG0gYmluKS93ZWJkcml2ZXItbWFuYWdlciBjbGVhbgo=</text>
+        <text encoding="base64">IyBJbnN0YWxsIEphdmEgOApSVU4gd2dldCAtTyAvdG1wL2pyZS1saW51eC14NjQudGFyLmd6IC0taGVhZGVyICJDb29raWU6IG9yYWNsZWxpY2Vuc2U9YWNjZXB0LXNlY3VyZWJhY2t1cC1jb29raWUiIGh0dHA6Ly9kb3dubG9hZC5vcmFjbGUuY29tL290bi1wdWIvamF2YS9qZGsvOHU3Ny1iMDMvanJlLTh1NzctbGludXgteDY0LnRhci5negpSVU4gbWtkaXIgL29wdC9qcmUKUlVOIHRhciAtenhmIC90bXAvanJlLWxpbnV4LXg2NC50YXIuZ3ogLUMgL29wdC9qcmUKUlVOIHVwZGF0ZS1hbHRlcm5hdGl2ZXMgLS1pbnN0YWxsIC91c3IvYmluL2phdmEgamF2YSAvb3B0L2pyZS9qcmUxLjguMF83Ny9iaW4vamF2YSAxMDAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">JChucG0gYmluKS93ZWJkcml2ZXItbWFuYWdlciBjbGVhbgo=</text>
@@ -3407,7 +3413,7 @@
         <text encoding="base64">JChucG0gYmluKS93ZWJkcml2ZXItbWFuYWdlciBjbGVhbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Li9ub2RlX21vZHVsZXMvLmJpbi93ZWJkcml2ZXItbWFuYWdlciB1cGRhdGUK</text>
+        <text encoding="base64">JChucG0gYmluKS93ZWJkcml2ZXItbWFuYWdlciBjbGVhbgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
