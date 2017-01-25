@@ -1703,8 +1703,8 @@
         <mark key="^" line="225" column="5" />
         <mark key="." line="225" column="5" />
       </file>
-      <file name="$USER_HOME$/www/js/116358-code-and-magick/index.html" timestamp="1485289413431">
-        <mark key="'" line="10" column="0" />
+      <file name="$USER_HOME$/www/js/116358-code-and-magick/index.html" timestamp="1485366182669">
+        <mark key="'" line="19" column="0" />
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
@@ -3401,14 +3401,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6308" column="81" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/codemirror/lib/codemirror.js" />
-      <jump line="6326" column="82" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/codemirror/lib/codemirror.js" />
-      <jump line="8973" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/codemirror/lib/codemirror.js" />
-      <jump line="7855" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/codemirror/lib/codemirror.js" />
-      <jump line="7856" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/codemirror/lib/codemirror.js" />
-      <jump line="7863" column="47" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/codemirror/lib/codemirror.js" />
-      <jump line="7542" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/codemirror/lib/codemirror.js" />
-      <jump line="7560" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/codemirror/lib/codemirror.js" />
       <jump line="7561" column="59" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/codemirror/lib/codemirror.js" />
       <jump line="7854" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/codemirror/lib/codemirror.js" />
       <jump line="8596" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/codemirror/lib/codemirror.js" />
@@ -3501,6 +3493,14 @@
       <jump line="6" column="0" filename="$USER_HOME$/www/js/116358-code-and-magick/js/game.js" />
       <jump line="813" column="0" filename="$USER_HOME$/www/js/116358-code-and-magick/js/game.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/js/116358-code-and-magick/js/game.js" />
+      <jump line="74" column="16" filename="$USER_HOME$/www/js/116358-code-and-magick/index.html" />
+      <jump line="75" column="18" filename="$USER_HOME$/www/js/116358-code-and-magick/index.html" />
+      <jump line="78" column="16" filename="$USER_HOME$/www/js/116358-code-and-magick/index.html" />
+      <jump line="79" column="18" filename="$USER_HOME$/www/js/116358-code-and-magick/index.html" />
+      <jump line="80" column="18" filename="$USER_HOME$/www/js/116358-code-and-magick/index.html" />
+      <jump line="55" column="8" filename="$USER_HOME$/www/js/116358-code-and-magick/index.html" />
+      <jump line="27" column="14" filename="$USER_HOME$/www/js/116358-code-and-magick/index.html" />
+      <jump line="19" column="0" filename="$USER_HOME$/www/js/116358-code-and-magick/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -3513,7 +3513,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>state</text>
+        <text>setup</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAuY29uc3RhbnQoJ1hYWENvZGVNaXJyb3InLCByZXF1aXJlKCdjb2RlbWlycm9yJykpOwo=</text>
@@ -3553,9 +3553,9 @@
       </register>
     </registers>
     <search>
-      <last-search>state</last-search>
+      <last-search>setup</last-search>
       <last-offset />
-      <last-pattern>state</last-pattern>
+      <last-pattern>setup</last-pattern>
       <last-replace>$XXXcm</last-replace>
       <last-substitute>$cm</last-substitute>
       <last-dir>1</last-dir>
@@ -3563,9 +3563,6 @@
     </search>
     <history>
       <history-search>
-        <entry>css</entry>
-        <entry>on('save</entry>
-        <entry>trigger</entry>
         <entry>'before'</entry>
         <entry>onBefore</entry>
         <entry>after</entry>
@@ -3583,6 +3580,9 @@
         <entry>on issue</entry>
         <entry>onChange</entry>
         <entry>state</entry>
+        <entry>setup-opn</entry>
+        <entry>setup-open</entry>
+        <entry>setup</entry>
       </history-search>
       <history-cmd>
         <entry>45</entry>
