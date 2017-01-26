@@ -488,6 +488,9 @@
         <mark key="." line="61" column="14" />
         <mark key="^" line="61" column="14" />
       </file>
+      <file name="http://localhost:63342/performance/javascript/reflow/index.js" timestamp="1485433360937">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board-backlog.js" timestamp="1476111644163">
         <mark key="'" line="13" column="37" />
         <mark key="[" line="16" column="87" />
@@ -1852,11 +1855,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-scripts/src/main/kotlin/jetbrains/youtrack/scripts/gaprest/Script.kt" timestamp="1482751499011">
         <mark key="'" line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/www/js/performance/javascript/reflow/index.js" timestamp="1485429399921">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/www/js/performance/javascript/reflow/index.js" timestamp="1485434073093">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="2" column="23" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-workflow/src/main/kotlin/jetbrains/charisma/workflow/WorkflowHttpClientFactory.kt" timestamp="1484857701493">
         <mark key="'" line="68" column="0" />
@@ -3526,14 +3530,14 @@
       <jump line="10" column="0" filename="$USER_HOME$/www/js/performance/javascript/reflow/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>!</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgdGV4dE5vZGUgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgndGV4dCcpOwogICAgICAgIHRleHROb2RlLnBhcmVudE5vZGUucmVtb3ZlQ2hpbGQodGV4dE5vZGUpOwo=</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>onReflow</text>
       </register>
       <register name="/" type="4">
         <text>setup-open</text>
@@ -3542,34 +3546,34 @@
         <text encoding="base64">ICAuY29uc3RhbnQoJ1hYWENvZGVNaXJyb3InLCByZXF1aXJlKCdjb2RlbWlycm9yJykpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdIZWxsbyBXb3JsZCEnKTsK</text>
+        <text encoding="base64">ICAgICAgICB2YXIgdGV4dE5vZGUgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgndGV4dCcpOwogICAgICAgIHRleHROb2RlLnBhcmVudE5vZGUucmVtb3ZlQ2hpbGQodGV4dE5vZGUpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnRk9PJyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdIZWxsbyBXb3JsZCEnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhhcmd1bWVudHMpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnRk9PJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgJGdldDogZnVuY3Rpb24oKSB7CiAgICAgICAgcmV0dXJuIHsKICAgICAgICAgIHBhdGNoOiBwYXRjaENvZGVNaXJyb3IKICAgICAgICB9CiAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhhcmd1bWVudHMpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJGdldDogZnVuY3Rpb24oKSB7CiAgICAgICAgcmV0dXJuIHsKICAgICAgICAgIHBhdGNoOiBwYXRjaENvZGVNaXJyb3IKICAgICAgICB9CiAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgJGdldDogZnVuY3Rpb24oKSB7CiAgICAgICAgcmV0dXJuIHBhdGNoQ29kZU1pcnJvcjsKICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgJGdldDogZnVuY3Rpb24oKSB7CiAgICAgICAgcmV0dXJuIHBhdGNoQ29kZU1pcnJvcjsKICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
