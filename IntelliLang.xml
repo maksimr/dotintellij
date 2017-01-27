@@ -157,6 +157,14 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("add-card-to-sprint")).withParent(xmlTag().withLocalName(string().equalTo("yt-backlog-issue")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-board/@infinite-scroll</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("infinite-scroll")).withParent(xmlTag().withLocalName(string().equalTo("yt-board")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-board/@infinite-scroll-disabled</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("infinite-scroll-disabled")).withParent(xmlTag().withLocalName(string().equalTo("yt-board")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>yt-code-preview/@text</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("text")).withParent(xmlTag().withLocalName(string().equalTo("yt-code-preview")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
