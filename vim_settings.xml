@@ -1501,6 +1501,12 @@
         <mark key="^" line="41" column="17" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/place-under-ng/place-under-ng.js" timestamp="1485547495035">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="60" />
+        <mark key="." line="127" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/footer/service/get-footer-data.js" timestamp="1481112259223">
         <mark key="'" line="25" column="9" />
         <mark key="[" line="23" column="24" />
@@ -3396,8 +3402,8 @@
         <mark key="." line="97" column="1" />
         <mark key="^" line="97" column="1" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sticky-panel/service/yt-scroll.js" timestamp="1483973510627">
-        <mark key="'" line="26" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sticky-panel/service/yt-scroll.js" timestamp="1485547592086">
+        <mark key="'" line="19" column="12" />
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
@@ -3453,11 +3459,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/www/js/qrcode/app/scripts/main.js" />
-      <jump line="228" column="12" filename="$USER_HOME$/www/js/qrcode/app/scripts/main.js" />
-      <jump line="234" column="0" filename="$USER_HOME$/www/js/qrcode/app/scripts/main.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/js/qrcode/app/scripts/main.js" />
-      <jump line="29" column="33" filename="$USER_HOME$/www/js/qrcode/app/scripts/main.js" />
       <jump line="24" column="43" filename="$USER_HOME$/www/js/qrcode/app/scripts/main.js" />
       <jump line="337" column="8" filename="$USER_HOME$/www/js/qrcode/app/scripts/main.js" />
       <jump line="330" column="40" filename="$USER_HOME$/www/js/qrcode/app/scripts/main.js" />
@@ -3553,10 +3554,15 @@
       <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-table.html" />
       <jump line="10" column="133" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-table.html" />
       <jump line="164" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-table.html" />
+      <jump line="28" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/place-under-ng/place-under-ng.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sticky-panel/service/yt-scroll.js" />
+      <jump line="26" column="32" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sticky-panel/service/yt-scroll.js" />
+      <jump line="27" column="33" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sticky-panel/service/yt-scroll.js" />
+      <jump line="19" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sticky-panel/service/yt-scroll.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>isLoadingMore</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBlbGVtZW50LnN0eWxlLm1hcmdpblRvcCA9IGAke21hcmdpbiArIHRvcE9mZnNldH1weGA7Cg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -3565,58 +3571,56 @@
         <text>isLoadingMore</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxub3RoaW5nTGVmdFw+</text>
+        <text>getScrol</text>
       </register>
       <register name="0" type="4">
         <text>agileBoardCtrl.swimlanesLazyLoadState.isLoadingMore</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB3aWxsLWNoYW5nZTogdHJhbnNmb3JtOwo=</text>
+        <text encoding="base64">ICAgICAgICBlbGVtZW50LnN0eWxlLm1hcmdpblRvcCA9IGAke21hcmdpbiArIHRvcE9mZnNldH1weGA7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB3aWxsLWNoYW5nZTogdHJhbnNmb3JtOwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIHJlcXVlc3RBbmltYXRpb25GcmFtZShmdW5jdGlvbiAoKSB7CiAgICAgIHZhciBmbHVzaGVkID0gdHJ1ZTsKCiAgICAgIHZhciBoZWFkZXIgPSAkKCdoZWFkZXInKTsKICAgICAgdmFyIGhlYWRlclRpdGxlcyA9IGhlYWRlci5xdWVyeVNlbGVjdG9yKCcuaGVhZGVyX190aXRsZS13cmFwcGVyJyk7CiAgICAgIHZhciBtYWluU2Nyb2xsVG9wID0gbWFpbi5zY3JvbGxUb3A7CiAgICAgIHZhciBtYWluSGVpZ2h0RGlmZiA9IG1haW4uc2Nyb2xsSGVpZ2h0IC0gbWFpbi5vZmZzZXRIZWlnaHQ7CiAgICAgIHZhciBzY3JvbGxUb3BDYXBwZWQgPSBNYXRoLm1pbig3MCwgbWFpblNjcm9sbFRvcCk7CiAgICAgIHZhciBzY2FsZVN0cmluZyA9ICdzY2FsZSgnICsgKDEgLSAoc2Nyb2xsVG9wQ2FwcGVkIC8gMzAwKSkgKyAnKSc7CgogICAgICBjb2xvcml6ZUFuZFNjYWxlU3RvcmllcygpOwoKICAgICAgaGVhZGVyLnN0eWxlLmhlaWdodCA9ICgxNTYgLSBzY3JvbGxUb3BDYXBwZWQpICsgJ3B4JzsKICAgICAgaGVhZGVyVGl0bGVzLnN0eWxlLndlYmtpdFRyYW5zZm9ybSA9IHNjYWxlU3RyaW5nOwogICAgICBoZWFkZXJUaXRsZXMuc3R5bGUudHJhbnNmb3JtID0gc2NhbGVTdHJpbmc7CgogICAgICAvLyBBZGQgYSBzaGFkb3cgdG8gdGhlIGhlYWRlci4KICAgICAgaWYgKG1haW5TY3JvbGxUb3AgPiA3MCkKICAgICAgICBkb2N1bWVudC5ib2R5LmNsYXNzTGlzdC5hZGQoJ3JhaXNlZCcpOwogICAgICBlbHNlCiAgICAgICAgZG9jdW1lbnQuYm9keS5jbGFzc0xpc3QucmVtb3ZlKCdyYWlzZWQnKTsKCiAgICAgIC8vIENoZWNrIGlmIHdlIG5lZWQgdG8gbG9hZCB0aGUgbmV4dCBiYXRjaCBvZiBzdG9yaWVzLgogICAgICB2YXIgbG9hZFRocmVzaG9sZCA9IChtYWluSGVpZ2h0RGlmZiAtIExBWllfTE9BRF9USFJFU0hPTEQpOwogICAgICBpZiAobWFpblNjcm9sbFRvcCA+IGxvYWRUaHJlc2hvbGQpCiAgICAgICAgbG9hZFN0b3J5QmF0Y2goKTsKICAgIH0pOw==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICB3aWxsLWNoYW5nZTogdHJhbnNmb3JtOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICB3aWxsLWNoYW5nZTogdHJhbnNmb3JtOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIHJlcXVlc3RBbmltYXRpb25GcmFtZShmdW5jdGlvbiAoKSB7CiAgICAgIHZhciBmbHVzaGVkID0gdHJ1ZTsKCiAgICAgIHZhciBoZWFkZXIgPSAkKCdoZWFkZXInKTsKICAgICAgdmFyIGhlYWRlclRpdGxlcyA9IGhlYWRlci5xdWVyeVNlbGVjdG9yKCcuaGVhZGVyX190aXRsZS13cmFwcGVyJyk7CiAgICAgIHZhciBtYWluU2Nyb2xsVG9wID0gbWFpbi5zY3JvbGxUb3A7CiAgICAgIHZhciBtYWluSGVpZ2h0RGlmZiA9IG1haW4uc2Nyb2xsSGVpZ2h0IC0gbWFpbi5vZmZzZXRIZWlnaHQ7CiAgICAgIHZhciBzY3JvbGxUb3BDYXBwZWQgPSBNYXRoLm1pbig3MCwgbWFpblNjcm9sbFRvcCk7CiAgICAgIHZhciBzY2FsZVN0cmluZyA9ICdzY2FsZSgnICsgKDEgLSAoc2Nyb2xsVG9wQ2FwcGVkIC8gMzAwKSkgKyAnKSc7CgogICAgICBjb2xvcml6ZUFuZFNjYWxlU3RvcmllcygpOwoKICAgICAgaGVhZGVyLnN0eWxlLmhlaWdodCA9ICgxNTYgLSBzY3JvbGxUb3BDYXBwZWQpICsgJ3B4JzsKICAgICAgaGVhZGVyVGl0bGVzLnN0eWxlLndlYmtpdFRyYW5zZm9ybSA9IHNjYWxlU3RyaW5nOwogICAgICBoZWFkZXJUaXRsZXMuc3R5bGUudHJhbnNmb3JtID0gc2NhbGVTdHJpbmc7CgogICAgICAvLyBBZGQgYSBzaGFkb3cgdG8gdGhlIGhlYWRlci4KICAgICAgaWYgKG1haW5TY3JvbGxUb3AgPiA3MCkKICAgICAgICBkb2N1bWVudC5ib2R5LmNsYXNzTGlzdC5hZGQoJ3JhaXNlZCcpOwogICAgICBlbHNlCiAgICAgICAgZG9jdW1lbnQuYm9keS5jbGFzc0xpc3QucmVtb3ZlKCdyYWlzZWQnKTsKCiAgICAgIC8vIENoZWNrIGlmIHdlIG5lZWQgdG8gbG9hZCB0aGUgbmV4dCBiYXRjaCBvZiBzdG9yaWVzLgogICAgICB2YXIgbG9hZFRocmVzaG9sZCA9IChtYWluSGVpZ2h0RGlmZiAtIExBWllfTE9BRF9USFJFU0hPTEQpOwogICAgICBpZiAobWFpblNjcm9sbFRvcCA+IGxvYWRUaHJlc2hvbGQpCiAgICAgICAgbG9hZFN0b3J5QmF0Y2goKTsKICAgIH0pOw==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhciBoZWFkZXIgPSAkKCdoZWFkZXInKTsKICAgIHZhciBoZWFkZXJUaXRsZXMgPSBoZWFkZXIucXVlcnlTZWxlY3RvcignLmhlYWRlcl9fdGl0bGUtd3JhcHBlcicpOwogICAgdmFyIG1haW5TY3JvbGxUb3AgPSBtYWluLnNjcm9sbFRvcDsKICAgIHZhciBtYWluSGVpZ2h0RGlmZiA9IG1haW4uc2Nyb2xsSGVpZ2h0IC0gbWFpbi5vZmZzZXRIZWlnaHQ7CiAgICB2YXIgc2Nyb2xsVG9wQ2FwcGVkID0gTWF0aC5taW4oNzAsIG1haW5TY3JvbGxUb3ApOwogICAgdmFyIHNjYWxlU3RyaW5nID0gJ3NjYWxlKCcgKyAoMSAtIChzY3JvbGxUb3BDYXBwZWQgLyAzMDApKSArICcpJzsKCiAgICBjb2xvcml6ZUFuZFNjYWxlU3RvcmllcygpOwoKICAgIGhlYWRlci5zdHlsZS5oZWlnaHQgPSAoMTU2IC0gc2Nyb2xsVG9wQ2FwcGVkKSArICdweCc7CiAgICBoZWFkZXJUaXRsZXMuc3R5bGUud2Via2l0VHJhbnNmb3JtID0gc2NhbGVTdHJpbmc7CiAgICBoZWFkZXJUaXRsZXMuc3R5bGUudHJhbnNmb3JtID0gc2NhbGVTdHJpbmc7CgogICAgLy8gQWRkIGEgc2hhZG93IHRvIHRoZSBoZWFkZXIuCiAgICBpZiAobWFpblNjcm9sbFRvcCA+IDcwKQogICAgICBkb2N1bWVudC5ib2R5LmNsYXNzTGlzdC5hZGQoJ3JhaXNlZCcpOwogICAgZWxzZQogICAgICBkb2N1bWVudC5ib2R5LmNsYXNzTGlzdC5yZW1vdmUoJ3JhaXNlZCcpOwoKICAgIC8vIENoZWNrIGlmIHdlIG5lZWQgdG8gbG9hZCB0aGUgbmV4dCBiYXRjaCBvZiBzdG9yaWVzLgogICAgdmFyIGxvYWRUaHJlc2hvbGQgPSAobWFpbkhlaWdodERpZmYgLSBMQVpZX0xPQURfVEhSRVNIT0xEKTsKICAgIGlmIChtYWluU2Nyb2xsVG9wID4gbG9hZFRocmVzaG9sZCkKICAgICAgbG9hZFN0b3J5QmF0Y2goKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc2NvcmUuc3R5bGUubGluZUhlaWdodCA9IChzY2FsZSAqIDQwKSArICdweCc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgc2NvcmUuc3R5bGUud2lkdGggPSBuZXdXaWR0aCArICdweCc7CiAgICAgIHNjb3JlLnN0eWxlLmhlaWdodCA9IChzY2FsZSAqIDQwKSArICdweCc7Cg==</text>
+        <text encoding="base64">ICAgIHZhciBoZWFkZXIgPSAkKCdoZWFkZXInKTsKICAgIHZhciBoZWFkZXJUaXRsZXMgPSBoZWFkZXIucXVlcnlTZWxlY3RvcignLmhlYWRlcl9fdGl0bGUtd3JhcHBlcicpOwogICAgdmFyIG1haW5TY3JvbGxUb3AgPSBtYWluLnNjcm9sbFRvcDsKICAgIHZhciBtYWluSGVpZ2h0RGlmZiA9IG1haW4uc2Nyb2xsSGVpZ2h0IC0gbWFpbi5vZmZzZXRIZWlnaHQ7CiAgICB2YXIgc2Nyb2xsVG9wQ2FwcGVkID0gTWF0aC5taW4oNzAsIG1haW5TY3JvbGxUb3ApOwogICAgdmFyIHNjYWxlU3RyaW5nID0gJ3NjYWxlKCcgKyAoMSAtIChzY3JvbGxUb3BDYXBwZWQgLyAzMDApKSArICcpJzsKCiAgICBjb2xvcml6ZUFuZFNjYWxlU3RvcmllcygpOwoKICAgIGhlYWRlci5zdHlsZS5oZWlnaHQgPSAoMTU2IC0gc2Nyb2xsVG9wQ2FwcGVkKSArICdweCc7CiAgICBoZWFkZXJUaXRsZXMuc3R5bGUud2Via2l0VHJhbnNmb3JtID0gc2NhbGVTdHJpbmc7CiAgICBoZWFkZXJUaXRsZXMuc3R5bGUudHJhbnNmb3JtID0gc2NhbGVTdHJpbmc7CgogICAgLy8gQWRkIGEgc2hhZG93IHRvIHRoZSBoZWFkZXIuCiAgICBpZiAobWFpblNjcm9sbFRvcCA+IDcwKQogICAgICBkb2N1bWVudC5ib2R5LmNsYXNzTGlzdC5hZGQoJ3JhaXNlZCcpOwogICAgZWxzZQogICAgICBkb2N1bWVudC5ib2R5LmNsYXNzTGlzdC5yZW1vdmUoJ3JhaXNlZCcpOwoKICAgIC8vIENoZWNrIGlmIHdlIG5lZWQgdG8gbG9hZCB0aGUgbmV4dCBiYXRjaCBvZiBzdG9yaWVzLgogICAgdmFyIGxvYWRUaHJlc2hvbGQgPSAobWFpbkhlaWdodERpZmYgLSBMQVpZX0xPQURfVEhSRVNIT0xEKTsKICAgIGlmIChtYWluU2Nyb2xsVG9wID4gbG9hZFRocmVzaG9sZCkKICAgICAgbG9hZFN0b3J5QmF0Y2goKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxub3RoaW5nTGVmdFw+</last-search>
+      <last-search>getScrol</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxub3RoaW5nTGVmdFw+</last-pattern>
+      <last-pattern>getScrol</last-pattern>
       <last-replace>$XXXcm</last-replace>
       <last-substitute>$cm</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzYXR1cmF0aW9uXD4=</entry>
-        <entry>title</entry>
         <entry encoding="base64">XDxvcGFjaXR5XD4=</entry>
         <entry encoding="base64">XDxjb2xvcml6ZUFuZFNjYWxlU3Rvcmllc1w+</entry>
         <entry encoding="base64">XDxvblN0b3J5Q2xpY2tcPg==</entry>
@@ -3635,6 +3639,8 @@
         <entry>ng-infini</entry>
         <entry>infini</entry>
         <entry encoding="base64">XDxub3RoaW5nTGVmdFw+</entry>
+        <entry>marginTop</entry>
+        <entry>getScrol</entry>
       </history-search>
       <history-cmd>
         <entry>65</entry>
