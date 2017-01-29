@@ -1564,12 +1564,12 @@
         <mark key="." line="27" column="5" />
         <mark key="^" line="16" column="3" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-table.html" timestamp="1485546603199">
-        <mark key="'" line="164" column="0" />
-        <mark key="[" line="10" column="133" />
-        <mark key="]" line="10" column="143" />
-        <mark key="." line="10" column="143" />
-        <mark key="^" line="10" column="143" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-table.html" timestamp="1485722514316">
+        <mark key="'" line="13" column="25" />
+        <mark key="[" line="35" column="38" />
+        <mark key="]" line="35" column="37" />
+        <mark key="." line="35" column="37" />
+        <mark key="^" line="35" column="37" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-boards.js" timestamp="1481656413143">
         <mark key="'" line="15" column="17" />
@@ -1618,7 +1618,7 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/dashboard/test/dashboard.js" timestamp="1485340540757">
         <mark key="'" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-board-with-sidebar.js" timestamp="1485721185931">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-board-with-sidebar.js" timestamp="1485722059967">
         <mark key="'" line="45" column="52" />
         <mark key="[" line="38" column="23" />
         <mark key="]" line="38" column="22" />
@@ -2506,7 +2506,7 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/test/unit/test-bundle.webpack.js" timestamp="1485113903361">
         <mark key="'" line="11" column="32" />
       </file>
-      <file name="/a.regexp" timestamp="1485721113395">
+      <file name="/a.regexp" timestamp="1485722060973">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
         <mark key="^" line="0" column="20" />
@@ -3527,7 +3527,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6824" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
       <jump line="6844" column="94" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
       <jump line="6888" column="83" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
       <jump line="6903" column="89" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
@@ -3627,61 +3626,62 @@
       <jump line="38" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-board-with-sidebar.js" />
       <jump line="43" column="67" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-board-with-sidebar.js" />
       <jump line="45" column="52" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-board-with-sidebar.js" />
+      <jump line="13" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-table.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGVsZW1lbnRUb0NoZWNrKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHZpc2liaWxpdHk6IGhpZGRlbg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>======= rgPlaceUnder ====</text>
+        <text encoding="base64">IHZpc2liaWxpdHk6IGhpZGRlbg==</text>
       </register>
       <register name="/" type="4">
-        <text>place-under</text>
+        <text>marker</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLndhaXRGb3JOb25aZXJvSGVpZ2h0KHN5bmNFbGVtZW50KS50aGVuKHNpZGViYXJTY3JvbGxMaXN0ZW5lcik7Cgo=</text>
+      <register name="0" type="4">
+        <text>js-agile-board-baseline-marker</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGVsZW1lbnRUb0NoZWNrKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2IHN0eWxlPSJoZWlnaHQ6IDAuMXB4IiBjbGFzcz0ianMtYWdpbGUtYm9hcmQtYmFzZWxpbmUtbWFya2VyIj48L2Rpdj4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygnPj4+Pj4nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGVsZW1lbnRUb0NoZWNrKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCc+Pj4+PicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygnPj4+Pj4nKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJz4+Pj4nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCc+Pj4+PicpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGViCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJz4+Pj4nKTsK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGViCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4+PicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJz4+Pj4nKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4+Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4+PicpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJz4+PicpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4+Jyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>place-under</last-search>
+      <last-search>marker</last-search>
       <last-offset />
-      <last-pattern>place-under</last-pattern>
+      <last-pattern>marker</last-pattern>
       <last-replace>$XXXcm</last-replace>
       <last-substitute>$cm</last-substitute>
       <last-dir>1</last-dir>
@@ -3689,7 +3689,6 @@
     </search>
     <history>
       <history-search>
-        <entry>debounce</entry>
         <entry encoding="base64">XDxjbGVhclRpbWVvdXRcPg==</entry>
         <entry encoding="base64">XDxsaXN0ZW5lclw+</entry>
         <entry encoding="base64">XDxzY3JvbGxTdWJzY3JpcHRpb25cPg==</entry>
@@ -3709,6 +3708,7 @@
         <entry encoding="base64">XDxQTEFDRV9VTkRFUl9SRUNBTENVTEFURV9TRUxFQ1RPUlw+</entry>
         <entry encoding="base64">XDxCT0FSRF9CQVNFTElORV9NQVJLRVJfU0VMRUNUT1JcPg==</entry>
         <entry>place-under</entry>
+        <entry>marker</entry>
       </history-search>
       <history-cmd>
         <entry>65</entry>
