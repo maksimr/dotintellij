@@ -117,6 +117,14 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("search-context-items-getter")).withParent(xmlTag().withLocalName(string().equalTo("search-query-panel")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>span/@infinite-scroll</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("infinite-scroll")).withParent(xmlTag().withLocalName(string().equalTo("span")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>span/@infinite-scroll-disabled</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("infinite-scroll-disabled")).withParent(xmlTag().withLocalName(string().equalTo("span")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>span/@on-select</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-select")).withParent(xmlTag().withLocalName(string().equalTo("span")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
