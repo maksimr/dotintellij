@@ -908,11 +908,13 @@
         <mark key="^" line="58" column="92" />
         <mark key="." line="58" column="92" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-card.js" timestamp="1485781003271">
-        <mark key="'" line="424" column="0" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-card.js" timestamp="1485783249731">
+        <mark key="a" line="107" column="10" />
+        <mark key="'" line="353" column="14" />
+        <mark key="[" line="102" column="57" />
+        <mark key="]" line="102" column="76" />
+        <mark key="." line="102" column="76" />
+        <mark key="^" line="102" column="76" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/template/projects.html" timestamp="1481718981130">
         <mark key="'" line="16" column="0" />
@@ -3570,8 +3572,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="278" column="29" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-card.js" />
-      <jump line="280" column="27" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-card.js" />
       <jump line="349" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-card.js" />
       <jump line="257" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-card.js" />
       <jump line="339" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-card.js" />
@@ -3670,25 +3670,27 @@
       <jump line="74" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-card.js" />
       <jump line="247" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-card.js" />
       <jump line="410" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-card.js" />
+      <jump line="105" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-card.js" />
+      <jump line="342" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-card.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uICgpIHsKICAgICAgCiAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>toEqual</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>{ }</text>
+        <text>toEqual</text>
       </register>
       <register name="/" type="4">
-        <text>isFrozen</text>
+        <text>new Array</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uICgpIHsKICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aW1lKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -3697,34 +3699,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgbmV3IEEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICRzY29wZS5wcmVzZW50YXRpb25UeXBlID0gMTsKICAgICRzY29wZS5zZWxlY3Rpb24gPSBuZXcgSXNzdWVzU2VsZWN0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHBlcmZvcm1hbmNlLm5vdygpIC0gc3RhcnRUaW1lOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaXNzdWU6ICRzY29wZS5pc3N1ZSwKICAgICAgc2VsZWN0aW9uOiAkc2NvcGUuc2VsZWN0aW9uLAogICAgICBwcmVzZW50YXRpb25UeXBlOiAxCg==</text>
+        <text encoding="base64">ICAgICAgcHJvYygpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICRzY29wZS5wcmVzZW50YXRpb25UeXBlID0gMTsK</text>
+        <text encoding="base64">ICAgICAgdmFyIHN0YXJ0VGltZSA9IHBlcmZvcm1hbmNlLm5vdygpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJ1bkRpZ2VzdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgLypnbG9iYWwgcGVyZm9ybWFuY2UqLwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>isFrozen</last-search>
+      <last-search>new Array</last-search>
       <last-offset />
-      <last-pattern>isFrozen</last-pattern>
+      <last-pattern>new Array</last-pattern>
       <last-replace>$XXXcm</last-replace>
       <last-substitute>$cm</last-substitute>
       <last-dir>1</last-dir>
@@ -3732,7 +3734,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRJc3N1ZXNNb2NrXD4=</entry>
         <entry encoding="base64">XDxzZXRUcmltbWVkSXNzdWVzXD4=</entry>
         <entry encoding="base64">XDxkaWdlc3RcPg==</entry>
         <entry>substask</entry>
@@ -3752,6 +3753,7 @@
         <entry>compile</entry>
         <entry>frozen</entry>
         <entry>isFrozen</entry>
+        <entry>new Array</entry>
       </history-search>
       <history-cmd>
         <entry>%s/scriptingWorkflowsHierarchyCtrl/scriptsListCtrl/gc</entry>
