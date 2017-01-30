@@ -913,8 +913,8 @@
         <mark key="^" line="58" column="92" />
         <mark key="." line="58" column="92" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-card.js" timestamp="1485779413265">
-        <mark key="'" line="86" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-card.js" timestamp="1485780376410">
+        <mark key="'" line="419" column="0" />
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1317,6 +1317,9 @@
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/tern/lib/signal.js" timestamp="1482883351991">
         <mark key="'" line="46" column="28" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/lib/tern/defs/ecmascript5.json" timestamp="1485780302110">
+        <mark key="'" line="77" column="4" />
       </file>
       <file name="$USER_HOME$/www/js/tt/test/requestSpec.js" timestamp="1474236609606">
         <mark key="'" line="13" column="0" />
@@ -3573,12 +3576,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-card.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-card.js" />
-      <jump line="3" column="38" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-card.js" />
-      <jump line="21" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-card.js" />
-      <jump line="42" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-card.js" />
-      <jump line="55" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-card.js" />
       <jump line="56" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-card.js" />
       <jump line="62" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-card.js" />
       <jump line="187" column="29" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-card.js" />
@@ -3673,6 +3670,12 @@
       <jump line="86" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-card.js" />
       <jump line="40" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-card.js" />
       <jump line="340" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-card.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/lib/tern/defs/ecmascript5.json" />
+      <jump line="80" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/lib/tern/defs/ecmascript5.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/lib/tern/defs/ecmascript5.json" />
+      <jump line="77" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/lib/tern/defs/ecmascript5.json" />
+      <jump line="35" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-card.js" />
+      <jump line="419" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-card.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -3685,7 +3688,7 @@
         <text>elemnt</text>
       </register>
       <register name="/" type="4">
-        <text>compile</text>
+        <text>isFrozen</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgeXRBZ2lsZUNhcmRDdHJsLmNvbG9yQ29kaW5nID0gJHNjb3BlLmNvbG9yQ29kaW5nOwo=</text>
@@ -3725,9 +3728,9 @@
       </register>
     </registers>
     <search>
-      <last-search>compile</last-search>
+      <last-search>isFrozen</last-search>
       <last-offset />
-      <last-pattern>compile</last-pattern>
+      <last-pattern>isFrozen</last-pattern>
       <last-replace>$XXXcm</last-replace>
       <last-substitute>$cm</last-substitute>
       <last-dir>1</last-dir>
@@ -3735,8 +3738,6 @@
     </search>
     <history>
       <history-search>
-        <entry>set</entry>
-        <entry>ytMock</entry>
         <entry encoding="base64">XDxnZXRJc3N1ZXNNb2NrXD4=</entry>
         <entry encoding="base64">XDxzZXRUcmltbWVkSXNzdWVzXD4=</entry>
         <entry encoding="base64">XDxkaWdlc3RcPg==</entry>
@@ -3755,6 +3756,8 @@
         <entry>$component</entry>
         <entry encoding="base64">XDxzZXRDb2xvckNvZGluZ1w+</entry>
         <entry>compile</entry>
+        <entry>frozen</entry>
+        <entry>isFrozen</entry>
       </history-search>
       <history-cmd>
         <entry>%s/scriptingWorkflowsHierarchyCtrl/scriptsListCtrl/gc</entry>
