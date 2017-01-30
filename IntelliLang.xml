@@ -157,6 +157,10 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-filter")).withParent(xmlTag().withLocalName(string().equalTo("yt-agile-card-assignee")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-agile-card-assignee/@on-select</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-select")).withParent(xmlTag().withLocalName(string().equalTo("yt-agile-card-assignee")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>yt-agile-swimlane-column/@create-card</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("create-card")).withParent(xmlTag().withLocalName(string().equalTo("yt-agile-swimlane-column")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
