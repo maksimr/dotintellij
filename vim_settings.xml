@@ -1247,6 +1247,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="11" column="42" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/test/e2e/header.pageObject.js" timestamp="1485856784028">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/test/service/yt-shortcuts-meta-information.js" timestamp="1484575160963">
         <mark key="'" line="36" column="43" />
       </file>
@@ -2766,8 +2772,8 @@
         <mark key="^" line="2" column="40" />
         <mark key="." line="2" column="40" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/test/e2e/headerSpec.js" timestamp="1485855953221">
-        <mark key="'" line="2" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/test/e2e/headerSpec.js" timestamp="1485856746945">
+        <mark key="'" line="362" column="0" />
         <mark key="[" line="11" column="6" />
         <mark key="]" line="11" column="6" />
         <mark key="." line="11" column="6" />
@@ -3601,8 +3607,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="59" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-card-assignee.js" />
-      <jump line="26" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-card-assignee.js" />
       <jump line="50" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/filter/sort-users-with-current-at-first.js" />
       <jump line="29" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-card-assignee.js" />
       <jump line="39" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-card-assignee.js" />
@@ -3701,10 +3705,12 @@
       <jump line="37" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/test/e2e/headerSpec.js" />
       <jump line="364" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/test/e2e/headerSpec.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/test/e2e/headerSpec.js" />
+      <jump line="362" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/test/e2e/headerSpec.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/test/e2e/header.pageObject.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>issues#newissue=/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbWFrc2ltcnYgb24gMzEvMDEvMjAxNy4KICovCg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -3719,34 +3725,34 @@
         <text encoding="base64">ICByZXR1cm4gdGhpcy53YWl0UGFnZSgvaXNzdWVzI25ld2lzc3VlPS8pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZXR1cm4gYnJvd3Nlci5kcml2ZXIud2FpdChmdW5jdGlvbigpIHsKICAgIHJldHVybiBicm93c2VyLmdldEN1cnJlbnRVcmwoKS50aGVuKGZ1bmN0aW9uKHVybCkgewogICAgICByZXR1cm4gL2lzc3VlcyNuZXdpc3N1ZT0vLnRlc3QodXJsKTsKICAgIH0pOwogIH0sIGJyb3dzZXIucGFyYW1zLnRpbWVvdXQpOwo=</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbWFrc2ltcnYgb24gMzEvMDEvMjAxNy4KICovCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gYnJvd3Nlci5kcml2ZXIud2FpdChmdW5jdGlvbigpIHsKICAgIHJldHVybiBicm93c2VyLmdldEN1cnJlbnRVcmwoKS50aGVuKGZ1bmN0aW9uKHVybCkgewogICAgICByZXR1cm4gL2lzc3VlcyNuZXdpc3N1ZT0vLnRlc3QodXJsKTsKICAgIH0pOwogIH0sIGJyb3dzZXIucGFyYW1zLnRpbWVvdXQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHVybC5pbmRleE9mKHBhZ2UpID4gLTE7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIC9pc3N1ZXMjbmV3aXNzdWU9Ly50ZXN0KHVybCk7Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHVybC5pbmRleE9mKHBhZ2UpID4gLTE7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpZD0icmVwb3J0cyIK</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIC9pc3N1ZXMjbmV3aXNzdWU9Ly50ZXN0KHVybCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudHM6IGNyZWF0ZVN1aXRlKCdjb21wb25lbnRzJyksCg==</text>
+        <text encoding="base64">ICBpZD0icmVwb3J0cyIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBvbmVudHM6IGNyZWF0ZVN1aXRlKCdjb21wb25lbnRzJyksCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcnVuRGlnZXN0KCk7CgogICAgICAgICAgICBmdW5jdGlvbiBydW5EaWdlc3QoKSB7CiAgICAgICAgICAgICAgaWYgKCEkc2NvcGUuJCRwaGFzZSAmJiAhJHJvb3RTY29wZS4kJHBoYXNlKSB7CiAgICAgICAgICAgICAgICAkc2NvcGUuJGRpZ2VzdCgpOwogICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcnVuRGlnZXN0KCk7CgogICAgICAgICAgICBmdW5jdGlvbiBydW5EaWdlc3QoKSB7CiAgICAgICAgICAgICAgaWYgKCEkc2NvcGUuJCRwaGFzZSAmJiAhJHJvb3RTY29wZS4kJHBoYXNlKSB7CiAgICAgICAgICAgICAgICAkc2NvcGUuJGRpZ2VzdCgpOwogICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
