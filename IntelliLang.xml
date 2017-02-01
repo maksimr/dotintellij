@@ -197,6 +197,10 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-change-field-value")).withParent(xmlTag().withLocalName(string().equalTo("yt-issue-custom-field")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-saved-query-edit/@on-change</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-change")).withParent(xmlTag().withLocalName(string().equalTo("yt-saved-query-edit")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>yt-slider/@on-change</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-change")).withParent(xmlTag().withLocalName(string().equalTo("yt-slider")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
