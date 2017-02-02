@@ -220,5 +220,9 @@
       <display-name>yt-user-notificaiton-container/@watch-folder</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("watch-folder")).withParent(xmlTag().withLocalName(string().equalTo("yt-user-notificaiton-container")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-user-notification/@on-change</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-change")).withParent(xmlTag().withLocalName(string().equalTo("yt-user-notification")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
   </component>
 </application>
