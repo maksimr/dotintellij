@@ -316,7 +316,7 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/current-agile-board.js" timestamp="1485772658981">
         <mark key="'" line="25" column="42" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/issue-resource.js" timestamp="1486052746964">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/issue-resource.js" timestamp="1486054159814">
         <mark key="a" line="557" column="52" />
         <mark key="'" line="456" column="10" />
         <mark key="[" line="435" column="0" />
@@ -515,6 +515,11 @@
         <mark key="]" line="72" column="32" />
         <mark key="." line="99" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/ring-ui/node_modules/eslint-config-jetbrains/index.js" timestamp="1486054073876">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="21" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/test/directive/yt-legend-color-select.js" timestamp="1485947789194">
         <mark key="'" line="19" column="0" />
       </file>
@@ -642,10 +647,10 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/ring-hub/app/blocks/menu/menu.js" timestamp="1484307699544">
         <mark key="'" line="50" column="29" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/.eslintrc" timestamp="1486052710351">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/.eslintrc" timestamp="1486054089994">
         <mark key="'" line="87" column="9" />
         <mark key="[" line="117" column="0" />
-        <mark key="]" line="117" column="0" />
+        <mark key="]" line="117" column="22" />
         <mark key="." line="117" column="0" />
         <mark key="^" line="117" column="16" />
       </file>
@@ -928,7 +933,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/profile/template/tags/sidebar.html" />
       <jump line="86" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/profile/template/tags/sidebar.html" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/profile/template/tags/sidebar.html" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/watch-folder/service/notification-rule-types.js" />
@@ -1028,10 +1032,11 @@
       <jump line="456" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/issue-resource.js" />
       <jump line="80" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/auth/auth.js" />
       <jump line="10" column="12" filename="$USER_HOME$/www/jetbrains/ring-ui/components/auth/auth.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/node_modules/eslint-config-jetbrains/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdmFyIElTU1VFX0ZJRUxEUyA9IHt9Owo=</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -1040,57 +1045,56 @@
         <text encoding="base64">IHsiaG9pc3QiOiAiYWxsIn1dLA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxJU1NVRV9GSUVMRFNcPg==</text>
+        <text>no-red</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJuby1zaGFkb3ctcmVzdHJpY3RlZC1uYW1lcyI6IDIsCg==</text>
+        <text encoding="base64">ICAgICJuby1yZWRlY2xhcmUiOiAyLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdmFyIElTU1VFX0ZJRUxEUyA9IHt9Owo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">bGV0IGZvbyA9ICdmb28nOwoKZm9vICs9ICd6b28nOwoKbGV0IGZvbyA9ICdiYXInOwoKZ2xvYmFsLmZvbyA9IGZvbzsK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">bGV0IGZvbyA9ICdmb28nOwoKZm9vICs9ICd6b28nOwoKbGV0IGZvbyA9ICdiYXInOwoKZ2xvYmFsLmZvbyA9IGZvbzsK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdmFyIElTU1VFX0ZJRUxEUyA9IHt9Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJuby1zaGFkb3ciOiAiZXJyb3IiLAo=</text>
+        <text encoding="base64">ICAgICAgdmFyIElTU1VFX0ZJRUxEUyA9IHt9Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJuby1zaGFkb3ciOiBbImVycm9yIiwgeyJob2lzdCI6ICJhbGwifV0sCg==</text>
+        <text encoding="base64">ICAgICJuby1zaGFkb3ciOiAiZXJyb3IiLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhciBpY29uVXJsID0gJ2Zvbyc7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICJuby1zaGFkb3ciOiBbImVycm9yIiwgeyJob2lzdCI6ICJhbGwifV0sCg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIHZhciBpY29uVXJsID0gJ2Zvbyc7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJ5b2RhIjogMiwK</text>
+        <text encoding="base64">ICAgICJuby1zaGFkb3ciOiBbImVycm9yIiwgeyJob2lzdCI6ICJhbGwifV0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxJU1NVRV9GSUVMRFNcPg==</last-search>
+      <last-search>no-red</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxJU1NVRV9GSUVMRFNcPg==</last-pattern>
+      <last-pattern>no-red</last-pattern>
       <last-replace>$XXXcm</last-replace>
       <last-substitute>$cm</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>createNew</entry>
         <entry>new</entry>
         <entry>noti</entry>
         <entry encoding="base64">XDxnZXRVbnRhZ09uUmVzb2x2ZUZsYWdNb2RlbFw+</entry>
@@ -1110,6 +1114,7 @@
         <entry>shadow</entry>
         <entry>var</entry>
         <entry encoding="base64">XDxJU1NVRV9GSUVMRFNcPg==</entry>
+        <entry>no-red</entry>
       </history-search>
       <history-cmd>
         <entry>%s/scriptingWorkflowsHierarchyCtrl/scriptsListCtrl/gc</entry>
