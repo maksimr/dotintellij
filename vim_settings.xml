@@ -580,6 +580,11 @@
         <mark key="]" line="34" column="15" />
         <mark key="." line="93" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/auth/auth.js" timestamp="1486054016316">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/global/global.scss" timestamp="1484654069878">
         <mark key="'" line="82" column="9" />
       </file>
@@ -923,8 +928,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/profile/template/tags/sidebar.html" />
-      <jump line="4" column="27" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/profile/template/tags/sidebar.html" />
       <jump line="37" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/profile/template/tags/sidebar.html" />
       <jump line="86" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/profile/template/tags/sidebar.html" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/profile/template/tags/sidebar.html" />
@@ -1023,10 +1026,12 @@
       <jump line="558" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/issue-resource.js" />
       <jump line="463" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/issue-resource.js" />
       <jump line="456" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/issue-resource.js" />
+      <jump line="80" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/auth/auth.js" />
+      <jump line="10" column="12" filename="$USER_HOME$/www/jetbrains/ring-ui/components/auth/auth.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdmFyIElTU1VFX0ZJRUxEUyA9IHt9Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -1041,34 +1046,34 @@
         <text encoding="base64">ICAgICJuby1zaGFkb3ctcmVzdHJpY3RlZC1uYW1lcyI6IDIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdmFyIElTU1VFX0ZJRUxEUyA9IHt9Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJuby1zaGFkb3ciOiAiZXJyb3IiLAo=</text>
+        <text encoding="base64">bGV0IGZvbyA9ICdmb28nOwoKZm9vICs9ICd6b28nOwoKbGV0IGZvbyA9ICdiYXInOwoKZ2xvYmFsLmZvbyA9IGZvbzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJuby1zaGFkb3ciOiBbImVycm9yIiwgeyJob2lzdCI6ICJhbGwifV0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhciBpY29uVXJsID0gJ2Zvbyc7Cg==</text>
+        <text encoding="base64">ICAgICAgdmFyIElTU1VFX0ZJRUxEUyA9IHt9Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJuby1zaGFkb3ciOiBbImVycm9yIiwgeyJob2lzdCI6ICJhbGwifV0sCg==</text>
+        <text encoding="base64">ICAgICJuby1zaGFkb3ciOiAiZXJyb3IiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJ5b2RhIjogMiwK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICJuby1zaGFkb3ciOiBbImVycm9yIiwgeyJob2lzdCI6ICJhbGwifV0sCg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgIHZhciBpY29uVXJsID0gJ2Zvbyc7Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICJuby1zaGFkb3ciOiBbImVycm9yIiwgeyJob2lzdCI6ICJhbGwifV0sCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhciBpY29uVXJsID0gJ2Zvbyc7Cg==</text>
+        <text encoding="base64">ICAgICJ5b2RhIjogMiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
