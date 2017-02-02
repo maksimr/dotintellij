@@ -470,6 +470,9 @@
         <mark key="." line="7" column="74" />
         <mark key="^" line="7" column="74" />
       </file>
+      <file name="$USER_HOME$/www/js/karma-jasmine/lib/adapter.js" timestamp="1486058429776">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-toolbar.html" timestamp="1485181380602">
         <mark key="'" line="103" column="22" />
         <mark key="[" line="0" column="0" />
@@ -499,6 +502,9 @@
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/alert-service/alert-service.js" timestamp="1484221983168">
         <mark key="'" line="22" column="20" />
+      </file>
+      <file name="$USER_HOME$/www/js/karma-jasmine/src/adapter.js" timestamp="1486058404305">
+        <mark key="'" line="382" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/hub/client-side/dashboard/blocks/app/app__service.js" timestamp="1484827518928">
         <mark key="'" line="67" column="15" />
@@ -933,9 +939,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/profile/template/tags/sidebar.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/profile/template/tags/sidebar.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/watch-folder/service/notification-rule-types.js" />
       <jump line="85" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/watch-folder/service/notification-rule-types.js" />
       <jump line="47" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/watch-folder/service/notification-rule-types.js" />
       <jump line="80" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/watch-folder/service/notification-rule-types.js" />
@@ -1033,6 +1036,9 @@
       <jump line="80" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/auth/auth.js" />
       <jump line="10" column="12" filename="$USER_HOME$/www/jetbrains/ring-ui/components/auth/auth.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/node_modules/eslint-config-jetbrains/index.js" />
+      <jump line="22" column="2" filename="$USER_HOME$/www/js/karma-jasmine/src/adapter.js" />
+      <jump line="382" column="0" filename="$USER_HOME$/www/js/karma-jasmine/src/adapter.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/js/karma-jasmine/lib/adapter.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1045,7 +1051,7 @@
         <text encoding="base64">IHsiaG9pc3QiOiAiYWxsIn1dLA==</text>
       </register>
       <register name="/" type="4">
-        <text>no-red</text>
+        <text>reporter</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICJuby1yZWRlY2xhcmUiOiAyLAo=</text>
@@ -1085,9 +1091,9 @@
       </register>
     </registers>
     <search>
-      <last-search>no-red</last-search>
+      <last-search>reporter</last-search>
       <last-offset />
-      <last-pattern>no-red</last-pattern>
+      <last-pattern>reporter</last-pattern>
       <last-replace>$XXXcm</last-replace>
       <last-substitute>$cm</last-substitute>
       <last-dir>1</last-dir>
@@ -1095,7 +1101,6 @@
     </search>
     <history>
       <history-search>
-        <entry>new</entry>
         <entry>noti</entry>
         <entry encoding="base64">XDxnZXRVbnRhZ09uUmVzb2x2ZUZsYWdNb2RlbFw+</entry>
         <entry>model</entry>
@@ -1115,6 +1120,7 @@
         <entry>var</entry>
         <entry encoding="base64">XDxJU1NVRV9GSUVMRFNcPg==</entry>
         <entry>no-red</entry>
+        <entry>reporter</entry>
       </history-search>
       <history-cmd>
         <entry>%s/scriptingWorkflowsHierarchyCtrl/scriptsListCtrl/gc</entry>
