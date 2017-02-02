@@ -234,6 +234,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth-ng/auth-ng.js" timestamp="1484753727302">
         <mark key="'" line="146" column="0" />
       </file>
+      <file name="$USER_HOME$/www/js/performance/exp/long-parse/index.html" timestamp="1486075666846">
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="6" column="42" />
+        <mark key="." line="6" column="42" />
+        <mark key="^" line="6" column="42" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-scrumboard/src/main/kotlin/jetbrains/youtrack/agile/sprint/Sprint.kt" timestamp="1482751377439">
         <mark key="'" line="0" column="0" />
       </file>
@@ -470,8 +476,8 @@
         <mark key="." line="7" column="74" />
         <mark key="^" line="7" column="74" />
       </file>
-      <file name="$USER_HOME$/www/js/karma-jasmine/lib/adapter.js" timestamp="1486058429776">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/www/js/karma-jasmine/lib/adapter.js" timestamp="1486074890137">
+        <mark key="'" line="379" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-toolbar.html" timestamp="1485181380602">
         <mark key="'" line="103" column="22" />
@@ -785,6 +791,14 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/tern/lib/infer.js" timestamp="1482957972270">
         <mark key="'" line="209" column="41" />
       </file>
+      <file name="$USER_HOME$/www/js/performance/exp/long-parse/index.js" timestamp="1486075576544">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="5" column="1" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/js/performance/exp/jank-scroll/index.js" timestamp="1486074908314">
+        <mark key="'" line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/svg-sprite-loader/lib/svg-document.js" timestamp="1484662423210">
         <mark key="'" line="3" column="0" />
       </file>
@@ -939,13 +953,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/watch-folder/service/notification-rule-types.js" />
-      <jump line="47" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/watch-folder/service/notification-rule-types.js" />
-      <jump line="80" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/watch-folder/service/notification-rule-types.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/watch-folder/service/notification-rule-types.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/watch-folder/service/notification-rule-types.js" />
-      <jump line="87" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/watch-folder/service/notification-rule-types.js" />
-      <jump line="2" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/watch-folder/service/saved-query-edit.js" />
       <jump line="35" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/watch-folder/service/saved-query-edit.js" />
       <jump line="11" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/watch-folder/service/saved-query-edit.js" />
       <jump line="8" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/watch-folder/service/saved-query-edit.js" />
@@ -1039,52 +1046,59 @@
       <jump line="22" column="2" filename="$USER_HOME$/www/js/karma-jasmine/src/adapter.js" />
       <jump line="382" column="0" filename="$USER_HOME$/www/js/karma-jasmine/src/adapter.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/js/karma-jasmine/lib/adapter.js" />
+      <jump line="233" column="4" filename="$USER_HOME$/www/js/karma-jasmine/lib/adapter.js" />
+      <jump line="379" column="0" filename="$USER_HOME$/www/js/karma-jasmine/lib/adapter.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/www/js/performance/exp/jank-scroll/index.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/www/js/performance/exp/jank-scroll/index.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/www/js/performance/exp/jank-scroll/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/js/performance/exp/long-parse/index.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/www/js/performance/exp/long-parse/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgdmFyIElTU1VFX0ZJRUxEUyA9IHt9Owo=</text>
+        <text encoding="base64">ICAgICAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo=</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHsiaG9pc3QiOiAiYWxsIn1dLA==</text>
+        <text>async=&quot;async&quot;</text>
       </register>
       <register name="/" type="4">
         <text>reporter</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJuby1yZWRlY2xhcmUiOiAyLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHN0YXJ0RGF0ZSA9IERhdGUubm93KCk7CiAgICAgICAgICAgIHZhciBjdXJyZW50RGF0ZSA9IERhdGUubm93KCk7CgogICAgICAgICAgICB3aGlsZSAoKGN1cnJlbnREYXRlIC0gc3RhcnREYXRlKSA8IDUwMDApIHsKICAgICAgICAgICAgICAgIGN1cnJlbnREYXRlID0gRGF0ZS5ub3coKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgdmFyIElTU1VFX0ZJRUxEUyA9IHt9Owo=</text>
+        <text encoding="base64">ICAgICAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHN0YXJ0RGF0ZSA9IERhdGUubm93KCk7CiAgICAgICAgICAgIHZhciBjdXJyZW50RGF0ZSA9IERhdGUubm93KCk7CgogICAgICAgICAgICB3aGlsZSAoKGN1cnJlbnREYXRlIC0gc3RhcnREYXRlKSA8IDUwMDApIHsKICAgICAgICAgICAgICAgIGN1cnJlbnREYXRlID0gRGF0ZS5ub3coKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bGV0IGZvbyA9ICdmb28nOwoKZm9vICs9ICd6b28nOwoKbGV0IGZvbyA9ICdiYXInOwoKZ2xvYmFsLmZvbyA9IGZvbzsK</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbWFrc2ltcnYgb24gMDMvMDIvMjAxNy4KICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGN1cnJlbnREYXRlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdmFyIElTU1VFX0ZJRUxEUyA9IHt9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coKChjdXJyZW50RGF0ZSAtIHN0YXJ0RGF0ZSkgPiAxMDAwMCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJuby1zaGFkb3ciOiAiZXJyb3IiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJuby1zaGFkb3ciOiBbImVycm9yIiwgeyJob2lzdCI6ICJhbGwifV0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHZhciBpY29uVXJsID0gJ2Zvbyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJuby1zaGFkb3ciOiBbImVycm9yIiwgeyJob2lzdCI6ICJhbGwifV0sCg==</text>
+        <text encoding="base64">ICAgICAgdmFyIElTU1VFX0ZJRUxEUyA9IHt9Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
