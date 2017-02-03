@@ -645,6 +645,13 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/codemirror/addon/lint/javascript-lint.js" timestamp="1484925781711">
         <mark key="'" line="92" column="36" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/yt-workflow-rule-icon.js" timestamp="1486110632346">
+        <mark key="'" line="32" column="2" />
+        <mark key="[" line="29" column="26" />
+        <mark key="]" line="29" column="37" />
+        <mark key="." line="29" column="37" />
+        <mark key="^" line="29" column="37" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/tern/lib/tern.js" timestamp="1485872388753">
         <mark key="'" line="927" column="79" />
       </file>
@@ -955,9 +962,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="698" column="43" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/backlog.js" />
-      <jump line="586" column="45" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/backlog.js" />
-      <jump line="551" column="55" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/backlog.js" />
       <jump line="467" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/backlog.js" />
       <jump line="430" column="53" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/backlog.js" />
       <jump line="401" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/backlog.js" />
@@ -1055,16 +1059,19 @@
       <jump line="8" column="10" filename="$USER_HOME$/www/js/performance/exp/long-parse/index.html" />
       <jump line="3" column="0" filename="$USER_HOME$/www/js/performance/exp/long-parse/index.html" />
       <jump line="9" column="0" filename="$USER_HOME$/www/js/performance/exp/long-parse/index.html" />
+      <jump line="28" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/yt-workflow-rule-icon.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/yt-workflow-rule-icon.js" />
+      <jump line="32" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/yt-workflow-rule-icon.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8dGl0bGU+VGl0bGU8L3RpdGxlPgo=</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>async=&quot;async&quot;</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>reporter</text>
