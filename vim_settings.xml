@@ -667,10 +667,10 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/eslint/lib/eslint.js" timestamp="1484924904741">
         <mark key="'" line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/www/js/116358-kekstagram-mullen/js/form.js" timestamp="1486209705210">
+      <file name="$USER_HOME$/www/js/116358-kekstagram-mullen/js/form.js" timestamp="1486214651425">
         <mark key="'" line="81" column="9" />
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="111" column="71" />
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="105" column="52" />
         <mark key="^" line="85" column="32" />
         <mark key="." line="85" column="32" />
       </file>
@@ -1043,7 +1043,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gaGFuZGxlSW1hZ2VGaWx0ZXJDb250cm9sRXZlbnRzKGV2dCkgewogIHZhciBlbGVtZW50ID0gZXZ0LnRhcmdldC5wYXJlbnROb2RlOwoKICBpZiAoKGlzQ2xpY2tlZChldnQpIHx8IGlzRW50ZXJQcmVzc2VkKGV2dCkpICYmIGlzRmlsdGVyTm9kZShlbGVtZW50KSkgewogICAgYXBwbHlGaWx0ZXIoZ2V0RmlsdGVyVmFsdWVGb3IoZWxlbWVudCkpOwogIH0KCiAgZnVuY3Rpb24gaXNGaWx0ZXJOb2RlKGVsZW1lbnQpIHsKICAgIHJldHVybiBlbGVtZW50LmNsYXNzTGlzdC5jb250YWlucygndXBsb2FkLWZpbHRlci1sYWJlbCcpOwogIH0KCiAgZnVuY3Rpb24gaXNDbGlja2VkKGV2dCkgewogICAgcmV0dXJuIGV2dC50eXBlID09PSAnY2xpY2snOwogIH0KCiAgZnVuY3Rpb24gaXNFbnRlclByZXNzZWQoZXZ0KSB7CiAgICByZXR1cm4gZXZ0LmtleUNvZGUgJiYgZXZ0LmtleUNvZGUgPT09IEVOVEVSX0tFWV9DT0RFOwogIH0KCiAgZnVuY3Rpb24gZ2V0RmlsdGVyVmFsdWVGb3IoZWxlbWVudCkgewogICAgcmV0dXJuIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKGVsZW1lbnQuaHRtbEZvcikudmFsdWU7CiAgfQoKICBmdW5jdGlvbiBhcHBseUZpbHRlcihmaWx0ZXIpIHsKICAgIGltYWdlUHJldmlldy5jbGFzc05hbWUgPSAnZmlsdGVyLWltYWdlLXByZXZpZXcnOwogICAgaW1hZ2VQcmV2aWV3LmNsYXNzTGlzdC5hZGQoJ2ZpbHRlci0nICsgZmlsdGVyKTsKICB9Cn0KCmltYWdlRmlsdGVyLmFkZEV2ZW50TGlzdGVuZXIoJ2NsaWNrJywgaGFuZGxlSW1hZ2VGaWx0ZXJDb250cm9sRXZlbnRzKTsKaW1hZ2VGaWx0ZXIuYWRkRXZlbnRMaXN0ZW5lcigna2V5ZG93bicsIGhhbmRsZUltYWdlRmlsdGVyQ29udHJvbEV2ZW50cyk7Cg==</text>
+        <text encoding="base64">ICBmdW5jdGlvbiBhcHBseUZpbHRlcihmaWx0ZXIpIHsKICAgIGltYWdlUHJldmlldy5jbGFzc05hbWUgPSAnZmlsdGVyLWltYWdlLXByZXZpZXcnOwo=</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -1055,7 +1055,7 @@
         <text encoding="base64">XDxoYW5kbGVJbWFnZUZpbHRlckNvbnRyb2xFdmVudHNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gaGFuZGxlSW1hZ2VGaWx0ZXJDb250cm9sRXZlbnRzKGV2dCkgewogIHZhciBlbGVtZW50ID0gZXZ0LnRhcmdldC5wYXJlbnROb2RlOwoKICBpZiAoKGlzQ2xpY2tlZChldnQpIHx8IGlzRW50ZXJQcmVzc2VkKGV2dCkpICYmIGlzRmlsdGVyTm9kZShlbGVtZW50KSkgewogICAgYXBwbHlGaWx0ZXIoZ2V0RmlsdGVyVmFsdWVGb3IoZWxlbWVudCkpOwogIH0KCiAgZnVuY3Rpb24gaXNGaWx0ZXJOb2RlKGVsZW1lbnQpIHsKICAgIHJldHVybiBlbGVtZW50LmNsYXNzTGlzdC5jb250YWlucygndXBsb2FkLWZpbHRlci1sYWJlbCcpOwogIH0KCiAgZnVuY3Rpb24gaXNDbGlja2VkKGV2dCkgewogICAgcmV0dXJuIGV2dC50eXBlID09PSAnY2xpY2snOwogIH0KCiAgZnVuY3Rpb24gaXNFbnRlclByZXNzZWQoZXZ0KSB7CiAgICByZXR1cm4gZXZ0LmtleUNvZGUgJiYgZXZ0LmtleUNvZGUgPT09IEVOVEVSX0tFWV9DT0RFOwogIH0KCiAgZnVuY3Rpb24gZ2V0RmlsdGVyVmFsdWVGb3IoZWxlbWVudCkgewogICAgcmV0dXJuIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKGVsZW1lbnQuaHRtbEZvcikudmFsdWU7CiAgfQoKICBmdW5jdGlvbiBhcHBseUZpbHRlcihmaWx0ZXIpIHsKICAgIGltYWdlUHJldmlldy5jbGFzc05hbWUgPSAnZmlsdGVyLWltYWdlLXByZXZpZXcnOwogICAgaW1hZ2VQcmV2aWV3LmNsYXNzTGlzdC5hZGQoJ2ZpbHRlci0nICsgZmlsdGVyKTsKICB9Cn0KCmltYWdlRmlsdGVyLmFkZEV2ZW50TGlzdGVuZXIoJ2NsaWNrJywgaGFuZGxlSW1hZ2VGaWx0ZXJDb250cm9sRXZlbnRzKTsKaW1hZ2VGaWx0ZXIuYWRkRXZlbnRMaXN0ZW5lcigna2V5ZG93bicsIGhhbmRsZUltYWdlRmlsdGVyQ29udHJvbEV2ZW50cyk7Cg==</text>
+        <text encoding="base64">ICBmdW5jdGlvbiBhcHBseUZpbHRlcihmaWx0ZXIpIHsKICAgIGltYWdlUHJldmlldy5jbGFzc05hbWUgPSAnZmlsdGVyLWltYWdlLXByZXZpZXcnOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
