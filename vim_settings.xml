@@ -667,11 +667,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/eslint/lib/eslint.js" timestamp="1484924904741">
         <mark key="'" line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/www/js/116358-kekstagram-mullen/js/form.js" timestamp="1486208314129">
-        <mark key="[" line="82" column="56" />
-        <mark key="]" line="82" column="75" />
-        <mark key="^" line="82" column="55" />
-        <mark key="." line="82" column="56" />
+      <file name="$USER_HOME$/www/js/116358-kekstagram-mullen/js/form.js" timestamp="1486209705210">
+        <mark key="'" line="81" column="9" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="111" column="71" />
+        <mark key="^" line="85" column="32" />
+        <mark key="." line="85" column="32" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/profile/template/yt-user-notification.html" timestamp="1485953028967">
         <mark key="'" line="8" column="0" />
@@ -939,12 +940,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21128" column="67" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
-      <jump line="21943" column="33" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
-      <jump line="21947" column="34" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
-      <jump line="21956" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
-      <jump line="21959" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
-      <jump line="25104" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
       <jump line="25107" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
       <jump line="25112" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
       <jump line="25428" column="79" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
@@ -1039,22 +1034,28 @@
       <jump line="129" column="15" filename="$USER_HOME$/www/js/116358-kekstagram-mullen/css/main.css" />
       <jump line="5" column="37" filename="$USER_HOME$/www/js/116358-kekstagram-mullen/index.html" />
       <jump line="14" column="0" filename="$USER_HOME$/www/js/116358-kekstagram-mullen/index.html" />
+      <jump line="83" column="0" filename="$USER_HOME$/www/js/116358-kekstagram-mullen/js/form.js" />
+      <jump line="12" column="4" filename="$USER_HOME$/www/js/116358-kekstagram-mullen/js/form.js" />
+      <jump line="31" column="2" filename="$USER_HOME$/www/js/116358-kekstagram-mullen/js/form.js" />
+      <jump line="111" column="40" filename="$USER_HOME$/www/js/116358-kekstagram-mullen/js/form.js" />
+      <jump line="110" column="38" filename="$USER_HOME$/www/js/116358-kekstagram-mullen/js/form.js" />
+      <jump line="81" column="9" filename="$USER_HOME$/www/js/116358-kekstagram-mullen/js/form.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>upload-filter-label</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnVuY3Rpb24gaGFuZGxlSW1hZ2VGaWx0ZXJDb250cm9sRXZlbnRzKGV2dCkgewogIHZhciBlbGVtZW50ID0gZXZ0LnRhcmdldC5wYXJlbnROb2RlOwoKICBpZiAoKGlzQ2xpY2tlZChldnQpIHx8IGlzRW50ZXJQcmVzc2VkKGV2dCkpICYmIGlzRmlsdGVyTm9kZShlbGVtZW50KSkgewogICAgYXBwbHlGaWx0ZXIoZ2V0RmlsdGVyVmFsdWVGb3IoZWxlbWVudCkpOwogIH0KCiAgZnVuY3Rpb24gaXNGaWx0ZXJOb2RlKGVsZW1lbnQpIHsKICAgIHJldHVybiBlbGVtZW50LmNsYXNzTGlzdC5jb250YWlucygndXBsb2FkLWZpbHRlci1sYWJlbCcpOwogIH0KCiAgZnVuY3Rpb24gaXNDbGlja2VkKGV2dCkgewogICAgcmV0dXJuIGV2dC50eXBlID09PSAnY2xpY2snOwogIH0KCiAgZnVuY3Rpb24gaXNFbnRlclByZXNzZWQoZXZ0KSB7CiAgICByZXR1cm4gZXZ0LmtleUNvZGUgJiYgZXZ0LmtleUNvZGUgPT09IEVOVEVSX0tFWV9DT0RFOwogIH0KCiAgZnVuY3Rpb24gZ2V0RmlsdGVyVmFsdWVGb3IoZWxlbWVudCkgewogICAgcmV0dXJuIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKGVsZW1lbnQuaHRtbEZvcikudmFsdWU7CiAgfQoKICBmdW5jdGlvbiBhcHBseUZpbHRlcihmaWx0ZXIpIHsKICAgIGltYWdlUHJldmlldy5jbGFzc05hbWUgPSAnZmlsdGVyLWltYWdlLXByZXZpZXcnOwogICAgaW1hZ2VQcmV2aWV3LmNsYXNzTGlzdC5hZGQoJ2ZpbHRlci0nICsgZmlsdGVyKTsKICB9Cn0KCmltYWdlRmlsdGVyLmFkZEV2ZW50TGlzdGVuZXIoJ2NsaWNrJywgaGFuZGxlSW1hZ2VGaWx0ZXJDb250cm9sRXZlbnRzKTsKaW1hZ2VGaWx0ZXIuYWRkRXZlbnRMaXN0ZW5lcigna2V5ZG93bicsIGhhbmRsZUltYWdlRmlsdGVyQ29udHJvbEV2ZW50cyk7Cg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHRhYmluZGV4PSIwIg==</text>
+        <text encoding="base64">IC8vIGRpdi51cGxvYWQtZmlsdGVyLXByZXZpZXcgLSDQtdGB0LvQuCDQvdCw0LbQuNC80LDQtdC8INGE0LjQu9GM0YLRgCDQv9C+INC60LvQsNCy0LjRiNC1</text>
       </register>
       <register name="/" type="4">
-        <text>label</text>
+        <text encoding="base64">XDxoYW5kbGVJbWFnZUZpbHRlckNvbnRyb2xFdmVudHNcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>upload-filter-label</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZnVuY3Rpb24gaGFuZGxlSW1hZ2VGaWx0ZXJDb250cm9sRXZlbnRzKGV2dCkgewogIHZhciBlbGVtZW50ID0gZXZ0LnRhcmdldC5wYXJlbnROb2RlOwoKICBpZiAoKGlzQ2xpY2tlZChldnQpIHx8IGlzRW50ZXJQcmVzc2VkKGV2dCkpICYmIGlzRmlsdGVyTm9kZShlbGVtZW50KSkgewogICAgYXBwbHlGaWx0ZXIoZ2V0RmlsdGVyVmFsdWVGb3IoZWxlbWVudCkpOwogIH0KCiAgZnVuY3Rpb24gaXNGaWx0ZXJOb2RlKGVsZW1lbnQpIHsKICAgIHJldHVybiBlbGVtZW50LmNsYXNzTGlzdC5jb250YWlucygndXBsb2FkLWZpbHRlci1sYWJlbCcpOwogIH0KCiAgZnVuY3Rpb24gaXNDbGlja2VkKGV2dCkgewogICAgcmV0dXJuIGV2dC50eXBlID09PSAnY2xpY2snOwogIH0KCiAgZnVuY3Rpb24gaXNFbnRlclByZXNzZWQoZXZ0KSB7CiAgICByZXR1cm4gZXZ0LmtleUNvZGUgJiYgZXZ0LmtleUNvZGUgPT09IEVOVEVSX0tFWV9DT0RFOwogIH0KCiAgZnVuY3Rpb24gZ2V0RmlsdGVyVmFsdWVGb3IoZWxlbWVudCkgewogICAgcmV0dXJuIGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKGVsZW1lbnQuaHRtbEZvcikudmFsdWU7CiAgfQoKICBmdW5jdGlvbiBhcHBseUZpbHRlcihmaWx0ZXIpIHsKICAgIGltYWdlUHJldmlldy5jbGFzc05hbWUgPSAnZmlsdGVyLWltYWdlLXByZXZpZXcnOwogICAgaW1hZ2VQcmV2aWV3LmNsYXNzTGlzdC5hZGQoJ2ZpbHRlci0nICsgZmlsdGVyKTsKICB9Cn0KCmltYWdlRmlsdGVyLmFkZEV2ZW50TGlzdGVuZXIoJ2NsaWNrJywgaGFuZGxlSW1hZ2VGaWx0ZXJDb250cm9sRXZlbnRzKTsKaW1hZ2VGaWx0ZXIuYWRkRXZlbnRMaXN0ZW5lcigna2V5ZG93bicsIGhhbmRsZUltYWdlRmlsdGVyQ29udHJvbEV2ZW50cyk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1063,48 +1064,44 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBpZiAoZXZlbnQudGFyZ2V0LmNsYXNzTGlzdC5jb250YWlucygndXBsb2FkLWZpbHRlci1sYWJlbCcpKSB7CiAgICBjb25zb2xlLmxvZyhldmVudC50YXJnZXQuZ2V0QXR0cmlidXRlKCdmb3InKSk7CiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5wdXQgdHlwZT0icmFkaW8iIG5hbWU9InVwbG9hZC1maWx0ZXIiIGlkPSJ1cGxvYWQtZmlsdGVyLXBob2JvcyIgdmFsdWU9InBob2JvcyIgYXJpYS1jaGVja2VkPSJmYWxzZSI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5wdXQgdHlwZT0icmFkaW8iIG5hbWU9InVwbG9hZC1maWx0ZXIiIGlkPSJ1cGxvYWQtZmlsdGVyLWhlYXQiIHZhbHVlPSJoZWF0IiBhcmlhLWNoZWNrZWQ9ImZhbHNlIj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5wdXQgdHlwZT0icmFkaW8iIG5hbWU9InVwbG9hZC1maWx0ZXIiIGlkPSJ1cGxvYWQtZmlsdGVyLW1hcnZpbiIgdmFsdWU9Im1hcnZpbiIgYXJpYS1jaGVja2VkPSJmYWxzZSI+Cg==</text>
+        <text encoding="base64">ICAgIHZhciBmaWx0ZXIgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZChlbGVtZW50Lmh0bWxGb3IpLnZhbHVlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5wdXQgdHlwZT0icmFkaW8iIG5hbWU9InVwbG9hZC1maWx0ZXIiIGlkPSJ1cGxvYWQtZmlsdGVyLW5vbmUiIHZhbHVlPSJub25lIiBjaGVja2VkIGFyaWEtY2hlY2tlZD0idHJ1ZSI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5wdXQgdHlwZT0icmFkaW8iIG5hbWU9InVwbG9hZC1maWx0ZXIiIGlkPSJ1cGxvYWQtZmlsdGVyLWNocm9tZSIgdmFsdWU9ImNocm9tZSIgYXJpYS1jaGVja2VkPSJmYWxzZSI+Cg==</text>
+        <text encoding="base64">ICBmdW5jdGlvbiBhcHBseUZpbHRlcihmaWx0ZXIpIHsKICAgIGltYWdlUHJldmlldy5jbGFzc05hbWUgPSAnZmlsdGVyLWltYWdlLXByZXZpZXcnOwogICAgaW1hZ2VQcmV2aWV3LmNsYXNzTGlzdC5hZGQoJ2ZpbHRlci0nICsgZmlsdGVyKTsKICB9Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8aW5wdXQgdHlwZT0icmFkaW8iIG5hbWU9InVwbG9hZC1maWx0ZXIiIGlkPSJ1cGxvYWQtZmlsdGVyLXNlcGlhIiB2YWx1ZT0ic2VwaWEiIGFyaWEtY2hlY2tlZD0iZmFsc2UiPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhldmVudC50YXJnZXQuY2xhc3NMaXN0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>label</last-search>
+      <last-search encoding="base64">XDxoYW5kbGVJbWFnZUZpbHRlckNvbnRyb2xFdmVudHNcPg==</last-search>
       <last-offset />
-      <last-pattern>label</last-pattern>
+      <last-pattern encoding="base64">XDxoYW5kbGVJbWFnZUZpbHRlckNvbnRyb2xFdmVudHNcPg==</last-pattern>
       <last-replace>$XXXcm</last-replace>
       <last-substitute>$cm</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>reporter</entry>
-        <entry encoding="base64">XDxuZ0RibGNsaWNrXD4=</entry>
-        <entry>ngDbclick</entry>
-        <entry>click</entry>
         <entry>dbclick</entry>
         <entry>ng-dbclick</entry>
         <entry>Dbclick</entry>
@@ -1121,6 +1118,10 @@
         <entry encoding="base64">XDx1cGxvYWRcPg==</entry>
         <entry>preview</entry>
         <entry>label</entry>
+        <entry>enter</entry>
+        <entry encoding="base64">XDxFTlRFUl9LRVlfQ09ERVw+</entry>
+        <entry>isEnter</entry>
+        <entry encoding="base64">XDxoYW5kbGVJbWFnZUZpbHRlckNvbnRyb2xFdmVudHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/scriptingWorkflowsHierarchyCtrl/scriptsListCtrl/gc</entry>
