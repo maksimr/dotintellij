@@ -34,7 +34,7 @@
       <file name="$APPLICATION_PLUGINS_DIR$/NodeJS/lib/NodeJS.jar!/com/jetbrains/nodejs/packageJson/packageJsonSchema.json" timestamp="1486321177971">
         <mark key="'" line="132" column="53" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1486388124238">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1486389065128">
         <mark key="'" line="15" column="6" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/codemirror/addon/search/matchesonscrollbar.js" timestamp="1484867346664">
@@ -472,6 +472,9 @@
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/directive/yt-header.js" timestamp="1485258175710">
         <mark key="'" line="47" column="56" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/yt-agile-card.html" timestamp="1486389078711">
+        <mark key="'" line="6" column="13" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/watch-folder/service/notification-rule-types.js" timestamp="1486039765818">
         <mark key="'" line="87" column="2" />
@@ -986,7 +989,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="2" filename="$USER_HOME$/www/js/116358-kekstagram-mullen/js/form.js" />
       <jump line="87" column="0" filename="$USER_HOME$/tmp/cut-my-svg/renderer.js" />
       <jump line="2" column="0" filename="$USER_HOME$/tmp/cut-my-svg/renderer.js" />
       <jump line="97" column="0" filename="$USER_HOME$/tmp/cut-my-svg/renderer.js" />
@@ -1086,6 +1088,7 @@
       <jump line="119" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
       <jump line="155" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
       <jump line="15" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="6" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/yt-agile-card.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1098,7 +1101,7 @@
         <text>assets/img/</text>
       </register>
       <register name="/" type="4">
-        <text>dashboard</text>
+        <text>assignee</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAidmVyc2lvbiI6ICIxLjQuMTUiCn0K</text>
@@ -1138,9 +1141,9 @@
       </register>
     </registers>
     <search>
-      <last-search>dashboard</last-search>
+      <last-search>assignee</last-search>
       <last-offset />
-      <last-pattern>dashboard</last-pattern>
+      <last-pattern>assignee</last-pattern>
       <last-replace>$XXXcm</last-replace>
       <last-substitute>$cm</last-substitute>
       <last-dir>1</last-dir>
@@ -1148,7 +1151,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXRJbWFnZVNpemVcPg==</entry>
         <entry>save</entry>
         <entry>tran</entry>
         <entry>hell</entry>
@@ -1168,6 +1170,7 @@
         <entry>tc.result</entry>
         <entry>result</entry>
         <entry>dashboard</entry>
+        <entry>assignee</entry>
       </history-search>
       <history-cmd>
         <entry>%s/scriptingWorkflowsHierarchyCtrl/scriptsListCtrl/gc</entry>
