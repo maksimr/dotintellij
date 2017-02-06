@@ -34,6 +34,9 @@
       <file name="$APPLICATION_PLUGINS_DIR$/NodeJS/lib/NodeJS.jar!/com/jetbrains/nodejs/packageJson/packageJsonSchema.json" timestamp="1486321177971">
         <mark key="'" line="132" column="53" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1486388124238">
+        <mark key="'" line="15" column="6" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/codemirror/addon/search/matchesonscrollbar.js" timestamp="1484867346664">
         <mark key="'" line="89" column="20" />
         <mark key="[" line="42" column="0" />
@@ -196,8 +199,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/jetbrains-logos/logos.js" timestamp="1484557502952">
         <mark key="'" line="9" column="74" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/yt-workflow-rule-icon.html" timestamp="1486381138003">
-        <mark key="'" line="6" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/yt-workflow-rule-icon.html" timestamp="1486388026841">
+        <mark key="'" line="5" column="6" />
         <mark key="[" line="5" column="12" />
         <mark key="]" line="5" column="13" />
         <mark key="." line="5" column="13" />
@@ -983,14 +986,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="11" filename="$USER_HOME$/www/js/116358-kekstagram-mullen/js/form.js" />
-      <jump line="89" column="0" filename="$USER_HOME$/www/js/116358-kekstagram-mullen/js/form.js" />
-      <jump line="100" column="3" filename="$USER_HOME$/www/js/116358-kekstagram-mullen/js/form.js" />
-      <jump line="101" column="37" filename="$USER_HOME$/www/js/116358-kekstagram-mullen/js/form.js" />
-      <jump line="99" column="9" filename="$USER_HOME$/www/js/116358-kekstagram-mullen/js/form.js" />
-      <jump line="88" column="12" filename="$USER_HOME$/www/js/116358-kekstagram-mullen/js/form.js" />
-      <jump line="84" column="0" filename="$USER_HOME$/www/js/116358-kekstagram-mullen/js/form.js" />
-      <jump line="13" column="0" filename="$USER_HOME$/www/js/116358-kekstagram-mullen/js/form.js" />
       <jump line="27" column="2" filename="$USER_HOME$/www/js/116358-kekstagram-mullen/js/form.js" />
       <jump line="87" column="0" filename="$USER_HOME$/tmp/cut-my-svg/renderer.js" />
       <jump line="2" column="0" filename="$USER_HOME$/tmp/cut-my-svg/renderer.js" />
@@ -1083,6 +1078,14 @@
       <jump line="208" column="8" filename="$USER_HOME$/www/js/karma-jasmine/lib/adapter.js" />
       <jump line="222" column="8" filename="$USER_HOME$/www/js/karma-jasmine/lib/adapter.js" />
       <jump line="6" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/yt-workflow-rule-icon.html" />
+      <jump line="5" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/yt-workflow-rule-icon.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="161" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="14" column="43" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="101" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="119" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="155" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="15" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1095,7 +1098,7 @@
         <text>assets/img/</text>
       </register>
       <register name="/" type="4">
-        <text>result</text>
+        <text>dashboard</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAidmVyc2lvbiI6ICIxLjQuMTUiCn0K</text>
@@ -1135,9 +1138,9 @@
       </register>
     </registers>
     <search>
-      <last-search>result</last-search>
+      <last-search>dashboard</last-search>
       <last-offset />
-      <last-pattern>result</last-pattern>
+      <last-pattern>dashboard</last-pattern>
       <last-replace>$XXXcm</last-replace>
       <last-substitute>$cm</last-substitute>
       <last-dir>1</last-dir>
@@ -1145,7 +1148,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx2YWx1ZVNjYWxlUmVzaXplXD4=</entry>
         <entry encoding="base64">XDxzZXRJbWFnZVNpemVcPg==</entry>
         <entry>save</entry>
         <entry>tran</entry>
@@ -1165,6 +1167,7 @@
         <entry>Repor</entry>
         <entry>tc.result</entry>
         <entry>result</entry>
+        <entry>dashboard</entry>
       </history-search>
       <history-cmd>
         <entry>%s/scriptingWorkflowsHierarchyCtrl/scriptsListCtrl/gc</entry>
