@@ -101,6 +101,10 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-switch")).withParent(xmlTag().withLocalName(string().equalTo("rg-table-row")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>rg-template/@template</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("template")).withParent(xmlTag().withLocalName(string().equalTo("rg-template")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>search-query-panel/@on-apply-search</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-apply-search")).withParent(xmlTag().withLocalName(string().equalTo("search-query-panel")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
