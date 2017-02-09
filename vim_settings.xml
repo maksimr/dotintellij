@@ -265,12 +265,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/profile/template/notifications/sidebar.html" timestamp="1485864589315">
         <mark key="'" line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/jetbrains-logos/logos.js" timestamp="1486650169263">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="37" column="105" />
-        <mark key="]" line="37" column="104" />
-        <mark key="^" line="37" column="104" />
-        <mark key="." line="37" column="104" />
+      <file name="$USER_HOME$/www/jetbrains/jetbrains-logos/logos.js" timestamp="1486651428124">
+        <mark key="'" line="51" column="6" />
+        <mark key="[" line="46" column="4" />
+        <mark key="]" line="46" column="9" />
+        <mark key="^" line="46" column="9" />
+        <mark key="." line="46" column="9" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/eslint/package.json" timestamp="1484923693128">
         <mark key="'" line="1" column="0" />
@@ -959,7 +959,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
       <jump line="112" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
       <jump line="114" column="3" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
       <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/production.config.js" />
@@ -1059,52 +1058,53 @@
       <jump line="43" column="54" filename="$USER_HOME$/www/jetbrains/jetbrains-logos/logos.js" />
       <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/jetbrains-logos/logos.js" />
       <jump line="79" column="28" filename="$USER_HOME$/www/jetbrains/jetbrains-logos/test/logos.js" />
+      <jump line="51" column="6" filename="$USER_HOME$/www/jetbrains/jetbrains-logos/logos.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>?:</text>
+        <text>meta</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>?:</text>
+        <text>meta</text>
       </register>
       <register name="/" type="4">
         <text>toExist</text>
       </register>
       <register name="0" type="4">
-        <text>/((?:href|content)=&quot;)([^&quot;#]+)(&quot;)/</text>
+        <text>\w+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYXJndW1lbnRzKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZXR1cm4gLyg/OihocmVmfGNvbnRlbnR8dHlwZSk9IikoW14iI10rKSgiKS9taWcuZXhlYyhtZXRhKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB2YXIgdGFnUmVnRXhwID0gLzxcLz9cdysoKFxzK1x3Kyhccyo9XHMqKD86IigufFxuKSo/InxcJygufFxuKSo/XCd8W15cJyI+XHNdKykpPykrXHMqfFxzKilcLz8+L21pZzsK</text>
+        <text encoding="base64">ICBtZXRhLnJlcGxhY2UoLyg/OihcdyspPSIpKFteIiNdKykoIikvZywgZnVuY3Rpb24oXykgewogICAgY29uc29sZS5sb2coYXJndW1lbnRzKTsKICAgIHJldHVybiBfOwogIH0pCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhciBtZXRhID0gJzxsaW5rIHJlbD0ic2hvcnRjdXQgaWNvbiIgaHJlZj0iZmF2aWNvbi5pY28iIHR5cGU9ImltYWdlL3gtaWNvbiIgc2l6ZXM9IjE2eDE2IDMyeDMyIi8+JzsK</text>
+        <text encoding="base64">ICByZXR1cm4gLyg/OihocmVmfGNvbnRlbnR8dHlwZSk9IikoW14iI10rKSgiKS9taWcuZXhlYyhtZXRhKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICB2YXIgdGFnUmVnRXhwID0gLzxcLz9cdysoKFxzK1x3Kyhccyo9XHMqKD86IigufFxuKSo/InxcJygufFxuKSo/XCd8W15cJyI+XHNdKykpPykrXHMqfFxzKilcLz8+L21pZzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHByZWZpeCArIHByb2Nlc3NGaWxlbmFtZShmaWxlKSArIHN1ZmZpeDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhciBtZXRhID0gJzxsaW5rIHJlbD0ic2hvcnRjdXQgaWNvbiIgaHJlZj0iZmF2aWNvbi5pY28iIHR5cGU9ImltYWdlL3gtaWNvbiIgc2l6ZXM9IjE2eDE2IDMyeDMyIi8+JzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
