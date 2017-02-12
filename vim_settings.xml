@@ -379,6 +379,12 @@
       <file name="$USER_HOME$/www/jetbrains/hub/client-side/dashboard/blocks/app/app__service.js" timestamp="1484827518928">
         <mark key="'" line="67" column="15" />
       </file>
+      <file name="$USER_HOME$/www/clojure/hello-clojurescript/resources/public/index.html" timestamp="1486890217610">
+        <mark key="[" line="4" column="45" />
+        <mark key="]" line="4" column="43" />
+        <mark key="^" line="4" column="43" />
+        <mark key="." line="4" column="43" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/test/directive/yt-legend-color-select.js" timestamp="1485947789194">
         <mark key="'" line="19" column="0" />
       </file>
@@ -590,12 +596,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/svg-sprite-loader/lib/svg-document.js" timestamp="1484662423210">
         <mark key="'" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/www/clojure/hello-clojurescript/src/cljs/hello_browser/core.cljs" timestamp="1486860812342">
-        <mark key="'" line="0" column="1" />
-        <mark key="[" line="4" column="25" />
-        <mark key="]" line="6" column="5" />
-        <mark key="^" line="6" column="5" />
-        <mark key="." line="6" column="5" />
+      <file name="$USER_HOME$/www/clojure/hello-clojurescript/src/cljs/hello_browser/core.cljs" timestamp="1486890131171">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/code-editor.js" timestamp="1485947377135">
         <mark key="'" line="39" column="0" />
@@ -685,9 +691,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="159" column="28" filename="$USER_HOME$/www/js/karma-jasmine/lib/adapter.js" />
-      <jump line="168" column="52" filename="$USER_HOME$/www/js/karma-jasmine/lib/adapter.js" />
-      <jump line="177" column="8" filename="$USER_HOME$/www/js/karma-jasmine/lib/adapter.js" />
       <jump line="178" column="8" filename="$USER_HOME$/www/js/karma-jasmine/lib/adapter.js" />
       <jump line="185" column="7" filename="$USER_HOME$/www/js/karma-jasmine/lib/adapter.js" />
       <jump line="189" column="29" filename="$USER_HOME$/www/js/karma-jasmine/lib/adapter.js" />
@@ -785,52 +788,55 @@
       <jump line="8" column="0" filename="$USER_HOME$/www/clojure/hello-world/repl.clj" />
       <jump line="14" column="23" filename="$USER_HOME$/www/clojure/hello-world/src/hello_world/core.cljs" />
       <jump line="0" column="1" filename="$USER_HOME$/www/clojure/hello-clojurescript/src/cljs/hello_browser/core.cljs" />
+      <jump line="9" column="24" filename="$USER_HOME$/www/clojure/hello-clojurescript/src/cljs/hello_browser/core.cljs" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/clojure/hello-clojurescript/src/cljs/hello_browser/core.cljs" />
+      <jump line="8" column="0" filename="$USER_HOME$/www/clojure/hello-clojurescript/src/cljs/hello_browser/core.cljs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cSkK</text>
+        <text encoding="base64">KG5zIGhlbGxvLWJyb3dzZXIuY29yZQogICg6cmVxdWlyZSBbY2xvanVyZS5icm93c2VyLnJlcGwgOmFzIHJlcGxdKSkK</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>document</text>
+        <text>lein-cljsbuild-example.repl</text>
       </register>
       <register name="/" type="4">
         <text>loop</text>
       </register>
       <register name="0" type="4">
-        <text>(</text>
+        <text>hello-browser.core</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cSkK</text>
+        <text encoding="base64">KG5zIGhlbGxvLWJyb3dzZXIuY29yZQogICg6cmVxdWlyZSBbY2xvanVyZS5icm93c2VyLnJlcGwgOmFzIHJlcGxdKSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KGNsanMuYnJvd3Nlci5yZXBsL2Nvbm5lY3QgImh0dHA6Ly9sb2NhbGhvc3Q6OTAwMC9yZXBsIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KG5zIGhlbGxvLWJyb3dzZXIuY29yZSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KCsgMSAxKQo=</text>
+        <text encoding="base64">KC53cml0ZSBqcy9kb2N1bWVudCAiPGgxPkhlbGxvIEJyb3dzZXI8L2gxPiIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KC5sb2cganMvY29uc29sZSAiSGVsbG8iKQoKKCsgMSAxKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KG5zIGhlbGxvLXdvcmxkLmNvcmUpCgooZW5hYmxlLWNvbnNvbGUtcHJpbnQhKQoKKHByaW50bG4gIkhlbGxvIHdvcmxkISIpCg==</text>
+        <text encoding="base64">cSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">a2trCg==</text>
+        <text encoding="base64">KGNsanMuYnJvd3Nlci5yZXBsL2Nvbm5lY3QgImh0dHA6Ly9sb2NhbGhvc3Q6OTAwMC9yZXBsIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cmVwbC5jbGoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -887,8 +893,8 @@
         <entry>51</entry>
         <entry>$dygest</entry>
         <entry>39</entry>
-        <entry>w</entry>
         <entry>action AceJumpAction</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
