@@ -280,8 +280,11 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/tern/plugin/modules.js" timestamp="1482875019924">
         <mark key="'" line="376" column="0" />
       </file>
-      <file name="/REPL.clj" timestamp="1486858012630">
+      <file name="/REPL.clj" timestamp="1486859676264">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/tern/plugin/es_modules.js" timestamp="1482912160472">
         <mark key="'" line="109" column="0" />
@@ -587,12 +590,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/svg-sprite-loader/lib/svg-document.js" timestamp="1484662423210">
         <mark key="'" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/www/clojure/hello-clojurescript/src/cljs/hello_browser/core.cljs" timestamp="1486858897995">
+      <file name="$USER_HOME$/www/clojure/hello-clojurescript/src/cljs/hello_browser/core.cljs" timestamp="1486859753732">
         <mark key="'" line="0" column="1" />
-        <mark key="[" line="4" column="9" />
-        <mark key="]" line="4" column="9" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
         <mark key="^" line="4" column="23" />
-        <mark key="." line="4" column="9" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/code-editor.js" timestamp="1485947377135">
         <mark key="'" line="39" column="0" />
@@ -784,8 +787,8 @@
       <jump line="0" column="1" filename="$USER_HOME$/www/clojure/hello-clojurescript/src/cljs/hello_browser/core.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>document</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -806,29 +809,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KG5zIGhlbGxvLXdvcmxkLmNvcmUpCgooZW5hYmxlLWNvbnNvbGUtcHJpbnQhKQoKKHByaW50bG4gIkhlbGxvIHdvcmxkISIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">a2trCg==</text>
+        <text encoding="base64">KCsgMSAxKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmVwbC5jbGoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4KICAgICAgZ29vZy5yZXF1aXJlKCJoZWxsb193b3JsZC5jb3JlIik7CiAgICA8L3NjcmlwdD4K</text>
+        <text encoding="base64">KG5zIGhlbGxvLXdvcmxkLmNvcmUpCgooZW5hYmxlLWNvbnNvbGUtcHJpbnQhKQoKKHByaW50bG4gIkhlbGxvIHdvcmxkISIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Im91dC9nb29nL2Jhc2UuanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">a2trCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KGNsanMuYnVpbGQuYXBpL2J1aWxkICJzcmMiIHs6b3V0cHV0LXRvICJvdXQvbWFpbi5qcyJ9KQo=</text>
+        <text encoding="base64">cmVwbC5jbGoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KCkK</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0Ij4KICAgICAgZ29vZy5yZXF1aXJlKCJoZWxsb193b3JsZC5jb3JlIik7CiAgICA8L3NjcmlwdD4K</text>
       </register>
-      <register name="9" type="4">
-        <text>(find-tripplet
-           (get-tripple-for 1000 0))</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Im91dC9nb29nL2Jhc2UuanMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
