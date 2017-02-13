@@ -482,12 +482,12 @@
         <mark key="^" line="6" column="19" />
         <mark key="." line="6" column="19" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-feed.js" timestamp="1486733611482">
-        <mark key="'" line="54" column="0" />
-        <mark key="[" line="59" column="3" />
-        <mark key="]" line="59" column="1" />
-        <mark key="." line="59" column="1" />
-        <mark key="^" line="59" column="1" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-feed.js" timestamp="1486975513828">
+        <mark key="'" line="784" column="17" />
+        <mark key="[" line="784" column="55" />
+        <mark key="]" line="784" column="57" />
+        <mark key="." line="784" column="57" />
+        <mark key="^" line="784" column="57" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/charisma-app/src/main/kotlin/jetbrains/charisma/persistence/customfields/CustomField.kt" timestamp="1482751342068">
         <mark key="'" line="66" column="17" />
@@ -692,8 +692,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="189" column="29" filename="$USER_HOME$/www/js/karma-jasmine/lib/adapter.js" />
-      <jump line="193" column="7" filename="$USER_HOME$/www/js/karma-jasmine/lib/adapter.js" />
       <jump line="282" column="10" filename="$USER_HOME$/www/js/karma-jasmine/lib/adapter.js" />
       <jump line="296" column="30" filename="$USER_HOME$/www/js/karma-jasmine/lib/adapter.js" />
       <jump line="298" column="41" filename="$USER_HOME$/www/js/karma-jasmine/lib/adapter.js" />
@@ -792,19 +790,21 @@
       <jump line="8" column="0" filename="$USER_HOME$/www/clojure/hello-clojurescript/src/cljs/hello_browser/core.cljs" />
       <jump line="41" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-feed.js" />
       <jump line="673" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-feed.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-feed.js" />
+      <jump line="784" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-feed.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">KG5zIGhlbGxvLWJyb3dzZXIuY29yZQogICg6cmVxdWlyZSBbY2xvanVyZS5icm93c2VyLnJlcGwgOmFzIHJlcGxdKSkK</text>
+      <register name="&quot;" type="4">
+        <text>faker.date.past();</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>lein-cljsbuild-example.repl</text>
+        <text>faker.date.past();</text>
       </register>
       <register name="/" type="4">
-        <text>loop</text>
+        <text encoding="base64">XDxkYXRlUHJvcGVydHlcPg==</text>
       </register>
       <register name="0" type="4">
         <text>hello-browser.core</text>
@@ -844,19 +844,16 @@
       </register>
     </registers>
     <search>
-      <last-search>loop</last-search>
+      <last-search encoding="base64">XDxkYXRlUHJvcGVydHlcPg==</last-search>
       <last-offset />
-      <last-pattern>loop</last-pattern>
+      <last-pattern encoding="base64">XDxkYXRlUHJvcGVydHlcPg==</last-pattern>
       <last-replace>$XXXcm</last-replace>
       <last-substitute>$cm</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>return {}</entry>
-        <entry>create()</entry>
-        <entry>create(</entry>
         <entry encoding="base64">XDxjcmVhdGVXb3JrRmVlZEl0ZW1cPg==</entry>
         <entry>hasPermission</entry>
         <entry>fd</entry>
@@ -874,6 +871,9 @@
         <entry>stack</entry>
         <entry>for</entry>
         <entry>loop</entry>
+        <entry>sortBy</entry>
+        <entry encoding="base64">XDxyZWNlbnRcPg==</entry>
+        <entry encoding="base64">XDxkYXRlUHJvcGVydHlcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/scriptsListCtrl/scriptListCtrl/gc</entry>
