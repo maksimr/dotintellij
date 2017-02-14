@@ -314,6 +314,9 @@
       <file name="/a.regexp" timestamp="1487088739272">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/www/clojure/cljs-workshop/project.clj" timestamp="1487115946186">
+        <mark key="'" line="17" column="18" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/directive/yt-header.js" timestamp="1485258175710">
         <mark key="'" line="47" column="56" />
       </file>
@@ -414,8 +417,8 @@
       <file name="$USER_HOME$/www/jetbrains/hub/client-side/webpack.config.js" timestamp="1484754709090">
         <mark key="'" line="39" column="53" />
       </file>
-      <file name="$USER_HOME$/www/clojure/hello-youtrack/src/async_tut1/core.cljs" timestamp="1487103607338">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/www/clojure/hello-youtrack/src/async_tut1/core.cljs" timestamp="1487115594380">
+        <mark key="'" line="60" column="0" />
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
@@ -494,7 +497,6 @@
       <file name="$USER_HOME$/www/jetbrains/jetbrains-logos/README.md" timestamp="1486647263228">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/yt-custom-field-bundle.js" timestamp="1487070140839" />
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/codemirror/addon/display/fullscreen.js" timestamp="1482951339647">
         <mark key="'" line="39" column="0" />
       </file>
@@ -654,10 +656,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/test/service/utils.js" />
-      <jump line="65" column="65" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/test/service/utils.js" />
-      <jump line="75" column="29" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/test/service/utils.js" />
-      <jump line="170" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/test/service/utils.js" />
       <jump line="262" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/test/service/utils.js" />
       <jump line="236" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/test/service/utils.js" />
       <jump line="214" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/test/service/utils.js" />
@@ -754,6 +752,10 @@
       <jump line="65" column="0" filename="$USER_HOME$/www/clojure/hello-youtrack/src/async_tut1/core.cljs" />
       <jump line="68" column="0" filename="$USER_HOME$/www/clojure/hello-youtrack/src/async_tut1/core.cljs" />
       <jump line="0" column="0" filename="$USER_HOME$/www/clojure/hello-youtrack/src/async_tut1/core.cljs" />
+      <jump line="60" column="0" filename="$USER_HOME$/www/clojure/hello-youtrack/src/async_tut1/core.cljs" />
+      <jump line="16" column="22" filename="$USER_HOME$/www/clojure/cljs-workshop/project.clj" />
+      <jump line="27" column="36" filename="$USER_HOME$/www/clojure/cljs-workshop/project.clj" />
+      <jump line="17" column="18" filename="$USER_HOME$/www/clojure/cljs-workshop/project.clj" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -766,7 +768,7 @@
         <text>+ 1 1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtZW50aW9uUmVzb3VyY2VcPg==</text>
+        <text encoding="base64">XDx3ZWFzZWxcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAK</text>
@@ -806,9 +808,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtZW50aW9uUmVzb3VyY2VcPg==</last-search>
+      <last-search encoding="base64">XDx3ZWFzZWxcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtZW50aW9uUmVzb3VyY2VcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx3ZWFzZWxcPg==</last-pattern>
       <last-replace>ytWorkItemFormCtrl</last-replace>
       <last-substitute>\$ctrl</last-substitute>
       <last-dir>-1</last-dir>
@@ -816,8 +818,6 @@
     </search>
     <history>
       <history-search>
-        <entry>rejected</entry>
-        <entry encoding="base64">XDxhbGxTZXR0bGVkXD4=</entry>
         <entry>putOn</entry>
         <entry encoding="base64">XDxwdXRJc3N1ZU9uQm9hcmRBZnRlckxhc3RWaXNpYmxlXD4=</entry>
         <entry encoding="base64">XDxvbkxvYWRNb3JlQ2FyZHNDYWxsYmFja1w+</entry>
@@ -836,6 +836,8 @@
         <entry>\$ctrl</entry>
         <entry encoding="base64">XDxnZXRVc2Vyc0Zyb21NZW50aW9uXD4=</entry>
         <entry encoding="base64">XDxtZW50aW9uUmVzb3VyY2VcPg==</entry>
+        <entry encoding="base64">XDxjZW1lcmlja1w+</entry>
+        <entry encoding="base64">XDx3ZWFzZWxcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/railscasts/dark/gc</entry>
