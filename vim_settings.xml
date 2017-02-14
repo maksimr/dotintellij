@@ -24,6 +24,9 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/notifications-resource.js" timestamp="1485889106422">
         <mark key="'" line="84" column="2" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/lazy-tree-model.js" timestamp="1487079036525">
+        <mark key="'" line="153" column="27" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/combokeys/Combokeys/index.js" timestamp="1482830371504">
         <mark key="'" line="6" column="0" />
       </file>
@@ -371,7 +374,7 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/test/unit/test-bundle.webpack.js" timestamp="1486992373740">
         <mark key="'" line="7" column="88" />
       </file>
-      <file name="/a.regexp" timestamp="1487073212755">
+      <file name="/a.regexp" timestamp="1487078997063">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/directive/yt-header.js" timestamp="1485258175710">
@@ -798,9 +801,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="16" filename="$USER_HOME$/www/clojure/hello-youtrack/src/async_tut1/core.cljs" />
-      <jump line="56" column="2" filename="$USER_HOME$/www/clojure/hello-youtrack/src/async_tut1/core.cljs" />
-      <jump line="5" column="0" filename="$USER_HOME$/www/clojure/hello-youtrack/src/async_tut1/core.cljs" />
       <jump line="55" column="0" filename="$USER_HOME$/www/clojure/hello-youtrack/src/async_tut1/core.cljs" />
       <jump line="67" column="0" filename="$USER_HOME$/www/clojure/hello-youtrack/src/async_tut1/core.cljs" />
       <jump line="59" column="25" filename="$USER_HOME$/www/clojure/hello-youtrack/src/async_tut1/core.cljs" />
@@ -898,6 +898,9 @@
       <jump line="168" column="38" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/board-columns-utils.js" />
       <jump line="90" column="51" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/board-columns-utils.js" />
       <jump line="84" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/board-columns-utils.js" />
+      <jump line="134" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/lazy-tree-model.js" />
+      <jump line="155" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/lazy-tree-model.js" />
+      <jump line="153" column="27" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/lazy-tree-model.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -910,7 +913,7 @@
         <text encoding="base64">IFhocklv</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsaW1pdGVkQ29sdW1uTGVuZ3RoXD4=</text>
+        <text encoding="base64">XDxnZXRMZWFkaW5nSW5kZXhcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Cg==</text>
@@ -950,9 +953,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsaW1pdGVkQ29sdW1uTGVuZ3RoXD4=</last-search>
+      <last-search encoding="base64">XDxnZXRMZWFkaW5nSW5kZXhcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsaW1pdGVkQ29sdW1uTGVuZ3RoXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRMZWFkaW5nSW5kZXhcPg==</last-pattern>
       <last-replace>$XXXcm</last-replace>
       <last-substitute>$cm</last-substitute>
       <last-dir>-1</last-dir>
@@ -960,7 +963,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvblJlYWR5U3RhdGVDaGFuZ2VfXD4=</entry>
         <entry>callback</entry>
         <entry>Jsonp</entry>
         <entry>cross</entry>
@@ -980,6 +982,7 @@
         <entry encoding="base64">XDxERUFGVUxUX0lTU1VFU19QRVJfUk9XX0xJTUlUXD4=</entry>
         <entry>columnLengthLimit</entry>
         <entry encoding="base64">XDxsaW1pdGVkQ29sdW1uTGVuZ3RoXD4=</entry>
+        <entry encoding="base64">XDxnZXRMZWFkaW5nSW5kZXhcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>11</entry>
