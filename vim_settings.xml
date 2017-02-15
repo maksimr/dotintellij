@@ -43,6 +43,9 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/tern/plugin/angular.js" timestamp="1485948921024">
         <mark key="'" line="272" column="6" />
       </file>
+      <file name="$USER_HOME$/www/clojure/cljs-workshop/src/cljs/cljsworkshop/core.cljs" timestamp="1487116818280">
+        <mark key="'" line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/hub/client-side/auth/blocks/login-page/login-page.js" timestamp="1485186912229">
         <mark key="'" line="14" column="4" />
       </file>
@@ -314,8 +317,8 @@
       <file name="/a.regexp" timestamp="1487088739272">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/clojure/cljs-workshop/project.clj" timestamp="1487115946186">
-        <mark key="'" line="17" column="18" />
+      <file name="$USER_HOME$/www/clojure/cljs-workshop/project.clj" timestamp="1487116753943">
+        <mark key="'" line="31" column="18" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/directive/yt-header.js" timestamp="1485258175710">
         <mark key="'" line="47" column="56" />
@@ -371,6 +374,9 @@
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/ring-hub/package.json" timestamp="1486986669840">
         <mark key="'" line="64" column="27" />
+      </file>
+      <file name="$USER_HOME$/www/clojure/cljs-workshop/resources/index.html" timestamp="1487116693139">
+        <mark key="'" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/test/directive/yt-legend-color-select.js" timestamp="1485947789194">
         <mark key="'" line="19" column="0" />
@@ -656,9 +662,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="262" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/test/service/utils.js" />
-      <jump line="236" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/test/service/utils.js" />
-      <jump line="214" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/test/service/utils.js" />
       <jump line="398" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/utils.js" />
       <jump line="39" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/utils.js" />
       <jump line="21" column="31" filename="/agile-issue-creator.js" />
@@ -756,6 +759,9 @@
       <jump line="16" column="22" filename="$USER_HOME$/www/clojure/cljs-workshop/project.clj" />
       <jump line="27" column="36" filename="$USER_HOME$/www/clojure/cljs-workshop/project.clj" />
       <jump line="17" column="18" filename="$USER_HOME$/www/clojure/cljs-workshop/project.clj" />
+      <jump line="13" column="0" filename="$USER_HOME$/www/clojure/cljs-workshop/resources/index.html" />
+      <jump line="31" column="18" filename="$USER_HOME$/www/clojure/cljs-workshop/project.clj" />
+      <jump line="9" column="0" filename="$USER_HOME$/www/clojure/cljs-workshop/src/cljs/cljsworkshop/core.cljs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -768,7 +774,7 @@
         <text>+ 1 1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3ZWFzZWxcPg==</text>
+        <text>cllo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAK</text>
@@ -808,17 +814,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx3ZWFzZWxcPg==</last-search>
+      <last-search>cllo</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3ZWFzZWxcPg==</last-pattern>
+      <last-pattern>cllo</last-pattern>
       <last-replace>ytWorkItemFormCtrl</last-replace>
       <last-substitute>\$ctrl</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>putOn</entry>
         <entry encoding="base64">XDxwdXRJc3N1ZU9uQm9hcmRBZnRlckxhc3RWaXNpYmxlXD4=</entry>
         <entry encoding="base64">XDxvbkxvYWRNb3JlQ2FyZHNDYWxsYmFja1w+</entry>
         <entry encoding="base64">XDx1cGRhdGVPcmRlclw+</entry>
@@ -838,6 +843,7 @@
         <entry encoding="base64">XDxtZW50aW9uUmVzb3VyY2VcPg==</entry>
         <entry encoding="base64">XDxjZW1lcmlja1w+</entry>
         <entry encoding="base64">XDx3ZWFzZWxcPg==</entry>
+        <entry>cllo</entry>
       </history-search>
       <history-cmd>
         <entry>%s/railscasts/dark/gc</entry>
