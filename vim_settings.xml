@@ -634,12 +634,12 @@
         <mark key="." line="112" column="74" />
         <mark key="^" line="112" column="74" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-feed-comment.html" timestamp="1487249882165">
-        <mark key="'" line="45" column="23" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="46" column="3" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-feed-comment.html" timestamp="1487252695568">
+        <mark key="'" line="65" column="0" />
+        <mark key="[" line="73" column="33" />
+        <mark key="]" line="73" column="32" />
+        <mark key="." line="73" column="32" />
+        <mark key="^" line="73" column="32" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/webpack/lib/Parser.js" timestamp="1482955511714">
         <mark key="'" line="801" column="12" />
@@ -794,8 +794,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-work-item-form.js" />
-      <jump line="102" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-work-item-form.js" />
       <jump line="81" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-work-item-form.js" />
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-work-item-form.js" />
       <jump line="214" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-work-item-form.js" />
@@ -894,61 +892,63 @@
       <jump line="31" column="46" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-feed-comment.html" />
       <jump line="36" column="46" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-feed-comment.html" />
       <jump line="45" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-feed-comment.html" />
+      <jump line="68" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-feed-comment.html" />
+      <jump line="65" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-feed-comment.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>left: -2px</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2xhc3M9Inl0LWlzc3VlLWNvbW1lbnRfX2F2YXRhciIg</text>
+        <text>left: -2px</text>
       </register>
       <register name="/" type="4">
-        <text>comment</text>
+        <text>wiki</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICBzdHlsZT0iY29sb3I6ICNmZjVhMDAiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICB3aWR0aD0iMzJweCIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8aW1nIG5nLXNyYz0ie3tpc3N1ZUZlZWRDb21tZW50Q3RybC5jb21tZW50LmF1dGhvci5hdmF0YXJVcmx9fSIgY2xhc3M9Inl0LWlzc3VlLWNvbW1lbnRfX2F2YXRhciB5dC1pc3N1ZS1jb21tZW50X19mZWVkLWl0ZW0iIHN0eWxlPSIiIGFsdD0iIi8+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8aW1nIG5nLXNyYz0ie3tpc3N1ZUZlZWRDb21tZW50Q3RybC5jb21tZW50LmF1dGhvci5hdmF0YXJVcmx9fSIgc3R5bGU9IndpZHRoOiA0NnB4IiBhbHQ9IiIvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8IS0tPGltZyBuZy1zcmM9Int7aXNzdWVGZWVkQ29tbWVudEN0cmwuY29tbWVudC5hdXRob3IuYXZhdGFyVXJsfX0iIGNsYXNzPSJ5dC1pc3N1ZS1jb21tZW50X19hdmF0YXIiIGFsdD0iIi8+LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgPGltZyBuZy1zcmM9Int7aXNzdWVGZWVkQ29tbWVudEN0cmwuY29tbWVudC5hdXRob3IuYXZhdGFyVXJsfX0iIHN0eWxlPSJ3aWR0aDogNDZweCIgYWx0PSIiLz4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICBzdHlsZT0iY29sb3I6ICNmZjVhMDAiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxpbWcgbmctc3JjPSJ7e2lzc3VlRmVlZENvbW1lbnRDdHJsLmNvbW1lbnQuYXV0aG9yLmF2YXRhclVybH19IiBzdHlsZT0id2lkdGg6IDQ2cHgiIGFsdD0iIi8+CiAgICA8eXQtd2lraS10ZXh0IG5nLWlmPSJpc3N1ZUZlZWRDb21tZW50Q3RybC5pc1ZpZXdNb2RlKCkiCiAgICAgICAgICAgICAgICAgIGNsYXNzPSJ5dC1pc3N1ZS1jb21tZW50X190ZXh0IgogICAgICAgICAgICAgICAgICB3aWtpZmllZD0idHJ1ZSIKICAgICAgICAgICAgICAgICAgaXNzdWUtaWQ9Imlzc3VlRmVlZENvbW1lbnRDdHJsLmNvbW1lbnQuaXNzdWUuaWQiCiAgICAgICAgICAgICAgICAgIHRleHQ9Imlzc3VlRmVlZENvbW1lbnRDdHJsLmNvbW1lbnQudGV4dFByZXZpZXciPjwveXQtd2lraS10ZXh0Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9LAo=</text>
+        <text encoding="base64">ICAgIDxpbWcgbmctc3JjPSJ7e2lzc3VlRmVlZENvbW1lbnRDdHJsLmNvbW1lbnQuYXV0aG9yLmF2YXRhclVybH19IiBzdHlsZT0id2lkdGg6IDQ2cHgiIGFsdD0iIi8+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICBhdXRob3I6IElTU1VFX1VTRVJfRklFTERTCiAgICAgICAgfSwK</text>
+        <text encoding="base64">ICA8aW1nIG5nLXNyYz0ie3tpc3N1ZUZlZWRDb21tZW50Q3RybC5jb21tZW50LmF1dGhvci5hdmF0YXJVcmx9fSIgc3R5bGU9IndpZHRoOiA0NnB4IiBhbHQ9IiIvPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8IS0tPGltZyBuZy1zcmM9Int7aXNzdWVGZWVkQ29tbWVudEN0cmwuY29tbWVudC5hdXRob3IuYXZhdGFyVXJsfX0iIGNsYXNzPSJ5dC1pc3N1ZS1jb21tZW50X19hdmF0YXIiIGFsdD0iIi8+LS0+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>comment</last-search>
+      <last-search>wiki</last-search>
       <last-offset />
-      <last-pattern>comment</last-pattern>
+      <last-pattern>wiki</last-pattern>
       <last-replace>ytWorkItemFormCtrl</last-replace>
       <last-substitute>\$ctrl</last-substitute>
       <last-dir>1</last-dir>
@@ -956,8 +956,6 @@
     </search>
     <history>
       <history-search>
-        <entry>workItem</entry>
-        <entry>repea</entry>
         <entry>conso</entry>
         <entry>isActive</entry>
         <entry>filter</entry>
@@ -976,6 +974,8 @@
         <entry>duration</entry>
         <entry>avatar</entry>
         <entry>comment</entry>
+        <entry>image</entry>
+        <entry>wiki</entry>
       </history-search>
       <history-cmd>
         <entry>%s/{ }/angular.noop/gc</entry>
