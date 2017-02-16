@@ -223,12 +223,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" timestamp="1486117881975">
         <mark key="'" line="25149" column="2" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/issue-resource.js" timestamp="1487261216691">
-        <mark key="'" line="179" column="19" />
-        <mark key="[" line="254" column="18" />
-        <mark key="]" line="254" column="34" />
-        <mark key="^" line="225" column="47" />
-        <mark key="." line="220" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/issue-resource.js" timestamp="1487266857457">
+        <mark key="'" line="408" column="10" />
+        <mark key="[" line="226" column="10" />
+        <mark key="]" line="226" column="16" />
+        <mark key="^" line="226" column="16" />
+        <mark key="." line="226" column="16" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/hub/client-side/node_modules/copy-webpack-plugin/dist/index.js" timestamp="1484556286339">
         <mark key="'" line="56" column="36" />
@@ -433,6 +433,12 @@
       <file name="/a.txt" timestamp="1486977782610">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/style/issue-feed.scss" timestamp="1487267217670">
+        <mark key="[" line="68" column="1" />
+        <mark key="]" line="68" column="29" />
+        <mark key="^" line="68" column="19" />
+        <mark key="." line="68" column="19" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/image-tool/directive/yt-image-tool.js" timestamp="1484576291065">
         <mark key="'" line="73" column="25" />
       </file>
@@ -459,10 +465,6 @@
       </file>
       <file name="$USER_HOME$/www/clojure/hello-youtrack/src/async_tut1/core.cljs" timestamp="1487197712100">
         <mark key="'" line="68" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/clojure/hello-youtrack/project.clj" timestamp="1487195280554">
-        <mark key="[" line="16" column="35" />
-        <mark key="]" line="16" column="54" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/global/global.scss" timestamp="1484654069878">
         <mark key="'" line="82" column="9" />
@@ -494,12 +496,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/codemirror/addon/lint/javascript-lint.js" timestamp="1484925781711">
         <mark key="'" line="92" column="36" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-feed-work-item.html" timestamp="1487265426730">
-        <mark key="'" line="57" column="13" />
-        <mark key="[" line="58" column="53" />
-        <mark key="]" line="58" column="52" />
-        <mark key="." line="58" column="52" />
-        <mark key="^" line="58" column="52" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-feed-work-item.html" timestamp="1487267497693">
+        <mark key="'" line="57" column="11" />
+        <mark key="[" line="5" column="51" />
+        <mark key="]" line="5" column="56" />
+        <mark key="." line="5" column="56" />
+        <mark key="^" line="5" column="56" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/clojure/google-closure-library/0.0-20160609-f42b4a24/google-closure-library-0.0-20160609-f42b4a24.jar!/goog/net/jsonp.js" timestamp="1487029043837">
         <mark key="'" line="67" column="0" />
@@ -732,12 +734,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-work-item-form.js" />
-      <jump line="10" column="1" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-new-work-item-form.js" />
-      <jump line="60" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-new-work-item-form.js" />
-      <jump line="63" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-new-work-item-form.js" />
-      <jump line="104" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-work-item-form.js" />
-      <jump line="74" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-new-work-item-form.js" />
       <jump line="95" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-new-work-item-form.js" />
       <jump line="96" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-new-work-item-form.js" />
       <jump line="89" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-new-work-item-form.js" />
@@ -829,73 +825,77 @@
       <jump line="52" column="70" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-feed-work-item.html" />
       <jump line="54" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-feed-work-item.html" />
       <jump line="56" column="39" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-feed-work-item.html" />
-      <jump line="57" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-feed-work-item.html" />
       <jump line="45" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/wiki/directive/yt-wiki-text.js" />
       <jump line="12" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/wiki/directive/yt-wiki-text.js" />
+      <jump line="66" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/issue-resource.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/issue-resource.js" />
+      <jump line="226" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/issue-resource.js" />
+      <jump line="408" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/issue-resource.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/style/issue-feed.scss" />
+      <jump line="57" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-feed-work-item.html" />
+      <jump line="69" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/style/issue-feed.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.comment</text>
+        <text>creator</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>.comment</text>
+        <text>creator</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3aWtpZmllZFw+</text>
+        <text>work-item</text>
       </register>
-      <register name="0" type="4">
-        <text>issueFeedWorkItemCtrl</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgdGl0bGU9Int7Ojppc3N1ZUZlZWRXb3JrSXRlbUN0cmwud29ya0l0ZW0uY3JlYXRvciB8IHVzZXJOYW1lfX0iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB7ezo6IGlzc3VlRmVlZFdvcmtJdGVtQ3RybC53b3JrSXRlbS5kZXNjcmlwdGlvbn19Cg==</text>
+        <text encoding="base64">ICBwb3NpdGlvbjogcmVsYXRpdmU7Owo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPHl0LWljb24gaWNvbj0iYWN0aXZpdHkiCiAgICAgICAgICAgICAgIGNsYXNzPSJ5dC1pY29uLWZpeCB5dC1ndXR0ZXItMSIKICAgICAgICAgICAgICAgc2l6ZT0ic20iPjwveXQtaWNvbj4K</text>
+        <text encoding="base64">ICB3aWR0aDogMjRweDsKICBoZWlnaHQ6IDI0cHg7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgQWN0aXZpdGllcwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFuc2xhdGU9IiIK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIDxzcGFuIGNsYXNzPSJ5dC1ndXR0ZXItMiB5dC1ib2xkIj57e2lzc3VlRmVlZEN0cmwuZ2V0QWN0aXZlRmlsdGVyVGl0bGUoKX19PC9zcGFuPgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8c3BhbiB0cmFuc2xhdGU9IiI+Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB7ezo6IGlzc3VlRmVlZFdvcmtJdGVtQ3RybC53b3JrSXRlbS5kZXNjcmlwdGlvbn19Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgPHl0LWljb24gaWNvbj0iYWN0aXZpdHkiCiAgICAgICAgICAgICAgIGNsYXNzPSJ5dC1pY29uLWZpeCB5dC1ndXR0ZXItMSIKICAgICAgICAgICAgICAgc2l6ZT0ic20iPjwveXQtaWNvbj4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgQWN0aXZpdGllcwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB0cmFuc2xhdGU9IiIK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxzcGFuIGNsYXNzPSJ5dC1ndXR0ZXItMSIgbmctaWY9Imlzc3VlRmVlZEN0cmwubG9hZGVkRmVlZFR5cGVzID4gMSIgdHJhbnNsYXRlPSIiPkZpbHRlciBieTo8L3NwYW4+Cg==</text>
+        <text encoding="base64">ICAgIDxzcGFuIGNsYXNzPSJ5dC1ndXR0ZXItMiB5dC1ib2xkIj57e2lzc3VlRmVlZEN0cmwuZ2V0QWN0aXZlRmlsdGVyVGl0bGUoKX19PC9zcGFuPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxpbWcgbmctc3JjPSJ7e2lzc3VlRmVlZFdvcmtJdGVtQ3RybC53b3JrSXRlbS5hdXRob3IuYXZhdGFyVXJsfX0iIGNsYXNzPSJ5dC1pc3N1ZS1jb21tZW50X19hdmF0YXIiIGFsdD0iIi8+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8c3BhbiB0cmFuc2xhdGU9IiI+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx3aWtpZmllZFw+</last-search>
+      <last-search>work-item</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3aWtpZmllZFw+</last-pattern>
+      <last-pattern>work-item</last-pattern>
       <last-replace>ytWorkItemFormCtrl</last-replace>
       <last-substitute>\$ctrl</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpc3N1ZUlkXD4=</entry>
-        <entry encoding="base64">XDxwcm9qZWN0SWRcPg==</entry>
         <entry encoding="base64">XDxjcmVhdGVXb3JrSXRlbU1vY2tcPg==</entry>
         <entry>creatWOrk</entry>
         <entry>createWork</entry>
@@ -904,7 +904,6 @@
         <entry encoding="base64">XDxjcmVhdGVJc3N1ZVdvcmtJdGVtTW9ja1w+</entry>
         <entry>des</entry>
         <entry>author</entry>
-        <entry>workItem</entry>
         <entry>work</entry>
         <entry>verbose</entry>
         <entry encoding="base64">XDx3b3JrSXRlbVw+</entry>
@@ -914,6 +913,9 @@
         <entry>yt-wiki-text</entry>
         <entry>issue</entry>
         <entry encoding="base64">XDx3aWtpZmllZFw+</entry>
+        <entry>workItem</entry>
+        <entry encoding="base64">XDx1cGRhdGVyXD4=</entry>
+        <entry>work-item</entry>
       </history-search>
       <history-cmd>
         <entry>%s/{ }/angular.noop/gc</entry>
