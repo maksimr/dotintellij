@@ -484,6 +484,13 @@
       <file name="$USER_HOME$/www/jetbrains/jetbrains-logos/node_modules/expect/lib/index.js" timestamp="1486643199590">
         <mark key="'" line="16" column="9" />
       </file>
+      <file name="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/formulas/core.cljs" timestamp="1487342577585">
+        <mark key="'" line="17" column="11" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="8" column="32" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/hub/client-side/webpack.config.js" timestamp="1484754709090">
         <mark key="'" line="39" column="53" />
       </file>
@@ -605,6 +612,9 @@
         <mark key="]" line="112" column="74" />
         <mark key="." line="112" column="74" />
         <mark key="^" line="112" column="74" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/clojure/clojurescript/1.9.456/clojurescript-1.9.456.jar!/cljs/spec.cljs" timestamp="1487342306290">
+        <mark key="'" line="1416" column="24" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-feed-comment.html" timestamp="1487265381633">
         <mark key="'" line="69" column="68" />
@@ -783,27 +793,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="598" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-feed.js" />
-      <jump line="25" column="39" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-feed.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-feed.html" />
-      <jump line="17" column="35" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-feed.html" />
-      <jump line="49" column="46" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-feed.html" />
-      <jump line="5" column="37" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-feed.html" />
-      <jump line="6" column="42" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-feed.html" />
-      <jump line="8" column="42" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-feed.html" />
-      <jump line="9" column="91" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-feed.html" />
-      <jump line="20" column="45" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-feed.html" />
-      <jump line="24" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-feed.html" />
-      <jump line="26" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-feed.html" />
-      <jump line="29" column="91" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-feed.html" />
-      <jump line="35" column="27" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-feed.html" />
-      <jump line="36" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-feed.html" />
-      <jump line="63" column="39" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-feed.html" />
-      <jump line="70" column="68" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-feed.html" />
-      <jump line="79" column="38" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-feed.html" />
-      <jump line="2" column="85" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-feed.html" />
-      <jump line="4" column="74" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-feed.html" />
-      <jump line="7" column="85" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-feed.html" />
       <jump line="16" column="57" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-feed.html" />
       <jump line="18" column="39" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-feed.html" />
       <jump line="13" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-new-work-item-form.js" />
@@ -883,62 +872,82 @@
       <jump line="7" column="13" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/scripts/brepl.clj" />
       <jump line="7" column="9" filename="$MAVEN_REPOSITORY$/org/clojure/clojurescript/1.9.456/clojurescript-1.9.456.jar!/cljs/build/api.clj" />
       <jump line="9" column="29" filename="$MAVEN_REPOSITORY$/org/clojure/clojurescript/1.9.456/clojurescript-1.9.456.jar!/cljs/build/api.clj" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/formulas/core.cljs" />
+      <jump line="6" column="0" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/formulas/core.cljs" />
+      <jump line="8" column="4" filename="$MAVEN_REPOSITORY$/org/clojure/clojurescript/1.9.456/clojurescript-1.9.456.jar!/cljs/spec.cljs" />
+      <jump line="1443" column="1" filename="$MAVEN_REPOSITORY$/org/clojure/clojurescript/1.9.456/clojurescript-1.9.456.jar!/cljs/spec.cljs" />
+      <jump line="1440" column="1" filename="$MAVEN_REPOSITORY$/org/clojure/clojurescript/1.9.456/clojurescript-1.9.456.jar!/cljs/spec.cljs" />
+      <jump line="1442" column="1" filename="$MAVEN_REPOSITORY$/org/clojure/clojurescript/1.9.456/clojurescript-1.9.456.jar!/cljs/spec.cljs" />
+      <jump line="1446" column="35" filename="$MAVEN_REPOSITORY$/org/clojure/clojurescript/1.9.456/clojurescript-1.9.456.jar!/cljs/spec.cljs" />
+      <jump line="1448" column="25" filename="$MAVEN_REPOSITORY$/org/clojure/clojurescript/1.9.456/clojurescript-1.9.456.jar!/cljs/spec.cljs" />
+      <jump line="292" column="3" filename="$MAVEN_REPOSITORY$/org/clojure/clojurescript/1.9.456/clojurescript-1.9.456.jar!/cljs/spec.cljs" />
+      <jump line="568" column="10" filename="$MAVEN_REPOSITORY$/org/clojure/clojurescript/1.9.456/clojurescript-1.9.456.jar!/cljs/spec.cljs" />
+      <jump line="1324" column="29" filename="$MAVEN_REPOSITORY$/org/clojure/clojurescript/1.9.456/clojurescript-1.9.456.jar!/cljs/spec.cljs" />
+      <jump line="1411" column="40" filename="$MAVEN_REPOSITORY$/org/clojure/clojurescript/1.9.456/clojurescript-1.9.456.jar!/cljs/spec.cljs" />
+      <jump line="1414" column="45" filename="$MAVEN_REPOSITORY$/org/clojure/clojurescript/1.9.456/clojurescript-1.9.456.jar!/cljs/spec.cljs" />
+      <jump line="1415" column="37" filename="$MAVEN_REPOSITORY$/org/clojure/clojurescript/1.9.456/clojurescript-1.9.456.jar!/cljs/spec.cljs" />
+      <jump line="1416" column="24" filename="$MAVEN_REPOSITORY$/org/clojure/clojurescript/1.9.456/clojurescript-1.9.456.jar!/cljs/spec.cljs" />
+      <jump line="9" column="0" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/formulas/core.cljs" />
+      <jump line="4" column="32" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/formulas/core.cljs" />
+      <jump line="8" column="11" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/formulas/core.cljs" />
+      <jump line="15" column="0" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/formulas/core.cljs" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/formulas/core.cljs" />
+      <jump line="17" column="11" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/formulas/core.cljs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">KCsgMSAxKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>alert</text>
+        <text>distance</text>
       </register>
       <register name="/" type="4">
-        <text>defn build</text>
+        <text>assert</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;src&quot; &quot;target/classes&quot; &quot;scripts&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KCsgMSAxKQo=</text>
+        <text encoding="base64">KGFzc2VydCAoPSAyIDIpKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KGRpc3RhbmNlIDQgMSkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KC5hbGVydCBqcy93aW5kb3cgIkhlbGxvIikK</text>
+        <text encoding="base64">KGFzc2VydCA1IDYpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KCsgMSAxKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KGRpc3RhbmNlIDUgMSkK</text>
+        <text encoding="base64">KCsgMSAxKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>;; (defonce conn
-;;   (repl/connect &quot;http://localhost:9000/repl&quot;))</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDpvdXRwdXQtdG8gICJyZXNvdXJjZXMvcHVibGljL2pzL3JlcGxlci5qcyIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>defn build</last-search>
+      <last-search>assert</last-search>
       <last-offset />
-      <last-pattern>defn build</last-pattern>
+      <last-pattern>assert</last-pattern>
       <last-replace>ytWorkItemFormCtrl</last-replace>
       <last-substitute>\$ctrl</last-substitute>
       <last-dir>1</last-dir>
@@ -946,8 +955,6 @@
     </search>
     <history>
       <history-search>
-        <entry>des</entry>
-        <entry>author</entry>
         <entry>work</entry>
         <entry>verbose</entry>
         <entry encoding="base64">XDx3b3JrSXRlbVw+</entry>
@@ -966,6 +973,8 @@
         <entry>repl-env</entry>
         <entry>build</entry>
         <entry>defn build</entry>
+        <entry>defn assert</entry>
+        <entry>assert</entry>
       </history-search>
       <history-cmd>
         <entry>%s/{ }/angular.noop/gc</entry>
