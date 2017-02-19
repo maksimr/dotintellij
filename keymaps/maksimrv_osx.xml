@@ -8,14 +8,24 @@
     <keyboard-shortcut first-keystroke="shift alt back_space" />
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
+  <action id="$Undo">
+    <keyboard-shortcut first-keystroke="ctrl z" />
+  </action>
   <action id=":cursive.actions.paredit/backward">
     <keyboard-shortcut first-keystroke="ctrl left" />
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+  </action>
+  <action id=":cursive.actions.paredit/backward-down">
+    <keyboard-shortcut first-keystroke="ctrl alt p" />
+  </action>
+  <action id=":cursive.actions.paredit/backward-up">
+    <keyboard-shortcut first-keystroke="ctrl alt u" />
   </action>
   <action id=":cursive.actions.paredit/barf-backwards">
-    <keyboard-shortcut first-keystroke="ctrl meta k" />
+    <keyboard-shortcut first-keystroke="shift alt open_bracket" />
   </action>
   <action id=":cursive.actions.paredit/barf-forwards">
-    <keyboard-shortcut first-keystroke="shift ctrl j" />
+    <keyboard-shortcut first-keystroke="shift alt close_bracket" />
   </action>
   <action id=":cursive.actions.paredit/close-curly-and-newline">
     <keyboard-shortcut first-keystroke="shift ctrl close_bracket" />
@@ -31,12 +41,20 @@
   </action>
   <action id=":cursive.actions.paredit/forward">
     <keyboard-shortcut first-keystroke="ctrl right" />
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
+  </action>
+  <action id=":cursive.actions.paredit/forward-down">
+    <keyboard-shortcut first-keystroke="ctrl alt d" />
+  </action>
+  <action id=":cursive.actions.paredit/forward-up">
+    <keyboard-shortcut first-keystroke="ctrl alt n" />
   </action>
   <action id=":cursive.actions.paredit/join">
     <keyboard-shortcut first-keystroke="ctrl meta s" />
+    <keyboard-shortcut first-keystroke="alt j" />
   </action>
-  <action id=":cursive.actions.paredit/kill-sexp">
-    <keyboard-shortcut first-keystroke="alt f" second-keystroke="k" />
+  <action id=":cursive.actions.paredit/kill">
+    <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
   <action id=":cursive.actions.paredit/move-form-down">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
@@ -48,19 +66,13 @@
     <keyboard-shortcut first-keystroke="ctrl quote" />
   </action>
   <action id=":cursive.actions.paredit/slurp-backwards">
-    <keyboard-shortcut first-keystroke="ctrl meta j" />
+    <keyboard-shortcut first-keystroke="shift alt 9" />
   </action>
   <action id=":cursive.actions.paredit/slurp-forwards">
-    <keyboard-shortcut first-keystroke="shift ctrl k" />
-  </action>
-  <action id=":cursive.actions.paredit/splice">
-    <keyboard-shortcut first-keystroke="alt s" />
-  </action>
-  <action id=":cursive.actions.paredit/splice-killing-backwards">
-    <keyboard-shortcut first-keystroke="alt f" second-keystroke="b" />
+    <keyboard-shortcut first-keystroke="shift alt 0" />
   </action>
   <action id=":cursive.actions.paredit/splice-killing-forwards">
-    <keyboard-shortcut first-keystroke="alt f" second-keystroke="f" />
+    <keyboard-shortcut first-keystroke="alt s" />
   </action>
   <action id=":cursive.actions.paredit/split">
     <keyboard-shortcut first-keystroke="shift alt s" />
