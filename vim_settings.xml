@@ -351,11 +351,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/tern/plugin/es_modules.js" timestamp="1482912160472">
         <mark key="'" line="109" column="0" />
       </file>
-      <file name="$USER_HOME$/www/clojure/etudes-for-clojurescript/assets/test.xml" timestamp="1487525378105">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="24" column="32" />
-        <mark key="^" line="24" column="32" />
-        <mark key="." line="24" column="32" />
+      <file name="$USER_HOME$/www/clojure/etudes-for-clojurescript/assets/test.xml" timestamp="1487541065605">
+        <mark key="'" line="10" column="5" />
+        <mark key="[" line="19" column="31" />
+        <mark key="]" line="19" column="28" />
+        <mark key="^" line="19" column="28" />
+        <mark key="." line="19" column="28" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/icon.js" timestamp="1484653188987">
         <mark key="'" line="5" column="2" />
@@ -431,12 +432,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/board-columns-utils.js" timestamp="1487071054662">
         <mark key="'" line="84" column="18" />
       </file>
-      <file name="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/node/core.cljs" timestamp="1487540074204">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="6" column="27" />
-        <mark key="]" line="6" column="29" />
-        <mark key="." line="6" column="29" />
-        <mark key="^" line="6" column="29" />
+      <file name="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/node/core.cljs" timestamp="1487541223347">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="13" column="56" />
+        <mark key="." line="13" column="56" />
+        <mark key="^" line="13" column="56" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/jasmine-core/lib/jasmine-core/boot.js" timestamp="1486992991211">
         <mark key="'" line="25" column="83" />
@@ -835,13 +836,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="6" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/etudes_for_clojurescript/core.cljs" />
-      <jump line="2" column="13" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/etudes_for_clojurescript/core.cljs" />
-      <jump line="44" column="0" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/etudes_for_clojurescript/core.cljs" />
-      <jump line="15" column="0" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/etudes_for_clojurescript/teeth.cljs" />
-      <jump line="12" column="6" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/etudes_for_clojurescript/teeth.cljs" />
-      <jump line="22" column="16" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/etudes_for_clojurescript/teeth.cljs" />
-      <jump line="23" column="5" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/etudes_for_clojurescript/teeth.cljs" />
       <jump line="21" column="46" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/etudes_for_clojurescript/teeth.cljs" />
       <jump line="18" column="11" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/etudes_for_clojurescript/teeth.cljs" />
       <jump line="27" column="11" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/etudes_for_clojurescript/teeth.cljs" />
@@ -935,49 +929,56 @@
       <jump line="8" column="0" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/node/core.cljs" />
       <jump line="9" column="0" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/node/core.cljs" />
       <jump line="12" column="0" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/node/core.cljs" />
+      <jump line="21" column="32" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/assets/test.xml" />
+      <jump line="9" column="6" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/assets/test.xml" />
+      <jump line="1" column="5" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/assets/test.xml" />
+      <jump line="23" column="6" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/assets/test.xml" />
+      <jump line="17" column="5" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/assets/test.xml" />
+      <jump line="16" column="6" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/assets/test.xml" />
+      <jump line="10" column="5" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/assets/test.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">eG1sIA==</text>
+        <text>process-xml (.parseFileSync xml &quot;./assets/test.xml&quot;)</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">eG1sIA==</text>
+        <text>parse</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZW5kZXJcPg==</text>
+        <text encoding="base64">XDxGb29kc19OZWVkaW5nX0NvbmRpbWVudHNfUm93XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAoOnJlcXVpcmUgW2Nsb2p1cmUuYnJvd3Nlci5yZXBsIDphcyByZXBsXQo=</text>
+      <register name="0" type="4">
+        <text>process-xml (.parseFileSync xml &quot;./assets/test.xml&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KC5wYXJzZUZpbGVTeW5jIHhtbCAiLi9hc3NldHMvdGVzdC54bWwiKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KGZvbyBmb28gYmFyIChmb28gem9vKSBmb28gb28gbW9vbykK</text>
+        <text encoding="base64">KHByaW50ICguY3dkIG5vZGUvcHJvY2VzcykpCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KGZvbyBmb28gYmFyIChmb28gem9vKSBmb28gb28gbW9vbykK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KCJIZWxsbyB3b3JsZCIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KCJIZWxsbyB3b3JsZCIpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -987,9 +988,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZW5kZXJcPg==</last-search>
+      <last-search encoding="base64">XDxGb29kc19OZWVkaW5nX0NvbmRpbWVudHNfUm93XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZW5kZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxGb29kc19OZWVkaW5nX0NvbmRpbWVudHNfUm93XD4=</last-pattern>
       <last-replace />
       <last-substitute>set-medi</last-substitute>
       <last-dir>-1</last-dir>
@@ -997,7 +998,6 @@
     </search>
     <history>
       <history-search>
-        <entry>media</entry>
         <entry encoding="base64">XDxtZWRpYW5cPg==</entry>
         <entry>set-medi</entry>
         <entry>fo</entry>
@@ -1017,9 +1017,9 @@
         <entry>range</entry>
         <entry>inc</entry>
         <entry encoding="base64">XDxyZW5kZXJcPg==</entry>
+        <entry encoding="base64">XDxGb29kc19OZWVkaW5nX0NvbmRpbWVudHNfUm93XD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/&quot;/'/gca</entry>
         <entry>%s/foo/bar/gc</entry>
         <entry>%s/&quot;/'/gc</entry>
         <entry>294</entry>
@@ -1038,6 +1038,7 @@
         <entry>12</entry>
         <entry>.s/,//gc</entry>
         <entry>7</entry>
+        <entry>19</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
