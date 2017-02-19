@@ -42,12 +42,8 @@
       <file name="$USER_HOME$/www/jetbrains/hub/client-side/auth/blocks/login-page/login-page.js" timestamp="1485186912229">
         <mark key="'" line="14" column="4" />
       </file>
-      <file name="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/etudes_for_clojurescript/teeth.cljs" timestamp="1487508300763">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="47" column="9" />
-        <mark key="^" line="47" column="9" />
-        <mark key="." line="47" column="9" />
+      <file name="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/etudes_for_clojurescript/teeth.cljs" timestamp="1487509627360">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/js/qrcode/app/scripts/main.js" timestamp="1485527210095">
         <mark key="'" line="300" column="6" />
@@ -824,14 +820,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="9" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/etudes_for_clojurescript/core.cljs" />
-      <jump line="19" column="4" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/etudes_for_clojurescript/core.cljs" />
-      <jump line="26" column="11" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/etudes_for_clojurescript/core.cljs" />
-      <jump line="38" column="4" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/etudes_for_clojurescript/core.cljs" />
-      <jump line="4" column="0" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/etudes_for_clojurescript/core.cljs" />
-      <jump line="6" column="13" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/etudes_for_clojurescript/core.cljs" />
-      <jump line="3" column="13" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/etudes_for_clojurescript/core.cljs" />
-      <jump line="14" column="19" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/etudes_for_clojurescript/core.cljs" />
       <jump line="27" column="0" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/etudes_for_clojurescript/core.cljs" />
       <jump line="29" column="5" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/etudes_for_clojurescript/core.cljs" />
       <jump line="32" column="5" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/etudes_for_clojurescript/core.cljs" />
@@ -920,56 +908,64 @@
       <jump line="23" column="5" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/etudes_for_clojurescript/teeth.cljs" />
       <jump line="21" column="46" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/etudes_for_clojurescript/teeth.cljs" />
       <jump line="18" column="11" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/etudes_for_clojurescript/teeth.cljs" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/etudes_for_clojurescript/teeth.cljs" />
       <jump line="27" column="11" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/etudes_for_clojurescript/teeth.cljs" />
       <jump line="30" column="26" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/etudes_for_clojurescript/teeth.cljs" />
-      <jump line="41" column="0" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/etudes_for_clojurescript/teeth.cljs" />
+      <jump line="52" column="0" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/etudes_for_clojurescript/teeth.cljs" />
+      <jump line="1" column="34" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/etudes_for_clojurescript/teeth.cljs" />
+      <jump line="49" column="0" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/etudes_for_clojurescript/teeth.cljs" />
+      <jump line="3" column="3" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/etudes_for_clojurescript/teeth.cljs" />
+      <jump line="53" column="0" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/etudes_for_clojurescript/teeth.cljs" />
+      <jump line="14" column="0" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/etudes_for_clojurescript/teeth.cljs" />
+      <jump line="54" column="0" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/etudes_for_clojurescript/teeth.cljs" />
+      <jump line="32" column="0" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/etudes_for_clojurescript/teeth.cljs" />
+      <jump line="41" column="28" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/etudes_for_clojurescript/teeth.cljs" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/etudes_for_clojurescript/teeth.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>(probability!)</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>01</text>
+        <text>(probability!)</text>
       </register>
       <register name="/" type="4">
         <text>set-medi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KGdlbmVyYXRlLXBvY2tldHMgIlRGVFQiIChwcm9iYWJpbGl0eSEpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CihkZWZuIG9uZS10b290aCBbcHJlc2VudCBwcm9iYWJpbGl0eV0KICAoaWYgKG5vdCBwcmVzZW50KQogICAgW10KICAgIChsZXQKICAgICAgW2dvb2Q/IChpZiAoPSBwcm9iYWJpbGl0eSAwKQogICAgICAgICAgICAgICBmYWxzZQogICAgICAgICAgICAgICAoPD0gKHByb2JhYmlsaXR5ISkgcHJvYmFiaWxpdHkpKQogICAgICAgaXMtYmFkLWVub3VnaD8gKGZuIFt0b290aF0gKHNvbWUgIyg+PSAlMSA0KSB0b290aCkpCiAgICAgICBtYWtlLXRvb3RoIChmbiBbdG9wXSAobWFwICMocmFuZC1pbnQgdG9wKSAocmFuZ2UgMCA2KSkpCiAgICAgICBtYWtlLWJhZC10b290aCAoZm4gW10gKGxldCBbdCAobWFrZS10b290aCA1KV0KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIChpZiAoaXMtYmFkLWVub3VnaD8gdCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAocmVjdXIpKSkpCiAgICAgICBdCiAgICAgIChpZiBnb29kPyAobWFrZS10b290aCA0KQogICAgICAgICAgICAgICAgKG1ha2UtYmFkLXRvb3RoKSkpKSkKCihkZWZuIGdlbmVyYXRlLXBvY2tldHMgW3RlZXRoIHByb2JhYmlsaXR5XQogIChtYXAgIyhvbmUtdG9vdGggJTEgcHJvYmFiaWxpdHkpCiAgICAgICAobWFwICMoaWYgKD0gJTEgIlQiKSB0cnVlIGZhbHNlKSAoc3RyL3NwbGl0IHRlZXRoICIiKSkpKQoKKGdlbmVyYXRlLXBvY2tldHMgIlRGVFQiIChwcm9iYWJpbGl0eSEpKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">O1tbMSAyIDIgMyAxIDFdIFtdIFsyIDMgMSAxIDMgMl0gWzQgMiAyIDMgMiAzXV0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KDw9IChwcm9iYWJpbGl0eSEpIDApCg==</text>
+        <text encoding="base64">KG9uZS10b290aCB0cnVlIDAuNzUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KHByb2JhYmlsaXR5ISkK</text>
+        <text encoding="base64">KG1hcCAjKGlmICg9ICUxICJUIikgdHJ1ZSBmYWxzZSkgKHN0ci9zcGxpdCAiVEZUVCIgIiIpKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KG1hcCAjKHJhbmQtaW50IDQpIChyYW5nZSAwIDYpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KHByb2JhYmlsaXR5ISkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">KHRha2UtcHJvKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">KG9uZS10b290aCB0cnVlIDAuNSkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">KC8gKHJhbmQtaW50IDEwMSkgMTAwKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1008,7 +1004,6 @@
         <entry>set-medi</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/&quot;/'/ga</entry>
         <entry>%s/&quot;/'/gca</entry>
         <entry>%s/foo/bar/gc</entry>
         <entry>%s/&quot;/'/gc</entry>
@@ -1027,6 +1022,7 @@
         <entry>action AceJumpAction</entry>
         <entry>12</entry>
         <entry>.s/,//gc</entry>
+        <entry>7</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
