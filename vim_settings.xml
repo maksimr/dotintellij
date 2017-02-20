@@ -370,7 +370,7 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/suggest/directive/yt-suggest.js" timestamp="1487088766552">
         <mark key="'" line="14" column="106" />
       </file>
-      <file name="/REPL.clj" timestamp="1487525016573">
+      <file name="/REPL.clj" timestamp="1487613157000">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -467,10 +467,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/board-columns-utils.js" timestamp="1487071054662">
         <mark key="'" line="84" column="18" />
       </file>
-      <file name="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/node/core.cljs" timestamp="1487542396466">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/node/core.cljs" timestamp="1487613413564">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="10" column="10" />
+        <mark key="]" line="10" column="18" />
+        <mark key="^" line="10" column="18" />
+        <mark key="." line="10" column="18" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/jasmine-core/lib/jasmine-core/boot.js" timestamp="1486992991211">
         <mark key="'" line="25" column="83" />
@@ -886,8 +888,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/ring-ui/webpack.config.js" />
-      <jump line="13" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/ring-hub/webpack.config.js" />
       <jump line="87" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/ring-hub/webpack.config.js" />
       <jump line="35" column="37" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/ring-hub/webpack.config.js" />
       <jump line="107" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/ring-hub/webpack.config.js" />
@@ -986,6 +986,8 @@
       <jump line="68" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/style/issue-feed-item.scss" />
       <jump line="41" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/style/issue-feed-item.scss" />
       <jump line="2" column="3" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/style/yt-issue-comment.scss" />
+      <jump line="11" column="41" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/node/core.cljs" />
+      <jump line="6" column="0" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/node/core.cljs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -995,7 +997,7 @@
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>xml-root</text>
       </register>
       <register name="/" type="4">
         <text>item</text>
@@ -1010,25 +1012,25 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">KGpzL2NvbnNvbGUubG9nIGZvb2RzKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBAZXh0ZW5kIC55dC1pc3N1ZS1mZWVkLWl0ZW07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Lnl0LWlzc3VlLWNvbW1lbnQgewo=</text>
+        <text encoding="base64">Cihhc3NlcnQgKD0gKHByb2Nlc3MteG1sICgucGFyc2VGaWxlU3luYyB4bWwgIi4vYXNzZXRzL3Rlc3QueG1sIikpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAueXQtaXNzdWUtY29tbWVudCAK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBleHRlbmQgLnl0LWlzc3VlLWZlZWQtaXRlbTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBAbWl4aW4gLnl0Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICBAZXh0ZW5kIC55dC1pc3N1ZS1mZWVkLWl0ZW07Cg==</text>
