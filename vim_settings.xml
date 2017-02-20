@@ -467,11 +467,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/board-columns-utils.js" timestamp="1487071054662">
         <mark key="'" line="84" column="18" />
       </file>
-      <file name="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/node/core.cljs" timestamp="1487614602985">
-        <mark key="[" line="41" column="29" />
-        <mark key="]" line="41" column="32" />
-        <mark key="." line="41" column="32" />
-        <mark key="^" line="41" column="32" />
+      <file name="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/node/core.cljs" timestamp="1487615783386">
+        <mark key="'" line="61" column="12" />
+        <mark key="[" line="53" column="3" />
+        <mark key="]" line="53" column="23" />
+        <mark key="." line="53" column="23" />
+        <mark key="^" line="53" column="23" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/jasmine-core/lib/jasmine-core/boot.js" timestamp="1486992991211">
         <mark key="'" line="25" column="83" />
@@ -882,12 +883,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/ring-hub/webpack.config.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/ring-hub/webpack.config.js" />
-      <jump line="55" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/ring-hub/webpack.config.js" />
-      <jump line="78" column="56" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/ring-hub/webpack.config.js" />
-      <jump line="97" column="46" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/ring-hub/webpack.config.js" />
-      <jump line="116" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/ring-hub/webpack.config.js" />
       <jump line="117" column="39" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/ring-hub/webpack.config.js" />
       <jump line="150" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/ring-hub/webpack.config.js" />
       <jump line="158" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/ring-hub/webpack.config.js" />
@@ -982,61 +977,69 @@
       <jump line="11" column="15" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/node/core.cljs" />
       <jump line="12" column="12" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/node/core.cljs" />
       <jump line="13" column="0" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/assets/test.xml" />
+      <jump line="43" column="4" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/node/core.cljs" />
+      <jump line="55" column="0" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/node/core.cljs" />
+      <jump line="10" column="0" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/node/core.cljs" />
+      <jump line="54" column="0" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/node/core.cljs" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/node/core.cljs" />
+      <jump line="56" column="12" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/node/core.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>name</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIChjb25qICkK</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>exists</text>
       </register>
       <register name="/" type="4">
-        <text>item</text>
+        <text>process-xml</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIChjb25qICkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIChmaXJzdCAoZmlsdGVyIGlzLW5hbWUgKC4tY2hpbGRzIGZvb2QpKSkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">KGlzLWZvb2QgZm9vZHMtcm9vdCkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">KC4tY2hpbGRzIGZvb2RzKQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">KHByaW50IGZvb2RzKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">KGZpcnN0ICguLWNpaGxkcyBmb29kcykpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">KG1hcCAjKHN0ci90cmltICUxKSAoLi1jaGlsZHMgZm9vZHMpKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text>if (nil? name)
+      nil
+      (first (childs name))</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIChmaXJzdCAoZmlsdGVyIGlzLW5hbWUgKC4tY2hpbGRzIGZvb2QpKSkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">KGlzLWZvb2QgZm9vZHMtcm9vdCkK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">KC4tY2hpbGRzIGZvb2RzKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">KHN0ci90cmltICIgZm9vIGZvbyAiKQo=</text>
+        <text encoding="base64">KHByaW50IGZvb2RzKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>item</last-search>
+      <last-search>process-xml</last-search>
       <last-offset />
-      <last-pattern>item</last-pattern>
+      <last-pattern>process-xml</last-pattern>
       <last-replace>yt-issue-feed-item</last-replace>
       <last-substitute>yt-issue-comment</last-substitute>
       <last-dir>1</last-dir>
@@ -1044,7 +1047,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onSave</entry>
         <entry encoding="base64">XDx3ZWJwYWNrQ29uZmlnTWVyZ2VyXD4=</entry>
         <entry>output</entry>
         <entry>exports</entry>
@@ -1064,6 +1066,7 @@
         <entry>comment</entry>
         <entry>ring-link</entry>
         <entry>item</entry>
+        <entry>process-xml</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;/'/gc</entry>
