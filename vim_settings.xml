@@ -345,12 +345,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" timestamp="1486117881975">
         <mark key="'" line="25149" column="2" />
       </file>
-      <file name="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/node/frequency_table.cljs" timestamp="1487868631391">
-        <mark key="'" line="63" column="26" />
-        <mark key="[" line="93" column="20" />
-        <mark key="]" line="93" column="19" />
-        <mark key="." line="93" column="19" />
-        <mark key="^" line="93" column="19" />
+      <file name="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/node/frequency_table.cljs" timestamp="1487868761399">
+        <mark key="'" line="77" column="9" />
+        <mark key="[" line="77" column="5" />
+        <mark key="]" line="77" column="9" />
+        <mark key="^" line="77" column="9" />
+        <mark key="." line="77" column="9" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/issue-resource.js" timestamp="1487593639887">
         <mark key="'" line="401" column="10" />
@@ -1048,8 +1048,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="316" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
-      <jump line="21" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
       <jump line="310" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
       <jump line="308" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
       <jump line="297" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
@@ -1148,16 +1146,18 @@
       <jump line="61" column="5" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/node/frequency_table.cljs" />
       <jump line="67" column="43" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/node/frequency_table.cljs" />
       <jump line="63" column="26" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/node/frequency_table.cljs" />
+      <jump line="73" column="38" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/node/frequency_table.cljs" />
+      <jump line="77" column="9" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/node/frequency_table.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IDph</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IDph</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxPZlw+</text>
@@ -1166,34 +1166,34 @@
         <text>col-f row</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KHByaW50IGZvbykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB1cGRhdGUtY29sIChmbiBbbWFwXSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzb3J0ZWQta2V5cyAoc29ydCAoa2V5cyByZXN1bHQtbWFwKSkKICAgICAgICB2YWx1ZXMgKG1hcCAoZm4gW2tleV0KICAgICAgICAgICAgICAgICAgICAgIChnZXQgcmVzdWx0LW1hcCBrZXkpKSBzb3J0ZWQta2V5cykKICAgICAgICB0b3RhbCAocmVkdWNlICsgdmFsdWVzKQo=</text>
+        <text encoding="base64">KHVwZGF0ZS1pbiBmb28gWzpmb28gOmFdIGluYykK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KHVwZGF0ZS1pbiBmb28gW1s6YSA6Yl1dIGluYykK</text>
+        <text encoding="base64">KGRlZiBmb28gKGhhc2gtbWFwIDpmb28gKGhhc2gtbWFwIDphIDEpKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KHByaW50IGZvbykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KGRlZiBmb28gKGhhc2gtbWFwIFs6YSA6Yl0gMSkpCg==</text>
+        <text encoding="base64">ICAgICAgICB1cGRhdGUtY29sIChmbiBbbWFwXSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzb3J0ZWQta2V5cyAoc29ydCAoa2V5cyByZXN1bHQtbWFwKSkKICAgICAgICB2YWx1ZXMgKG1hcCAoZm4gW2tleV0KICAgICAgICAgICAgICAgICAgICAgIChnZXQgcmVzdWx0LW1hcCBrZXkpKSBzb3J0ZWQta2V5cykKICAgICAgICB0b3RhbCAocmVkdWNlICsgdmFsdWVzKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KGRlZiBmb28gKGhhc2gtbWFwIDphIDEgOmIgMTApKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
