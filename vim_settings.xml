@@ -345,11 +345,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" timestamp="1486117881975">
         <mark key="'" line="25149" column="2" />
       </file>
-      <file name="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/node/frequency_table.cljs" timestamp="1487807651575">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/node/frequency_table.cljs" timestamp="1487846931062">
+        <mark key="'" line="12" column="12" />
+        <mark key="[" line="16" column="19" />
+        <mark key="]" line="16" column="46" />
+        <mark key="." line="16" column="46" />
+        <mark key="^" line="16" column="46" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/issue-resource.js" timestamp="1487593639887">
         <mark key="'" line="401" column="10" />
@@ -1043,8 +1044,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/profile/test/e2e/user-profile.spec.js" />
-      <jump line="19" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/test/e2e/issue.pageObject.js" />
       <jump line="14" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/test/e2e/issue.spec.js" />
       <jump line="6" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/test/e2e/issue.pageObject.js" />
       <jump line="68" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/test/e2e/issue.pageObject.js" />
@@ -1143,10 +1142,12 @@
       <jump line="13" column="0" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/cljs_made_easy/line_seq.clj" />
       <jump line="11" column="9" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/cljs_made_easy/line_seq.clj" />
       <jump line="3" column="0" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/node/frequency_table.cljs" />
+      <jump line="7" column="0" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/node/frequency_table.cljs" />
+      <jump line="12" column="12" filename="$USER_HOME$/www/clojure/etudes-for-clojurescript/src/node/frequency_table.cljs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KGRlZiBmaWxlc3lzdGVtIChub2RlanMvcmVxdWlyZSAiZnMiKSkK</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -1161,34 +1162,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KGRlZiBmaWxlc3lzdGVtIChub2RlanMvcmVxdWlyZSAiZnMiKSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KGZpbGVzeXN0ZW0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CjtbezpkYXRlICIwNy8zMS8yMDE0IiwgOnRpbWUgIjIyOjA4OjAwIiAuLi4gOmdlbmRlciAiRiIsIDpkcml2ZXItc3RhdGUgIk1EIn0sCjsgezpkYXRlICIwNy8zMS8yMDE0IiwgOnRpbWUgIjIxOjI3OjAwIiAuLi4gOmdlbmRlciAiRiIsIDpkcml2ZXItc3RhdGUgIk1EIn0sIC4uLl0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">OzstLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoKOzsgVGhpcyBpcyB0aGUgbm9ybWFsIGNsanMgZmlsZQoobnMgY2xqcy1tYWRlLWVhc3kubGluZS1zZXEKICAoOnJlcXVpcmUgY2xvanVyZS5zdHJpbmcpCiAgKDpyZXF1aXJlLW1hY3JvcyBbY2xqcy1tYWRlLWVhc3kubGluZS1zZXEgOnJlZmVyIFt3aXRoLW9wZW5dXSkpCgooZGVmIGZzIChqcy9yZXF1aXJlICJmcyIpKQoKKGRlZm4tIHJlYWQtY2h1bmsgW2ZkXQogIChsZXQgW2xlbmd0aCAxMjgKICAgICAgICBiIChqcy9CdWZmZXIuIGxlbmd0aCkKICAgICAgICBieXRlcy1yZWFkICgucmVhZFN5bmMgZnMgZmQgYiAwIGxlbmd0aCBuaWwpXQogICAgKGlmICg+IGJ5dGVzLXJlYWQgMCkKICAgICAgKC50b1N0cmluZyBiICJ1dGY4IiAwIGJ5dGVzLXJlYWQpKSkpCgooZGVmbiBsaW5lLXNlcQogIChbZmRdCiAgIChsaW5lLXNlcSBmZCBuaWwpKQogIChbZmQgbGluZV0KICAgKGlmLWxldCBbY2h1bmsgKHJlYWQtY2h1bmsgZmQpXQogICAgIChpZiAocmUtZmluZCAjIlxuIiAoc3RyIGxpbmUgY2h1bmspKQogICAgICAgKGxldCBbbGluZXMgKGNsb2p1cmUuc3RyaW5nL3NwbGl0IChzdHIgbGluZSBjaHVuaykgIyJcbiIpXQogICAgICAgICAoaWYgKD0gMSAoY291bnQgbGluZXMpKQogICAgICAgICAgIChsYXp5LWNhdCBsaW5lcyAobGluZS1zZXEgZmQpKQogICAgICAgICAgIChsYXp5LWNhdCAoYnV0bGFzdCBsaW5lcykgKGxpbmUtc2VxIGZkIChsYXN0IGxpbmVzKSkpKSkKICAgICAgIChyZWN1ciBmZCAoc3RyIGxpbmUgY2h1bmspKSkKICAgICAoaWYgbGluZQogICAgICAgKGxpc3QgbGluZSkKICAgICAgICgpKSkpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">OzsgVGhpcyBpcyB0aGUgbm9ybWFsIGNsanMgZmlsZQo=</text>
+        <text encoding="base64">KGZpbGVzeXN0ZW0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">OzsgVGhpcyBpcyBhIG1hY3JvLCBhbmQgbXVzdCBiZSBpbiBjbG9qdXJlLiBJdCdzIG5hbWUgYW5kIGxvY2F0aW9uIGlzIHRoZSBzYW1lIGFzCjs7IHRoZSBjbGpzIGZpbGUsIGV4Y2VwdCB3aXRoIGEgLmNsaiBleHRlbnNpb24uCihucyBjbGpzLW1hZGUtZWFzeS5saW5lLXNlcQogICg6cmVmZXItY2xvanVyZSA6ZXhjbHVkZSBbd2l0aC1vcGVuXSkpCgooZGVmbWFjcm8gd2l0aC1vcGVuIFtiaW5kaW5ncyAmIGJvZHldCiAgKGFzc2VydCAoPSAyIChjb3VudCBiaW5kaW5ncykpICJJbmNvcnJlY3Qgd2l0aC1vcGVuIGJpbmRpbmdzIikKICBgKGxldCB+YmluZGluZ3MKICAgICAodHJ5CiAgICAgICAoZG8gfkBib2R5KQogICAgICAgKGZpbmFsbHkKICAgICAgICAgKC5jbG9zZVN5bmMgY2xqcy1tYWRlLWVhc3kubGluZS1zZXEvZnMgfihiaW5kaW5ncyAwKSkpKSkpCgo7Oy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">OzstLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoKOzsgVGhpcyBpcyB0aGUgbm9ybWFsIGNsanMgZmlsZQoobnMgY2xqcy1tYWRlLWVhc3kubGluZS1zZXEKICAoOnJlcXVpcmUgY2xvanVyZS5zdHJpbmcpCiAgKDpyZXF1aXJlLW1hY3JvcyBbY2xqcy1tYWRlLWVhc3kubGluZS1zZXEgOnJlZmVyIFt3aXRoLW9wZW5dXSkpCgooZGVmIGZzIChqcy9yZXF1aXJlICJmcyIpKQoKKGRlZm4tIHJlYWQtY2h1bmsgW2ZkXQogIChsZXQgW2xlbmd0aCAxMjgKICAgICAgICBiIChqcy9CdWZmZXIuIGxlbmd0aCkKICAgICAgICBieXRlcy1yZWFkICgucmVhZFN5bmMgZnMgZmQgYiAwIGxlbmd0aCBuaWwpXQogICAgKGlmICg+IGJ5dGVzLXJlYWQgMCkKICAgICAgKC50b1N0cmluZyBiICJ1dGY4IiAwIGJ5dGVzLXJlYWQpKSkpCgooZGVmbiBsaW5lLXNlcQogIChbZmRdCiAgIChsaW5lLXNlcSBmZCBuaWwpKQogIChbZmQgbGluZV0KICAgKGlmLWxldCBbY2h1bmsgKHJlYWQtY2h1bmsgZmQpXQogICAgIChpZiAocmUtZmluZCAjIlxuIiAoc3RyIGxpbmUgY2h1bmspKQogICAgICAgKGxldCBbbGluZXMgKGNsb2p1cmUuc3RyaW5nL3NwbGl0IChzdHIgbGluZSBjaHVuaykgIyJcbiIpXQogICAgICAgICAoaWYgKD0gMSAoY291bnQgbGluZXMpKQogICAgICAgICAgIChsYXp5LWNhdCBsaW5lcyAobGluZS1zZXEgZmQpKQogICAgICAgICAgIChsYXp5LWNhdCAoYnV0bGFzdCBsaW5lcykgKGxpbmUtc2VxIGZkIChsYXN0IGxpbmVzKSkpKSkKICAgICAgIChyZWN1ciBmZCAoc3RyIGxpbmUgY2h1bmspKSkKICAgICAoaWYgbGluZQogICAgICAgKGxpc3QgbGluZSkKICAgICAgICgpKSkpKQo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">OzsgVGhpcyBpcyB0aGUgbm9ybWFsIGNsanMgZmlsZQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">OzsgVGhpcyBpcyBhIG1hY3JvLCBhbmQgbXVzdCBiZSBpbiBjbG9qdXJlLiBJdCdzIG5hbWUgYW5kIGxvY2F0aW9uIGlzIHRoZSBzYW1lIGFzCjs7IHRoZSBjbGpzIGZpbGUsIGV4Y2VwdCB3aXRoIGEgLmNsaiBleHRlbnNpb24uCihucyBjbGpzLW1hZGUtZWFzeS5saW5lLXNlcQogICg6cmVmZXItY2xvanVyZSA6ZXhjbHVkZSBbd2l0aC1vcGVuXSkpCgooZGVmbWFjcm8gd2l0aC1vcGVuIFtiaW5kaW5ncyAmIGJvZHldCiAgKGFzc2VydCAoPSAyIChjb3VudCBiaW5kaW5ncykpICJJbmNvcnJlY3Qgd2l0aC1vcGVuIGJpbmRpbmdzIikKICBgKGxldCB+YmluZGluZ3MKICAgICAodHJ5CiAgICAgICAoZG8gfkBib2R5KQogICAgICAgKGZpbmFsbHkKICAgICAgICAgKC5jbG9zZVN5bmMgY2xqcy1tYWRlLWVhc3kubGluZS1zZXEvZnMgfihiaW5kaW5ncyAwKSkpKSkpCgo7Oy0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
