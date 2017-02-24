@@ -71,6 +71,9 @@
   <action id=":cursive.actions.paredit/slurp-forwards">
     <keyboard-shortcut first-keystroke="shift alt 0" />
   </action>
+  <action id=":cursive.actions.paredit/splice-killing-backwards">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
   <action id=":cursive.actions.paredit/splice-killing-forwards">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
