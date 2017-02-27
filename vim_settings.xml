@@ -934,12 +934,12 @@
         <mark key="." line="4" column="4" />
         <mark key="^" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-work-item-form.html" timestamp="1488205517783">
-        <mark key="'" line="7" column="10" />
-        <mark key="[" line="43" column="9" />
-        <mark key="]" line="43" column="34" />
-        <mark key="." line="43" column="34" />
-        <mark key="^" line="43" column="34" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-work-item-form.html" timestamp="1488207422637">
+        <mark key="'" line="39" column="26" />
+        <mark key="[" line="39" column="15" />
+        <mark key="]" line="39" column="16" />
+        <mark key="." line="39" column="16" />
+        <mark key="^" line="39" column="16" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/clojure/google-closure-library/0.0-20160609-f42b4a24/google-closure-library-0.0-20160609-f42b4a24.jar!/goog/events/keycodes.js" timestamp="1488056760890">
         <mark key="'" line="424" column="0" />
@@ -971,7 +971,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-new-work-item-form.js" />
       <jump line="28" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-new-work-item-form.js" />
       <jump line="51" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-new-work-item-form.js" />
       <jump line="67" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-feed-work-item.js" />
@@ -1071,52 +1070,53 @@
       <jump line="44" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/main-core.scss" />
       <jump line="50" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/main-core.scss" />
       <jump line="251" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/main-core.scss" />
+      <jump line="38" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-work-item-form.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>ng</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>workItem.duration.presentation</text>
+        <text>ng</text>
       </register>
       <register name="/" type="4">
         <text>relative</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IgogICAgICAgICAgIHJlcXVpcmVkCiAgICAgICAgICAgY2xhc3M9InJpbmctaW5wdXQgcmluZy1pbnB1dC1zaXplX3hzIgogICAgICAgICAgIG5hbWU9ImR1cmF0aW9uIgogICAgICAgICAgIG5nLW1vZGVsPSJ5dFdvcmtJdGVtRm9ybUN0cmwud29ya0l0ZW0uZHVyYXRpb24ucHJlc2VudGF0aW9uIj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgIG5nLWNoYW5nZT0ieXRXb3JrSXRlbUZvcm1DdHJsLl9vbkNoYW5nZSgkZXZlbnQpIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IgogICAgICAgICAgIHJlcXVpcmVkCiAgICAgICAgICAgY2xhc3M9InJpbmctaW5wdXQgcmluZy1pbnB1dC1zaXplX3hzIgogICAgICAgICAgIG5hbWU9ImR1cmF0aW9uIgogICAgICAgICAgIG5nLW1vZGVsPSJ5dFdvcmtJdGVtRm9ybUN0cmwud29ya0l0ZW0uZHVyYXRpb24ucHJlc2VudGF0aW9uIj4KICAgIDxkaXYgcmctZXJyb3ItYnViYmxlPSJ3b3JrSXRlbUZvcm0uZHVyYXRpb24iPjwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgIG4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PGZvcm0+CiAgPGlucHV0IHR5cGU9InRleHQiCiAgICAgICAgIHJlcXVpcmVkCiAgICAgICAgIG5hbWU9ImZvbyIKICAgICAgICAgbmctbW9kZWw9Inl0V29ya0l0ZW1Gb3JtQ3RybC5mb28iPgo8L2Zvcm0+Cg==</text>
+        <text encoding="base64">ICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IgogICAgICAgICAgIHJlcXVpcmVkCiAgICAgICAgICAgY2xhc3M9InJpbmctaW5wdXQgcmluZy1pbnB1dC1zaXplX3hzIgogICAgICAgICAgIG5hbWU9ImR1cmF0aW9uIgogICAgICAgICAgIG5nLW1vZGVsPSJ5dFdvcmtJdGVtRm9ybUN0cmwud29ya0l0ZW0uZHVyYXRpb24ucHJlc2VudGF0aW9uIj4KICAgIDxkaXYgcmctZXJyb3ItYnViYmxlPSJ3b3JrSXRlbUZvcm0uZHVyYXRpb24iPjwvZGl2Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PGlucHV0IHR5cGU9InRleHQiCiAgICAgICByZXF1aXJlZAogICAgICAgbmFtZT0iZm9vIgogICAgICAgbmctbW9kZWw9Inl0V29ya0l0ZW1Gb3JtQ3RybC5mb28iPgo=</text>
+        <text encoding="base64">PGZvcm0+CiAgPGlucHV0IHR5cGU9InRleHQiCiAgICAgICAgIHJlcXVpcmVkCiAgICAgICAgIG5hbWU9ImZvbyIKICAgICAgICAgbmctbW9kZWw9Inl0V29ya0l0ZW1Gb3JtQ3RybC5mb28iPgo8L2Zvcm0+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IgogICAgICAgICAgIHJlcXVpcmVkCiAgICAgICAgICAgbmFtZT0iZm9vIgogICAgICAgICAgIG5nLW1vZGVsPSJ5dFdvcmtJdGVtRm9ybUN0cmwuZm9vIj4K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICBjbGFzcz0icmluZy1pbnB1dCByaW5nLWlucHV0LXNpemVfeHMiCg==</text>
+        <text encoding="base64">PGlucHV0IHR5cGU9InRleHQiCiAgICAgICByZXF1aXJlZAogICAgICAgbmFtZT0iZm9vIgogICAgICAgbmctbW9kZWw9Inl0V29ya0l0ZW1Gb3JtQ3RybC5mb28iPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICByZXF1aXJlZD0icmVxdWlyZWQiCg==</text>
+        <text encoding="base64">ICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IgogICAgICAgICAgIHJlcXVpcmVkCiAgICAgICAgICAgbmFtZT0iZm9vIgogICAgICAgICAgIG5nLW1vZGVsPSJ5dFdvcmtJdGVtRm9ybUN0cmwuZm9vIj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
