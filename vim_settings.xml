@@ -394,10 +394,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/directive/yt-header.js" timestamp="1485258175710">
         <mark key="'" line="47" column="56" />
       </file>
-      <file name="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" timestamp="1488238626389">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" timestamp="1488240465709">
+        <mark key="'" line="18" column="7" />
+        <mark key="[" line="27" column="16" />
+        <mark key="]" line="27" column="17" />
+        <mark key="." line="27" column="17" />
+        <mark key="^" line="27" column="17" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/watch-folder/service/notification-rule-types.js" timestamp="1486039765818">
         <mark key="'" line="87" column="2" />
@@ -825,8 +827,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="6" filename="/private/tmp/foo/src/foo/core.cljs" />
-      <jump line="38" column="0" filename="/private/tmp/foo/src/foo/core.cljs" />
       <jump line="9" column="0" filename="/private/tmp/foo/src/foo/core.cljs" />
       <jump line="33" column="13" filename="$MAVEN_REPOSITORY$/org/clojure/google-closure-library/0.0-20160609-f42b4a24/google-closure-library-0.0-20160609-f42b4a24.jar!/goog/dom/dom.js" />
       <jump line="2986" column="0" filename="$MAVEN_REPOSITORY$/org/clojure/google-closure-library/0.0-20160609-f42b4a24/google-closure-library-0.0-20160609-f42b4a24.jar!/goog/dom/dom.js" />
@@ -925,52 +925,54 @@
       <jump line="10" column="0" filename="$USER_HOME$/www/clojure/foo/scripts/brepl.clj" />
       <jump line="0" column="0" filename="$USER_HOME$/www/clojure/foo/scripts/brepl.clj" />
       <jump line="14" column="11" filename="$USER_HOME$/www/clojure/foo/scripts/brepl.clj" />
+      <jump line="12" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
+      <jump line="18" column="7" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>0.1</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>?fields=id</text>
+        <text>0.1</text>
       </register>
       <register name="/" type="4">
         <text>par</text>
       </register>
       <register name="0" type="4">
-        <text>:parallel-build</text>
+        <text>interest</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAoZXJyb3IpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KCsgMSAxKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KCsgMSAxKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">KHByaW50bG4gIkhlbGxvIHdvcmxkISIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KHByaW50bG4gIkhlbGxvIHdvcmxkISIpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KGVuYWJsZS1jb25zb2xlLXByaW50ISkK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">KGVuYWJsZS1jb25zb2xlLXByaW50ISkK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">OzsgKGRlZm9uY2UgY29ubgo7OyAgIChyZXBsL2Nvbm5lY3QgImh0dHA6Ly9sb2NhbGhvc3Q6OTAwMC9yZXBsIikpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAiIC0gIgo=</text>
+        <text encoding="base64">OzsgKGRlZm9uY2UgY29ubgo7OyAgIChyZXBsL2Nvbm5lY3QgImh0dHA6Ly9sb2NhbGhvc3Q6OTAwMC9yZXBsIikpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
