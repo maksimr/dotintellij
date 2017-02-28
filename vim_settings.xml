@@ -59,6 +59,12 @@
       <file name="$USER_HOME$/www/js/qrcode/app/scripts/main.js" timestamp="1485527210095">
         <mark key="'" line="300" column="6" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/test/e2e/issue.spec.js" timestamp="1488282765618">
+        <mark key="'" line="52" column="30" />
+        <mark key="[" line="106" column="0" />
+        <mark key="]" line="106" column="0" />
+        <mark key="." line="106" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/test/e2e/e2e-test-utils.js" timestamp="1487781511052">
         <mark key="'" line="17" column="0" />
       </file>
@@ -387,12 +393,11 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/directive/yt-header.js" timestamp="1485258175710">
         <mark key="'" line="47" column="56" />
       </file>
-      <file name="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" timestamp="1488321769837">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="24" column="21" />
+      <file name="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" timestamp="1488323226578">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/watch-folder/service/notification-rule-types.js" timestamp="1486039765818">
         <mark key="'" line="87" column="2" />
@@ -856,11 +861,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/time-tracking/service/minutes-to-period-field-value-presentation.js" />
-      <jump line="47" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/time-tracking/service/minutes-to-period-field-value-presentation.js" />
-      <jump line="38" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/time-tracking/service/minutes-to-period-field-value-presentation.js" />
-      <jump line="30" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/time-tracking/service/minutes-to-period-field-value-presentation.js" />
-      <jump line="27" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/time-tracking/service/minutes-to-period-field-value-presentation.js" />
       <jump line="24" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/time-tracking/service/minutes-to-period-field-value-presentation.js" />
       <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/user/user.js" />
       <jump line="156" column="27" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/profile/directive/user-profile-general.js" />
@@ -944,18 +944,23 @@
       <jump line="54" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
       <jump line="2" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
       <jump line="46" column="5" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
       <jump line="50" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
       <jump line="1" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
       <jump line="64" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
       <jump line="57" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
-      <jump line="3" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
       <jump line="10" column="1" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
-      <jump line="7" column="19" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
-      <jump line="6" column="31" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
       <jump line="5" column="30" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
       <jump line="13" column="32" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
       <jump line="12" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
+      <jump line="25" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
+      <jump line="6" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
+      <jump line="32" column="1" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
+      <jump line="7" column="2" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
+      <jump line="35" column="9" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
+      <jump line="26" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -965,13 +970,13 @@
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>drop-last</text>
+        <text>, c</text>
       </register>
       <register name="/" type="4">
         <text>ug</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="0" type="4">
+        <text>(lcg 0 4 1 9)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -983,22 +988,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KGNvdW50IChyYW5nZSAxIDUzKSkK</text>
+        <text encoding="base64">KHByaW50bG4gKGxjZyAwIDQgMSA5KSkK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZWNrIChyYW5nZSAxIDUzKQo=</text>
+        <text encoding="base64">KGRlZm4gbGNnIFtzZWVkIGEgYyBtXQogIChtb2QgKCsgKCogYSBzZWVkKSBjKSBtKSkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2QK</text>
+        <text encoding="base64">KGRlZm4gbXktcmFuZG9tIFtdCiAgKGxldCBbc2VlZCAoYXRvbSAwKV0KICAgIChkbwogICAgICAobGNnIEBzZWVkIDQgMSA5KSkpKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
