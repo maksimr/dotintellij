@@ -425,11 +425,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/directive/yt-header.js" timestamp="1485258175710">
         <mark key="'" line="47" column="56" />
       </file>
-      <file name="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" timestamp="1488409866386">
-        <mark key="'" line="18" column="14" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" timestamp="1488411682429">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="3" column="20" />
+        <mark key="]" line="3" column="20" />
+        <mark key="^" line="3" column="20" />
+        <mark key="." line="3" column="20" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/watch-folder/service/notification-rule-types.js" timestamp="1486039765818">
         <mark key="'" line="87" column="2" />
@@ -905,23 +906,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="459" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-feed.js" />
-      <jump line="241" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/issue-resource.js" />
-      <jump line="234" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/issue-resource.js" />
-      <jump line="217" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/issue-resource.js" />
-      <jump line="527" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/issue-resource.js" />
-      <jump line="517" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/issue-resource.js" />
-      <jump line="439" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/issue-resource.js" />
-      <jump line="48" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-work-item-form.js" />
-      <jump line="103" column="37" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/create-issue-work-item-draft.js" />
-      <jump line="104" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/create-issue-work-item-draft.js" />
-      <jump line="107" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/create-issue-work-item-draft.js" />
-      <jump line="117" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/create-issue-work-item-draft.js" />
-      <jump line="123" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/create-issue-work-item-draft.js" />
-      <jump line="126" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/create-issue-work-item-draft.js" />
-      <jump line="133" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/create-issue-work-item-draft.js" />
-      <jump line="136" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/create-issue-work-item-draft.js" />
-      <jump line="140" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/create-issue-work-item-draft.js" />
       <jump line="154" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/create-issue-work-item-draft.js" />
       <jump line="84" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/create-issue-work-item-draft.js" />
       <jump line="87" column="63" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/create-issue-work-item-draft.js" />
@@ -997,60 +981,77 @@
       <jump line="124" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-work-item-form.js" />
       <jump line="11" column="18" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
       <jump line="27" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
-      <jump line="2" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
-      <jump line="13" column="37" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
       <jump line="8" column="38" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
-      <jump line="7" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
-      <jump line="12" column="14" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
       <jump line="6" column="1" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
       <jump line="5" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
-      <jump line="18" column="14" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
+      <jump line="13" column="4" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
+      <jump line="12" column="15" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
+      <jump line="9" column="7" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
+      <jump line="4" column="8" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
+      <jump line="16" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
+      <jump line="18" column="2" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
+      <jump line="20" column="28" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
+      <jump line="32" column="14" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
+      <jump line="21" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
+      <jump line="28" column="3" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
+      <jump line="37" column="2" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
+      <jump line="31" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
+      <jump line="25" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
+      <jump line="14" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
+      <jump line="38" column="2" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
+      <jump line="40" column="2" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
+      <jump line="17" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
+      <jump line="35" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
+      <jump line="43" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
+      <jump line="7" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">KCgnYSAnYikgKCgoJ2IgJ2cgJ3IpICgnZiAncikpICdjICgnZCAnZSkpICdiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>('a 'b)</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
-      <register name="0" type="4">
-        <text>(('a 'b) ((('b 'g 'r) ('f 'r)) 'c ('d 'e)) 'b)</text>
+      <register name="0" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KCgnYSAnYikgKCgoJ2IgJ2cgJ3IpICgnZiAncikpICdjICgnZCAnZSkpICdiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bXktdHJlZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KCgnYSAnYikgKCgoJ2IgJ2cgJ3IpICgnZiAncikpICdjICgnZCAnZSkpICdiKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">JygnYSAnYikK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">KD0KICAobXktZmxhdHRlbi1hY2MKICAgIChsaXN0IChsaXN0ICdhICdiKSAobGlzdCAobGlzdCAobGlzdCAnYiAnZyAncikgKGxpc3QgJ2YgJ3IpKSAnYyAobGlzdCAnZCAnZSkpICdiKSkKICAobGlzdCAnYSAnYiAnYiAnZyAnciAnZiAnciAnYyAnZCAnZSAnYikpCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">KGxpc3QgJ2EgJ2IgJ2MpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CihkZWZuIG15LWZsYXR0ZW4tZXhwcmVzc2lvbiBbeF0KICAoaWYgKHN5bWJvbD8geCkKICAgIChsaXN0IHgpCiAgICAobXktZmxhdHRlbiB4KSkpCg==</text>
+        <text encoding="base64">KGRlZm4gbXktZmxhdHRlbiBbY29sXQogIChsZXQgW215LWZsYXR0ZW4tZXhwcmVzc2lvbiAoZm4gW3hdCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKGlmIChzeW1ib2w/IHgpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAobGlzdCB4KQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgKG15LWZsYXR0ZW4geCkpKV0KICAgIChpZiAoZW1wdHk/IGNvbCkKICAgICAgY29sCiAgICAgIChjb25jYXQKICAgICAgICAobXktZmxhdHRlbi1leHByZXNzaW9uIChmaXJzdCBjb2wpKQogICAgICAgIChteS1mbGF0dGVuIChyZXN0IGNvbCkpKSkpKQoKCihkZWZuIG15LWZsYXR0ZW4tYWNjIFtjb2xdCiAgKGxldGZuIFsKICAgICAgICAgIChteS1mbGF0dGVuLWV4cHJlc3Npb24gW3ggYWNjXQogICAgICAgICAgICAoaWYgKHN5bWJvbD8geCkKICAgICAgICAgICAgICAoY29ucyB4IGFjYykKICAgICAgICAgICAgICAobXktZmxhdHRlbi1pdGVyIHggYWNjKSkpCgogICAgICAgICAgKG15LWZsYXR0ZW4taXRlciBbY29sIGFjY10KICAgICAgICAgICAgKGlmIChlbXB0eT8gY29sKQogICAgICAgICAgICAgIGFjYwogICAgICAgICAgICAgIChyZWN1ciAocmVzdCBjb2wpCiAgICAgICAgICAgICAgICAgICAgIChteS1mbGF0dGVuLWV4cHJlc3Npb24gKGZpcnN0IGNvbCkgYWNjKSkpKQogICAgICAgICAgXQogICAgKHJldmVyc2UgKG15LWZsYXR0ZW4taXRlciBjb2wgJygpKSkpKQoKCig9CiAgKG15LWZsYXR0ZW4KICAgIChsaXN0IChsaXN0ICdhICdiKSAobGlzdCAobGlzdCAobGlzdCAnYiAnZyAncikgKGxpc3QgJ2YgJ3IpKSAnYyAobGlzdCAnZCAnZSkpICdiKSkKICAobGlzdCAnYSAnYiAnYiAnZyAnciAnZiAnciAnYyAnZCAnZSAnYikpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
