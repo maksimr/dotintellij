@@ -425,12 +425,11 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/directive/yt-header.js" timestamp="1485258175710">
         <mark key="'" line="47" column="56" />
       </file>
-      <file name="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" timestamp="1488405547748">
-        <mark key="'" line="8" column="38" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="^" line="3" column="4" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" timestamp="1488409866386">
+        <mark key="'" line="18" column="14" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/watch-folder/service/notification-rule-types.js" timestamp="1486039765818">
         <mark key="'" line="87" column="2" />
@@ -906,11 +905,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="164" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issue-comments-draft.js" />
-      <jump line="180" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issue-comments-draft.js" />
-      <jump line="452" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-feed.js" />
-      <jump line="453" column="34" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-feed.js" />
-      <jump line="454" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-feed.js" />
       <jump line="459" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-feed.js" />
       <jump line="241" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/issue-resource.js" />
       <jump line="234" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/issue-resource.js" />
@@ -1006,25 +1000,30 @@
       <jump line="2" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
       <jump line="13" column="37" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
       <jump line="8" column="38" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
+      <jump line="7" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
+      <jump line="12" column="14" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
+      <jump line="6" column="1" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
+      <jump line="5" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
+      <jump line="18" column="14" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KCgnYSAnYikgKCgoJ2IgJ2cgJ3IpICgnZiAncikpICdjICgnZCAnZSkpICdiKQo=</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>head</text>
+        <text>('a 'b)</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="0" type="4">
+        <text>(('a 'b) ((('b 'g 'r) ('f 'r)) 'c ('d 'e)) 'b)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KCgnYSAnYikgKCgoJ2IgJ2cgJ3IpICgnZiAncikpICdjICgnZCAnZSkpICdiKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1033,25 +1032,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KCgnYSAnYikgKCgoJ2IgJ2cgJ3IpICgnZiAncikpICdjICgnZCAnZSkpICdiKSkK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">JygnYSAnYikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">KGxpc3QgJ2EgJ2IgJ2MpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">KGRlZm4gbXktZmxhdHRlbiBbY29sXSkgCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">CihkZWZuIG15LWZsYXR0ZW4tZXhwcmVzc2lvbiBbeF0KICAoaWYgKHN5bWJvbD8geCkKICAgIChsaXN0IHgpCiAgICAobXktZmxhdHRlbiB4KSkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
