@@ -406,8 +406,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/event/directive/yt-event-command-dialog.js" timestamp="1484576649790">
         <mark key="'" line="23" column="16" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/watch-folder/test/directive/yt-tag-color-icon.js" timestamp="1487782774018">
-        <mark key="'" line="15" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/watch-folder/test/directive/yt-tag-color-icon.js" timestamp="1488457487446">
+        <mark key="'" line="40" column="31" />
       </file>
       <file name="/Dummy.txt" timestamp="1488457263439">
         <mark key="[" line="0" column="0" />
@@ -930,8 +930,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="300" column="17" filename="$MAVEN_REPOSITORY$/org/clojure/google-closure-library/0.0-20160609-f42b4a24/google-closure-library-0.0-20160609-f42b4a24.jar!/goog/events/events.js" />
-      <jump line="302" column="21" filename="$MAVEN_REPOSITORY$/org/clojure/google-closure-library/0.0-20160609-f42b4a24/google-closure-library-0.0-20160609-f42b4a24.jar!/goog/events/events.js" />
       <jump line="338" column="0" filename="$MAVEN_REPOSITORY$/org/clojure/google-closure-library/0.0-20160609-f42b4a24/google-closure-library-0.0-20160609-f42b4a24.jar!/goog/events/events.js" />
       <jump line="964" column="4" filename="$MAVEN_REPOSITORY$/org/clojure/google-closure-library/0.0-20160609-f42b4a24/google-closure-library-0.0-20160609-f42b4a24.jar!/goog/events/events.js" />
       <jump line="12" column="4" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
@@ -1030,6 +1028,8 @@
       <jump line="10" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-work-item-form.html" />
       <jump line="106" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-work-item-form.js" />
       <jump line="31" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-work-item-form.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/watch-folder/test/directive/yt-tag-color-icon.js" />
+      <jump line="40" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/watch-folder/test/directive/yt-tag-color-icon.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1042,7 +1042,7 @@
         <text encoding="base64">ICYmICF5dFdvcmtJdGVtRm9ybUN0cmwuaXNEcmFmdCh5dFdvcmtJdGVtRm9ybUN0cmwud29ya0l0ZW0p</text>
       </register>
       <register name="/" type="4">
-        <text>draft</text>
+        <text>css class</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Cg==</text>
@@ -1082,9 +1082,9 @@
       </register>
     </registers>
     <search>
-      <last-search>draft</last-search>
+      <last-search>css class</last-search>
       <last-offset />
-      <last-pattern>draft</last-pattern>
+      <last-pattern>css class</last-pattern>
       <last-replace>yt-issue-feed-item</last-replace>
       <last-substitute>yt-issue-comment</last-substitute>
       <last-dir>1</last-dir>
@@ -1092,7 +1092,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYXJzZVw+</entry>
         <entry encoding="base64">XDxsaXN0ZW5cPg==</entry>
         <entry>once</entry>
         <entry>listenOnce</entry>
@@ -1112,6 +1111,7 @@
         <entry>promise</entry>
         <entry encoding="base64">XDxnZXRMaXN0T2ZBdmFpbGFibGVUb0FkZFByb2plY3RzXD4=</entry>
         <entry>draft</entry>
+        <entry>css class</entry>
       </history-search>
       <history-cmd>
         <entry>39</entry>
