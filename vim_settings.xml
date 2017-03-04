@@ -3,7 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/www/clojure/foo/index.html" timestamp="1488417903742">
+      <file name="$USER_HOME$/www/clojure/foo/index.html" timestamp="1488627407793">
+        <mark key="'" line="10" column="0" />
         <mark key="[" line="7" column="21" />
         <mark key="]" line="7" column="21" />
         <mark key="^" line="7" column="21" />
@@ -210,7 +211,7 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/REPL.clj" timestamp="1488566143937">
+      <file name="/REPL.clj" timestamp="1488627344573">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-hub/webpack.embedded.config.js" timestamp="1488469702148">
@@ -300,8 +301,8 @@
         <mark key="]" line="236" column="0" />
         <mark key="." line="236" column="0" />
       </file>
-      <file name="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" timestamp="1488623270277">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" timestamp="1488627694435">
+        <mark key="'" line="60" column="25" />
         <mark key="[" line="43" column="36" />
         <mark key="]" line="43" column="34" />
         <mark key="." line="43" column="34" />
@@ -323,9 +324,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="41" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dropdown/service/create-custom-dropdown-template.js" />
-      <jump line="49" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dropdown/service/create-custom-dropdown-template.js" />
-      <jump line="65" column="32" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dropdown/service/create-custom-dropdown-template.js" />
       <jump line="34" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dropdown/service/create-custom-dropdown-template.js" />
       <jump line="58" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dropdown/service/create-custom-dropdown-template.js" />
       <jump line="88" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dropdown/service/create-custom-dropdown-template.js" />
@@ -334,7 +332,6 @@
       <jump line="97" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dropdown/service/create-custom-dropdown-template.js" />
       <jump line="127" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/test/e2e/issue.spec.js" />
       <jump line="17" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
-      <jump line="15" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
       <jump line="40" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
       <jump line="20" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
       <jump line="5" column="12" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
@@ -383,7 +380,6 @@
       <jump line="65" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
       <jump line="61" column="30" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
       <jump line="21" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
-      <jump line="68" column="14" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
       <jump line="79" column="39" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
       <jump line="82" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
       <jump line="89" column="11" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
@@ -408,7 +404,6 @@
       <jump line="1" column="4" filename="$USER_HOME$/www/clojure/foo/src/foo/fields_query.cljs" />
       <jump line="13" column="8" filename="$USER_HOME$/www/clojure/foo/src/foo/fields_query.cljs" />
       <jump line="14" column="6" filename="$USER_HOME$/www/clojure/foo/src/foo/fields_query.cljs" />
-      <jump line="60" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
       <jump line="22" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
       <jump line="53" column="48" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
       <jump line="26" column="29" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
@@ -421,8 +416,14 @@
       <jump line="25" column="13" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
       <jump line="47" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
       <jump line="14" column="26" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
-      <jump line="81" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
       <jump line="0" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
+      <jump line="68" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
+      <jump line="81" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
+      <jump line="8" column="35" filename="$USER_HOME$/www/clojure/foo/index.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/clojure/foo/index.html" />
+      <jump line="10" column="0" filename="$USER_HOME$/www/clojure/foo/index.html" />
+      <jump line="15" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
+      <jump line="60" column="25" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
