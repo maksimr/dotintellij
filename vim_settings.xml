@@ -43,8 +43,8 @@
         <mark key="." line="113" column="83" />
         <mark key="^" line="113" column="83" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1488802690410">
-        <mark key="'" line="120" column="5" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1488816807080">
+        <mark key="'" line="102" column="10" />
         <mark key="[" line="104" column="0" />
         <mark key="]" line="104" column="0" />
         <mark key="." line="104" column="0" />
@@ -62,8 +62,8 @@
         <mark key="." line="92" column="23" />
         <mark key="^" line="92" column="23" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/e2e/agile-board.spec.js" timestamp="1488811152648">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/e2e/agile-board.spec.js" timestamp="1488816678411">
+        <mark key="'" line="30" column="1" />
         <mark key="[" line="22" column="3" />
         <mark key="]" line="22" column="1" />
         <mark key="^" line="22" column="1" />
@@ -390,17 +390,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
-      <jump line="26" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
-      <jump line="27" column="75" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
-      <jump line="35" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
-      <jump line="40" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
-      <jump line="41" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
-      <jump line="2" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
-      <jump line="8" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
-      <jump line="286" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
-      <jump line="10" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
       <jump line="87" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/webpack.config.js" />
       <jump line="126" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/node_modules/ring-hub/webpack.embedded.config.js" />
       <jump line="10" column="34" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/hub/webpack.config.js" />
@@ -490,6 +479,17 @@
       <jump line="250" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/e2e/agile-board.spec.js" />
       <jump line="234" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/e2e/agile-board.spec.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/e2e/agile-board.spec.js" />
+      <jump line="30" column="1" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/e2e/agile-board.spec.js" />
+      <jump line="121" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="91" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="136" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="137" column="107" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="145" column="100" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="150" column="61" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="151" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="152" column="68" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="102" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -502,7 +502,7 @@
         <text>element(by.dataTest('ring-dialog'))</text>
       </register>
       <register name="/" type="4">
-        <text>fdes</text>
+        <text>hub</text>
       </register>
       <register name="0" type="4">
         <text>element(by.dataTest('ring-dialog'))</text>
@@ -542,9 +542,9 @@
       </register>
     </registers>
     <search>
-      <last-search>fdes</last-search>
+      <last-search>hub</last-search>
       <last-offset />
-      <last-pattern>fdes</last-pattern>
+      <last-pattern>hub</last-pattern>
       <last-replace>yt-issue-feed-item</last-replace>
       <last-substitute>yt-issue-comment</last-substitute>
       <last-dir>1</last-dir>
@@ -552,7 +552,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mount</entry>
         <entry encoding="base64">XDxtb3VudFRvSHViXD4=</entry>
         <entry>loader</entry>
         <entry>loaders</entry>
@@ -572,6 +571,7 @@
         <entry encoding="base64">XDxhZ2lsZUJvYXJkUHJvamVjdHNJbnB1dEVsbWVudFw+</entry>
         <entry>fit</entry>
         <entry>fdes</entry>
+        <entry>hub</entry>
       </history-search>
       <history-cmd>
         <entry>47</entry>
