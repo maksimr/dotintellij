@@ -371,12 +371,12 @@
         <mark key="." line="2" column="33" />
         <mark key="^" line="2" column="33" />
       </file>
-      <file name="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" timestamp="1488911790718">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="53" column="43" />
-        <mark key="]" line="50" column="56" />
-        <mark key="." line="53" column="53" />
-        <mark key="^" line="50" column="56" />
+      <file name="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" timestamp="1488912430507">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="100" column="28" />
+        <mark key="]" line="100" column="36" />
+        <mark key="^" line="100" column="36" />
+        <mark key="." line="100" column="36" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dropdown/test/service/yt-dropdown.js" timestamp="1488899208777">
         <mark key="'" line="33" column="1" />
@@ -404,8 +404,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dropdown/test/service/yt-dropdown.js" />
-      <jump line="126" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dropdown/test/service/yt-dropdown.js" />
       <jump line="148" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/popup/popup.js" />
       <jump line="326" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/popup/popup.js" />
       <jump line="328" column="46" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/popup/popup.js" />
@@ -444,7 +442,6 @@
       <jump line="2" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
       <jump line="83" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
       <jump line="43" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
-      <jump line="55" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
       <jump line="84" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
       <jump line="86" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
       <jump line="45" column="33" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
@@ -504,10 +501,13 @@
       <jump line="78" column="24" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
       <jump line="75" column="10" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
       <jump line="0" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
+      <jump line="55" column="36" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
+      <jump line="26" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
+      <jump line="30" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>issue</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -519,37 +519,37 @@
         <text>search-box</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgOmNsYXNzICg6aXNzdWUgaXNzdWUtc3R5bGUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KCkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICBbXQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICckcScsCiAgICAnJGh0dHAnLAogICAgJ3l0VXRpbHMnLAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">dmFyIFBvcHVwID0gcmVxdWlyZSgncmluZy11aS9jb21wb25lbnRzL3BvcHVwL3BvcHVwJyk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICByZXF1aXJlKCcuLi9wb3B1cC9wb3B1cCcpLm5hbWUK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">KCkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICBbXQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICckcScsCiAgICAnJGh0dHAnLAogICAgJ3l0VXRpbHMnLAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">dmFyIFBvcHVwID0gcmVxdWlyZSgncmluZy11aS9jb21wb25lbnRzL3BvcHVwL3BvcHVwJyk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICByZXF1aXJlKCcuLi9wb3B1cC9wb3B1cCcpLm5hbWUK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvKioKICAgKiBOQiEgRG8gbm90IGluamVjdCBoZXJlIGFueSBkZXBzIHRoYXQgcmVxdWlyZXMgYXBwL2NvbXBvbmVudHMvY29uZmlnL2NvbmZpZy5qcyBtb2R1bGUKICAgKiBJdCB3aWxsIGJyb2tlIGJ1aWx0LWluIEh1YgogICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
