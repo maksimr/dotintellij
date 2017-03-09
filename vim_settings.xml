@@ -10,10 +10,6 @@
         <mark key="^" line="4" column="7" />
         <mark key="." line="4" column="7" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/test/icon.js" timestamp="1488893383471">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="3" column="4" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/org/clojure/google-closure-library/0.0-20160609-f42b4a24/google-closure-library-0.0-20160609-f42b4a24.jar!/goog/net/xhrio.js" timestamp="1488911155618">
         <mark key="'" line="572" column="65" />
       </file>
@@ -238,8 +234,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/style/agile-board.scss" timestamp="1488796481414">
         <mark key="'" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" timestamp="1488886187389">
-        <mark key="'" line="102" column="66" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" timestamp="1489058169134">
+        <mark key="'" line="171" column="24" />
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="6" />
+        <mark key="." line="6" column="6" />
+        <mark key="^" line="6" column="6" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-hub/project-wizard/pages/project-info/project-info.scss" timestamp="1488467111687">
         <mark key="'" line="99" column="0" />
@@ -410,12 +410,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
-      <jump line="14" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/popup/popup.js" />
-      <jump line="7" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/popup/popup.js" />
-      <jump line="434" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/popup/popup.js" />
-      <jump line="100" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
-      <jump line="123" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
       <jump line="26" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
       <jump line="8" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
       <jump line="2" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
@@ -510,19 +504,25 @@
       <jump line="80" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
       <jump line="82" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
       <jump line="13" column="23" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
+      <jump line="102" column="82" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
+      <jump line="10" column="43" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
+      <jump line="167" column="35" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
+      <jump line="168" column="86" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
+      <jump line="171" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IFt2NS41LjBd</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>foo.truncate</text>
+        <text encoding="base64">IFt2NS41LjBd</text>
       </register>
       <register name="/" type="4">
-        <text>debounce</text>
+        <text>node</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Cg==</text>
@@ -562,9 +562,9 @@
       </register>
     </registers>
     <search>
-      <last-search>debounce</last-search>
+      <last-search>node</last-search>
       <last-offset />
-      <last-pattern>debounce</last-pattern>
+      <last-pattern>node</last-pattern>
       <last-replace>yt-issue-feed-item</last-replace>
       <last-substitute>yt-issue-comment</last-substitute>
       <last-dir>1</last-dir>
@@ -572,7 +572,6 @@
     </search>
     <history>
       <history-search>
-        <entry>posta</entry>
         <entry>ring-ui</entry>
         <entry>uri</entry>
         <entry>encode</entry>
@@ -592,6 +591,7 @@
         <entry encoding="base64">XDx0cnVuY2F0ZVw+</entry>
         <entry>trunca</entry>
         <entry>debounce</entry>
+        <entry>node</entry>
       </history-search>
       <history-cmd>
         <entry>133</entry>
