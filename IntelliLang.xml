@@ -201,6 +201,14 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-create")).withParent(xmlTag().withLocalName(string().equalTo("yt-custom-field-create-form")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-date-picker/@on-day-click</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-day-click")).withParent(xmlTag().withLocalName(string().equalTo("yt-date-picker")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-date-picker/@selected-fn</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("selected-fn")).withParent(xmlTag().withLocalName(string().equalTo("yt-date-picker")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>yt-issue-custom-field/@on-change-field-value</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-change-field-value")).withParent(xmlTag().withLocalName(string().equalTo("yt-issue-custom-field")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
