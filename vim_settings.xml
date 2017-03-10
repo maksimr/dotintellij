@@ -334,10 +334,10 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/command-dialog.js" timestamp="1489064347938">
         <mark key="'" line="40" column="2" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/admin.js" timestamp="1489153201653">
-        <mark key="'" line="491" column="0" />
-        <mark key="[" line="156" column="0" />
-        <mark key="]" line="158" column="8" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/admin.js" timestamp="1489160866896">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="77" column="30" />
+        <mark key="]" line="77" column="47" />
         <mark key="." line="156" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dropdown/test/service/yt-dropdown.js" timestamp="1488899208777">
@@ -410,7 +410,6 @@
       <jump line="42" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/workflow/toolbar.html" />
       <jump line="31" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/service/workflows/remove-workflow.js" />
       <jump line="7" column="38" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/service/workflows/remove-workflow.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/admin.js" />
       <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/confirm-ng/confirm-ng.js" />
       <jump line="35" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/confirm-ng/confirm-ng.js" />
       <jump line="6" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/confirm-service/confirm-service.js" />
@@ -477,10 +476,11 @@
       <jump line="146" column="41" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
       <jump line="150" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
       <jump line="12" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/admin.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJyaW5nLWh1YiI6ICIyMDE3LjEuNDcxMSIsCg==</text>
+      <register name="&quot;" type="4">
+        <text>hub.low-level-read</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -489,10 +489,10 @@
         <text encoding="base64">KG5wbSBpbmZvIHJpbmctaHViIHwgZ3JlcCBcInZlcnNpb246ICckKC4vc2NyaXB0L2h1Yi12ZXJzaW9uKSdcIikgfHwg</text>
       </register>
       <register name="/" type="4">
-        <text>test</text>
+        <text>workflow</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICJwb3N0aW5zdGFsbCI6ICJucG0gaW5zdGFsbCByaW5nLWh1YkAkKC4vc2NyaXB0L2h1Yi12ZXJzaW9uKSIsCg==</text>
+      <register name="0" type="4">
+        <text>hub.low-level-read</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICJyaW5nLWh1YiI6ICIyMDE3LjEuNDcxMSIsCg==</text>
@@ -529,9 +529,9 @@
       </register>
     </registers>
     <search>
-      <last-search>test</last-search>
+      <last-search>workflow</last-search>
       <last-offset />
-      <last-pattern>test</last-pattern>
+      <last-pattern>workflow</last-pattern>
       <last-replace>yt-issue-feed-item</last-replace>
       <last-substitute>yt-issue-comment</last-substitute>
       <last-dir>1</last-dir>
@@ -539,7 +539,6 @@
     </search>
     <history>
       <history-search>
-        <entry>export</entry>
         <entry>confirm</entry>
         <entry>key</entry>
         <entry>close</entry>
@@ -559,6 +558,7 @@
         <entry>pre</entry>
         <entry>ring-hub</entry>
         <entry>test</entry>
+        <entry>workflow</entry>
       </history-search>
       <history-cmd>
         <entry>133</entry>
