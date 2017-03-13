@@ -260,6 +260,12 @@
         <mark key="^" line="3" column="78" />
         <mark key="." line="3" column="78" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" timestamp="1489404491808">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="227" column="0" />
+        <mark key="]" line="227" column="0" />
+        <mark key="." line="227" column="0" />
+      </file>
       <file name="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" timestamp="1489180326643">
         <mark key="'" line="85" column="0" />
         <mark key="[" line="44" column="44" />
@@ -315,7 +321,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="143" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/admin.js" />
       <jump line="151" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/admin.js" />
       <jump line="160" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/admin.js" />
       <jump line="491" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/admin.js" />
@@ -415,22 +420,23 @@
       <jump line="83" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
       <jump line="80" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-custom-field-complex.js" />
       <jump line="319" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-custom-field-complex.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>a</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>YO</text>
       </register>
       <register name="/" type="4">
         <text>debou</text>
       </register>
-      <register name="0" type="4">
-        <text>load-search-suggests</text>
+      <register name="0" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -439,28 +445,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KGxvYWQtc2VhcmNoLXN1Z2dlc3RzIChmbiBbeF0KICAgICAgICAgICAgICAgICAgICAgICAgKC5sb2cganMvY29uc29sZSAoY2xqLT5qcyAobWFwIDp2YWx1ZSB4KSkpKSkK</text>
+        <text encoding="base64">ICAgICAgYWxlcnQoIllPISIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFsZXJ0KCJBISIpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9wdGlvbjogc3VnZ2VzdFtpXS5vIHx8ICcnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgc3VmZml4OiBzdWdnZXN0W2ldLnN1ZiB8fCAnJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlc2NyaXB0aW9uOiBzdWdnZXN0W2ldLmhkIHx8IHN1Z2dlc3RbaV0uZCB8fCAnJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1hdGNoaW5nU3RhcnQ6IHN1Z2dlc3RbaV0ubXMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtYXRjaGluZ0VuZDogc3VnZ2VzdFtpXS5tZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhcmV0OiBzdWdnZXN0W2ldLmNwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29tcGxldGlvblN0YXJ0OiBzdWdnZXN0W2ldLmNzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29tcGxldGlvbkVuZDogc3VnZ2VzdFtpXS5jZQo=</text>
+        <text encoding="base64">KGxvYWQtc2VhcmNoLXN1Z2dlc3RzIChmbiBbeF0KICAgICAgICAgICAgICAgICAgICAgICAgKC5sb2cganMvY29uc29sZSAoY2xqLT5qcyAobWFwIDp2YWx1ZSB4KSkpKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9wdGlvbjogc3VnZ2VzdFtpXS5vIHx8ICcnLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgc3VmZml4OiBzdWdnZXN0W2ldLnN1ZiB8fCAnJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlc2NyaXB0aW9uOiBzdWdnZXN0W2ldLmhkIHx8IHN1Z2dlc3RbaV0uZCB8fCAnJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1hdGNoaW5nU3RhcnQ6IHN1Z2dlc3RbaV0ubXMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtYXRjaGluZ0VuZDogc3VnZ2VzdFtpXS5tZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNhcmV0OiBzdWdnZXN0W2ldLmNwLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29tcGxldGlvblN0YXJ0OiBzdWdnZXN0W2ldLmNzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29tcGxldGlvbkVuZDogc3VnZ2VzdFtpXS5jZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
