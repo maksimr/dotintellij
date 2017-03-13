@@ -29,8 +29,10 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-custom-field-complex.js" timestamp="1489402641519">
         <mark key="'" line="319" column="2" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1489154837305">
-        <mark key="'" line="12" column="23" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1489405732394">
+        <mark key="'" line="103" column="5" />
+        <mark key="[" line="103" column="16" />
+        <mark key="]" line="103" column="23" />
       </file>
       <file name="$USER_HOME$/www/js/karma-jasmine/src/adapter.js" timestamp="1488825814512">
         <mark key="'" line="387" column="0" />
@@ -321,8 +323,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/admin.js" />
-      <jump line="160" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/admin.js" />
       <jump line="491" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/admin.js" />
       <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/test-hub-version.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/get-hub-version.js" />
@@ -357,7 +357,6 @@
       <jump line="139" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
       <jump line="140" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
       <jump line="146" column="41" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
-      <jump line="150" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
       <jump line="12" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
       <jump line="79" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/admin.js" />
       <jump line="145" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/admin.js" />
@@ -421,10 +420,13 @@
       <jump line="80" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-custom-field-complex.js" />
       <jump line="319" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-custom-field-complex.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
+      <jump line="150" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="13" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="103" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>2.6.6167</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -433,7 +435,7 @@
         <text>YO</text>
       </register>
       <register name="/" type="4">
-        <text>debou</text>
+        <text>ring-ui</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Cg==</text>
@@ -473,9 +475,9 @@
       </register>
     </registers>
     <search>
-      <last-search>debou</last-search>
+      <last-search>ring-ui</last-search>
       <last-offset />
-      <last-pattern>debou</last-pattern>
+      <last-pattern>ring-ui</last-pattern>
       <last-replace>yt-issue-feed-item</last-replace>
       <last-substitute>yt-issue-comment</last-substitute>
       <last-dir>1</last-dir>
@@ -483,7 +485,6 @@
     </search>
     <history>
       <history-search>
-        <entry>short</entry>
         <entry encoding="base64">XDxnZXRTaG9ydGN1dHNcPg==</entry>
         <entry>script</entry>
         <entry>access</entry>
@@ -503,6 +504,7 @@
         <entry encoding="base64">XDxlbGVtZW50XD4=</entry>
         <entry>pref</entry>
         <entry>debou</entry>
+        <entry>ring-ui</entry>
       </history-search>
       <history-cmd>
         <entry>133</entry>
