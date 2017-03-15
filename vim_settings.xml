@@ -128,10 +128,10 @@
       <file name="$USER_HOME$/www/clojure/foo/src/foo/_.cljs" timestamp="1489178901902">
         <mark key="'" line="33" column="4" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/vcs-changes/directive/yt-vcs-change.js" timestamp="1489594467592">
-        <mark key="'" line="57" column="17" />
-        <mark key="[" line="54" column="17" />
-        <mark key="]" line="54" column="35" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/vcs-changes/directive/yt-vcs-change.js" timestamp="1489595865820">
+        <mark key="'" line="52" column="10" />
+        <mark key="[" line="56" column="56" />
+        <mark key="]" line="56" column="73" />
         <mark key="." line="54" column="43" />
         <mark key="^" line="54" column="43" />
       </file>
@@ -209,7 +209,7 @@
         <mark key="^" line="45" column="11" />
         <mark key="." line="45" column="11" />
       </file>
-      <file name="/Dummy.txt" timestamp="1489592492929">
+      <file name="/Dummy.txt" timestamp="1489595798958">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/ring-ui/components/storage/storage__local.js" timestamp="1489509291688">
@@ -260,7 +260,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="347" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/vcs-changes/controller/vcs-changes.js" />
       <jump line="51" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/vcs-changes/directive/yt-vcs-change.js" />
       <jump line="28" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/vcs-changes/directive/yt-vcs-change.js" />
       <jump line="17" column="41" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/vcs-changes/directive/yt-vcs-change.js" />
@@ -326,7 +325,6 @@
       <jump line="52" column="3" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/vcs-changes/test/directive/yt-vcs-change.js" />
       <jump line="106" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/vcs-changes/directive/yt-vcs-change.js" />
       <jump line="24" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/vcs-changes/directive/yt-vcs-change.js" />
-      <jump line="52" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/vcs-changes/directive/yt-vcs-change.js" />
       <jump line="38" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/vcs-changes/directive/yt-vcs-change.js" />
       <jump line="32" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/vcs-changes/directive/yt-vcs-change.js" />
       <jump line="37" column="88" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/vcs-changes/directive/yt-vcs-change.js" />
@@ -360,10 +358,12 @@
       <jump line="27" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/vcs-changes/test/directive/yt-vcs-change.js" />
       <jump line="106" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/vcs-changes/test/directive/yt-vcs-change.js" />
       <jump line="57" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/vcs-changes/directive/yt-vcs-change.js" />
+      <jump line="89" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/vcs-changes/directive/yt-vcs-change.js" />
+      <jump line="52" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/vcs-changes/directive/yt-vcs-change.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>flag about user not found error</text>
+        <text>userNotFoundReason</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -372,7 +372,7 @@
         <text>flag about user not found error</text>
       </register>
       <register name="/" type="4">
-        <text>error</text>
+        <text>user</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -412,9 +412,9 @@
       </register>
     </registers>
     <search>
-      <last-search>error</last-search>
+      <last-search>user</last-search>
       <last-offset />
-      <last-pattern>error</last-pattern>
+      <last-pattern>user</last-pattern>
       <last-replace>yt-issue-feed-item</last-replace>
       <last-substitute>yt-issue-comment</last-substitute>
       <last-dir>1</last-dir>
@@ -431,7 +431,6 @@
         <entry>ng</entry>
         <entry>warn</entry>
         <entry>userNot</entry>
-        <entry>user</entry>
         <entry encoding="base64">XDxlbGVtZW50XD4=</entry>
         <entry>noUser</entry>
         <entry encoding="base64">XDxnZXROb1VzZXJGb3VuZFJlYXNvblw+</entry>
@@ -442,6 +441,7 @@
         <entry encoding="base64">XDxnZXROb3RGb3VuZE1lc3NhZ2VzRmFjdG9yeVw+</entry>
         <entry encoding="base64">XDxjcmVhdGVOYXZpZ2F0ZUl0ZW1cPg==</entry>
         <entry>error</entry>
+        <entry>user</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWNlSnVtcEFjdGlvbg==</entry>
