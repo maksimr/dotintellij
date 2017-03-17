@@ -215,13 +215,12 @@
       <file name="$USER_HOME$/www/jetbrains/ring-ui/components/auth-ng/auth-ng.js" timestamp="1489500896208">
         <mark key="'" line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/directive/yt-mention.js" timestamp="1489758608824">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/directive/yt-mention.js" timestamp="1489758886511">
         <mark key="b" line="254" column="0" />
         <mark key="'" line="130" column="14" />
-        <mark key="[" line="213" column="21" />
-        <mark key="]" line="213" column="47" />
-        <mark key="." line="214" column="40" />
-        <mark key="^" line="213" column="47" />
+        <mark key="[" line="212" column="0" />
+        <mark key="]" line="212" column="0" />
+        <mark key="." line="212" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/service/mention-helper.js" timestamp="1489752377854">
         <mark key="'" line="52" column="8" />
@@ -417,14 +416,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/test/directive/yt-mention.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>function(WHITE_SPACE_CHAR) { return afterText.indexOf(WHITE_SPACE_CHAR); }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>function(WHITE_SPACE_CHAR) { return afterText.indexOf(WHITE_SPACE_CHAR); }</text>
+        <text>afterText</text>
       </register>
       <register name="/" type="4">
         <text>fdes</text>
@@ -439,28 +438,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBhbmd1bGFyLmZvckVhY2goYWZ0ZXJUZXh0LCBmdW5jdGlvbihjaGFyKSB7CiAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhjaGFyKTsKICAgICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhzZXBhcmF0b3JQb3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBhZnRlclRleHQK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB2YXIgc3BhY2VQb3MgPSBhZnRlclRleHQuaW5kZXhPZignICcpOwogICAgICAgICAgICAgIHZhciBuZXh0TGluZVBvcyA9IGFmdGVyVGV4dC5pbmRleE9mKCdcbicpOwogICAgICAgICAgICAgIHZhciBzZXBhcmF0b3JQb3MgPSBNYXRoLm1pbihzcGFjZVBvcywgbmV4dExpbmVQb3MpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICByZXR1cm4gJyAnOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhzZXBhcmF0b3JQb3MpOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpZiAoc3BhY2VQb3MgPT09IC0xKSB7CiAgICAgICAgICAgICAgICBzZXBhcmF0b3JQb3MgPSBuZXh0TGluZVBvczsKICAgICAgICAgICAgICB9IGVsc2UgaWYgKG5leHRMaW5lUG9zID09PSAtMSkgewogICAgICAgICAgICAgICAgc2VwYXJhdG9yUG9zID0gc3BhY2VQb3M7CiAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICBpZiAoc2VwYXJhdG9yUG9zID49IDApIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB2YXIgc3BhY2VQb3MgPSBhZnRlclRleHQuaW5kZXhPZignICcpOwogICAgICAgICAgICAgIHZhciBuZXh0TGluZVBvcyA9IGFmdGVyVGV4dC5pbmRleE9mKCdcbicpOwogICAgICAgICAgICAgIHZhciBzZXBhcmF0b3JQb3MgPSBNYXRoLm1pbihzcGFjZVBvcywgbmV4dExpbmVQb3MpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
