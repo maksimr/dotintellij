@@ -138,13 +138,13 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/ring-component/ring-component.js" timestamp="1489408554392">
         <mark key="'" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/test/directive/yt-mention.js" timestamp="1489753537216">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/test/directive/yt-mention.js" timestamp="1489754288555">
         <mark key="a" line="231" column="12" />
         <mark key="'" line="5" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+        <mark key="[" line="305" column="38" />
+        <mark key="]" line="305" column="38" />
+        <mark key="." line="305" column="38" />
+        <mark key="^" line="305" column="38" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/link/link.js" timestamp="1489491205985">
         <mark key="'" line="47" column="0" />
@@ -174,6 +174,9 @@
         <mark key="]" line="62" column="63" />
         <mark key="^" line="62" column="63" />
         <mark key="." line="62" column="63" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/mout/string/ltrim.js" timestamp="1489754812146">
+        <mark key="'" line="29" column="30" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/form/directive/yt-form-checkbox.js" timestamp="1489580387949">
         <mark key="'" line="39" column="40" />
@@ -210,13 +213,13 @@
       <file name="$USER_HOME$/www/jetbrains/ring-ui/components/auth-ng/auth-ng.js" timestamp="1489500896208">
         <mark key="'" line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/directive/yt-mention.js" timestamp="1489753518617">
-        <mark key="b" line="247" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/directive/yt-mention.js" timestamp="1489754068154">
+        <mark key="b" line="249" column="0" />
         <mark key="'" line="130" column="14" />
-        <mark key="[" line="214" column="52" />
-        <mark key="]" line="214" column="52" />
-        <mark key="." line="214" column="52" />
-        <mark key="^" line="214" column="52" />
+        <mark key="[" line="221" column="15" />
+        <mark key="]" line="222" column="13" />
+        <mark key="." line="222" column="13" />
+        <mark key="^" line="222" column="13" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/service/mention-helper.js" timestamp="1489752377854">
         <mark key="'" line="52" column="8" />
@@ -310,9 +313,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/directive/yt-mention.js" />
-      <jump line="66" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/directive/yt-mention.js" />
-      <jump line="85" column="3" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/test/directive/yt-mention.js" />
       <jump line="2" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/test/directive/yt-mention.js" />
       <jump line="8" column="33" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/test/directive/yt-mention.js" />
       <jump line="26" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/directive/yt-mention.js" />
@@ -410,25 +410,28 @@
       <jump line="130" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/directive/yt-mention.js" />
       <jump line="253" column="3" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/test/directive/yt-mention.js" />
       <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/test/directive/yt-mention.js" />
+      <jump line="1" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/mout/string/ltrim.js" />
+      <jump line="7" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/mout/string/ltrim.js" />
+      <jump line="29" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/mout/string/ltrim.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0Q2FyZXRQb3NpdGlvbihlbGVtZW50LCAnZm9vIHwnKTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGJhcg==</text>
+        <text>bar</text>
       </register>
       <register name="/" type="4">
-        <text>suggest</text>
+        <text encoding="base64">XDxXSElURV9TUEFDRVNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0Q2FyZXRQb3NpdGlvbihlbGVtZW50LCAnZm9vIHwnKTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHN1Z2dlc3RIZWxwZXIuc2V0Q2FyZXRQb3NpdGlvbi5jYWxsKDApKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB2YXIgcmVzdHVsOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -437,42 +440,42 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBlbGVtZW50LnNlbGVjdGlvblN0YXJ0ID09PSBleHBlY3RlZENhcmV0UG9zaXRpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByZXR1cm4gcmVzdHVsOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGVsZW1lbnRbMF0uc2VsZWN0aW9uU3RhcnQsIGV4cGVjdGVkQ2FyZXRQb3NpdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGV4cGVjCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBleHBlCg==</text>
+      <register name="6" type="4">
+        <text>;
+            }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhciBjYXJldFBvc2l0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIGNvbXBsZXRpb25UZXh0OwogICAgICAgICAgICBpZiAocmVwbGFjZUZvbGxvd2luZ1RleHQpIHsKICAgICAgICAgICAgICBjb21wbGV0aW9uVGV4dCA9IGdldENvbXBsZXRpb25UZXh0V2l0aFJlcGxhY2UoYWZ0ZXJUZXh0KTsKICAgICAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB2YXIgbHRyaW0gPSByZXF1aXJlKCdtb3V0L3N0cmluZy9sdHJpbScpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>suggest</last-search>
+      <last-search encoding="base64">XDxXSElURV9TUEFDRVNcPg==</last-search>
       <last-offset />
-      <last-pattern>suggest</last-pattern>
+      <last-pattern encoding="base64">XDxXSElURV9TUEFDRVNcPg==</last-pattern>
       <last-replace>yt-issue-feed-item</last-replace>
       <last-substitute>yt-issue-comment</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>suggestComple</entry>
         <entry>selectSugg</entry>
         <entry>completeSu</entry>
         <entry>completeSug</entry>
@@ -492,6 +495,7 @@
         <entry>setCare</entry>
         <entry>completeSugg</entry>
         <entry>suggest</entry>
+        <entry encoding="base64">XDxXSElURV9TUEFDRVNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWNlSnVtcEFjdGlvbg==</entry>
