@@ -147,20 +147,15 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/ring-component/ring-component.js" timestamp="1489408554392">
         <mark key="'" line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/test/directive/yt-mention.js" timestamp="1489759436455">
-        <mark key="a" line="231" column="12" />
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/link/link.js" timestamp="1489491205985">
         <mark key="'" line="47" column="0" />
         <mark key="[" line="14" column="20" />
         <mark key="]" line="14" column="20" />
         <mark key="^" line="14" column="20" />
         <mark key="." line="14" column="20" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/ring-ui/package.json" timestamp="1489840374651">
+        <mark key="'" line="74" column="5" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/image-tool/directive/yt-image-tool.js" timestamp="1489494726288">
         <mark key="'" line="95" column="2" />
@@ -261,14 +256,6 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/popup-menu/popup-menu.js" timestamp="1489060977846">
         <mark key="'" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/popup/test/service/create-popup-render.js" timestamp="1489762844374">
-        <mark key="a" line="33" column="1" />
-        <mark key="'" line="0" column="1" />
-        <mark key="[" line="33" column="26" />
-        <mark key="]" line="33" column="24" />
-        <mark key="." line="33" column="24" />
-        <mark key="^" line="33" column="24" />
-      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/icon.js" timestamp="1489578211273">
         <mark key="'" line="19" column="0" />
       </file>
@@ -347,6 +334,9 @@
         <mark key="]" line="2765" column="34" />
         <mark key="." line="3170" column="0" />
       </file>
+      <file name="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" timestamp="1489840427274">
+        <mark key="'" line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/search-query-panel/template/search-query-panel.html" timestamp="1489766903357">
         <mark key="'" line="26" column="35" />
         <mark key="[" line="29" column="0" />
@@ -367,12 +357,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="25" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.test.js" />
-      <jump line="144" column="8" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.test.js" />
-      <jump line="153" column="26" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.test.js" />
-      <jump line="158" column="8" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.test.js" />
-      <jump line="159" column="8" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.test.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.test.js" />
       <jump line="32" column="5" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.test.js" />
       <jump line="178" column="76" filename="$USER_HOME$/www/jetbrains/ring-ui/node_modules/angular/angular.js" />
       <jump line="1155" column="10" filename="$USER_HOME$/www/jetbrains/ring-ui/node_modules/angular/angular.js" />
@@ -467,6 +451,12 @@
       <jump line="145" column="8" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.test.js" />
       <jump line="577" column="28" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.test.js" />
       <jump line="572" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.test.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/package.json" />
+      <jump line="72" column="5" filename="$USER_HOME$/www/jetbrains/ring-ui/package.json" />
+      <jump line="73" column="5" filename="$USER_HOME$/www/jetbrains/ring-ui/package.json" />
+      <jump line="121" column="5" filename="$USER_HOME$/www/jetbrains/ring-ui/package.json" />
+      <jump line="74" column="5" filename="$USER_HOME$/www/jetbrains/ring-ui/package.json" />
+      <jump line="11" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -479,7 +469,7 @@
         <text>for</text>
       </register>
       <register name="/" type="4">
-        <text>only</text>
+        <text>angular</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIHdoaWxlIChlbGVtZW50LmNoaWxkTm9kZXMubGVuZ3RoKSB7CgogICAgICAgICAgICAvLyBYWFgobWFrc2ltcnYpOiBXZSBzaG91bGQgdXNlIGpRdWVyeS5yZW1vdmUgbWV0aG9kIGJlY2F1c2UKICAgICAgICAgICAgLy8gQW5ndWxhckpTIGludGVyY2VwdHMgYWxsIGpxTGl0ZS9qUXVlcnkncyBET00gZGVzdHJ1Y3Rpb24gYXBpcyBhbmQgZmlyZXMgJGRlc3Ryb3kgZXZlbnQKICAgICAgICAgICAgLy8gb24gYWxsIERPTSBub2RlcyBiZWluZyByZW1vdmVkLgogICAgICAgICAgICAvLyBUaGlzIGNhbiBiZSB1c2VkIHRvIGNsZWFuIHVwIGJpbmRpbmdzIHRvIHRoZSBET00KICAgICAgICAgICAgLy8gZWxlbWVudCBiZWZvcmUgaXQgaXMgcmVtb3ZlZC4KICAgICAgICAgICAgYW5ndWxhci5lbGVtZW50KGVsZW1lbnQuY2hpbGROb2Rlc1swXSkucmVtb3ZlKCk7CiAgICAgICAgICB9Cg==</text>
@@ -519,9 +509,9 @@
       </register>
     </registers>
     <search>
-      <last-search>only</last-search>
+      <last-search>angular</last-search>
       <last-offset />
-      <last-pattern>only</last-pattern>
+      <last-pattern>angular</last-pattern>
       <last-replace>yt-issue-feed-item</last-replace>
       <last-substitute>yt-issue-comment</last-substitute>
       <last-dir>1</last-dir>
@@ -547,8 +537,8 @@
         <entry encoding="base64">XDxqcUxpdGVFbXB0eVw+</entry>
         <entry>empty</entry>
         <entry>destroy</entry>
-        <entry>angular</entry>
         <entry>only</entry>
+        <entry>angular</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWNlSnVtcEFjdGlvbg==</entry>
