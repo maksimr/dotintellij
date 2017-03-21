@@ -27,6 +27,11 @@
         <mark key="." line="34" column="18" />
         <mark key="^" line="34" column="18" />
       </file>
+      <file name="$USER_HOME$/www/js/karma/lib/browser.js" timestamp="1490125302433">
+        <mark key="'" line="200" column="0" />
+        <mark key="[" line="147" column="0" />
+        <mark key="]" line="148" column="70" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/suggest/suggest.js" timestamp="1489665472962">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="53" />
@@ -168,11 +173,6 @@
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-board.html" timestamp="1489766832178">
         <mark key="'" line="13" column="42" />
-      </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/codemirror/theme/railscasts.css" timestamp="1490112324541">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="100" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/form/directive/yt-form-checkbox.js" timestamp="1489580387949">
         <mark key="'" line="39" column="40" />
@@ -317,10 +317,10 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-interval-dropdown.js" timestamp="1489762895676">
         <mark key="'" line="25" column="12" />
       </file>
-      <file name="$USER_HOME$/www/js/karma/lib/config.js" timestamp="1490123664215">
+      <file name="$USER_HOME$/www/js/karma/lib/config.js" timestamp="1490124886051">
         <mark key="'" line="364" column="8" />
-        <mark key="[" line="387" column="17" />
-        <mark key="]" line="387" column="51" />
+        <mark key="[" line="339" column="0" />
+        <mark key="]" line="340" column="37" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/vcs-changes/test/directive/yt-vcs-change.js" timestamp="1489663992215">
         <mark key="'" line="144" column="1" />
@@ -455,7 +455,7 @@
       <file name="$USER_HOME$/www/jetbrains/ring-ui/components/compiler-ng/compiler-ng.js" timestamp="1489835389900">
         <mark key="'" line="5" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490123364580">
+      <file name="/Dummy.txt" timestamp="1490125050211">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/ring-ui/components/storage/storage__local.js" timestamp="1489834326806">
@@ -520,17 +520,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="27" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/codemirror/addon/search/match-highlighter.js" />
-      <jump line="62" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/codemirror/addon/search/match-highlighter.js" />
-      <jump line="85" column="43" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/codemirror/addon/search/match-highlighter.js" />
-      <jump line="94" column="42" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/codemirror/addon/search/match-highlighter.js" />
-      <jump line="110" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/codemirror/addon/search/match-highlighter.js" />
-      <jump line="164" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/codemirror/addon/search/match-highlighter.js" />
-      <jump line="119" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/service/yt-code-editor.js" />
-      <jump line="3" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/service/yt-code-editor.js" />
-      <jump line="4" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/service/yt-code-editor.js" />
-      <jump line="7" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/service/yt-code-editor.js" />
-      <jump line="8" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/service/yt-code-editor.js" />
       <jump line="9" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/service/yt-code-editor.js" />
       <jump line="10" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/service/yt-code-editor.js" />
       <jump line="78" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/service/yt-code-editor.js" />
@@ -620,10 +609,21 @@
       <jump line="151" column="16" filename="$USER_HOME$/www/js/karma/lib/cli.js" />
       <jump line="150" column="17" filename="$USER_HOME$/www/js/karma/lib/cli.js" />
       <jump line="364" column="8" filename="$USER_HOME$/www/js/karma/lib/config.js" />
+      <jump line="144" column="9" filename="$USER_HOME$/www/js/karma/lib/browser.js" />
+      <jump line="22" column="40" filename="$USER_HOME$/www/js/karma/lib/browser.js" />
+      <jump line="147" column="7" filename="$USER_HOME$/www/js/karma/lib/browser.js" />
+      <jump line="38" column="9" filename="$USER_HOME$/www/js/karma/lib/browser.js" />
+      <jump line="55" column="6" filename="$USER_HOME$/www/js/karma/lib/browser.js" />
+      <jump line="54" column="31" filename="$USER_HOME$/www/js/karma/lib/browser.js" />
+      <jump line="51" column="7" filename="$USER_HOME$/www/js/karma/lib/browser.js" />
+      <jump line="49" column="46" filename="$USER_HOME$/www/js/karma/lib/browser.js" />
+      <jump line="44" column="33" filename="$USER_HOME$/www/js/karma/lib/browser.js" />
+      <jump line="23" column="40" filename="$USER_HOME$/www/js/karma/lib/browser.js" />
+      <jump line="200" column="0" filename="$USER_HOME$/www/js/karma/lib/browser.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Config file must export a function!</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB0aGlzLm9uRGlzY29ubmVjdCA9IGZ1bmN0aW9uIChfLCBkaXNjb25uZWN0ZWRTb2NrZXQpIHsKICAgIGFjdGl2ZVNvY2tldHMuc3BsaWNlKGFjdGl2ZVNvY2tldHMuaW5kZXhPZihkaXNjb25uZWN0ZWRTb2NrZXQpLCAxKQo=</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -632,10 +632,10 @@
         <text>yt-form-input</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25maWdNb2R1bGVcPg==</text>
+        <text>onDisconnect</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxyZy1sZWdhY3ktdGFibGUtcm93IG5nLXJlcGVhdD0icnVsZSBpbiAod29ya2Zsb3cucnVsZXMgfCBmaWx0ZXI6c2NyaXB0TGlzdEN0cmwuc2VhcmNoKSB0cmFjayBieSBydWxlLmlkIgogICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3M9Int7cnVsZS5pZCA9PT0gc2NyaXB0TGlzdEN0cmwuY3VycmVudFNjcmlwdElkID8gJ3NjcmlwdC1saXN0LWl0ZW1fY3VycmVudCcgOiAnJ319Igo=</text>
+        <text encoding="base64">ICB0aGlzLm9uRGlzY29ubmVjdCA9IGZ1bmN0aW9uIChfLCBkaXNjb25uZWN0ZWRTb2NrZXQpIHsKICAgIGFjdGl2ZVNvY2tldHMuc3BsaWNlKGFjdGl2ZVNvY2tldHMuaW5kZXhPZihkaXNjb25uZWN0ZWRTb2NrZXQpLCAxKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -672,21 +672,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb25maWdNb2R1bGVcPg==</last-search>
+      <last-search>onDisconnect</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25maWdNb2R1bGVcPg==</last-pattern>
+      <last-pattern>onDisconnect</last-pattern>
       <last-replace>yt-issue-feed-item</last-replace>
       <last-substitute>yt-issue-comment</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>addon</entry>
-        <entry>tern</entry>
-        <entry>match</entry>
-        <entry>script</entry>
-        <entry>rule.name</entry>
         <entry>current</entry>
         <entry>ng-class</entry>
         <entry>{{</entry>
@@ -702,6 +697,11 @@
         <entry>config</entry>
         <entry encoding="base64">XDxjb25maWdGaWxlXD4=</entry>
         <entry encoding="base64">XDxjb25maWdNb2R1bGVcPg==</entry>
+        <entry encoding="base64">XDxicm93c2VyRGlzY29ubmVjdFRpbWVvdXRcPg==</entry>
+        <entry encoding="base64">XDxkaXNjb25uZWN0RGVsYXlcPg==</entry>
+        <entry encoding="base64">XDxvbkRpc2Nvbm5lY3RcPg==</entry>
+        <entry encoding="base64">XDxub0FjdGl2aXR5VGltZW91dFw+</entry>
+        <entry>onDisconnect</entry>
       </history-search>
       <history-cmd>
         <entry>.s/,//gc</entry>
