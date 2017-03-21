@@ -117,8 +117,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/confirm-ng/confirm-ng.js" timestamp="1489149203910">
         <mark key="'" line="35" column="6" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/karma.conf.js" timestamp="1489489919033">
-        <mark key="'" line="76" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/karma.conf.js" timestamp="1490122956460">
+        <mark key="'" line="62" column="4" />
         <mark key="[" line="45" column="7" />
         <mark key="]" line="45" column="7" />
         <mark key="." line="45" column="12" />
@@ -515,8 +515,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="43" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
-      <jump line="146" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
       <jump line="45" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
       <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/test/directive/yt-mention.js" />
       <jump line="476" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/test/directive/yt-mention.js" />
@@ -615,6 +613,8 @@
       <jump line="7" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/workflow/dialog-new-rule.html" />
       <jump line="11" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/workflow/dialog-new-rule.html" />
       <jump line="7" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/form/directive/yt-form-input.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/karma.conf.js" />
+      <jump line="62" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/karma.conf.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -627,7 +627,7 @@
         <text>yt-form-input</text>
       </register>
       <register name="/" type="4">
-        <text>addClass</text>
+        <text encoding="base64">XDxicm93c2VyTm9BY3Rpdml0eVRpbWVvdXRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxyZy1sZWdhY3ktdGFibGUtcm93IG5nLXJlcGVhdD0icnVsZSBpbiAod29ya2Zsb3cucnVsZXMgfCBmaWx0ZXI6c2NyaXB0TGlzdEN0cmwuc2VhcmNoKSB0cmFjayBieSBydWxlLmlkIgogICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3M9Int7cnVsZS5pZCA9PT0gc2NyaXB0TGlzdEN0cmwuY3VycmVudFNjcmlwdElkID8gJ3NjcmlwdC1saXN0LWl0ZW1fY3VycmVudCcgOiAnJ319Igo=</text>
@@ -667,17 +667,16 @@
       </register>
     </registers>
     <search>
-      <last-search>addClass</last-search>
+      <last-search encoding="base64">XDxicm93c2VyTm9BY3Rpdml0eVRpbWVvdXRcPg==</last-search>
       <last-offset />
-      <last-pattern>addClass</last-pattern>
+      <last-pattern encoding="base64">XDxicm93c2VyTm9BY3Rpdml0eVRpbWVvdXRcPg==</last-pattern>
       <last-replace>yt-issue-feed-item</last-replace>
       <last-substitute>yt-issue-comment</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>css</entry>
         <entry encoding="base64">XDxkZWZpbmVPcHRpb25cPg==</entry>
         <entry>exte</entry>
         <entry>high</entry>
@@ -697,6 +696,7 @@
         <entry>ring-ui</entry>
         <entry>yt-form-input</entry>
         <entry>addClass</entry>
+        <entry encoding="base64">XDxicm93c2VyTm9BY3Rpdml0eVRpbWVvdXRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>.s/,//gc</entry>
