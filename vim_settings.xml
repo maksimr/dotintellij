@@ -613,12 +613,12 @@
       <file name="$USER_HOME$/www/jetbrains/ring-ui/components/auth-ng/auth-ng.js" timestamp="1489500896208">
         <mark key="'" line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/shortcuts/core.test.js" timestamp="1490349560120">
-        <mark key="'" line="8" column="6" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="48" />
-        <mark key="." line="63" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/shortcuts/core.test.js" timestamp="1490354285035">
+        <mark key="'" line="25" column="11" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="48" />
         <mark key="^" line="54" column="28" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/suggest/directive/yt-suggest.js" timestamp="1489665254089">
         <mark key="'" line="302" column="4" />
@@ -656,6 +656,9 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/directive/yt-icon.js" timestamp="1490334566602">
         <mark key="'" line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/shortcuts-ng/shortcuts-ng.js" timestamp="1490354902232">
+        <mark key="'" line="14" column="4" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/ring-ui/components/shortcuts/shortcuts-hoc.test.js" timestamp="1490346221281">
         <mark key="'" line="52" column="0" />
         <mark key="[" line="17" column="0" />
@@ -663,7 +666,7 @@
         <mark key="." line="9" column="7" />
         <mark key="^" line="9" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490346516167">
+      <file name="/Dummy.txt" timestamp="1490354600304">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/ring-ui/components/storage/storage__local.js" timestamp="1489834326806">
@@ -754,9 +757,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="24" filename="$USER_HOME$/www/jetbrains/ring-ui/components/shortcuts/core.test.js" />
-      <jump line="285" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/shortcuts/core.test.js" />
-      <jump line="15" column="8" filename="$USER_HOME$/www/jetbrains/ring-ui/components/shortcuts/core.test.js" />
       <jump line="286" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/shortcuts/core.test.js" />
       <jump line="41" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/shortcuts/core.test.js" />
       <jump line="283" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/shortcuts/core.test.js" />
@@ -854,10 +854,13 @@
       <jump line="92" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/externals/header/header.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/externals/header/header.js" />
       <jump line="12" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/externals/header/header.js" />
+      <jump line="25" column="11" filename="$USER_HOME$/www/jetbrains/ring-ui/components/shortcuts/core.test.js" />
+      <jump line="62" column="4" filename="$USER_HOME$/www/jetbrains/ring-ui/components/shortcuts-ng/shortcuts-ng.js" />
+      <jump line="14" column="4" filename="$USER_HOME$/www/jetbrains/ring-ui/components/shortcuts-ng/shortcuts-ng.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>./</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgYWRkU2hvcnRjdXRzKHNob3J0Y3V0cywgZGVmYXVsdFNob3J0Y3V0cyk7Cg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -866,7 +869,7 @@
         <text>./</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtcHNUb0FuZ3VsYXJCcmlkZ2VCb290c3RyYXBWQ1NBcHBcPg==</text>
+        <text>isMainMode</text>
       </register>
       <register name="0" type="4">
         <text>../../components/alert/alert</text>
@@ -884,41 +887,38 @@
         <text encoding="base64">ICAgICAgYWRkU2hvcnRjdXRzKHNob3J0Y3V0cywgZGVmYXVsdFNob3J0Y3V0cyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaywgaGFuZGxlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgYWRkU2hvcnRjdXRzKHNob3J0Y3V0cywgZGVmYXVsdFNob3J0Y3V0cyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coayk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaywgaGFuZGxlcik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhcmFtcy5tYXApOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coayk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc+PicsIHBhcmFtcyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhcmFtcy5tYXApOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc+PicsIHBhcmFtcyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhcmFtcy5rZXkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtcHNUb0FuZ3VsYXJCcmlkZ2VCb290c3RyYXBWQ1NBcHBcPg==</last-search>
+      <last-search>isMainMode</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtcHNUb0FuZ3VsYXJCcmlkZ2VCb290c3RyYXBWQ1NBcHBcPg==</last-pattern>
+      <last-pattern>isMainMode</last-pattern>
       <last-replace>yt-issue-feed-item</last-replace>
       <last-substitute>yt-issue-comment</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>off</entry>
-        <entry>scope</entry>
-        <entry encoding="base64">XDx0b2dnbGVTaG9ydGN1dHNcPg==</entry>
         <entry encoding="base64">XDxzaG9ydGN1dHNcPg==</entry>
         <entry>calle</entry>
         <entry>pause</entry>
@@ -936,6 +936,9 @@
         <entry>pressKey</entry>
         <entry>can-be</entry>
         <entry encoding="base64">XDxtcHNUb0FuZ3VsYXJCcmlkZ2VCb290c3RyYXBWQ1NBcHBcPg==</entry>
+        <entry encoding="base64">XDxhZGRTaG9ydGN1dHNcPg==</entry>
+        <entry>zo</entry>
+        <entry>isMainMode</entry>
       </history-search>
       <history-cmd>
         <entry>.s/,//gc</entry>
