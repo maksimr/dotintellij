@@ -346,11 +346,11 @@
       <file name="$USER_HOME$/www/jetbrains/ring-ui/node_modules/combokeys/test/lib/key-event.js" timestamp="1490269351552">
         <mark key="'" line="119" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" timestamp="1490127017089">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" timestamp="1490353776240">
         <mark key="'" line="235" column="2" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/admin.js" timestamp="1490200786464">
-        <mark key="'" line="492" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/admin.js" timestamp="1490353848124">
+        <mark key="'" line="433" column="22" />
         <mark key="[" line="23" column="35" />
         <mark key="]" line="23" column="35" />
         <mark key="." line="23" column="39" />
@@ -751,12 +751,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="183" column="14" filename="$USER_HOME$/www/jetbrains/ring-ui/components/shortcuts/core.js" />
-      <jump line="184" column="50" filename="$USER_HOME$/www/jetbrains/ring-ui/components/shortcuts/core.js" />
-      <jump line="218" column="15" filename="$USER_HOME$/www/jetbrains/ring-ui/components/shortcuts/core.js" />
-      <jump line="223" column="10" filename="$USER_HOME$/www/jetbrains/ring-ui/components/shortcuts/core.js" />
-      <jump line="8" column="4" filename="$USER_HOME$/www/jetbrains/ring-ui/components/shortcuts/core.js" />
-      <jump line="12" column="3" filename="$USER_HOME$/www/jetbrains/ring-ui/components/shortcuts/core.js" />
       <jump line="24" column="23" filename="$USER_HOME$/www/jetbrains/ring-ui/components/shortcuts/core.js" />
       <jump line="8" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/shortcuts/shortcuts.js" />
       <jump line="25" column="9" filename="$USER_HOME$/www/jetbrains/ring-ui/components/shortcuts/shortcuts.js" />
@@ -851,6 +845,12 @@
       <jump line="23" column="2" filename="$USER_HOME$/www/jetbrains/ring-ui/components/shortcuts/core.test.js" />
       <jump line="54" column="21" filename="$USER_HOME$/www/jetbrains/ring-ui/components/shortcuts/core.js" />
       <jump line="8" column="6" filename="$USER_HOME$/www/jetbrains/ring-ui/components/shortcuts/core.test.js" />
+      <jump line="79" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/admin.js" />
+      <jump line="14" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/admin.js" />
+      <jump line="82" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/admin.js" />
+      <jump line="20" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/admin.js" />
+      <jump line="487" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/admin.js" />
+      <jump line="433" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/admin.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -863,7 +863,7 @@
         <text>.returns(true)</text>
       </register>
       <register name="/" type="4">
-        <text>pressKey</text>
+        <text>can-be</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgbW9kYWxTaG9ydGN1dHMubWFwLmEuc2hvdWxkLmhhdmUuYmVlbi5jYWxsZWQ7Cg==</text>
@@ -903,9 +903,9 @@
       </register>
     </registers>
     <search>
-      <last-search>pressKey</last-search>
+      <last-search>can-be</last-search>
       <last-offset />
-      <last-pattern>pressKey</last-pattern>
+      <last-pattern>can-be</last-pattern>
       <last-replace>yt-issue-feed-item</last-replace>
       <last-substitute>yt-issue-comment</last-substitute>
       <last-dir>1</last-dir>
@@ -913,7 +913,6 @@
     </search>
     <history>
       <history-search>
-        <entry>disabe</entry>
         <entry>turn</entry>
         <entry>off</entry>
         <entry>scope</entry>
@@ -933,6 +932,7 @@
         <entry encoding="base64">XDxfZGlzcGF0Y2hlclw+</entry>
         <entry encoding="base64">XDxrZXlcPg==</entry>
         <entry>pressKey</entry>
+        <entry>can-be</entry>
       </history-search>
       <history-cmd>
         <entry>.s/,//gc</entry>
