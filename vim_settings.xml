@@ -168,8 +168,8 @@
       <file name="$USER_HOME$/www/js/karma/lib/cli.js" timestamp="1490123364083">
         <mark key="'" line="150" column="17" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/select/select__popup.test.js" timestamp="1490626600941">
-        <mark key="'" line="93" column="5" />
+      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/select/select__popup.test.js" timestamp="1490629306209">
+        <mark key="'" line="93" column="0" />
         <mark key="[" line="79" column="48" />
         <mark key="]" line="79" column="47" />
         <mark key="." line="79" column="47" />
@@ -308,12 +308,11 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/index.html" timestamp="1490035662781">
         <mark key="'" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/shortcuts/shortcuts.js" timestamp="1490621355146">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="12" column="18" />
-        <mark key="]" line="12" column="21" />
-        <mark key="^" line="12" column="21" />
-        <mark key="." line="12" column="21" />
+      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/shortcuts/shortcuts.js" timestamp="1490629639893">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/workflow/dialog-new-rule.html" timestamp="1490121374509">
         <mark key="'" line="10" column="15" />
@@ -706,7 +705,7 @@
         <mark key="." line="8" column="7" />
         <mark key="^" line="8" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490618039308">
+      <file name="/Dummy.txt" timestamp="1490629486579">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/ring-ui/components/storage/storage__local.js" timestamp="1489834326806">
@@ -804,8 +803,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="639" column="44" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select.test.js" />
-      <jump line="617" column="10" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select.test.js" />
       <jump line="656" column="48" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select.test.js" />
       <jump line="650" column="48" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select.test.js" />
       <jump line="644" column="44" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select.test.js" />
@@ -889,7 +886,6 @@
       <jump line="28" column="24" filename="$USER_HOME$/www/jetbrains/ring-ui/components/shortcuts/shortcuts-hoc.test.js" />
       <jump line="29" column="23" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select__popup.js" />
       <jump line="223" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select__popup.js" />
-      <jump line="93" column="10" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select__popup.test.js" />
       <jump line="39" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select__popup.test.js" />
       <jump line="90" column="6" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select__popup.test.js" />
       <jump line="51" column="9" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select__popup.js" />
@@ -904,16 +900,19 @@
       <jump line="101" column="65" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select__popup.test.js" />
       <jump line="96" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select__popup.test.js" />
       <jump line="97" column="5" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select__popup.test.js" />
+      <jump line="93" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select__popup.test.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/shortcuts/shortcuts.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/shortcuts/shortcuts.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">c2VsZWN0UG9wdXAsIA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgWwogICAgICAgIFByb3BUeXBlcy5hcnJheSwKICAgICAgICBQcm9wVHlwZXMuc3RyaW5nLAogICAgICAgIFByb3BUeXBlcy5vYmplY3QKICAgICAgXQogICAgKQo=</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c2VsZWN0UG9wdXAsIA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRQb3B1cEZpbHRlclNob3J0Y3V0c09wdGlvbnNcPg==</text>
@@ -922,34 +921,34 @@
         <text encoding="base64">ICAgICAgdGhpcy5zaW5vbi5zcHkodGhpcy5zZWxlY3RQb3B1cCwgJ3NldFN0YXRlJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgWwogICAgICAgIFByb3BUeXBlcy5hcnJheSwKICAgICAgICBQcm9wVHlwZXMuc3RyaW5nLAogICAgICAgIFByb3BUeXBlcy5vYmplY3QKICAgICAgXQogICAgKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnQicpOwo=</text>
+        <text encoding="base64">ICAgICAgICBQcm9wVHlwZXMubm9kZSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIGdldFBvcHVwRmlsdGVyU2hvcnRjdXRzT3B0aW9ucyhzZWxlY3RQb3B1cCkgewogICAgICByZXR1cm4gc2VsZWN0UG9wdXAuc3RhdGUucG9wdXBGaWx0ZXJTaG9ydGN1dHNPcHRpb25zOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnQicpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zaW5vbi5zcHkodGhpcy5zZWxlY3RQb3B1cCwgJ3NldFN0YXRlJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIGdldFBvcHVwRmlsdGVyU2hvcnRjdXRzT3B0aW9ucyhzZWxlY3RQb3B1cCkgewogICAgICByZXR1cm4gc2VsZWN0UG9wdXAuc3RhdGUucG9wdXBGaWx0ZXJTaG9ydGN1dHNPcHRpb25zOwogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5zaW5vbi5zcHkodGhpcy5zZWxlY3RQb3B1cCwgJ3NldFN0YXRlJyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KHRoaXMuc2VsZWN0UG9wdXAuc2V0U3RhdGUpLgogICAgICAgIHRvLgogICAgICAgIGJlLgogICAgICAgIGNhbGxlZFdpdGgoY3JlYXRlUG9wdXBGaWx0ZXJTaG9ydGN1dHNTdGF0ZSh0cnVlKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZ2V0UG9wdXBGaWx0ZXJTaG9ydGN1dHNPcHRpb25zKHRoaXMuc2VsZWN0UG9wdXApLmRpc2FibGVkLnNob3VsZC5iZS5mYWxzZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
