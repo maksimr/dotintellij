@@ -729,13 +729,12 @@
       <file name="$USER_HOME$/www/jetbrains/ring-ui/components/shortcuts-ng/shortcuts-ng.js" timestamp="1490354902232">
         <mark key="'" line="14" column="4" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-live-updater.js" timestamp="1490705683659">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-live-updater.js" timestamp="1490705789646">
         <mark key="a" line="111" column="29" />
-        <mark key="'" line="430" column="45" />
-        <mark key="[" line="472" column="0" />
-        <mark key="]" line="473" column="27" />
-        <mark key="." line="473" column="27" />
-        <mark key="^" line="473" column="27" />
+        <mark key="'" line="105" column="48" />
+        <mark key="[" line="473" column="0" />
+        <mark key="]" line="473" column="0" />
+        <mark key="." line="473" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/ring-ui/components/shortcuts/shortcuts-hoc.test.js" timestamp="1490625401966">
         <mark key="'" line="28" column="24" />
@@ -744,7 +743,7 @@
         <mark key="." line="8" column="7" />
         <mark key="^" line="8" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490700039391">
+      <file name="/Dummy.txt" timestamp="1490705735038">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/ring-ui/components/storage/storage__local.js" timestamp="1489834326806">
@@ -850,10 +849,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" />
-      <jump line="51" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" />
-      <jump line="50" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" />
       <jump line="19" column="32" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" />
       <jump line="7" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" />
@@ -931,7 +926,6 @@
       <jump line="379" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-live-updater.js" />
       <jump line="386" column="82" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-live-updater.js" />
       <jump line="402" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-live-updater.js" />
-      <jump line="437" column="88" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-live-updater.js" />
       <jump line="438" column="48" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-live-updater.js" />
       <jump line="467" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-live-updater.js" />
       <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/service/agile-board-live-updater.js" />
@@ -950,10 +944,15 @@
       <jump line="479" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-live-updater.js" />
       <jump line="466" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-live-updater.js" />
       <jump line="430" column="45" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-live-updater.js" />
+      <jump line="111" column="49" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-live-updater.js" />
+      <jump line="437" column="41" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-live-updater.js" />
+      <jump line="188" column="41" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-live-updater.js" />
+      <jump line="133" column="47" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-live-updater.js" />
+      <jump line="105" column="48" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-live-updater.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4nKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzd2ltbGFuZSk7Cg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -962,49 +961,49 @@
         <text>ytUtils.guid(),</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvblVwZGF0ZVNwcmludFN3aW1sYW5lXD4=</text>
+        <text encoding="base64">XDxmaW5kU3dpbWxhbmVPbkJvYXJkXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4nKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhzd2ltbGFuZSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4nKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4+PDwnKTsK</text>
+        <text encoding="base64">ICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAuZmluYWxseShmdW5jdGlvbigpIHsKICAgICAgICAgICAgICAgIHl0QWdpbGVBbmltYXRpb24uZW5hYmxlSXNzdWVBbmltYXRpb25zKHVpLml0ZW0uc29ydGFibGUubW9kZWwpOwogICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4+PDwnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCc+Pj48PCcsIHVpLml0ZW0uc29ydGFibGUubW9kZWwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAuZmluYWxseShmdW5jdGlvbigpIHsKICAgICAgICAgICAgICAgIHl0QWdpbGVBbmltYXRpb24uZW5hYmxlSXNzdWVBbmltYXRpb25zKHVpLml0ZW0uc29ydGFibGUubW9kZWwpOwogICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCc+Pj48PCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCc+Pj48PCcsIHVpLml0ZW0uc29ydGFibGUubW9kZWwpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCc+Pj48PCcpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZ3VpZDogcmVxdWlyZSgnbW91dC9yYW5kb20vZ3VpZCcpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCc+Pj4nLCBkcm9wSW5kZXgsIHN3aW1sYW5lLmlkKTsK</text>
+        <text encoding="base64">ICAgICAgZ3VpZDogcmVxdWlyZSgnbW91dC9yYW5kb20vZ3VpZCcpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvblVwZGF0ZVNwcmludFN3aW1sYW5lXD4=</last-search>
+      <last-search encoding="base64">XDxmaW5kU3dpbWxhbmVPbkJvYXJkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvblVwZGF0ZVNwcmludFN3aW1sYW5lXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxmaW5kU3dpbWxhbmVPbkJvYXJkXD4=</last-pattern>
       <last-replace>yt-issue-feed-item</last-replace>
       <last-substitute>yt-issue-comment</last-substitute>
       <last-dir>-1</last-dir>
@@ -1012,7 +1011,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRTcHJpbnRCb2FyZFw+</entry>
         <entry>get</entry>
         <entry>getSprintBoard</entry>
         <entry>createIssue</entry>
@@ -1032,6 +1030,7 @@
         <entry encoding="base64">XDx1cGRhdGVTd2ltbGFuZVw+</entry>
         <entry encoding="base64">XDxfdXBkYXRlU3dpbWxhbmVcPg==</entry>
         <entry encoding="base64">XDxvblVwZGF0ZVNwcmludFN3aW1sYW5lXD4=</entry>
+        <entry encoding="base64">XDxmaW5kU3dpbWxhbmVPbkJvYXJkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>.s/,//gc</entry>
