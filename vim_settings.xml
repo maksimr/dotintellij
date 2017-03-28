@@ -561,13 +561,6 @@
         <mark key="." line="25" column="40" />
         <mark key="^" line="25" column="40" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select/select__popup.js" timestamp="1490614492775">
-        <mark key="a" line="128" column="32" />
-        <mark key="'" line="18" column="6" />
-        <mark key="[" line="66" column="28" />
-        <mark key="]" line="66" column="28" />
-        <mark key="." line="66" column="28" />
-      </file>
       <file name="$USER_HOME$/www/clojure/foo/src/foo/_.cljs" timestamp="1489178901902">
         <mark key="'" line="33" column="4" />
       </file>
@@ -611,10 +604,10 @@
         <mark key="^" line="82" column="41" />
         <mark key="." line="82" column="41" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" timestamp="1490090394708">
-        <mark key="'" line="54" column="15" />
-        <mark key="[" line="62" column="10" />
-        <mark key="]" line="62" column="13" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" timestamp="1490695449569">
+        <mark key="'" line="117" column="2" />
+        <mark key="[" line="201" column="0" />
+        <mark key="]" line="202" column="36" />
         <mark key="." line="62" column="13" />
         <mark key="^" line="62" column="13" />
       </file>
@@ -803,9 +796,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="136" column="24" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select__popup.js" />
-      <jump line="93" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select__popup.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select__popup.js" />
       <jump line="48" column="29" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select__popup.js" />
       <jump line="65" column="6" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select__popup.test.js" />
       <jump line="52" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select__popup.test.js" />
@@ -903,10 +893,13 @@
       <jump line="117" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
       <jump line="122" column="3" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
       <jump line="137" column="98" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
+      <jump line="110" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
+      <jump line="117" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgWwogICAgICAgIFByb3BUeXBlcy5hcnJheSwKICAgICAgICBQcm9wVHlwZXMuc3RyaW5nLAogICAgICAgIFByb3BUeXBlcy5vYmplY3QKICAgICAgXQogICAgKQo=</text>
+        <text encoding="base64">YGBgCiAgbnBtIHJ1biB0ZXN0OmUyZTpzZXJ2ZXIgLS0gZGIuc2F2ZQo=</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -915,10 +908,10 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>dev</text>
+        <text>database</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zaW5vbi5zcHkodGhpcy5zZWxlY3RQb3B1cCwgJ3NldFN0YXRlJyk7Cg==</text>
+        <text encoding="base64">YGBgCiAgbnBtIHJ1biB0ZXN0OmUyZTpzZXJ2ZXIgLS0gZGIuc2F2ZQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgWwogICAgICAgIFByb3BUeXBlcy5hcnJheSwKICAgICAgICBQcm9wVHlwZXMuc3RyaW5nLAogICAgICAgIFByb3BUeXBlcy5vYmplY3QKICAgICAgXQogICAgKQo=</text>
@@ -955,9 +948,9 @@
       </register>
     </registers>
     <search>
-      <last-search>dev</last-search>
+      <last-search>database</last-search>
       <last-offset />
-      <last-pattern>dev</last-pattern>
+      <last-pattern>database</last-pattern>
       <last-replace>yt-issue-feed-item</last-replace>
       <last-substitute>yt-issue-comment</last-substitute>
       <last-dir>1</last-dir>
@@ -965,9 +958,6 @@
     </search>
     <history>
       <history-search>
-        <entry>noop</entry>
-        <entry>relat</entry>
-        <entry>rela</entry>
         <entry>rel</entry>
         <entry>date</entry>
         <entry>Rela</entry>
@@ -985,6 +975,9 @@
         <entry encoding="base64">XDxwb3B1cEZpbHRlclNob3J0Y3V0c09wdGlvbnNcPg==</entry>
         <entry encoding="base64">XDxnZXRQb3B1cEZpbHRlclNob3J0Y3V0c09wdGlvbnNcPg==</entry>
         <entry>dev</entry>
+        <entry>base</entry>
+        <entry>data</entry>
+        <entry>database</entry>
       </history-search>
       <history-cmd>
         <entry>.s/,//gc</entry>
