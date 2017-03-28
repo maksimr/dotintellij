@@ -113,6 +113,9 @@
       <file name="$USER_HOME$/www/jetbrains/ring-ui/node_modules/react-dom/lib/ReactDOM.js" timestamp="1490345155770">
         <mark key="'" line="101" column="62" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/react-ng/react-ng.js" timestamp="1490719706820">
+        <mark key="'" line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/vcs-changes/template/yt-vcs-change.html" timestamp="1489594279903">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="88" column="50" />
@@ -520,6 +523,13 @@
       <file name="$USER_HOME$/www/jetbrains/ring-ui/components/popup/popup.js" timestamp="1490614643205">
         <mark key="'" line="401" column="11" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/query-assist/query-assist.examples.html" timestamp="1490720764584">
+        <mark key="'" line="127" column="10" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="116" column="20" />
+        <mark key="." line="162" column="26" />
+        <mark key="^" line="162" column="26" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/template/yt-date-picker-dropdown.html" timestamp="1489576616322">
         <mark key="'" line="7" column="23" />
       </file>
@@ -783,15 +793,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="285" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/board-columns-utils.js" />
-      <jump line="261" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/service/board-columns-utils.js" />
-      <jump line="265" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/service/board-columns-utils.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/service/board-columns-utils.js" />
-      <jump line="126" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/service/board-columns-utils.js" />
-      <jump line="4" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/board-columns-utils.js" />
-      <jump line="53" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/board-columns-utils.js" />
-      <jump line="46" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/board-columns-utils.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/board-columns-utils.js" />
       <jump line="269" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/board-columns-utils.js" />
       <jump line="279" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/board-columns-utils.js" />
       <jump line="147" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
@@ -883,22 +884,31 @@
       <jump line="43" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/contenteditable/contenteditable.js" />
       <jump line="48" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/contenteditable/contenteditable.js" />
       <jump line="81" column="45" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/contenteditable/contenteditable.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/react-ng/react-ng.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/query-assist/query-assist.examples.html" />
+      <jump line="144" column="11" filename="$USER_HOME$/www/jetbrains/ring-ui/components/query-assist/query-assist.examples.html" />
+      <jump line="147" column="40" filename="$USER_HOME$/www/jetbrains/ring-ui/components/query-assist/query-assist.examples.html" />
+      <jump line="208" column="9" filename="$USER_HOME$/www/jetbrains/ring-ui/components/query-assist/query-assist.examples.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/query-assist/query-assist.examples.html" />
+      <jump line="216" column="8" filename="$USER_HOME$/www/jetbrains/ring-ui/components/query-assist/query-assist.examples.html" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/query-assist/query-assist.examples.html" />
+      <jump line="127" column="10" filename="$USER_HOME$/www/jetbrains/ring-ui/components/query-assist/query-assist.examples.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuaW5wdXQpOwo=</text>
+        <text encoding="base64">PGV4YW1wbGUgbmFtZT0iUXVlcnlBc3Npc3QgaW4gQW5ndWxhckpTIj4KICA8ZmlsZSB0eXBlPSJodG1sIj4K</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>streemItem</text>
+        <text>Input something to init Query Assist</text>
       </register>
       <register name="/" type="4">
-        <text>disabled</text>
+        <text>x-disa</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBucG0gcnVuIHRlc3Q6ZTJlOnNlcnZlciAtLSBydW5Gcm9tU291cmNlIC0tcGFyYW1zLnNlcnZlci5wb3J0PTk5OTkKYGBgCg==</text>
+        <text encoding="base64">PGV4YW1wbGUgbmFtZT0iUXVlcnlBc3Npc3QgaW4gQW5ndWxhckpTIj4KICA8ZmlsZSB0eXBlPSJodG1sIj4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuaW5wdXQpOwo=</text>
@@ -935,9 +945,9 @@
       </register>
     </registers>
     <search>
-      <last-search>disabled</last-search>
+      <last-search>x-disa</last-search>
       <last-offset />
-      <last-pattern>disabled</last-pattern>
+      <last-pattern>x-disa</last-pattern>
       <last-replace>yt-issue-feed-item</last-replace>
       <last-substitute>yt-issue-comment</last-substitute>
       <last-dir>1</last-dir>
@@ -945,11 +955,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxleHBsaWNpdFF1ZXJ5XD4=</entry>
-        <entry>query</entry>
-        <entry>QueryAssist</entry>
-        <entry>model</entry>
-        <entry>explicitQuery</entry>
         <entry>server</entry>
         <entry>fromSou</entry>
         <entry>from</entry>
@@ -964,7 +969,12 @@
         <entry>input</entry>
         <entry>console</entry>
         <entry encoding="base64">XDxyZWZJbnB1dFw+</entry>
+        <entry>example</entry>
+        <entry>query</entry>
+        <entry>react-ng</entry>
         <entry>disabled</entry>
+        <entry>angular</entry>
+        <entry>x-disa</entry>
       </history-search>
       <history-cmd>
         <entry>.s/,//gc</entry>
