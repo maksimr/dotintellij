@@ -9,11 +9,11 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/test/unit/test-common.js" timestamp="1490698248026">
         <mark key="'" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/www/js/karma/lib/browser.js" timestamp="1490819276302">
-        <mark key="'" line="78" column="0" />
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="." line="101" column="0" />
+      <file name="$USER_HOME$/www/js/karma/lib/browser.js" timestamp="1490820725513">
+        <mark key="'" line="106" column="25" />
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="100" column="0" />
+        <mark key="." line="100" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dashboard/dashboard.js" timestamp="1490812658608">
         <mark key="'" line="42" column="17" />
@@ -140,7 +140,7 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-board.html" timestamp="1489766832178">
         <mark key="'" line="13" column="42" />
       </file>
-      <file name="$USER_HOME$/www/js/karma/lib/server.js" timestamp="1490818111626">
+      <file name="$USER_HOME$/www/js/karma/lib/server.js" timestamp="1490820285579">
         <mark key="'" line="234" column="43" />
         <mark key="[" line="248" column="0" />
         <mark key="]" line="248" column="0" />
@@ -380,7 +380,7 @@
         <mark key="." line="8" column="7" />
         <mark key="^" line="8" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490819189468">
+      <file name="/Dummy.txt" timestamp="1490820285997">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/js/karma/lib/file-list.js" timestamp="1490451955455">
@@ -861,9 +861,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4629" column="65" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
-      <jump line="4628" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
-      <jump line="4667" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
       <jump line="1910" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
       <jump line="14194" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
       <jump line="14195" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
@@ -961,6 +958,9 @@
       <jump line="129" column="0" filename="$USER_HOME$/www/js/karma/lib/browser.js" />
       <jump line="10" column="19" filename="$USER_HOME$/www/js/karma/lib/events.js" />
       <jump line="78" column="0" filename="$USER_HOME$/www/js/karma/lib/browser.js" />
+      <jump line="83" column="2" filename="$USER_HOME$/www/js/karma/lib/browser.js" />
+      <jump line="100" column="26" filename="$USER_HOME$/www/js/karma/lib/browser.js" />
+      <jump line="106" column="25" filename="$USER_HOME$/www/js/karma/lib/browser.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -973,7 +973,7 @@
         <text encoding="base64">Pj48PDw8PA==</text>
       </register>
       <register name="/" type="4">
-        <text>onInf</text>
+        <text>info</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc+Pjw8PDw8JykK</text>
@@ -1013,9 +1013,9 @@
       </register>
     </registers>
     <search>
-      <last-search>onInf</last-search>
+      <last-search>info</last-search>
       <last-offset />
-      <last-pattern>onInf</last-pattern>
+      <last-pattern>info</last-pattern>
       <last-replace>yt-issue-feed-item</last-replace>
       <last-substitute>yt-issue-comment</last-substitute>
       <last-dir>1</last-dir>
@@ -1034,7 +1034,6 @@
         <entry encoding="base64">XDxyZXBseVNvY2tldEV2ZW50c1w+</entry>
         <entry encoding="base64">XDxjb21wbGV0ZVw+</entry>
         <entry>complete</entry>
-        <entry>info</entry>
         <entry>socket</entry>
         <entry>buffer</entry>
         <entry>karma_error</entry>
@@ -1043,6 +1042,7 @@
         <entry>onComplete</entry>
         <entry>conso</entry>
         <entry>onInf</entry>
+        <entry>info</entry>
       </history-search>
       <history-cmd>
         <entry>.s/,//gc</entry>
