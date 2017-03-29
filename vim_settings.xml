@@ -564,8 +564,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/oauth.js" timestamp="1490619577158">
         <mark key="'" line="103" column="21" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/dashboard/dashboard.js" timestamp="1490813576984">
-        <mark key="'" line="8" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/dashboard/dashboard.js" timestamp="1490815472928">
+        <mark key="'" line="86" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/hub/test/e2e/hub.spec.js" timestamp="1490090339933">
         <mark key="'" line="12" column="0" />
@@ -579,6 +579,9 @@
         <mark key="]" line="116" column="20" />
         <mark key="." line="162" column="26" />
         <mark key="^" line="162" column="26" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-sanitize/index.js" timestamp="1490815467129">
+        <mark key="'" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/template/yt-date-picker-dropdown.html" timestamp="1489576616322">
         <mark key="'" line="7" column="23" />
@@ -827,18 +830,15 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/jira-import/import-step.html" timestamp="1489493470503">
         <mark key="'" line="93" column="16" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/components.gradle" timestamp="1490814607829">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/components.gradle" timestamp="1490815459907">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="23" column="18" />
-        <mark key="]" line="23" column="28" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="24" column="67" />
         <mark key="." line="23" column="28" />
         <mark key="^" line="23" column="28" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="119" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dashboard/dashboard.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-hub/dashboard/blocks/dashboard/dashboard.js" />
-      <jump line="78" column="60" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-hub/dashboard/blocks/dashboard/dashboard.js" />
       <jump line="99" column="65" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-hub/dashboard/blocks/dashboard/dashboard.js" />
       <jump line="258" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-hub/dashboard/blocks/dashboard/dashboard.js" />
       <jump line="263" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-hub/dashboard/blocks/dashboard/dashboard.js" />
@@ -936,10 +936,13 @@
       <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/wiki/wiki.js" />
       <jump line="54" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/wiki/wiki.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/components.gradle" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-sanitize/index.js" />
+      <jump line="7" column="48" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/dashboard/dashboard.js" />
+      <jump line="86" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/dashboard/dashboard.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2017.1.4996</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZXh0Lmh1YlZlcnNpb24gPSAnMjAxNy4xLjQ4OTAnCmV4dC5odWJTZXJ2ZXJCdWlsZFR5cGVJZCA9ICdIdWJfRGV2ZWxvcF9CdWlsZEJhY2tFbmRGcm9udEVuZEdyYWRsZScK</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -950,8 +953,8 @@
       <register name="/" type="4">
         <text>hub</text>
       </register>
-      <register name="0" type="4">
-        <text>1.6.3</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZXh0Lmh1YlZlcnNpb24gPSAnMjAxNy4xLjQ4OTAnCmV4dC5odWJTZXJ2ZXJCdWlsZFR5cGVJZCA9ICdIdWJfRGV2ZWxvcF9CdWlsZEJhY2tFbmRGcm9udEVuZEdyYWRsZScK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAnbmdTYW5pdGl6ZScsCg==</text>
