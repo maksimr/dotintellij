@@ -134,7 +134,7 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-board.html" timestamp="1489766832178">
         <mark key="'" line="13" column="42" />
       </file>
-      <file name="$USER_HOME$/www/js/karma/lib/server.js" timestamp="1490817966151">
+      <file name="$USER_HOME$/www/js/karma/lib/server.js" timestamp="1490818111626">
         <mark key="'" line="234" column="43" />
         <mark key="[" line="248" column="0" />
         <mark key="]" line="248" column="0" />
@@ -728,6 +728,9 @@
         <mark key="^" line="28" column="44" />
         <mark key="." line="28" column="44" />
       </file>
+      <file name="$USER_HOME$/www/js/karma/lib/events.js" timestamp="1490818107795">
+        <mark key="'" line="58" column="14" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/code-editor.js" timestamp="1490112311149">
         <mark key="'" line="21" column="43" />
         <mark key="[" line="16" column="47" />
@@ -852,9 +855,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/test/unit/test-bundle.webpack.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
-      <jump line="251" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
       <jump line="288" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
       <jump line="529" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
       <jump line="553" column="32" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
@@ -952,6 +952,9 @@
       <jump line="135" column="0" filename="$USER_HOME$/www/js/karma/lib/server.js" />
       <jump line="244" column="10" filename="$USER_HOME$/www/js/karma/lib/server.js" />
       <jump line="234" column="43" filename="$USER_HOME$/www/js/karma/lib/server.js" />
+      <jump line="47" column="0" filename="$USER_HOME$/www/js/karma/lib/events.js" />
+      <jump line="12" column="23" filename="$USER_HOME$/www/js/karma/lib/events.js" />
+      <jump line="58" column="14" filename="$USER_HOME$/www/js/karma/lib/events.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -964,7 +967,7 @@
         <text>2017.1.4996</text>
       </register>
       <register name="/" type="4">
-        <text>karma_error</text>
+        <text>bindAll</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZXh0Lmh1YlZlcnNpb24gPSAnMjAxNy4xLjQ4OTAnCmV4dC5odWJTZXJ2ZXJCdWlsZFR5cGVJZCA9ICdIdWJfRGV2ZWxvcF9CdWlsZEJhY2tFbmRGcm9udEVuZEdyYWRsZScK</text>
@@ -1004,9 +1007,9 @@
       </register>
     </registers>
     <search>
-      <last-search>karma_error</last-search>
+      <last-search>bindAll</last-search>
       <last-offset />
-      <last-pattern>karma_error</last-pattern>
+      <last-pattern>bindAll</last-pattern>
       <last-replace>yt-issue-feed-item</last-replace>
       <last-substitute>yt-issue-comment</last-substitute>
       <last-dir>1</last-dir>
@@ -1014,7 +1017,6 @@
     </search>
     <history>
       <history-search>
-        <entry>arg</entry>
         <entry>Argument</entry>
         <entry>modulerr</entry>
         <entry>issue</entry>
@@ -1034,6 +1036,7 @@
         <entry>socket</entry>
         <entry>buffer</entry>
         <entry>karma_error</entry>
+        <entry>bindAll</entry>
       </history-search>
       <history-cmd>
         <entry>.s/,//gc</entry>
