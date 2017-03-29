@@ -140,10 +140,10 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-board.html" timestamp="1489766832178">
         <mark key="'" line="13" column="42" />
       </file>
-      <file name="$USER_HOME$/www/js/karma/lib/server.js" timestamp="1490820285579">
-        <mark key="'" line="234" column="43" />
-        <mark key="[" line="248" column="0" />
-        <mark key="]" line="248" column="0" />
+      <file name="$USER_HOME$/www/js/karma/lib/server.js" timestamp="1490821486883">
+        <mark key="'" line="91" column="8" />
+        <mark key="[" line="68" column="4" />
+        <mark key="]" line="68" column="15" />
         <mark key="." line="248" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/form/directive/yt-form-checkbox.js" timestamp="1489580387949">
@@ -861,11 +861,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1910" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
-      <jump line="14194" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
-      <jump line="14195" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
-      <jump line="246" column="87" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
-      <jump line="1920" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
       <jump line="4080" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
       <jump line="14170" column="83" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/dashboard/test/dashboard.js" />
@@ -961,10 +956,15 @@
       <jump line="83" column="2" filename="$USER_HOME$/www/js/karma/lib/browser.js" />
       <jump line="100" column="26" filename="$USER_HOME$/www/js/karma/lib/browser.js" />
       <jump line="106" column="25" filename="$USER_HOME$/www/js/karma/lib/browser.js" />
+      <jump line="220" column="23" filename="$USER_HOME$/www/js/karma/lib/server.js" />
+      <jump line="235" column="50" filename="$USER_HOME$/www/js/karma/lib/server.js" />
+      <jump line="236" column="47" filename="$USER_HOME$/www/js/karma/lib/server.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/js/karma/lib/server.js" />
+      <jump line="91" column="8" filename="$USER_HOME$/www/js/karma/lib/server.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc+Pjw8PDw8JykK</text>
+      <register name="&quot;" type="4">
+        <text>socketServer</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -973,7 +973,7 @@
         <text encoding="base64">Pj48PDw8PA==</text>
       </register>
       <register name="/" type="4">
-        <text>info</text>
+        <text>inject</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc+Pjw8PDw8JykK</text>
@@ -1013,9 +1013,9 @@
       </register>
     </registers>
     <search>
-      <last-search>info</last-search>
+      <last-search>inject</last-search>
       <last-offset />
-      <last-pattern>info</last-pattern>
+      <last-pattern>inject</last-pattern>
       <last-replace>yt-issue-feed-item</last-replace>
       <last-substitute>yt-issue-comment</last-substitute>
       <last-dir>1</last-dir>
@@ -1023,7 +1023,6 @@
     </search>
     <history>
       <history-search>
-        <entry>angular</entry>
         <entry>angular-</entry>
         <entry>wiki</entry>
         <entry>sani</entry>
@@ -1034,7 +1033,6 @@
         <entry encoding="base64">XDxyZXBseVNvY2tldEV2ZW50c1w+</entry>
         <entry encoding="base64">XDxjb21wbGV0ZVw+</entry>
         <entry>complete</entry>
-        <entry>socket</entry>
         <entry>buffer</entry>
         <entry>karma_error</entry>
         <entry>bindAll</entry>
@@ -1043,6 +1041,8 @@
         <entry>conso</entry>
         <entry>onInf</entry>
         <entry>info</entry>
+        <entry>socket</entry>
+        <entry>inject</entry>
       </history-search>
       <history-cmd>
         <entry>.s/,//gc</entry>
