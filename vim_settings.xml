@@ -427,6 +427,11 @@
         <mark key="." line="374" column="53" />
         <mark key="^" line="374" column="53" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/server.sh" timestamp="1490881200858">
+        <mark key="'" line="50" column="38" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="83" column="36" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/oauth.js" timestamp="1490878322241">
         <mark key="'" line="141" column="12" />
         <mark key="[" line="137" column="11" />
@@ -633,8 +638,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="109" column="60" filename="$USER_HOME$/www/js/karma/package.json" />
-      <jump line="375" column="5" filename="$USER_HOME$/www/js/karma/package.json" />
       <jump line="379" column="5" filename="$USER_HOME$/www/js/karma/package.json" />
       <jump line="105" column="0" filename="$USER_HOME$/www/js/karma/package.json" />
       <jump line="0" column="0" filename="$USER_HOME$/www/js/karma/package.json" />
@@ -733,10 +736,12 @@
       <jump line="141" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/oauth.js" />
       <jump line="72" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/upsource-integration.js" />
       <jump line="181" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/upsource-integration.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/server.sh" />
+      <jump line="50" column="38" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/server.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.error(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLVB1c2VyLmhvbWU9JChzZXJ2ZXIgJ3VzZXIuaG9tZScpCiAgICAgICQoeEFyZ0ZpbHRlciAtUCogJHByb2Nlc3NBcmd2KQo=</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -745,10 +750,10 @@
         <text>.error(</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkb21haW5TZXR0aW5nc1Jlc291cmNlXD4=</text>
+        <text>test</text>
       </register>
-      <register name="0" type="4">
-        <text>api/admin/domainSettings</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgLVB1c2VyLmhvbWU9JChzZXJ2ZXIgJ3VzZXIuaG9tZScpCiAgICAgICQoeEFyZ0ZpbHRlciAtUCogJHByb2Nlc3NBcmd2KQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRvbWFpblNldHRpbmdzUmVzb3VyY2UucmVzdFVybCk7Cg==</text>
@@ -785,17 +790,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkb21haW5TZXR0aW5nc1Jlc291cmNlXD4=</last-search>
+      <last-search>test</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkb21haW5TZXR0aW5nc1Jlc291cmNlXD4=</last-pattern>
+      <last-pattern>test</last-pattern>
       <last-replace>yt-issue-feed-item</last-replace>
       <last-substitute>yt-issue-comment</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxodXNreVw+</entry>
         <entry>eslint</entry>
         <entry>'css'</entry>
         <entry>css</entry>
@@ -815,6 +819,7 @@
         <entry>angular-</entry>
         <entry>success</entry>
         <entry encoding="base64">XDxkb21haW5TZXR0aW5nc1Jlc291cmNlXD4=</entry>
+        <entry>test</entry>
       </history-search>
       <history-cmd>
         <entry>7</entry>
