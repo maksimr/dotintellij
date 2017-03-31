@@ -341,6 +341,9 @@
         <mark key="^" line="82" column="41" />
         <mark key="." line="82" column="41" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-feed.js" timestamp="1490965888892">
+        <mark key="'" line="40" column="6" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/scripts/script-list.html" timestamp="1490114173569">
         <mark key="'" line="67" column="0" />
         <mark key="[" line="80" column="0" />
@@ -966,14 +969,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/upsource-integration.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/upsource-integration.js" />
-      <jump line="37" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/domain-settings.js" />
-      <jump line="23" column="27" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/domain-settings.js" />
-      <jump line="22" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/domain-settings.js" />
-      <jump line="16" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/domain-settings.js" />
-      <jump line="17" column="1" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/domain-settings.js" />
-      <jump line="46" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/domain-settings.js" />
       <jump line="141" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/oauth.js" />
       <jump line="72" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/upsource-integration.js" />
       <jump line="181" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/upsource-integration.js" />
@@ -1066,6 +1061,14 @@
       <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/template/general-improvements.html" />
       <jump line="19" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/template/general-improvements.html" />
       <jump line="28" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/template/general-improvements.html" />
+      <jump line="8" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-feed.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-feed.js" />
+      <jump line="706" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-feed.js" />
+      <jump line="39" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-feed.js" />
+      <jump line="360" column="41" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-feed.js" />
+      <jump line="42" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-feed.js" />
+      <jump line="41" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-feed.js" />
+      <jump line="40" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-feed.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1078,7 +1081,7 @@
         <text>YouTrack-Live-Dashboard.html</text>
       </register>
       <register name="/" type="4">
-        <text>user</text>
+        <text encoding="base64">XDxzdHJlYW1RdWVyeUZpbHRlcmluZ1R5cGVzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDx5dC1kb2N1bWVudGF0aW9uLWxpbmsgc2VjdGlvbj0iWW91VHJhY2stTGl2ZS1EYXNoYm9hcmQuaHRtbCI+PHNwYW4gdHJhbnNsYXRlPSIiPlJlYWQgbW9yZTwvc3Bhbj48L3l0LWRvY3VtZW50YXRpb24tbGluaz4uCg==</text>
@@ -1119,17 +1122,16 @@
       </register>
     </registers>
     <search>
-      <last-search>user</last-search>
+      <last-search encoding="base64">XDxzdHJlYW1RdWVyeUZpbHRlcmluZ1R5cGVzXD4=</last-search>
       <last-offset />
-      <last-pattern>user</last-pattern>
+      <last-pattern encoding="base64">XDxzdHJlYW1RdWVyeUZpbHRlcmluZ1R5cGVzXD4=</last-pattern>
       <last-replace>yt-issue-feed-item</last-replace>
       <last-substitute>yt-issue-comment</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ani</entry>
         <entry>angular-</entry>
         <entry>success</entry>
         <entry encoding="base64">XDxkb21haW5TZXR0aW5nc1Jlc291cmNlXD4=</entry>
@@ -1149,6 +1151,7 @@
         <entry encoding="base64">XDxjb21wb25lbnRzTWFwXD4=</entry>
         <entry>upda</entry>
         <entry>user</entry>
+        <entry encoding="base64">XDxzdHJlYW1RdWVyeUZpbHRlcmluZ1R5cGVzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>7</entry>
