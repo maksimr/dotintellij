@@ -102,6 +102,13 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/contenteditable/contenteditable.js" timestamp="1490776493743">
         <mark key="'" line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/service/custom-fields/custom-field-convert.js" timestamp="1490972491787">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="78" column="44" />
+        <mark key="]" line="78" column="44" />
+        <mark key="." line="78" column="44" />
+        <mark key="^" line="78" column="44" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/karma.conf.js" timestamp="1490201209949">
         <mark key="'" line="59" column="0" />
         <mark key="[" line="61" column="0" />
@@ -408,12 +415,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/custom-fields/custom-fields-per-project.js" timestamp="1490958876955">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/custom-fields/custom-fields-per-project.js" timestamp="1490972275555">
         <mark key="'" line="398" column="0" />
-        <mark key="[" line="317" column="4" />
-        <mark key="]" line="317" column="4" />
-        <mark key="^" line="317" column="4" />
-        <mark key="." line="317" column="4" />
+        <mark key="[" line="320" column="34" />
+        <mark key="]" line="320" column="33" />
+        <mark key="^" line="320" column="33" />
+        <mark key="." line="320" column="33" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/ring-ui/components/compiler-ng/compiler-ng.js" timestamp="1489835389900">
         <mark key="'" line="5" column="0" />
@@ -986,8 +993,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/analytics/analytics.js" />
-      <jump line="22" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/test/directive/yt-icon.js" />
       <jump line="91" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/database-backup.js" />
       <jump line="316" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/custom-fields/custom-fields-per-project.js" />
       <jump line="34" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/custom-fields/custom-fields-per-project.js" />
@@ -1086,16 +1091,18 @@
       <jump line="468" column="42" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-feed.js" />
       <jump line="24" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/angular/angular.js" />
       <jump line="18" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/angular/angular.js" />
+      <jump line="79" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/service/custom-fields/custom-field-convert.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/service/custom-fields/custom-field-convert.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIC5jYXRjaChmdW5jdGlvbigpIHsKICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>angular.noop('TODO(maksimrv): confirm should not reject promise on cancel')</text>
       </register>
       <register name="/" type="4">
         <text>comment</text>
@@ -1104,31 +1111,31 @@
         <text encoding="base64">ICAgIHZhciBpc3N1ZUNvbW1lbnRzVGFiID0gY3JlYXRlSXNzdWVUYWIoJ2NvbW1lbnRzJywgewogICAgICB0ZW1wbGF0ZTogJzxkaXY+PC9kaXY+JywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC5jYXRjaChmdW5jdGlvbigpIHsKICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhciBmb28gPSAnPGlzc3VlLXRhYiBuZy1pZj0iIj48aXNzdWUtdGFiLXRpdGxlPjwvaXNzdWUtdGFiLXRpdGxlPjwvaXNzdWUtdGFiPic7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHt9Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaWNvbjogJycsCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC5jYXRjaChhbmd1bGFyLm5vb3AoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhciBmb28gPSAnPGlzc3VlLXRhYiBuZy1pZj0iIj48aXNzdWUtdGFiLXRpdGxlPjwvaXNzdWUtdGFiLXRpdGxlPjwvaXNzdWUtdGFiPic7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaXNzdWVGZWVkOiB7fQo=</text>
+        <text encoding="base64">ICAgICAgaWNvbjogJycsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcGVybWlzc2lvbnM6ICcnLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
