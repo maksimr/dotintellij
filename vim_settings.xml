@@ -197,6 +197,9 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/form/directive/yt-form-checkbox.js" timestamp="1489580387949">
         <mark key="'" line="39" column="40" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.js" timestamp="1491033028712">
+        <mark key="'" line="220" column="2" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/ring-ui/node_modules/react-dom/lib/ReactDOM.js" timestamp="1490345155770">
         <mark key="'" line="101" column="62" />
       </file>
@@ -525,7 +528,7 @@
         <mark key="." line="8" column="7" />
         <mark key="^" line="8" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1490996786959">
+      <file name="/Dummy.txt" timestamp="1491032957051">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/js/karma/lib/file-list.js" timestamp="1490451955455">
@@ -1163,19 +1166,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16974" column="71" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
-      <jump line="68" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/edit-project/time-tracking.js" />
-      <jump line="70" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/edit-project/time-tracking.js" />
-      <jump line="74" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/edit-project/time-tracking.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
-      <jump line="26" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
-      <jump line="24" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
-      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-resource/angular-resource.js" />
-      <jump line="57" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-resource/angular-resource.js" />
-      <jump line="61" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-resource/angular-resource.js" />
-      <jump line="52" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-resource/angular-resource.js" />
-      <jump line="55" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-resource/angular-resource.js" />
       <jump line="77" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/edit-project/time-tracking.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
       <jump line="67" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/edit-project/time-tracking.js" />
@@ -1263,6 +1253,19 @@
       <jump line="63" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog/dialog.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog/dialog.js" />
       <jump line="71" column="39" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog/dialog.js" />
+      <jump line="36" column="6" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.js" />
+      <jump line="173" column="20" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.js" />
+      <jump line="222" column="9" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.js" />
+      <jump line="35" column="30" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.js" />
+      <jump line="37" column="20" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.js" />
+      <jump line="118" column="11" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.js" />
+      <jump line="119" column="29" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.js" />
+      <jump line="171" column="24" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.js" />
+      <jump line="194" column="22" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.js" />
+      <jump line="197" column="10" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.js" />
+      <jump line="201" column="3" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.js" />
+      <jump line="215" column="9" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.js" />
+      <jump line="220" column="2" filename="$USER_HOME$/www/jetbrains/ring-ui/components/dialog-ng/dialog-ng.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1342,8 +1345,8 @@
         <entry encoding="base64">XDxjb25maXJtTW9ja1w+</entry>
         <entry>fit</entry>
         <entry>when com</entry>
-        <entry>reject</entry>
         <entry>this.reject</entry>
+        <entry>reject</entry>
         <entry>reset</entry>
       </history-search>
       <history-cmd>
