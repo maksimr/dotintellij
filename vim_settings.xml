@@ -507,12 +507,12 @@
       <file name="$USER_HOME$/www/js/karma/lib/preprocessor.js" timestamp="1491035614229">
         <mark key="'" line="126" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/query-assist/query-assist.js" timestamp="1491224334367">
-        <mark key="'" line="205" column="34" />
-        <mark key="[" line="235" column="19" />
-        <mark key="]" line="236" column="21" />
-        <mark key="." line="236" column="21" />
-        <mark key="^" line="236" column="21" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/query-assist/query-assist.js" timestamp="1491224408244">
+        <mark key="'" line="236" column="2" />
+        <mark key="[" line="215" column="19" />
+        <mark key="]" line="215" column="31" />
+        <mark key="." line="215" column="31" />
+        <mark key="^" line="215" column="31" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/vcs-changes/vcs-changes.js" timestamp="1489588688782">
         <mark key="'" line="5" column="49" />
@@ -543,8 +543,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="528" column="13" filename="$USER_HOME$/www/js/karma/test/unit/file-list.spec.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/js/karma/test/unit/file-list.spec.js" />
       <jump line="60" column="6" filename="$USER_HOME$/www/js/karma/test/unit/file-list.spec.js" />
       <jump line="61" column="73" filename="$USER_HOME$/www/js/karma/test/unit/file-list.spec.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/js/karma/node_modules/glob/common.js" />
@@ -643,10 +641,12 @@
       <jump line="170" column="55" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/query-assist/query-assist.js" />
       <jump line="174" column="40" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/query-assist/query-assist.js" />
       <jump line="205" column="34" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/query-assist/query-assist.js" />
+      <jump line="216" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/query-assist/query-assist.js" />
+      <jump line="235" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/query-assist/query-assist.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">L15bXlxePD5AISMkJVwvXSokLw==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc+Pj4+PicpOwo=</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -655,57 +655,56 @@
         <text encoding="base64">IHNob3VsZFNldEZvY3Vz</text>
       </register>
       <register name="/" type="4">
-        <text>focus</text>
+        <text encoding="base64">XDxzZXRGb2N1c1w+</text>
       </register>
       <register name="0" type="4">
         <text>[0-9A-Za-z_]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdRdWVyeUFzc2lzdCcsIGZvY3VzLCBzaG91bGRTZXRGb2N1cyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc+Pj4+PicpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygnPj4+aycpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdRdWVyeUFzc2lzdCcsIGZvY3VzLCBzaG91bGRTZXRGb2N1cyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJz4+PmsnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygnPj4+aycpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm9jdXM9ImFnaWxlQm9hcmRDdHJsLmZvY3VzT25RdWVyeSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJz4+PmsnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkaXNwbGF5OiBibG9jazsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZm9jdXM9ImFnaWxlQm9hcmRDdHJsLmZvY3VzT25RdWVyeSIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkaXNwbGF5OiBibG9jazsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCRzY29wZS5mb28pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvbzogJ0Zvb28nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCRzY29wZS5mb28pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJz4+PicsIGxvY2Fscyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvbzogJ0Zvb28nCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>focus</last-search>
+      <last-search encoding="base64">XDxzZXRGb2N1c1w+</last-search>
       <last-offset />
-      <last-pattern>focus</last-pattern>
+      <last-pattern encoding="base64">XDxzZXRGb2N1c1w+</last-pattern>
       <last-replace />
       <last-substitute>data\.</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>cons</entry>
         <entry>console.log</entry>
         <entry encoding="base64">XDxHTE9CX09QVFNcPg==</entry>
         <entry>found =</entry>
@@ -725,6 +724,7 @@
         <entry>inva</entry>
         <entry>coso</entry>
         <entry>focus</entry>
+        <entry encoding="base64">XDxzZXRGb2N1c1w+</entry>
       </history-search>
       <history-cmd>
         <entry>9</entry>
