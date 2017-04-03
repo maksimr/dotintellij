@@ -259,8 +259,17 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/scripts/script-list.js" timestamp="1490889548305">
         <mark key="'" line="64" column="23" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-watchers.js" timestamp="1491213186766">
+        <mark key="[" line="59" column="34" />
+        <mark key="]" line="59" column="46" />
+        <mark key="." line="59" column="46" />
+        <mark key="^" line="59" column="46" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/javascript/nodejs/0.12.9/core-modules/vm.js" timestamp="1488817413994">
         <mark key="'" line="20" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-watchers-dropdown.html" timestamp="1491212864661">
+        <mark key="'" line="45" column="2" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/service/board-columns-utils.js" timestamp="1490712667081">
         <mark key="'" line="126" column="26" />
@@ -429,6 +438,9 @@
       <file name="$USER_HOME$/www/clojure/foo/src/foo/_.cljs" timestamp="1489178901902">
         <mark key="'" line="33" column="4" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dropdown/service/yt-dropdown.js" timestamp="1491213151216">
+        <mark key="'" line="106" column="10" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-comment.js" timestamp="1490994598504">
         <mark key="[" line="135" column="66" />
         <mark key="]" line="135" column="84" />
@@ -468,7 +480,7 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-feed.js" timestamp="1490967409746">
         <mark key="'" line="468" column="42" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/overlay/test/service/overlay.js" timestamp="1491211711972">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/overlay/test/service/overlay.js" timestamp="1491212698185">
         <mark key="'" line="113" column="0" />
       </file>
       <file name="$USER_HOME$/www/js/karma/node_modules/glob/common.js" timestamp="1491068826861">
@@ -526,7 +538,7 @@
         <mark key="^" line="156" column="47" />
         <mark key="." line="156" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491065262834">
+      <file name="/Dummy.txt" timestamp="1491212699983">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-backlog-issue.js" timestamp="1490902584229">
@@ -594,14 +606,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="4" filename="$USER_HOME$/www/js/karma/test/unit/file-list.spec.js" />
-      <jump line="76" column="15" filename="$USER_HOME$/www/js/karma/test/unit/launchers/base.spec.js" />
-      <jump line="68" column="6" filename="$USER_HOME$/www/js/karma/test/unit/launchers/base.spec.js" />
-      <jump line="744" column="0" filename="$USER_HOME$/www/js/karma/test/unit/file-list.spec.js" />
-      <jump line="237" column="0" filename="$USER_HOME$/www/js/karma/test/unit/server.spec.js" />
-      <jump line="235" column="0" filename="$USER_HOME$/www/js/karma/test/unit/server.spec.js" />
-      <jump line="19" column="4" filename="$USER_HOME$/www/js/karma/test/unit/server.spec.js" />
-      <jump line="206" column="99" filename="$USER_HOME$/www/js/karma/test/unit/server.spec.js" />
       <jump line="12" column="6" filename="$USER_HOME$/www/js/karma/test/unit/server.spec.js" />
       <jump line="15" column="71" filename="$USER_HOME$/www/js/karma/test/unit/server.spec.js" />
       <jump line="178" column="99" filename="$USER_HOME$/www/js/karma/test/unit/server.spec.js" />
@@ -693,71 +697,77 @@
       <jump line="70" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/overlay/test/service/overlay.js" />
       <jump line="60" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/overlay/test/service/overlay.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/overlay/test/service/overlay.js" />
+      <jump line="42" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/overlay/test/service/overlay.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/overlay/test/service/overlay.js" />
       <jump line="113" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/overlay/test/service/overlay.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-watchers-dropdown.html" />
+      <jump line="2" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-watchers-dropdown.html" />
+      <jump line="45" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-watchers-dropdown.html" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dropdown/service/yt-dropdown.js" />
+      <jump line="105" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dropdown/service/yt-dropdown.js" />
+      <jump line="106" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dropdown/service/yt-dropdown.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmczogbW9ja0ZzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>['c mocked']</text>
+        <text>angular.noop,</text>
       </register>
       <register name="/" type="4">
-        <text>pack</text>
+        <text>locals</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhciBtZyA9IG5ldyBHbG9iKHBhdGhMaWIubm9ybWFsaXplKHBhdHRlcm4pLCBHTE9CX09QVFMpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmczogbW9ja0ZzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB9LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAnLi9zeW5jLmpzJzogcHJveHlxdWlyZSgnZ2xvYi9zeW5jLmpzJywgewogICAgICAgICAgZnM6IG1vY2tGcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCc+Pj4nLCAkc2NvcGUud2F0Y2hlcnNDdHJsKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRzY29wZS53YXRjaGVyc0N0cmwgPSBjdHJsOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGxpc3QucmVmcmVzaCgpLnRoZW4oKGZpbGVzKSA9PiB7CiAgICAgICAgY29uc29sZS5sb2coRGF0ZS5ub3coKSwgZmlsZXMpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbGlzdCA9IG5ldyBMaXN0KHBhdHRlcm5zKCcvc29tZS8qLmpzJyksIFtdLCBlbWl0dGVyLCBwcmVwcm9jZXNzKQoK</text>
+        <text encoding="base64">ICAgICAgICBmczogbW9ja0ZzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZ2xvYikK</text>
+        <text encoding="base64">ICAgICAgICB9KQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZzOiBtb2NrRnMsCiAgICAgICAgICAnLi9zeW5jLmpzJzogcHJveHlxdWlyZSgnZ2xvYi9zeW5jLmpzJywgewogICAgICAgICAgICBmczogbW9ja0ZzCiAgICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICAnLi9zeW5jLmpzJzogcHJveHlxdWlyZSgnZ2xvYi9zeW5jLmpzJywgewogICAgICAgICAgZnM6IG1vY2tGcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgfSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>pack</last-search>
+      <last-search>locals</last-search>
       <last-offset />
-      <last-pattern>pack</last-pattern>
-      <last-replace>yt-issue-feed-item</last-replace>
-      <last-substitute>yt-issue-comment</last-substitute>
+      <last-pattern>locals</last-pattern>
+      <last-replace />
+      <last-substitute>data\.</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>preprocess</entry>
-        <entry>require</entry>
         <entry>grace</entry>
         <entry>gra</entry>
         <entry>mock</entry>
@@ -776,9 +786,10 @@
         <entry>fs</entry>
         <entry>packa</entry>
         <entry>pack</entry>
+        <entry>data\.</entry>
+        <entry>locals</entry>
       </history-search>
       <history-cmd>
-        <entry>11</entry>
         <entry>9</entry>
         <entry>q</entry>
         <entry>108</entry>
@@ -797,6 +808,7 @@
         <entry>31</entry>
         <entry>678</entry>
         <entry>768</entry>
+        <entry>%s/data\.//gc</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
