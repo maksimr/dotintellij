@@ -33,6 +33,14 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-change")).withParent(xmlTag().withLocalName(string().equalTo("div")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>div/@on-change-focus</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-change-focus")).withParent(xmlTag().withLocalName(string().equalTo("div")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>div/@on-focus-change</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-focus-change")).withParent(xmlTag().withLocalName(string().equalTo("div")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>div/@on-remove-tag</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-remove-tag")).withParent(xmlTag().withLocalName(string().equalTo("div")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
