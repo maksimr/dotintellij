@@ -58,8 +58,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/react-ng/react-ng.js" timestamp="1490905123786">
         <mark key="'" line="251" column="10" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1491389612934">
-        <mark key="'" line="92" column="5" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1491406473954">
+        <mark key="'" line="13" column="31" />
         <mark key="[" line="111" column="0" />
         <mark key="]" line="111" column="0" />
         <mark key="." line="111" column="0" />
@@ -639,8 +639,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/bubble/style/yt-bubble.scss" />
-      <jump line="40" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/bubble/style/yt-bubble.scss" />
       <jump line="41" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/bubble/style/yt-bubble.scss" />
       <jump line="41" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/bubble/directive/yt-bubble.js" />
       <jump line="35" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/bubble/directive/yt-bubble.js" />
@@ -739,6 +737,8 @@
       <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/run-e2e.sh" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/run-e2e.sh" />
       <jump line="96" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/run-e2e.sh" />
+      <jump line="11" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="13" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -751,7 +751,7 @@
         <text>BOTTOM</text>
       </register>
       <register name="/" type="4">
-        <text>set</text>
+        <text>ring-ui</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">c2V0IC1lCg==</text>
@@ -791,9 +791,9 @@
       </register>
     </registers>
     <search>
-      <last-search>set</last-search>
+      <last-search>ring-ui</last-search>
       <last-offset />
-      <last-pattern>set</last-pattern>
+      <last-pattern>ring-ui</last-pattern>
       <last-replace />
       <last-substitute>data\.</last-substitute>
       <last-dir>1</last-dir>
@@ -801,7 +801,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhdHRhY2hlZFw+</entry>
         <entry>attached</entry>
         <entry encoding="base64">XDxzaG9ydGN1dHNcPg==</entry>
         <entry>popup</entry>
@@ -821,6 +820,7 @@
         <entry>electron</entry>
         <entry>catch</entry>
         <entry>set</entry>
+        <entry>ring-ui</entry>
       </history-search>
       <history-cmd>
         <entry>9</entry>
