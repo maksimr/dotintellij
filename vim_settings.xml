@@ -634,12 +634,12 @@
       <file name="$MAVEN_REPOSITORY$/org/clojure/google-closure-library/0.0-20160609-f42b4a24/google-closure-library-0.0-20160609-f42b4a24.jar!/goog/uri/uri.js" timestamp="1488911305628">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/test/directive/yt-diff.js" timestamp="1491570002011">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/test/directive/yt-diff.js" timestamp="1491570013164">
         <mark key="'" line="17" column="0" />
-        <mark key="[" line="22" column="19" />
-        <mark key="]" line="22" column="29" />
-        <mark key="." line="22" column="29" />
-        <mark key="^" line="22" column="29" />
+        <mark key="[" line="23" column="25" />
+        <mark key="]" line="23" column="25" />
+        <mark key="." line="23" column="25" />
+        <mark key="^" line="23" column="25" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/ring-ui/node_modules/combokeys/test/lib/key-event.js" timestamp="1490269351552">
         <mark key="'" line="119" column="0" />
@@ -956,14 +956,14 @@
       <jump line="17" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/test/directive/yt-diff.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>[data-test=&quot;diff&quot;]</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>[data-test=&quot;diff&quot;]</text>
       </register>
       <register name="/" type="4">
         <text>info</text>
