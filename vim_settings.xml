@@ -738,12 +738,12 @@
       <file name="$USER_HOME$/www/jetbrains/ring-ui/components/dialog/dialog.js" timestamp="1491032949100">
         <mark key="'" line="71" column="39" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/test/service/diff.js" timestamp="1491580562668">
-        <mark key="'" line="42" column="6" />
-        <mark key="[" line="45" column="15" />
-        <mark key="]" line="46" column="8" />
-        <mark key="." line="46" column="8" />
-        <mark key="^" line="46" column="8" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/test/service/diff.js" timestamp="1491582619365">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+        <mark key="^" line="20" column="32" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/wallaby-webpack/index.js" timestamp="1491209840817">
         <mark key="'" line="410" column="0" />
@@ -870,8 +870,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="579" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/codemirror/addon/merge/merge.js" />
-      <jump line="580" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/codemirror/addon/merge/merge.js" />
       <jump line="581" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/codemirror/addon/merge/merge.js" />
       <jump line="584" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/codemirror/addon/merge/merge.js" />
       <jump line="591" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/codemirror/addon/merge/merge.js" />
@@ -970,52 +968,54 @@
       <jump line="153" column="51" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/diff_match_patch/lib/diff_match_patch.js" />
       <jump line="22" column="27" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/test/service/diff.js" />
       <jump line="42" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/test/service/diff.js" />
+      <jump line="23" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/test/service/diff.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/test/service/diff.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAnXG4nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>'boo'</text>
+        <text>type</text>
       </register>
       <register name="/" type="4">
         <text>text1</text>
       </register>
-      <register name="0" type="4">
-        <text>@@ -1,3 +1,3 @@</text>
+      <register name="0" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAnXG4nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgJ0BAIC0xLDMgKzEsMyBAQCAtZm9vICtiYXInCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIGRtcC5kaWZmX21haW4oeCwgeSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHVuaWRpZmYoZC50ZXh0MSwgZC50ZXh0MiwgZC5kaWZmKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHZhciBkID0gZGlmZignZm9vbCcsICdiYXInKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIGRtcC5wYXRjaF9tYWtlKGQudGV4dDEsIGQudGV4dDIsIGQuZGlmZikubWFwKGZ1bmN0aW9uKHApIHsKICAgICAgICByZXR1cm4gcC50b1N0cmluZygpOwogICAgICB9KS5yZWR1Y2UoZnVuY3Rpb24ocmVzdWx0LCBsaW5lKSB7CiAgICAgICAgcmV0dXJuIHJlc3VsdCArIGxpbmU7CiAgICAgIH0pOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhciBEaWZmID0gcmVxdWlyZSgnZGlmZl9tYXRjaF9wYXRjaCcpWydkaWZmX21hdGNoX3BhdGNoJ107Cg==</text>
+        <text encoding="base64">ICAgICAgICAnXG4nCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhciBkbXAgPSBuZXcgRGlmZigpOwo=</text>
+        <text encoding="base64">ICAgICAgJ0BAIC0xLDMgKzEsMyBAQCAtZm9vICtiYXInCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
