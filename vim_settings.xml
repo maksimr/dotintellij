@@ -25,8 +25,8 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="27" column="19" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1491546636924">
-        <mark key="'" line="26" column="27" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1491552149171">
+        <mark key="'" line="84" column="5" />
         <mark key="[" line="93" column="0" />
         <mark key="]" line="93" column="0" />
         <mark key="." line="93" column="0" />
@@ -204,8 +204,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/wallaby-webpack/package.json" timestamp="1490334339385">
         <mark key="'" line="93" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header-menu-builder/service/header-items.js" timestamp="1491550483717">
-        <mark key="'" line="2" column="17" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header-menu-builder/service/header-items.js" timestamp="1491551858656">
+        <mark key="'" line="19" column="13" />
         <mark key="[" line="69" column="45" />
         <mark key="]" line="69" column="43" />
         <mark key="^" line="69" column="43" />
@@ -750,11 +750,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select__popup.js" />
-      <jump line="199" column="32" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select__popup.js" />
-      <jump line="40" column="18" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select__popup.js" />
-      <jump line="219" column="27" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select__popup.js" />
-      <jump line="76" column="2" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select__popup.js" />
       <jump line="101" column="4" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select__popup.js" />
       <jump line="113" column="17" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select__popup.js" />
       <jump line="137" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select__popup.js" />
@@ -833,7 +828,6 @@
       <jump line="280" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header-menu-builder/service/header-items.js" />
       <jump line="11" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header-menu-builder/service/header-items.js" />
       <jump line="55" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header-menu-builder/service/header-items.js" />
-      <jump line="286" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header-menu-builder/service/header-items.js" />
       <jump line="38" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header-menu-builder/service/get-header-menu-items.js" />
       <jump line="162" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header-menu-builder/service/header-menu-builder.js" />
       <jump line="8" column="47" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header-menu-builder/service/header-menu-builder.js" />
@@ -850,6 +844,12 @@
       <jump line="69" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header-menu-builder/service/header-items.js" />
       <jump line="57" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header-menu-builder/service/header-items.js" />
       <jump line="2" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header-menu-builder/service/header-items.js" />
+      <jump line="150" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header-menu-builder/service/header-items.js" />
+      <jump line="286" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header-menu-builder/service/header-items.js" />
+      <jump line="19" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header-menu-builder/service/header-items.js" />
+      <jump line="95" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="124" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="84" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -862,7 +862,7 @@
         <text>, documentationLinkFilter</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkb2N1bWVudGF0aW9uTGlua0ZpbHRlclw+</text>
+        <text>karma</text>
       </register>
       <register name="0" type="4">
         <text>YouTrack-InCloud-Maintenance-Calendar.html</text>
@@ -902,17 +902,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkb2N1bWVudGF0aW9uTGlua0ZpbHRlclw+</last-search>
+      <last-search>karma</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkb2N1bWVudGF0aW9uTGlua0ZpbHRlclw+</last-pattern>
+      <last-pattern>karma</last-pattern>
       <last-replace />
       <last-substitute>data\.</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>this.filter</entry>
         <entry>disab</entry>
         <entry>filter</entry>
         <entry>Filter</entry>
@@ -932,6 +931,7 @@
         <entry>'</entry>
         <entry>'\/\</entry>
         <entry encoding="base64">XDxkb2N1bWVudGF0aW9uTGlua0ZpbHRlclw+</entry>
+        <entry>karma</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
