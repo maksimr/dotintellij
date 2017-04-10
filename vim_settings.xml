@@ -54,8 +54,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/utils.js" timestamp="1491386004188">
         <mark key="'" line="215" column="4" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-timezone-select.js" timestamp="1491817362046">
-        <mark key="'" line="14" column="7" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-timezone-select.js" timestamp="1491826251794">
+        <mark key="'" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/attach-file-toolkit.js" timestamp="1491504895965">
         <mark key="'" line="386" column="8" />
@@ -248,9 +248,9 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/overlay/test/service/overlay.js" timestamp="1491212698185">
         <mark key="'" line="113" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/template/yt-date-timezone-select.html" timestamp="1491817377751">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/template/yt-date-timezone-select.html" timestamp="1491827264997">
+        <mark key="[" line="9" column="18" />
+        <mark key="]" line="9" column="29" />
         <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/www/js/karma/.travis.yml" timestamp="1491033847016">
@@ -400,12 +400,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/directive/yt-agile-card.js" timestamp="1490190767055">
         <mark key="'" line="60" column="11" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/test/service/get-time-zone-regions.js" timestamp="1491824805579">
-        <mark key="'" line="70" column="26" />
-        <mark key="[" line="90" column="48" />
-        <mark key="]" line="90" column="48" />
-        <mark key="." line="90" column="48" />
-        <mark key="^" line="90" column="48" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/test/service/get-time-zone-regions.js" timestamp="1491827354498">
+        <mark key="'" line="21" column="41" />
+        <mark key="[" line="113" column="67" />
+        <mark key="]" line="114" column="37" />
+        <mark key="^" line="114" column="37" />
+        <mark key="." line="114" column="37" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/jquery-ui-touch-punch/jquery.ui.touch-punch.js" timestamp="1491388499708">
         <mark key="'" line="179" column="0" />
@@ -727,17 +727,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="326" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-sanitize/angular-sanitize.js" />
-      <jump line="366" column="51" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-sanitize/angular-sanitize.js" />
-      <jump line="448" column="52" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-sanitize/angular-sanitize.js" />
-      <jump line="539" column="49" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-sanitize/angular-sanitize.js" />
-      <jump line="545" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-sanitize/angular-sanitize.js" />
-      <jump line="553" column="42" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-sanitize/angular-sanitize.js" />
-      <jump line="555" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-sanitize/angular-sanitize.js" />
-      <jump line="582" column="57" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-sanitize/angular-sanitize.js" />
-      <jump line="588" column="48" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-sanitize/angular-sanitize.js" />
-      <jump line="685" column="69" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-sanitize/angular-sanitize.js" />
-      <jump line="723" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-sanitize/angular-sanitize.js" />
       <jump line="729" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-sanitize/angular-sanitize.js" />
       <jump line="18" column="41" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-sanitize/angular-sanitize.js" />
       <jump line="36" column="53" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-sanitize/angular-sanitize.js" />
@@ -822,66 +811,77 @@
       <jump line="55" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/test/service/get-time-zone-regions.js" />
       <jump line="14" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/test/service/get-time-zone-regions.js" />
       <jump line="58" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/test/service/get-time-zone-regions.js" />
-      <jump line="15" column="42" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/test/service/get-time-zone-regions.js" />
       <jump line="13" column="41" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/test/service/get-time-zone-regions.js" />
       <jump line="67" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/test/service/get-time-zone-regions.js" />
       <jump line="9" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/test/service/get-time-zone-regions.js" />
       <jump line="70" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/test/service/get-time-zone-regions.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-timezone-select.js" />
+      <jump line="15" column="38" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/test/service/get-time-zone-regions.js" />
+      <jump line="20" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/test/service/get-time-zone-regions.js" />
+      <jump line="64" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/test/service/get-time-zone-regions.js" />
+      <jump line="23" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/test/service/get-time-zone-regions.js" />
+      <jump line="120" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/test/service/get-time-zone-regions.js" />
+      <jump line="72" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/test/service/get-time-zone-regions.js" />
+      <jump line="105" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/test/service/get-time-zone-regions.js" />
+      <jump line="117" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/test/service/get-time-zone-regions.js" />
+      <jump line="26" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/test/service/get-time-zone-regions.js" />
+      <jump line="124" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/test/service/get-time-zone-regions.js" />
+      <jump line="21" column="41" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/test/service/get-time-zone-regions.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY3JlYXRlVGltZVpvbmVNb2NrKHJlZ2lvbkEsIHJlZ2lvbkFDaXR5QSkK</text>
+      <register name="&quot;" type="4">
+        <text>presentation</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>extract regions from timezone</text>
+        <text>regionCities</text>
       </register>
       <register name="/" type="4">
-        <text>con</text>
+        <text>console</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY3JlYXRlVGltZVpvbmVNb2NrKHJlZ2lvbkEsIHJlZ2lvbkFDaXR5QSkK</text>
+      <register name="0" type="4">
+        <text>presentation</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY2l0aWVzOiBbXQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlc3VsdC4kJHN0YXRlLnZhbHVlKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGltZVpvbmUuaWQuc3BsaXQoJy8nKVswXTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmVnaW9uQQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY3JlYXRlVGltZVpvbmVNb2NrKHJlZ2lvbkIpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcmVnaW9uQgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmVnaW9uQSwK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhciByZWdpb25CID0gY3JlYXRlUmVnaW9uKCk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHZhciBtYXAgPSByZXF1aXJlKCdtb3V0L29iamVjdC9tYXAnKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbWFwKHJlZ2lvbnNNYXAsIGZ1bmN0aW9uKHJlZ2lvbkNpdGllcywgcmVnaW9uKSB7CiAgICAgICAgfSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiB7CiAgICAgICAgICAgIG5hbWU6IHJlZ2lvbiwKICAgICAgICAgICAgY2l0aWVzOiByZWdpb25DaXRpZXMKICAgICAgICAgIH07Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlZ2lvbiwgcmVnaW9uQ2l0aWVzKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHZhciByZWdpb25zID0gcmVxdWVzdC4kJHN0YXRlLnZhbHVlOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZWdpb25zTWFwKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>con</last-search>
+      <last-search>console</last-search>
       <last-offset />
-      <last-pattern>con</last-pattern>
+      <last-pattern>console</last-pattern>
       <last-replace />
       <last-substitute>data\.</last-substitute>
       <last-dir>1</last-dir>
@@ -889,7 +889,6 @@
     </search>
     <history>
       <history-search>
-        <entry>zone</entry>
         <entry encoding="base64">XDxvbkh0dHBSZXF1ZXN0RXJyb3JcPg==</entry>
         <entry>name</entry>
         <entry>gene</entry>
@@ -909,6 +908,7 @@
         <entry>\n</entry>
         <entry>\\n</entry>
         <entry>con</entry>
+        <entry>console</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
