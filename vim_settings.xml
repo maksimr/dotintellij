@@ -31,6 +31,13 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/react-ng/react-ng.js" timestamp="1490905123786">
         <mark key="'" line="251" column="10" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/bubble/directive/yt-error-bubble.js" timestamp="1491812896451">
+        <mark key="'" line="18" column="28" />
+        <mark key="[" line="33" column="26" />
+        <mark key="]" line="33" column="34" />
+        <mark key="^" line="33" column="34" />
+        <mark key="." line="33" column="34" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1491574032302">
         <mark key="'" line="48" column="13" />
         <mark key="[" line="18" column="0" />
@@ -277,7 +284,7 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/settings/visual.html" timestamp="1491234595535">
         <mark key="'" line="45" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491768510654">
+      <file name="/Dummy.txt" timestamp="1491812901210">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header-menu-builder/service/get-header-menu-items.js" timestamp="1491548844442">
@@ -480,7 +487,7 @@
       <file name="$MAVEN_REPOSITORY$/org/clojure/google-closure-library/0.0-20160609-f42b4a24/google-closure-library-0.0-20160609-f42b4a24.jar!/goog/uri/uri.js" timestamp="1488911305628">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/test/directive/yt-diff.js" timestamp="1491769344664">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/test/directive/yt-diff.js" timestamp="1491812565272">
         <mark key="'" line="56" column="0" />
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="0" />
@@ -694,9 +701,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/service/diff.js" />
-      <jump line="73" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/service/diff.js" />
-      <jump line="16" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/service/diff.js" />
       <jump line="83" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/diff_match_patch/lib/diff_match_patch.js" />
       <jump line="25" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/service/diff.js" />
       <jump line="29" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/service/diff.js" />
@@ -763,7 +767,6 @@
       <jump line="28" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/test/service/diff.js" />
       <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/test/service/diff.js" />
       <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/directive/yt-diff.js" />
-      <jump line="36" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/test/directive/yt-diff.js" />
       <jump line="15" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
       <jump line="13" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
       <jump line="46" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
@@ -793,20 +796,24 @@
       <jump line="48" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/test/directive/yt-diff.js" />
       <jump line="40" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/test/directive/yt-diff.js" />
       <jump line="16" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/test/directive/yt-diff.js" />
+      <jump line="36" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/test/directive/yt-diff.js" />
       <jump line="56" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/test/directive/yt-diff.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/bubble/directive/yt-error-bubble.js" />
+      <jump line="32" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/bubble/directive/yt-error-bubble.js" />
+      <jump line="18" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/bubble/directive/yt-error-bubble.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>'form_'</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PHNjcmlwdD48L3NjcmlwdD4=</text>
+        <text>'form_'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzYW5pdGl6ZVw+</text>
+        <text encoding="base64">XDxjcmVhdGVSaW5nRXJyb3JUeXBlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAK</text>
@@ -846,9 +853,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzYW5pdGl6ZVw+</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVSaW5nRXJyb3JUeXBlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzYW5pdGl6ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVSaW5nRXJyb3JUeXBlXD4=</last-pattern>
       <last-replace />
       <last-substitute>data\.</last-substitute>
       <last-dir>-1</last-dir>
@@ -856,7 +863,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYXRjaF9vYmpcPg==</entry>
         <entry>diff</entry>
         <entry>fi</entry>
         <entry>text1</entry>
@@ -876,6 +882,7 @@
         <entry>toArray</entry>
         <entry encoding="base64">XDxub3JtYWxpemVGaWVsZHNBcnJheVw+</entry>
         <entry encoding="base64">XDxzYW5pdGl6ZVw+</entry>
+        <entry encoding="base64">XDxjcmVhdGVSaW5nRXJyb3JUeXBlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
