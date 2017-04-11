@@ -162,6 +162,12 @@
         <mark key="." line="13" column="46" />
         <mark key="^" line="13" column="46" />
       </file>
+      <file name="$USER_HOME$/www/clojure/hello-clojurescript/README.md" timestamp="1491945802709">
+        <mark key="'" line="55" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/teamcity-integration/teamcity-integration-table.js" timestamp="1491896954999">
         <mark key="[" line="254" column="0" />
         <mark key="]" line="255" column="41" />
@@ -291,11 +297,11 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/react-dom/lib/ReactDOM.js" timestamp="1491340012183">
         <mark key="'" line="30" column="2" />
       </file>
-      <file name="$USER_HOME$/www/clojure/hello-clojurescript/src/hello_clojurescript/core.cljs" timestamp="1491945398704">
+      <file name="$USER_HOME$/www/clojure/hello-clojurescript/src/hello_clojurescript/core.cljs" timestamp="1491945766880">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-hub/dashboard/blocks/dashboard/dashboard.js" timestamp="1491558616021">
         <mark key="'" line="27" column="17" />
@@ -351,7 +357,7 @@
       <file name="$USER_HOME$/www/js/karma/lib/emitter_wrapper.js" timestamp="1490816436419">
         <mark key="'" line="20" column="0" />
       </file>
-      <file name="/REPL.clj" timestamp="1491944086778">
+      <file name="/REPL.clj" timestamp="1491945674064">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/test/diff.js" timestamp="1491568292512">
@@ -863,8 +869,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/popup/popup.js" />
-      <jump line="78" column="42" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/popup/popup.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/popup/position.js" />
       <jump line="41" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/popup/position.js" />
       <jump line="103" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/popup/position.js" />
@@ -963,6 +967,8 @@
       <jump line="7" column="13" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
       <jump line="107" column="0" filename="$USER_HOME$/www/clojure/foo/src/foo/core.cljs" />
       <jump line="1" column="0" filename="$USER_HOME$/www/clojure/hello-clojurescript/src/hello_clojurescript/core.cljs" />
+      <jump line="8" column="0" filename="$USER_HOME$/www/clojure/hello-clojurescript/README.md" />
+      <jump line="49" column="0" filename="$USER_HOME$/www/clojure/hello-clojurescript/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -987,28 +993,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KGVuYWJsZS1jb25zb2xlLXByaW50ISkK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">IyMgT3ZlcnZpZXcKCkZJWE1FOiBXcml0ZSBhIHBhcmFncmFwaCBhYm91dCB0aGUgbGlicmFyeS9wcm9qZWN0IGFuZCBoaWdobGlnaHQgaXRzIGdvYWxzLgo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">OzsgKGRlZm9uY2UgY29ubgo7OyAgIChyZXBsL2Nvbm5lY3QgImh0dHA6Ly9sb2NhbGhvc3Q6OTAwMC9yZXBsIikpCg==</text>
+        <text encoding="base64">RklYTUU6IFdyaXRlIGEgb25lLWxpbmUgZGVzY3JpcHRpb24gb2YgeW91ciBsaWJyYXJ5L3Byb2plY3QuCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYXV0aCk7Cg==</text>
+        <text encoding="base64">KCsgMSAxKQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coQXV0aFByb3ZpZGVyTW9jayk7Cg==</text>
+        <text encoding="base64">KGVuYWJsZS1jb25zb2xlLXByaW50ISkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRoOiB7CiAgICAgICAgICByZXF1ZXN0VG9rZW46IGZ1bmN0aW9uKCkgewogICAgICAgICAgICByZXR1cm4gZGVmZXIucHJvbWlzZTsKICAgICAgICAgIH0sCiAgICAgICAgICBnZXRTZWN1cmU6IGZ1bmN0aW9uKCkgewogICAgICAgICAgICByZXR1cm4gJHEuZGVmZXIoKS5wcm9taXNlOwogICAgICAgICAgfSwKICAgICAgICAgIGdldEFwaTogZnVuY3Rpb24oKSB7CiAgICAgICAgICAgIHJldHVybiAkcS5kZWZlcigpLnByb21pc2U7CiAgICAgICAgICB9LAogICAgICAgICAgY29uZmlnOiB7CiAgICAgICAgICAgICdjbGllbnRfaWQnOiAndGVzdEF1dGhDbGllbnRJZCcsCiAgICAgICAgICAgICdzZXJ2ZXJVcmknOiAnJwogICAgICAgICAgfSwKICAgICAgICAgIHVzZXI6IHt9CiAgICAgICAgfSwKICAgICAgICBwcm9taXNlOiBkZWZlci5wcm9taXNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
