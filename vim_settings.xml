@@ -297,11 +297,10 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/react-dom/lib/ReactDOM.js" timestamp="1491340012183">
         <mark key="'" line="30" column="2" />
       </file>
-      <file name="$USER_HOME$/www/clojure/hello-clojurescript/src/hello_clojurescript/core.cljs" timestamp="1491945766880">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/www/clojure/hello-clojurescript/src/hello_clojurescript/core.cljs" timestamp="1491949475820">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-hub/dashboard/blocks/dashboard/dashboard.js" timestamp="1491558616021">
         <mark key="'" line="27" column="17" />
@@ -357,7 +356,7 @@
       <file name="$USER_HOME$/www/js/karma/lib/emitter_wrapper.js" timestamp="1490816436419">
         <mark key="'" line="20" column="0" />
       </file>
-      <file name="/REPL.clj" timestamp="1491945674064">
+      <file name="/REPL.clj" timestamp="1491948483765">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/test/diff.js" timestamp="1491568292512">
@@ -869,12 +868,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/popup/position.js" />
-      <jump line="41" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/popup/position.js" />
-      <jump line="103" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/popup/position.js" />
-      <jump line="296" column="27" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/popup/popup.js" />
-      <jump line="286" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/popup/popup.js" />
-      <jump line="280" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/popup/popup.js" />
       <jump line="16" column="117" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/popup/popup.js" />
       <jump line="108" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/popup/position.js" />
       <jump line="137" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/popup/position.js" />
@@ -969,6 +962,12 @@
       <jump line="1" column="0" filename="$USER_HOME$/www/clojure/hello-clojurescript/src/hello_clojurescript/core.cljs" />
       <jump line="8" column="0" filename="$USER_HOME$/www/clojure/hello-clojurescript/README.md" />
       <jump line="49" column="0" filename="$USER_HOME$/www/clojure/hello-clojurescript/README.md" />
+      <jump line="10" column="0" filename="$USER_HOME$/www/clojure/hello-clojurescript/src/hello_clojurescript/core.cljs" />
+      <jump line="17" column="0" filename="$USER_HOME$/www/clojure/hello-clojurescript/src/hello_clojurescript/core.cljs" />
+      <jump line="14" column="0" filename="$USER_HOME$/www/clojure/hello-clojurescript/src/hello_clojurescript/core.cljs" />
+      <jump line="18" column="9" filename="$USER_HOME$/www/clojure/hello-clojurescript/src/hello_clojurescript/core.cljs" />
+      <jump line="9" column="0" filename="$USER_HOME$/www/clojure/hello-clojurescript/src/hello_clojurescript/core.cljs" />
+      <jump line="23" column="11" filename="$USER_HOME$/www/clojure/hello-clojurescript/src/hello_clojurescript/core.cljs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -978,13 +977,13 @@
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>create-</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmcXVlcnlcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAge3BhdHRlcm46ICdhcHAvKiovdGVzdC9oZWxwZXJzLyoqLyouanMnLCBpZ25vcmU6IHRydWV9LAo=</text>
+      <register name="0" type="4">
+        <text>https://baconipsum.com/api/?type=meat-and-filler</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -996,22 +995,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyMgT3ZlcnZpZXcKCkZJWE1FOiBXcml0ZSBhIHBhcmFncmFwaCBhYm91dCB0aGUgbGlicmFyeS9wcm9qZWN0IGFuZCBoaWdobGlnaHQgaXRzIGdvYWxzLgo=</text>
+        <text encoding="base64">KGRlZm4gZ2V0LXBvc3QgW10KICAoLnNlbmQgcmVxKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">RklYTUU6IFdyaXRlIGEgb25lLWxpbmUgZGVzY3JpcHRpb24gb2YgeW91ciBsaWJyYXJ5L3Byb2plY3QuCg==</text>
+        <text encoding="base64">CgooaHR0cC1oYW5kbGVyCiAgKGZuIFtyZXN1bHRdKQogIChmbiBbZXJyXSkpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KCsgMSAxKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">KGRlZiByZXEKICAoY3JlYXRlLXJlcSAiaHR0cHM6Ly9iYWNvbmlwc3VtLmNvbS9hcGkvP3R5cGU9bWVhdC1hbmQtZmlsbGVyIiAiR0VUIikpCgoKKHJlcSAoZm4gW3JlcV0KICAgICAgICgpKSkK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">KGVuYWJsZS1jb25zb2xlLXByaW50ISkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
