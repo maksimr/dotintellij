@@ -252,11 +252,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/wallaby-webpack/package.json" timestamp="1490334339385">
         <mark key="'" line="93" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/scripts/script.html" timestamp="1491998617475">
-        <mark key="[" line="14" column="21" />
-        <mark key="]" line="14" column="40" />
-        <mark key="^" line="14" column="40" />
-        <mark key="." line="14" column="40" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/scripts/script.html" timestamp="1491999761842">
+        <mark key="'" line="10" column="9" />
+        <mark key="[" line="110" column="13" />
+        <mark key="]" line="110" column="11" />
+        <mark key="." line="110" column="11" />
+        <mark key="^" line="110" column="11" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/vcs-changes/controller/vcs-changes.js" timestamp="1491546585509">
         <mark key="'" line="347" column="2" />
@@ -943,13 +944,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
-      <jump line="61" column="37" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
-      <jump line="62" column="3" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
-      <jump line="181" column="39" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
-      <jump line="182" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
-      <jump line="200" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
-      <jump line="202" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
       <jump line="206" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
       <jump line="207" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
       <jump line="208" column="40" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
@@ -1043,61 +1037,68 @@
       <jump line="23" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/settings/visual.html" />
       <jump line="7" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/scripts/script-editor.html" />
       <jump line="76" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/scripts/script-editor.html" />
+      <jump line="16" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/scripts/script.html" />
+      <jump line="110" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/scripts/script.html" />
+      <jump line="111" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/scripts/script.html" />
+      <jump line="8" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/scripts/script.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/scripts/script.html" />
+      <jump line="108" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/scripts/script.html" />
+      <jump line="10" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/scripts/script.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>div</text>
+        <text>external</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>div</text>
+        <text>external</text>
       </register>
       <register name="/" type="4">
-        <text>timez</text>
+        <text>help</text>
       </register>
       <register name="0" type="4">
         <text>settings.appearanceSettings.timeZone</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxkaXYgdHJhbnNsYXRlPSIiPgogICAgICBUaGlzIGVkaXRvciBvbmx5IHN1cHBvcnRzIHdvcmtmbG93cyB0aGF0IGFyZSB3cml0dGVuIGluIEphdmFTY3JpcHQuIFRvIGVkaXQgb2xkZXIgd29ya2Zsb3dzIHRoYXQgd2VyZSB3cml0dGVuIGluCiAgICAgIHRoZSBkb21haW4tc3BlY2lmaWMgbGFuZ3VhZ2UgdGhhdCBpcyBzdXBwb3J0ZWQgYnkgTVBTLCB1c2UgdGhlIGV4dGVybmFsIFlvdVRyYWNrIFdvcmtmbG93IEVkaXRvci4KICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8L3NwYW4+Cg==</text>
+        <text encoding="base64">ICAgICAgPHl0LWRvY3VtZW50YXRpb24tbGluayBjbGFzcz0ieXQtZW51bWVyYXRpbmctcGFuZWxfX2l0ZW0iIHNlY3Rpb249IkN1c3RvbS1Ob3RpZmljYXRpb25zLUxhbmd1YWdlLVJlZmVyZW5jZS5odG1sIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhvc3RlZCB0cmFuc2xhdGU+CiAgICAgICAgTm90aWZpY2F0aW9ucyBMYW5ndWFnZSBSZWZlcmVuY2UKICAgICAgPC95dC1kb2N1bWVudGF0aW9uLWxpbms+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8c3BhbiB0cmFuc2xhdGU+Cg==</text>
+        <text encoding="base64">ICAgICAgICBUaGlzIGVkaXRvciBvbmx5IHN1cHBvcnRzIHdvcmtmbG93cyB0aGF0IGFyZSB3cml0dGVuIGluIEphdmFTY3JpcHQuIFRvIGVkaXQgb2xkZXIgd29ya2Zsb3dzIHRoYXQgd2VyZSB3cml0dGVuIGluIHRoZSBkb21haW4tc3BlY2lmaWMgbGFuZ3VhZ2UgdGhhdCBpcyBzdXBwb3J0ZWQgYnkgTVBTLCB1c2UgdGhlIGV4dGVybmFsIFlvdVRyYWNrIFdvcmtmbG93IEVkaXRvci4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBOb3RpZmljYXRpb25zIExhbmd1YWdlIFJlZmVyZW5jZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBEZWZhdWx0IHN5c3RlbSB0aW1lem9uZSBmb3IgdGltZSBwcmVzZW50YXRpb24uCg==</text>
+        <text encoding="base64">ICAgIDxkaXYgdHJhbnNsYXRlPSIiPgogICAgICBUaGlzIGVkaXRvciBvbmx5IHN1cHBvcnRzIHdvcmtmbG93cyB0aGF0IGFyZSB3cml0dGVuIGluIEphdmFTY3JpcHQuIFRvIGVkaXQgb2xkZXIgd29ya2Zsb3dzIHRoYXQgd2VyZSB3cml0dGVuIGluCiAgICAgIHRoZSBkb21haW4tc3BlY2lmaWMgbGFuZ3VhZ2UgdGhhdCBpcyBzdXBwb3J0ZWQgYnkgTVBTLCB1c2UgdGhlIGV4dGVybmFsIFlvdVRyYWNrIFdvcmtmbG93IEVkaXRvci4KICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPHl0LWRhdGUtdGltZXpvbmUtb2Zmc2V0IHRpbWUtem9uZT0ic2V0dGluZ3MuYXBwZWFyYW5jZVNldHRpbmdzLnRpbWVab25lIj48L3l0LWRhdGUtdGltZXpvbmUtb2Zmc2V0Pgo=</text>
+        <text encoding="base64">ICAgICAgICA8L3NwYW4+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4+e3t1c2VyUHJvZmlsZUdlbmVyYWxDdHJsLmdldFRpbWVab25lT2Zmc2V0UHJlc2VudGF0aW9uKHVzZXJQcm9maWxlR2VuZXJhbEN0cmwuZ2VuZXJhbFByb2ZpbGUudGltZXpvbmUpfX08L3NwYW4+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8c3BhbiB0cmFuc2xhdGU+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgJGN0cmwuJG9uSW5pdCA9IHJlbmRlck9mZnNldDsK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBEZWZhdWx0IHN5c3RlbSB0aW1lem9uZSBmb3IgdGltZSBwcmVzZW50YXRpb24uCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>timez</last-search>
+      <last-search>help</last-search>
       <last-offset />
-      <last-pattern>timez</last-pattern>
+      <last-pattern>help</last-pattern>
       <last-replace />
       <last-substitute>data\.</last-substitute>
       <last-dir>1</last-dir>
@@ -1105,7 +1106,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tool</entry>
         <entry>script</entry>
         <entry encoding="base64">XDxsb2FkU2NyaXB0XD4=</entry>
         <entry>controll</entry>
@@ -1125,6 +1125,7 @@
         <entry>offset</entry>
         <entry>changes</entry>
         <entry>timez</entry>
+        <entry>help</entry>
       </history-search>
       <history-cmd>
         <entry>108</entry>
