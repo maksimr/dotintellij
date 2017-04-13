@@ -68,12 +68,11 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/attach-file-toolkit.js" timestamp="1491504895965">
         <mark key="'" line="386" column="8" />
       </file>
-      <file name="$USER_HOME$/www/js/Lisa/test/rendererSpec.js" timestamp="1492094638305">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="10" column="20" />
-        <mark key="]" line="10" column="18" />
-        <mark key="." line="10" column="18" />
-        <mark key="^" line="10" column="18" />
+      <file name="$USER_HOME$/www/js/Lisa/test/rendererSpec.js" timestamp="1492115234970">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-feed.html" timestamp="1490967275549">
         <mark key="'" line="30" column="19" />
@@ -216,12 +215,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/service/board-columns-utils.js" timestamp="1490712667081">
         <mark key="'" line="126" column="26" />
       </file>
-      <file name="$USER_HOME$/www/js/Lisa/package.json" timestamp="1492112551257">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="15" column="16" />
-        <mark key="]" line="15" column="14" />
-        <mark key="^" line="15" column="14" />
-        <mark key="." line="15" column="14" />
+      <file name="$USER_HOME$/www/js/Lisa/package.json" timestamp="1492114358507">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="14" column="14" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/popup/popup.js" timestamp="1491334341632">
         <mark key="'" line="0" column="49" />
@@ -239,7 +238,7 @@
       <file name="$USER_HOME$/www/jetbrains/ring-ui/components/auth/auth.test.js" timestamp="1491493346585">
         <mark key="'" line="278" column="8" />
       </file>
-      <file name="$USER_HOME$/www/js/Lisa/src/renderer.js" timestamp="1492110502459">
+      <file name="$USER_HOME$/www/js/Lisa/src/renderer.js" timestamp="1492114511018">
         <mark key="'" line="17" column="0" />
         <mark key="m" line="3" column="0" />
         <mark key="^" line="17" column="0" />
@@ -994,8 +993,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/www/js/Lisa/test/rendererSpec.js" />
-      <jump line="21" column="0" filename="$USER_HOME$/www/js/Lisa/test/rendererSpec.js" />
       <jump line="25" column="7" filename="$USER_HOME$/www/js/Lisa/test/rendererSpec.js" />
       <jump line="10" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/settings/visual.html" />
       <jump line="2" column="0" filename="$USER_HOME$/www/js/Lisa/test/rendererSpec.js" />
@@ -1020,7 +1017,6 @@
       <jump line="4" column="1" filename="$USER_HOME$/www/js/Lisa/src/renderer.js" />
       <jump line="10" column="4" filename="$USER_HOME$/www/js/Lisa/public/index.html" />
       <jump line="20" column="0" filename="$USER_HOME$/www/js/Lisa/src/renderer.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/www/js/Lisa/src/renderer.js" />
       <jump line="24" column="0" filename="$USER_HOME$/www/js/Lisa/node_modules/react/lib/ReactComponent.js" />
       <jump line="115" column="0" filename="$USER_HOME$/www/js/Lisa/node_modules/react/lib/ReactComponent.js" />
       <jump line="15" column="44" filename="$USER_HOME$/www/js/Lisa/node_modules/react/lib/React.js" />
@@ -1088,49 +1084,52 @@
       <jump line="5" column="22" filename="$USER_HOME$/www/js/Lisa/src/components/Version.js" />
       <jump line="11" column="0" filename="$USER_HOME$/www/js/Lisa/src/components/Version.js" />
       <jump line="11" column="6" filename="$USER_HOME$/www/js/Lisa/src/renderer.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/www/js/Lisa/src/renderer.js" />
-      <jump line="17" column="0" filename="$USER_HOME$/www/js/Lisa/src/renderer.js" />
       <jump line="13" column="0" filename="$USER_HOME$/www/js/Lisa/src/components/Version.js" />
       <jump line="2" column="19" filename="$USER_HOME$/www/js/Lisa/.eslintrc" />
       <jump line="24" column="0" filename="$USER_HOME$/www/js/Lisa/.eslintrc" />
       <jump line="12" column="0" filename="$USER_HOME$/www/js/Lisa/main.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/www/js/Lisa/src/renderer.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/js/Lisa/src/renderer.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/www/js/Lisa/src/renderer.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/js/Lisa/test/rendererSpec.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/www/js/Lisa/test/rendererSpec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>define</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>define</text>
+        <text>stream</text>
       </register>
       <register name="/" type="4">
         <text>json</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICJhZnRlckVhY2giOiB0cnVlCg==</text>
+      <register name="0" type="4">
+        <text>result[result.length - 1]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAicnVsZXMiOiB7CiAgICAiaW5kZW50IjogWwogICAgICAiZXJyb3IiLAogICAgICAyCiAgICBdLAogICAgImxpbmVicmVhay1zdHlsZSI6IFsKICAgICAgImVycm9yIiwKICAgICAgInVuaXgiCiAgICBdLAogICAgInF1b3RlcyI6IFsKICAgICAgImVycm9yIiwKICAgICAgInNpbmdsZSIKICAgIF0sCiAgICAic2VtaSI6IFsKICAgICAgImVycm9yIiwKICAgICAgImFsd2F5cyIKICAgIF0KICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAiZW52IjogewogICAgImJyb3dzZXIiOiB0cnVlLAogICAgIm5vZGUiOiB0cnVlLAogICAgImVzNiI6IHRydWUKICB9LAo=</text>
+        <text encoding="base64">ICAgIFswXS5yZWR1Y2UoZnVuY3Rpb24oc3RhdGUsIHZhbHVlKSB7CgogICAgfSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CgpmdW5jdGlvbiB2ZXJzaW9ucygpIHsKICByZXR1cm4gZ2xvYmFsLnByb2Nlc3MudmVyc2lvbnMKfQo=</text>
+        <text encoding="base64">ICAgIFtBLCBCLCBDXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGUoJ3AnLCBudWxsLCAnVG9rZW46ICcsICdwZXJtOmNtOXZkQT09LlRHbHpZUT09LjVuaW83U1pZNnVRdjhDZGFMVFZOdzJ2bE1QVWxaYycpCg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHJlc3VsdCArIHZhbHVlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gcmVuZGVyKHByb3BzKSB7CiAgUmVhY3RET00ucmVuZGVyKAogICAgZShBcHAsIHByb3BzKSwKICAgIHJvb3RFbGVtZW50CiAgKTsKfQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ZnVuY3Rpb24gcmVuZGVyKHByb3BzKSB7CiAgUmVhY3RET00ucmVuZGVyKAogICAgZShBcHAsIHByb3BzKSwKICAgIHJvb3RFbGVtZW50CiAgKTsKfQoK</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgcmV0dXJuIHN0YXRlLmNvbmN0KCkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -1139,7 +1138,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgY3JlYXRlUmVhY3RDbGFzcyA9IHJlcXVpcmUoJ2NyZWF0ZS1yZWFjdC1jbGFzcycpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
