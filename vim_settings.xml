@@ -68,8 +68,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/attach-file-toolkit.js" timestamp="1491504895965">
         <mark key="'" line="386" column="8" />
       </file>
-      <file name="$USER_HOME$/www/js/Lisa/test/rendererSpec.js" timestamp="1492075324634">
-        <mark key="'" line="21" column="0" />
+      <file name="$USER_HOME$/www/js/Lisa/test/rendererSpec.js" timestamp="1492079502647">
+        <mark key="'" line="33" column="0" />
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
@@ -286,10 +286,10 @@
         <mark key="^" line="19" column="43" />
         <mark key="." line="19" column="43" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/profile/template/user-profile-general.html" timestamp="1491995698022">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/profile/template/user-profile-general.html" timestamp="1492079614140">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="146" column="0" />
-        <mark key="]" line="146" column="0" />
+        <mark key="[" line="139" column="21" />
+        <mark key="]" line="139" column="38" />
         <mark key="^" line="145" column="49" />
         <mark key="." line="146" column="0" />
       </file>
@@ -399,11 +399,11 @@
         <mark key="." line="14" column="13" />
         <mark key="^" line="14" column="13" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/settings/visual.html" timestamp="1491997666734">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="25" column="9" />
-        <mark key="]" line="25" column="9" />
-        <mark key="." line="25" column="9" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/settings/visual.html" timestamp="1492079624917">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="38" column="15" />
+        <mark key="]" line="38" column="33" />
+        <mark key="." line="38" column="15" />
         <mark key="^" line="25" column="9" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/test/directive/yt-timezone-select.js" timestamp="1491816275968">
@@ -921,8 +921,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/scripts/script.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/README.md" />
       <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/README.md" />
       <jump line="85" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/README.md" />
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/README.md" />
@@ -1019,24 +1017,26 @@
       <jump line="16" column="0" filename="$USER_HOME$/www/js/Lisa/test/rendererSpec.js" />
       <jump line="18" column="0" filename="$USER_HOME$/www/js/Lisa/test/rendererSpec.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/js/Lisa/test/rendererSpec.js" />
-      <jump line="33" column="0" filename="$USER_HOME$/www/js/Lisa/test/rendererSpec.js" />
       <jump line="21" column="0" filename="$USER_HOME$/www/js/Lisa/test/rendererSpec.js" />
+      <jump line="25" column="7" filename="$USER_HOME$/www/js/Lisa/test/rendererSpec.js" />
+      <jump line="33" column="0" filename="$USER_HOME$/www/js/Lisa/test/rendererSpec.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/settings/visual.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHRva2VuLnR5cGUoKTsKICAgIHRva2VuLnNpZ24oKQo=</text>
+      <register name="&quot;" type="4">
+        <text>ring-input-size_l</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>, tokenType</text>
+        <text>ring-input-size_l</text>
       </register>
       <register name="/" type="4">
-        <text>grant</text>
+        <text>time</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBFcnJvcignVG9rZW4ocmVmcmVzaCk6IFVua25vd24gdG9rZW4gdHlwZSAiJyArIHRva2VuVHlwZSArICciJyk7Cg==</text>
+      <register name="0" type="4">
+        <text>ring-input-size_md</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHRva2VuLnR5cGUoKTsKICAgIHRva2VuLnNpZ24oKQo=</text>
@@ -1073,9 +1073,9 @@
       </register>
     </registers>
     <search>
-      <last-search>grant</last-search>
+      <last-search>time</last-search>
       <last-offset />
-      <last-pattern>grant</last-pattern>
+      <last-pattern>time</last-pattern>
       <last-replace />
       <last-substitute>data\.</last-substitute>
       <last-dir>1</last-dir>
@@ -1083,7 +1083,6 @@
     </search>
     <history>
       <history-search>
-        <entry>changes</entry>
         <entry>timez</entry>
         <entry>help</entry>
         <entry>start</entry>
@@ -1103,6 +1102,7 @@
         <entry>Web</entry>
         <entry>body</entry>
         <entry>grant</entry>
+        <entry>time</entry>
       </history-search>
       <history-cmd>
         <entry>108</entry>
