@@ -119,6 +119,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/analytics-ng/analytics-ng.js" timestamp="1491477712520">
         <mark key="'" line="83" column="24" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/create-issue-work-item-draft.js" timestamp="1492166553569">
+        <mark key="[" line="70" column="24" />
+        <mark key="]" line="70" column="31" />
+        <mark key="." line="70" column="31" />
+        <mark key="^" line="70" column="31" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mock/service/auth-mock.js" timestamp="1492161789354">
         <mark key="'" line="37" column="2" />
         <mark key="[" line="13" column="39" />
@@ -878,6 +884,13 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/ring-component/ring-component.js" timestamp="1489408554392">
         <mark key="'" line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/create-issue-work-item-draft.js" timestamp="1492166429706">
+        <mark key="'" line="165" column="4" />
+        <mark key="[" line="186" column="0" />
+        <mark key="]" line="186" column="0" />
+        <mark key="^" line="183" column="4" />
+        <mark key="." line="186" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/input/input.scss" timestamp="1491308577691">
         <mark key="'" line="11" column="15" />
       </file>
@@ -1010,11 +1023,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="2" filename="$USER_HOME$/www/js/Lisa/node_modules/react/lib/React.js" />
-      <jump line="27" column="4" filename="$USER_HOME$/www/js/Lisa/node_modules/react/lib/React.js" />
-      <jump line="84" column="0" filename="$USER_HOME$/www/js/Lisa/node_modules/react/lib/React.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/js/Lisa/node_modules/react/lib/React.js" />
-      <jump line="73" column="17" filename="$USER_HOME$/www/js/Lisa/node_modules/react/lib/React.js" />
       <jump line="7" column="0" filename="$USER_HOME$/www/js/Lisa/src/renderer.js" />
       <jump line="18" column="5" filename="$USER_HOME$/www/js/Lisa/src/renderer.js" />
       <jump line="34" column="0" filename="$USER_HOME$/www/js/Lisa/src/renderer.js" />
@@ -1110,61 +1118,66 @@
       <jump line="8" column="1" filename="$USER_HOME$/www/js/Lisa/src/model/Authorization.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/js/Lisa/src/model/Authorization.js" />
       <jump line="11" column="0" filename="$USER_HOME$/www/js/Lisa/src/model/Authorization.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/create-issue-work-item-draft.js" />
+      <jump line="168" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/create-issue-work-item-draft.js" />
+      <jump line="176" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/create-issue-work-item-draft.js" />
+      <jump line="188" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/create-issue-work-item-draft.js" />
+      <jump line="165" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/create-issue-work-item-draft.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>message</text>
+        <text>errorData</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>message</text>
+        <text>errorData</text>
       </register>
       <register name="/" type="4">
-        <text>_http</text>
+        <text>afte</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0b2tlbjogbWVzc2FnZS50b2tlbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygnPj4+Jyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygnPj4+Jyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJz4+PicpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbWFrc2ltcnYgb24gMTQvMDQvMjAxNy4KICovCg==</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0Q29udmVydFdvcmtJdGVtRHJhZnRUb1dvcmtJdGVtKGlzc3VlLmlkKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlcXVlc3RVc2VyOiBmdW5jdGlvbigpIHsKICAgICAgICAgICAgcmV0dXJuICRxLndoZW4oe30pOwogICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICB0b2tlbjogbWVzc2FnZS50b2tlbgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMuX2h0dHApOwo=</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbWFrc2ltcnYgb24gMTQvMDQvMjAxNy4KICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc+Pj4nLCBhdXRoLmh0dHApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJlcXVlc3RVc2VyOiBmdW5jdGlvbigpIHsKICAgICAgICAgICAgcmV0dXJuICRxLndoZW4oe30pOwogICAgICAgICAgfSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>_http</last-search>
+      <last-search>afte</last-search>
       <last-offset />
-      <last-pattern>_http</last-pattern>
+      <last-pattern>afte</last-pattern>
       <last-replace />
       <last-substitute>data\.</last-substitute>
       <last-dir>1</last-dir>
@@ -1172,8 +1185,6 @@
     </search>
     <history>
       <history-search>
-        <entry>naviga</entry>
-        <entry>Web</entry>
         <entry>body</entry>
         <entry>grant</entry>
         <entry>time</entry>
@@ -1192,6 +1203,8 @@
         <entry>auth</entry>
         <entry>http</entry>
         <entry>_http</entry>
+        <entry>convert</entry>
+        <entry>afte</entry>
       </history-search>
       <history-cmd>
         <entry>2</entry>
