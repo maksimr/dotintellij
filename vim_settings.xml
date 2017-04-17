@@ -266,12 +266,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/main/kotlin/jetbrains/youtrack/webdriver/page/Page.kt" timestamp="1492005041685">
         <mark key="'" line="27" column="15" />
       </file>
-      <file name="$USER_HOME$/www/js/Lisa/src/containers/LoginSpec.js" timestamp="1492438695498">
-        <mark key="'" line="102" column="19" />
-        <mark key="[" line="103" column="36" />
-        <mark key="]" line="104" column="23" />
-        <mark key="." line="104" column="23" />
-        <mark key="^" line="104" column="23" />
+      <file name="$USER_HOME$/www/js/Lisa/src/containers/LoginSpec.js" timestamp="1492439713451">
+        <mark key="'" line="189" column="0" />
+        <mark key="[" line="15" column="22" />
+        <mark key="]" line="15" column="35" />
+        <mark key="." line="15" column="35" />
+        <mark key="^" line="15" column="35" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/projects.js" timestamp="1491566805558">
         <mark key="'" line="88" column="55" />
@@ -1532,8 +1532,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="0" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
-      <jump line="34" column="29" filename="$USER_HOME$/www/js/specht/src/parser/parse-js.js" />
       <jump line="72" column="0" filename="$USER_HOME$/www/js/specht/src/parser/parse-js.js" />
       <jump line="49" column="12" filename="$USER_HOME$/www/js/specht/src/parser/parse-js.js" />
       <jump line="11" column="0" filename="$USER_HOME$/www/js/specht/test/parser/parse-jsSpec.js" />
@@ -1631,17 +1629,19 @@
       <jump line="23" column="8" filename="$USER_HOME$/www/js/Lisa/src/containers/LoginSpec.js" />
       <jump line="94" column="0" filename="$USER_HOME$/www/js/Lisa/src/containers/LoginSpec.js" />
       <jump line="17" column="29" filename="$USER_HOME$/www/js/Lisa/src/containers/LoginSpec.js" />
-      <jump line="102" column="19" filename="$USER_HOME$/www/js/Lisa/src/containers/LoginSpec.js" />
+      <jump line="102" column="45" filename="$USER_HOME$/www/js/Lisa/src/containers/LoginSpec.js" />
+      <jump line="77" column="0" filename="$USER_HOME$/www/js/Lisa/src/containers/LoginSpec.js" />
+      <jump line="189" column="0" filename="$USER_HOME$/www/js/Lisa/src/containers/LoginSpec.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>matchesElement</text>
+        <text>onChange</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>matchesElement</text>
+        <text>onChange</text>
       </register>
       <register name="/" type="4">
         <text>Login</text>
@@ -1656,30 +1656,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgaW52YWxpZDogQm9vbGVhbihwcm9wcy5lcnJvck1lc3NhZ2UpCg==</text>
+        <text encoding="base64">ICAgICAgZXJyb3JNZXNzYWdlOiAnZm9vJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgb25TZXJ2ZXJDaGFuZ2U6IGZ1bmN0aW9uKCkgewogICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZXNjcmliZSgncmVuZGVySW5wdXQnLCBmdW5jdGlvbigpIHsKICAgIGl0KCdzaG91bGQgcmVuZGVyIGlucHV0JywgZnVuY3Rpb24oKSB7CiAgICAgIHZhciB3cmFwcGVyID0gc2hhbGxvdyhyZW5kZXJJbnB1dCgpKTsKCiAgICAgIGV4cGVjdCh3cmFwcGVyLmVxdWFscyhyZW5kZXJJbnB1dCgpKSkudG9FcXVhbCh0cnVlKTsKICAgIH0pOwogIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgaW52YWxpZDogQm9vbGVhbihwcm9wcy5lcnJvck1lc3NhZ2UpCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>e(renderInput, {
-        invalid: false
-      })</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZXNjcmliZSgncmVuZGVySW5wdXQnLCBmdW5jdGlvbigpIHsKICAgIGl0KCdzaG91bGQgcmVuZGVyIGlucHV0JywgZnVuY3Rpb24oKSB7CiAgICAgIHZhciB3cmFwcGVyID0gc2hhbGxvdyhyZW5kZXJJbnB1dCgpKTsKCiAgICAgIGV4cGVjdCh3cmFwcGVyLmVxdWFscyhyZW5kZXJJbnB1dCgpKSkudG9FcXVhbCh0cnVlKTsKICAgIH0pOwogIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
