@@ -781,11 +781,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/service/workflows/remove-workflow.js" timestamp="1489149162903">
         <mark key="'" line="7" column="38" />
       </file>
-      <file name="$USER_HOME$/www/js/specht/src/parser/parse-js.js" timestamp="1492429707677">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/www/js/specht/src/parser/parse-js.js" timestamp="1492431136879">
+        <mark key="'" line="72" column="0" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="58" column="0" />
+        <mark key="^" line="71" column="5" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/www/js/Lisa/src/screens/Login/components/HostSetup.js" timestamp="1492280666710">
         <mark key="'" line="42" column="0" />
@@ -1439,12 +1440,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/style/projects-info.scss" timestamp="1491925510366">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/js/specht/test/parser/parse-jsSpec.js" timestamp="1492430061704">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="5" column="17" />
-        <mark key="]" line="5" column="28" />
-        <mark key="." line="5" column="28" />
-        <mark key="^" line="5" column="28" />
+      <file name="$USER_HOME$/www/js/specht/test/parser/parse-jsSpec.js" timestamp="1492431500013">
+        <mark key="'" line="127" column="0" />
+        <mark key="[" line="19" column="18" />
+        <mark key="]" line="19" column="17" />
+        <mark key="." line="19" column="17" />
+        <mark key="^" line="19" column="17" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/test/kotlin/jetbrains/youtrack/webdriver/YouTrackBaseTest.kt" timestamp="1492004892514">
         <mark key="'" line="14" column="0" />
@@ -1516,15 +1517,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/www/js/specht/node_modules/sinon/lib/sinon.js" />
-      <jump line="37" column="7" filename="$USER_HOME$/www/js/specht/node_modules/sinon/lib/sinon.js" />
-      <jump line="42" column="8" filename="$USER_HOME$/www/js/specht/node_modules/sinon/lib/sinon.js" />
-      <jump line="33" column="0" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
-      <jump line="3" column="8" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
-      <jump line="14" column="10" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
-      <jump line="19" column="0" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
-      <jump line="5" column="40" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
       <jump line="32" column="0" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
       <jump line="59" column="18" filename="$USER_HOME$/www/js/specht/src/runner.js" />
       <jump line="98" column="9" filename="$USER_HOME$/www/js/specht/src/runner.js" />
@@ -1614,71 +1606,79 @@
       <jump line="103" column="0" filename="$USER_HOME$/www/js/specht/test/parser/parse-jsSpec.js" />
       <jump line="102" column="2" filename="$USER_HOME$/www/js/specht/test/parser/parse-jsSpec.js" />
       <jump line="5" column="6" filename="$USER_HOME$/www/js/specht/test/parser/parse-jsSpec.js" />
-      <jump line="113" column="0" filename="$USER_HOME$/www/js/specht/test/parser/parse-jsSpec.js" />
       <jump line="14" column="0" filename="$USER_HOME$/www/js/specht/test/parser/parse-jsSpec.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/js/specht/test/parser/parse-jsSpec.js" />
+      <jump line="63" column="4" filename="$USER_HOME$/www/js/specht/src/parser/parse-js.js" />
+      <jump line="28" column="24" filename="$USER_HOME$/www/js/specht/src/parser/parse-js.js" />
+      <jump line="44" column="0" filename="$USER_HOME$/www/js/specht/src/parser/parse-js.js" />
+      <jump line="39" column="11" filename="$USER_HOME$/www/js/specht/src/parser/parse-js.js" />
+      <jump line="74" column="0" filename="$USER_HOME$/www/js/specht/src/parser/parse-js.js" />
+      <jump line="114" column="0" filename="$USER_HOME$/www/js/specht/test/parser/parse-jsSpec.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/js/specht/test/parser/parse-jsSpec.js" />
+      <jump line="111" column="0" filename="$USER_HOME$/www/js/specht/test/parser/parse-jsSpec.js" />
+      <jump line="113" column="0" filename="$USER_HOME$/www/js/specht/test/parser/parse-jsSpec.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>matches</text>
+        <text encoding="base64">YWRkIA==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>matches</text>
+        <text encoding="base64">YWRkIA==</text>
       </register>
       <register name="/" type="4">
-        <text>number</text>
+        <text encoding="base64">XDxnZXRWYXJWYWx1ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0LmlzKHJlc3VsdC5sZW5ndGgsIDEpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgp0ZXN0KCdzaG91bGQgcmV0dXJuIGVtcHR5IHJlc3VsdCBpZiB3ZSBkb25gdCBmb3VuZCBhbnkgbWF0Y2hlcycsICh0KSA9PiB7CiAgY29uc3QgcmVzdWx0ID0gW107CiAgY29uc3QgcnVsZXMgPSBjb252ZXJ0UnVlbHMoWydmb286MCddKTsKCgogIHBhcnNlQ29kZSgndmFyIGJhciA9IGZ1bmN0aW9uKGEpe307IGJhcigiMSIpOyB6b28oIjEiKScsIHJ1bGVzLCB2YWx1ZSA9PiByZXN1bHQucHVzaCh2YWx1ZSkpOwoKCiAgdC5pcyhyZXN1bHQubGVuZ3RoLCAwKTsKfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaXNOYU4oYXJndW1lbnRQb3NpdGlvbikpOwo=</text>
+        <text encoding="base64">dAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhhcmd1bWVudFBvc2l0aW9uKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJ1bGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0LmlzSWRlbnRpZmllcihhcmd1bWVudCkgJiYK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhydWxlUGFydHNbMF0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYXJndW1lbnRQb3NpdGlvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB0LmlzKHJlc3VsdC5sZW5ndGgsIDApOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAodC5pc1N0cmluZ0xpdGVyYWwodmFsdWUpKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>number</last-search>
+      <last-search encoding="base64">XDxnZXRWYXJWYWx1ZVw+</last-search>
       <last-offset />
-      <last-pattern>number</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRWYXJWYWx1ZVw+</last-pattern>
       <last-replace>var</last-replace>
       <last-substitute>const</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>patterhn</entry>
         <entry>filter</entry>
         <entry>req</entry>
         <entry>san</entry>
@@ -1698,6 +1698,7 @@
         <entry>only</entry>
         <entry encoding="base64">XDxlcnJvcnNcPg==</entry>
         <entry>number</entry>
+        <entry encoding="base64">XDxnZXRWYXJWYWx1ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>161</entry>
