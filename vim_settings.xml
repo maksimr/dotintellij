@@ -935,8 +935,8 @@
         <mark key="." line="14" column="1" />
         <mark key="^" line="14" column="1" />
       </file>
-      <file name="$USER_HOME$/www/js/specht/src/runner.js" timestamp="1492422952156">
-        <mark key="'" line="49" column="11" />
+      <file name="$USER_HOME$/www/js/specht/src/runner.js" timestamp="1492426419398">
+        <mark key="'" line="53" column="0" />
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="22" />
         <mark key="." line="103" column="0" />
@@ -1437,11 +1437,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/style/projects-info.scss" timestamp="1491925510366">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/js/specht/test/parser/parse-jsSpec.js" timestamp="1492426242597">
-        <mark key="[" line="11" column="20" />
-        <mark key="]" line="11" column="22" />
-        <mark key="." line="11" column="22" />
-        <mark key="^" line="11" column="22" />
+      <file name="$USER_HOME$/www/js/specht/test/parser/parse-jsSpec.js" timestamp="1492426728460">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="36" column="55" />
+        <mark key="]" line="36" column="53" />
+        <mark key="^" line="36" column="53" />
+        <mark key="." line="36" column="53" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/test/kotlin/jetbrains/youtrack/webdriver/YouTrackBaseTest.kt" timestamp="1492004892514">
         <mark key="'" line="14" column="0" />
@@ -1513,14 +1514,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="0" filename="$USER_HOME$/www/js/specht/src/runner.js" />
-      <jump line="73" column="25" filename="$USER_HOME$/www/js/specht/src/runner.js" />
-      <jump line="77" column="0" filename="$USER_HOME$/www/js/specht/src/runner.js" />
-      <jump line="102" column="0" filename="$USER_HOME$/www/js/specht/src/runner.js" />
-      <jump line="129" column="28" filename="$USER_HOME$/www/js/specht/src/runner.js" />
-      <jump line="28" column="9" filename="$USER_HOME$/www/js/specht/src/runner.js" />
-      <jump line="46" column="9" filename="$USER_HOME$/www/js/specht/src/runner.js" />
-      <jump line="123" column="11" filename="$USER_HOME$/www/js/specht/test/runnerSpec.js" />
       <jump line="58" column="21" filename="$USER_HOME$/www/js/specht/src/runner.js" />
       <jump line="151" column="11" filename="$USER_HOME$/www/js/specht/src/runner.js" />
       <jump line="158" column="72" filename="$USER_HOME$/www/js/specht/src/runner.js" />
@@ -1613,16 +1606,24 @@
       <jump line="72" column="0" filename="$USER_HOME$/www/js/specht/src/parser/parse-js.js" />
       <jump line="56" column="9" filename="$USER_HOME$/www/js/specht/src/parser/parse-js.js" />
       <jump line="49" column="12" filename="$USER_HOME$/www/js/specht/src/parser/parse-js.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/www/js/specht/test/parser/parse-jsSpec.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/www/js/specht/test/parser/parse-jsSpec.js" />
+      <jump line="53" column="0" filename="$USER_HOME$/www/js/specht/src/runner.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/www/js/specht/test/parser/parse-jsSpec.js" />
+      <jump line="16" column="6" filename="$USER_HOME$/www/js/specht/test/parser/parse-jsSpec.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/www/js/specht/test/parser/parse-jsSpec.js" />
+      <jump line="22" column="0" filename="$USER_HOME$/www/js/specht/test/parser/parse-jsSpec.js" />
+      <jump line="19" column="0" filename="$USER_HOME$/www/js/specht/test/parser/parse-jsSpec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>pass</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>pass</text>
+        <text>value</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlcnJvcnNcPg==</text>
@@ -1637,28 +1638,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCByZXN1bHQgPSBbXTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlc3VsdC5wdXNoKHZhbHVlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0LmVuZCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0LmlzKCdmb28nLCAnZm9vJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ZnVuY3Rpb24gY3JlYXRlUnVsZXMobWFwKSB7Cgp9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGhpOiAnMCcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbWFrc2ltcnYgb24gMTcvMDQvMjAxNy4KICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBydWxlcy5hZGQoJ2dlOjAnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
