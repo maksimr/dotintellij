@@ -1083,6 +1083,13 @@
       <file name="$USER_HOME$/www/js/karma/lib/server.js" timestamp="1491038636588">
         <mark key="'" line="132" column="54" />
       </file>
+      <file name="$USER_HOME$/www/js/electron-quick-start/karma.conf.js" timestamp="1492554007570">
+        <mark key="'" line="14" column="3" />
+        <mark key="[" line="4" column="7" />
+        <mark key="]" line="4" column="19" />
+        <mark key="." line="4" column="19" />
+        <mark key="^" line="4" column="19" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/error.js" timestamp="1491302810653">
         <mark key="'" line="29" column="21" />
       </file>
@@ -1775,8 +1782,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issues-tags-action.html" />
-      <jump line="52" column="29" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-bottom-toolbar.html" />
       <jump line="26" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-bottom-toolbar.html" />
       <jump line="47" column="59" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-bottom-toolbar.html" />
       <jump line="49" column="44" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-bottom-toolbar.html" />
@@ -1875,16 +1880,18 @@
       <jump line="26" column="0" filename="$USER_HOME$/www/js/electron-quick-start/renderer.js" />
       <jump line="19" column="0" filename="$USER_HOME$/www/js/electron-quick-start/renderer.js" />
       <jump line="25" column="0" filename="$USER_HOME$/www/js/electron-quick-start/renderer.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/js/electron-quick-start/karma.conf.js" />
+      <jump line="13" column="3" filename="$USER_HOME$/www/js/electron-quick-start/karma.conf.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>process.</text>
+        <text>render</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>process.</text>
+        <text>render</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvdXRwdXRTb3VyY2VNYXBGaWxlXD4=</text>
@@ -1892,40 +1899,35 @@
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgQ2xvc3VyZUNvbXBpbGVyUGx1Z2luID0gcmVxdWlyZSgnd2VicGFjay1jbG9zdXJlLWNvbXBpbGVyJyk7Cgo=</text>
       </register>
-      <register name="1" type="8">
-        <text>versions.
-versions.</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHBvcnQ6IDk4NzYsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="8">
-        <text>proces
-ome),</text>
+      <register name="2" type="2">
+        <text encoding="base64">CiAgICAvLyBDb25jdXJyZW5jeSBsZXZlbAogICAgLy8gaG93IG1hbnkgYnJvd3NlciBzaG91bGQgYmUgc3RhcnRlZCBzaW11bHRhbmVvdXMK</text>
       </register>
-      <register name="3" type="8">
-        <text>process.
-process.</text>
+      <register name="3" type="2">
+        <text encoding="base64">CgogICAgLy8gQ29udGludW91cyBJbnRlZ3JhdGlvbiBtb2RlCiAgICAvLyBpZiB0cnVlLCBLYXJtYSBjYXB0dXJlcyBicm93c2VycywgcnVucyB0aGUgdGVzdHMgYW5kIGV4aXRzCg==</text>
       </register>
-      <register name="4" type="8">
-        <text>process.
-process.
-equire('</text>
+      <register name="4" type="2">
+        <text encoding="base64">CgogICAgLy8gc3RhcnQgdGhlc2UgYnJvd3NlcnMKICAgIC8vIGF2YWlsYWJsZSBicm93c2VyIGxhdW5jaGVyczogaHR0cHM6Ly9ucG1qcy5vcmcvYnJvd3NlL2tleXdvcmQva2FybWEtbGF1bmNoZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnPj4nKTsK</text>
+        <text encoding="base64">CgogICAgLy8gZW5hYmxlIC8gZGlzYWJsZSB3YXRjaGluZyBmaWxlIGFuZCBleGVjdXRpbmcgdGVzdHMgd2hlbmV2ZXIgYW55IGZpbGUgY2hhbmdlcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAvLyBodHRwczovL2dpdGh1Yi5jb20vd2VicGFjay93ZWJwYWNrL2lzc3Vlcy8yNTQ1Cg==</text>
+        <text encoding="base64">CgogICAgLy8gbGV2ZWwgb2YgbG9nZ2luZwogICAgLy8gcG9zc2libGUgdmFsdWVzOiBjb25maWcuTE9HX0RJU0FCTEUgfHwgY29uZmlnLkxPR19FUlJPUiB8fCBjb25maWcuTE9HX1dBUk4gfHwgY29uZmlnLkxPR19JTkZPIHx8IGNvbmZpZy5MT0dfREVCVUcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLwo=</text>
+        <text encoding="base64">CgogICAgLy8gZW5hYmxlIC8gZGlzYWJsZSBjb2xvcnMgaW4gdGhlIG91dHB1dCAocmVwb3J0ZXJzIGFuZCBsb2dzKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmNvbnNvbGUubG9nKCc+PicpOwo=</text>
+        <text encoding="base64">CgogICAgLy8gd2ViIHNlcnZlciBwb3J0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJz4+Jyk7Cg==</text>
+        <text encoding="base64">CgogICAgLy8gdGVzdCByZXN1bHRzIHJlcG9ydGVyIHRvIHVzZQogICAgLy8gcG9zc2libGUgdmFsdWVzOiAnZG90cycsICdwcm9ncmVzcycKICAgIC8vIGF2YWlsYWJsZSByZXBvcnRlcnM6IGh0dHBzOi8vbnBtanMub3JnL2Jyb3dzZS9rZXl3b3JkL2thcm1hLXJlcG9ydGVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
