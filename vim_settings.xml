@@ -433,10 +433,11 @@
       <file name="$USER_HOME$/www/js/karma/package.json" timestamp="1491064413687">
         <mark key="'" line="368" column="19" />
       </file>
-      <file name="$USER_HOME$/www/js/electron-quick-start/test/rendererSpec.js" timestamp="1492641159543">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/www/js/electron-quick-start/test/rendererSpec.js" timestamp="1492642058020">
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="2" column="43" />
+        <mark key="." line="2" column="43" />
+        <mark key="^" line="2" column="43" />
       </file>
       <file name="$USER_HOME$/www/js/Lisa/node_modules/material-ui/TextField/TextField.js" timestamp="1492355335512">
         <mark key="'" line="467" column="2" />
@@ -1225,14 +1226,14 @@
       <jump line="42" column="0" filename="$USER_HOME$/www/js/karma-electron-launcher/test/e2e/require/karma.conf.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJlcXVpcmUoJy4uL2ZvbycpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>cwd()</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>APP_DIR</text>
+        <text>cwd()</text>
       </register>
       <register name="/" type="4">
         <text>test</text>
