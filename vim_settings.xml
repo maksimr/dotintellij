@@ -1041,8 +1041,8 @@
       <file name="$USER_HOME$/www/js/karma/lib/server.js" timestamp="1491038636588">
         <mark key="'" line="132" column="54" />
       </file>
-      <file name="$USER_HOME$/www/js/electron-quick-start/karma.conf.js" timestamp="1492567874196">
-        <mark key="'" line="51" column="0" />
+      <file name="$USER_HOME$/www/js/electron-quick-start/karma.conf.js" timestamp="1492586532227">
+        <mark key="'" line="42" column="0" />
         <mark key="[" line="19" column="73" />
         <mark key="]" line="19" column="72" />
         <mark key="." line="19" column="72" />
@@ -1697,10 +1697,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="1" filename="$USER_HOME$/www/js/electron-quick-start/renderer.js" />
-      <jump line="13" column="40" filename="$USER_HOME$/www/js/electron-quick-start/renderer.js" />
-      <jump line="10" column="0" filename="$USER_HOME$/www/js/electron-quick-start/package.json" />
-      <jump line="61" column="9" filename="$USER_HOME$/www/js/electron-quick-start/node_modules/webpack-node-externals/index.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/js/electron-quick-start/webpack.config.js" />
       <jump line="23" column="0" filename="$USER_HOME$/www/js/electron-quick-start/webpack.config.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/js/electron-quick-start/node_modules/webpack-closure-compiler/index.js" />
@@ -1792,11 +1788,15 @@
       <jump line="11" column="4" filename="$USER_HOME$/www/js/electron-quick-start/karma.conf.js" />
       <jump line="8" column="0" filename="$USER_HOME$/www/js/electron-quick-start/foo.js" />
       <jump line="40" column="10" filename="$USER_HOME$/www/js/electron-quick-start/karma.conf.js" />
-      <jump line="52" column="0" filename="$USER_HOME$/www/js/electron-quick-start/karma.conf.js" />
       <jump line="21" column="0" filename="$USER_HOME$/www/js/electron-quick-start/karma.conf.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/js/electron-quick-start/karma.conf.js" />
       <jump line="38" column="0" filename="$USER_HOME$/www/js/electron-quick-start/karma.conf.js" />
       <jump line="51" column="0" filename="$USER_HOME$/www/js/electron-quick-start/karma.conf.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/www/js/electron-quick-start/karma.conf.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/js/electron-quick-start/karma.conf.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/www/js/electron-quick-start/karma.conf.js" />
+      <jump line="52" column="0" filename="$USER_HOME$/www/js/electron-quick-start/karma.conf.js" />
+      <jump line="22" column="0" filename="$USER_HOME$/www/js/electron-quick-start/karma.conf.js" />
+      <jump line="42" column="0" filename="$USER_HOME$/www/js/electron-quick-start/karma.conf.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1899,8 +1899,8 @@
         <entry>%s/from/require/gc</entry>
         <entry>%s/ from / = require(/gc</entry>
         <entry>%s/const/var/gc</entry>
-        <entry>action AceJumpAction</entry>
         <entry>w</entry>
+        <entry>action AceJumpAction</entry>
       </history-cmd>
       <history-expr />
       <history-input />
