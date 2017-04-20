@@ -790,11 +790,10 @@
       <file name="$USER_HOME$/www/js/karma/package.json" timestamp="1491064413687">
         <mark key="'" line="368" column="19" />
       </file>
-      <file name="$USER_HOME$/www/js/electron-quick-start/test/rendererSpec.js" timestamp="1492644524566">
-        <mark key="'" line="21" column="0" />
+      <file name="$USER_HOME$/www/js/electron-quick-start/test/rendererSpec.js" timestamp="1492684862535">
+        <mark key="'" line="12" column="4" />
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
-        <mark key="^" line="23" column="36" />
         <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/bubble/bubble.js" timestamp="1491568319560">
@@ -1180,11 +1179,11 @@
       <file name="$USER_HOME$/www/js/karma/lib/server.js" timestamp="1491038636588">
         <mark key="'" line="132" column="54" />
       </file>
-      <file name="$USER_HOME$/www/js/electron-quick-start/karma.conf.js" timestamp="1492644087011">
-        <mark key="'" line="9" column="34" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/www/js/electron-quick-start/karma.conf.js" timestamp="1492684832417">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="18" column="22" />
+        <mark key="]" line="18" column="22" />
+        <mark key="." line="18" column="22" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/error/error.js" timestamp="1491302810653">
         <mark key="'" line="29" column="21" />
@@ -1987,13 +1986,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="69" filename="$USER_HOME$/www/js/karma-electron-launcher/package.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/js/karma-electron-launcher/test/e2e/require/bar/bar.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/js/karma-electron-launcher/test/e2e/require/index.spec.js" />
-      <jump line="35" column="0" filename="$USER_HOME$/www/js/karma-electron-launcher/test/e2e/require/karma.conf.js" />
-      <jump line="10" column="0" filename="$USER_HOME$/www/js/karma-electron-launcher/test/e2e/require/index.spec.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/www/js/karma-electron-launcher/test/e2e/require/index.spec.js" />
-      <jump line="5" column="43" filename="$USER_HOME$/www/js/karma-electron-launcher/test/e2e/require/bar/bar.spec.js" />
       <jump line="11" column="10" filename="$USER_HOME$/www/js/karma-electron-launcher/test/e2e/require/karma.conf.js" />
       <jump line="23" column="5" filename="$USER_HOME$/www/js/karma-electron-launcher/lib/electron-module-patch.js" />
       <jump line="1" column="0" filename="$USER_HOME$/www/js/karma-electron-launcher/lib/electron-module-patch.js" />
@@ -2087,52 +2079,59 @@
       <jump line="6" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/service/get-time-zones.js" />
       <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/service/get-time-zones.js" />
       <jump line="5" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/service/get-time-zones.js" />
+      <jump line="23" column="0" filename="$USER_HOME$/www/js/electron-quick-start/test/rendererSpec.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/js/electron-quick-start/test/rendererSpec.js" />
+      <jump line="26" column="0" filename="$USER_HOME$/www/js/electron-quick-start/test/rendererSpec.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/www/js/electron-quick-start/test/rendererSpec.js" />
+      <jump line="22" column="0" filename="$USER_HOME$/www/js/electron-quick-start/test/rendererSpec.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/js/electron-quick-start/karma.conf.js" />
+      <jump line="12" column="4" filename="$USER_HOME$/www/js/electron-quick-start/test/rendererSpec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>https://github.com/electron/electron/pull/9095</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bm90IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>send</text>
       </register>
-      <register name="0" type="4">
-        <text>https://github.com/electron/electron/pull/9095</text>
+      <register name="0" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC4uLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y3VzdG9tTGF1bmNoZXJzOiB7CiAgRWxlY3Ryb25fd2l0aF9kZWJ1Z2dpbmc6IHsKICAgIGJhc2U6ICdFbGVjdHJvbicsCiAgICBlbGVjdHJvbkRhdGFEaXI6IHBhdGgucmVzb2x2ZShfX2Rpcm5hbWUsICcuZWxlY3Ryb24nKQogIH0KfQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc+PicsIHNpbm9uLnNlcnZlci5yZXF1ZXN0cyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICBleHBlY3QodHJ1ZSkudG9CZURlZmluZWQoKTsK</text>
+        <text encoding="base64">ICAgICAgcnVuSW5QYXJlbnQ6IHRydWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyh1cmwpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGdvb2cubmV0LlhocklvKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNpbm9uLnNlcnZlci5yZXF1ZXN0cyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC4uLgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdXNlRmFrZVNlcnZlcjogdHJ1ZQo=</text>
+        <text encoding="base64">Y3VzdG9tTGF1bmNoZXJzOiB7CiAgRWxlY3Ryb25fd2l0aF9kZWJ1Z2dpbmc6IHsKICAgIGJhc2U6ICdFbGVjdHJvbicsCiAgICBlbGVjdHJvbkRhdGFEaXI6IHBhdGgucmVzb2x2ZShfX2Rpcm5hbWUsICcuZWxlY3Ryb24nKQogIH0KfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGhhc2ggPSBzaGExLmRpZ2VzdCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
