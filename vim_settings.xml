@@ -220,8 +220,8 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/www/js/electron-quick-start/renderer.js" timestamp="1492643309569">
-        <mark key="'" line="6" column="0" />
+      <file name="$USER_HOME$/www/js/electron-quick-start/renderer.js" timestamp="1492710708660">
+        <mark key="'" line="17" column="0" />
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
@@ -766,8 +766,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/build/allure-report/index.html" timestamp="1492687778147">
         <mark key="'" line="13" column="5" />
       </file>
-      <file name="$USER_HOME$/www/js/electron-quick-start/test/rendererSpec.js" timestamp="1492710448485">
-        <mark key="'" line="7" column="0" />
+      <file name="$USER_HOME$/www/js/electron-quick-start/test/rendererSpec.js" timestamp="1492710741108">
+        <mark key="'" line="21" column="21" />
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
@@ -1761,6 +1761,9 @@
       <file name="$USER_HOME$/www/js/electron-quick-start/node_modules/minstache/index.js" timestamp="1492557385721">
         <mark key="'" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/www/js/electron-quick-start/node_modules/google-closure-library/closure/goog/bootstrap/nodejs.js" timestamp="1492710776857">
+        <mark key="'" line="24" column="39" />
+      </file>
       <file name="$USER_HOME$/www/js/Lisa/src/pages/Login/actions.js" timestamp="1492280414361">
         <mark key="'" line="4" column="21" />
         <mark key="[" line="5" column="26" />
@@ -1961,21 +1964,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/main/kotlin/jetbrains/youtrack/webdriver/page/NewIssuePage.kt" />
-      <jump line="4" column="50" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webapp/src/test/kotlin/jetbrains/youtrack/rest/workflow/WorkflowsTest.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/README.md" />
-      <jump line="12" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/test/kotlin/jetbrains/youtrack/webdriver/workshop/WorkshopTest.kt" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/test/kotlin/jetbrains/youtrack/webdriver/workshop/WorkshopTest.kt" />
-      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/test/kotlin/jetbrains/youtrack/webdriver/admin/UsersTest.kt" />
-      <jump line="9" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/test/kotlin/jetbrains/youtrack/webdriver/admin/UsersTest.kt" />
-      <jump line="11" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/test/kotlin/jetbrains/youtrack/webdriver/admin/UsersTest.kt" />
-      <jump line="14" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/test/kotlin/jetbrains/youtrack/webdriver/admin/UsersTest.kt" />
-      <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/main/kotlin/jetbrains/youtrack/webdriver/page/admin/UsersPage.kt" />
-      <jump line="25" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/main/kotlin/jetbrains/youtrack/webdriver/page/admin/UsersPage.kt" />
-      <jump line="26" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/main/kotlin/jetbrains/youtrack/webdriver/page/admin/UsersPage.kt" />
-      <jump line="14" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/main/kotlin/jetbrains/youtrack/webdriver/page/admin/UsersPage.kt" />
-      <jump line="43" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/main/kotlin/jetbrains/youtrack/webdriver/page/admin/UsersPage.kt" />
-      <jump line="47" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/main/kotlin/jetbrains/youtrack/webdriver/page/admin/UsersPage.kt" />
       <jump line="12" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/main/kotlin/jetbrains/youtrack/webdriver/page/admin/UsersPage.kt" />
       <jump line="50" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/main/kotlin/jetbrains/youtrack/webdriver/page/admin/UsersPage.kt" />
       <jump line="32" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/main/kotlin/jetbrains/youtrack/webdriver/page/admin/UsersPage.kt" />
@@ -2061,49 +2049,64 @@
       <jump line="15" column="28" filename="$USER_HOME$/www/js/karma-electron-launcher/lib/electron-module-patch.js" />
       <jump line="16" column="38" filename="$USER_HOME$/www/js/karma-electron-launcher/lib/electron-module-patch.js" />
       <jump line="7" column="0" filename="$USER_HOME$/www/js/electron-quick-start/test/rendererSpec.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/www/js/electron-quick-start/renderer.js" />
+      <jump line="0" column="37" filename="$USER_HOME$/www/js/electron-quick-start/test/rendererSpec.js" />
+      <jump line="21" column="21" filename="$USER_HOME$/www/js/electron-quick-start/test/rendererSpec.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/js/electron-quick-start/node_modules/google-closure-library/closure/goog/bootstrap/nodejs.js" />
+      <jump line="67" column="0" filename="$USER_HOME$/www/js/electron-quick-start/node_modules/google-closure-library/closure/goog/bootstrap/nodejs.js" />
+      <jump line="27" column="52" filename="$USER_HOME$/www/js/electron-quick-start/node_modules/google-closure-library/closure/goog/bootstrap/nodejs.js" />
+      <jump line="48" column="29" filename="$USER_HOME$/www/js/electron-quick-start/node_modules/google-closure-library/closure/goog/bootstrap/nodejs.js" />
+      <jump line="50" column="0" filename="$USER_HOME$/www/js/electron-quick-start/node_modules/google-closure-library/closure/goog/bootstrap/nodejs.js" />
+      <jump line="60" column="0" filename="$USER_HOME$/www/js/electron-quick-start/node_modules/google-closure-library/closure/goog/bootstrap/nodejs.js" />
+      <jump line="78" column="0" filename="$USER_HOME$/www/js/electron-quick-start/node_modules/google-closure-library/closure/goog/bootstrap/nodejs.js" />
+      <jump line="86" column="27" filename="$USER_HOME$/www/js/electron-quick-start/node_modules/google-closure-library/closure/goog/bootstrap/nodejs.js" />
+      <jump line="97" column="30" filename="$USER_HOME$/www/js/electron-quick-start/node_modules/google-closure-library/closure/goog/bootstrap/nodejs.js" />
+      <jump line="100" column="29" filename="$USER_HOME$/www/js/electron-quick-start/node_modules/google-closure-library/closure/goog/bootstrap/nodejs.js" />
+      <jump line="101" column="19" filename="$USER_HOME$/www/js/electron-quick-start/node_modules/google-closure-library/closure/goog/bootstrap/nodejs.js" />
+      <jump line="24" column="39" filename="$USER_HOME$/www/js/electron-quick-start/node_modules/google-closure-library/closure/goog/bootstrap/nodejs.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>from</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHdpbmRvdy5nb29nKTsK</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>from</text>
+        <text>global</text>
       </register>
       <register name="/" type="4">
-        <text>conso</text>
+        <text>global</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhZGRTdGVwKCJEZWxldGUgdXNlciIpIHsKICAgICAgICAgICAgZGVsZXRlVXNlckJ1dHRvbi5jbGljaygpCiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHdpbmRvdy5nb29nKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIFVzZSBwYXRjaGVkIGJ5IGthcm1hIGNvbnNvbGUK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc+Pj4nKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIFVzZSBwYXRjaGVkIGJ5IGthcm1hIGNvbnNvbGUK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVsZXRlVXNlckJ1dHRvbi5jbGljaygpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmdWxsTmFtZUlucHV0LmNsZWFyKCkKICAgICAgICBmdWxsTmFtZUlucHV0LnNlbmRLZXlzKHVzZXJOYW1lKQoKICAgICAgICBmdWxsTmFtZVNhdmVCdXR0b24uY2xpY2soKQoKICAgICAgICB3YWl0Rm9yRWxlbWVudERpc2FwcGVhcnMoZnVsbE5hbWVTYXZlQnV0dG9uKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gVXNlcnNQYWdlKGRyaXZlcikud2FpdEZvclBhZ2VUb0xvYWQoKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8vIFVzZSBwYXRjaGVkIGJ5IGthcm1hIGNvbnNvbGUK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8vIFVzZSBwYXRjaGVkIGJ5IGthcm1hIGNvbnNvbGUK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGVsZXRlVXNlckJ1dHRvbi5jbGljaygpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBmdWxsTmFtZUlucHV0LmNsZWFyKCkKICAgICAgICBmdWxsTmFtZUlucHV0LnNlbmRLZXlzKHVzZXJOYW1lKQoKICAgICAgICBmdWxsTmFtZVNhdmVCdXR0b24uY2xpY2soKQoKICAgICAgICB3YWl0Rm9yRWxlbWVudERpc2FwcGVhcnMoZnVsbE5hbWVTYXZlQnV0dG9uKQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmdWxsTmFtZVNhdmVCdXR0b24K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gVXNlcnNQYWdlKGRyaXZlcikud2FpdEZvclBhZ2VUb0xvYWQoKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -2113,9 +2116,9 @@
       </register>
     </registers>
     <search>
-      <last-search>conso</last-search>
+      <last-search>global</last-search>
       <last-offset />
-      <last-pattern>conso</last-pattern>
+      <last-pattern>global</last-pattern>
       <last-replace>maksimr</last-replace>
       <last-substitute>karma-runner</last-substitute>
       <last-dir>1</last-dir>
@@ -2141,8 +2144,8 @@
         <entry>goog</entry>
         <entry>equalTo</entry>
         <entry encoding="base64">XDxlcXVhbFRvXD4=</entry>
-        <entry>global</entry>
         <entry>conso</entry>
+        <entry>global</entry>
       </history-search>
       <history-cmd>
         <entry>768</entry>
