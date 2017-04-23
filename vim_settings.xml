@@ -753,7 +753,7 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/js/electron-quick-start/tests/reducerSpec.js" timestamp="1492938642021">
+      <file name="$USER_HOME$/www/js/electron-quick-start/tests/reducerSpec.js" timestamp="1492941675977">
         <mark key="'" line="39" column="0" />
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -1510,8 +1510,8 @@
         <mark key="." line="8" column="8" />
         <mark key="^" line="8" column="8" />
       </file>
-      <file name="$USER_HOME$/www/js/electron-quick-start/tests/api.js" timestamp="1492892775892">
-        <mark key="'" line="16" column="6" />
+      <file name="$USER_HOME$/www/js/electron-quick-start/tests/api.js" timestamp="1492939690656">
+        <mark key="'" line="39" column="0" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="^" line="17" column="5" />
@@ -2008,8 +2008,8 @@
         <mark key="." line="10" column="37" />
         <mark key="^" line="10" column="37" />
       </file>
-      <file name="$USER_HOME$/www/js/electron-quick-start/tests/message.js" timestamp="1492895908904">
-        <mark key="'" line="3" column="0" />
+      <file name="$USER_HOME$/www/js/electron-quick-start/tests/message.js" timestamp="1492939697097">
+        <mark key="'" line="58" column="0" />
         <mark key="[" line="40" column="16" />
         <mark key="]" line="40" column="42" />
         <mark key="." line="40" column="42" />
@@ -2278,11 +2278,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="16" filename="$USER_HOME$/www/js/electron-quick-start/tests/messageSpec.js" />
-      <jump line="25" column="16" filename="$USER_HOME$/www/js/electron-quick-start/tests/messageSpec.js" />
-      <jump line="77" column="24" filename="$USER_HOME$/www/js/electron-quick-start/tests/messageSpec.js" />
-      <jump line="74" column="13" filename="$USER_HOME$/www/js/electron-quick-start/tests/messageSpec.js" />
-      <jump line="39" column="24" filename="$USER_HOME$/www/js/electron-quick-start/tests/messageSpec.js" />
       <jump line="16" column="4" filename="$USER_HOME$/www/js/electron-quick-start/tests/messageSpec.js" />
       <jump line="90" column="0" filename="$USER_HOME$/www/js/electron-quick-start/tests/messageSpec.js" />
       <jump line="86" column="0" filename="$USER_HOME$/www/js/electron-quick-start/tests/messageSpec.js" />
@@ -2322,7 +2317,6 @@
       <jump line="8" column="0" filename="$USER_HOME$/www/js/electron-quick-start/tests/apiSpec.js" />
       <jump line="91" column="0" filename="$USER_HOME$/www/js/electron-quick-start/tests/apiSpec.js" />
       <jump line="5" column="31" filename="$USER_HOME$/www/js/electron-quick-start/tests/api.js" />
-      <jump line="39" column="0" filename="$USER_HOME$/www/js/electron-quick-start/tests/api.js" />
       <jump line="23" column="0" filename="$USER_HOME$/www/js/electron-quick-start/tests/messageSpec.js" />
       <jump line="4" column="31" filename="$USER_HOME$/www/js/electron-quick-start/tests/messageSpec.js" />
       <jump line="28" column="8" filename="$USER_HOME$/www/js/electron-quick-start/tests/messageSpec.js" />
@@ -2347,7 +2341,6 @@
       <jump line="68" column="31" filename="$USER_HOME$/www/js/electron-quick-start/tests/apiSpec.js" />
       <jump line="19" column="5" filename="$USER_HOME$/www/js/electron-quick-start/tests/api.js" />
       <jump line="23" column="12" filename="$USER_HOME$/www/js/electron-quick-start/tests/message.js" />
-      <jump line="0" column="18" filename="$USER_HOME$/www/js/electron-quick-start/tests/message.js" />
       <jump line="21" column="6" filename="$USER_HOME$/www/js/electron-quick-start/tests/api.js" />
       <jump line="28" column="15" filename="$USER_HOME$/www/js/electron-quick-start/tests/apiSpec.js" />
       <jump line="2" column="31" filename="$USER_HOME$/www/js/electron-quick-start/tests/message.js" />
@@ -2361,14 +2354,11 @@
       <jump line="5" column="0" filename="$USER_HOME$/www/js/electron-quick-start/tests/messageSpec.js" />
       <jump line="1" column="0" filename="$USER_HOME$/www/js/electron-quick-start/tests/rendererSpec.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/js/electron-quick-start/tests/rendererSpec.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/www/js/electron-quick-start/tests/reducerSpec.js" />
       <jump line="7" column="6" filename="$USER_HOME$/www/js/electron-quick-start/tests/reducerSpec.js" />
       <jump line="26" column="0" filename="$USER_HOME$/www/js/electron-quick-start/tests/reducerSpec.js" />
       <jump line="23" column="0" filename="$USER_HOME$/www/js/electron-quick-start/tests/reducerSpec.js" />
       <jump line="22" column="6" filename="$USER_HOME$/www/js/electron-quick-start/tests/message.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/www/js/electron-quick-start/tests/reducerSpec.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/js/electron-quick-start/tests/reducerSpec.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/www/js/electron-quick-start/tests/message.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/js/electron-quick-start/tests/reducerSpec.js" />
       <jump line="25" column="0" filename="$USER_HOME$/www/js/electron-quick-start/tests/reducerSpec.js" />
       <jump line="29" column="5" filename="$USER_HOME$/www/js/electron-quick-start/tests/reducerSpec.js" />
@@ -2377,6 +2367,16 @@
       <jump line="10" column="0" filename="$USER_HOME$/www/js/electron-quick-start/tests/reducerSpec.js" />
       <jump line="36" column="0" filename="$USER_HOME$/www/js/electron-quick-start/tests/reducerSpec.js" />
       <jump line="1" column="0" filename="$USER_HOME$/www/js/electron-quick-start/tests/reducerSpec.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/www/js/electron-quick-start/tests/reducerSpec.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/www/js/electron-quick-start/tests/message.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/www/js/electron-quick-start/tests/api.js" />
+      <jump line="39" column="0" filename="$USER_HOME$/www/js/electron-quick-start/tests/api.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/js/electron-quick-start/tests/message.js" />
+      <jump line="57" column="0" filename="$USER_HOME$/www/js/electron-quick-start/tests/message.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/js/electron-quick-start/tests/message.js" />
+      <jump line="58" column="0" filename="$USER_HOME$/www/js/electron-quick-start/tests/message.js" />
+      <jump line="14" column="35" filename="$USER_HOME$/www/js/electron-quick-start/tests/reducerSpec.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/www/js/electron-quick-start/tests/reducerSpec.js" />
       <jump line="39" column="0" filename="$USER_HOME$/www/js/electron-quick-start/tests/reducerSpec.js" />
     </jumps>
     <registers>
