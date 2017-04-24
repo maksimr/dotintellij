@@ -123,6 +123,12 @@
         <mark key="." line="11" column="37" />
         <mark key="^" line="12" column="3" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/virtual-repeat/virtual-repeat.js" timestamp="1493033220771">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
+        <mark key="^" line="0" column="16" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/ring-ui/components/form-ng/form-ng.js" timestamp="1491300929290">
         <mark key="'" line="110" column="0" />
       </file>
@@ -1635,10 +1641,10 @@
         <mark key="." line="12" column="16" />
         <mark key="^" line="12" column="16" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/test/diff.js" timestamp="1491568292512">
-        <mark key="'" line="7" column="50" />
-        <mark key="[" line="7" column="27" />
-        <mark key="]" line="7" column="50" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/test/diff.js" timestamp="1493033268746">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="2" />
         <mark key="." line="0" column="33" />
         <mark key="^" line="0" column="33" />
       </file>
@@ -1953,6 +1959,12 @@
         <mark key="." line="40" column="42" />
         <mark key="^" line="40" column="42" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/virtual-repeat/test/directive/foo.js" timestamp="1493033292824">
+        <mark key="[" line="7" column="47" />
+        <mark key="]" line="7" column="59" />
+        <mark key="." line="7" column="59" />
+        <mark key="^" line="7" column="59" />
+      </file>
       <file name="$USER_HOME$/www/js/Lisa/node_modules/enzyme/build/index.js" timestamp="1492447759250">
         <mark key="'" line="2" column="0" />
       </file>
@@ -2206,9 +2218,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="0" filename="$USER_HOME$/www/js/react-chat-app/src/components/Popup.js" />
-      <jump line="28" column="0" filename="$USER_HOME$/www/js/react-chat-app/src/components/Popup.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/js/react-chat-app/src/components/Text.js" />
       <jump line="6" column="2" filename="$USER_HOME$/www/js/react-chat-app/src/components/Popup.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/js/react-chat-app/src/components/Text.js" />
       <jump line="2" column="35" filename="$USER_HOME$/www/js/react-chat-app/src/components/Popup.js" />
@@ -2306,49 +2315,52 @@
       <jump line="97" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/test/directive/yt-diff.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/test/directive/yt-diff.js" />
       <jump line="81" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/test/directive/yt-diff.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/virtual-repeat/virtual-repeat.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/virtual-repeat/test/directive/foo.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/test/diff.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICByZXR1cm4gZ2V0SWNvbkluZm8oKS5tYXAoZnVuY3Rpb24oaWNvbikgewogICAgaWYgKCFwdWJsaWNQYXRoKSB7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>diff</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHx8ICcnOw==</text>
+        <text>diff</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZXh0WFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICByZXR1cm4gZ2V0SWNvbkluZm8oKS5tYXAoZnVuY3Rpb24oaWNvbikgewogICAgaWYgKCFwdWJsaWNQYXRoKSB7Cg==</text>
+        <text encoding="base64">ZGVzY3JpYmUoJ3lvdXRyYWNrLmNvbXBvbmVudHMuZGlmZicsIGZ1bmN0aW9uKCkgewogIGJlZm9yZUVhY2goYW5ndWxhci5tb2NrLm1vZHVsZSgKICAgIHJlcXVpcmUoJy4uL2RpZmYnKS5uYW1lCiAgKSk7CgoKICBpdCgnc2hvdWxkIGRlZmluZSBtb2R1bGUnLCBpbmplY3QoZnVuY3Rpb24oKSB7CiAgICBleHBlY3QoYW5ndWxhci5tb2R1bGUoJ3lvdXRyYWNrLmNvbXBvbmVudHMuZGlmZicpKS50b0JlRGVmaW5lZCgpOwogIH0pKTsKfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICByZXF1aXJlKCdhbmd1bGFyLXNhbml0aXplJykK</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbWFrc2ltcnYgb24gMjQvMDQvMjAxNy4KICovCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbWFrc2ltcnYgb24gMjQvMDQvMjAxNy4KICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZnVuY3Rpb24gc2FuaXRpemUodGV4dCkgewogICAgICAgIHJldHVybiAkc2FuaXRpemUodGV4dCkucmVwbGFjZSgvJiMxMDsvZywgJ1xuJyk7CiAgICAgIH0K</text>
+        <text encoding="base64">ICByZXF1aXJlKCdhbmd1bGFyLXNhbml0aXplJykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICRzY29wZS5yZW1vdmVkID0gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICRzY29wZS5saW1pdCA9IDI7Cg==</text>
+        <text encoding="base64">ICAgICAgZnVuY3Rpb24gc2FuaXRpemUodGV4dCkgewogICAgICAgIHJldHVybiAkc2FuaXRpemUodGV4dCkucmVwbGFjZSgvJiMxMDsvZywgJ1xuJyk7CiAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICRzY29wZS5yZW1vdmVkID0gbnVsbDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICRzY29wZS5saW1pdCA9IDI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIXRleHQpIHsKICAgICAgICAgIHJldHVybiB0ZXh0OwogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
