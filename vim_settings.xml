@@ -46,9 +46,9 @@
         <mark key="^" line="33" column="34" />
         <mark key="." line="33" column="34" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1493123710645">
-        <mark key="'" line="31" column="28" />
-        <mark key="[" line="95" column="16" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1493125183606">
+        <mark key="'" line="13" column="31" />
+        <mark key="[" line="95" column="20" />
         <mark key="]" line="95" column="23" />
         <mark key="." line="95" column="23" />
         <mark key="^" line="95" column="23" />
@@ -514,7 +514,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="9" column="3" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493124424584">
+      <file name="/Dummy.txt" timestamp="1493125206320">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/js/Lisa/src/components/Login/HostSetup/Input.js" timestamp="1492219268576">
@@ -2278,7 +2278,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/load-more/load-more.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/load-more/test/directive/yt-load-more.js" />
       <jump line="16" column="56" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/yt-agile-swimlane-column.html" />
       <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/virtual-repeat/test/directive/yt-virtual-repeat.js" />
@@ -2367,7 +2366,6 @@
       <jump line="11" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/load-more/directive/yt-load-more.js" />
       <jump line="44" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/load-more/directive/yt-load-more.js" />
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
-      <jump line="13" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
       <jump line="86" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
       <jump line="6" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-feed.js" />
       <jump line="31" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
@@ -2378,19 +2376,21 @@
       <jump line="583" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/list/list.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/list/list.js" />
       <jump line="77" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/list/list.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="13" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>default</text>
+        <text>6688</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>default</text>
+        <text>6688</text>
       </register>
       <register name="/" type="4">
-        <text>ListProps</text>
+        <text>ring-ui</text>
       </register>
       <register name="0" type="4">
         <text>default</text>
@@ -2430,9 +2430,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ListProps</last-search>
+      <last-search>ring-ui</last-search>
       <last-offset />
-      <last-pattern>ListProps</last-pattern>
+      <last-pattern>ring-ui</last-pattern>
       <last-replace>maksimr</last-replace>
       <last-substitute>karma-runner</last-substitute>
       <last-dir>1</last-dir>
@@ -2456,10 +2456,10 @@
         <entry>comments</entry>
         <entry>Load More</entry>
         <entry>loadName</entry>
-        <entry>ring-ui</entry>
         <entry encoding="base64">XDxndWlkXD4=</entry>
         <entry>default</entry>
         <entry>ListProps</entry>
+        <entry>ring-ui</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ =/ from/gc</entry>
