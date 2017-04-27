@@ -261,6 +261,10 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("issue")).withParent(xmlTag().withLocalName(string().equalTo("yt-new-work-item-form")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-query-assist/@on-apply</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-apply")).withParent(xmlTag().withLocalName(string().equalTo("yt-query-assist")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>yt-query-assist/@on-change</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-change")).withParent(xmlTag().withLocalName(string().equalTo("yt-query-assist")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
