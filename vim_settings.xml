@@ -290,8 +290,8 @@
         <mark key="." line="2" column="36" />
         <mark key="^" line="2" column="36" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/date.js" timestamp="1492512894537">
-        <mark key="'" line="9" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/date.js" timestamp="1493380612636">
+        <mark key="'" line="26" column="33" />
         <mark key="[" line="2" column="56" />
         <mark key="]" line="2" column="56" />
         <mark key="^" line="2" column="56" />
@@ -780,6 +780,12 @@
         <mark key="^" line="34" column="44" />
         <mark key="." line="34" column="44" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/test/directive/foo.js" timestamp="1493380862131">
+        <mark key="[" line="8" column="47" />
+        <mark key="]" line="8" column="46" />
+        <mark key="^" line="8" column="46" />
+        <mark key="." line="8" column="46" />
+      </file>
       <file name="$USER_HOME$/www/js/Lisa/src/components/Logo.js" timestamp="1493163438374">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="5" column="11" />
@@ -1159,6 +1165,10 @@
         <mark key="." line="262" column="0" />
         <mark key="^" line="269" column="22" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/test/directive/yt-date-interval-dropdown.js" timestamp="1493380720283">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="3" column="4" />
+      </file>
       <file name="$USER_HOME$/www/js/Lisa/src/components/App.js" timestamp="1492335831906">
         <mark key="'" line="14" column="4" />
         <mark key="[" line="7" column="0" />
@@ -1330,6 +1340,10 @@
         <mark key="]" line="12" column="43" />
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/ring-ui/node_modules/react-dom/lib/ReactInputSelection.js" timestamp="1493371463461">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="49" column="44" />
       </file>
       <file name="$USER_HOME$/www/js/Lisa/src/lib/retrieve-user-info.js" timestamp="1492281930616">
         <mark key="'" line="0" column="0" />
@@ -1598,9 +1612,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="258" column="38" filename="$USER_HOME$/www/jetbrains/ring-ui/components/query-assist/query-assist.js" />
-      <jump line="219" column="6" filename="$USER_HOME$/www/jetbrains/ring-ui/components/query-assist/query-assist.js" />
-      <jump line="2" column="34" filename="$USER_HOME$/www/jetbrains/ring-ui/components/query-assist/query-assist.js" />
       <jump line="206" column="2" filename="$USER_HOME$/www/jetbrains/ring-ui/components/query-assist/query-assist.js" />
       <jump line="167" column="2" filename="$USER_HOME$/www/jetbrains/ring-ui/components/query-assist/query-assist.js" />
       <jump line="208" column="14" filename="$USER_HOME$/www/jetbrains/ring-ui/components/query-assist/query-assist.js" />
@@ -1698,61 +1709,64 @@
       <jump line="6" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/query-assist/directive/yt-query-assist.js" />
       <jump line="14" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/query-assist/directive/yt-query-assist.js" />
       <jump line="27" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/query-assist/directive/yt-query-assist.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/date.js" />
+      <jump line="26" column="33" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/date.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/test/directive/foo.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>-user</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>-user</text>
       </register>
       <register name="/" type="4">
-        <text>del</text>
+        <text>user</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICByZXF1aXJlKCcuLi8uLi9jb21wb25lbnRzL2xpbmsvbGluaycpLm5hbWUsCg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">PHl0LXVzZXItZGF0ZSBkYXRlPSJjb21tZW50LmRhdGUiPjwveXQtdXNlci1kYXRlPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIHJlYWN0PSJRdWVyeUFzc2lzdCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc+PicpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBiZWZvcmVFYWNoKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHhpdCgnc2hvdWxkIGFsbG93IHVzZSBuZy1kaXNhYmxlJywgZnVuY3Rpb24oKSB7CiAgICAgICRlbGVtZW50ID0gY29tcGlsZSgnPHl0LXF1ZXJ5LWFzc2lzdCBuZy1kaXNhYmxlZD0idHJ1ZSIvPicpKCRzY29wZSk7CgogICAgICBleHBlY3QoaXNEaXNhbGJlZCgkZWxlbWVudCkpLnRvRXF1YWwoMSk7CiAgICB9KTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbWFrc2ltcnYgb24gMjgvMDQvMjAxNy4KICovCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgJGN0cmwuJG9uQ2hhbmdlcyA9IGZ1bmN0aW9uKCkgewoKICAgICAgfTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIHJlYWN0PSJRdWVyeUFzc2lzdCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KCRlbGVtZW50LmZpbmQoJy5yaW5nLWlucHV0X2Rpc2FibGVkJykubGVuZ3RoKQogICAgICAgIC50b0VxdWFsKDEpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KCRlbGVtZW50LmZpbmQoJy5yaW5nLWlucHV0X2Rpc2FibGVkJykubGVuZ3RoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KCRlbGVtZW50LmZpbmQoJy5yaW5nLWlucHV0X2Rpc2FibGVkJykubGVuZ3RoKQo=</text>
+        <text encoding="base64">ICAgIHhpdCgnc2hvdWxkIGFsbG93IHVzZSBuZy1kaXNhYmxlJywgZnVuY3Rpb24oKSB7CiAgICAgICRlbGVtZW50ID0gY29tcGlsZSgnPHl0LXF1ZXJ5LWFzc2lzdCBuZy1kaXNhYmxlZD0idHJ1ZSIvPicpKCRzY29wZSk7CgogICAgICBleHBlY3QoaXNEaXNhbGJlZCgkZWxlbWVudCkpLnRvRXF1YWwoMSk7CiAgICB9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>del</last-search>
+      <last-search>user</last-search>
       <last-offset />
-      <last-pattern>del</last-pattern>
+      <last-pattern>user</last-pattern>
       <last-replace>maksimr</last-replace>
       <last-substitute>karma-runner</last-substitute>
       <last-dir>1</last-dir>
@@ -1760,7 +1774,6 @@
     </search>
     <history>
       <history-search>
-        <entry>componentDid</entry>
         <entry encoding="base64">XDxjb21wb25lbnRXaWxsVXBkYXRlXD4=</entry>
         <entry encoding="base64">XDxjb21wb25lbnREaWRVcGRhdGVcPg==</entry>
         <entry>should</entry>
@@ -1780,6 +1793,7 @@
         <entry>query-ass</entry>
         <entry>yt-query-assist</entry>
         <entry>del</entry>
+        <entry>user</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ =/ from/gc</entry>
