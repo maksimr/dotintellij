@@ -249,6 +249,10 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("selected-fn")).withParent(xmlTag().withLocalName(string().equalTo("yt-date-picker")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-icon/@ng-if</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-if")).withParent(xmlTag().withLocalName(string().equalTo("yt-icon")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>yt-issue-custom-field/@on-change-field-value</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-change-field-value")).withParent(xmlTag().withLocalName(string().equalTo("yt-issue-custom-field")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
