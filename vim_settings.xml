@@ -593,9 +593,10 @@
         <mark key="^" line="15" column="14" />
         <mark key="." line="15" column="14" />
       </file>
-      <file name="$USER_HOME$/www/js/Lisa/src/components/Line.js" timestamp="1493408369723">
-        <mark key="[" line="3" column="13" />
-        <mark key="]" line="3" column="14" />
+      <file name="$USER_HOME$/www/js/Lisa/src/components/Line.js" timestamp="1493487426060">
+        <mark key="'" line="3" column="14" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="41" />
         <mark key="." line="3" column="14" />
         <mark key="^" line="3" column="14" />
       </file>
@@ -1131,6 +1132,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/wallaby-webpack/index.js" timestamp="1491209840817">
         <mark key="'" line="410" column="0" />
       </file>
+      <file name="$USER_HOME$/www/js/Lisa/src/Router.js" timestamp="1493487409800">
+        <mark key="[" line="4" column="45" />
+        <mark key="]" line="5" column="3" />
+        <mark key="." line="5" column="3" />
+        <mark key="^" line="5" column="3" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/main/kotlin/jetbrains/youtrack/webdriver/page/NewIssuePage.kt" timestamp="1492769526133">
         <mark key="'" line="32" column="17" />
         <mark key="[" line="16" column="0" />
@@ -1168,12 +1175,12 @@
       <file name="$USER_HOME$/www/js/karma/lib/launcher.js" timestamp="1490816215948">
         <mark key="'" line="239" column="5" />
       </file>
-      <file name="$USER_HOME$/www/js/Lisa/src/App.js" timestamp="1493486304758">
+      <file name="$USER_HOME$/www/js/Lisa/src/App.js" timestamp="1493486923361">
         <mark key="'" line="1" column="40" />
-        <mark key="[" line="4" column="13" />
-        <mark key="]" line="4" column="11" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
         <mark key="^" line="4" column="11" />
-        <mark key="." line="4" column="11" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/www/js/Lisa/src/components/Login/HostSetup/NextStep.js" timestamp="1492219655592">
         <mark key="'" line="8" column="8" />
@@ -2001,6 +2008,11 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/tooltip-ng/tooltip-ng.js" timestamp="1491342299380">
         <mark key="'" line="66" column="19" />
       </file>
+      <file name="$USER_HOME$/www/js/Lisa/src/components/Router.js" timestamp="1493487727761">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/www/js/karma-jasmine/src/adapter.js" timestamp="1490776475066">
         <mark key="'" line="240" column="4" />
       </file>
@@ -2486,11 +2498,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="6" filename="$USER_HOME$/www/js/Lisa/renderer.js" />
-      <jump line="111" column="38" filename="$USER_HOME$/www/js/Lisa/renderer.js" />
-      <jump line="113" column="6" filename="$USER_HOME$/www/js/Lisa/renderer.js" />
-      <jump line="48" column="25" filename="$USER_HOME$/www/js/Lisa/renderer.js" />
-      <jump line="50" column="50" filename="$USER_HOME$/www/js/Lisa/renderer.js" />
       <jump line="57" column="31" filename="$USER_HOME$/www/js/Lisa/renderer.js" />
       <jump line="99" column="2" filename="$USER_HOME$/www/js/Lisa/renderer.js" />
       <jump line="106" column="0" filename="$USER_HOME$/www/js/Lisa/renderer.js" />
@@ -2586,52 +2593,57 @@
       <jump line="3" column="34" filename="$USER_HOME$/www/js/Lisa/src/reducer.js" />
       <jump line="7" column="11" filename="$USER_HOME$/www/js/Lisa/src/App.js" />
       <jump line="1" column="40" filename="$USER_HOME$/www/js/Lisa/src/App.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/js/Lisa/src/Router.js" />
+      <jump line="3" column="14" filename="$USER_HOME$/www/js/Lisa/src/components/Line.js" />
+      <jump line="5" column="3" filename="$USER_HOME$/www/js/Lisa/src/components/Router.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/www/js/Lisa/src/components/Router.js" />
+      <jump line="11" column="6" filename="$USER_HOME$/www/js/Lisa/src/components/Router.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>const Login =</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>const Login =</text>
+        <text>active</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGVtZVByb3ZpZGVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZShSb3V0ZSwge3BhdGg6ICcvJywgY3VycmVudDogJy8nfSwKICBlKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IEF2YXRhciBmcm9tICcuLi9jb21wb25lbnRzL0F2YXRhcic7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZShSb3V0ZSwge3BhdGg6ICcvJywgY3VycmVudDogJy8nfSwKICBlKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBmdW5jdGlvbiByZW5kZXJVc2VyKHVzZXIpIHsKICAgIHJldHVybiBlKEJveCwgbnVsbCwKICAgICAgZShCb3gsIG51bGwsCiAgICAgICAgZShBdmF0YXIsIHsKICAgICAgICAgIHNyYzogdXNlci5hdmF0YXIudXJsCiAgICAgICAgfSkKICAgICAgKSwKICAgICAgZShMaW5lLCBudWxsLCB1c2VyLm5hbWUgfHwgdXNlci5sb2dpbikKICAgICk7CiAgfQo=</text>
+        <text encoding="base64">ZShSb3V0ZSwge3BhdGg6ICcvJywgY3VycmVudDogJy8nfSwKICBlKCkpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IENlbnRlciwge2NlbnRlcn0gZnJvbSAnLi4vY29tcG9uZW50cy9DZW50ZXInOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IExvZ28gZnJvbSAnLi4vY29tcG9uZW50cy9Mb2dvJzsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IFRleHQsIHtTbWFsbFRleHR9IGZyb20gJy4uL2NvbXBvbmVudHMvVGV4dCc7Cg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbWFrc2ltcnYgb24gMjkvMDQvMjAxNy4KICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IENlbnRlclZpZXcgZnJvbSAnLi4vY29tcG9uZW50cy9DZW50ZXJWaWV3JzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IElucHV0IGZyb20gJy4uL2NvbXBvbmVudHMvSW5wdXQnOwo=</text>
+        <text encoding="base64">aW1wb3J0IEF2YXRhciBmcm9tICcuLi9jb21wb25lbnRzL0F2YXRhcic7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
