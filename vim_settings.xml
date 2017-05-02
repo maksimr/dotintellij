@@ -1273,8 +1273,8 @@
       <file name="$USER_HOME$/www/js/karma-jasmine/test/adapter.spec.js" timestamp="1490736358074">
         <mark key="'" line="372" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" timestamp="1493723162627">
-        <mark key="'" line="299" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" timestamp="1493723963017">
+        <mark key="'" line="239" column="7" />
         <mark key="[" line="236" column="0" />
         <mark key="]" line="236" column="0" />
         <mark key="." line="236" column="0" />
@@ -2525,7 +2525,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="8" filename="$USER_HOME$/www/js/Lisa/src/views/Login.js" />
       <jump line="83" column="10" filename="$USER_HOME$/www/js/Lisa/src/views/Login.js" />
       <jump line="94" column="10" filename="$USER_HOME$/www/js/Lisa/src/views/Login.js" />
       <jump line="103" column="24" filename="$USER_HOME$/www/js/Lisa/src/views/Login.js" />
@@ -2625,6 +2624,7 @@
       <jump line="127" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
       <jump line="128" column="46" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
       <jump line="299" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
+      <jump line="239" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2637,7 +2637,7 @@
         <text>loaders</text>
       </register>
       <register name="/" type="4">
-        <text>css</text>
+        <text>SVGLoader</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgaW5jbHVkZTogW3BhdGgucmVzb2x2ZShwcm9qZWN0RGlyZWN0b3J5LCAnYXBwJyldLAo=</text>
@@ -2677,9 +2677,9 @@
       </register>
     </registers>
     <search>
-      <last-search>css</last-search>
+      <last-search>SVGLoader</last-search>
       <last-offset />
-      <last-pattern>css</last-pattern>
+      <last-pattern>SVGLoader</last-pattern>
       <last-replace>maksimr</last-replace>
       <last-substitute>karma-runner</last-substitute>
       <last-dir>1</last-dir>
@@ -2687,7 +2687,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Cont</entry>
         <entry>i18n</entry>
         <entry>norm</entry>
         <entry>onCha</entry>
@@ -2707,6 +2706,7 @@
         <entry>loader</entry>
         <entry>ring-ui</entry>
         <entry>css</entry>
+        <entry>SVGLoader</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ from / = require(/gc</entry>
