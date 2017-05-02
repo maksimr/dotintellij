@@ -77,6 +77,10 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("team-data-source")).withParent(xmlTag().withLocalName(string().equalTo("hub-integration")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>input/@ng-change</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-change")).withParent(xmlTag().withLocalName(string().equalTo("input")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>input/@ng-pattern</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-pattern")).withParent(xmlTag().withLocalName(string().equalTo("input")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
