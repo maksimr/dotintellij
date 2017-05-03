@@ -615,12 +615,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-tags.html" timestamp="1493718043267">
         <mark key="'" line="16" column="6" />
       </file>
-      <file name="$USER_HOME$/www/js/Lisa/src/views/Login.js" timestamp="1493754078445">
-        <mark key="'" line="72" column="0" />
-        <mark key="[" line="72" column="4" />
-        <mark key="]" line="72" column="10" />
-        <mark key="^" line="72" column="10" />
-        <mark key="." line="72" column="10" />
+      <file name="$USER_HOME$/www/js/Lisa/src/views/Login.js" timestamp="1493795022694">
+        <mark key="'" line="12" column="21" />
+        <mark key="[" line="76" column="40" />
+        <mark key="]" line="76" column="53" />
+        <mark key="^" line="76" column="53" />
+        <mark key="." line="76" column="53" />
       </file>
       <file name="$USER_HOME$/www/js/Lisa/src/components/Line.js" timestamp="1493487426060">
         <mark key="'" line="3" column="14" />
@@ -2642,7 +2642,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="31" filename="$USER_HOME$/www/js/Lisa/lib/ui/Promised.js" />
       <jump line="41" column="19" filename="$USER_HOME$/www/js/Lisa/lib/ui/Promised.js" />
       <jump line="52" column="30" filename="$USER_HOME$/www/js/Lisa/lib/ui/Promised.js" />
       <jump line="3" column="8" filename="$USER_HOME$/www/js/Lisa/lib/ui/Promised.js" />
@@ -2742,19 +2741,20 @@
       <jump line="0" column="0" filename="$USER_HOME$/www/js/Lisa/src/reducers/index.js" />
       <jump line="51" column="0" filename="$USER_HOME$/www/js/Lisa/src/reducers/index.js" />
       <jump line="8" column="0" filename="$USER_HOME$/www/js/Lisa/src/reducers/index.js" />
+      <jump line="12" column="21" filename="$USER_HOME$/www/js/Lisa/src/views/Login.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>'avatar'</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>action</text>
+        <text>'avatar'</text>
       </register>
       <register name="/" type="4">
-        <text>login</text>
+        <text encoding="base64">XDxmZXRjaEN1cnJlbnRVc2VyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBzd2l0Y2ggKGFjdGlvbi50eXBlKSB7CiAgICBjYXNlIHQuQ0hBTkdFX1JPVVRFIDogewogICAgICByZXR1cm4gT2JqZWN0LmFzc2lnbih7fSwgc3RhdGUsIHsKICAgICAgICBjdXJyZW50UGF0aDogYWN0aW9uLnZhbHVlCiAgICAgIH0pOwogICAgfQogICAgZGVmYXVsdDoKICAgICAgcmV0dXJuIGF1dGhvcml6YXRpb25SZWR1Y2VyKAogICAgICAgIHNlcnZlclJlZHVjZXIoc3RhdGUpCiAgICAgICk7CiAgfQo=</text>
@@ -2794,17 +2794,16 @@
       </register>
     </registers>
     <search>
-      <last-search>login</last-search>
+      <last-search encoding="base64">XDxmZXRjaEN1cnJlbnRVc2VyXD4=</last-search>
       <last-offset />
-      <last-pattern>login</last-pattern>
+      <last-pattern encoding="base64">XDxmZXRjaEN1cnJlbnRVc2VyXD4=</last-pattern>
       <last-replace>maksimr</last-replace>
       <last-substitute>karma-runner</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZW5kZXJMb2dpbkZvcm1cPg==</entry>
         <entry encoding="base64">XDxTZXJ2ZXJBZGRcPg==</entry>
         <entry>errorText</entry>
         <entry encoding="base64">XDxFcnJvck1lc3NhZ2VcPg==</entry>
@@ -2824,6 +2823,7 @@
         <entry encoding="base64">XDxpc0xvYWRpbmdcPg==</entry>
         <entry>Button</entry>
         <entry>login</entry>
+        <entry encoding="base64">XDxmZXRjaEN1cnJlbnRVc2VyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/ from / = require(/gc</entry>
