@@ -590,12 +590,12 @@
         <mark key="." line="11" column="35" />
         <mark key="^" line="11" column="35" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.es6" timestamp="1494439857977">
-        <mark key="'" line="38" column="0" />
-        <mark key="[" line="41" column="26" />
-        <mark key="]" line="41" column="26" />
-        <mark key="." line="41" column="26" />
-        <mark key="^" line="41" column="26" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.es6" timestamp="1494441043767">
+        <mark key="'" line="23" column="2" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="14" column="37" />
+        <mark key="." line="11" column="33" />
+        <mark key="^" line="11" column="33" />
       </file>
       <file name="$USER_HOME$/www/js/Lisa/src/components/AppHeader.js" timestamp="1494389791570">
         <mark key="'" line="6" column="0" />
@@ -2833,16 +2833,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="0" filename="$USER_HOME$/www/js/Lisa/src/components/Header.js" />
-      <jump line="20" column="0" filename="$USER_HOME$/www/js/Lisa/lib/ui/Popup.js" />
-      <jump line="41" column="10" filename="$USER_HOME$/www/js/Lisa/lib/ui/Popup.js" />
-      <jump line="56" column="7" filename="$USER_HOME$/www/js/Lisa/src/views/Login.js" />
-      <jump line="102" column="12" filename="$USER_HOME$/www/js/Lisa/src/views/Login.js" />
-      <jump line="20" column="18" filename="$USER_HOME$/www/js/Lisa/src/components/Header.js" />
-      <jump line="42" column="0" filename="$USER_HOME$/www/js/Lisa/src/components/Header.js" />
-      <jump line="55" column="0" filename="$USER_HOME$/www/js/Lisa/src/components/Header.js" />
-      <jump line="44" column="0" filename="$USER_HOME$/www/js/Lisa/src/components/Header.js" />
-      <jump line="34" column="14" filename="$USER_HOME$/www/js/Lisa/src/components/Header.js" />
       <jump line="33" column="3" filename="$USER_HOME$/www/js/Lisa/src/components/Header.js" />
       <jump line="57" column="0" filename="$USER_HOME$/www/js/Lisa/src/components/Header.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/js/Lisa/lib/ui/Divider.js" />
@@ -2928,39 +2918,49 @@
       <jump line="3" column="5" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.es6" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.es6" />
       <jump line="10" column="1" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.es6" />
-      <jump line="9" column="1" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.es6" />
-      <jump line="8" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.es6" />
-      <jump line="5" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.es6" />
       <jump line="42" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.es6" />
       <jump line="38" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.es6" />
+      <jump line="33" column="23" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.es6" />
+      <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.es6" />
+      <jump line="32" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.es6" />
+      <jump line="29" column="48" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.es6" />
+      <jump line="17" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.es6" />
+      <jump line="5" column="1" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.es6" />
+      <jump line="13" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.es6" />
+      <jump line="11" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.es6" />
+      <jump line="20" column="2" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.es6" />
+      <jump line="14" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.es6" />
+      <jump line="8" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.es6" />
+      <jump line="9" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.es6" />
+      <jump line="23" column="2" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.es6" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgeUluZGV4ID0gaXRlbXMuaW5kZXhPZih5KTsK</text>
+        <text encoding="base64">ICByZXR1cm4gbnVtcy5yZWR1Y2UoZnVuY3Rpb24oYWNjLCB4KSB7CiAgICBpZiAoYWNjLnJlc3VsdCkgcmV0dXJuIGFjYzsKICAgIGlmICghYWNjLm51bXMubGVuZ3RoKSByZXR1cm4gT2JqZWN0LmFzc2lnbihhY2MsIHtudW1zOiBbeF19KTsKCiAgICBjb25zdCB5ID0gYWNjLm51bXMuZmluZCgoeSkgPT4geCArIHkgPT09IHRhcmdldCk7CiAgICByZXR1cm4gKHR5cGVvZiB5ID09PSAnbnVtYmVyJykgPwogICAgICB7cmVzdWx0OiBbYWNjLm51bXMuaW5kZXhPZih5KSwgYWNjLm51bXMubGVuZ3RoXX0gOgogICAgICBPYmplY3QuYXNzaWduKGFjYywge251bXM6IGFjYy5udW1zLmNvbmNhdCh4KX0pOwogIH0sIHtyZXN1bHQ6IG51bGwsIG51bXM6IFtdfSkucmVzdWx0Owo=</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>yIndex</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
-        <text>maxH</text>
+        <text>items</text>
       </register>
-      <register name="0" type="4">
-        <text>items.indexOf(y)</text>
+      <register name="0" type="2">
+        <text encoding="base64">cmVxdWlyZSgnYXNzZXJ0JykKICAuZGVlcEVxdWFsKHR3b1N1bShbMiwgNywgMTEsIDE1XSwgMTAwKSwgbnVsbCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgeUluZGV4ID0gaXRlbXMuaW5kZXhPZih5KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBmdW5jdGlvbiBhY2ModmFsdWUsIG51bXMpIHsKICAgIHJldHVybiB7dmFsdWU6IHZhbHVlLCBudW1zOiBudW1zfTsKICB9CgogIGZ1bmN0aW9uIHZhbHVlKGFjYywgdmFsdWUpIHsKICAgIGlmICghdmFsdWUpIHJldHVybiBhY2MudmFsdWU7CiAgICByZXR1cm4gYWNjCiAgfQoKICBmdW5jdGlvbiBudW1zKGFjYywgdmFsdWUpIHsKICAgIGlmIChhcmd1bWVudHMubGVuZ3RoID09PSAxKSByZXR1cm4gYWNjLm51bXM7CiAgICByZXR1cm4gT2JqZWN0LmFzc2lnbih7fSwgYWNjLCB7bnVtczogYWNjLm51bXMuY29uY2F0KHZhbHVlKX0pOwogIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgT2JqZWN0LmFzc2lnbihhLCB7bnVtczogYS5udW1zLmNvbmNhdCh4KX0pOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -2969,7 +2969,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -2978,16 +2978,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYyk7Cg==</text>
+        <text encoding="base64">Y29uc3QgdHdvU3VtID0gZnVuY3Rpb24obnVtcywgdGFyZ2V0KSB7CiAgbGV0IGkgPSAtMTsKCiAgd2hpbGUobnVtcy5sZW5ndGggPiAxKSB7CiAgICBjb25zdCBhID0gbnVtcy5zaGlmdCgpOwogICAgbGV0IGMgPSAtMTsKICAgIGkgKz0gMTsKCiAgICBjb25zdCBpc0ZvdW5kID0gbnVtcy5maW5kKChiLCBpbmRleCkgPT4gewogICAgICBjID0gKGkgKyAxKSArIGluZGV4OwogICAgICByZXR1cm4gKGEgKyBiKSA9PT0gdGFyZ2V0CiAgICB9KTsKCiAgICBpZiAoaXNGb3VuZCkgcmV0dXJuIFtpLCBjXTsKICB9CgogIHJldHVybiBudWxsOwp9Owo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>maxH</last-search>
+      <last-search>items</last-search>
       <last-offset />
-      <last-pattern>maxH</last-pattern>
+      <last-pattern>items</last-pattern>
       <last-replace>layout-hide</last-replace>
       <last-substitute>hide</last-substitute>
       <last-dir>1</last-dir>
@@ -2995,7 +2995,6 @@
     </search>
     <history>
       <history-search>
-        <entry>wid</entry>
         <entry>ref</entry>
         <entry>el</entry>
         <entry>evt</entry>
@@ -3015,6 +3014,7 @@
         <entry>'</entry>
         <entry>min</entry>
         <entry>maxH</entry>
+        <entry>items</entry>
       </history-search>
       <history-cmd>
         <entry>%s/chrome/electron/gc</entry>
