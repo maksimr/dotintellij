@@ -590,12 +590,11 @@
         <mark key="." line="11" column="35" />
         <mark key="^" line="11" column="35" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.es6" timestamp="1494344616987">
-        <mark key="'" line="28" column="0" />
-        <mark key="[" line="3" column="7" />
-        <mark key="]" line="3" column="5" />
-        <mark key="." line="3" column="5" />
-        <mark key="^" line="3" column="5" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.es6" timestamp="1494438964535">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="4" />
+        <mark key="." line="5" column="4" />
+        <mark key="^" line="5" column="4" />
       </file>
       <file name="$USER_HOME$/www/js/Lisa/src/components/AppHeader.js" timestamp="1494389791570">
         <mark key="'" line="6" column="0" />
@@ -2833,8 +2832,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="98" column="0" filename="$USER_HOME$/www/js/Lisa/lib/ui/Popup.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/js/Lisa/lib/ui/Popup.js" />
       <jump line="6" column="26" filename="$USER_HOME$/www/js/Lisa/lib/ui/Popup.js" />
       <jump line="42" column="26" filename="$USER_HOME$/www/js/Lisa/lib/ui/Popup.js" />
       <jump line="5" column="8" filename="$USER_HOME$/www/js/Lisa/lib/ui/Popup.js" />
@@ -2933,16 +2930,18 @@
       <jump line="60" column="4" filename="$USER_HOME$/www/js/Lisa/lib/ui/Layout.js" />
       <jump line="49" column="4" filename="$USER_HOME$/www/js/Lisa/lib/ui/Layout.js" />
       <jump line="113" column="0" filename="$USER_HOME$/www/js/Lisa/lib/ui/Layout.js" />
+      <jump line="3" column="5" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.es6" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.es6" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgKQo=</text>
+      <register name="&quot;" type="4">
+        <text>var</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>row</text>
+        <text>var</text>
       </register>
       <register name="/" type="4">
         <text>maxH</text>
@@ -2951,34 +2950,34 @@
         <text encoding="base64">ICAgICAgd2lkdGg6IGxheW91dCA9PT0gJ3JvdycgPyB2YWx1ZSA6IG51bGwsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgKQo=</text>
+        <text encoding="base64">Y29uc3QgZSA9ICgpID0+IHsKfTsKCmNvbnN0IFBvcHVwID0gKCkgPT4gewoKfTsKCmNvbnN0IFVzZXJJbmZvID0gKCkgPT4gewp9OwoKCmNvbnN0IFVzZXJJbmZvV2l0aFBvcHVwID0gJFBvcHVwKHsKICB0ZW1wbGF0ZTogZnVuY3Rpb24oKSB7CiAgICByZXR1cm4gZSgnZGl2JywgbnVsbCwgJ0hlbGxvIFdvcmxkIScpCiAgfQp9KSgoeyRwb3B1cH0pID0+IHsKICAkcG9wdXAuY2xvc2UoKTsKICAkcG9wdXAub3BlbigpOwogICRwb3B1cC5pc09wZW4oKTsKfSk7CgoKZShVc2VySW5mbywgewogIG9uQ2xpY2s6IG9wZW5Qb3B1cAp9KTsKCgpmdW5jdGlvbiBvcGVuUG9wdXAoKSB7Cgp9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgICAgKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZShMYXlvdXQsIHt0eXBlOiAnY29sdW1uJywgZmlsbDogdHJ1ZX0sCiAgICAgICAgZShGbGV4LCB7c2l6ZTogJzMwMHB4J30sICdGb29vbycpLAogICAgICAgIGUoRmxleCwge3NpemU6ICdhdXRvJ30sCgo=</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgd2lkdGg6IGxheW91dCA9PT0gJ3JvdycgPyB2YWx1ZSA6IG51bGwsCg==</text>
+        <text encoding="base64">ICAgICAgZShMYXlvdXQsIHt0eXBlOiAnY29sdW1uJywgZmlsbDogdHJ1ZX0sCiAgICAgICAgZShGbGV4LCB7c2l6ZTogJzMwMHB4J30sICdGb29vbycpLAogICAgICAgIGUoRmxleCwge3NpemU6ICdhdXRvJ30sCgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgd2lkdGg6IGxheW91dCA9PT0gJ3JvdycgPyB2YWx1ZSA6IG51bGwsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBlKExheW91dCwge3R5cGU6ICdjb2x1bW4nLCBmaWxsOiB0cnVlfSwKICAgICAgICAgIGUoRmxleCwge3NpemU6ICc1MHB4J30sIGUoSGVhZGVyKSksCiAgICAgICAgICBlKEZsZXgsIHtzaXplOiAnYXV0byd9LCBlKEFwcFJvdXRlcikpLAogICAgICAgICAgZShGbGV4LCB7c2l6ZTogJzMwcHgnfSwgZShGb290ZXIpKQogICAgICAgICkK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBlKExheW91dCwge3R5cGU6ICdjb2x1bW4nLCBmaWxsOiB0cnVlfSwKICAgICAgICAgIGUoRmxleCwge3NpemU6ICc1MHB4J30sIGUoSGVhZGVyKSksCiAgICAgICAgICBlKEZsZXgsIHtzaXplOiAnYXV0byd9LCBlKEFwcFJvdXRlcikpLAogICAgICAgICAgZShGbGV4LCB7c2l6ZTogJzMwcHgnfSwgZShGb290ZXIpKQogICAgICAgICkK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZShMYXlvdXQsIHt0eXBlOiAnY29sdW1uJywgZmlsbDogdHJ1ZX0sCiAgICAgICAgZShGbGV4LCB7c2l6ZTogJzUwcHgnfSwgZShIZWFkZXIpKSwKICAgICAgICBlKEZsZXgsIHtzaXplOiAnYXV0byd9LCBlKEFwcFJvdXRlcikpLAogICAgICAgIGUoRmxleCwge3NpemU6ICczMHB4J30sIGUoRm9vdGVyKSkKICAgICAgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IE5hdmlnYXRpb25EcmF3ZXIgZnJvbSAnLi4vbGliL3VpL05hdmlnYXRpb25EcmF3ZXInOwo=</text>
+        <text encoding="base64">ICAgICAgZShMYXlvdXQsIHt0eXBlOiAnY29sdW1uJywgZmlsbDogdHJ1ZX0sCiAgICAgICAgZShGbGV4LCB7c2l6ZTogJzUwcHgnfSwgZShIZWFkZXIpKSwKICAgICAgICBlKEZsZXgsIHtzaXplOiAnYXV0byd9LCBlKEFwcFJvdXRlcikpLAogICAgICAgIGUoRmxleCwge3NpemU6ICczMHB4J30sIGUoRm9vdGVyKSkKICAgICAgKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
