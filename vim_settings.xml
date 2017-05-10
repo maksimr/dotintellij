@@ -27,12 +27,12 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/www/js/Lisa/lib/ui/Layout.js" timestamp="1494389242315">
-        <mark key="'" line="4" column="11" />
-        <mark key="[" line="87" column="18" />
-        <mark key="]" line="87" column="17" />
-        <mark key="." line="87" column="17" />
-        <mark key="^" line="87" column="17" />
+      <file name="$USER_HOME$/www/js/Lisa/lib/ui/Layout.js" timestamp="1494392275574">
+        <mark key="'" line="115" column="0" />
+        <mark key="[" line="108" column="9" />
+        <mark key="]" line="108" column="10" />
+        <mark key="^" line="108" column="8" />
+        <mark key="." line="108" column="10" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webapp/src/test/kotlin/jetbrains/youtrack/rest/workflow/WorkflowsTest.kt" timestamp="1492691281314">
         <mark key="'" line="4" column="50" />
@@ -1424,12 +1424,12 @@
       <file name="$USER_HOME$/www/js/karma/lib/launcher.js" timestamp="1490816215948">
         <mark key="'" line="239" column="5" />
       </file>
-      <file name="$USER_HOME$/www/js/Lisa/src/App.js" timestamp="1494391003218">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="13" column="14" />
-        <mark key="]" line="13" column="18" />
-        <mark key="." line="13" column="18" />
-        <mark key="^" line="13" column="18" />
+      <file name="$USER_HOME$/www/js/Lisa/src/App.js" timestamp="1494392331057">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="11" column="30" />
+        <mark key="]" line="11" column="39" />
+        <mark key="." line="11" column="39" />
+        <mark key="^" line="11" column="39" />
       </file>
       <file name="$USER_HOME$/www/js/Lisa/src/components/Login/HostSetup/NextStep.js" timestamp="1492219655592">
         <mark key="'" line="8" column="8" />
@@ -2834,10 +2834,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="8" filename="$USER_HOME$/www/js/Lisa/src/views/Login.js" />
-      <jump line="40" column="22" filename="$USER_HOME$/www/js/Lisa/lib/ui/Popup.js" />
-      <jump line="17" column="0" filename="$USER_HOME$/www/js/Lisa/lib/ui/Popup.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/www/js/Lisa/lib/ui/Popup.js" />
       <jump line="98" column="0" filename="$USER_HOME$/www/js/Lisa/lib/ui/Popup.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/js/Lisa/lib/ui/Popup.js" />
       <jump line="6" column="26" filename="$USER_HOME$/www/js/Lisa/lib/ui/Popup.js" />
@@ -2934,25 +2930,29 @@
       <jump line="16" column="20" filename="$USER_HOME$/www/js/Lisa/src/components/AppHeader.js" />
       <jump line="6" column="0" filename="$USER_HOME$/www/js/Lisa/src/components/AppHeader.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/js/Lisa/lib/ui/NavigationDrawer.js" />
+      <jump line="36" column="1" filename="$USER_HOME$/www/js/Lisa/lib/ui/Layout.js" />
+      <jump line="60" column="4" filename="$USER_HOME$/www/js/Lisa/lib/ui/Layout.js" />
+      <jump line="49" column="4" filename="$USER_HOME$/www/js/Lisa/lib/ui/Layout.js" />
+      <jump line="113" column="0" filename="$USER_HOME$/www/js/Lisa/lib/ui/Layout.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fals</text>
+        <text>ali</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>fals</text>
+        <text>ali</text>
       </register>
       <register name="/" type="4">
-        <text>'</text>
+        <text>maxH</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHtMYXlvdXQsIEZsZXh9IGZyb20gJy4uL2xpYi91aS9MYXlvdXQnOwo=</text>
+        <text encoding="base64">ICAgICAgd2lkdGg6IGxheW91dCA9PT0gJ3JvdycgPyB2YWx1ZSA6IG51bGwsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgd2lkdGg6IGxheW91dCA9PT0gJ3JvdycgPyB2YWx1ZSA6IG51bGwsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -2961,22 +2961,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbWFrc2ltcnYgb24gMDkvMDUvMjAxNy4KICovCg==</text>
+        <text encoding="base64">ICAgICAgICBlKExheW91dCwge3R5cGU6ICdjb2x1bW4nLCBmaWxsOiB0cnVlfSwKICAgICAgICAgIGUoRmxleCwge3NpemU6ICc1MHB4J30sIGUoSGVhZGVyKSksCiAgICAgICAgICBlKEZsZXgsIHtzaXplOiAnYXV0byd9LCBlKEFwcFJvdXRlcikpLAogICAgICAgICAgZShGbGV4LCB7c2l6ZTogJzMwcHgnfSwgZShGb290ZXIpKQogICAgICAgICkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcG9zaXRpb246ICdhYnNvbHV0ZScsCiAgICAgIHRvcDogJzAnLAogICAgICByaWdodDogJzAnLAogICAgICBsZWZ0OiAnMCcK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGUoVXNlclBvcHVwLCB7dXNlcjogcHJvcHMudXNlcn0pCg==</text>
+        <text encoding="base64">ICAgICAgZShMYXlvdXQsIHt0eXBlOiAnY29sdW1uJywgZmlsbDogdHJ1ZX0sCiAgICAgICAgZShGbGV4LCB7c2l6ZTogJzUwcHgnfSwgZShIZWFkZXIpKSwKICAgICAgICBlKEZsZXgsIHtzaXplOiAnYXV0byd9LCBlKEFwcFJvdXRlcikpLAogICAgICAgIGUoRmxleCwge3NpemU6ICczMHB4J30sIGUoRm9vdGVyKSkKICAgICAgKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHtjaGFuZ2VSb3V0ZX0gZnJvbSAnLi4vYWN0aW9ucyc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IE5hdmlnYXRpb25EcmF3ZXIgZnJvbSAnLi4vbGliL3VpL05hdmlnYXRpb25EcmF3ZXInOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IERpdmlkZXIgZnJvbSAnLi4vLi4vbGliL3VpL0RpdmlkZXInOwo=</text>
+        <text encoding="base64">ICAgICAgZShOYXZpZ2F0aW9uRHJhd2VyLCB7CiAgICAgICAgb3BlbjogZmFsc2UsCiAgICAgICAgZG9ja2VkOiB0cnVlCiAgICAgIH0pLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHskUG9wdXB9IGZyb20gJy4uLy4uL2xpYi91aS9Qb3B1cCc7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -2986,9 +2986,9 @@
       </register>
     </registers>
     <search>
-      <last-search>'</last-search>
+      <last-search>maxH</last-search>
       <last-offset />
-      <last-pattern>'</last-pattern>
+      <last-pattern>maxH</last-pattern>
       <last-replace>layout-hide</last-replace>
       <last-substitute>hide</last-substitute>
       <last-dir>1</last-dir>
@@ -2996,8 +2996,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhZGRTZXJ2ZXJcPg==</entry>
-        <entry>user</entry>
         <entry>wid</entry>
         <entry>ref</entry>
         <entry>el</entry>
@@ -3016,6 +3014,8 @@
         <entry encoding="base64">XDxtYXRjaGVzXD4=</entry>
         <entry>row</entry>
         <entry>'</entry>
+        <entry>min</entry>
+        <entry>maxH</entry>
       </history-search>
       <history-cmd>
         <entry>%s/chrome/electron/gc</entry>
