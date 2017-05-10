@@ -1086,7 +1086,7 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/workflow/dialog-new-rule.html" timestamp="1491302679207">
         <mark key="'" line="15" column="11" />
       </file>
-      <file name="$USER_HOME$/www/js/Lisa/lib/ui/Loader.js" timestamp="1494374885571">
+      <file name="$USER_HOME$/www/js/Lisa/lib/ui/Loader.js" timestamp="1494390596192">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="60" />
@@ -1272,6 +1272,12 @@
       <file name="$USER_HOME$/www/js/Lisa/lib/ui/Router.js" timestamp="1493848392147">
         <mark key="'" line="10" column="17" />
       </file>
+      <file name="$USER_HOME$/www/js/Lisa/lib/ui/NavigationDrawer.js" timestamp="1494390613783">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="21" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" timestamp="1493027433135">
         <mark key="'" line="55" column="0" />
         <mark key="[" line="5" column="0" />
@@ -1418,12 +1424,12 @@
       <file name="$USER_HOME$/www/js/karma/lib/launcher.js" timestamp="1490816215948">
         <mark key="'" line="239" column="5" />
       </file>
-      <file name="$USER_HOME$/www/js/Lisa/src/App.js" timestamp="1494388496186">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="11" column="43" />
-        <mark key="]" line="11" column="42" />
-        <mark key="^" line="11" column="42" />
-        <mark key="." line="11" column="42" />
+      <file name="$USER_HOME$/www/js/Lisa/src/App.js" timestamp="1494391003218">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="13" column="14" />
+        <mark key="]" line="13" column="18" />
+        <mark key="." line="13" column="18" />
+        <mark key="^" line="13" column="18" />
       </file>
       <file name="$USER_HOME$/www/js/Lisa/src/components/Login/HostSetup/NextStep.js" timestamp="1492219655592">
         <mark key="'" line="8" column="8" />
@@ -2828,7 +2834,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="11" filename="$USER_HOME$/www/js/Lisa/src/components/Header.js" />
       <jump line="92" column="8" filename="$USER_HOME$/www/js/Lisa/src/views/Login.js" />
       <jump line="40" column="22" filename="$USER_HOME$/www/js/Lisa/lib/ui/Popup.js" />
       <jump line="17" column="0" filename="$USER_HOME$/www/js/Lisa/lib/ui/Popup.js" />
@@ -2928,52 +2933,53 @@
       <jump line="5" column="131" filename="$USER_HOME$/www/js/Lisa/src/views/IssueList.js" />
       <jump line="16" column="20" filename="$USER_HOME$/www/js/Lisa/src/components/AppHeader.js" />
       <jump line="6" column="0" filename="$USER_HOME$/www/js/Lisa/src/components/AppHeader.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/js/Lisa/lib/ui/NavigationDrawer.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>fals</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>fals</text>
       </register>
       <register name="/" type="4">
         <text>'</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHskUG9wdXB9IGZyb20gJy4uLy4uL2xpYi91aS9Qb3B1cCc7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtMYXlvdXQsIEZsZXh9IGZyb20gJy4uL2xpYi91aS9MYXlvdXQnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcG9zaXRpb246ICdhYnNvbHV0ZScsCiAgICAgIHRvcDogJzAnLAogICAgICByaWdodDogJzAnLAogICAgICBsZWZ0OiAnMCcK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGUoVXNlclBvcHVwLCB7dXNlcjogcHJvcHMudXNlcn0pCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHtjaGFuZ2VSb3V0ZX0gZnJvbSAnLi4vYWN0aW9ucyc7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IERpdmlkZXIgZnJvbSAnLi4vLi4vbGliL3VpL0RpdmlkZXInOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHskUG9wdXB9IGZyb20gJy4uLy4uL2xpYi91aS9Qb3B1cCc7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbWFrc2ltcnYgb24gMDkvMDUvMjAxNy4KICovCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgcG9zaXRpb246ICdhYnNvbHV0ZScsCiAgICAgIHRvcDogJzAnLAogICAgICByaWdodDogJzAnLAogICAgICBsZWZ0OiAnMCcK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGUoVXNlclBvcHVwLCB7dXNlcjogcHJvcHMudXNlcn0pCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IHtjaGFuZ2VSb3V0ZX0gZnJvbSAnLi4vYWN0aW9ucyc7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgVXNlclBvcHVwID0gJFBvcHVwKHsKICBwcm9wczogewogICAgdXNlTGF5ZXJGb3JDbGlja0F3YXk6IGZhbHNlCiAgfSwKICB0ZW1wbGF0ZTogY29ubmVjdCgpKGZ1bmN0aW9uKHByb3BzKSB7CiAgICByZXR1cm4gZSgnZGl2JywgbnVsbCwKICAgICAgcHJvcHMudXNlci5uYW1lLAogICAgICBlKERpdmlkZXIpLAogICAgICBlKCdkaXYnLCB7CiAgICAgICAgc3R5bGU6IHsKICAgICAgICAgIGN1cnNvcjogJ3BvaW50ZXInCiAgICAgICAgfSwKICAgICAgICBvbkNsaWNrOiAoKSA9PiB7CiAgICAgICAgICBwcm9wcy5kaXNwYXRjaChjaGFuZ2VSb3V0ZSgnLycpKTsKICAgICAgICAgIHByb3BzLiRwb3B1cC5jbG9zZSgpOwogICAgICAgIH0KICAgICAgfSwgJ0xvZ291dCcpKTsKICB9KQp9KSgocHJvcHMpID0+IHsKICBjb25zdCAkcG9wdXAgPSBwcm9wcy4kcG9wdXA7CgogIHJldHVybiBlKCdkaXYnLCB7CiAgICBzdHlsZToge2N1cnNvcjogJ3BvaW50ZXInfSwKICAgIG9uQ2xpY2s6IChldnQpID0+IHsKICAgICAgJHBvcHVwLmlzT3BlbigpID8gJHBvcHVwLmNsb3NlKCkgOiAkcG9wdXAub3BlbihldnQudGFyZ2V0LCB7dXNlcjogcHJvcHMudXNlcn0pOwogICAgfQogIH0sIHJlbmRlclVzZXIocHJvcHMudXNlcikpOwp9KTsK</text>
+        <text encoding="base64">aW1wb3J0IERpdmlkZXIgZnJvbSAnLi4vLi4vbGliL3VpL0RpdmlkZXInOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlICdzcGFjZS1iZXR3ZWVuJzoKICAgICAgICAgIHJldHVybiAnc3BhY2UtYmV0d2Vlbic7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHskUG9wdXB9IGZyb20gJy4uLy4uL2xpYi91aS9Qb3B1cCc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlICcnOgogICAgICAgICAgcmV0dXJuICdhJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
