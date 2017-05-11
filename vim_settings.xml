@@ -590,12 +590,11 @@
         <mark key="." line="11" column="35" />
         <mark key="^" line="11" column="35" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.es6" timestamp="1494446284701">
-        <mark key="'" line="50" column="0" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="13" column="57" />
-        <mark key="." line="2" column="21" />
-        <mark key="^" line="2" column="21" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.es6" timestamp="1494467671717">
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="4" column="11" />
+        <mark key="." line="4" column="11" />
+        <mark key="^" line="4" column="11" />
       </file>
       <file name="$USER_HOME$/www/js/Lisa/src/components/AppHeader.js" timestamp="1494389791570">
         <mark key="'" line="6" column="0" />
@@ -2911,7 +2910,6 @@
       <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.es6" />
       <jump line="42" column="2" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.es6" />
       <jump line="7" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.es6" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.es6" />
       <jump line="18" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.es6" />
       <jump line="14" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.es6" />
       <jump line="6" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.es6" />
@@ -2933,22 +2931,23 @@
       <jump line="15" column="11" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.es6" />
       <jump line="45" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.es6" />
       <jump line="50" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.es6" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.es6" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zdCBhZGRUd29OdW1iZXJzSXRlciA9IChsMSwgbDIsIGNvbXApID0+IHsKICAgIGlmIChsMSA9PT0gbnVsbCAmJiBsMiA9PT0gbnVsbCAmJiAhY29tcCkgcmV0dXJuIG51bGw7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>d.connect</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>d.connect</text>
       </register>
       <register name="/" type="4">
         <text>items</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICBjb25zdCBhZGRUd29OdW1iZXJzSXRlciA9IChsMSwgbDIsIGNvbXApID0+IHsKICAgIGlmIChsMSA9PT0gbnVsbCAmJiBsMiA9PT0gbnVsbCAmJiAhY29tcCkgcmV0dXJuIG51bGw7Cg==</text>
+      <register name="0" type="4">
+        <text>d.db_with(d.empty_db())</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2957,28 +2956,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZHMuZGIubG9nZ2VyXwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYWRkVHdvTnVtYmVyc0l0ZXIoCiAgICAgICAgbDEgPyBsMS5uZXh0IDogbnVsbCwKICAgICAgICBsMiA/IGwyLm5leHQgOiBudWxsLAogICAgICAgIHZhbCA+IDkgPyAxIDogMAogICAgICApCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhjKTsK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coZHMpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhjKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Y29uc3QK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgYSA9IG5ldyBMaXN0Tm9kZSgyLCBuZXcgTGlzdE5vZGUoNCwgbmV3IExpc3ROb2RlKDMpKSk7CmNvbnN0IGIgPSBuZXcgTGlzdE5vZGUoNSwgbmV3IExpc3ROb2RlKDYsIG5ldyBMaXN0Tm9kZSg0KSkpOwpjb25zdCBjID0gbmV3IExpc3ROb2RlKDcsIG5ldyBMaXN0Tm9kZSgwLCBuZXcgTGlzdE5vZGUoOCkpKTsKCmNvbnNvbGUubG9nKGMpOwpyZXF1aXJlKCdhc3NlcnQnKQogIC5kZWVwRXF1YWwoCiAgICBhZGRUd29OdW1iZXJzKGEsIGIpLAogICAgYwogICk7Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gTGlzdE5vZGUodmFsLCBuZXh0KSB7CiAgdGhpcy52YWwgPSB2YWw7CiAgdGhpcy5uZXh0ID0gbmV4dCB8fCBudWxsOwp9CgoKLyoqCiAqIEBwYXJhbSB7TGlzdE5vZGV9IGwxCiAqIEBwYXJhbSB7TGlzdE5vZGV9IGwyCiAqIEByZXR1cm4ge0xpc3ROb2RlfQogKi8KY29uc3QgYWRkVHdvTnVtYmVycyA9IGZ1bmN0aW9uKGwxLCBsMikgeyAvLyBPKG4pCiAgY29uc3QgYWRkVHdvTnVtYmVyc0l0ZXIgPSAobDEsIGwyLCBjb21wKSA9PiB7CiAgICBpZiAobDEgPT09IG51bGwgJiYgbDIgPT09IG51bGwgJiYgIWNvbXApIHJldHVybiBudWxsOwoKICAgIGNvbnN0IHYxID0gbDEgPyBsMS52YWwgOiAwOwogICAgY29uc3QgdjIgPSBsMiA/IGwyLnZhbCA6IDA7CiAgICBjb25zdCB2YWwgPSAodjEgKyB2MikgKyBjb21wOwoKICAgIGNvbnN0IGwgPSBuZXcgTGlzdE5vZGUodmFsID4gOSA/IHZhbCAtIDEwIDogdmFsKTsKICAgIGwubmV4dCA9IGFkZFR3b051bWJlcnNJdGVyKGwxID8gbDEubmV4dCA6IG51bGwsIGwyID8gbDIubmV4dCA6IG51bGwsIHZhbCA+IDkgPyAxIDogMCk7CiAgICByZXR1cm4gbDsKICB9OwoKICByZXR1cm4gYWRkVHdvTnVtYmVyc0l0ZXIobDEsIGwyLCAwKTsKfTsKCgooZnVuY3Rpb24oKSB7CiAgY29uc3QgYSA9IG5ldyBMaXN0Tm9kZSgyLCBuZXcgTGlzdE5vZGUoNCwgbmV3IExpc3ROb2RlKDMpKSk7CiAgY29uc3QgYiA9IG5ldyBMaXN0Tm9kZSg1LCBuZXcgTGlzdE5vZGUoNiwgbmV3IExpc3ROb2RlKDQpKSk7CiAgY29uc3QgYyA9IG5ldyBMaXN0Tm9kZSg3LCBuZXcgTGlzdE5vZGUoMCwgbmV3IExpc3ROb2RlKDgpKSk7CgogIHJlcXVpcmUoJ2Fzc2VydCcpCiAgICAuZGVlcEVxdWFsKAogICAgICBhZGRUd29OdW1iZXJzKGEsIGIpLAogICAgICBjCiAgICApOwp9KSgpOwoKKGZ1bmN0aW9uKCkgewogIGNvbnN0IGEgPSBuZXcgTGlzdE5vZGUoNSwgbmV3IExpc3ROb2RlKDIsIG51bGwpKTsKICBjb25zdCBiID0gbmV3IExpc3ROb2RlKDUsIG51bGwpOwogIGNvbnN0IGMgPSBuZXcgTGlzdE5vZGUoMCwgbmV3IExpc3ROb2RlKDMsIG51bGwpKTsKCiAgcmVxdWlyZSgnYXNzZXJ0JykKICAgIC5kZWVwRXF1YWwoCiAgICAgIGFkZFR3b051bWJlcnMoYSwgYiksCiAgICAgIGMKICAgICk7Cn0pKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5ldyBMaXN0Tm9kZSg3LCBuZXcgTGlzdE5vZGUoMCwgbmV3IExpc3ROb2RlKDgpKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
