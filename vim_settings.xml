@@ -595,12 +595,12 @@
         <mark key="^" line="86" column="12" />
         <mark key="." line="86" column="12" />
       </file>
-      <file name="$USER_HOME$/www/js/Lisa/src/components/AppHeader.js" timestamp="1494830451592">
+      <file name="$USER_HOME$/www/js/Lisa/src/components/AppHeader.js" timestamp="1494831832505">
         <mark key="'" line="4" column="11" />
         <mark key="[" line="55" column="45" />
-        <mark key="]" line="55" column="44" />
-        <mark key="." line="55" column="44" />
-        <mark key="^" line="55" column="44" />
+        <mark key="]" line="55" column="77" />
+        <mark key="." line="55" column="77" />
+        <mark key="^" line="55" column="77" />
       </file>
       <file name="$USER_HOME$/www/js/Lisa/src/views/IssueList.js" timestamp="1494389703244">
         <mark key="'" line="5" column="131" />
@@ -1054,12 +1054,11 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth/token-validator.js" timestamp="1492167617274">
         <mark key="'" line="112" column="9" />
       </file>
-      <file name="$USER_HOME$/www/js/Lisa/src/AppPlugins.js" timestamp="1494830689969">
+      <file name="$USER_HOME$/www/js/Lisa/src/AppPlugins.js" timestamp="1494831549389">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="79" column="43" />
-        <mark key="]" line="80" column="19" />
-        <mark key="." line="80" column="19" />
-        <mark key="^" line="80" column="19" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/www/js/Lisa/src/constants/ActionTypes.js" timestamp="1494823049307">
         <mark key="[" line="7" column="31" />
@@ -1754,11 +1753,12 @@
       <file name="$USER_HOME$/www/js/karma-electron-launcher/node_modules/karma/lib/launchers/base.js" timestamp="1492726468077">
         <mark key="'" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/www/js/Lisa/plugins/Theme/index.js" timestamp="1494830484433">
-        <mark key="[" line="9" column="17" />
-        <mark key="]" line="10" column="5" />
-        <mark key="." line="10" column="5" />
-        <mark key="^" line="10" column="5" />
+      <file name="$USER_HOME$/www/js/Lisa/plugins/Theme/index.js" timestamp="1494831790875">
+        <mark key="'" line="9" column="11" />
+        <mark key="[" line="9" column="26" />
+        <mark key="]" line="9" column="28" />
+        <mark key="^" line="9" column="28" />
+        <mark key="." line="9" column="28" />
       </file>
       <file name="$USER_HOME$/www/js/Lisa/src/containers/ServerSetupFormSpec.js" timestamp="1492454438176">
         <mark key="'" line="14" column="0" />
@@ -2888,7 +2888,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="26" filename="$USER_HOME$/www/js/Lisa/src/reducers/index.js" />
       <jump line="38" column="16" filename="$USER_HOME$/www/js/Lisa/src/reducers/index.js" />
       <jump line="56" column="20" filename="$USER_HOME$/www/js/Lisa/src/reducers/index.js" />
       <jump line="60" column="21" filename="$USER_HOME$/www/js/Lisa/src/reducers/index.js" />
@@ -2988,43 +2987,44 @@
       <jump line="5" column="0" filename="$USER_HOME$/www/js/Lisa/lib/ui/Button.js" />
       <jump line="57" column="0" filename="$USER_HOME$/www/js/Lisa/lib/ui/Button.js" />
       <jump line="3" column="0" filename="$USER_HOME$/www/js/Lisa/src/AppPlugins.js" />
+      <jump line="8" column="11" filename="$USER_HOME$/www/js/Lisa/plugins/Theme/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>text-format</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KHJlc3VsdCwgZWxlbWVudCkgPT4geyB9</text>
+        <text>text-format</text>
       </register>
       <register name="/" type="4">
         <text>fla</text>
       </register>
-      <register name="0" type="4">
-        <text>inline: true, padding: 0, paddingLeft: 1, paddingRight: 1</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IEJ1dHRvbiA9IHJlcSgnbGliL3VpL0J1dHRvbicpLmRlZmF1bHQ7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgKCkgPT4gewogICAgICAgIHJldHVybiBlKEZpbGwsIHtuYW1lOiAnQXBwLkFjdGlvbid9LAogICAgICAgICAgZShCdXR0b24sIHtmbGF0OiB0cnVlLCBzaXplOiAnYXV0byd9LAogICAgICAgICAgICAnQicpKTsKICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKEl0ZW0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIHJlc3VsdC5jb25jYXQoZWxlbWVudCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIAo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHJlc3VsdC5jb25jYXQoZWxlbWVudCk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -3033,7 +3033,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBlKCdTbG90JywgbnVsbCwgLi4uaXRlbXMpOwo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
