@@ -169,8 +169,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-hub/webpack.config.js" timestamp="1493204658353">
         <mark key="'" line="228" column="59" />
       </file>
-      <file name="$USER_HOME$/www/js/Lisa/webpack.config.js" timestamp="1492359028553">
-        <mark key="'" line="4" column="0" />
+      <file name="$USER_HOME$/www/js/Lisa/webpack.config.js" timestamp="1494959980986">
+        <mark key="'" line="15" column="0" />
         <mark key="[" line="11" column="37" />
         <mark key="]" line="11" column="37" />
         <mark key="." line="11" column="37" />
@@ -344,12 +344,12 @@
       <file name="$USER_HOME$/www/js/Lisa/node_modules/material-ui/index.js" timestamp="1492365669518">
         <mark key="'" line="291" column="26" />
       </file>
-      <file name="$USER_HOME$/www/js/Lisa/package.json" timestamp="1494959280960">
-        <mark key="'" line="52" column="16" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="12" column="102" />
+      <file name="$USER_HOME$/www/js/Lisa/package.json" timestamp="1494960017845">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="47" column="27" />
+        <mark key="]" line="47" column="27" />
+        <mark key="^" line="6" column="45" />
+        <mark key="." line="47" column="27" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/query-assist/template/yt-query-assist.html" timestamp="1493378267039">
         <mark key="'" line="16" column="28" />
@@ -2948,12 +2948,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="31" filename="$USER_HOME$/www/js/Lisa/plugins/IssueList/index.js" />
-      <jump line="7" column="3" filename="$USER_HOME$/www/js/Lisa/lib/ui/Router.js" />
-      <jump line="21" column="0" filename="$USER_HOME$/www/js/Lisa/lib/ui/Router.js" />
-      <jump line="26" column="35" filename="$USER_HOME$/www/js/Lisa/plugins/IssueList/index.js" />
-      <jump line="27" column="15" filename="$USER_HOME$/www/js/Lisa/plugins/IssueList/index.js" />
-      <jump line="28" column="17" filename="$USER_HOME$/www/js/Lisa/plugins/IssueList/index.js" />
       <jump line="10" column="4" filename="$USER_HOME$/www/js/Lisa/src/components/AppRouter.js" />
       <jump line="18" column="6" filename="$USER_HOME$/www/js/Lisa/src/components/AppRouter.js" />
       <jump line="20" column="8" filename="$USER_HOME$/www/js/Lisa/src/components/AppRouter.js" />
@@ -3007,7 +3001,6 @@
       <jump line="31" column="0" filename="$USER_HOME$/www/js/Lisa/plugins/IssueList/index.js" />
       <jump line="18" column="24" filename="$USER_HOME$/www/js/Lisa/plugins/IssueList/index.js" />
       <jump line="36" column="0" filename="$USER_HOME$/www/js/Lisa/plugins/IssueList/index.js" />
-      <jump line="5" column="13" filename="$USER_HOME$/www/js/Lisa/package.json" />
       <jump line="27" column="20" filename="$USER_HOME$/www/js/Lisa/package.json" />
       <jump line="20" column="0" filename="$USER_HOME$/www/js/Lisa/main.js" />
       <jump line="57" column="0" filename="$USER_HOME$/www/js/Lisa/main.js" />
@@ -3041,23 +3034,30 @@
       <jump line="3" column="0" filename="$USER_HOME$/www/js/Lisa/renderer.js" />
       <jump line="14" column="0" filename="$USER_HOME$/www/js/Lisa/package.json" />
       <jump line="53" column="16" filename="$USER_HOME$/www/js/Lisa/package.json" />
-      <jump line="6" column="46" filename="$USER_HOME$/www/js/Lisa/package.json" />
       <jump line="10" column="0" filename="$USER_HOME$/www/js/Lisa/package.json" />
-      <jump line="11" column="20" filename="$USER_HOME$/www/js/Lisa/package.json" />
-      <jump line="49" column="5" filename="$USER_HOME$/www/js/Lisa/package.json" />
       <jump line="50" column="5" filename="$USER_HOME$/www/js/Lisa/package.json" />
       <jump line="51" column="5" filename="$USER_HOME$/www/js/Lisa/package.json" />
       <jump line="52" column="16" filename="$USER_HOME$/www/js/Lisa/package.json" />
+      <jump line="15" column="0" filename="$USER_HOME$/www/js/Lisa/webpack.config.js" />
+      <jump line="7" column="46" filename="$USER_HOME$/www/js/Lisa/package.json" />
+      <jump line="11" column="0" filename="$USER_HOME$/www/js/Lisa/package.json" />
+      <jump line="48" column="0" filename="$USER_HOME$/www/js/Lisa/package.json" />
+      <jump line="6" column="46" filename="$USER_HOME$/www/js/Lisa/package.json" />
+      <jump line="5" column="13" filename="$USER_HOME$/www/js/Lisa/package.json" />
+      <jump line="44" column="26" filename="$USER_HOME$/www/js/Lisa/package.json" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/js/Lisa/package.json" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/js/Lisa/package.json" />
+      <jump line="49" column="0" filename="$USER_HOME$/www/js/Lisa/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJidWlsZCI6ICJOT0RFX0VOVj0ncHJvZHVjdGlvbicgd2VicGFjayIsCg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>build/</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>webpack</text>
@@ -3066,34 +3066,34 @@
         <text encoding="base64">ICAgICJwYWNrYWdlLW1hYyI6ICJlbGVjdHJvbi1wYWNrYWdlciAuIC0tb3ZlcndyaXRlIC0tcGxhdGZvcm09ZGFyd2luIC0tYXJjaD14NjQgLS1pY29uPXB1YmxpYy9pbWcvbG9nby5pY25zIC0tcHJ1bmU9dHJ1ZSAtLW91dD1yZWxlYXNlLWJ1aWxkcyIKICB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJidWlsZCI6ICJOT0RFX0VOVj0ncHJvZHVjdGlvbicgd2VicGFjayIsCg==</text>
+        <text encoding="base64">ICAgICJ3cml0ZS1maWxlLXdlYnBhY2stcGx1Z2luIjogIl40LjAuMiIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJz4+Jyk7Cg==</text>
+        <text encoding="base64">ICAgICJ3ZWJwYWNrLW5vZGUtZXh0ZXJuYWxzIjogIl4xLjUuNCIsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGljb246ICcvVXNlcnMvc29tZWJvZHkvaW1hZ2VzL3dpbmRvdy5wbmcnCg==</text>
+        <text encoding="base64">ICAgICJ3ZWJwYWNrLWRldi1zZXJ2ZXIiOiAiXjIuNC4yIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBlKEJveCwge3N0eWxlOiBzdHlsZXMucm9vdH0sCiAgICBlKE1lbnVTd2l0Y2hlciksCiAgICByZW5kZXJBY3Rpb25zKCksCiAgICBlKExvZ291dCkKICApOwo=</text>
+        <text encoding="base64">ICAgICJ3ZWJwYWNrIjogIl4yLjQuMSIsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgJ1dlYmtpdEFwcFJlZ2lvbic6ICdkcmFnJywK</text>
+        <text encoding="base64">ICAgICJ3ZWJwYWNrLWRldiI6ICJ3ZWJwYWNrLWRldi1zZXJ2ZXIiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJidWlsZCI6ICJOT0RFX0VOVj0ncHJvZHVjdGlvbicgd2VicGFjayIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJz4+Jyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGljb246ICcvVXNlcnMvc29tZWJvZHkvaW1hZ2VzL3dpbmRvdy5wbmcnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0eWxlOiB7J1dlYmtpdEFwcFJlZ2lvbic6ICdkcmFnJ30K</text>
+        <text encoding="base64">ICBlKEJveCwge3N0eWxlOiBzdHlsZXMucm9vdH0sCiAgICBlKE1lbnVTd2l0Y2hlciksCiAgICByZW5kZXJBY3Rpb25zKCksCiAgICBlKExvZ291dCkKICApOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
