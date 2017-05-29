@@ -225,6 +225,10 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("add-card-to-sprint")).withParent(xmlTag().withLocalName(string().equalTo("yt-backlog-issue")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-backlog-issue/@selection</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("selection")).withParent(xmlTag().withLocalName(string().equalTo("yt-backlog-issue")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>yt-board/@infinite-scroll</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("infinite-scroll")).withParent(xmlTag().withLocalName(string().equalTo("yt-board")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
