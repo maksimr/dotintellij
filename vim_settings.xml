@@ -1604,8 +1604,8 @@
         <mark key="." line="5" column="1" />
         <mark key="^" line="5" column="1" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/permissions-ng/permissions-ng.js" timestamp="1496136948320">
-        <mark key="'" line="169" column="17" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/permissions-ng/permissions-ng.js" timestamp="1496137351211">
+        <mark key="'" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/service/get-header-menu-items.js" timestamp="1496134202173">
         <mark key="'" line="17" column="0" />
@@ -1619,6 +1619,9 @@
         <mark key="]" line="114" column="22" />
         <mark key="." line="114" column="22" />
         <mark key="^" line="114" column="22" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/permissions/permissions.js" timestamp="1496137695592">
+        <mark key="'" line="104" column="2" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/test/directive/yt-diff.js" timestamp="1493030913016">
         <mark key="'" line="81" column="0" />
@@ -2236,14 +2239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="208" column="32" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/service/header-items.js" />
-      <jump line="212" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/service/header-items.js" />
-      <jump line="213" column="32" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/service/header-items.js" />
-      <jump line="31" column="29" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/test/service/create-header.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/test/service/create-header.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/test/service/header-items.js" />
-      <jump line="15" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/test/service/header-items.js" />
-      <jump line="28" column="53" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/directive/yt-header.js" />
       <jump line="39" column="79" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/directive/yt-header.js" />
       <jump line="33" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/directive/yt-header.js" />
       <jump line="11" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/test/service/header-items.js" />
@@ -2333,9 +2328,17 @@
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/header.js" />
       <jump line="16" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/permissions.js" />
       <jump line="19" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/permissions-ng/permissions-ng.js" />
-      <jump line="7" column="58" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/permissions-ng/permissions-ng.js" />
       <jump line="8" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/permissions-ng/permissions-ng.js" />
       <jump line="169" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/permissions-ng/permissions-ng.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/permissions-ng/permissions-ng.js" />
+      <jump line="145" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/permissions/permissions.js" />
+      <jump line="5" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/permissions/permissions.js" />
+      <jump line="20" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/permissions/permissions.js" />
+      <jump line="23" column="80" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/permissions/permissions.js" />
+      <jump line="73" column="87" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/permissions/permissions.js" />
+      <jump line="78" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/permissions/permissions.js" />
+      <jump line="102" column="88" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/permissions/permissions.js" />
+      <jump line="104" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/permissions/permissions.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2348,7 +2351,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>get</text>
+        <text>reload</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBoYXNVbnNlZW46ICRyZXNvdXJjZShiYXNlVXJpICsgJy9yZXN0L3Byb2ZpbGUvaGFzVW5zZWVuRmVhdHVyZXMnLCB7fSwgewogICAgICAgICAgZ2V0OiB7Cg==</text>
@@ -2388,9 +2391,9 @@
       </register>
     </registers>
     <search>
-      <last-search>get</last-search>
+      <last-search>reload</last-search>
       <last-offset />
-      <last-pattern>get</last-pattern>
+      <last-pattern>reload</last-pattern>
       <last-replace>= require(</last-replace>
       <last-substitute>from</last-substitute>
       <last-dir>1</last-dir>
@@ -2398,9 +2401,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyb3V0ZVw+</entry>
-        <entry encoding="base64">XDx1c2VyUGVybWlzc2lvbnNcPg==</entry>
-        <entry encoding="base64">XDx5b3V0cmFja0NvbmZpZ1w+</entry>
         <entry encoding="base64">XDxoZWFkZXJJdGVtc1w+</entry>
         <entry>logo</entry>
         <entry>Logo</entry>
@@ -2418,6 +2418,9 @@
         <entry>permi</entry>
         <entry>cache</entry>
         <entry>get</entry>
+        <entry>load</entry>
+        <entry encoding="base64">XDxyZWxvYWRcPg==</entry>
+        <entry>reload</entry>
       </history-search>
       <history-cmd>
         <entry>%/karma-runner/maksimr/gc</entry>
