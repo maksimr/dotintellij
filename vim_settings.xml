@@ -216,6 +216,10 @@
         <mark key="^" line="1" column="43" />
         <mark key="." line="1" column="47" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/new-feature-resource.js" timestamp="1496136004083">
+        <mark key="[" line="8" column="41" />
+        <mark key="]" line="8" column="70" />
+      </file>
       <file name="$USER_HOME$/www/js/Lisa/src/connect.js" timestamp="1493588131967">
         <mark key="'" line="11" column="1" />
         <mark key="[" line="11" column="1" />
@@ -2319,8 +2323,8 @@
       <jump line="40" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/externals/header/controller/mps-issues-menu-create-button.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSB7T2JqZWN0fSBsaW5rVHlwZXMKICAgICAqIEByZXR1cm5zIHtBcnJheX0K</text>
+      <register name="&quot;" type="4">
+        <text>rest/profile/hasUnseenFeatures</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -2329,7 +2333,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>permi</text>
+        <text>newFea</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAqIEBwYXJhbSB7T2JqZWN0fSBsaW5rVHlwZXMKICAgICAqIEByZXR1cm5zIHtBcnJheX0K</text>
@@ -2369,9 +2373,9 @@
       </register>
     </registers>
     <search>
-      <last-search>permi</last-search>
+      <last-search>newFea</last-search>
       <last-offset />
-      <last-pattern>permi</last-pattern>
+      <last-pattern>newFea</last-pattern>
       <last-replace>= require(</last-replace>
       <last-substitute>from</last-substitute>
       <last-dir>1</last-dir>
@@ -2379,7 +2383,6 @@
     </search>
     <history>
       <history-search>
-        <entry>i18n</entry>
         <entry>route</entry>
         <entry encoding="base64">XDxjb25maWdNb2NrXD4=</entry>
         <entry encoding="base64">XDxyb3V0ZVw+</entry>
@@ -2399,6 +2402,7 @@
         <entry encoding="base64">XDxjcmVhdGVTZXJ2aWNlc1w+</entry>
         <entry>create</entry>
         <entry>permi</entry>
+        <entry>newFea</entry>
       </history-search>
       <history-cmd>
         <entry>%/karma-runner/maksimr/gc</entry>
