@@ -303,8 +303,8 @@
         <mark key="^" line="111" column="5" />
         <mark key="." line="111" column="5" />
       </file>
-      <file name="$USER_HOME$/www/js/Lisa/src/api.js" timestamp="1496162821291">
-        <mark key="'" line="17" column="0" />
+      <file name="$USER_HOME$/www/js/Lisa/src/api.js" timestamp="1496165470516">
+        <mark key="'" line="6" column="0" />
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
@@ -959,12 +959,10 @@
         <mark key="^" line="81" column="50" />
         <mark key="." line="81" column="50" />
       </file>
-      <file name="$USER_HOME$/www/js/Lisa/lib/net/request.js" timestamp="1496163702503">
-        <mark key="'" line="19" column="6" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="22" column="52" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/www/js/Lisa/lib/net/request.js" timestamp="1496164970834">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/www/js/Lisa/src/components/AppView.js" timestamp="1495922589381">
         <mark key="'" line="8" column="7" />
@@ -2123,12 +2121,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/www/js/Lisa/plugins/IssueList/index.js" timestamp="1496163746533">
-        <mark key="'" line="54" column="0" />
-        <mark key="[" line="57" column="30" />
-        <mark key="]" line="57" column="40" />
-        <mark key="." line="57" column="40" />
-        <mark key="^" line="57" column="40" />
+      <file name="$USER_HOME$/www/js/Lisa/plugins/IssueList/index.js" timestamp="1496165290345">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="14" column="12" />
+        <mark key="]" line="14" column="18" />
+        <mark key="." line="14" column="18" />
+        <mark key="^" line="14" column="18" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-backlog-issue.js" timestamp="1496045284452">
         <mark key="'" line="12" column="8" />
@@ -2253,8 +2251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="187" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/service/create-header.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/service/create-header.js" />
       <jump line="93" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/service/create-header.js" />
       <jump line="75" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/directive/yt-header.js" />
       <jump line="32" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/template/yt-header-navigation-menu.html" />
@@ -2353,22 +2349,24 @@
       <jump line="16" column="0" filename="$USER_HOME$/www/js/Lisa/lib/net/request.js" />
       <jump line="18" column="6" filename="$USER_HOME$/www/js/Lisa/lib/net/request.js" />
       <jump line="54" column="0" filename="$USER_HOME$/www/js/Lisa/plugins/IssueList/index.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/www/js/Lisa/plugins/IssueList/index.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/www/js/Lisa/src/api.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>body</text>
+        <text>envelope</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>body</text>
+        <text>envelope</text>
       </register>
       <register name="/" type="4">
-        <text>is</text>
+        <text>conso</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHFzID0gcmVxdWlyZSgncXVlcnlzdHJpbmcnKTsKICAgIG9wdGlvbnMgPSBPYmplY3QuYXNzaWduKHt9LCBvcHRpb25zLCB7Cg==</text>
+        <text encoding="base64">ICAgIG9wdGlvbnMucGF0aCArPSAnPycgKyBvcHRpb25zLnF1ZXJ5Owo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2377,37 +2375,37 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaXNzdWUpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG9wdGlvbnMucGF0aCA9IG9wdGlvbnMucGF0aCB8fCAnJzsKICAgIG9wdGlvbnMucGF0aCArPSAnPycgKyBvcHRpb25zLnF1ZXJ5Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhvcHRpb25zLnF1ZXJ5KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGlzc3Vlcyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaXNzdWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCB1ID0gcmVxdWlyZSgndXRpbCcpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnPj4+JywgcmVxdWlyZSgndXJsJykuZm9ybWF0KG9wdGlvbnMpLCBvcHRpb25zKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZW52ZWxvcGUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>is</last-search>
+      <last-search>conso</last-search>
       <last-offset />
-      <last-pattern>is</last-pattern>
+      <last-pattern>conso</last-pattern>
       <last-replace>= require(</last-replace>
       <last-substitute>from</last-substitute>
       <last-dir>1</last-dir>
@@ -2432,9 +2430,9 @@
         <entry encoding="base64">XDxvbkxvYWRDb25maWdcPg==</entry>
         <entry>value</entry>
         <entry>data</entry>
-        <entry>conso</entry>
         <entry>forma</entry>
         <entry>is</entry>
+        <entry>conso</entry>
       </history-search>
       <history-cmd>
         <entry>%/karma-runner/maksimr/gc</entry>
