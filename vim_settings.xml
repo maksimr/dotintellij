@@ -1019,12 +1019,12 @@
         <mark key="." line="13" column="24" />
         <mark key="^" line="13" column="24" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.es6" timestamp="1496492461889">
-        <mark key="'" line="23" column="11" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="36" column="1" />
-        <mark key="." line="29" column="40" />
-        <mark key="^" line="29" column="40" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.es6" timestamp="1496493919595">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="9" column="30" />
+        <mark key="]" line="9" column="11" />
+        <mark key="^" line="9" column="11" />
+        <mark key="." line="9" column="11" />
       </file>
       <file name="$USER_HOME$/www/js/Lisa/src/components/Box.js" timestamp="1493408901317">
         <mark key="'" line="18" column="1" />
@@ -2271,11 +2271,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
-      <jump line="124" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
-      <jump line="127" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
-      <jump line="221" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
-      <jump line="219" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
       <jump line="128" column="46" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
       <jump line="222" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
       <jump line="234" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
@@ -2371,10 +2366,15 @@
       <jump line="41" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.es6" />
       <jump line="40" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.es6" />
       <jump line="23" column="11" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.es6" />
+      <jump line="44" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.es6" />
+      <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.es6" />
+      <jump line="25" column="1" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.es6" />
+      <jump line="12" column="6" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.es6" />
+      <jump line="10" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.es6" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgJFByb3BzID0gKHByb3BzKSA9PiB7CiAgcmV0dXJuIChDb21wKSA9PiB7CiAgICBjbGFzcyBQdXJlV3JhcHBlckNvbXAgZXh0ZW5kcyBSZWFjdC5Db21wb25lbnQgewogICAgICByZW5kZXIoKSB7CiAgICAgICAgcmV0dXJuIGUoQ29tcCwgT2JqZWN0LmFzc2lnbih7fSwgcHJvcHMsIHRoaXMucHJvcHMpLCB0aGlzLnByb3BzLmNoaWxkcmVuKTsKICAgICAgfQogICAgfQoKICAgIFB1cmVXcmFwcGVyQ29tcC5kaXNwbGF5TmFtZSA9IGAkUHJvcHMoJHtnZXREaXNwbGF5TmFtZShDb21wKX0pYDsKICAgIHJldHVybiBQdXJlV3JhcHBlckNvbXA7CiAgfTsKCiAgZnVuY3Rpb24gZ2V0RGlzcGxheU5hbWUoQ29tcCkgewogICAgcmV0dXJuIENvbXAuZGlzcGxheU5hbWUgfHwgQ29tcC5uYW1lIHx8ICdDb21wb25lbnQnOwogIH0KfTsK</text>
+        <text encoding="base64">Cgpjb25zdCBIZWxsbyA9ICRQcm9wcyh7CiAgb25DbGljazogKGV2dCkgPT4gewogICAgY29uc29sZS5sb2coZXZ0KTsKICB9Cn0pKCRQdXJlKCkoKHByb3BzKSA9PiB7CiAgcmV0dXJuIGUoJ2RpdicsIHtvbkNsaWNrOiBwcm9wcy5vbkNsaWNrfSk7Cn0pKTsKCmUoSGVsbG8pOwo=</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -2386,37 +2386,37 @@
         <text>props</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgJFByb3BzID0gKHByb3BzKSA9PiB7CiAgcmV0dXJuIChDb21wKSA9PiB7CiAgICBjbGFzcyBQdXJlV3JhcHBlckNvbXAgZXh0ZW5kcyBSZWFjdC5Db21wb25lbnQgewogICAgICByZW5kZXIoKSB7CiAgICAgICAgcmV0dXJuIGUoQ29tcCwgT2JqZWN0LmFzc2lnbih7fSwgcHJvcHMsIHRoaXMucHJvcHMpLCB0aGlzLnByb3BzLmNoaWxkcmVuKTsKICAgICAgfQogICAgfQoKICAgIFB1cmVXcmFwcGVyQ29tcC5kaXNwbGF5TmFtZSA9IGAkUHJvcHMoJHtnZXREaXNwbGF5TmFtZShDb21wKX0pYDsKICAgIHJldHVybiBQdXJlV3JhcHBlckNvbXA7CiAgfTsKCiAgZnVuY3Rpb24gZ2V0RGlzcGxheU5hbWUoQ29tcCkgewogICAgcmV0dXJuIENvbXAuZGlzcGxheU5hbWUgfHwgQ29tcC5uYW1lIHx8ICdDb21wb25lbnQnOwogIH0KfTsK</text>
+        <text encoding="base64">Y29uc3QgJFByb3BzID0gKHByb3BzKSA9PiB7CiAgcmV0dXJuIChDb21wKSA9PiB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgpjb25zdCBIZWxsbyA9ICRQcm9wcyh7CiAgb25DbGljazogKGV2dCkgPT4gewogICAgY29uc29sZS5sb2coZXZ0KTsKICB9Cn0pKCRQdXJlKCkoKHByb3BzKSA9PiB7CiAgcmV0dXJuIGUoJ2RpdicsIHtvbkNsaWNrOiBwcm9wcy5vbkNsaWNrfSk7Cn0pKTsKCmUoSGVsbG8pOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFB1cmVXcmFwcGVyQ29tcC5wcm90b3R5cGUuc2hvdWxkQ29tcG9uZW50VXBkYXRlID0gc2hvdWxkQ29tcG9uZW50VXBkYXRlOwo=</text>
+        <text encoding="base64">Y29uc3QgJFB1cmUgPSAoc2hvdWxkQ29tcG9uZW50VXBkYXRlKSA9PiB7CiAgcmV0dXJuIChDb21wKSA9PiB7CiAgICBjbGFzcyBQdXJlV3JhcHBlckNvbXAgZXh0ZW5kcyBSZWFjdC5QdXJlQ29tcG9uZW50IHsKICAgICAgcmVuZGVyKCkgewogICAgICAgIHJldHVybiBlKENvbXAsIHRoaXMucHJvcHMsIHRoaXMucHJvcHMuY2hpbGRyZW4pOwogICAgICB9CiAgICB9CgogICAgUHVyZVdyYXBwZXJDb21wLnByb3RvdHlwZS5zaG91bGRDb21wb25lbnRVcGRhdGUgPSBzaG91bGRDb21wb25lbnRVcGRhdGU7CiAgICBQdXJlV3JhcHBlckNvbXAuZGlzcGxheU5hbWUgPSBgJFB1cmUoJHtnZXREaXNwbGF5TmFtZShDb21wKX0pYDsKICAgIHJldHVybiBQdXJlV3JhcHBlckNvbXA7CiAgfTsKCiAgZnVuY3Rpb24gZ2V0RGlzcGxheU5hbWUoQ29tcCkgewogICAgcmV0dXJuIENvbXAuZGlzcGxheU5hbWUgfHwgQ29tcC5uYW1lIHx8ICdDb21wb25lbnQnOwogIH0KfTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgJFByb3BzID0gKHByb3BzKSA9PiB7CiAgcmV0dXJuIChDb21wKSA9PiB7CiAgICBjbGFzcyBQdXJlV3JhcHBlckNvbXAgZXh0ZW5kcyBSZWFjdC5Db21wb25lbnQgewogICAgICByZW5kZXIoKSB7CiAgICAgICAgcmV0dXJuIGUoQ29tcCwgT2JqZWN0LmFzc2lnbih7fSwgcHJvcHMsIHRoaXMucHJvcHMpLCB0aGlzLnByb3BzLmNoaWxkcmVuKTsKICAgICAgfQogICAgfQoKICAgIFB1cmVXcmFwcGVyQ29tcC5kaXNwbGF5TmFtZSA9IGAkUHJvcHMoJHtnZXREaXNwbGF5TmFtZShDb21wKX0pYDsKICAgIHJldHVybiBQdXJlV3JhcHBlckNvbXA7CiAgfTsKCiAgZnVuY3Rpb24gZ2V0RGlzcGxheU5hbWUoQ29tcCkgewogICAgcmV0dXJuIENvbXAuZGlzcGxheU5hbWUgfHwgQ29tcC5uYW1lIHx8ICdDb21wb25lbnQnOwogIH0KfTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgJAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIFB1cmVXcmFwcGVyQ29tcC5kaXNwbGF5TmFtZSA9IENvbXAubmFtZTsK</text>
+        <text encoding="base64">ICAgIFB1cmVXcmFwcGVyQ29tcC5wcm90b3R5cGUuc2hvdWxkQ29tcG9uZW50VXBkYXRlID0gc2hvdWxkQ29tcG9uZW50VXBkYXRlOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGUoTGluZSwgbnVsbCwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgTWVudVN3aXRjaGVyID0gY29ubmVjdChudWxsLCB7CiAgb25DbGljazogdG9nZ2xlTWVudS5iaW5kKG51bGwsIG51bGwpCn0pKChwcm9wcykgPT4gewogIHJldHVybiBlKEJ1dHRvbiwgewogICAgZmxhdDogdHJ1ZSwKICAgIHNpemU6ICdhdXRvJywKICAgIG9uQ2xpY2s6IHByb3BzLm9uQ2xpY2sKICB9LCByZW5kZXJNZW51SWNvbigpKTsKCiAgZnVuY3Rpb24gcmVuZGVyTWVudUljb24oKSB7CiAgICByZXR1cm4gZShJY29uLCB7aWNvbjogJ21lbnUnfSk7CiAgfQp9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
