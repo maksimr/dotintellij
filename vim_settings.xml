@@ -129,6 +129,9 @@
         <mark key="]" line="314" column="0" />
         <mark key="." line="314" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" timestamp="1496759685243">
+        <mark key="'" line="233" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/module-loader/module-loader.js" timestamp="1496753432318">
         <mark key="[" line="6" column="19" />
         <mark key="]" line="6" column="38" />
@@ -247,8 +250,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-sprint-settings.js" timestamp="1496741111575">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" timestamp="1496756158848">
-        <mark key="'" line="283" column="2" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" timestamp="1496759447498">
+        <mark key="'" line="21" column="0" />
         <mark key="[" line="91" column="53" />
         <mark key="]" line="91" column="53" />
         <mark key="." line="91" column="53" />
@@ -270,9 +273,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="33" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/dialog-ng/dialog-ng.js" />
-      <jump line="283" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/dialog-ng/dialog-ng.js" />
-      <jump line="291" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/dialog-ng/dialog-ng.js" />
       <jump line="428" column="55" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/dialog-ng/dialog-ng.js" />
       <jump line="101" column="32" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/dialog-ng/dialog-ng.js" />
       <jump line="104" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/dialog-ng/dialog-ng.js" />
@@ -370,6 +370,9 @@
       <jump line="26" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
       <jump line="11" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
+      <jump line="21" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
+      <jump line="233" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -382,7 +385,7 @@
         <text>, useSameArray</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtcHNUb0FuZ3VsYXJCcmlkZ2VCb290c3RyYXBWQ1NBcHBcPg==</text>
+        <text>pathRewrite</text>
       </register>
       <register name="0" type="4">
         <text>outputList.length - 1</text>
@@ -422,18 +425,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtcHNUb0FuZ3VsYXJCcmlkZ2VCb290c3RyYXBWQ1NBcHBcPg==</last-search>
+      <last-search>pathRewrite</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtcHNUb0FuZ3VsYXJCcmlkZ2VCb290c3RyYXBWQ1NBcHBcPg==</last-pattern>
+      <last-pattern>pathRewrite</last-pattern>
       <last-replace>#444</last-replace>
       <last-substitute>$ring-palette-grey-text</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>mode</entry>
-        <entry encoding="base64">XDxtb2RpZmllcnNcPg==</entry>
         <entry>dang</entry>
         <entry>close</entry>
         <entry>hide</entry>
@@ -452,6 +453,8 @@
         <entry>load</entry>
         <entry>require</entry>
         <entry encoding="base64">XDxtcHNUb0FuZ3VsYXJCcmlkZ2VCb290c3RyYXBWQ1NBcHBcPg==</entry>
+        <entry>proxy</entry>
+        <entry>pathRewrite</entry>
       </history-search>
       <history-cmd>
         <entry>37</entry>
