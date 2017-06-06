@@ -78,8 +78,10 @@
       <file name="$USER_HOME$/www/js/Lisa/node_modules/react/lib/ReactElement.js" timestamp="1496485877814">
         <mark key="'" line="335" column="30" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/reports.js" timestamp="1496673459450">
-        <mark key="'" line="209" column="29" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/reports.js" timestamp="1496738309481">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="94" column="29" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/_reports/types/gantt/gantt.js" timestamp="1496672738455">
         <mark key="'" line="14" column="26" />
@@ -156,8 +158,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="205" column="57" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/reports.js" />
-      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/_reports/edit/prepareReportEdit.js" />
       <jump line="147" column="33" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/reports.js" />
       <jump line="163" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/reports.js" />
       <jump line="164" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/reports.js" />
@@ -256,10 +256,12 @@
       <jump line="39" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-picker.js" />
       <jump line="16" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-picker.js" />
       <jump line="61" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-picker.js" />
+      <jump line="154" column="27" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/reports.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/reports.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgIG5nLWluY2x1ZGU9IidwYWdlcy9yZXBvcnRzL19yZXBvcnRzL3R5cGVzL2dhcC10b29sYmFyLmh0bWwnIj48L2Rpdj4K</text>
+        <text encoding="base64">ICAgIC53aGVuKCcvcmVwb3J0cycsIGNyZWF0ZVJvdXRlKHsKICAgICAgdGl0bGU6IGkxOG4oJ1JlcG9ydHMnKSwK</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -268,10 +270,10 @@
         <text>sroze/ngInfiniteScroll#1.2.1</text>
       </register>
       <register name="/" type="4">
-        <text>attach</text>
+        <text>when</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsYXNzTmFtZTogJ3l0LWRhdGUtcGlja2VyX19wb3B1cCcsCiAgICAgICAgICAgICAgICBhdHRhY2hlZDogZmFsc2UsCg==</text>
+        <text encoding="base64">ICAgIC53aGVuKCcvcmVwb3J0cycsIGNyZWF0ZVJvdXRlKHsKICAgICAgdGl0bGU6IGkxOG4oJ1JlcG9ydHMnKSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAnbmctaW5maW5pdGUtc2Nyb2xsL2J1aWxkL25nLWluZmluaXRlLXNjcm9sbCc6IHBhdGgucmVzb2x2ZShwcm9qZWN0RGlyZWN0b3J5LCAnbm9kZV9tb2R1bGVzL25nLWluZmluaXRlLXNjcm9sbC9idWlsZC9uZy1pbmZpbml0ZS1zY3JvbGwnKSwK</text>
@@ -308,9 +310,9 @@
       </register>
     </registers>
     <search>
-      <last-search>attach</last-search>
+      <last-search>when</last-search>
       <last-offset />
-      <last-pattern>attach</last-pattern>
+      <last-pattern>when</last-pattern>
       <last-replace>#444</last-replace>
       <last-substitute>$ring-palette-grey-text</last-substitute>
       <last-dir>1</last-dir>
@@ -318,7 +320,6 @@
     </search>
     <history>
       <history-search>
-        <entry>version</entry>
         <entry>teamcity</entry>
         <entry>page</entry>
         <entry>bur</entry>
@@ -338,6 +339,7 @@
         <entry encoding="base64">XDxlbGVtZW50XD4=</entry>
         <entry>class</entry>
         <entry>attach</entry>
+        <entry>when</entry>
       </history-search>
       <history-cmd>
         <entry>37</entry>
