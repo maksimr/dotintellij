@@ -35,8 +35,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select/select.js" timestamp="1496827203051">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1496676894601">
-        <mark key="'" line="95" column="8" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1496834322765">
+        <mark key="'" line="52" column="26" />
         <mark key="[" line="83" column="27" />
         <mark key="]" line="83" column="31" />
         <mark key="." line="83" column="31" />
@@ -187,12 +187,11 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/template/yt-header-new-features.html" timestamp="1496739707999">
         <mark key="'" line="15" column="16" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/list/list.js" timestamp="1496833090775">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/list/list.js" timestamp="1496834185790">
         <mark key="a" line="368" column="13" />
-        <mark key="'" line="368" column="34" />
-        <mark key="[" line="460" column="0" />
-        <mark key="]" line="462" column="70" />
-        <mark key="." line="449" column="0" />
+        <mark key="[" line="438" column="0" />
+        <mark key="]" line="438" column="0" />
+        <mark key="." line="438" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/form/form.js" timestamp="1496742121095">
         <mark key="'" line="0" column="0" />
@@ -292,10 +291,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/module-loader/service/create-module-loader.js" />
-      <jump line="7" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/module-loader/test/service/create-module-loader.js" />
-      <jump line="12" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/module-loader/test/service/create-module-loader.js" />
-      <jump line="51" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/module-loader/test/service/create-module-loader.js" />
       <jump line="56" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
       <jump line="93" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/externals/header/header.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/externals/header/header.js" />
@@ -392,10 +387,14 @@
       <jump line="72" column="4" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.js" />
       <jump line="535" column="25" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.js" />
       <jump line="373" column="6" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.js" />
+      <jump line="455" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/list/list.js" />
+      <jump line="462" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/list/list.js" />
+      <jump line="438" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/list/list.js" />
+      <jump line="52" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9wSW5kZXggPSB0aGlzLmNhY2hlZFNpemVzLmxlbmd0aDsKICAgICAgICBwYWRkaW5nQm90dG9tID0gMDsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjYWNoZWRTaXplSXRlbS5lbmQsIChzY3JvbGxUb3AgKyBoZWlnaHQpKTsK</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -404,49 +403,49 @@
         <text>this.cachedSizes.length - 1</text>
       </register>
       <register name="/" type="4">
-        <text>const hei</text>
+        <text>ring-ui</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBzdG9wSW5kZXggPSB0aGlzLmNhY2hlZFNpemVzLmxlbmd0aCAtIDE7CiAgICAgICAgY29uc3QgZnVsbEhlaWdodCA9IHRoaXMuY2FjaGVkU2l6ZXNbc3RvcEluZGV4XS5lbmQ7CiAgICAgICAgcGFkZGluZ0JvdHRvbSA9IGZ1bGxIZWlnaHQgLSB0aGlzLmNhY2hlZFNpemVzW3N0b3BJbmRleF0uYmVnaW47Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9wSW5kZXggPSB0aGlzLmNhY2hlZFNpemVzLmxlbmd0aDsKICAgICAgICBwYWRkaW5nQm90dG9tID0gMDsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjYWNoZWRTaXplSXRlbS5lbmQsIChzY3JvbGxUb3AgKyBoZWlnaHQpKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc3RvcEluZGV4LCB0aGlzLmNhY2hlZFNpemVzLmxlbmd0aCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc3RvcEluZGV4KTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwYWRkaW5nQm90dG9tKTsK</text>
+        <text encoding="base64">ICAgICAgICBzdG9wSW5kZXggPSB0aGlzLmNhY2hlZFNpemVzLmxlbmd0aDsKICAgICAgICBwYWRkaW5nQm90dG9tID0gMDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjYWNoZWRTaXplSXRlbS5lbmQsIChzY3JvbGxUb3AgKyBoZWlnaHQpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc3RvcEluZGV4LCB0aGlzLmNhY2hlZFNpemVzLmxlbmd0aCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBmdWxsSGVpZ2h0ID0gdGhpcy5jYWNoZWRTaXplc1t0aGlzLmNhY2hlZFNpemVzLmxlbmd0aCAtIDFdLmVuZDsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwYWRkaW5nQm90dG9tKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYWRkaW5nQm90dG9tID0gMDsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjYWNoZWRTaXplSXRlbS5lbmQsIChzY3JvbGxUb3AgKyBoZWlnaHQpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgfSBlbHNlIHsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBmdWxsSGVpZ2h0ID0gdGhpcy5jYWNoZWRTaXplc1t0aGlzLmNhY2hlZFNpemVzLmxlbmd0aCAtIDFdLmVuZDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4+PiBCJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYWRkaW5nQm90dG9tID0gMDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4+PiBBJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>const hei</last-search>
+      <last-search>ring-ui</last-search>
       <last-offset />
-      <last-pattern>const hei</last-pattern>
+      <last-pattern>ring-ui</last-pattern>
       <last-replace>#444</last-replace>
       <last-substitute>$ring-palette-grey-text</last-substitute>
       <last-dir>1</last-dir>
@@ -454,7 +453,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mem</entry>
         <entry encoding="base64">XDxtZW1vaXplXD4=</entry>
         <entry encoding="base64">XDxsb2FkTW9kdWxlXD4=</entry>
         <entry>load</entry>
@@ -468,12 +466,13 @@
         <entry encoding="base64">XDxzY3JvbGxIYW5kbGVyXD4=</entry>
         <entry encoding="base64">XDxzY3JvbGxFbmRIYW5kbGVyXD4=</entry>
         <entry>console.log</entry>
-        <entry>console</entry>
         <entry encoding="base64">XDxpZ25vcmVGb2N1c1w+</entry>
         <entry>Then</entry>
         <entry encoding="base64">XDxyZWNhbGN1bGF0ZVZpc2libGVPcHRpb25zXD4=</entry>
         <entry>name</entry>
         <entry>const hei</entry>
+        <entry>console</entry>
+        <entry>ring-ui</entry>
       </history-search>
       <history-cmd>
         <entry>37</entry>
