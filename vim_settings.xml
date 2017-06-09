@@ -204,12 +204,11 @@
       <file name="$USER_HOME$/www/js/Lisa/node_modules/react/lib/ReactElement.js" timestamp="1496485877814">
         <mark key="'" line="335" column="30" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" timestamp="1496777846898">
-        <mark key="'" line="12" column="34" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="36" />
-        <mark key="^" line="14" column="45" />
-        <mark key="." line="14" column="45" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" timestamp="1497016872282">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/_reports/types/gantt/gantt.js" timestamp="1496672738455">
         <mark key="'" line="14" column="26" />
@@ -297,8 +296,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select.examples.html" />
-      <jump line="424" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select.examples.html" />
       <jump line="401" column="7" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.js" />
       <jump line="577" column="65" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.js" />
       <jump line="623" column="10" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.js" />
@@ -397,10 +394,12 @@
       <jump line="211" column="66" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.js" />
       <jump line="223" column="19" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.js" />
       <jump line="226" column="2" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.js" />
+      <jump line="7" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.only</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc3QgYXNzZXJ0ID0gcmVxdWlyZSgnYXNzZXJ0Jyk7Cgpjb25zdCBzZWFyY2ggPSAoaW5wdXRMaXN0LCB2KSA9PiB7CiAgZm9yIChsZXQgaSA9IDA7IGkgPCBpbnB1dExpc3QubGVuZ3RoOyBpKyspIHsKICAgIGxldCBjdXJyZW50SXRlbSA9IGlucHV0TGlzdFtpXTsKICAgIGlmIChjdXJyZW50SXRlbSA9PT0gdikgcmV0dXJuIGk7CiAgfQoKICByZXR1cm4gbnVsbDsKfTsKCmFzc2VydC5kZWVwRXF1YWwoc2VhcmNoKFtdLCAxKSwgbnVsbCk7CmFzc2VydC5kZWVwRXF1YWwoc2VhcmNoKFsyXSwgMiksIDApOwphc3NlcnQuZGVlcEVxdWFsKHNlYXJjaChbMSwgMl0sIDIpLCAxKTsKYXNzZXJ0LmRlZXBFcXVhbChzZWFyY2goWzUsIDMsIDQsIDIsIDFdLCAyKSwgMyk7Cg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -415,34 +414,34 @@
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaW5uZXJDb250YWluZXIuc2Nyb2xsVG9wICk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0EnKTsK</text>
+        <text encoding="base64">Y29uc3QgYXNzZXJ0ID0gcmVxdWlyZSgnYXNzZXJ0Jyk7Cgpjb25zdCBzZWFyY2ggPSAoaW5wdXRMaXN0LCB2KSA9PiB7CiAgZm9yIChsZXQgaSA9IDA7IGkgPCBpbnB1dExpc3QubGVuZ3RoOyBpKyspIHsKICAgIGxldCBjdXJyZW50SXRlbSA9IGlucHV0TGlzdFtpXTsKICAgIGlmIChjdXJyZW50SXRlbSA9PT0gdikgcmV0dXJuIGk7CiAgfQoKICByZXR1cm4gbnVsbDsKfTsKCmFzc2VydC5kZWVwRXF1YWwoc2VhcmNoKFtdLCAxKSwgbnVsbCk7CmFzc2VydC5kZWVwRXF1YWwoc2VhcmNoKFsyXSwgMiksIDApOwphc3NlcnQuZGVlcEVxdWFsKHNlYXJjaChbMSwgMl0sIDIpLCAxKTsKYXNzZXJ0LmRlZXBFcXVhbChzZWFyY2goWzUsIDMsIDQsIDIsIDFdLCAyKSwgMyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGl0ZW1EaW1lbnNpb25zLmVuZCwgYm90dG9tKTsKICAgIGNvbnNvbGUubG9nKGl0ZW1EaW1lbnNpb25zLmVuZCwgdG9wKTsKICAgIGNvbnNvbGUubG9nKGl0ZW1EaW1lbnNpb25zLmJlZ2luLCBib3R0b20pOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0EnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc2Nyb2xsVG9wKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGl0ZW1EaW1lbnNpb25zLmVuZCwgYm90dG9tKTsKICAgIGNvbnNvbGUubG9nKGl0ZW1EaW1lbnNpb25zLmVuZCwgdG9wKTsKICAgIGNvbnNvbGUubG9nKGl0ZW1EaW1lbnNpb25zLmJlZ2luLCBib3R0b20pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGlubmVyQ29udGFpbmVyLnNjcm9sbFRvcCApOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaW5uZXJDb250YWluZXIuc2Nyb2xsVG9wICk7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc2Nyb2xsVG9wKTsK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGlubmVyQ29udGFpbmVyLnNjcm9sbFRvcCApOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaW5uZXJDb250YWluZXIuc2Nyb2xsVG9wICk7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc2Nyb2xsVG9wKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBNYXRoLmZsb29yKCh2aXNpYmxlTGlzdEhlaWdodCAtIGl0ZW1EaW1lbnNpb25zLnNpemUpICogSEFMRik7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaXRlbURpbWVuc2lvbnMuYmVnaW4gPiBib3R0b20K</text>
+        <text encoding="base64">ICAgICAgICBNYXRoLmZsb29yKCh2aXNpYmxlTGlzdEhlaWdodCAtIGl0ZW1EaW1lbnNpb25zLnNpemUpICogSEFMRik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
