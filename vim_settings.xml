@@ -19,13 +19,13 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/_reports/charts/ganttChart.js" timestamp="1496672716312">
         <mark key="'" line="504" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.test.js" timestamp="1497007416010">
+      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.test.js" timestamp="1497010928874">
         <mark key="a" line="139" column="0" />
-        <mark key="'" line="277" column="7" />
-        <mark key="[" line="427" column="36" />
-        <mark key="]" line="427" column="37" />
-        <mark key="." line="427" column="37" />
-        <mark key="^" line="427" column="37" />
+        <mark key="'" line="431" column="8" />
+        <mark key="[" line="229" column="6" />
+        <mark key="]" line="229" column="10" />
+        <mark key="." line="229" column="10" />
+        <mark key="^" line="229" column="10" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select/select.js" timestamp="1496827203051">
         <mark key="'" line="0" column="0" />
@@ -166,12 +166,12 @@
         <mark key="^" line="53" column="9" />
         <mark key="." line="53" column="9" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.js" timestamp="1497007309421">
+      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.js" timestamp="1497010700690">
         <mark key="'" line="127" column="3" />
-        <mark key="[" line="419" column="14" />
-        <mark key="]" line="419" column="21" />
-        <mark key="^" line="419" column="21" />
-        <mark key="." line="419" column="21" />
+        <mark key="[" line="435" column="85" />
+        <mark key="]" line="435" column="89" />
+        <mark key="^" line="435" column="89" />
+        <mark key="." line="435" column="89" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/_reports/types/burndown/editBurndown.js" timestamp="1496735456329">
         <mark key="'" line="13" column="6" />
@@ -297,9 +297,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="268" column="15" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.test.js" />
-      <jump line="385" column="32" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.test.js" />
-      <jump line="53" column="15" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.test.js" />
       <jump line="62" column="15" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.test.js" />
       <jump line="199" column="43" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.test.js" />
       <jump line="432" column="73" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.js" />
@@ -383,7 +380,6 @@
       <jump line="430" column="6" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.js" />
       <jump line="411" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.test.js" />
       <jump line="420" column="6" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.test.js" />
-      <jump line="395" column="10" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.test.js" />
       <jump line="374" column="10" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.test.js" />
       <jump line="188" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.test.js" />
       <jump line="154" column="45" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.test.js" />
@@ -397,61 +393,65 @@
       <jump line="157" column="4" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.js" />
       <jump line="73" column="4" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.js" />
       <jump line="127" column="3" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.js" />
+      <jump line="459" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.test.js" />
+      <jump line="395" column="89" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.test.js" />
+      <jump line="414" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.test.js" />
+      <jump line="431" column="8" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.test.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>data.length - COUNT_HIDDEN_ITEMS;</text>
+        <text>end</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>data.length - COUNT_HIDDEN_ITEMS;</text>
+        <text>end</text>
       </register>
       <register name="/" type="4">
-        <text>bufferSize</text>
+        <text>scroll</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgaXQoJ3Nob3VsZCBzZXQgbGFzdCBpdGVtIGFzIHN0b3BJbmRleCBpZiBjb3VudCBoaWRkZW4gaXRlbXMgbGVzcyB0aGVuIGJ1ZmZlciBzaXplJywgKCkgPT4gewogICAgICAgIGNvbnN0IGRhdGEgPSBbCiAgICAgICAgICBjcmVhdGVJdGVtTW9jayhMaXN0Lkxpc3RQcm9wcy5UeXBlLklURU0pLAogICAgICAgICAgY3JlYXRlSXRlbU1vY2soTGlzdC5MaXN0UHJvcHMuVHlwZS5JVEVNKSwKICAgICAgICAgIGNyZWF0ZUl0ZW1Nb2NrKExpc3QuTGlzdFByb3BzLlR5cGUuSVRFTSksCiAgICAgICAgICBjcmVhdGVJdGVtTW9jayhMaXN0Lkxpc3RQcm9wcy5UeXBlLklURU0pCiAgICAgICAgXTsKCiAgICAgICAgY29uc3QgQ09VTlRfSElEREVOX0lURU1TID0gMjsKICAgICAgICBjb25zdCBDT1VOVF9WSVNJQkxFX0lURU1TID0gZGF0YS5sZW5ndGggLSBDT1VOVF9ISURERU5fSVRFTVM7CiAgICAgICAgY29uc3QgbWF4SGVpZ2h0ID0gZ2V0VmlzaWJsZUZyYW1lTWF4SGVpZ2h0KENPVU5UX1ZJU0lCTEVfSVRFTVMpOwoKICAgICAgICBzdHViSW5uZXJDb250YWluZXIobGlzdCk7CiAgICAgICAgc2Nyb2xsUG9zaXRpb24obGlzdCwgMCk7CgogICAgICAgIGNvbnN0IHZpc2libGVPcHRpb25zID0gbGlzdC5jYWxjdWxhdGVWaXNpYmxlT3B0aW9ucyh7bWF4SGVpZ2h0fSwKICAgICAgICAgIGxpc3QuY2FsY3VsYXRlSXRlbXNTaXplKGRhdGEpKTsKCiAgICAgICAgZXhwZWN0KHZpc2libGVPcHRpb25zLnN0b3BJbmRleCkudG8uZXF1YWwoZGF0YS5sZW5ndGggLSAxKTsKICAgICAgfSk7Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">aXRlbURpbWVuc2lvbnMuYmVnaW4gPiBib3R0b20=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBDT1VOVF9ISURERU5fSVRFTVMgPSAyOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgc2Nyb2xsVG9wID0gaXRlbURpbWVuc2lvbnMuYmVnaW4gLQogICAgICAgIE1hdGguZmxvb3IoKHZpc2libGVMaXN0SGVpZ2h0IC0gaXRlbURpbWVuc2lvbnMuc2l6ZSkgKiBIQUxGKTsKICAgICAgaW5uZXJDb250YWluZXIuc2Nyb2xsVG9wID0gc2Nyb2xsVG9wID4gMCA/IHNjcm9sbFRvcCA6IDA7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaXRlbURpbWVuc2lvbnMuYmVnaW4gPiBib3R0b20K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0EnKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNyZWF0ZUl0ZW1Nb2NrKExpc3QuTGlzdFByb3BzLlR5cGUuSVRFTSksCiAgICAgICAgICBjcmVhdGVJdGVtTW9jayhMaXN0Lkxpc3RQcm9wcy5UeXBlLklURU0pLAogICAgICAgICAgY3JlYXRlSXRlbU1vY2soTGlzdC5MaXN0UHJvcHMuVHlwZS5JVEVNKSwKICAgICAgICAgIGNyZWF0ZUl0ZW1Nb2NrKExpc3QuTGlzdFByb3BzLlR5cGUuSVRFTSkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGl0ZW1EaW1lbnNpb25zLmVuZCwgYm90dG9tKTsKICAgIGNvbnNvbGUubG9nKGl0ZW1EaW1lbnNpb25zLmVuZCwgdG9wKTsKICAgIGNvbnNvbGUubG9nKGl0ZW1EaW1lbnNpb25zLmJlZ2luLCBib3R0b20pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBDT1VOVF9ISURERU5fSVRFTVMgPSAyOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJz4+Jyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QodmlzaWJsZU9wdGlvbnMucGFkZGluZ1RvcCkudG8uZXF1YWwoMCk7CiAgICAgICAgZXhwZWN0KHZpc2libGVPcHRpb25zLnBhZGRpbmdCb3R0b20pLnRvLmVxdWFsKERpbWVuc2lvbi5JVEVNX0hFSUdIVCk7CiAgICAgICAgZXhwZWN0KHZpc2libGVPcHRpb25zLnN0YXJ0SW5kZXgpLnRvLmVxdWFsKDApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaXQoJ3Nob3VsZCBjYWxjdWxhdGUgaGVpZ2h0IG9mIHVucmVuZGVyZWQgYWJvdmUgaXRlbXMnLCAoKSA9PiB7CiAgICAgICAgY29uc3QgZGF0YSA9IChuZXcgQXJyYXkobGlzdC5fYnVmZmVyU2l6ZSAqIDMpKS5qb2luKCcsJykuCiAgICAgICAgICBzcGxpdCgnLCcpLgogICAgICAgICAgbWFwKGNyZWF0ZUl0ZW1Nb2NrLmJpbmQobnVsbCwgTGlzdC5MaXN0UHJvcHMuVHlwZS5JVEVNKSk7CgogICAgICAgIGNvbnN0IENPVU5UX1ZJU0lCTEVfSVRFTVMgPSAyOwogICAgICAgIGNvbnN0IG1heEhlaWdodCA9IGdldFZpc2libGVGcmFtZU1heEhlaWdodChDT1VOVF9WSVNJQkxFX0lURU1TKTsKICAgICAgICBjb25zdCBleHBlY3RlZFN0YXJ0SW5kZXggPSAoZGF0YS5sZW5ndGggLSAoQ09VTlRfVklTSUJMRV9JVEVNUykpIC0gbGlzdC5fYnVmZmVyU2l6ZTsKCiAgICAgICAgc3R1YklubmVyQ29udGFpbmVyKGxpc3QpOwogICAgICAgIHNjcm9sbFBvc2l0aW9uKGxpc3QsIGdldEl0ZW1EaW1lbnNpb24oZGF0YS5sZW5ndGggLSAoQ09VTlRfVklTSUJMRV9JVEVNUyArIDEpLCBkYXRhKS5lbmQpOwoKICAgICAgICBjb25zdCB2aXNpYmxlT3B0aW9ucyA9IGxpc3QuY2FsY3VsYXRlVmlzaWJsZU9wdGlvbnMoe21heEhlaWdodH0sCiAgICAgICAgICBsaXN0LmNhbGN1bGF0ZUl0ZW1zU2l6ZShkYXRhKSk7CgogICAgICAgIGV4cGVjdCh2aXNpYmxlT3B0aW9ucy5wYWRkaW5nVG9wKS50by5lcXVhbCgKICAgICAgICAgIGdldEl0ZW1EaW1lbnNpb24oZXhwZWN0ZWRTdGFydEluZGV4LCBkYXRhKS5iZWdpbiAtIERpbWVuc2lvbi5NQVJHSU4KICAgICAgICApOwogICAgICAgIGV4cGVjdCh2aXNpYmxlT3B0aW9ucy5wYWRkaW5nQm90dG9tKS50by5lcXVhbCgwKTsKICAgICAgfSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHNjcm9sbFRvcCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBmdWxsTGlzdEhlaWdodCA9IGNhY2hlZFNpemVzW2NhY2hlZFNpemVzLmxlbmd0aCAtIDFdLmVuZDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>bufferSize</last-search>
+      <last-search>scroll</last-search>
       <last-offset />
-      <last-pattern>bufferSize</last-pattern>
+      <last-pattern>scroll</last-pattern>
       <last-replace>#444</last-replace>
       <last-substitute>$ring-palette-grey-text</last-substitute>
       <last-dir>1</last-dir>
@@ -459,9 +459,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdHViSW5uZXJDb250YWluZXJcPg==</entry>
-        <entry encoding="base64">XDxzY3JvbGxQb3NpdGlvblw+</entry>
-        <entry encoding="base64">XDxtYXhIZWlnaHRcPg==</entry>
         <entry>maxHei</entry>
         <entry>getMax</entry>
         <entry encoding="base64">XDxnZXRJdGVtRGltZW5zaW9uXD4=</entry>
@@ -479,6 +476,9 @@
         <entry>const</entry>
         <entry>constructor</entry>
         <entry>bufferSize</entry>
+        <entry>no scroll</entry>
+        <entry>scrollToActive</entry>
+        <entry>scroll</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>
