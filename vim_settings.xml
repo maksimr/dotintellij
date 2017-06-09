@@ -19,12 +19,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/_reports/charts/ganttChart.js" timestamp="1496672716312">
         <mark key="'" line="504" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.test.js" timestamp="1496930832717">
-        <mark key="'" line="199" column="43" />
-        <mark key="[" line="102" column="37" />
-        <mark key="]" line="102" column="36" />
-        <mark key="^" line="102" column="36" />
-        <mark key="." line="102" column="36" />
+      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.test.js" timestamp="1496995259619">
+        <mark key="'" line="379" column="0" />
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="12" />
+        <mark key="^" line="12" column="12" />
+        <mark key="." line="12" column="12" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select/select.js" timestamp="1496827203051">
         <mark key="'" line="0" column="0" />
@@ -296,8 +296,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="230" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.js" />
-      <jump line="144" column="6" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.js" />
       <jump line="380" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.js" />
       <jump line="477" column="9" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.js" />
       <jump line="371" column="68" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.js" />
@@ -396,19 +394,21 @@
       <jump line="560" column="20" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.js" />
       <jump line="522" column="32" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.js" />
       <jump line="488" column="12" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.js" />
+      <jump line="102" column="2" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.test.js" />
+      <jump line="379" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.test.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>height</text>
+        <text>.only</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>height</text>
+        <text>.only</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbm5lclw+</text>
+        <text>only</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLnByb3BzLm1heEhlaWdodCAtIERpbWVuc2lvbi5JVEVNX0hFSUdIVCAtIERpbWVuc2lvbi5JTk5FUl9QQURESU5HOwo=</text>
@@ -448,17 +448,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbm5lclw+</last-search>
+      <last-search>only</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbm5lclw+</last-pattern>
+      <last-pattern>only</last-pattern>
       <last-replace>#444</last-replace>
       <last-substitute>$ring-palette-grey-text</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>called</entry>
         <entry>reprot</entry>
         <entry>repor</entry>
         <entry>not</entry>
@@ -478,6 +477,7 @@
         <entry>height</entry>
         <entry encoding="base64">XDxpbm5lclJlZlw+</entry>
         <entry encoding="base64">XDxpbm5lclw+</entry>
+        <entry>only</entry>
       </history-search>
       <history-cmd>
         <entry>14</entry>
