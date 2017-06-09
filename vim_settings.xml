@@ -19,13 +19,13 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/_reports/charts/ganttChart.js" timestamp="1496672716312">
         <mark key="'" line="504" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.test.js" timestamp="1497006671467">
+      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.test.js" timestamp="1497007416010">
         <mark key="a" line="139" column="0" />
         <mark key="'" line="277" column="7" />
-        <mark key="[" line="437" column="0" />
-        <mark key="]" line="437" column="0" />
-        <mark key="." line="437" column="0" />
-        <mark key="^" line="419" column="86" />
+        <mark key="[" line="427" column="36" />
+        <mark key="]" line="427" column="37" />
+        <mark key="." line="427" column="37" />
+        <mark key="^" line="427" column="37" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select/select.js" timestamp="1496827203051">
         <mark key="'" line="0" column="0" />
@@ -166,12 +166,12 @@
         <mark key="^" line="53" column="9" />
         <mark key="." line="53" column="9" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.js" timestamp="1497006836732">
+      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.js" timestamp="1497007309421">
         <mark key="'" line="127" column="3" />
-        <mark key="[" line="408" column="40" />
-        <mark key="]" line="408" column="40" />
-        <mark key="^" line="408" column="38" />
-        <mark key="." line="408" column="40" />
+        <mark key="[" line="419" column="14" />
+        <mark key="]" line="419" column="21" />
+        <mark key="^" line="419" column="21" />
+        <mark key="." line="419" column="21" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/_reports/types/burndown/editBurndown.js" timestamp="1496735456329">
         <mark key="'" line="13" column="6" />
@@ -400,22 +400,22 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IC8vIGtlZXAgWCBpdGVtcyBhYm92ZSBhbmQgYmVsb3cgb2YgdGhlIHZpc2libGUgYXJlYQ==</text>
+        <text>data.length - COUNT_HIDDEN_ITEMS;</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC8vIGtlZXAgWCBpdGVtcyBhYm92ZSBhbmQgYmVsb3cgb2YgdGhlIHZpc2libGUgYXJlYQ==</text>
+        <text>data.length - COUNT_HIDDEN_ITEMS;</text>
       </register>
       <register name="/" type="4">
         <text>bufferSize</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGJ1ZmZlclNpemUgPSAxMDsgLy8ga2VlcCBYIGl0ZW1zIGFib3ZlIGFuZCBiZWxvdyBvZiB0aGUgdmlzaWJsZSBhcmVhCg==</text>
+        <text encoding="base64">ICAgICAgaXQoJ3Nob3VsZCBzZXQgbGFzdCBpdGVtIGFzIHN0b3BJbmRleCBpZiBjb3VudCBoaWRkZW4gaXRlbXMgbGVzcyB0aGVuIGJ1ZmZlciBzaXplJywgKCkgPT4gewogICAgICAgIGNvbnN0IGRhdGEgPSBbCiAgICAgICAgICBjcmVhdGVJdGVtTW9jayhMaXN0Lkxpc3RQcm9wcy5UeXBlLklURU0pLAogICAgICAgICAgY3JlYXRlSXRlbU1vY2soTGlzdC5MaXN0UHJvcHMuVHlwZS5JVEVNKSwKICAgICAgICAgIGNyZWF0ZUl0ZW1Nb2NrKExpc3QuTGlzdFByb3BzLlR5cGUuSVRFTSksCiAgICAgICAgICBjcmVhdGVJdGVtTW9jayhMaXN0Lkxpc3RQcm9wcy5UeXBlLklURU0pCiAgICAgICAgXTsKCiAgICAgICAgY29uc3QgQ09VTlRfSElEREVOX0lURU1TID0gMjsKICAgICAgICBjb25zdCBDT1VOVF9WSVNJQkxFX0lURU1TID0gZGF0YS5sZW5ndGggLSBDT1VOVF9ISURERU5fSVRFTVM7CiAgICAgICAgY29uc3QgbWF4SGVpZ2h0ID0gZ2V0VmlzaWJsZUZyYW1lTWF4SGVpZ2h0KENPVU5UX1ZJU0lCTEVfSVRFTVMpOwoKICAgICAgICBzdHViSW5uZXJDb250YWluZXIobGlzdCk7CiAgICAgICAgc2Nyb2xsUG9zaXRpb24obGlzdCwgMCk7CgogICAgICAgIGNvbnN0IHZpc2libGVPcHRpb25zID0gbGlzdC5jYWxjdWxhdGVWaXNpYmxlT3B0aW9ucyh7bWF4SGVpZ2h0fSwKICAgICAgICAgIGxpc3QuY2FsY3VsYXRlSXRlbXNTaXplKGRhdGEpKTsKCiAgICAgICAgZXhwZWN0KHZpc2libGVPcHRpb25zLnN0b3BJbmRleCkudG8uZXF1YWwoZGF0YS5sZW5ndGggLSAxKTsKICAgICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QodmlzaWJsZU9wdGlvbnMucGFkZGluZ1RvcCkudG8uZXF1YWwoMCk7CiAgICAgICAgZXhwZWN0KHZpc2libGVPcHRpb25zLnBhZGRpbmdCb3R0b20pLnRvLmVxdWFsKERpbWVuc2lvbi5JVEVNX0hFSUdIVCk7CiAgICAgICAgZXhwZWN0KHZpc2libGVPcHRpb25zLnN0YXJ0SW5kZXgpLnRvLmVxdWFsKDApOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBDT1VOVF9ISURERU5fSVRFTVMgPSAyOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -427,22 +427,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBmdWxsTGlzdEhlaWdodCA9IGNhY2hlZFNpemVzW2NhY2hlZFNpemVzLmxlbmd0aCAtIDFdLmVuZDsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNyZWF0ZUl0ZW1Nb2NrKExpc3QuTGlzdFByb3BzLlR5cGUuSVRFTSksCiAgICAgICAgICBjcmVhdGVJdGVtTW9jayhMaXN0Lkxpc3RQcm9wcy5UeXBlLklURU0pLAogICAgICAgICAgY3JlYXRlSXRlbU1vY2soTGlzdC5MaXN0UHJvcHMuVHlwZS5JVEVNKSwKICAgICAgICAgIGNyZWF0ZUl0ZW1Nb2NrKExpc3QuTGlzdFByb3BzLlR5cGUuSVRFTSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpLCBzdG9wSW5kZXgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBDT1VOVF9ISURERU5fSVRFTVMgPSAyOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHN0b3BJbmRleCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBleHBlY3QodmlzaWJsZU9wdGlvbnMucGFkZGluZ1RvcCkudG8uZXF1YWwoMCk7CiAgICAgICAgZXhwZWN0KHZpc2libGVPcHRpb25zLnBhZGRpbmdCb3R0b20pLnRvLmVxdWFsKERpbWVuc2lvbi5JVEVNX0hFSUdIVCk7CiAgICAgICAgZXhwZWN0KHZpc2libGVPcHRpb25zLnN0YXJ0SW5kZXgpLnRvLmVxdWFsKDApOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJz4+PicpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY2FjaGVkU2l6ZUl0ZW0uZW5kLCAoc2Nyb2xsVG9wICsgdmlzaWJsZUxpc3RIZWlnaHQpKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBmdWxsTGlzdEhlaWdodCA9IGNhY2hlZFNpemVzW2NhY2hlZFNpemVzLmxlbmd0aCAtIDFdLmVuZDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
