@@ -19,12 +19,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/_reports/charts/ganttChart.js" timestamp="1496672716312">
         <mark key="'" line="504" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.test.js" timestamp="1496995259619">
-        <mark key="'" line="379" column="0" />
-        <mark key="[" line="12" column="8" />
-        <mark key="]" line="12" column="12" />
-        <mark key="^" line="12" column="12" />
-        <mark key="." line="12" column="12" />
+      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.test.js" timestamp="1496996261414">
+        <mark key="'" line="393" column="0" />
+        <mark key="[" line="108" column="82" />
+        <mark key="]" line="108" column="82" />
+        <mark key="." line="108" column="82" />
+        <mark key="^" line="108" column="82" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select/select.js" timestamp="1496827203051">
         <mark key="'" line="0" column="0" />
@@ -165,12 +165,12 @@
         <mark key="^" line="53" column="9" />
         <mark key="." line="53" column="9" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.js" timestamp="1496937606442">
-        <mark key="'" line="488" column="12" />
-        <mark key="[" line="390" column="10" />
-        <mark key="]" line="390" column="26" />
-        <mark key="." line="390" column="26" />
-        <mark key="^" line="390" column="26" />
+      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.js" timestamp="1496996255605">
+        <mark key="'" line="491" column="12" />
+        <mark key="[" line="520" column="63" />
+        <mark key="]" line="520" column="75" />
+        <mark key="." line="413" column="5" />
+        <mark key="^" line="413" column="5" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/_reports/types/burndown/editBurndown.js" timestamp="1496735456329">
         <mark key="'" line="13" column="6" />
@@ -399,49 +399,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.only</text>
+        <text>PADDING</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>.only</text>
+        <text>PADDING</text>
       </register>
       <register name="/" type="4">
         <text>only</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnByb3BzLm1heEhlaWdodCAtIERpbWVuc2lvbi5JVEVNX0hFSUdIVCAtIERpbWVuc2lvbi5JTk5FUl9QQURESU5HOwo=</text>
+      <register name="0" type="4">
+        <text>INNER_PADDING</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXhIZWlnaHQ6IDQwCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByb3BzLm1heEhlaWdodCAtIERpbWVuc2lvbi5JVEVNX0hFSUdIVCAtIERpbWVuc2lvbi5JTk5FUl9QQURESU5HOwo=</text>
+        <text encoding="base64">ICAgICAgLy8gICAgICAgIF9fX19fXyB0b3AgZWRnZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByb3BzLm1heEhlaWdodCAtIERpbWVuc2lvbi5JVEVNX0hFSUdIVCAtIERpbWVuc2lvbi5JTk5FUl9QQURESU5HOwo=</text>
+        <text encoding="base64">ICAgICAgLy8gfAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcHJvcHMubWF4SGVpZ2h0IC0gRGltZW5zaW9uLklURU1fSEVJR0hUIC0gRGltZW5zaW9uLklOTkVSX1BBRERJTkc7Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gfAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnByb3BzLm1heEhlaWdodCAtIERpbWVuc2lvbi5JVEVNX0hFSUdIVCAtIERpbWVuc2lvbi5JTk5FUl9QQURESU5HOwo=</text>
+        <text encoding="base64">ICAgICAgLy8KICAgICAgLy8KICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdoZWlnaHQnLCBoZWlnaHQsICdtYXhIZWlnaHQnLCBwcm9wcy5tYXhIZWlnaHQpOwo=</text>
+        <text encoding="base64">ICAgIHByb3BzLm1heEhlaWdodCAtIERpbWVuc2lvbi5JVEVNX0hFSUdIVCAtIERpbWVuc2lvbi5JTk5FUl9QQURESU5HOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb3BzLm1heEhlaWdodCAtIERpbWVuc2lvbi5JVEVNX0hFSUdIVCAtIERpbWVuc2lvbi5JTk5FUl9QQURESU5HOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcHJvcHMubWF4SGVpZ2h0IC0gRGltZW5zaW9uLklURU1fSEVJR0hUIC0gRGltZW5zaW9uLklOTkVSX1BBRERJTkc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
