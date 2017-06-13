@@ -9,6 +9,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/_reports/charts/ganttChart.js" timestamp="1496672716312">
         <mark key="'" line="504" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/profile/test/e2e/user-profile.spec.js" timestamp="1497373259312">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1497361490835">
         <mark key="'" line="125" column="68" />
         <mark key="[" line="58" column="0" />
@@ -203,6 +209,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-sprint-settings.js" timestamp="1496741111575">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/agile-board-resolver.js" timestamp="1497356492834">
+        <mark key="'" line="24" column="8" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" timestamp="1496759447498">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="91" column="53" />
@@ -288,7 +300,6 @@
         <mark key="." line="14" column="32" />
         <mark key="^" line="14" column="32" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/common-rest.js" timestamp="1497360966043" />
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/search-query-panel/directive/search-query-panel.js" timestamp="1497365456067">
         <mark key="'" line="129" column="0" />
         <mark key="[" line="99" column="42" />
@@ -439,7 +450,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="260" column="41" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/e2e/agile-board.spec.js" />
       <jump line="13" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/e2e/agile-board.spec.js" />
       <jump line="77" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/e2e/agile-board.spec.js" />
       <jump line="484" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/e2e/agile-board.spec.js" />
@@ -539,10 +549,11 @@
       <jump line="197" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-create.js" />
       <jump line="147" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-create.js" />
       <jump line="280" column="35" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-create.js" />
+      <jump line="37" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/profile/test/e2e/user-profile.spec.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>isNew=kanban</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dmFyIGUyZVRlc3RVdGlscyA9IHJlcXVpcmUoJy4uLy4uLy4uLy4uLy4uL3Rlc3QvZTJlL2UyZS10ZXN0LXV0aWxzJyk7Cg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -557,34 +568,34 @@
         <text encoding="base64">ICAgICAgd2FpdENoYW5nZUluVXJsKC9pc05ldz1rYW5iYW4vKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHEucmVzb2x2ZSh5b3VUcmFja1Byb2plY3QpOwo=</text>
+        <text encoding="base64">dmFyIGUyZVRlc3RVdGlscyA9IHJlcXVpcmUoJy4uLy4uLy4uLy4uLy4uL3Rlc3QvZTJlL2UyZS10ZXN0LXV0aWxzJyk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+JykKICAgICAgICBjb25zb2xlLmxvZygnPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+JykKICAgICAgICBjb25zb2xlLmxvZyh5b3VUcmFja1Byb2plY3QuaWQsIHByb2plY3QudGVtcGxhdGUpCiAgICAgICAgY29uc29sZS5sb2coJz4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+PicpCiAgICAgICAgY29uc29sZS5sb2coJz4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+PicpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHEucmVzb2x2ZSh5b3VUcmFja1Byb2plY3QpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnISEhISEhISEhISEhISEhISEhISEhISEhISEhJykKICAgICAgICBjb25zb2xlLmxvZygnISEhISEhISEhISEhISEhISEhISEhISEhISEhJykKICAgICAgICBjb25zb2xlLmVycm9yKGVycm9yKQogICAgICAgIGNvbnNvbGUubG9nKCchISEhISEhISEhISEhISEhISEhISEhISEhISEnKQogICAgICAgIGNvbnNvbGUubG9nKCchISEhISEhISEhISEhISEhISEhISEhISEhISEnKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+JykKICAgICAgICBjb25zb2xlLmxvZygnPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+JykKICAgICAgICBjb25zb2xlLmxvZyh5b3VUcmFja1Byb2plY3QuaWQsIHByb2plY3QudGVtcGxhdGUpCiAgICAgICAgY29uc29sZS5sb2coJz4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+PicpCiAgICAgICAgY29uc29sZS5sb2coJz4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+PicpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+JykKICAgICAgICBjb25zb2xlLmxvZygnPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+JykK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnISEhISEhISEhISEhISEhISEhISEhISEhISEhJykKICAgICAgICBjb25zb2xlLmxvZygnISEhISEhISEhISEhISEhISEhISEhISEhISEhJykKICAgICAgICBjb25zb2xlLmVycm9yKGVycm9yKQogICAgICAgIGNvbnNvbGUubG9nKCchISEhISEhISEhISEhISEhISEhISEhISEhISEnKQogICAgICAgIGNvbnNvbGUubG9nKCchISEhISEhISEhISEhISEhISEhISEhISEhISEnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+JykK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+JykKICAgICAgICBjb25zb2xlLmxvZygnPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+JykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnISEhISEhISEhISEhISEhISEhISEhISEhISEhJykKICAgICAgICBjb25zb2xlLmxvZygnPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+JykK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+JykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBFcnJvcignQkJCQkJCQkJCQkJCQkJCQkJCQkJCJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnISEhISEhISEhISEhISEhISEhISEhISEhISEhJykKICAgICAgICBjb25zb2xlLmxvZygnPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+JykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBFcnJvcignQUFBQUFBQUFBQUFBQUFBQUFBQUEnKTsK</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBFcnJvcignQkJCQkJCQkJCQkJCQkJCQkJCQkJCJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBFcnJvcignQUFBQUFBQUFBQUFBQUFBQUFBQUEnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
