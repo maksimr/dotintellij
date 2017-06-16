@@ -74,8 +74,8 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="42" column="26" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1497527853902">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1497621072708">
+        <mark key="'" line="151" column="144" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/report-base/test/report-base.js" timestamp="1497449322774">
         <mark key="'" line="0" column="20" />
@@ -1031,12 +1031,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/form/style/input-group.scss" timestamp="1497531904067">
         <mark key="'" line="114" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-hub/dashboard/widgets/youtrack-report/youtrack-report.js" timestamp="1497619061214">
-        <mark key="'" line="76" column="0" />
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="98" column="148" />
-        <mark key="." line="76" column="35" />
-        <mark key="^" line="76" column="35" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-hub/dashboard/widgets/youtrack-report/youtrack-report.js" timestamp="1497621082747">
+        <mark key="'" line="96" column="0" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+        <mark key="^" line="75" column="35" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/_reports/charts/_charts.scss" timestamp="1497604414607">
         <mark key="[" line="0" column="28" />
@@ -1059,10 +1059,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11890" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
-      <jump line="19932" column="43" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
-      <jump line="32113" column="3" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
-      <jump line="6952" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
       <jump line="6966" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
       <jump line="6970" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
       <jump line="6982" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
@@ -1159,10 +1155,14 @@
       <jump line="289" column="49" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-hub/dashboard/widgets/youtrack-report/youtrack-report.js" />
       <jump line="25" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-hub/dashboard/widgets/youtrack-report/youtrack-report.js" />
       <jump line="76" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-hub/dashboard/widgets/youtrack-report/youtrack-report.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="14" column="47" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="151" column="144" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="96" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-hub/dashboard/widgets/youtrack-report/youtrack-report.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cmVxdWlyZSgnIW5ndGVtcGxhdGUtbG9hZGVyP21vZHVsZT13aWRnZXQueW91dHJhY2tEYXNoYm9hcmQucmVwb3J0JnJlbGF0aXZlVG89L3dpZGdldHMveW91dHJhY2stcmVwb3J0LyFodG1sLWxvYWRlciEuL3lvdXRyYWNrLXJlcG9ydF9faW50ZXJ2YWwtd2lkZ2V0L3lvdXRyYWNrLXJlcG9ydF9faW50ZXJ2YWwtd2lkZ2V0Lmh0bWwnKTsKcmVxdWlyZSgnIW5ndGVtcGxhdGUtbG9hZGVyP21vZHVsZT13aWRnZXQueW91dHJhY2tEYXNoYm9hcmQucmVwb3J0JnJlbGF0aXZlVG89L3dpZGdldHMveW91dHJhY2stcmVwb3J0LyFodG1sLWxvYWRlciEuL3lvdXRyYWNrLXJlcG9ydF9fcmF0ZS13aWRnZXQveW91dHJhY2stcmVwb3J0X19yYXRlLXdpZGdldC5odG1sJyk7CnJlcXVpcmUoJyFuZ3RlbXBsYXRlLWxvYWRlcj9tb2R1bGU9d2lkZ2V0LnlvdXRyYWNrRGFzaGJvYXJkLnJlcG9ydCZyZWxhdGl2ZVRvPS93aWRnZXRzL3lvdXRyYWNrLXJlcG9ydC8haHRtbC1sb2FkZXIhLi95b3V0cmFjay1yZXBvcnRfX3NpbXBsZS1iYXJzLXdpZGdldC95b3V0cmFjay1yZXBvcnRfX3NpbXBsZS1iYXJzLXdpZGdldC1keW5hbWljLXRpdGxlLmh0bWwnKTsKcmVxdWlyZSgnIW5ndGVtcGxhdGUtbG9hZGVyP21vZHVsZT13aWRnZXQueW91dHJhY2tEYXNoYm9hcmQucmVwb3J0JnJlbGF0aXZlVG89L3dpZGdldHMveW91dHJhY2stcmVwb3J0LyFodG1sLWxvYWRlciEuL3lvdXRyYWNrLXJlcG9ydF9fc2ltcGxlLWJhcnMtd2lkZ2V0L3lvdXRyYWNrLXJlcG9ydF9fc2ltcGxlLWJhcnMtd2lkZ2V0LXN0YXRpYy10aXRsZS5odG1sJyk7CnJlcXVpcmUoJyFuZ3RlbXBsYXRlLWxvYWRlcj9tb2R1bGU9d2lkZ2V0LnlvdXRyYWNrRGFzaGJvYXJkLnJlcG9ydCZyZWxhdGl2ZVRvPS93aWRnZXRzL3lvdXRyYWNrLXJlcG9ydC8haHRtbC1sb2FkZXIhLi95b3V0cmFjay1yZXBvcnRfX3NpbXBsZS1iYXJzLXdpZGdldC95b3V0cmFjay1yZXBvcnRfX3NpbXBsZS1iYXJzLXdpZGdldC5odG1sJyk7CnJlcXVpcmUoJyFuZ3RlbXBsYXRlLWxvYWRlcj9tb2R1bGU9d2lkZ2V0LnlvdXRyYWNrRGFzaGJvYXJkLnJlcG9ydCZyZWxhdGl2ZVRvPS93aWRnZXRzL3lvdXRyYWNrLXJlcG9ydC8haHRtbC1sb2FkZXIhLi95b3V0cmFjay1yZXBvcnRfX2F2ZXJhZ2UtYWdlL3lvdXRyYWNrLXJlcG9ydF9fYXZlcmFnZS1hZ2UuaHRtbCcpOwpyZXF1aXJlKCchbmd0ZW1wbGF0ZS1sb2FkZXI/bW9kdWxlPXdpZGdldC55b3V0cmFja0Rhc2hib2FyZC5yZXBvcnQmcmVsYXRpdmVUbz0vd2lkZ2V0cy95b3V0cmFjay1yZXBvcnQvIWh0bWwtbG9hZGVyIS4veW91dHJhY2stcmVwb3J0X19idXJuZG93bi95b3V0cmFjay1yZXBvcnRfX2J1cm5kb3duLmh0bWwnKTsKcmVxdWlyZSgnIW5ndGVtcGxhdGUtbG9hZGVyP21vZHVsZT13aWRnZXQueW91dHJhY2tEYXNoYm9hcmQucmVwb3J0JnJlbGF0aXZlVG89L3dpZGdldHMveW91dHJhY2stcmVwb3J0LyFodG1sLWxvYWRlciEuL3lvdXRyYWNrLXJlcG9ydF9fY3VtdWxhdGl2ZS1mbG93L3lvdXRyYWNrLXJlcG9ydF9fY3VtdWxhdGl2ZS1mbG93Lmh0bWwnKTsKcmVxdWlyZSgnIW5ndGVtcGxhdGUtbG9hZGVyP21vZHVsZT13aWRnZXQueW91dHJhY2tEYXNoYm9hcmQucmVwb3J0JnJlbGF0aXZlVG89L3dpZGdldHMveW91dHJhY2stcmVwb3J0LyFodG1sLWxvYWRlciEuL3lvdXRyYWNrLXJlcG9ydF9fY3VzdG9tLWRpc3RyaWJ1dGlvbi95b3V0cmFjay1yZXBvcnRfX2N1c3RvbS1kaXN0cmlidXRpb24uaHRtbCcpOwpyZXF1aXJlKCchbmd0ZW1wbGF0ZS1sb2FkZXI/bW9kdWxlPXdpZGdldC55b3V0cmFja0Rhc2hib2FyZC5yZXBvcnQmcmVsYXRpdmVUbz0vd2lkZ2V0cy95b3V0cmFjay1yZXBvcnQvIWh0bWwtbG9hZGVyIS4veW91dHJhY2stcmVwb3J0X19ldmVudC10cmFuc2l0aW9uL3lvdXRyYWNrLXJlcG9ydF9fZXZlbnQtdHJhbnNpdGlvbi5odG1sJyk7CnJlcXVpcmUoJyFuZ3RlbXBsYXRlLWxvYWRlcj9tb2R1bGU9d2lkZ2V0LnlvdXRyYWNrRGFzaGJvYXJkLnJlcG9ydCZyZWxhdGl2ZVRvPS93aWRnZXRzL3lvdXRyYWNrLXJlcG9ydC8haHRtbC1sb2FkZXIhLi95b3V0cmFjay1yZXBvcnRfX2ZpeC1yYXRlL3lvdXRyYWNrLXJlcG9ydF9fZml4LXJhdGUuaHRtbCcpOwpyZXF1aXJlKCchbmd0ZW1wbGF0ZS1sb2FkZXI/bW9kdWxlPXdpZGdldC55b3V0cmFja0Rhc2hib2FyZC5yZXBvcnQmcmVsYXRpdmVUbz0vd2lkZ2V0cy95b3V0cmFjay1yZXBvcnQvIWh0bWwtbG9hZGVyIS4veW91dHJhY2stcmVwb3J0X19mbGF0LWRpc3RyaWJ1dGlvbi95b3V0cmFjay1yZXBvcnRfX2ZsYXQtZGlzdHJpYnV0aW9uLmh0bWwnKTsKcmVxdWlyZSgnIW5ndGVtcGxhdGUtbG9hZGVyP21vZHVsZT13aWRnZXQueW91dHJhY2tEYXNoYm9hcmQucmVwb3J0JnJlbGF0aXZlVG89L3dpZGdldHMveW91dHJhY2stcmVwb3J0LyFodG1sLWxvYWRlciEuL3lvdXRyYWNrLXJlcG9ydF9faXNzdWUtZGlzdHJpYnV0aW9uL3lvdXRyYWNrLXJlcG9ydF9faXNzdWUtZGlzdHJpYnV0aW9uLmh0bWwnKTsKcmVxdWlyZSgnIW5ndGVtcGxhdGUtbG9hZGVyP21vZHVsZT13aWRnZXQueW91dHJhY2tEYXNoYm9hcmQucmVwb3J0JnJlbGF0aXZlVG89L3dpZGdldHMveW91dHJhY2stcmVwb3J0LyFodG1sLWxvYWRlciEuL3lvdXRyYWNrLXJlcG9ydF9faXNzdWVzLXBlci1hc3NpZ25lZS95b3V0cmFjay1yZXBvcnRfX2lzc3Vlcy1wZXItYXNzaWduZWUuaHRtbCcpOwpyZXF1aXJlKCchbmd0ZW1wbGF0ZS1sb2FkZXI/bW9kdWxlPXdpZGdldC55b3V0cmFja0Rhc2hib2FyZC5yZXBvcnQmcmVsYXRpdmVUbz0vd2lkZ2V0cy95b3V0cmFjay1yZXBvcnQvIWh0bWwtbG9hZGVyIS4veW91dHJhY2stcmVwb3J0X19pc3N1ZXMtcGVyLXByb2plY3QveW91dHJhY2stcmVwb3J0X19pc3N1ZXMtcGVyLXByb2plY3QuaHRtbCcpOwpyZXF1aXJlKCchbmd0ZW1wbGF0ZS1sb2FkZXI/bW9kdWxlPXdpZGdldC55b3V0cmFja0Rhc2hib2FyZC5yZXBvcnQmcmVsYXRpdmVUbz0vd2lkZ2V0cy95b3V0cmFjay1yZXBvcnQvIWh0bWwtbG9hZGVyIS4veW91dHJhY2stcmVwb3J0X19yZW9wZW5lZC1kaXN0cmlidXRpb24veW91dHJhY2stcmVwb3J0X19yZW9wZW5lZC1kaXN0cmlidXRpb24uaHRtbCcpOwpyZXF1aXJlKCchbmd0ZW1wbGF0ZS1sb2FkZXI/bW9kdWxlPXdpZGdldC55b3V0cmFja0Rhc2hib2FyZC5yZXBvcnQmcmVsYXRpdmVUbz0vd2lkZ2V0cy95b3V0cmFjay1yZXBvcnQvIWh0bWwtbG9hZGVyIS4veW91dHJhY2stcmVwb3J0X19yZXNvbHV0aW9uLXRpbWUveW91dHJhY2stcmVwb3J0X19yZXNvbHV0aW9uLXRpbWUuaHRtbCcpOwpyZXF1aXJlKCchbmd0ZW1wbGF0ZS1sb2FkZXI/bW9kdWxlPXdpZGdldC55b3V0cmFja0Rhc2hib2FyZC5yZXBvcnQmcmVsYXRpdmVUbz0vd2lkZ2V0cy95b3V0cmFjay1yZXBvcnQvIWh0bWwtbG9hZGVyIS4veW91dHJhY2stcmVwb3J0X19yZXNvbHZlLXJhdGUveW91dHJhY2stcmVwb3J0X19yZXNvbHZlLXJhdGUuaHRtbCcpOwpyZXF1aXJlKCchbmd0ZW1wbGF0ZS1sb2FkZXI/bW9kdWxlPXdpZGdldC55b3V0cmFja0Rhc2hib2FyZC5yZXBvcnQmcmVsYXRpdmVUbz0vd2lkZ2V0cy95b3V0cmFjay1yZXBvcnQvIWh0bWwtbG9hZGVyIS4veW91dHJhY2stcmVwb3J0X190aW1lL3lvdXRyYWNrLXJlcG9ydF9fdGltZS5odG1sJyk7CnJlcXVpcmUoJyFuZ3RlbXBsYXRlLWxvYWRlcj9tb2R1bGU9d2lkZ2V0LnlvdXRyYWNrRGFzaGJvYXJkLnJlcG9ydCZyZWxhdGl2ZVRvPS93aWRnZXRzL3lvdXRyYWNrLXJlcG9ydC8haHRtbC1sb2FkZXIhLi95b3V0cmFjay1yZXBvcnRfX3ZlcmlmaWVkLWRpc3RyaWJ1dGlvbi95b3V0cmFjay1yZXBvcnRfX3ZlcmlmaWVkLWRpc3RyaWJ1dGlvbi5odG1sJyk7CnJlcXVpcmUoJyFuZ3RlbXBsYXRlLWxvYWRlcj9tb2R1bGU9d2lkZ2V0LnlvdXRyYWNrRGFzaGJvYXJkLnJlcG9ydCZyZWxhdGl2ZVRvPS93aWRnZXRzL3lvdXRyYWNrLXJlcG9ydC8haHRtbC1sb2FkZXIhLi95b3V0cmFjay1yZXBvcnRfX3ZlcmlmeS1yYXRlL3lvdXRyYWNrLXJlcG9ydF9fdmVyaWZ5LXJhdGUuaHRtbCcpOwpyZXF1aXJlKCchbmd0ZW1wbGF0ZS1sb2FkZXI/bW9kdWxlPXdpZGdldC55b3V0cmFja0Rhc2hib2FyZC5yZXBvcnQmcmVsYXRpdmVUbz0vd2lkZ2V0cy95b3V0cmFjay1yZXBvcnQvIWh0bWwtbG9hZGVyIS4veW91dHJhY2stcmVwb3J0X190aXRsZS5odG1sJyk7CnJlcXVpcmUoJyFuZ3RlbXBsYXRlLWxvYWRlcj9tb2R1bGU9d2lkZ2V0LnlvdXRyYWNrRGFzaGJvYXJkLnJlcG9ydCZyZWxhdGl2ZVRvPS93aWRnZXRzL3lvdXRyYWNrLXJlcG9ydC8haHRtbC1sb2FkZXIhLi95b3V0cmFjay1yZXBvcnRfX3gtYXhpcy5odG1sJyk7Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJz4+PiBFTkQnKTsK</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -1171,12 +1171,21 @@
         <text encoding="base64">ICAgICAgICAgIA==</text>
       </register>
       <register name="/" type="4">
-        <text>html</text>
+        <text>dashb</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cmVxdWlyZSgnIW5ndGVtcGxhdGUtbG9hZGVyP21vZHVsZT13aWRnZXQueW91dHJhY2tEYXNoYm9hcmQucmVwb3J0JnJlbGF0aXZlVG89L3dpZGdldHMveW91dHJhY2stcmVwb3J0LyFodG1sLWxvYWRlciEuL3lvdXRyYWNrLXJlcG9ydF9faW50ZXJ2YWwtd2lkZ2V0L3lvdXRyYWNrLXJlcG9ydF9faW50ZXJ2YWwtd2lkZ2V0Lmh0bWwnKTsKcmVxdWlyZSgnIW5ndGVtcGxhdGUtbG9hZGVyP21vZHVsZT13aWRnZXQueW91dHJhY2tEYXNoYm9hcmQucmVwb3J0JnJlbGF0aXZlVG89L3dpZGdldHMveW91dHJhY2stcmVwb3J0LyFodG1sLWxvYWRlciEuL3lvdXRyYWNrLXJlcG9ydF9fcmF0ZS13aWRnZXQveW91dHJhY2stcmVwb3J0X19yYXRlLXdpZGdldC5odG1sJyk7CnJlcXVpcmUoJyFuZ3RlbXBsYXRlLWxvYWRlcj9tb2R1bGU9d2lkZ2V0LnlvdXRyYWNrRGFzaGJvYXJkLnJlcG9ydCZyZWxhdGl2ZVRvPS93aWRnZXRzL3lvdXRyYWNrLXJlcG9ydC8haHRtbC1sb2FkZXIhLi95b3V0cmFjay1yZXBvcnRfX3NpbXBsZS1iYXJzLXdpZGdldC95b3V0cmFjay1yZXBvcnRfX3NpbXBsZS1iYXJzLXdpZGdldC1keW5hbWljLXRpdGxlLmh0bWwnKTsKcmVxdWlyZSgnIW5ndGVtcGxhdGUtbG9hZGVyP21vZHVsZT13aWRnZXQueW91dHJhY2tEYXNoYm9hcmQucmVwb3J0JnJlbGF0aXZlVG89L3dpZGdldHMveW91dHJhY2stcmVwb3J0LyFodG1sLWxvYWRlciEuL3lvdXRyYWNrLXJlcG9ydF9fc2ltcGxlLWJhcnMtd2lkZ2V0L3lvdXRyYWNrLXJlcG9ydF9fc2ltcGxlLWJhcnMtd2lkZ2V0LXN0YXRpYy10aXRsZS5odG1sJyk7CnJlcXVpcmUoJyFuZ3RlbXBsYXRlLWxvYWRlcj9tb2R1bGU9d2lkZ2V0LnlvdXRyYWNrRGFzaGJvYXJkLnJlcG9ydCZyZWxhdGl2ZVRvPS93aWRnZXRzL3lvdXRyYWNrLXJlcG9ydC8haHRtbC1sb2FkZXIhLi95b3V0cmFjay1yZXBvcnRfX3NpbXBsZS1iYXJzLXdpZGdldC95b3V0cmFjay1yZXBvcnRfX3NpbXBsZS1iYXJzLXdpZGdldC5odG1sJyk7CnJlcXVpcmUoJyFuZ3RlbXBsYXRlLWxvYWRlcj9tb2R1bGU9d2lkZ2V0LnlvdXRyYWNrRGFzaGJvYXJkLnJlcG9ydCZyZWxhdGl2ZVRvPS93aWRnZXRzL3lvdXRyYWNrLXJlcG9ydC8haHRtbC1sb2FkZXIhLi95b3V0cmFjay1yZXBvcnRfX2F2ZXJhZ2UtYWdlL3lvdXRyYWNrLXJlcG9ydF9fYXZlcmFnZS1hZ2UuaHRtbCcpOwpyZXF1aXJlKCchbmd0ZW1wbGF0ZS1sb2FkZXI/bW9kdWxlPXdpZGdldC55b3V0cmFja0Rhc2hib2FyZC5yZXBvcnQmcmVsYXRpdmVUbz0vd2lkZ2V0cy95b3V0cmFjay1yZXBvcnQvIWh0bWwtbG9hZGVyIS4veW91dHJhY2stcmVwb3J0X19idXJuZG93bi95b3V0cmFjay1yZXBvcnRfX2J1cm5kb3duLmh0bWwnKTsKcmVxdWlyZSgnIW5ndGVtcGxhdGUtbG9hZGVyP21vZHVsZT13aWRnZXQueW91dHJhY2tEYXNoYm9hcmQucmVwb3J0JnJlbGF0aXZlVG89L3dpZGdldHMveW91dHJhY2stcmVwb3J0LyFodG1sLWxvYWRlciEuL3lvdXRyYWNrLXJlcG9ydF9fY3VtdWxhdGl2ZS1mbG93L3lvdXRyYWNrLXJlcG9ydF9fY3VtdWxhdGl2ZS1mbG93Lmh0bWwnKTsKcmVxdWlyZSgnIW5ndGVtcGxhdGUtbG9hZGVyP21vZHVsZT13aWRnZXQueW91dHJhY2tEYXNoYm9hcmQucmVwb3J0JnJlbGF0aXZlVG89L3dpZGdldHMveW91dHJhY2stcmVwb3J0LyFodG1sLWxvYWRlciEuL3lvdXRyYWNrLXJlcG9ydF9fY3VzdG9tLWRpc3RyaWJ1dGlvbi95b3V0cmFjay1yZXBvcnRfX2N1c3RvbS1kaXN0cmlidXRpb24uaHRtbCcpOwpyZXF1aXJlKCchbmd0ZW1wbGF0ZS1sb2FkZXI/bW9kdWxlPXdpZGdldC55b3V0cmFja0Rhc2hib2FyZC5yZXBvcnQmcmVsYXRpdmVUbz0vd2lkZ2V0cy95b3V0cmFjay1yZXBvcnQvIWh0bWwtbG9hZGVyIS4veW91dHJhY2stcmVwb3J0X19ldmVudC10cmFuc2l0aW9uL3lvdXRyYWNrLXJlcG9ydF9fZXZlbnQtdHJhbnNpdGlvbi5odG1sJyk7CnJlcXVpcmUoJyFuZ3RlbXBsYXRlLWxvYWRlcj9tb2R1bGU9d2lkZ2V0LnlvdXRyYWNrRGFzaGJvYXJkLnJlcG9ydCZyZWxhdGl2ZVRvPS93aWRnZXRzL3lvdXRyYWNrLXJlcG9ydC8haHRtbC1sb2FkZXIhLi95b3V0cmFjay1yZXBvcnRfX2ZpeC1yYXRlL3lvdXRyYWNrLXJlcG9ydF9fZml4LXJhdGUuaHRtbCcpOwpyZXF1aXJlKCchbmd0ZW1wbGF0ZS1sb2FkZXI/bW9kdWxlPXdpZGdldC55b3V0cmFja0Rhc2hib2FyZC5yZXBvcnQmcmVsYXRpdmVUbz0vd2lkZ2V0cy95b3V0cmFjay1yZXBvcnQvIWh0bWwtbG9hZGVyIS4veW91dHJhY2stcmVwb3J0X19mbGF0LWRpc3RyaWJ1dGlvbi95b3V0cmFjay1yZXBvcnRfX2ZsYXQtZGlzdHJpYnV0aW9uLmh0bWwnKTsKcmVxdWlyZSgnIW5ndGVtcGxhdGUtbG9hZGVyP21vZHVsZT13aWRnZXQueW91dHJhY2tEYXNoYm9hcmQucmVwb3J0JnJlbGF0aXZlVG89L3dpZGdldHMveW91dHJhY2stcmVwb3J0LyFodG1sLWxvYWRlciEuL3lvdXRyYWNrLXJlcG9ydF9faXNzdWUtZGlzdHJpYnV0aW9uL3lvdXRyYWNrLXJlcG9ydF9faXNzdWUtZGlzdHJpYnV0aW9uLmh0bWwnKTsKcmVxdWlyZSgnIW5ndGVtcGxhdGUtbG9hZGVyP21vZHVsZT13aWRnZXQueW91dHJhY2tEYXNoYm9hcmQucmVwb3J0JnJlbGF0aXZlVG89L3dpZGdldHMveW91dHJhY2stcmVwb3J0LyFodG1sLWxvYWRlciEuL3lvdXRyYWNrLXJlcG9ydF9faXNzdWVzLXBlci1hc3NpZ25lZS95b3V0cmFjay1yZXBvcnRfX2lzc3Vlcy1wZXItYXNzaWduZWUuaHRtbCcpOwpyZXF1aXJlKCchbmd0ZW1wbGF0ZS1sb2FkZXI/bW9kdWxlPXdpZGdldC55b3V0cmFja0Rhc2hib2FyZC5yZXBvcnQmcmVsYXRpdmVUbz0vd2lkZ2V0cy95b3V0cmFjay1yZXBvcnQvIWh0bWwtbG9hZGVyIS4veW91dHJhY2stcmVwb3J0X19pc3N1ZXMtcGVyLXByb2plY3QveW91dHJhY2stcmVwb3J0X19pc3N1ZXMtcGVyLXByb2plY3QuaHRtbCcpOwpyZXF1aXJlKCchbmd0ZW1wbGF0ZS1sb2FkZXI/bW9kdWxlPXdpZGdldC55b3V0cmFja0Rhc2hib2FyZC5yZXBvcnQmcmVsYXRpdmVUbz0vd2lkZ2V0cy95b3V0cmFjay1yZXBvcnQvIWh0bWwtbG9hZGVyIS4veW91dHJhY2stcmVwb3J0X19yZW9wZW5lZC1kaXN0cmlidXRpb24veW91dHJhY2stcmVwb3J0X19yZW9wZW5lZC1kaXN0cmlidXRpb24uaHRtbCcpOwpyZXF1aXJlKCchbmd0ZW1wbGF0ZS1sb2FkZXI/bW9kdWxlPXdpZGdldC55b3V0cmFja0Rhc2hib2FyZC5yZXBvcnQmcmVsYXRpdmVUbz0vd2lkZ2V0cy95b3V0cmFjay1yZXBvcnQvIWh0bWwtbG9hZGVyIS4veW91dHJhY2stcmVwb3J0X19yZXNvbHV0aW9uLXRpbWUveW91dHJhY2stcmVwb3J0X19yZXNvbHV0aW9uLXRpbWUuaHRtbCcpOwpyZXF1aXJlKCchbmd0ZW1wbGF0ZS1sb2FkZXI/bW9kdWxlPXdpZGdldC55b3V0cmFja0Rhc2hib2FyZC5yZXBvcnQmcmVsYXRpdmVUbz0vd2lkZ2V0cy95b3V0cmFjay1yZXBvcnQvIWh0bWwtbG9hZGVyIS4veW91dHJhY2stcmVwb3J0X19yZXNvbHZlLXJhdGUveW91dHJhY2stcmVwb3J0X19yZXNvbHZlLXJhdGUuaHRtbCcpOwpyZXF1aXJlKCchbmd0ZW1wbGF0ZS1sb2FkZXI/bW9kdWxlPXdpZGdldC55b3V0cmFja0Rhc2hib2FyZC5yZXBvcnQmcmVsYXRpdmVUbz0vd2lkZ2V0cy95b3V0cmFjay1yZXBvcnQvIWh0bWwtbG9hZGVyIS4veW91dHJhY2stcmVwb3J0X190aW1lL3lvdXRyYWNrLXJlcG9ydF9fdGltZS5odG1sJyk7CnJlcXVpcmUoJyFuZ3RlbXBsYXRlLWxvYWRlcj9tb2R1bGU9d2lkZ2V0LnlvdXRyYWNrRGFzaGJvYXJkLnJlcG9ydCZyZWxhdGl2ZVRvPS93aWRnZXRzL3lvdXRyYWNrLXJlcG9ydC8haHRtbC1sb2FkZXIhLi95b3V0cmFjay1yZXBvcnRfX3ZlcmlmaWVkLWRpc3RyaWJ1dGlvbi95b3V0cmFjay1yZXBvcnRfX3ZlcmlmaWVkLWRpc3RyaWJ1dGlvbi5odG1sJyk7CnJlcXVpcmUoJyFuZ3RlbXBsYXRlLWxvYWRlcj9tb2R1bGU9d2lkZ2V0LnlvdXRyYWNrRGFzaGJvYXJkLnJlcG9ydCZyZWxhdGl2ZVRvPS93aWRnZXRzL3lvdXRyYWNrLXJlcG9ydC8haHRtbC1sb2FkZXIhLi95b3V0cmFjay1yZXBvcnRfX3ZlcmlmeS1yYXRlL3lvdXRyYWNrLXJlcG9ydF9fdmVyaWZ5LXJhdGUuaHRtbCcpOwpyZXF1aXJlKCchbmd0ZW1wbGF0ZS1sb2FkZXI/bW9kdWxlPXdpZGdldC55b3V0cmFja0Rhc2hib2FyZC5yZXBvcnQmcmVsYXRpdmVUbz0vd2lkZ2V0cy95b3V0cmFjay1yZXBvcnQvIWh0bWwtbG9hZGVyIS4veW91dHJhY2stcmVwb3J0X190aXRsZS5odG1sJyk7CnJlcXVpcmUoJyFuZ3RlbXBsYXRlLWxvYWRlcj9tb2R1bGU9d2lkZ2V0LnlvdXRyYWNrRGFzaGJvYXJkLnJlcG9ydCZyZWxhdGl2ZVRvPS93aWRnZXRzL3lvdXRyYWNrLXJlcG9ydC8haHRtbC1sb2FkZXIhLi95b3V0cmFjay1yZXBvcnRfX3gtYXhpcy5odG1sJyk7Cg==</text>
       </register>
-      <register name="1" type="8">
+      <register name="1" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coJz4+PiBFTkQnKTsK</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coJz4+PiBJTklUJyk7Cg==</text>
+      </register>
+      <register name="3" type="8">
         <text>widget.youtrackDashboard.report
 widget.youtrackDashboard.report
 widget.youtrackDashboard.report
@@ -1201,39 +1210,8 @@ widget.youtrackDashboard.report
 widget.youtrackDashboard.report
 widget.youtrackDashboard.report</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="8">
+      <register name="4" type="8">
         <text encoding="base64">aW1wb3J0IAppbXBvcnQgCmltcG9ydCAKaW1wb3J0IAppbXBvcnQgCmltcG9ydCAKaW1wb3J0IAppbXBvcnQgCmltcG9ydCAKaW1wb3J0IAppbXBvcnQgCmltcG9ydCAKaW1wb3J0IAppbXBvcnQgCmltcG9ydCAKaW1wb3J0IAppbXBvcnQgCmltcG9ydCAKaW1wb3J0IAppbXBvcnQgCmltcG9ydCAKaW1wb3J0IAppbXBvcnQg</text>
-      </register>
-      <register name="3" type="8">
-        <text>ng
-ng
-ng
-ng
-ng
-ng
-ng
-ng
-ng
-ng
-ng
-ng
-ng
-ng
-ng
-ng
-ng
-ng
-ng
-ng
-ng
-ng
-ng</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0ICchbmd0ZW1wbGF0ZS1sb2FkZXI/bW9kdWxlPW5nJnJlbGF0aXZlVG89L3dpZGdldHMveW91dHJhY2stcmVwb3J0LyFodG1sLWxvYWRlciEuL3lvdXRyYWNrLXJlcG9ydF9feC1heGlzLmh0bWwnOwpjb25zb2xlLmxvZygnPj4+IEVORCcpOwo=</text>
       </register>
       <register name="5" type="8">
         <text>ng
@@ -1260,7 +1238,10 @@ ng
 ng
 ng</text>
       </register>
-      <register name="6" type="8">
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0ICchbmd0ZW1wbGF0ZS1sb2FkZXI/bW9kdWxlPW5nJnJlbGF0aXZlVG89L3dpZGdldHMveW91dHJhY2stcmVwb3J0LyFodG1sLWxvYWRlciEuL3lvdXRyYWNrLXJlcG9ydF9feC1heGlzLmh0bWwnOwpjb25zb2xlLmxvZygnPj4+IEVORCcpOwo=</text>
+      </register>
+      <register name="7" type="8">
         <text>ng
 ng
 ng
@@ -1285,23 +1266,42 @@ ng
 ng
 ng</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4+JywgdGVtcGxhdGVOYW1lKTsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmIChrZXkgPT09ICd5b3V0cmFjay1yZXBvcnRfX2J1cm5kb3duL3lvdXRyYWNrLXJlcG9ydF9fYnVybmRvd24uaHRtbCcpIHsKICAgICAgICAgICAgY29uc29sZS5sb2coa2V5LCB2YWx1ZSk7CiAgICAgICAgICB9Cg==</text>
+      <register name="8" type="8">
+        <text>ng
+ng
+ng
+ng
+ng
+ng
+ng
+ng
+ng
+ng
+ng
+ng
+ng
+ng
+ng
+ng
+ng
+ng
+ng
+ng
+ng
+ng
+ng</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4+JywgdGVtcGxhdGVOYW1lKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>html</last-search>
+      <last-search>dashb</last-search>
       <last-offset />
-      <last-pattern>html</last-pattern>
+      <last-pattern>dashb</last-pattern>
       <last-replace>#444</last-replace>
       <last-substitute>$ring-palette-grey-text</last-substitute>
       <last-dir>1</last-dir>
@@ -1309,7 +1309,6 @@ ng</text>
     </search>
     <history>
       <history-search>
-        <entry>url</entry>
         <entry encoding="base64">XDxnZXRSZXBvcnRUZW1wbGF0ZVw+</entry>
         <entry>youtrack-report__burndown.html</entry>
         <entry>angu</entry>
@@ -1329,6 +1328,7 @@ ng</text>
         <entry>temp</entry>
         <entry>YouTrackReportTpl</entry>
         <entry>html</entry>
+        <entry>dashb</entry>
       </history-search>
       <history-cmd>
         <entry>29</entry>
