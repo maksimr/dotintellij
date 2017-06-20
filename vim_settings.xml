@@ -748,11 +748,11 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/index.html" timestamp="1497952225082">
         <mark key="'" line="51" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" timestamp="1497965529598">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="17" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" timestamp="1497967608980">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="31" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/report/directive/yt-report-view.js" timestamp="1497524432898">
         <mark key="'" line="138" column="0" />
@@ -1141,8 +1141,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/config/test/service/load-config.js" />
-      <jump line="84" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/config/test/service/load-config.js" />
       <jump line="7" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/config/test/service/load-config.js" />
       <jump line="85" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/config/test/service/load-config.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/config/test/service/load-config.js" />
@@ -1237,20 +1235,22 @@
       <jump line="5" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
       <jump line="17" column="6" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
       <jump line="27" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
       <jump line="12" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
       <jump line="21" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
       <jump line="4" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
+      <jump line="20" column="9" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
+      <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U3RyaW5nLnByb3RvdHlwZS5yZXBlYXRpZnkgPSBmdW5jdGlvbih0aW1lcykgewogIGNvbnN0IHZhbHVlID0gdGhpcy52YWx1ZU9mKCk7CiAgcmV0dXJuIChuZXcgQXJyYXkodGltZXMgKyAxKSkuam9pbih2YWx1ZSk7Cn07Cgpjb25zb2xlLmxvZygnZm9vJy5yZXBlYXRpZnkoMykpOwo=</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>proto</text>
+        <text>var</text>
       </register>
       <register name="/" type="4">
         <text>tool</text>
@@ -1259,34 +1259,34 @@
         <text encoding="base64">Rm9vLnByb3RvdHlwZS5mb28gPSAnZm9vJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U3RyaW5nLnByb3RvdHlwZS5yZXBlYXRpZnkgPSBmdW5jdGlvbih0aW1lcykgewogIGNvbnN0IHZhbHVlID0gdGhpcy52YWx1ZU9mKCk7CiAgcmV0dXJuIChuZXcgQXJyYXkodGltZXMgKyAxKSkuam9pbih2YWx1ZSk7Cn07Cgpjb25zb2xlLmxvZygnZm9vJy5yZXBlYXRpZnkoMykpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QmFyLnByb3RvdHlwZS52YWx1ZSA9IGZ1bmN0aW9uKCkgewogIHJldHVybiAnYmFyJzsKfTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgRm9vID0gZnVuY3Rpb24oKSB7CiAgdGhpcy5mb28gPSAnZm9vJzsKfTsKCkZvby5wcm90b3R5cGUudmFsdWUgPSBmdW5jdGlvbigpIHsKICByZXR1cm4gdGhpcy5mb28KfTsKCgpjb25zdCBCYXIgPSBpbmhlcml0cyhmdW5jdGlvbigpIHsKICB0aGlzLnN1cGVyKCk7Cn0sIEZvbyk7CgoKY29uc3QgYiA9IG5ldyBCYXIoKTsKCmNvbnNvbGUubG9nKGIudmFsdWUoKSk7CgoKCmZ1bmN0aW9uIGluaGVyaXRzKERpc3QsIFBhcmVudCkgewogIERpc3QucHJvdG90eXBlID0gT2JqZWN0LmNyZWF0ZShQYXJlbnQucHJvdG90eXBlKTsKICBEaXN0LnByb3RvdHlwZS5zdXBlciA9IGZ1bmN0aW9uKCkgewogICAgcmV0dXJuIFBhcmVudC5hcHBseSh0aGlzLCBhcmd1bWVudHMpOwogIH07CiAgcmV0dXJuIERpc3Q7Cn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Rm9vLnByb3RvdHlwZS5mb28gPSAnZm9vJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QmFyLnByb3RvdHlwZS52YWx1ZSA9IGZ1bmN0aW9uKCkgewogIHJldHVybiAnYmFyJzsKfTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zdCBwcm90byA9IE9iamVjdC5jcmVhdGUoUGFyZW50LnByb3RvdHlwZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Rm9vLnByb3RvdHlwZS5mb28gPSAnZm9vJzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
