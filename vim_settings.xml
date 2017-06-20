@@ -279,8 +279,8 @@
         <mark key="." line="474" column="32" />
         <mark key="^" line="474" column="32" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" timestamp="1497950950635">
-        <mark key="'" line="219" column="7" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" timestamp="1497952560993">
+        <mark key="'" line="229" column="11" />
         <mark key="[" line="228" column="58" />
         <mark key="]" line="228" column="54" />
         <mark key="^" line="228" column="54" />
@@ -1078,7 +1078,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/config/service/load-config.js" />
       <jump line="40" column="33" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/config/service/load-config.js" />
       <jump line="16" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/config/service/load-config.js" />
       <jump line="14" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/config/test/service/load-config.js" />
@@ -1178,6 +1177,7 @@
       <jump line="51" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/index.html" />
       <jump line="238" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/test/e2e/header.spec.js" />
       <jump line="31" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/test/e2e/header.spec.js" />
+      <jump line="229" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1190,7 +1190,7 @@
         <text>doNotHandleCancelRequest</text>
       </register>
       <register name="/" type="4">
-        <text>comm</text>
+        <text>onPrepare</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGdsb2JhbC5jb25zb2xlLmxvZygnLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLScpOwo=</text>
@@ -1230,9 +1230,9 @@
       </register>
     </registers>
     <search>
-      <last-search>comm</last-search>
+      <last-search>onPrepare</last-search>
       <last-offset />
-      <last-pattern>comm</last-pattern>
+      <last-pattern>onPrepare</last-pattern>
       <last-replace>#444</last-replace>
       <last-substitute>$ring-palette-grey-text</last-substitute>
       <last-dir>1</last-dir>
@@ -1240,7 +1240,6 @@
     </search>
     <history>
       <history-search>
-        <entry>config</entry>
         <entry>req</entry>
         <entry>onCre</entry>
         <entry>sinon</entry>
@@ -1260,6 +1259,7 @@
         <entry>unsupp</entry>
         <entry>unsu</entry>
         <entry>comm</entry>
+        <entry>onPrepare</entry>
       </history-search>
       <history-cmd>
         <entry>68</entry>
