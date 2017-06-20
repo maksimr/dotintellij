@@ -748,11 +748,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/index.html" timestamp="1497952225082">
         <mark key="'" line="51" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" timestamp="1497980271158">
-        <mark key="[" line="18" column="10" />
-        <mark key="]" line="18" column="30" />
-        <mark key="." line="18" column="30" />
-        <mark key="^" line="18" column="30" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" timestamp="1497980936425">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="31" column="13" />
+        <mark key="]" line="31" column="13" />
+        <mark key="." line="31" column="13" />
+        <mark key="^" line="30" column="34" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/report/directive/yt-report-view.js" timestamp="1497524432898">
         <mark key="'" line="138" column="0" />
@@ -1141,7 +1142,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/config/test/service/load-config.js" />
       <jump line="85" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/config/test/service/load-config.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/config/test/service/load-config.js" />
       <jump line="24" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/config/test/service/load-config.js" />
@@ -1239,24 +1239,25 @@
       <jump line="4" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
       <jump line="20" column="9" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
       <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
-      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
       <jump line="5" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
+      <jump line="23" column="1" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>char</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>funciton</text>
+        <text>char</text>
       </register>
       <register name="/" type="4">
         <text>tool</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNhc2UgbDoKICAgICAgcmV0dXJuOwo=</text>
+        <text encoding="base64">ICAgICdncm9rJwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1265,10 +1266,10 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZXR1cm4gW10K</text>
+        <text encoding="base64">ICBuZWFyYnlfY2hhcnMubWFwKChjaGFyKSA9PiB7CiAgfSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNhc2UK</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXN0Q2hhcnMubWFwKGZ1bmN0aW9uKCkgewoKICAgIH0pOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -1277,16 +1278,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">U3RyaW5nLnByb3RvdHlwZS5yZXBlYXRpZnkgPSBmdW5jdGlvbih0aW1lcykgewogIGNvbnN0IHZhbHVlID0gdGhpcy52YWx1ZU9mKCk7CiAgcmV0dXJuIChuZXcgQXJyYXkodGltZXMgKyAxKSkuam9pbih2YWx1ZSk7Cn07Cgpjb25zb2xlLmxvZygnZm9vJy5yZXBlYXRpZnkoMykpOwo=</text>
+        <text encoding="base64">ICBjb25zdCBjaGFyTGlzdCA9IGlucHV0LnNwbGl0KCcnKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgRm9vID0gZnVuY3Rpb24oKSB7CiAgdGhpcy5mb28gPSAnZm9vJzsKfTsKCkZvby5wcm90b3R5cGUudmFsdWUgPSBmdW5jdGlvbigpIHsKICByZXR1cm4gdGhpcy5mb28KfTsKCgpjb25zdCBCYXIgPSBpbmhlcml0cyhmdW5jdGlvbigpIHsKICB0aGlzLnN1cGVyKCk7Cn0sIEZvbyk7CgoKY29uc3QgYiA9IG5ldyBCYXIoKTsKCmNvbnNvbGUubG9nKGIudmFsdWUoKSk7CgoKCmZ1bmN0aW9uIGluaGVyaXRzKERpc3QsIFBhcmVudCkgewogIERpc3QucHJvdG90eXBlID0gT2JqZWN0LmNyZWF0ZShQYXJlbnQucHJvdG90eXBlKTsKICBEaXN0LnByb3RvdHlwZS5zdXBlciA9IGZ1bmN0aW9uKCkgewogICAgcmV0dXJuIFBhcmVudC5hcHBseSh0aGlzLCBhcmd1bWVudHMpOwogIH07CiAgcmV0dXJuIERpc3Q7Cn0K</text>
+        <text encoding="base64">ICAgIGZvciAoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
