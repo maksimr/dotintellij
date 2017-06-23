@@ -535,8 +535,10 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-hub/dashboard/blocks/dashboard/dashboard.js" timestamp="1497818581023">
         <mark key="'" line="23" column="11" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/ring-ui/package.json" timestamp="1498043497087">
-        <mark key="'" line="3" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/ring-ui/package.json" timestamp="1498234743602">
+        <mark key="'" line="29" column="67" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="43" column="45" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/config/config.js" timestamp="1497959546560">
         <mark key="'" line="85" column="0" />
@@ -634,7 +636,7 @@
         <mark key="." line="0" column="46" />
         <mark key="^" line="0" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498229437667">
+      <file name="/Dummy.txt" timestamp="1498235540412">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -738,6 +740,13 @@
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/service/custom-fields/get-custom-field-locked-state.js" timestamp="1497815805307">
         <mark key="'" line="91" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/report/style/report-view.scss" timestamp="1498235444762">
+        <mark key="'" line="13" column="1" />
+        <mark key="[" line="5" column="1" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/vcs-changes/style/yt-vcs-change.scss" timestamp="1497605413513">
         <mark key="'" line="369" column="0" />
@@ -983,11 +992,11 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/charisma-app/source_gen/jetbrains/charisma/smartui/css/admin-reports.css" timestamp="1497816869323">
         <mark key="'" line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/_reports/_report.scss" timestamp="1497962022341">
-        <mark key="'" line="133" column="0" />
-        <mark key="[" line="134" column="0" />
-        <mark key="]" line="134" column="0" />
-        <mark key="." line="134" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/_reports/_report.scss" timestamp="1498235442278">
+        <mark key="'" line="37" column="7" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/report/test/directive/yt-report-view.js" timestamp="1497525859999">
         <mark key="'" line="24" column="0" />
@@ -1442,21 +1451,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="239" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
-      <jump line="238" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
-      <jump line="199" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
-      <jump line="218" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
-      <jump line="345" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
-      <jump line="37" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/auth.js" />
-      <jump line="56" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth-ng/auth-ng.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/permissions/permissions__cache.js" />
-      <jump line="258" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/permissions/permissions__cache.js" />
-      <jump line="98" column="2" filename="$USER_HOME$/www/jetbrains/ring-ui/components/permissions/permissions.js" />
-      <jump line="117" column="11" filename="$USER_HOME$/www/jetbrains/ring-ui/components/permissions/permissions.js" />
-      <jump line="101" column="17" filename="$USER_HOME$/www/jetbrains/ring-ui/components/permissions/permissions.js" />
-      <jump line="122" column="8" filename="$USER_HOME$/www/jetbrains/ring-ui/components/permissions/permissions.js" />
-      <jump line="123" column="44" filename="$USER_HOME$/www/jetbrains/ring-ui/components/permissions/permissions.js" />
-      <jump line="137" column="31" filename="$USER_HOME$/www/jetbrains/ring-ui/components/permissions/permissions.js" />
       <jump line="75" column="9" filename="$USER_HOME$/www/jetbrains/ring-ui/components/permissions/permissions.js" />
       <jump line="74" column="4" filename="$USER_HOME$/www/jetbrains/ring-ui/components/permissions/permissions.js" />
       <jump line="53" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/permissions/permissions.test.js" />
@@ -1542,10 +1536,25 @@
       <jump line="411" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth/auth.js" />
       <jump line="453" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth/auth.js" />
       <jump line="460" column="34" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth/auth.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/package.json" />
+      <jump line="42" column="30" filename="$USER_HOME$/www/jetbrains/ring-ui/package.json" />
+      <jump line="31" column="5" filename="$USER_HOME$/www/jetbrains/ring-ui/package.json" />
+      <jump line="40" column="47" filename="$USER_HOME$/www/jetbrains/ring-ui/package.json" />
+      <jump line="67" column="7" filename="$USER_HOME$/www/jetbrains/ring-ui/package.json" />
+      <jump line="73" column="22" filename="$USER_HOME$/www/jetbrains/ring-ui/package.json" />
+      <jump line="128" column="11" filename="$USER_HOME$/www/jetbrains/ring-ui/package.json" />
+      <jump line="27" column="5" filename="$USER_HOME$/www/jetbrains/ring-ui/package.json" />
+      <jump line="41" column="62" filename="$USER_HOME$/www/jetbrains/ring-ui/package.json" />
+      <jump line="28" column="5" filename="$USER_HOME$/www/jetbrains/ring-ui/package.json" />
+      <jump line="29" column="67" filename="$USER_HOME$/www/jetbrains/ring-ui/package.json" />
+      <jump line="82" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/_reports/_report.scss" />
+      <jump line="8" column="1" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/report/style/report-view.scss" />
+      <jump line="50" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/_reports/_report.scss" />
+      <jump line="37" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/_reports/_report.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBhc3luYyBsb2dvdXQoZXh0cmFQYXJhbXMpIHsKICAgIGNvbnN0IHJlcXVlc3RQYXJhbXMgPSB7Cg==</text>
+        <text encoding="base64">QG1peGluIGF4aXMtZm9udCB7CiAgZm9udC1zaXplOiAxMHB4OwogIGZvbnQtd2VpZ2h0OiA0MDA7Cn0KCg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -1554,49 +1563,49 @@
         <text>error</text>
       </register>
       <register name="/" type="4">
-        <text>logout</text>
+        <text>axis-font</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBhc3luYyBsb2dvdXQoZXh0cmFQYXJhbXMpIHsKICAgIGNvbnN0IHJlcXVlc3RQYXJhbXMgPSB7Cg==</text>
+        <text encoding="base64">QG1peGluIGF4aXMtZm9udCB7CiAgZm9udC1zaXplOiAxMHB4OwogIGZvbnQtd2VpZ2h0OiA0MDA7Cn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QG1peGluIGF4aXMtZm9udCB7CiAgZm9udC1zaXplOiAxMHB4OwogIGZvbnQtd2VpZ2h0OiA0MDA7Cn0KCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgd2luZG93LmxvY2F0aW9uID0gZml4VXJsKHVybCk7Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">LnJlcG9ydF9oNjAwIHsKICBoZWlnaHQ6IDYwMHB4Owp9Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdpbmRvdy5sb2NhdGlvbiA9IGZpeFVybCh1cmwpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlYgo=</text>
+        <text encoding="base64">LnJlcG9ydC1jaGFydCB7CiAgbWFyZ2luLXRvcDogJHJpbmctdW5pdCo0OwoKICAvKiBudmQzIHNwZWNpZmljIG92ZXJyaWRlICovCiAgLm52ZDMgewogICAgLnRpY2sgdGV4dCB7CiAgICAgIEBpbmNsdWRlIGF4aXMtZm9udCgpOwogICAgfQogICAgLm52LWF4aXMgewogICAgICAubnYtYXhpc01heE1pbiB0ZXh0IHsKICAgICAgICBAaW5jbHVkZSBheGlzLWZvbnQoKTsKICAgICAgfQogICAgICBwYXRoIHsKICAgICAgICBzdHJva2U6ICNjY2M7CiAgICAgICAgc3Ryb2tlLW9wYWNpdHk6IDE7CiAgICAgIH0KICAgIH0KICAgIC5udi1tdWx0aWJhciAubnYtZ3JvdXBzIHJlY3QuaG92ZXIgewogICAgICBmaWxsLW9wYWNpdHk6IDE7CiAgICAgIGJvcmRlcjogMTBweCBzb2xpZCByZWQ7CiAgICB9CiAgICAuZGF0YSB7CiAgICAgIHJlY3Q6aG92ZXIgewogICAgICAgIG9wYWNpdHk6IDAuNTsKICAgICAgfQogICAgfQogIH0KfQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHRoaXMubGlzdGVuZXJzLnRyaWdnZXIoJ2xvZ291dCcpOwo=</text>
+        <text encoding="base64">ICAgICAgd2luZG93LmxvY2F0aW9uID0gZml4VXJsKHVybCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgKgo=</text>
+        <text encoding="base64">ICAgIHdpbmRvdy5sb2NhdGlvbiA9IGZpeFVybCh1cmwpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>logout</last-search>
+      <last-search>axis-font</last-search>
       <last-offset />
-      <last-pattern>logout</last-pattern>
+      <last-pattern>axis-font</last-pattern>
       <last-replace>#444</last-replace>
       <last-substitute>$ring-palette-grey-text</last-substitute>
       <last-dir>1</last-dir>
@@ -1604,15 +1613,6 @@
     </search>
     <history>
       <history-search>
-        <entry>not cache res</entry>
-        <entry encoding="base64">XDxfcmVzZXRDYWNoZVw+</entry>
-        <entry>reload</entry>
-        <entry>auth</entry>
-        <entry>cache</entry>
-        <entry>@par</entry>
-        <entry>load</entry>
-        <entry>params</entry>
-        <entry encoding="base64">XDxsb2dvdXRcPg==</entry>
         <entry encoding="base64">XDxsaXN0ZW5lcnNcPg==</entry>
         <entry>list</entry>
         <entry>trigger</entry>
@@ -1624,6 +1624,15 @@
         <entry>reloadOnUserChange</entry>
         <entry>userChange</entry>
         <entry>logout</entry>
+        <entry>rele</entry>
+        <entry>build</entry>
+        <entry>test</entry>
+        <entry encoding="base64">XDx0ZXN0XD4=</entry>
+        <entry>gemini-test</entry>
+        <entry>report__chart</entry>
+        <entry>report-chart</entry>
+        <entry encoding="base64">XDxheGlzXD4=</entry>
+        <entry>axis-font</entry>
       </history-search>
       <history-cmd>
         <entry>68</entry>
