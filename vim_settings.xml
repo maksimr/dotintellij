@@ -625,12 +625,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/run-e2e.sh" timestamp="1497951060806">
         <mark key="'" line="101" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/permissions/permissions.test.js" timestamp="1498219037706">
+      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/permissions/permissions.test.js" timestamp="1498219680329">
         <mark key="'" line="63" column="19" />
-        <mark key="[" line="120" column="25" />
-        <mark key="]" line="121" column="5" />
-        <mark key="^" line="121" column="5" />
-        <mark key="." line="121" column="5" />
+        <mark key="[" line="119" column="25" />
+        <mark key="]" line="120" column="5" />
+        <mark key="^" line="120" column="5" />
+        <mark key="." line="120" column="5" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/test/unit/test-bundle.webpack.js" timestamp="1497828590591">
         <mark key="'" line="14" column="22" />
@@ -713,12 +713,12 @@
         <mark key="^" line="56" column="42" />
         <mark key="." line="56" column="42" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/permissions/permissions.js" timestamp="1498219077092">
+      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/permissions/permissions.js" timestamp="1498219725494">
         <mark key="'" line="46" column="28" />
-        <mark key="[" line="114" column="34" />
-        <mark key="]" line="114" column="33" />
-        <mark key="." line="114" column="33" />
-        <mark key="^" line="114" column="33" />
+        <mark key="[" line="121" column="14" />
+        <mark key="]" line="121" column="11" />
+        <mark key="." line="120" column="84" />
+        <mark key="^" line="121" column="11" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/externals/vcs-changes/yt-vcs-changes-tab.js" timestamp="1497959723446">
         <mark key="'" line="7" column="17" />
@@ -1413,47 +1413,47 @@
       <jump line="46" column="28" filename="$USER_HOME$/www/jetbrains/ring-ui/components/permissions/permissions.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Y2FjaGVkUGVybWlzc2lvbnMgPT4g</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPyBuZXcgUGVybWlzc2lvbkNhY2hlKGNhY2hlZFBlcm1pc3Npb25zLCB0aGlzLm5hbWVzQ29udmVydGVyKQo=</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y2FjaGVkUGVybWlzc2lvbnMgPT4g</text>
+        <text>not cache response</text>
       </register>
       <register name="/" type="4">
         <text>no-store</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">Y2FjaGVkUGVybWlzc2lvbnMgPT4gdGhpcy5zZXQoY2FjaGVkUGVybWlzc2lvbnMp</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgcGVybWlzc2lvbnMubG9hZCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPyBuZXcgUGVybWlzc2lvbkNhY2hlKGNhY2hlZFBlcm1pc3Npb25zLCB0aGlzLm5hbWVzQ29udmVydGVyKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGhhc0NhY2hlQ29udHJvbGwoJ25vLXN0b3JlJywgb3B0aW9ucykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgYXV0aCA9IGNyZWF0ZUF1dGhNb2NrKCk7CiAgICAgIGNvbnN0IHBlcm1pc3Npb25zRGF0YSA9IFtjcmVhdGVQZXJtaXNzaW9uKCdBJyldOwogICAgICBjb25zdCBwZXJtaXNzaW9ucyA9IG5ldyBQZXJtaXNzaW9ucyhhdXRoKTsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmxvYWRQZXJtaXNzaW9ucygpLnRoZW4oY2FjaGVkUGVybWlzc2lvbnMgPT4gKAogICAgICAgICAgaGFzQ2FjaGVDb250cm9sbCgnbm8tc3RvcmUnLCBvcHRpb25zKQogICAgICAgICAgICA/IG5ldyBQZXJtaXNzaW9uQ2FjaGUoY2FjaGVkUGVybWlzc2lvbnMsIHRoaXMubmFtZXNDb252ZXJ0ZXIpCiAgICAgICAgICAgIDogdGhpcy5zZXQoY2FjaGVkUGVybWlzc2lvbnMpCiAgICAgICAgKSkpCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgYXV0aCA9IGNyZWF0ZUF1dGhNb2NrKCk7CiAgICAgIGNvbnN0IHBlcm1pc3Npb25zRGF0YSA9IFtjcmVhdGVQZXJtaXNzaW9uKCdBJyldOwogICAgICBjb25zdCBwZXJtaXNzaW9ucyA9IG5ldyBQZXJtaXNzaW9ucyhhdXRoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIG9wdGlvbnMuY2FjaGVDb250cm9sID09PSAnbm8tc3RvcmUnCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgYXV0aCA9IGNyZWF0ZUF1dGhNb2NrKCk7CiAgICAgIGNvbnN0IHBlcm1pc3Npb25zRGF0YSA9IFtjcmVhdGVQZXJtaXNzaW9uKCdBJyldOwogICAgICBjb25zdCBwZXJtaXNzaW9ucyA9IG5ldyBQZXJtaXNzaW9ucyhhdXRoKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="8">
-        <text encoding="base64">Y29uc3QgCmNvbnN0IApjb25zdCA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
