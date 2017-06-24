@@ -535,8 +535,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-hub/dashboard/blocks/dashboard/dashboard.js" timestamp="1497818581023">
         <mark key="'" line="23" column="11" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/ring-ui/package.json" timestamp="1498234743602">
-        <mark key="'" line="29" column="67" />
+      <file name="$USER_HOME$/www/jetbrains/ring-ui/package.json" timestamp="1498297757196">
+        <mark key="'" line="189" column="0" />
         <mark key="[" line="41" column="0" />
         <mark key="]" line="43" column="45" />
       </file>
@@ -1451,12 +1451,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="9" filename="$USER_HOME$/www/jetbrains/ring-ui/components/permissions/permissions.js" />
-      <jump line="74" column="4" filename="$USER_HOME$/www/jetbrains/ring-ui/components/permissions/permissions.js" />
-      <jump line="53" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/permissions/permissions.test.js" />
-      <jump line="59" column="32" filename="$USER_HOME$/www/jetbrains/ring-ui/components/permissions/permissions.test.js" />
-      <jump line="65" column="14" filename="$USER_HOME$/www/jetbrains/ring-ui/components/permissions/permissions.test.js" />
-      <jump line="74" column="32" filename="$USER_HOME$/www/jetbrains/ring-ui/components/permissions/permissions.test.js" />
       <jump line="79" column="14" filename="$USER_HOME$/www/jetbrains/ring-ui/components/permissions/permissions.test.js" />
       <jump line="97" column="19" filename="$USER_HOME$/www/jetbrains/ring-ui/components/permissions/permissions.test.js" />
       <jump line="0" column="44" filename="$USER_HOME$/www/jetbrains/ring-ui/components/permissions/permissions.js" />
@@ -1536,8 +1530,6 @@
       <jump line="411" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth/auth.js" />
       <jump line="453" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth/auth.js" />
       <jump line="460" column="34" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/auth/auth.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/package.json" />
-      <jump line="42" column="30" filename="$USER_HOME$/www/jetbrains/ring-ui/package.json" />
       <jump line="31" column="5" filename="$USER_HOME$/www/jetbrains/ring-ui/package.json" />
       <jump line="40" column="47" filename="$USER_HOME$/www/jetbrains/ring-ui/package.json" />
       <jump line="67" column="7" filename="$USER_HOME$/www/jetbrains/ring-ui/package.json" />
@@ -1551,6 +1543,14 @@
       <jump line="8" column="1" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/report/style/report-view.scss" />
       <jump line="50" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/_reports/_report.scss" />
       <jump line="37" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/_reports/_report.scss" />
+      <jump line="24" column="18" filename="$USER_HOME$/www/jetbrains/ring-ui/package.json" />
+      <jump line="6" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/package.json" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/package.json" />
+      <jump line="16" column="3" filename="$USER_HOME$/www/jetbrains/ring-ui/package.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/package.json" />
+      <jump line="42" column="8" filename="$USER_HOME$/www/jetbrains/ring-ui/package.json" />
+      <jump line="43" column="8" filename="$USER_HOME$/www/jetbrains/ring-ui/package.json" />
+      <jump line="189" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1563,7 +1563,7 @@
         <text>error</text>
       </register>
       <register name="/" type="4">
-        <text>axis-font</text>
+        <text>rele</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QG1peGluIGF4aXMtZm9udCB7CiAgZm9udC1zaXplOiAxMHB4OwogIGZvbnQtd2VpZ2h0OiA0MDA7Cn0K</text>
@@ -1603,9 +1603,9 @@
       </register>
     </registers>
     <search>
-      <last-search>axis-font</last-search>
+      <last-search>rele</last-search>
       <last-offset />
-      <last-pattern>axis-font</last-pattern>
+      <last-pattern>rele</last-pattern>
       <last-replace>#444</last-replace>
       <last-substitute>$ring-palette-grey-text</last-substitute>
       <last-dir>1</last-dir>
@@ -1624,7 +1624,6 @@
         <entry>reloadOnUserChange</entry>
         <entry>userChange</entry>
         <entry>logout</entry>
-        <entry>rele</entry>
         <entry>build</entry>
         <entry>test</entry>
         <entry encoding="base64">XDx0ZXN0XD4=</entry>
@@ -1633,6 +1632,7 @@
         <entry>report-chart</entry>
         <entry encoding="base64">XDxheGlzXD4=</entry>
         <entry>axis-font</entry>
+        <entry>rele</entry>
       </history-search>
       <history-cmd>
         <entry>68</entry>
