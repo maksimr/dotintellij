@@ -233,8 +233,8 @@
         <mark key="." line="474" column="32" />
         <mark key="^" line="474" column="32" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" timestamp="1498492558264">
-        <mark key="'" line="196" column="56" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" timestamp="1498557066260">
+        <mark key="'" line="238" column="9" />
         <mark key="[" line="6" column="35" />
         <mark key="]" line="6" column="35" />
         <mark key="^" line="6" column="35" />
@@ -678,7 +678,7 @@
         <mark key="." line="56" column="0" />
         <mark key="^" line="3" column="61" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/run-e2e.sh" timestamp="1497951060806">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/run-e2e.sh" timestamp="1498556995144">
         <mark key="'" line="101" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/ring-ui/components/permissions/permissions.test.js" timestamp="1498486328705">
@@ -1507,17 +1507,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="10" filename="$USER_HOME$/www/jetbrains/ring-ui/components/permissions/permissions.js" />
-      <jump line="116" column="16" filename="$USER_HOME$/www/jetbrains/ring-ui/components/permissions/permissions.js" />
-      <jump line="10" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/permissions/permissions.test.js" />
-      <jump line="175" column="6" filename="$USER_HOME$/www/jetbrains/ring-ui/components/permissions/permissions.test.js" />
-      <jump line="357" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/permissions/permissions.test.js" />
-      <jump line="7" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/permissions/permissions.test.js" />
-      <jump line="47" column="16" filename="$USER_HOME$/www/jetbrains/ring-ui/components/permissions/permissions.test.js" />
-      <jump line="110" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/permissions/permissions.js" />
-      <jump line="148" column="52" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/permissions/permissions.js" />
-      <jump line="152" column="77" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/permissions/permissions.js" />
-      <jump line="157" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/permissions/permissions.js" />
       <jump line="184" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/permissions/permissions.js" />
       <jump line="176" column="77" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/permissions/permissions.js" />
       <jump line="158" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/permissions/permissions.js" />
@@ -1607,6 +1596,17 @@
       <jump line="109" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/permissions/permissions.js" />
       <jump line="122" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/permissions/permissions.js" />
       <jump line="123" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/permissions/permissions.js" />
+      <jump line="46" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
+      <jump line="347" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/run-e2e.sh" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/run-e2e.sh" />
+      <jump line="44" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/run-e2e.sh" />
+      <jump line="30" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/run-e2e.sh" />
+      <jump line="25" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/run-e2e.sh" />
+      <jump line="9" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/run-e2e.sh" />
+      <jump line="101" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/run-e2e.sh" />
+      <jump line="42" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
+      <jump line="238" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1619,7 +1619,7 @@
         <text>2.7.7116</text>
       </register>
       <register name="/" type="4">
-        <text>cacheControl</text>
+        <text>sele</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">KGNvbmZpZyAmJiBjb25maWcubm9BdXRob3JpemF0aW9uKQ==</text>
@@ -1659,9 +1659,9 @@
       </register>
     </registers>
     <search>
-      <last-search>cacheControl</last-search>
+      <last-search>sele</last-search>
       <last-offset />
-      <last-pattern>cacheControl</last-pattern>
+      <last-pattern>sele</last-pattern>
       <last-replace>#444</last-replace>
       <last-substitute>$ring-palette-grey-text</last-substitute>
       <last-dir>1</last-dir>
@@ -1669,8 +1669,6 @@
     </search>
     <history>
       <history-search>
-        <entry>then</entry>
-        <entry>NO_STORE</entry>
         <entry>initDefe</entry>
         <entry encoding="base64">XDxfaW5pdERlZmVycmVkXD4=</entry>
         <entry>createInit</entry>
@@ -1689,6 +1687,8 @@
         <entry>ring-ui</entry>
         <entry>setCache</entry>
         <entry>cacheControl</entry>
+        <entry encoding="base64">XDxwdF9BcmdzXD4=</entry>
+        <entry>sele</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
