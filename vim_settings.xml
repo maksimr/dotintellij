@@ -233,8 +233,8 @@
         <mark key="." line="474" column="32" />
         <mark key="^" line="474" column="32" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" timestamp="1498560391002">
-        <mark key="'" line="347" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" timestamp="1498564084202">
+        <mark key="'" line="288" column="6" />
         <mark key="[" line="71" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="^" line="6" column="35" />
@@ -596,8 +596,8 @@
         <mark key="^" line="87" column="39" />
         <mark key="." line="87" column="39" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" timestamp="1498557507187">
-        <mark key="'" line="98" column="33" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" timestamp="1498564224281">
+        <mark key="'" line="4" column="0" />
         <mark key="[" line="167" column="41" />
         <mark key="]" line="167" column="73" />
         <mark key="^" line="142" column="24" />
@@ -1521,9 +1521,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="394" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/permissions/permissions.test.js" />
-      <jump line="15" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/auth.js" />
-      <jump line="60" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/auth.js" />
       <jump line="59" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/auth.js" />
       <jump line="342" column="22" filename="$USER_HOME$/www/jetbrains/ring-ui/components/auth/auth.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/auth/auth.js" />
@@ -1559,7 +1556,6 @@
       <jump line="267" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
       <jump line="1" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
       <jump line="285" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
-      <jump line="6" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
       <jump line="63" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
       <jump line="8" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
@@ -1621,10 +1617,14 @@
       <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/scripts/script.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/scripts/script-list.js" />
       <jump line="60" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/scripts/script-list.js" />
+      <jump line="6" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
+      <jump line="17" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
+      <jump line="288" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiBmaWx0ZXIod29ya2Zsb3dzIHx8IFtdLCB7Y29udmVydGVkOiB0cnVlfSk7CiAgICAgICAgfSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>http://selenium-win-1:5555/wd/hub</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -1633,7 +1633,7 @@
         <text>\t\n</text>
       </register>
       <register name="/" type="4">
-        <text>workflow</text>
+        <text>win-1</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIHJldHVybiBmaWx0ZXIod29ya2Zsb3dzIHx8IFtdLCB7Y29udmVydGVkOiB0cnVlfSk7CiAgICAgICAgfSk7Cg==</text>
@@ -1673,9 +1673,9 @@
       </register>
     </registers>
     <search>
-      <last-search>workflow</last-search>
+      <last-search>win-1</last-search>
       <last-offset />
-      <last-pattern>workflow</last-pattern>
+      <last-pattern>win-1</last-pattern>
       <last-replace>#444</last-replace>
       <last-substitute>$ring-palette-grey-text</last-substitute>
       <last-dir>1</last-dir>
@@ -1683,7 +1683,6 @@
     </search>
     <history>
       <history-search>
-        <entry>login</entry>
         <entry>pageGo</entry>
         <entry encoding="base64">XDxob3N0XD4=</entry>
         <entry>protractor</entry>
@@ -1703,6 +1702,7 @@
         <entry>import</entry>
         <entry>workflo</entry>
         <entry>workflow</entry>
+        <entry>win-1</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
