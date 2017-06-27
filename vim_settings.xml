@@ -711,12 +711,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/resources.js" timestamp="1497816862044">
         <mark key="'" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/load-user-permissions.js" timestamp="1498493155346">
-        <mark key="'" line="50" column="36" />
-        <mark key="[" line="42" column="28" />
-        <mark key="]" line="42" column="28" />
-        <mark key="." line="42" column="28" />
-        <mark key="^" line="42" column="28" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/load-user-permissions.js" timestamp="1498558270763">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="44" column="19" />
+        <mark key="]" line="44" column="42" />
+        <mark key="." line="44" column="42" />
+        <mark key="^" line="44" column="42" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/user/service/get-current-user.js" timestamp="1498033974186">
         <mark key="'" line="15" column="4" />
@@ -1507,10 +1507,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/permissions/permissions.js" />
-      <jump line="74" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/permissions/permissions.js" />
-      <jump line="49" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/load-user-permissions.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/load-user-permissions.js" />
       <jump line="13" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/load-user-permissions.js" />
       <jump line="17" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/load-user-permissions.js" />
       <jump line="84" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/permissions/permissions.js" />
@@ -1585,7 +1581,6 @@
       <jump line="183" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
       <jump line="196" column="56" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
       <jump line="90" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
-      <jump line="50" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/load-user-permissions.js" />
       <jump line="4" column="32" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/permissions.js" />
       <jump line="109" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/permissions/permissions.js" />
       <jump line="122" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/permissions/permissions.js" />
@@ -1607,19 +1602,24 @@
       <jump line="74" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
       <jump line="347" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
       <jump line="12" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/permissions.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/load-user-permissions.js" />
+      <jump line="49" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/load-user-permissions.js" />
+      <jump line="66" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/load-user-permissions.js" />
+      <jump line="50" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/load-user-permissions.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/load-user-permissions.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH1dLm1hcChhZGRUdW5uZWxJZGVudGlmaWVyKTsKCg==</text>
+      <register name="&quot;" type="4">
+        <text>$q.resolve(permissionsCache);</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>2.7.7116</text>
+        <text>$q.resolve(permissionsCache);</text>
       </register>
       <register name="/" type="4">
-        <text>load</text>
+        <text>result</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIH1dLm1hcChhZGRUdW5uZWxJZGVudGlmaWVyKTsKCg==</text>
@@ -1659,9 +1659,9 @@
       </register>
     </registers>
     <search>
-      <last-search>load</last-search>
+      <last-search>result</last-search>
       <last-offset />
-      <last-pattern>load</last-pattern>
+      <last-pattern>result</last-pattern>
       <last-replace>#444</last-replace>
       <last-substitute>$ring-palette-grey-text</last-substitute>
       <last-dir>1</last-dir>
@@ -1669,7 +1669,6 @@
     </search>
     <history>
       <history-search>
-        <entry>createInit</entry>
         <entry>new Promise</entry>
         <entry>logout</entry>
         <entry>inter</entry>
@@ -1689,6 +1688,7 @@
         <entry>sele</entry>
         <entry>win</entry>
         <entry>load</entry>
+        <entry>result</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
