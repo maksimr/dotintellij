@@ -556,6 +556,9 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/service/multiple-request-processor-handler.js" timestamp="1497816203736">
         <mark key="'" line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/template/new-features.html" timestamp="1498574764385">
+        <mark key="'" line="31" column="28" />
+      </file>
       <file name="$USER_HOME$/www/clojure/hello-clojurescript/src/hello_clojurescript/core.cljs" timestamp="1496756402088">
         <mark key="'" line="2" column="27" />
         <mark key="[" line="2" column="1" />
@@ -781,8 +784,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/service/custom-fields/get-custom-field-locked-state.js" timestamp="1497815805307">
         <mark key="'" line="91" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/report/style/report-view.scss" timestamp="1498574144750">
-        <mark key="'" line="17" column="1" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/report/style/report-view.scss" timestamp="1498574724876">
+        <mark key="'" line="64" column="0" />
         <mark key="[" line="5" column="22" />
         <mark key="]" line="5" column="22" />
         <mark key="." line="5" column="22" />
@@ -1560,11 +1563,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="271" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
-      <jump line="21" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
-      <jump line="232" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
-      <jump line="103" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
-      <jump line="257" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
       <jump line="350" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
       <jump line="23" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
       <jump line="5" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
@@ -1660,6 +1658,11 @@
       <jump line="4" column="45" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/style/reports.scss" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/_reports/types/time/_time_report.scss" />
       <jump line="76" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/_reports/types/time/_time_report.scss" />
+      <jump line="64" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/report/style/report-view.scss" />
+      <jump line="14" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/template/new-features.html" />
+      <jump line="44" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/template/new-features.html" />
+      <jump line="41" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/template/new-features.html" />
+      <jump line="31" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/template/new-features.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1672,7 +1675,7 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjdXJyZW50U2NyaXB0XD4=</text>
+        <text>Work</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QGltcG9ydCAiLi9kaXN0cmlidXRpb24tcmVwb3J0IjsK</text>
@@ -1712,17 +1715,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjdXJyZW50U2NyaXB0XD4=</last-search>
+      <last-search>Work</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjdXJyZW50U2NyaXB0XD4=</last-pattern>
+      <last-pattern>Work</last-pattern>
       <last-replace>#444</last-replace>
       <last-substitute>$ring-palette-grey-text</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>read</entry>
         <entry>undo</entry>
         <entry>save</entry>
         <entry>script</entry>
@@ -1742,6 +1744,7 @@
         <entry encoding="base64">XDx1c2VySGFzTWFkZVNvbWVDaGFuZ2VzXD4=</entry>
         <entry encoding="base64">XDxoYXNDaGFuZ2VzXD4=</entry>
         <entry encoding="base64">XDxjdXJyZW50U2NyaXB0XD4=</entry>
+        <entry>Work</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
