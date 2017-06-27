@@ -556,8 +556,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/service/multiple-request-processor-handler.js" timestamp="1497816203736">
         <mark key="'" line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/template/new-features.html" timestamp="1498574764385">
-        <mark key="'" line="31" column="28" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/template/new-features.html" timestamp="1498575786728">
+        <mark key="'" line="29" column="13" />
       </file>
       <file name="$USER_HOME$/www/clojure/hello-clojurescript/src/hello_clojurescript/core.cljs" timestamp="1496756402088">
         <mark key="'" line="2" column="27" />
@@ -1436,6 +1436,11 @@
         <mark key="]" line="27" column="2" />
         <mark key="." line="22" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/template/experimental.html" timestamp="1498575782616">
+        <mark key="'" line="26" column="22" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="36" column="6" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/sprint-base-form.html" timestamp="1496742574969">
         <mark key="'" line="66" column="0" />
         <mark key="[" line="69" column="30" />
@@ -1563,15 +1568,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="350" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
-      <jump line="23" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
-      <jump line="5" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
-      <jump line="24" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
-      <jump line="9" column="34" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
-      <jump line="10" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
-      <jump line="335" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
-      <jump line="259" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
-      <jump line="118" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
       <jump line="354" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" />
       <jump line="27" column="39" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
@@ -1663,10 +1659,19 @@
       <jump line="44" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/template/new-features.html" />
       <jump line="41" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/template/new-features.html" />
       <jump line="31" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/template/new-features.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/template/experimental.html" />
+      <jump line="16" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/template/experimental.html" />
+      <jump line="27" column="40" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/template/experimental.html" />
+      <jump line="41" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/template/experimental.html" />
+      <jump line="47" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/template/experimental.html" />
+      <jump line="15" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/template/experimental.html" />
+      <jump line="24" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/template/experimental.html" />
+      <jump line="26" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/template/experimental.html" />
+      <jump line="29" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/template/new-features.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICA8aDQgY2xhc3M9Im5ldy1mZWF0dXJlcy1wb3B1cF9fdGl0bGUiIHRyYW5zbGF0ZT0iIj5Xb3JrZmxvd3MgaW4gSmF2YVNjcmlwdDwvaDQ+CgogIDxwIGNsYXNzPSJuZXctZmVhdHVyZXMtcG9wdXBfX3BhcmFncmFwaCI+CiAgICA8c3BhbiB0cmFuc2xhdGU9IiI+CiAgICAgIEluIFlvdVRyYWNrIDIwMTcuMiwgeW91IGNhbiB3cml0ZSB3b3JrZmxvd3MgaW4gSmF2YVNjcmlwdCBpbnN0ZWFkIG9mIHRoZSBkb21haW4tc3BlY2lmaWMgbGFuZ3VhZ2UgdGhhdCBpcyB1c2VkIGluIHRoZSBwcmV2aW91cyB2ZXJzaW9ucy4gWW91IGNhbiB3cml0ZSBhIHdvcmtmbG93IGluIGFueSBJREUgdGhhdCBzdXBwb3J0cyBKYXZhU2NyaXB0LCBwYWNrIGl0IGludG8gYSBaSVAgZmlsZSBhbmQgdXBsb2FkIGl0IHRvIFlvdVRyYWNrLgoKICAgICAgPGJyLz4KICAgICAgSW4gYWRkaXRpb24sIHdlJ3ZlIGJ1aWx0IGEgd2ViLWJhc2VkIHdvcmtmbG93IGVkaXRvciBpbnNpZGUgWW91VHJhY2suIEhlcmUsIHlvdSBjYW4gd3JpdGUgYSB3b3JrZmxvdyBmcm9tIHNjcmF0Y2ggd2l0aG91dCBsZWF2aW5nIFlvdVRyYWNrLgoKICAgICAgPGJyLz4KICAgICAgV2XigJl2ZSBhZGRlZCBzdXBwb3J0IGZvciBhY3Rpb24gcnVsZXMuIFRoaXMgdHlwZSBvZiBzY3JpcHQgbGV0cyB5b3UgZXh0ZW5kIFlvdVRyYWNrIHdpdGggYWN0aW9ucyB0aGF0IGNhbiBiZSBhcHBsaWVkIGFzIGNvbW1hbmRzIG9yIGFjY2Vzc2VkIGRpcmVjdGx5IGZyb20gdGhlIGlzc3VlIHRvb2xiYXIuIFRoZSBuZXcgd29ya2Zsb3dzIGFsc28gc3VwcG9ydCBjdXN0b20gc2NyaXB0cywgd2hpY2ggbGV0IHlvdSBiZXR0ZXIgb3JnYW5pemUgYW5kIHN0cnVjdHVyZSB5b3VyIGNvZGUuIERlZmluZSB5b3VyIG93biBmdW5jdGlvbnMgYW5kIG9iamVjdHMgYW5kIHVzZSB0aGVtIGluIG90aGVyIHJ1bGVzIGFuZCB3b3JrZmxvd3MuCiAgICA8L3NwYW4+CiAgICA8eXQtZG9jdW1lbnRhdGlvbi1saW5rIHNlY3Rpb249IldlYi1iYXNlZC1Xb3JrZmxvdy1FZGl0b3IuaHRtbCI+PHNwYW4gdHJhbnNsYXRlPSIiPlJlYWQgbW9yZTwvc3Bhbj48L3l0LWRvY3VtZW50YXRpb24tbGluaz4uCiAgPC9wPgo=</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -1675,10 +1680,10 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>Work</text>
+        <text>work</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QGltcG9ydCAiLi9kaXN0cmlidXRpb24tcmVwb3J0IjsK</text>
+        <text encoding="base64">ICA8aDQgY2xhc3M9Im5ldy1mZWF0dXJlcy1wb3B1cF9fdGl0bGUiIHRyYW5zbGF0ZT0iIj5Xb3JrZmxvd3MgaW4gSmF2YVNjcmlwdDwvaDQ+CgogIDxwIGNsYXNzPSJuZXctZmVhdHVyZXMtcG9wdXBfX3BhcmFncmFwaCI+CiAgICA8c3BhbiB0cmFuc2xhdGU9IiI+CiAgICAgIEluIFlvdVRyYWNrIDIwMTcuMiwgeW91IGNhbiB3cml0ZSB3b3JrZmxvd3MgaW4gSmF2YVNjcmlwdCBpbnN0ZWFkIG9mIHRoZSBkb21haW4tc3BlY2lmaWMgbGFuZ3VhZ2UgdGhhdCBpcyB1c2VkIGluIHRoZSBwcmV2aW91cyB2ZXJzaW9ucy4gWW91IGNhbiB3cml0ZSBhIHdvcmtmbG93IGluIGFueSBJREUgdGhhdCBzdXBwb3J0cyBKYXZhU2NyaXB0LCBwYWNrIGl0IGludG8gYSBaSVAgZmlsZSBhbmQgdXBsb2FkIGl0IHRvIFlvdVRyYWNrLgoKICAgICAgPGJyLz4KICAgICAgSW4gYWRkaXRpb24sIHdlJ3ZlIGJ1aWx0IGEgd2ViLWJhc2VkIHdvcmtmbG93IGVkaXRvciBpbnNpZGUgWW91VHJhY2suIEhlcmUsIHlvdSBjYW4gd3JpdGUgYSB3b3JrZmxvdyBmcm9tIHNjcmF0Y2ggd2l0aG91dCBsZWF2aW5nIFlvdVRyYWNrLgoKICAgICAgPGJyLz4KICAgICAgV2XigJl2ZSBhZGRlZCBzdXBwb3J0IGZvciBhY3Rpb24gcnVsZXMuIFRoaXMgdHlwZSBvZiBzY3JpcHQgbGV0cyB5b3UgZXh0ZW5kIFlvdVRyYWNrIHdpdGggYWN0aW9ucyB0aGF0IGNhbiBiZSBhcHBsaWVkIGFzIGNvbW1hbmRzIG9yIGFjY2Vzc2VkIGRpcmVjdGx5IGZyb20gdGhlIGlzc3VlIHRvb2xiYXIuIFRoZSBuZXcgd29ya2Zsb3dzIGFsc28gc3VwcG9ydCBjdXN0b20gc2NyaXB0cywgd2hpY2ggbGV0IHlvdSBiZXR0ZXIgb3JnYW5pemUgYW5kIHN0cnVjdHVyZSB5b3VyIGNvZGUuIERlZmluZSB5b3VyIG93biBmdW5jdGlvbnMgYW5kIG9iamVjdHMgYW5kIHVzZSB0aGVtIGluIG90aGVyIHJ1bGVzIGFuZCB3b3JrZmxvd3MuCiAgICA8L3NwYW4+CiAgICA8eXQtZG9jdW1lbnRhdGlvbi1saW5rIHNlY3Rpb249IldlYi1iYXNlZC1Xb3JrZmxvdy1FZGl0b3IuaHRtbCI+PHNwYW4gdHJhbnNsYXRlPSIiPlJlYWQgbW9yZTwvc3Bhbj48L3l0LWRvY3VtZW50YXRpb24tbGluaz4uCiAgPC9wPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">QGltcG9ydCAiLi4vLi4vLi4vY29tcG9uZW50cy9yZXBvcnQvc3R5bGUvY2hhcnRzIjsK</text>
@@ -1715,9 +1720,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Work</last-search>
+      <last-search>work</last-search>
       <last-offset />
-      <last-pattern>Work</last-pattern>
+      <last-pattern>work</last-pattern>
       <last-replace>#444</last-replace>
       <last-substitute>$ring-palette-grey-text</last-substitute>
       <last-dir>1</last-dir>
@@ -1725,7 +1730,6 @@
     </search>
     <history>
       <history-search>
-        <entry>undo</entry>
         <entry>save</entry>
         <entry>script</entry>
         <entry>code</entry>
@@ -1745,6 +1749,7 @@
         <entry encoding="base64">XDxoYXNDaGFuZ2VzXD4=</entry>
         <entry encoding="base64">XDxjdXJyZW50U2NyaXB0XD4=</entry>
         <entry>Work</entry>
+        <entry>work</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
