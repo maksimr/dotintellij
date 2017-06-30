@@ -50,10 +50,10 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="19" column="30" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1498492831305">
-        <mark key="'" line="90" column="5" />
-        <mark key="[" line="98" column="16" />
-        <mark key="]" line="98" column="20" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1498829951467">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="138" column="22" />
+        <mark key="]" line="138" column="106" />
         <mark key="." line="98" column="20" />
         <mark key="^" line="98" column="20" />
       </file>
@@ -750,7 +750,7 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/global/global.css" timestamp="1498746841956">
         <mark key="'" line="7" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1498824419863">
+      <file name="/Dummy.txt" timestamp="1498829938454">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -1601,7 +1601,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="406" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-feed.js" />
       <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-feed.html" />
       <jump line="27" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-feed.html" />
       <jump line="28" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-feed.html" />
@@ -1701,10 +1700,11 @@
       <jump line="46" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/scripts/script-list.html" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/style/scripting-workflow.scss" />
       <jump line="27" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/scripts/script-list.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>https://www.jetbrains.com/help/youtrack/standalone/7.0/YouTrack-Java-Start-Parameters.html</text>
+        <text>./../gradlew runJarOn8088 -Pjetbrains.youtrack.disableBrowser=true -b ../build.gradle</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
