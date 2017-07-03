@@ -1,6 +1,8 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId="Configure Kotlin in Project" displayType="NONE" />
     <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
+    <notification groupId="Framework Detection" displayType="NONE" />
     <notification groupId="Gradle Import" displayType="NONE" shouldLog="false" />
     <notification groupId="TeamCity.BuildFailed" displayType="STICKY_BALLOON" />
     <notification groupId="TeamCity.BuildSuccessful" displayType="STICKY_BALLOON" />
