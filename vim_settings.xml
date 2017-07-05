@@ -1631,12 +1631,12 @@
         <mark key="." line="3" column="33" />
         <mark key="^" line="3" column="33" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/style/scripting-workflow.scss" timestamp="1499267382695">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="128" column="47" />
-        <mark key="]" line="128" column="46" />
-        <mark key="." line="128" column="46" />
-        <mark key="^" line="128" column="46" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/style/scripting-workflow.scss" timestamp="1499267486201">
+        <mark key="'" line="128" column="15" />
+        <mark key="[" line="203" column="26" />
+        <mark key="]" line="203" column="26" />
+        <mark key="." line="203" column="29" />
+        <mark key="^" line="202" column="32" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/report-types/directive/yt-report-body.js" timestamp="1497524521599">
         <mark key="'" line="0" column="0" />
@@ -1715,7 +1715,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/service/scripts/dialog-create-script.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/service/scripts/dialog-create-script.js" />
       <jump line="18" column="35" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/service/scripts/dialog-create-script.js" />
       <jump line="10" column="44" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/service/scripts/dialog-create-script.js" />
@@ -1815,16 +1814,17 @@
       <jump line="20" column="1" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/global/global.scss" />
       <jump line="23" column="1" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/global/global.scss" />
       <jump line="10" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/style/scripting-workflow.scss" />
+      <jump line="128" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/style/scripting-workflow.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#eee</text>
+        <text>$ring-border-color</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>#eee</text>
+        <text>$ring-border-color</text>
       </register>
       <register name="/" type="4">
         <text>toolbar</text>
