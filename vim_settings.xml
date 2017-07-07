@@ -949,12 +949,12 @@
         <mark key="." line="5" column="22" />
         <mark key="^" line="5" column="22" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/scripts/yt-script-editor.js" timestamp="1499423177954">
-        <mark key="'" line="167" column="0" />
-        <mark key="[" line="167" column="56" />
-        <mark key="]" line="167" column="61" />
-        <mark key="." line="167" column="61" />
-        <mark key="^" line="167" column="61" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/scripts/yt-script-editor.js" timestamp="1499427000233">
+        <mark key="'" line="211" column="8" />
+        <mark key="[" line="303" column="0" />
+        <mark key="]" line="303" column="0" />
+        <mark key="^" line="304" column="24" />
+        <mark key="." line="303" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/vcs-changes/style/yt-vcs-change.scss" timestamp="1497605413513">
         <mark key="'" line="369" column="0" />
@@ -1746,7 +1746,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="228" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/scripts/script.js" />
       <jump line="186" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/scripts/script.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/scripts/yt-script-logs-panel.html" />
       <jump line="15" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/scripts/yt-script-logs-panel.html" />
@@ -1846,40 +1845,41 @@
       <jump line="20" column="27" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/scripts/yt-script-editor.js" />
       <jump line="351" column="27" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/scripts/yt-script-editor.js" />
       <jump line="167" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/scripts/yt-script-editor.js" />
+      <jump line="211" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/scripts/yt-script-editor.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>shortcutKeySymbol</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>/' + scriptListCtrl.currentWorkflowId</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx5dFNob3J0Y3V0c01hcFw+</text>
+        <text>dep</text>
       </register>
       <register name="0" type="4">
-        <text>shortcutKeySymbol</text>
+        <text>rule.name.replace(scriptEditorCtrl.script.workflow.name + '/', '')</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbihyZWZyZXNoTGlzdCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbihyZWZyZXNoTGlzdCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJ1bGUubmFtZS5yZXBsYWNlKHNjcmlwdEVkaXRvckN0cmwuc2NyaXB0LndvcmtmbG93Lm5hbWUgKyAnLycsICcnKSk7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiAkbG9jYXRpb24ucGF0aCgnYWRtaW4vc2NyaXB0cy8nICsgcnVsZS53b3JrZmxvdy5pZCArICcvJyArIHJ1bGUuaWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJ1bGUubmFtZS5yZXBsYWNlKHNjcmlwdEVkaXRvckN0cmwuc2NyaXB0LndvcmtmbG93Lm5hbWUgKyAnLycsICcnKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbihyZWZyZXNoTGlzdCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhydWxlLndvcmtmbG93KTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -1888,27 +1888,26 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZhciBFRElUT1JfT1BUSU9OU19LRVkgPSAnYWRtaW4vc2NyaXB0L2VkaXRvck9wdGlvbnMnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhydWxlLm5hbWUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdvcmtmbG93c1Jlc291cmNlLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx5dFNob3J0Y3V0c01hcFw+</last-search>
+      <last-search>dep</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx5dFNob3J0Y3V0c01hcFw+</last-pattern>
+      <last-pattern>dep</last-pattern>
       <last-replace>#444</last-replace>
       <last-substitute>$ring-palette-grey-text</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxlZGl0b3JPcHRpb25zXD4=</entry>
         <entry encoding="base64">XDxnZXRXb3JrZmxvd0VkaXRvclNob3J0Y3V0c1w+</entry>
         <entry>Map</entry>
         <entry>editor options</entry>
@@ -1928,6 +1927,7 @@
         <entry>sho</entry>
         <entry encoding="base64">XDxzaG9ydGN1dElkXD4=</entry>
         <entry encoding="base64">XDx5dFNob3J0Y3V0c01hcFw+</entry>
+        <entry>dep</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
