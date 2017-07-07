@@ -1198,12 +1198,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/charisma-app/source_gen/jetbrains/charisma/smartui/css/admin-reports.css" timestamp="1497816869323">
         <mark key="'" line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/scripts/script-list.js" timestamp="1499416853417">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/scripts/script-list.js" timestamp="1499417636439">
         <mark key="'" line="6" column="42" />
-        <mark key="[" line="6" column="42" />
-        <mark key="]" line="6" column="49" />
-        <mark key="." line="6" column="49" />
-        <mark key="^" line="6" column="49" />
+        <mark key="[" line="103" column="50" />
+        <mark key="]" line="103" column="50" />
+        <mark key="." line="103" column="50" />
+        <mark key="^" line="103" column="50" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-header-create-button.js" timestamp="1498653465825">
         <mark key="'" line="16" column="0" />
@@ -1843,49 +1843,49 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>route</text>
+        <text>/' + scriptListCtrl.currentWorkflowId</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>route</text>
+        <text>/' + scriptListCtrl.currentWorkflowId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2NhdGlvblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAkcm91dGUsCg==</text>
+        <text encoding="base64">ICAgICAgICAudGhlbihmdW5jdGlvbigpIHsKICAgICAgICAgIGlmIChzY3JpcHQuaWQgPT09IHNjcmlwdExpc3RDdHJsLmN1cnJlbnRTY3JpcHRJZCkgewogICAgICAgICAgICByZXR1cm4gJGxvY2F0aW9uLnBhdGgoJ2FkbWluL3NjcmlwdHMvJyArIHNjcmlwdExpc3RDdHJsLmN1cnJlbnRXb3JrZmxvd0lkKTsKICAgICAgICAgIH0KICAgICAgICAgIHJldHVybiByZWZyZXNoTGlzdChzY3JpcHQpOwogICAgICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAudGhlbihyZWZyZXNoTGlzdCkK</text>
+        <text encoding="base64">ICAgICAgICAudGhlbihyZWZyZXNoTGlzdCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJldHVybiAkbG9jYXRpb24ucGF0aCgnYWRtaW4vc2NyaXB0cy8nICsgcnVsZS53b3JrZmxvdy5pZCArICcvJyArIHJ1bGUuaWQpOwo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAudGhlbihyZWZyZXNoTGlzdCkK</text>
       </register>
-      <register name="5" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiAkbG9jYXRpb24ucGF0aCgnYWRtaW4vc2NyaXB0cy8nICsgcnVsZS53b3JrZmxvdy5pZCArICcvJyArIHJ1bGUuaWQpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAudGhlbihyZWZyZXNoTGlzdCkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHZhciBFRElUT1JfT1BUSU9OU19LRVkgPSAnYWRtaW4vc2NyaXB0L2VkaXRvck9wdGlvbnMnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdvcmtmbG93c1Jlc291cmNlLAo=</text>
+        <text encoding="base64">ICAgIHZhciBFRElUT1JfT1BUSU9OU19LRVkgPSAnYWRtaW4vc2NyaXB0L2VkaXRvck9wdGlvbnMnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdvcmtmbG93c1Jlc291cmNlLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
