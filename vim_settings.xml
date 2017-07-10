@@ -73,8 +73,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/service/yt-code-editor.js" timestamp="1497876578123">
         <mark key="'" line="10" column="30" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/externals/header/style/header.scss" timestamp="1499680961267">
-        <mark key="'" line="42" column="2" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/externals/header/style/header.scss" timestamp="1499683189303">
+        <mark key="'" line="33" column="17" />
+        <mark key="[" line="42" column="20" />
+        <mark key="]" line="45" column="14" />
+        <mark key="^" line="45" column="14" />
+        <mark key="." line="45" column="14" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/attach-file-toolkit.js" timestamp="1497960443240">
         <mark key="'" line="408" column="2" />
@@ -1295,12 +1299,12 @@
         <mark key="." line="1" column="66" />
         <mark key="^" line="1" column="66" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/service/create-header.js" timestamp="1498491317925">
-        <mark key="'" line="174" column="12" />
-        <mark key="[" line="172" column="78" />
-        <mark key="]" line="172" column="92" />
-        <mark key="." line="172" column="92" />
-        <mark key="^" line="172" column="92" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/service/create-header.js" timestamp="1499683106255">
+        <mark key="'" line="72" column="11" />
+        <mark key="[" line="73" column="22" />
+        <mark key="]" line="73" column="36" />
+        <mark key="." line="73" column="36" />
+        <mark key="^" line="73" column="36" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/report-base/service/get-report-projects-title.js" timestamp="1497444554082">
         <mark key="'" line="9" column="4" />
@@ -1748,12 +1752,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/scripts/yt-script-editor.js" />
-      <jump line="310" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/scripts/yt-script-editor.js" />
-      <jump line="305" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/scripts/yt-script-editor.js" />
-      <jump line="88" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/scripts/yt-script-editor.js" />
-      <jump line="306" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/scripts/yt-script-editor.js" />
-      <jump line="422" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/scripts/script.js" />
       <jump line="330" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/scripts/script.js" />
       <jump line="26" column="43" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/scripts/script.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/scripts/script.html" />
@@ -1848,10 +1846,16 @@
       <jump line="49" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/externals/header/style/header.scss" />
       <jump line="53" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/externals/header/style/header.scss" />
       <jump line="42" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/externals/header/style/header.scss" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/service/create-header.js" />
+      <jump line="36" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/service/create-header.js" />
+      <jump line="41" column="38" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/service/create-header.js" />
+      <jump line="43" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/service/create-header.js" />
+      <jump line="72" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/service/create-header.js" />
+      <jump line="33" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/externals/header/style/header.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>groupedMultiBarChart</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBtYXJnaW46IDAgYXV0bzsK</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -1860,10 +1864,10 @@
         <text>groupedMultiBarChart</text>
       </register>
       <register name="/" type="4">
-        <text>max</text>
+        <text>data</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">cmVxdWlyZSgnLi9zZXJ2aWNlL2NoYXJ0cy9ncm91cGVkTXVsdGlCYXJDaGFydCcpOwo=</text>
+        <text encoding="base64">ICBtYXJnaW46IDAgYXV0bzsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">dmFyIHJlcUNoYXJ0cyA9IHJlcXVpcmUuY29udGV4dCgnLi9zZXJpdmNlL2NoYXJ0cy8nLCB0cnVlKTsKcmVxQ2hhcnRzLmtleXMoKS5tYXAoZnVuY3Rpb24oY2hhcnRNb2R1bGVQYXRoKSB7CiAgcmVxQ2hhcnRzKGNoYXJ0TW9kdWxlUGF0aCk7Cn0pOwo=</text>
@@ -1900,9 +1904,9 @@
       </register>
     </registers>
     <search>
-      <last-search>max</last-search>
+      <last-search>data</last-search>
       <last-offset />
-      <last-pattern>max</last-pattern>
+      <last-pattern>data</last-pattern>
       <last-replace>#444</last-replace>
       <last-substitute>$ring-palette-grey-text</last-substitute>
       <last-dir>1</last-dir>
@@ -1910,8 +1914,6 @@
     </search>
     <history>
       <history-search>
-        <entry>workflowsReso</entry>
-        <entry>editorCon</entry>
         <entry encoding="base64">XDxpc09wZW5TY3JpcHRMaXN0UGFuZWxcPg==</entry>
         <entry>cursor</entry>
         <entry encoding="base64">XDxyZW1vdmVTY3JpcHRcPg==</entry>
@@ -1930,6 +1932,8 @@
         <entry>..\/..\/components</entry>
         <entry>repor</entry>
         <entry>max</entry>
+        <entry>dataTest</entry>
+        <entry>data</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
