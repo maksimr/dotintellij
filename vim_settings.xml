@@ -67,11 +67,11 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/bubble/directive/yt-error-bubble.js" timestamp="1499345282894">
         <mark key="'" line="39" column="2" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1499078344128">
-        <mark key="'" line="58" column="27" />
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="139" column="106" />
-        <mark key="." line="98" column="20" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1499767044232">
+        <mark key="'" line="150" column="20" />
+        <mark key="[" line="81" column="16" />
+        <mark key="]" line="81" column="17" />
+        <mark key="." line="81" column="17" />
         <mark key="^" line="98" column="20" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/utils.js" timestamp="1497816845614">
@@ -450,8 +450,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dropdown/directive/yt-single-input-dropdown.js" timestamp="1499165083740">
         <mark key="'" line="7" column="22" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" timestamp="1498571549378">
-        <mark key="'" line="5" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" timestamp="1499766355950">
+        <mark key="'" line="266" column="2" />
         <mark key="[" line="25" column="39" />
         <mark key="]" line="25" column="43" />
         <mark key="^" line="25" column="43" />
@@ -1786,14 +1786,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/reports.js" />
-      <jump line="23" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/reports.js" />
-      <jump line="24" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/reports.js" />
-      <jump line="25" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/reports.js" />
-      <jump line="26" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/reports.js" />
-      <jump line="27" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/reports.js" />
-      <jump line="28" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/reports.js" />
-      <jump line="29" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/reports.js" />
       <jump line="30" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/reports.js" />
       <jump line="11" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/reports.js" />
       <jump line="31" column="34" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/report-types/report-types.js" />
@@ -1886,6 +1878,14 @@
       <jump line="44" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/dialog-script-editor-settings.html" />
       <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/dialog-script-editor-settings.html" />
       <jump line="50" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/dialog-script-editor-settings.html" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
+      <jump line="266" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="163" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="48" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="136" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="81" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="150" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1898,7 +1898,7 @@
         <text>Layout</text>
       </register>
       <register name="/" type="4">
-        <text>Lay</text>
+        <text>ncp</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmctdG9vbHRpcD0ie3snQ29kZSBpbnNwZWN0aW9uJyB8IHRyYW5zbGF0ZX19Igo=</text>
@@ -1938,9 +1938,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Lay</last-search>
+      <last-search>ncp</last-search>
       <last-offset />
-      <last-pattern>Lay</last-pattern>
+      <last-pattern>ncp</last-pattern>
       <last-replace>#444</last-replace>
       <last-substitute>$ring-palette-grey-text</last-substitute>
       <last-dir>1</last-dir>
@@ -1948,8 +1948,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sho</entry>
-        <entry encoding="base64">XDxzaG9ydGN1dElkXD4=</entry>
         <entry encoding="base64">XDx5dFNob3J0Y3V0c01hcFw+</entry>
         <entry>dep</entry>
         <entry>nv</entry>
@@ -1968,6 +1966,8 @@
         <entry>Editor</entry>
         <entry>Panel opt</entry>
         <entry>Lay</entry>
+        <entry>ansi</entry>
+        <entry>ncp</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
