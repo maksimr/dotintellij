@@ -321,6 +321,14 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("has-changes")).withParent(xmlTag().withLocalName(string().equalTo("yt-script-editor")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-script-editor/@on-clone</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-clone")).withParent(xmlTag().withLocalName(string().equalTo("yt-script-editor")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-script-editor/@on-move</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-move")).withParent(xmlTag().withLocalName(string().equalTo("yt-script-editor")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>yt-slider/@on-change</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-change")).withParent(xmlTag().withLocalName(string().equalTo("yt-slider")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
