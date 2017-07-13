@@ -325,8 +325,20 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-clone")).withParent(xmlTag().withLocalName(string().equalTo("yt-script-editor")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-script-editor/@on-close</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-close")).withParent(xmlTag().withLocalName(string().equalTo("yt-script-editor")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>yt-script-editor/@on-move</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-move")).withParent(xmlTag().withLocalName(string().equalTo("yt-script-editor")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-script-editor/@on-rename</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-rename")).withParent(xmlTag().withLocalName(string().equalTo("yt-script-editor")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-script-list/@on-remove-script</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-remove-script")).withParent(xmlTag().withLocalName(string().equalTo("yt-script-list")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
       <display-name>yt-slider/@on-change</display-name>
