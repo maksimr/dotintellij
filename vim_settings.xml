@@ -323,6 +323,12 @@
         <mark key="." line="36" column="22" />
         <mark key="^" line="36" column="22" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-workflow-testing/src/test/kotlin/jetbrains/youtrack/workflow/predefinedWorkflows/ReferredIssuesTest.kt" timestamp="1500385717021">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="21" column="76" />
+        <mark key="]" line="21" column="77" />
+        <mark key="." line="21" column="77" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/ring-ui/components/select/select__popup.js" timestamp="1498043294436">
         <mark key="'" line="235" column="0" />
       </file>
@@ -333,8 +339,8 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="32" column="14" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/README.md" timestamp="1500382455206">
-        <mark key="'" line="60" column="2" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/README.md" timestamp="1500385475755">
+        <mark key="'" line="10" column="80" />
         <mark key="[" line="56" column="45" />
         <mark key="]" line="56" column="134" />
         <mark key="^" line="106" column="34" />
@@ -933,7 +939,7 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/global/global.css" timestamp="1498746841956">
         <mark key="'" line="7" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500315211023">
+      <file name="/Dummy.txt" timestamp="1500385653547">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
@@ -1973,14 +1979,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24189" column="90" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
-      <jump line="24273" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
-      <jump line="24287" column="90" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
-      <jump line="24372" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
-      <jump line="24386" column="90" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
-      <jump line="24463" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
-      <jump line="24464" column="51" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
-      <jump line="24470" column="58" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
       <jump line="24472" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
       <jump line="24551" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
       <jump line="24556" column="75" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
@@ -2073,10 +2071,18 @@
       <jump line="51" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/README.md" />
       <jump line="54" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/README.md" />
       <jump line="60" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/README.md" />
+      <jump line="57" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/README.md" />
+      <jump line="71" column="70" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/README.md" />
+      <jump line="73" column="65" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/README.md" />
+      <jump line="74" column="99" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/README.md" />
+      <jump line="83" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/README.md" />
+      <jump line="70" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/README.md" />
+      <jump line="10" column="80" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/README.md" />
+      <jump line="39" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-workflow-testing/src/test/kotlin/jetbrains/youtrack/workflow/predefinedWorkflows/ReferredIssuesTest.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgdGhpcmQgPSBjcmVhdGVTaW1wbGVJc3N1ZShwcm9qZWN0LCBmaW5kT3JDcmVhdGVHb2RVc2VyKCkpLnhkSXNzdWUKICAgICAgICB0cmFuc2FjdGlvbmFsIHsK</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -2085,10 +2091,10 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>watch</text>
+        <text>test</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBzaGFkb3c6ICdpbm5lcicsCiAgdW5kZWY6IHRydWUsCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdGhpcmQgPSBjcmVhdGVTaW1wbGVJc3N1ZShwcm9qZWN0LCBmaW5kT3JDcmVhdGVHb2RVc2VyKCkpLnhkSXNzdWUKICAgICAgICB0cmFuc2FjdGlvbmFsIHsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG9wdGlvbnMpOwo=</text>
@@ -2125,9 +2131,9 @@
       </register>
     </registers>
     <search>
-      <last-search>watch</last-search>
+      <last-search>test</last-search>
       <last-offset />
-      <last-pattern>watch</last-pattern>
+      <last-pattern>test</last-pattern>
       <last-replace>#444</last-replace>
       <last-substitute>$ring-palette-grey-text</last-substitute>
       <last-dir>1</last-dir>
@@ -2135,7 +2141,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXRTZWxlY3RNb2RlbFw+</entry>
         <entry>render</entry>
         <entry encoding="base64">XDxuZ01vZGVsXD4=</entry>
         <entry encoding="base64">XDxjb252ZXJ0TmdNb2RlbFRvU2VsZWN0XD4=</entry>
@@ -2155,6 +2160,7 @@
         <entry encoding="base64">XDxMaW5rVGVzdE1peGluXD4=</entry>
         <entry>gradlew</entry>
         <entry>watch</entry>
+        <entry>test</entry>
       </history-search>
       <history-cmd>
         <entry>19</entry>
