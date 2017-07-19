@@ -268,12 +268,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/template/general-improvements.html" timestamp="1498647708668">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="7" column="163" />
-        <mark key="]" line="7" column="166" />
-        <mark key="." line="7" column="166" />
-        <mark key="^" line="7" column="166" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/template/general-improvements.html" timestamp="1500471785747">
+        <mark key="'" line="57" column="2" />
+        <mark key="[" line="64" column="38" />
+        <mark key="]" line="64" column="61" />
+        <mark key="." line="64" column="61" />
+        <mark key="^" line="64" column="61" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-header-create-button.js" timestamp="1498653455166">
         <mark key="'" line="71" column="0" />
@@ -2087,8 +2087,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular-touch/angular-touch.js" timestamp="1498037201142">
         <mark key="'" line="617" column="10" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-board.js" timestamp="1500467917177">
-        <mark key="'" line="29" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-board.js" timestamp="1500471669102">
+        <mark key="'" line="152" column="14" />
         <mark key="[" line="139" column="26" />
         <mark key="]" line="139" column="29" />
         <mark key="." line="139" column="29" />
@@ -2096,9 +2096,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-workflow/src/main/resources/predefinedWorkflows/pomodoro-timer/pomodoro-states.js" />
-      <jump line="40" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-workflow-testing/src/test/kotlin/jetbrains/youtrack/workflow/predefinedWorkflows/PomodoroTimerTest.kt" />
-      <jump line="66" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-workflow-testing/src/test/kotlin/jetbrains/youtrack/workflow/predefinedWorkflows/PomodoroTimerTest.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/codemirror/keymap/vim.js" />
       <jump line="3146" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/codemirror/keymap/vim.js" />
       <jump line="1836" column="49" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/codemirror/keymap/vim.js" />
@@ -2196,61 +2193,64 @@
       <jump line="194" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/test/directive/yt-mention.js" />
       <jump line="484" column="52" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/test/directive/yt-mention.js" />
       <jump line="45" column="49" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/test/directive/yt-mention.js" />
+      <jump line="152" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/controller/agile-board.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/template/general-improvements.html" />
+      <jump line="56" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/template/general-improvements.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>now</text>
+        <text>Time-Report</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>now</text>
+        <text>Time-Report</text>
       </register>
       <register name="/" type="4">
-        <text>returns</text>
+        <text>Zen</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHZhciBub3cgPSAxOwo=</text>
+        <text encoding="base64">ICAgICAgICA8bGk+UHJlLWRlZmluZWQgZGF0ZSByYW5nZXMgbGV0IHlvdSBzaG93IHdvcmsgaXRlbXMgdGhhdCB3ZXJlIHJlcG9ydGVkIHRvZGF5IG9yIHllc3RlcmRheS48L2xpPgogICAgICAgIDxsaT5Fc3RpbWF0aW9ucyBhcmUgbm93IHNob3duIGZvciBldmVyeSBpc3N1ZSBvbiByZXBvcnRzIHRoYXQgYXJlIGdyb3VwZWQgdG8gc2hvdyBvbmUgaXNzdWUgcGVyIGxpbmUuPC9saT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgID8gbm93Cg==</text>
+        <text encoding="base64">ICAgICAgV2UgYWxzbyBhZGRlZCB0aGUgb3B0aW9uIHRvIGdyb3VwIHdvcmsgaXRlbXMgYnkgcHJvamVjdC4gSW5zdGVhZCBvZiBjcmVhdGluZyBzZXBhcmF0ZSByZXBvcnRzIGZvciBlYWNoIHByb2plY3QsIHlvdSBjYW4gZ2VuZXJhdGUgYSBzaW5nbGUgcmVwb3J0IGFuZCB0cmFjayB0aGUgZWZmb3J0cyBvZiB5b3VyIHRlYW0gb24gYSBwZXItcHJvamVjdCBiYXNpcy4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICA8bGk+UHJlLWRlZmluZWQgZGF0ZSByYW5nZXMgbGV0IHlvdSBzaG93IHdvcmsgaXRlbXMgdGhhdCB3ZXJlIHJlcG9ydGVkIHRvZGF5IG9yIHllc3RlcmRheS48L2xpPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhciBub3cK</text>
+        <text encoding="base64">ICAgICAgV2UndmUgbWFkZSBzaWduaWZpY2FudCBjaGFuZ2VzIHRvIHRoZSBzZXR0aW5ncyBmb3IgdGhlIFRpbWUgUmVwb3J0LiBNYW55IG9mIHRoZSBsaW1pdGF0aW9ucyB0aGF0IGRpbWluaXNoZWQgdGhlIHVzYWJpbGl0eSBvZiB0aGlzIHJlcG9ydCBoYXZlIGJlZW4gZXJhZGljYXRlZC4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgID8gbm93Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2YXIgbm93ID0gMTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhciBub3cK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0cmFuc2FjdGlvbmFsIHsKICAgICAgICAgICAgY29tbWFuZFNlcnZpY2UuZXhlY3V0ZShpc3N1ZS5lbnRpdHksICJzdGFydCIpCiAgICAgICAgICAgIGNsb2NrVGljayhpc3N1ZSwgMTApCiAgICAgICAgICAgIGNvbW1hbmRTZXJ2aWNlLmV4ZWN1dGUoaXNzdWUuZW50aXR5LCAiaW50ZXJydXB0IikKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xvY2tUaWNrKGlzc3VlLCAxMCkK</text>
+        <text encoding="base64">ICB2YXIgbm93ID0gMTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29tbWFuZFNlcnZpY2UuZXhlY3V0ZShpc3N1ZS5lbnRpdHksICJQb21vZG9ybyBpbnRlcnJ1cHRpb24gQSBpbnRlcnJ1cHQiKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>returns</last-search>
+      <last-search>Zen</last-search>
       <last-offset />
-      <last-pattern>returns</last-pattern>
+      <last-pattern>Zen</last-pattern>
       <last-replace>#444</last-replace>
       <last-substitute>$ring-palette-grey-text</last-substitute>
       <last-dir>1</last-dir>
@@ -2258,7 +2258,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb21tYW5kU2VydmljZVw+</entry>
         <entry encoding="base64">XDxzdGFydFw+</entry>
         <entry encoding="base64">XDxjb21tYW5kRGF0ZUlzQWxpZ25lZFRvVVRDU3RhcnRPZkRheVw+</entry>
         <entry>getValue</entry>
@@ -2278,6 +2277,7 @@
         <entry>now</entry>
         <entry>returnValue</entry>
         <entry>returns</entry>
+        <entry>Zen</entry>
       </history-search>
       <history-cmd>
         <entry>129</entry>
