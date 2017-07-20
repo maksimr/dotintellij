@@ -1071,12 +1071,12 @@
         <mark key="^" line="32" column="14" />
         <mark key="." line="32" column="14" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/service/workflows/import-workflow.js" timestamp="1500553567713">
-        <mark key="'" line="64" column="1" />
-        <mark key="[" line="0" column="1" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/service/workflows/import-workflow.js" timestamp="1500555613581">
+        <mark key="'" line="75" column="0" />
+        <mark key="[" line="55" column="23" />
+        <mark key="]" line="55" column="23" />
+        <mark key="^" line="55" column="23" />
+        <mark key="." line="55" column="23" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-feed.html" timestamp="1498743922305">
         <mark key="'" line="24" column="10" />
@@ -1360,12 +1360,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/i18n.js" timestamp="1497523841532">
         <mark key="'" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/service/workflows/import-workflow.js" timestamp="1500555346949">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="57" column="30" />
-        <mark key="]" line="58" column="16" />
-        <mark key="^" line="58" column="16" />
-        <mark key="." line="58" column="16" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/service/workflows/import-workflow.js" timestamp="1500555599991">
+        <mark key="'" line="73" column="16" />
+        <mark key="[" line="69" column="28" />
+        <mark key="]" line="69" column="28" />
+        <mark key="^" line="69" column="28" />
+        <mark key="." line="69" column="28" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.test.js" timestamp="1498605049283">
         <mark key="'" line="151" column="48" />
@@ -2110,9 +2110,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-workflow/src/main/kotlin/jetbrains/charisma/workflow/gaprest/Workflow.kt" />
-      <jump line="18" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-workflow/src/main/kotlin/jetbrains/charisma/workflow/gaprest/Workflow.kt" />
-      <jump line="19" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-workflow/src/main/kotlin/jetbrains/charisma/workflow/gaprest/Workflow.kt" />
       <jump line="35" column="154" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-workflow/src/main/kotlin/jetbrains/charisma/workflow/gaprest/Workflow.kt" />
       <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-workflow/src/main/kotlin/jetbrains/charisma/workflow/gaprest/Workflow.kt" />
       <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-workflow/src/main/kotlin/jetbrains/charisma/workflow/gaprest/Workflow.kt" />
@@ -2210,52 +2207,55 @@
       <jump line="1045" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ng-file-upload/dist/ng-file-upload-all.js" />
       <jump line="1030" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ng-file-upload/dist/ng-file-upload-all.js" />
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/service/workflows/import-workflow.js" />
+      <jump line="66" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/service/workflows/import-workflow.js" />
+      <jump line="2" column="1" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/service/workflows/import-workflow.js" />
+      <jump line="62" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/service/workflows/import-workflow.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+      <register name="&quot;" type="4">
+        <text>files</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jz4+Pic=</text>
+        <text>files</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGRhdGVNb2RlbFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>response.files</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHZhciBmaWxlID0gY3JlYXRlV29ya2Zsb3daaXBNb2NrKCdmb28uemlwJyk7CiAgICB2YXIgbmV3V29ya2Zsb3cgPSB5dE1vY2suY3JlYXRlV29ya2Zsb3dNb2NrKHtuYW1lOiAnZm9vJ30pOwogICAgdmFyIHVwbG9hZGVkV29ya2Zsb3dzID0gbnVsbDsKCiAgICBleHBlY3RJbXBvcnRXb3JrZmxvdygpOwogICAgZXhwZWN0R2V0V3Jva2Zsb3dzKCkucmVzcG9uZChbbmV3V29ya2Zsb3ddKTsKCiAgICBpbXBvcnRXb3JrZmxvdyhmaWxlKS50aGVuKGZ1bmN0aW9uKGRhdGEpIHsKICAgICAgdXBsb2FkZWRXb3JrZmxvd3MgPSBkYXRhOwogICAgfSk7CiAgICAkaHR0cEJhY2tlbmQuZmx1c2goKTsKCiAgICBleHBlY3QodXBsb2FkZWRXb3JrZmxvd3MubGVuZ3RoKS50b0VxdWFsKDEpOwogICAgZXhwZWN0KHVwbG9hZGVkV29ya2Zsb3dzWzBdLmlkKS50b0VxdWFsKG5ld1dvcmtmbG93LmlkKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICRxLnJlamVjdCh4eHhBZGRGaWxlc1RvUmVzcG9uc2VXb3JrYXJvdW5kKHJlc3BvbnNlKSk7Cg==</text>
+        <text encoding="base64">ICAgIGV4cGVjdEdldFdyb2tmbG93cygpLnJlc3BvbmQoW25ld1dvcmtmbG93XSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhciBuZXdXb3JrZmxvdyA9IHl0TW9jay5jcmVhdGVXb3JrZmxvd01vY2soe25hbWU6ICdmb28nfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4+Jyk7Cg==</text>
+        <text encoding="base64">ICAgIHZhciBmaWxlID0gY3JlYXRlV29ya2Zsb3daaXBNb2NrKCdmb28uemlwJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXNwb25zZS5maWxlcyk7Cg==</text>
+        <text encoding="base64">ICAgICRodHRwQmFja2VuZC5mbHVzaCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlLmZpbGVzKTsK</text>
+        <text encoding="base64">ICAgIGV4cGVjdCh1cGxvYWRlZFdvcmtmbG93c1swXS5pZCkudG9FcXVhbChuZXdXb3JrZmxvdy5pZCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5jYXRjaChmdW5jdGlvbihyZXNwb25zZSkgewogICAgICAgICAgfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
