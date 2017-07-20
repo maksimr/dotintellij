@@ -372,8 +372,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/codemirror/codemirror.js" timestamp="1499975483202">
         <mark key="'" line="11" column="20" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/scripts/yt-script-editor.html" timestamp="1500295085875">
-        <mark key="'" line="94" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/scripts/yt-script-editor.html" timestamp="1500587853712">
+        <mark key="'" line="3" column="0" />
         <mark key="[" line="34" column="63" />
         <mark key="]" line="34" column="85" />
         <mark key="." line="34" column="85" />
@@ -1225,12 +1225,12 @@
         <mark key="." line="72" column="30" />
         <mark key="^" line="72" column="30" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/directive/yt-code-editor.js" timestamp="1500568382155">
-        <mark key="'" line="159" column="10" />
-        <mark key="[" line="51" column="62" />
-        <mark key="]" line="51" column="65" />
-        <mark key="." line="51" column="65" />
-        <mark key="^" line="51" column="65" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/directive/yt-code-editor.js" timestamp="1500588082040">
+        <mark key="'" line="16" column="36" />
+        <mark key="[" line="106" column="39" />
+        <mark key="]" line="106" column="38" />
+        <mark key="." line="106" column="38" />
+        <mark key="^" line="106" column="38" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/report-types/template/report-widget-legend.html" timestamp="1497523491600">
         <mark key="'" line="9" column="0" />
@@ -1712,8 +1712,8 @@
         <mark key="." line="5" column="22" />
         <mark key="^" line="5" column="22" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/scripts/yt-script-editor.js" timestamp="1500571519751">
-        <mark key="'" line="286" column="10" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/scripts/yt-script-editor.js" timestamp="1500587846548">
+        <mark key="'" line="191" column="51" />
         <mark key="[" line="284" column="0" />
         <mark key="]" line="284" column="42" />
         <mark key="." line="284" column="0" />
@@ -2210,20 +2210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/codemirror/addon/comment/comment.js" />
-      <jump line="22" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/codemirror/addon/comment/comment.js" />
-      <jump line="23" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/codemirror/addon/comment/comment.js" />
-      <jump line="26" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/codemirror/addon/comment/comment.js" />
-      <jump line="159" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/directive/yt-code-editor.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/scripts/yt-script-editor.js" />
-      <jump line="114" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/scripts/yt-script-editor.js" />
-      <jump line="118" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/scripts/yt-script-editor.js" />
-      <jump line="127" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/scripts/yt-script-editor.js" />
-      <jump line="137" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/scripts/yt-script-editor.js" />
-      <jump line="168" column="49" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/scripts/yt-script-editor.js" />
-      <jump line="172" column="63" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/scripts/yt-script-editor.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/service/yt-code-editor.js" />
-      <jump line="140" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/service/yt-code-editor.js" />
       <jump line="152" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/shortcuts-hint-ng/shortcuts-hint-ng.js" />
       <jump line="103" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/shortcuts-hint-ng/shortcuts-hint-ng.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/shortcuts-hint-ng/shortcuts-hint-ng.js" />
@@ -2310,22 +2296,36 @@
       <jump line="29" column="96" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/service/scripts/dialog-create-script.js" />
       <jump line="39" column="65" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/service/scripts/dialog-create-script.js" />
       <jump line="4" column="37" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/scripts/script.js" />
+      <jump line="31" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/directive/yt-code-editor.js" />
+      <jump line="46" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/scripts/yt-script-editor.js" />
+      <jump line="64" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/scripts/yt-script-editor.js" />
+      <jump line="60" column="27" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/scripts/yt-script-editor.js" />
+      <jump line="35" column="47" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/scripts/yt-script-editor.js" />
+      <jump line="321" column="68" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/scripts/yt-script-editor.js" />
+      <jump line="201" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/scripts/yt-script-editor.js" />
+      <jump line="191" column="51" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/scripts/yt-script-editor.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/scripts/yt-script-editor.html" />
+      <jump line="102" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/directive/yt-code-editor.js" />
+      <jump line="51" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/directive/yt-code-editor.js" />
+      <jump line="145" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/directive/yt-code-editor.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/directive/yt-code-editor.js" />
+      <jump line="16" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/directive/yt-code-editor.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ID09PSB0cnVl</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>(options.ruleType</text>
+        <text encoding="base64">ID09PSB0cnVl</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkaWFsb2dDcmVhdGVTY3JpcHRcPg==</text>
+        <text>watch</text>
       </register>
-      <register name="0" type="4">
-        <text>dialogNewRuleCtrl.rule</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAoY29uZmlnICYmIGNvbmZpZy5saW50ICYmIHtsaW50OiBhbmd1bGFyLmV4dGVuZCh7fSwgbGludERlZmF1bHRDb25maWcsIGNvbmZpZy5saW50KX0pCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2334,48 +2334,44 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cob3B0aW9ucy5ydWxlVHlwZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coY29uZmlnLmxpbnQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIG5nLXAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0icmluZy1mb3JtX19jb250cm9sIj4K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cob3B0aW9ucy5ydWxlVHlwZSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIG5nLXAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPGxhYmVsIGZvcj0icnVsZS1uYW1lIiBjbGFzcz0icmluZy1mb3JtX19sYWJlbCIgdHJhbnNsYXRlPklEPC9sYWJlbD4K</text>
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0icmluZy1mb3JtX19jb250cm9sIj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgIHRhYmluZGV4PSIxIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgcmdTaG9ydGN1dHNIaW50UG9wdXAsCg==</text>
+        <text encoding="base64">ICAgICAgPGxhYmVsIGZvcj0icnVsZS1uYW1lIiBjbGFzcz0icmluZy1mb3JtX19sYWJlbCIgdHJhbnNsYXRlPklEPC9sYWJlbD4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkaWFsb2dDcmVhdGVTY3JpcHRcPg==</last-search>
+      <last-search>watch</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkaWFsb2dDcmVhdGVTY3JpcHRcPg==</last-pattern>
+      <last-pattern>watch</last-pattern>
       <last-replace>#444</last-replace>
       <last-substitute>$ring-palette-grey-text</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjdHJsXD4=</entry>
-        <entry>shor</entry>
-        <entry>work</entry>
-        <entry>short</entry>
         <entry encoding="base64">XDx5dFNob3J0Y3V0c0hlbHBMaXN0QnlDYXRlZ29yeVByb3ZpZGVyXD4=</entry>
         <entry encoding="base64">XDxoZWxwU2hvcnRjdXRzTGlzdFw+</entry>
         <entry encoding="base64">XDxzaG9ydGN1dHNDb252ZXJ0ZXJcPg==</entry>
@@ -2392,6 +2388,10 @@
         <entry>repea</entry>
         <entry>ruleType</entry>
         <entry encoding="base64">XDxkaWFsb2dDcmVhdGVTY3JpcHRcPg==</entry>
+        <entry>lint</entry>
+        <entry encoding="base64">XDxlZGl0b3JPcHRpb25zXD4=</entry>
+        <entry>ins</entry>
+        <entry>watch</entry>
       </history-search>
       <history-cmd>
         <entry>129</entry>
