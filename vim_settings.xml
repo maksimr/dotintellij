@@ -1225,8 +1225,8 @@
         <mark key="." line="72" column="30" />
         <mark key="^" line="72" column="30" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/directive/yt-code-editor.js" timestamp="1500588082040">
-        <mark key="'" line="16" column="36" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/directive/yt-code-editor.js" timestamp="1500625363836">
+        <mark key="'" line="32" column="34" />
         <mark key="[" line="106" column="39" />
         <mark key="]" line="106" column="38" />
         <mark key="." line="106" column="38" />
@@ -1751,11 +1751,11 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-view.html" timestamp="1498740045314">
         <mark key="'" line="63" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/scripts/yt-script-logs-panel.html" timestamp="1500164880054">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="46" column="27" />
-        <mark key="]" line="46" column="48" />
-        <mark key="." line="46" column="27" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/scripts/yt-script-logs-panel.html" timestamp="1500625772449">
+        <mark key="'" line="44" column="21" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
         <mark key="^" line="46" column="50" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/report-types/test/directive/widget-legend.js" timestamp="1497523579622">
@@ -2210,12 +2210,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="152" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/shortcuts-hint-ng/shortcuts-hint-ng.js" />
-      <jump line="103" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/shortcuts-hint-ng/shortcuts-hint-ng.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/shortcuts-hint-ng/shortcuts-hint-ng.js" />
-      <jump line="6" column="41" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/shortcuts-hint-ng/shortcuts-hint-ng.js" />
-      <jump line="11" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/shortcuts-hint-ng/shortcuts-hint-ng.js" />
-      <jump line="12" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/shortcuts-hint-ng/shortcuts-hint-ng.js" />
       <jump line="17" column="56" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/shortcuts-hint-ng/shortcuts-hint-ng.js" />
       <jump line="18" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/shortcuts-hint-ng/shortcuts-hint-ng.js" />
       <jump line="65" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/shortcuts-hint-ng/shortcuts-hint-ng.js" />
@@ -2310,10 +2304,16 @@
       <jump line="145" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/directive/yt-code-editor.js" />
       <jump line="6" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/directive/yt-code-editor.js" />
       <jump line="16" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/directive/yt-code-editor.js" />
+      <jump line="129" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/directive/yt-code-editor.js" />
+      <jump line="32" column="34" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/directive/yt-code-editor.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/scripts/yt-script-logs-panel.html" />
+      <jump line="77" column="103" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/scripts/yt-script-logs-panel.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/scripts/yt-script-logs-panel.html" />
+      <jump line="44" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/scripts/yt-script-logs-panel.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ID09PSB0cnVl</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBnbGFzcz0idHJ1ZSIK</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -2322,49 +2322,49 @@
         <text encoding="base64">ID09PSB0cnVl</text>
       </register>
       <register name="/" type="4">
-        <text>watch</text>
+        <text>quer</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAoY29uZmlnICYmIGNvbmZpZy5saW50ICYmIHtsaW50OiBhbmd1bGFyLmV4dGVuZCh7fSwgbGludERlZmF1bHRDb25maWcsIGNvbmZpZy5saW50KX0pCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnbGFzcz0idHJ1ZSIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coY29uZmlnLmxpbnQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coY29uZmlnLmxpbnQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cob3B0aW9ucy5ydWxlVHlwZSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIG5nLXAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0icmluZy1mb3JtX19jb250cm9sIj4K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cob3B0aW9ucy5ydWxlVHlwZSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgIG5nLXAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0icmluZy1mb3JtX19jb250cm9sIj4K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPGxhYmVsIGZvcj0icnVsZS1uYW1lIiBjbGFzcz0icmluZy1mb3JtX19sYWJlbCIgdHJhbnNsYXRlPklEPC9sYWJlbD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>watch</last-search>
+      <last-search>quer</last-search>
       <last-offset />
-      <last-pattern>watch</last-pattern>
+      <last-pattern>quer</last-pattern>
       <last-replace>#444</last-replace>
       <last-substitute>$ring-palette-grey-text</last-substitute>
       <last-dir>1</last-dir>
@@ -2372,9 +2372,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx5dFNob3J0Y3V0c0hlbHBMaXN0QnlDYXRlZ29yeVByb3ZpZGVyXD4=</entry>
-        <entry encoding="base64">XDxoZWxwU2hvcnRjdXRzTGlzdFw+</entry>
-        <entry encoding="base64">XDxzaG9ydGN1dHNDb252ZXJ0ZXJcPg==</entry>
         <entry>focus</entry>
         <entry encoding="base64">XDxlZGl0b3JcPg==</entry>
         <entry>filter</entry>
@@ -2392,6 +2389,9 @@
         <entry encoding="base64">XDxlZGl0b3JPcHRpb25zXD4=</entry>
         <entry>ins</entry>
         <entry>watch</entry>
+        <entry>sear</entry>
+        <entry>sea</entry>
+        <entry>quer</entry>
       </history-search>
       <history-cmd>
         <entry>129</entry>
