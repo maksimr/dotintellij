@@ -63,8 +63,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/bubble/directive/yt-error-bubble.js" timestamp="1499345282894">
         <mark key="'" line="39" column="2" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1500546912595">
-        <mark key="'" line="4" column="3" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1500889251817">
+        <mark key="'" line="70" column="17" />
         <mark key="[" line="138" column="69" />
         <mark key="]" line="138" column="68" />
         <mark key="." line="138" column="68" />
@@ -2211,9 +2211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="35" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/scripts/script.js" />
-      <jump line="65" column="35" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/scripts/script.js" />
-      <jump line="66" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/scripts/script.js" />
       <jump line="94" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/scripts/script.js" />
       <jump line="96" column="27" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/scripts/script.js" />
       <jump line="101" column="29" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/scripts/script.js" />
@@ -2311,6 +2308,9 @@
       <jump line="17" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-workflow/src/main/resources/predefinedWorkflows/pomodoro-timer/pomodoro-states.js" />
       <jump line="107" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-workflow/src/main/resources/predefinedWorkflows/pomodoro-timer/pomodoro-states.js" />
       <jump line="16" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-workflow/src/main/resources/predefinedWorkflows/pomodoro-timer/pomodoro-states.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="13" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="70" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2323,7 +2323,7 @@
         <text>()</text>
       </register>
       <register name="/" type="4">
-        <text>pomodoro</text>
+        <text>ring-ui</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cS5pbnNlcnQoMSkK</text>
@@ -2363,17 +2363,16 @@
       </register>
     </registers>
     <search>
-      <last-search>pomodoro</last-search>
+      <last-search>ring-ui</last-search>
       <last-offset />
-      <last-pattern>pomodoro</last-pattern>
+      <last-pattern>ring-ui</last-pattern>
       <last-replace>#444</last-replace>
       <last-substitute>$ring-palette-grey-text</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ctrl.filter</entry>
         <entry encoding="base64">XDxwXD4=</entry>
         <entry>hint</entry>
         <entry>module</entry>
@@ -2393,6 +2392,7 @@
         <entry>font-size</entry>
         <entry>pomodo</entry>
         <entry>pomodoro</entry>
+        <entry>ring-ui</entry>
       </history-search>
       <history-cmd>
         <entry>129</entry>
