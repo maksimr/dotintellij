@@ -1452,6 +1452,9 @@
         <mark key="." line="36" column="46" />
         <mark key="^" line="1" column="10" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-attachment.js" timestamp="1500975035787">
+        <mark key="'" line="354" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/scripts/script.js" timestamp="1500580387371">
         <mark key="'" line="4" column="37" />
         <mark key="[" line="52" column="27" />
@@ -2251,8 +2254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/edit-project/workflows.js" />
-      <jump line="91" column="49" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/edit-project/workflows.js" />
       <jump line="130" column="43" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/edit-project/workflows.js" />
       <jump line="215" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/edit-project/workflows.js" />
       <jump line="217" column="38" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/edit-project/workflows.js" />
@@ -2351,6 +2352,8 @@
       <jump line="22" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/file-uploader/service/file-upload.js" />
       <jump line="118" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/workflows.js" />
       <jump line="424" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/workflows.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-attachment.js" />
+      <jump line="354" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-attachment.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2363,7 +2366,7 @@
         <text>, _$rootScope_</text>
       </register>
       <register name="/" type="4">
-        <text>onImport</text>
+        <text>timerMock</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGZ1bmN0aW9uIGlzQXR0YWNoZWQod29ya2Zsb3cpIHsKICAgICAgICAgICAgcmV0dXJuIGF0dGFjaGVkV29ya2Zsb3dzW3dvcmtmbG93LmlkXTsKICAgICAgICAgIH0KCiAgICAgICAgICBmdW5jdGlvbiBub3QoZm4pIHsKICAgICAgICAgICAgcmV0dXJuIGZ1bmN0aW9uKHgpIHsKICAgICAgICAgICAgICByZXR1cm4gIWZuKHgpOwogICAgICAgICAgICB9OwogICAgICAgICAgfQo=</text>
@@ -2403,9 +2406,9 @@
       </register>
     </registers>
     <search>
-      <last-search>onImport</last-search>
+      <last-search>timerMock</last-search>
       <last-offset />
-      <last-pattern>onImport</last-pattern>
+      <last-pattern>timerMock</last-pattern>
       <last-replace>#444</last-replace>
       <last-substitute>$ring-palette-grey-text</last-substitute>
       <last-dir>1</last-dir>
@@ -2413,7 +2416,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ytMock</entry>
         <entry>workflow</entry>
         <entry encoding="base64">XDxjcmVhdGVXb3JrZmxvd1w+</entry>
         <entry>createRule</entry>
@@ -2433,6 +2435,7 @@
         <entry>fd</entry>
         <entry>load</entry>
         <entry>onImport</entry>
+        <entry>timerMock</entry>
       </history-search>
       <history-cmd>
         <entry>129</entry>
