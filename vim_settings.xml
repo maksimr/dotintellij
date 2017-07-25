@@ -1849,8 +1849,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/test/directive/yt-mention.js" timestamp="1500467906228">
         <mark key="'" line="45" column="49" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/server.sh" timestamp="1500981884453">
-        <mark key="'" line="15" column="64" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/server.sh" timestamp="1500984761388">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="124" column="0" />
+        <mark key="." line="124" column="0" />
+        <mark key="^" line="126" column="15" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/style/issue-feed.scss" timestamp="1497612396346">
         <mark key="'" line="16" column="0" />
@@ -2253,10 +2257,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="78" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/edit-project/workflows.js" />
-      <jump line="37" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/edit-project/workflows.js" />
-      <jump line="47" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/edit-project/workflows.js" />
-      <jump line="52" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/edit-project/workflows.js" />
       <jump line="53" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/edit-project/workflows.js" />
       <jump line="58" column="47" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/edit-project/workflows.js" />
       <jump line="59" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/edit-project/workflows.js" />
@@ -2353,61 +2353,65 @@
       <jump line="39" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/Dockerfile" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/server.sh" />
       <jump line="15" column="64" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/server.sh" />
+      <jump line="39" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/server.sh" />
+      <jump line="41" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/server.sh" />
+      <jump line="22" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/server.sh" />
+      <jump line="42" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/server.sh" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IC15</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBlY2hvICQ/Cg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC15</text>
+        <text>Unable to connect to the</text>
       </register>
       <register name="/" type="4">
-        <text>port</text>
+        <text>start</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">UlVOIGFwdC1nZXQgaW5zdGFsbCAteSB3Z2V0IHVuemlwIHNvZnR3YXJlLXByb3BlcnRpZXMtY29tbW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGlmIFsgJD8gLWVxIDcgXTsgdGhlbgogICAgICAgICAgICBlY2hvICJFcnJvcihTZXJ2ZXIpOiBVbmFibGUgdG8gY29ubmVjdCB0byB0aGUgJHNlcnZlckhvc3QiCiAgICAgICAgICBmaQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UlVOIGFwdC1nZXQgaW5zdGFsbCAteSBzb2Z0d2FyZS1wcm9wZXJ0aWVzLWNvbW1vbgo=</text>
+        <text encoding="base64">ICAgICAgICBlY2hvICQ/Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">UlVOIGFwdC1nZXQgaW5zdGFsbCAteSB3Z2V0IHVuemlwIGdpdAo=</text>
+      <register name="2" type="8">
+        <text encoding="base64">ICAKICAKICA=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RlJPTSB1YnVudHU6MTQuMDQK</text>
+        <text encoding="base64">ICAgICAgYXR0ZW1wc0Nvbm5lY3RDb3VudD0yMAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UlVOIGFwdC1nZXQgaW5zdGFsbCAteSBzb2Z0d2FyZS1wcm9wZXJ0aWVzLWNvbW1vbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBEZWZpbmUgd29ya2luZyBkaXJlY3RvcnkuCldPUktESVIgL2RhdGEK</text>
+        <text encoding="base64">UlVOIGFwdC1nZXQgaW5zdGFsbCAteSB3Z2V0IHVuemlwIGdpdAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UlVOIHdnZXQgLU8gL3RtcC9qcmUtbGludXgteDY0LnRhci5neiAtLWhlYWRlciAiQ29va2llOiBvcmFjbGVsaWNlbnNlPWFjY2VwdC1zZWN1cmViYWNrdXAtY29va2llIiBodHRwOi8vZG93bmxvYWQub3JhY2xlLmNvbS9vdG4tcHViL2phdmEvamRrLzh1NzctYjAzL2pyZS04dTc3LWxpbnV4LXg2NC50YXIuZ3oKUlVOIG1rZGlyIC9vcHQvanJlClJVTiB0YXIgLXp4ZiAvdG1wL2pyZS1saW51eC14NjQudGFyLmd6IC1DIC9vcHQvanJlClJVTiB1cGRhdGUtYWx0ZXJuYXRpdmVzIC0taW5zdGFsbCAvdXNyL2Jpbi9qYXZhIGphdmEgL29wdC9qcmUvanJlMS44LjBfNzcvYmluL2phdmEgMTAwCiMgSW5zdGFsbCBKYXZhLgo=</text>
+        <text encoding="base64">RlJPTSB1YnVudHU6MTQuMDQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICRyb290U2NvcGUgPSBfJHJvb3RTY29wZV87Cg==</text>
+        <text encoding="base64">IyBEZWZpbmUgd29ya2luZyBkaXJlY3RvcnkuCldPUktESVIgL2RhdGEK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB2YXIgJHJvb3RTY29wZTsK</text>
+        <text encoding="base64">UlVOIHdnZXQgLU8gL3RtcC9qcmUtbGludXgteDY0LnRhci5neiAtLWhlYWRlciAiQ29va2llOiBvcmFjbGVsaWNlbnNlPWFjY2VwdC1zZWN1cmViYWNrdXAtY29va2llIiBodHRwOi8vZG93bmxvYWQub3JhY2xlLmNvbS9vdG4tcHViL2phdmEvamRrLzh1NzctYjAzL2pyZS04dTc3LWxpbnV4LXg2NC50YXIuZ3oKUlVOIG1rZGlyIC9vcHQvanJlClJVTiB0YXIgLXp4ZiAvdG1wL2pyZS1saW51eC14NjQudGFyLmd6IC1DIC9vcHQvanJlClJVTiB1cGRhdGUtYWx0ZXJuYXRpdmVzIC0taW5zdGFsbCAvdXNyL2Jpbi9qYXZhIGphdmEgL29wdC9qcmUvanJlMS44LjBfNzcvYmluL2phdmEgMTAwCiMgSW5zdGFsbCBKYXZhLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>port</last-search>
+      <last-search>start</last-search>
       <last-offset />
-      <last-pattern>port</last-pattern>
+      <last-pattern>start</last-pattern>
       <last-replace>#444</last-replace>
       <last-substitute>$ring-palette-grey-text</last-substitute>
       <last-dir>1</last-dir>
@@ -2415,9 +2419,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZW5lcmF0ZUlkXD4=</entry>
-        <entry>init</entry>
-        <entry encoding="base64">XDxOb2RlXD4=</entry>
         <entry>workflows</entry>
         <entry encoding="base64">XDxyb290UmVzb3VyY2VcPg==</entry>
         <entry encoding="base64">XDxyZXNvdXJjZVw+</entry>
@@ -2435,6 +2436,9 @@
         <entry>JAVA</entry>
         <entry>git</entry>
         <entry>port</entry>
+        <entry>timeout</entry>
+        <entry>params</entry>
+        <entry>start</entry>
       </history-search>
       <history-cmd>
         <entry>129</entry>
