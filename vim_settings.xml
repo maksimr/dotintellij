@@ -1849,8 +1849,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/test/directive/yt-mention.js" timestamp="1500467906228">
         <mark key="'" line="45" column="49" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/server.sh" timestamp="1500483041216">
-        <mark key="'" line="35" column="5" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/server.sh" timestamp="1500981884453">
+        <mark key="'" line="15" column="64" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/style/issue-feed.scss" timestamp="1497612396346">
         <mark key="'" line="16" column="0" />
@@ -2253,8 +2253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="78" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/edit-project/workflows.js" />
-      <jump line="35" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/edit-project/workflows.js" />
       <jump line="36" column="78" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/edit-project/workflows.js" />
       <jump line="37" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/edit-project/workflows.js" />
       <jump line="47" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/edit-project/workflows.js" />
@@ -2353,6 +2351,8 @@
       <jump line="71" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/Dockerfile" />
       <jump line="22" column="33" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/Dockerfile" />
       <jump line="39" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/Dockerfile" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/server.sh" />
+      <jump line="15" column="64" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/server.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2365,7 +2365,7 @@
         <text encoding="base64">IC15</text>
       </register>
       <register name="/" type="4">
-        <text>git</text>
+        <text>port</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">UlVOIGFwdC1nZXQgaW5zdGFsbCAteSB3Z2V0IHVuemlwIHNvZnR3YXJlLXByb3BlcnRpZXMtY29tbW9uCg==</text>
@@ -2405,9 +2405,9 @@
       </register>
     </registers>
     <search>
-      <last-search>git</last-search>
+      <last-search>port</last-search>
       <last-offset />
-      <last-pattern>git</last-pattern>
+      <last-pattern>port</last-pattern>
       <last-replace>#444</last-replace>
       <last-substitute>$ring-palette-grey-text</last-substitute>
       <last-dir>1</last-dir>
@@ -2415,7 +2415,6 @@
     </search>
     <history>
       <history-search>
-        <entry>createRule</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZUlkXD4=</entry>
         <entry>init</entry>
         <entry encoding="base64">XDxOb2RlXD4=</entry>
@@ -2435,6 +2434,7 @@
         <entry>timerMock</entry>
         <entry>JAVA</entry>
         <entry>git</entry>
+        <entry>port</entry>
       </history-search>
       <history-cmd>
         <entry>129</entry>
