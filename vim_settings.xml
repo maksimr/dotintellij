@@ -1555,8 +1555,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/image-tool/image-tool.js" timestamp="1498815946898">
         <mark key="'" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/config/config.js" timestamp="1497959546560">
-        <mark key="'" line="85" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/config/config.js" timestamp="1501084699753">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="81" column="0" />
         <mark key="]" line="81" column="0" />
         <mark key="^" line="87" column="32" />
@@ -2227,7 +2227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/feature-flags/service/feature-flags.js" />
       <jump line="59" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/feature-flags/service/feature-flags.js" />
       <jump line="11" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/feature-flags/service/feature-flags.js" />
       <jump line="22" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/feature-flags/service/feature-flags-initializer.js" />
@@ -2327,6 +2326,7 @@
       <jump line="115" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
       <jump line="134" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
       <jump line="224" column="97" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/config/config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2339,7 +2339,7 @@
         <text>ok</text>
       </register>
       <register name="/" type="4">
-        <text>ring-ui</text>
+        <text>isEm</text>
       </register>
       <register name="0" type="4">
         <text>isForEmbeddedHubOnly</text>
@@ -2379,9 +2379,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ring-ui</last-search>
+      <last-search>isEm</last-search>
       <last-offset />
-      <last-pattern>ring-ui</last-pattern>
+      <last-pattern>isEm</last-pattern>
       <last-replace>#444</last-replace>
       <last-substitute>$ring-palette-grey-text</last-substitute>
       <last-dir>1</last-dir>
@@ -2389,7 +2389,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2FkQmFja2VuZEZsYWdzXD4=</entry>
         <entry encoding="base64">XDx1cGRhdGVIdWJGZWF0dXJlRmxhZ1w+</entry>
         <entry>fe</entry>
         <entry>load</entry>
@@ -2409,6 +2408,7 @@
         <entry>icons</entry>
         <entry>ok</entry>
         <entry>ring-ui</entry>
+        <entry>isEm</entry>
       </history-search>
       <history-cmd>
         <entry>55</entry>
