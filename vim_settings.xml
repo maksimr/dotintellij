@@ -1994,8 +1994,8 @@
         <mark key="." line="9" column="30" />
         <mark key="^" line="9" column="30" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/service/header-items.js" timestamp="1501146508145">
-        <mark key="'" line="39" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/service/header-items.js" timestamp="1501687717299">
+        <mark key="'" line="85" column="8" />
         <mark key="[" line="266" column="20" />
         <mark key="]" line="266" column="26" />
         <mark key="^" line="266" column="26" />
@@ -2332,8 +2332,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="212" column="41" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-watchers.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-watchers.js" />
       <jump line="242" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-watchers.js" />
       <jump line="75" column="41" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-watchers.js" />
       <jump line="25" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-watchers.js" />
@@ -2432,6 +2430,8 @@
       <jump line="493" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/test/directive/yt-mention.js" />
       <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/test/directive/yt-mention.js" />
       <jump line="433" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/test/directive/yt-mention.js" />
+      <jump line="3" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/service/header-items.js" />
+      <jump line="85" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/service/header-items.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2444,7 +2444,7 @@
         <text>watchchers</text>
       </register>
       <register name="/" type="4">
-        <text>login</text>
+        <text>setting</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0tc2VsZW5pdW0tYWRkcmVzcz1odHRwOi8vYnVncy1odW50ZXIubGFicy5pbnRlbGxpai5uZXQ6NDU0NS93ZC9odWIKYGBgCg==</text>
@@ -2484,9 +2484,9 @@
       </register>
     </registers>
     <search>
-      <last-search>login</last-search>
+      <last-search>setting</last-search>
       <last-offset />
-      <last-pattern>login</last-pattern>
+      <last-pattern>setting</last-pattern>
       <last-replace encoding="base64">ZnVuY3Rpb24oXDEpIA==</last-replace>
       <last-substitute encoding="base64">KFwoLipcKSkgPT4=</last-substitute>
       <last-dir>1</last-dir>
@@ -2494,7 +2494,6 @@
     </search>
     <history>
       <history-search>
-        <entry>remove</entry>
         <entry encoding="base64">XDxyZW1vdmVXYXRjaGVyXD4=</entry>
         <entry>ytAppl</entry>
         <entry encoding="base64">XDxjcmVhdGVJc3N1ZVdhdGNoZXJUZW1wbGF0ZVw+</entry>
@@ -2514,6 +2513,7 @@
         <entry>sin</entry>
         <entry>suite</entry>
         <entry>login</entry>
+        <entry>setting</entry>
       </history-search>
       <history-cmd>
         <entry>%s/$ring-palette-grey-text/#444/gc</entry>
