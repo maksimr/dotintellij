@@ -662,11 +662,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ng-file-upload/dist/ng-file-upload-all.js" timestamp="1500555037201">
         <mark key="'" line="1030" column="15" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/test/directive/yt-icon.js" timestamp="1501634121988">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/test/directive/yt-icon.js" timestamp="1501635294640">
+        <mark key="'" line="46" column="2" />
+        <mark key="[" line="45" column="25" />
+        <mark key="]" line="45" column="28" />
+        <mark key="." line="45" column="28" />
+        <mark key="^" line="45" column="28" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/report-base/test/report-base.js" timestamp="1497449322774">
         <mark key="'" line="0" column="20" />
@@ -867,6 +868,9 @@
         <mark key="]" line="35" column="68" />
         <mark key="^" line="35" column="68" />
         <mark key="." line="35" column="68" />
+      </file>
+      <file name="/fragment.js" timestamp="1501634975670">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/test/e2e/header.pageObject.js" timestamp="1501491874360">
         <mark key="'" line="69" column="17" />
@@ -1397,6 +1401,9 @@
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/popup/popup.js" timestamp="1500903343234">
         <mark key="'" line="328" column="2" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/feature-flags/test/filter/is-feature-flag-enabled.js" timestamp="1501634897114">
+        <mark key="'" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/test/directive/yt-code-editor.js" timestamp="1498301491789">
         <mark key="'" line="220" column="4" />
@@ -2153,8 +2160,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/footer/footer.css" timestamp="1497532009480">
         <mark key="'" line="70" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/feature-flags/service/feature-flags.js" timestamp="1501145896598">
-        <mark key="'" line="65" column="7" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/feature-flags/service/feature-flags.js" timestamp="1501634935449">
+        <mark key="'" line="1" column="0" />
         <mark key="[" line="58" column="21" />
         <mark key="]" line="58" column="25" />
         <mark key="." line="58" column="25" />
@@ -2323,14 +2330,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-watchers.js" />
-      <jump line="98" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-watchers.js" />
-      <jump line="242" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-watchers.js" />
-      <jump line="59" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-watchers.js" />
-      <jump line="62" column="33" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-watchers.js" />
-      <jump line="174" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-watchers.js" />
-      <jump line="102" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-watchers.js" />
-      <jump line="135" column="27" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-watchers.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-watchers.js" />
       <jump line="121" column="84" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-watchers.js" />
       <jump line="21" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/style/yt-issue-users-dropdown.scss" />
@@ -2423,25 +2422,33 @@
       <jump line="50" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/test/directive/yt-icon.js" />
       <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/test/directive/yt-icon.js" />
       <jump line="12" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/test/icon.js" />
+      <jump line="21" column="27" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/feature-flags/test/filter/is-feature-flag-enabled.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/feature-flags/test/filter/is-feature-flag-enabled.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/feature-flags/service/feature-flags.js" />
+      <jump line="41" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/test/directive/yt-icon.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/test/directive/yt-icon.js" />
+      <jump line="45" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/test/directive/yt-icon.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/test/directive/yt-icon.js" />
+      <jump line="46" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/test/directive/yt-icon.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>function(error) { }</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>img</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZnVuY3Rpb24gbG9nRXJyb3IoZXJyb3IpIHsKICAgICAgICAkbG9nLmVycm9yKGdldEVycm9yTWVzc2FnZUZyb21SZXNwb25zZShlcnJvcikpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -2450,25 +2457,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXNvdXJjZUZhY3RvcnkoY29tbW9uUmVzdCkuYmFubmVyLmdldCgpLiRwcm9taXNlCiAgICAgICAgICAudGhlbihmdW5jdGlvbihiYW5uZXIpIHsKICAgICAgICAgICAgaWYgKGJhbm5lci50ZXh0KSB7CiAgICAgICAgICAgICAgJGN0cmwuYmFubmVySFRNTCA9ICRzY2UudHJ1c3RBc0h0bWwoYmFubmVyLnRleHQpOwogICAgICAgICAgICB9CiAgICAgICAgICB9KS5jYXRjaChhbmd1bGFyLm5vb3ApOwo=</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBodHRwRXJyb3JIYW5kbGVyLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaHR0cEVycm9ySGFuZGxlci5sb2dFcnJvcignQ2FuXCd0IGxvYWQgc3lzdGUtd2lkZSBiYW5uZXIgY29udGVudCcsIGh0dHBFcnJvckhhbmRsZXIuZ2V0TWVzc2FnZShlcnJvcikpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXNvdXJjZUZhY3RvcnkoY29tbW9uUmVzdCkuYmFubmVyLmdldCgpLiRwcm9taXNlCiAgICAgICAgICAudGhlbihmdW5jdGlvbihiYW5uZXIpIHsKICAgICAgICAgICAgaWYgKGJhbm5lci50ZXh0KSB7CiAgICAgICAgICAgICAgJGN0cmwuYmFubmVySFRNTCA9ICRzY2UudHJ1c3RBc0h0bWwoYmFubmVyLnRleHQpOwogICAgICAgICAgICB9CiAgICAgICAgICB9KS5jYXRjaChhbmd1bGFyLm5vb3ApOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGVycm9yKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBodHRwRXJyb3JIYW5kbGVyLAo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaHR0cEVycm9ySGFuZGxlci5sb2dFcnJvcignQ2FuXCd0IGxvYWQgc3lzdGUtd2lkZSBiYW5uZXIgY29udGVudCcsIGh0dHBFcnJvckhhbmRsZXIuZ2V0TWVzc2FnZShlcnJvcikpOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0pLmNhdGNoKGZ1bmN0aW9uKGVycm9yKSB7CiAgICAgICAgICAgIGh0dHBFcnJvckhhbmRsZXIubG9nRXJyb3IoJ0NhblwndCBsb2FkIHN5c3RlLXdpZGUgYmFubmVyIGNvbnRlbnQnLCBodHRwRXJyb3JIYW5kbGVyLmdldE1lc3NhZ2UoZXJyb3IpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGVycm9yKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBodHRwRXJyb3JIYW5kbGVyLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
