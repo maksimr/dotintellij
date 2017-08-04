@@ -51,6 +51,9 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/codemirror/keymap/vim.js" timestamp="1500454892790">
         <mark key="'" line="3121" column="30" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1501850039215">
+        <mark key="'" line="13" column="31" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/utils.js" timestamp="1500164393781">
         <mark key="'" line="173" column="2" />
       </file>
@@ -95,8 +98,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/scripts/yt-create-rule-panel.html" timestamp="1500579879834">
         <mark key="'" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/directive/yt-code-editor.js" timestamp="1501844424311">
-        <mark key="'" line="21" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/directive/yt-code-editor.js" timestamp="1501849636348">
+        <mark key="'" line="5" column="0" />
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
@@ -671,11 +674,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1638" column="81" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/lib/jquery-ui/jquery-ui.js" />
-      <jump line="2015" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/lib/jquery-ui/jquery-ui.js" />
-      <jump line="2018" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/lib/jquery-ui/jquery-ui.js" />
-      <jump line="2021" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/lib/jquery-ui/jquery-ui.js" />
-      <jump line="2024" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/lib/jquery-ui/jquery-ui.js" />
       <jump line="2166" column="39" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/lib/jquery-ui/jquery-ui.js" />
       <jump line="2167" column="54" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/lib/jquery-ui/jquery-ui.js" />
       <jump line="2169" column="39" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/lib/jquery-ui/jquery-ui.js" />
@@ -771,6 +769,11 @@
       <jump line="123" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/directive/yt-code-editor.js" />
       <jump line="135" column="92" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/directive/yt-code-editor.js" />
       <jump line="21" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/directive/yt-code-editor.js" />
+      <jump line="78" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/directive/yt-code-editor.js" />
+      <jump line="164" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/directive/yt-code-editor.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/directive/yt-code-editor.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="13" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -783,7 +786,7 @@
         <text>flat</text>
       </register>
       <register name="/" type="4">
-        <text>match</text>
+        <text>ring-ui</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gKGRheXMuZGF5c0xlZnQgPiAwKSA/IGkxOG5NZXNzYWdlKGRheXMuZGF5c0xlZnQsIHsKICAgICAgICAgICc9MSc6IGkxOG4oJ3t7ZGF5c0xlZnR9fSBkYXkgbGVmdCcsIGRheXMpLAogICAgICAgICAgJz1vdGhlcic6IGkxOG4oJ3t7ZGF5c0xlZnR9fSBkYXlzIGxlZnQnLCBkYXlzKQogICAgICAgIH0pIDogbnVsbDsK</text>
@@ -823,9 +826,9 @@
       </register>
     </registers>
     <search>
-      <last-search>match</last-search>
+      <last-search>ring-ui</last-search>
       <last-offset />
-      <last-pattern>match</last-pattern>
+      <last-pattern>ring-ui</last-pattern>
       <last-replace encoding="base64">ZnVuY3Rpb24oXDEpIA==</last-replace>
       <last-substitute encoding="base64">KFwoLipcKSkgPT4=</last-substitute>
       <last-dir>1</last-dir>
@@ -833,7 +836,6 @@
     </search>
     <history>
       <history-search>
-        <entry>be</entry>
         <entry>before</entry>
         <entry>debugg</entry>
         <entry>console</entry>
@@ -853,6 +855,7 @@
         <entry>type</entry>
         <entry>mat</entry>
         <entry>match</entry>
+        <entry>ring-ui</entry>
       </history-search>
       <history-cmd>
         <entry>%s/$ring-palette-grey-text/#444/gc</entry>
