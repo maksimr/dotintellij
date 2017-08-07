@@ -51,8 +51,11 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/codemirror/keymap/vim.js" timestamp="1500454892790">
         <mark key="'" line="3121" column="30" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1501850874788">
-        <mark key="'" line="165" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1502095173168">
+        <mark key="'" line="102" column="2" />
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/utils.js" timestamp="1500164393781">
         <mark key="'" line="173" column="2" />
@@ -233,7 +236,7 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/dashboard/test/e2e/dashboard.spec.js" timestamp="1501492733624">
         <mark key="'" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" timestamp="1502033427368">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" timestamp="1502094484627">
         <mark key="'" line="297" column="2" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.es6" timestamp="1502033423328">
@@ -458,6 +461,12 @@
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/list/list.scss" timestamp="1501496929944">
         <mark key="'" line="15" column="3" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/test/e2e/header.spec.js" timestamp="1502094920825">
+        <mark key="[" line="33" column="72" />
+        <mark key="]" line="33" column="70" />
+        <mark key="." line="33" column="70" />
+        <mark key="^" line="33" column="70" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/palette/palette.scss" timestamp="1497607548658">
         <mark key="'" line="4" column="0" />
@@ -691,12 +700,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1039" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
-      <jump line="1056" column="34" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
-      <jump line="1080" column="48" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
-      <jump line="23" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
-      <jump line="1062" column="80" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="1523" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="1527" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
       <jump line="1525" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
@@ -745,13 +748,10 @@
       <jump line="78" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/directive/yt-code-editor.js" />
       <jump line="164" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/directive/yt-code-editor.js" />
       <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/directive/yt-code-editor.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
       <jump line="13" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
-      <jump line="102" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
       <jump line="7" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
       <jump line="165" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
       <jump line="58" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
       <jump line="294" column="1" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
       <jump line="13" column="57" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.js" />
@@ -790,70 +790,78 @@
       <jump line="109" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.es6" />
       <jump line="9" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_10.es6" />
       <jump line="7" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
+      <jump line="10" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
       <jump line="297" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="100" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="14" column="38" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="15" column="38" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="99" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="128" column="32" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="102" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gRWRnZU5vZGUodikgewogIHRoaXMudmFsdWUgPSB2Owo=</text>
+      <register name="&quot;" type="4">
+        <text>Uncaught ReferenceError: webpackJsonp is not defined</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>.next</text>
+        <text>Uncaught ReferenceError: webpackJsonp is not defined</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1bnByb2Nlc3NlZFw+</text>
+        <text>ring-hu</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gRWRnZU5vZGUodikgewogIHRoaXMudmFsdWUgPSB2Owo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5sb2dzLmlnbm9yZShmdW5jdGlvbihlcnJvck1lc3NhZ2UpIHsKICAgICAgICByZXR1cm4gZXJyb3JNZXNzYWdlLm1lc3NhZ2UuaW5kZXhPZignVW5jYXVnaHQgUmVmZXJlbmNlRXJyb3I6IHdlYnBhY2tKc29ucCBpcyBub3QgZGVmaW5lZCcpID4gLTE7CiAgICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJyaW5nLWh1YiI6ICJeMjAxNy4zLjY0OTQiLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB2YXIgeiA9IDEwOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHotLQo=</text>
+        <text encoding="base64">ICB2YXIgeiA9IDEwOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZy5lZGdlc1s1XS52YWx1ZSk7Cg==</text>
+        <text encoding="base64">ICAgIHotLQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY2hpbGQuKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZy5lZGdlc1s1XS52YWx1ZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVucHJvY2Vzc2VkKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coY2hpbGQuKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdW5wcm9jZXNzZWQucG9wKCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHVucHJvY2Vzc2VkKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZy5lZGdlc1sxXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgdW5wcm9jZXNzZWQucG9wKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhjaGlsZC52YWx1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZy5lZGdlc1sxXSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1bnByb2Nlc3NlZFw+</last-search>
+      <last-search>ring-hu</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1bnByb2Nlc3NlZFw+</last-pattern>
+      <last-pattern>ring-hu</last-pattern>
       <last-replace encoding="base64">ZnVuY3Rpb24oXDEpIA==</last-replace>
       <last-substitute encoding="base64">KFwoLipcKSkgPT4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>SEPAR</entry>
         <entry>SEPARA</entry>
         <entry>SE</entry>
         <entry>createTit</entry>
@@ -873,6 +881,7 @@
         <entry encoding="base64">XDxwcm9jZXNzZWRcPg==</entry>
         <entry encoding="base64">XDxpc1Byb2Nlc3NlZFw+</entry>
         <entry encoding="base64">XDx1bnByb2Nlc3NlZFw+</entry>
+        <entry>ring-hu</entry>
       </history-search>
       <history-cmd>
         <entry>%s/$ring-palette-grey-text/#444/gc</entry>
