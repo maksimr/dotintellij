@@ -567,6 +567,13 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/form/directive/yt-form-input.js" timestamp="1501498746233">
         <mark key="'" line="123" column="2" />
       </file>
+      <file name="$USER_HOME$/www/js/youtrack-workflow/lib/fs/zipfolder.js" timestamp="1503325323158">
+        <mark key="'" line="1" column="26" />
+        <mark key="[" line="18" column="43" />
+        <mark key="]" line="18" column="54" />
+        <mark key="." line="18" column="54" />
+        <mark key="^" line="18" column="54" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-view.html" timestamp="1498740045314">
         <mark key="'" line="63" column="0" />
       </file>
@@ -987,9 +994,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="250" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
-      <jump line="119" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
-      <jump line="27" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/webpack.config.js" />
       <jump line="23" column="29" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/webpack.config.js" />
       <jump line="14" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/package.json" />
@@ -1087,22 +1091,25 @@
       <jump line="60" column="0" filename="$USER_HOME$/www/js/youtrack-workflow/src/cli/index.js" />
       <jump line="34" column="17" filename="$USER_HOME$/www/js/youtrack-workflow/src/cli/upload.js" />
       <jump line="33" column="0" filename="$USER_HOME$/www/js/youtrack-workflow/src/cli/upload.js" />
+      <jump line="3" column="19" filename="$USER_HOME$/www/js/youtrack-workflow/lib/fs/zipfolder.js" />
+      <jump line="16" column="18" filename="$USER_HOME$/www/js/youtrack-workflow/lib/fs/zipfolder.js" />
+      <jump line="1" column="26" filename="$USER_HOME$/www/js/youtrack-workflow/lib/fs/zipfolder.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fs/tmpdir</text>
+        <text>*.js</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>fs/tmpdir</text>
+        <text>*.js</text>
       </register>
       <register name="/" type="4">
-        <text>main</text>
+        <text encoding="base64">XDxzcmNGb2xkZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgdG1wZGlyID0gcmVxdWlyZSgnLi4vLi4vbGliL2ZzL3RtcGRpcicpOwo=</text>
+        <text encoding="base64">ICB6aXBBcmNoaXZlLmdsb2IocGF0aC5yZXNvbHZlKHNyY0ZvbGRlciwgJyouanMnKSk7Cg==</text>
       </register>
       <register name="1" type="8">
         <text encoding="base64">IAogCiA=</text>
@@ -1143,17 +1150,16 @@
       </register>
     </registers>
     <search>
-      <last-search>main</last-search>
+      <last-search encoding="base64">XDxzcmNGb2xkZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>main</last-pattern>
+      <last-pattern encoding="base64">XDxzcmNGb2xkZXJcPg==</last-pattern>
       <last-replace encoding="base64">ZnVuY3Rpb24oXDEpIA==</last-replace>
       <last-substitute encoding="base64">KFwoLipcKSkgPT4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>addYou</entry>
         <entry encoding="base64">XDxhZGRZb3VUcmFja0ljb25zVG9SaW5nVUlcPg==</entry>
         <entry>run</entry>
         <entry>browser</entry>
@@ -1173,6 +1179,7 @@
         <entry>post</entry>
         <entry encoding="base64">XDx0ZWFtUG9zdGZpeFw+</entry>
         <entry>main</entry>
+        <entry encoding="base64">XDxzcmNGb2xkZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>132</entry>
