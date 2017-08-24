@@ -280,8 +280,10 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/dashboard/test/e2e/dashboard.spec.js" timestamp="1501492733624">
         <mark key="'" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" timestamp="1502447120440">
-        <mark key="'" line="24" column="44" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" timestamp="1503580623159">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="270" column="0" />
+        <mark key="]" line="271" column="49" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/admin.js" timestamp="1502450338026">
         <mark key="'" line="27" column="29" />
@@ -603,7 +605,7 @@
         <mark key="." line="9" column="55" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/project-wizard/project-wizard.js" timestamp="1503578142518">
-        <mark key="'" line="38" column="13" />
+        <mark key="'" line="35" column="13" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/externals/vcs-changes/yt-vcs-changes-tab.js" timestamp="1497959723446">
         <mark key="'" line="7" column="17" />
@@ -626,6 +628,11 @@
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/controller/bundle-user-edit.js" timestamp="1503575999690">
         <mark key="'" line="37" column="15" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/profile/template/yt-user-profile-global-warnings.html" timestamp="1503568835398">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="8" column="102" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ng-file-upload/dist/ng-file-upload-all.js" timestamp="1500555037201">
         <mark key="'" line="1030" column="15" />
@@ -1106,7 +1113,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="267" column="37" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
       <jump line="24" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
       <jump line="30" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
       <jump line="290" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
@@ -1206,10 +1212,11 @@
       <jump line="621" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-hub/app/blocks/app/app__backend.js" />
       <jump line="627" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-hub/app/blocks/app/app__backend.js" />
       <jump line="38" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/project-wizard/project-wizard.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Z2l0IGRpZmYgPiBwYXRjaC9yaW5nLXVpQEFOWS5wYXRjaA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHZhciBkYXJjdWxhVGhlbWUgPSB5dExvY2FsREIuZ2V0KCdkYXJjdWxhJyk7CiAgICB2YXIgZGFya0JsdWVUaGVtZSA9IHl0TG9jYWxEQi5nZXQoJ2RhcmtCbHVlJyk7Cg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -1218,10 +1225,10 @@
         <text>errors in tests</text>
       </register>
       <register name="/" type="4">
-        <text>inter</text>
+        <text>append</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">Z2l0IGRpZmYgPiBwYXRjaC9yaW5nLXVpQEFOWS5wYXRjaA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGFuZ3VsYXIuZWxlbWVudCgkZG9jdW1lbnRbMF0uZ2V0RWxlbWVudHNCeVRhZ05hbWUoJ2hlYWQnKVswXSkuYXBwZW5kKAogICAgICAkY29tcGlsZSgnPGxpbmsgZGF0YS1uZy1ocmVmPSInICsgdGhlbWVTdHlsZXNIcmVmICsgJyIgcmVsPSJzdHlsZXNoZWV0IiAvPicpKCRyb290U2NvcGUpCiAgICApOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgIE5vdyBpdCByZXF1aXJlcyBhdXRoIHRoYXQgbGVhZHMgdG8gcmV3cml0ZSB0byBtYW55IHRlc3RzCg==</text>
@@ -1258,9 +1265,9 @@
       </register>
     </registers>
     <search>
-      <last-search>inter</last-search>
+      <last-search>append</last-search>
       <last-offset />
-      <last-pattern>inter</last-pattern>
+      <last-pattern>append</last-pattern>
       <last-replace encoding="base64">ZnVuY3Rpb24oXDEpIA==</last-replace>
       <last-substitute encoding="base64">KFwoLipcKSkgPT4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1268,7 +1275,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjcm9uSW50ZXJ2YWxEaWFsb2dcPg==</entry>
         <entry>data</entry>
         <entry encoding="base64">XDxpbml0Q29sbGFwc2VFeHBhbmRDbGlja0hhbmRsZXJcPg==</entry>
         <entry>ring-hub</entry>
@@ -1288,6 +1294,7 @@
         <entry encoding="base64">XDxQcm9qZWN0VGVhbUxpc3RcPg==</entry>
         <entry encoding="base64">XDxwd0dldFVzZXJzQW5kR3JvdXBzRm9yU2VsZWN0XD4=</entry>
         <entry>inter</entry>
+        <entry>append</entry>
       </history-search>
       <history-cmd>
         <entry>132</entry>
