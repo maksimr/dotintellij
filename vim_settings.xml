@@ -504,7 +504,7 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/global/global.css" timestamp="1498746841956">
         <mark key="'" line="7" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503576000513">
+      <file name="/Dummy.txt" timestamp="1503922456450">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -890,6 +890,11 @@
       <file name="$USER_HOME$/www/js/youtrack-workflow/node_modules/request/request.js" timestamp="1502886570088">
         <mark key="'" line="1564" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/edit-project/custom-fields-table-tree.html" timestamp="1503923500654">
+        <mark key="'" line="9" column="4" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="59" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webapp/src/test/kotlin/jetbrains/youtrack/rest/issue/predefined/IssueWatchersTest.kt" timestamp="1501576946484">
         <mark key="'" line="33" column="40" />
       </file>
@@ -1162,8 +1167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-hub/app/blocks/app/app__backend.js" />
-      <jump line="621" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-hub/app/blocks/app/app__backend.js" />
       <jump line="627" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-hub/app/blocks/app/app__backend.js" />
       <jump line="38" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/project-wizard/project-wizard.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
@@ -1262,10 +1265,12 @@
       <jump line="96" column="0" filename="$USER_HOME$/www/js/youtrack-workflow/src/index.kt" />
       <jump line="70" column="22" filename="$USER_HOME$/www/js/youtrack-workflow/src/index.kt" />
       <jump line="13" column="0" filename="$USER_HOME$/www/js/youtrack-workflow/src/index.kt" />
+      <jump line="8" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/edit-project/custom-fields-table-tree.html" />
+      <jump line="9" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/edit-project/custom-fields-table-tree.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>host = url</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PHJnLWxlZ2FjeS10YWJsZS1oZWFkZXIgc3RpY2stdG8tdG9vbGJhcj4KICA8cmctbGVnYWN5LXRhYmxlLXRpdGxlIG5vLWJvcmRlcj48L3JnLWxlZ2FjeS10YWJsZS10aXRsZT4K</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -1276,8 +1281,8 @@
       <register name="/" type="4">
         <text>url</text>
       </register>
-      <register name="0" type="4">
-        <text>host</text>
+      <register name="0" type="2">
+        <text encoding="base64">PHJnLWxlZ2FjeS10YWJsZS1oZWFkZXIgc3RpY2stdG8tdG9vbGJhcj4KICA8cmctbGVnYWN5LXRhYmxlLXRpdGxlIG5vLWJvcmRlcj48L3JnLWxlZ2FjeS10YWJsZS10aXRsZT4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZGF0YSBjbGFzcyBSZXF1ZXN0UGFyYW1zKCkgOiBSZXF1ZXN0T3B0aW9ucyB7fQo=</text>
