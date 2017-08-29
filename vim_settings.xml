@@ -283,11 +283,6 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/dashboard/test/e2e/dashboard.spec.js" timestamp="1501492733624">
         <mark key="'" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" timestamp="1503928078010">
-        <mark key="'" line="334" column="2" />
-        <mark key="[" line="270" column="0" />
-        <mark key="]" line="271" column="50" />
-      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/admin.js" timestamp="1502450338026">
         <mark key="'" line="27" column="29" />
       </file>
@@ -391,6 +386,12 @@
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/issue.js" timestamp="1503932047568">
         <mark key="'" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng.js" timestamp="1504015768991">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="338" column="90" />
+        <mark key="]" line="338" column="90" />
+        <mark key="." line="338" column="90" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/directive/yt-script-editor.js" timestamp="1500127112364">
         <mark key="'" line="44" column="21" />
@@ -671,11 +672,6 @@
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/controller/bundle-user-edit.js" timestamp="1503575999690">
         <mark key="'" line="37" column="15" />
-      </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/profile/template/yt-user-profile-global-warnings.html" timestamp="1503568835398">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="8" column="102" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ng-file-upload/dist/ng-file-upload-all.js" timestamp="1500555037201">
         <mark key="'" line="1030" column="15" />
@@ -1225,7 +1221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select/select__popup.js" />
       <jump line="27" column="68" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select/select__popup.js" />
       <jump line="57" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select/select__popup.js" />
       <jump line="6" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-custom-field-complex.js" />
@@ -1325,6 +1320,7 @@
       <jump line="169" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select/select__popup.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select/select__popup.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select-ng/select-ng.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1349,28 +1345,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHtwcmV2ZW50RGVmYXVsdH0gZnJvbSAnLi4vZ2xvYmFsL2RvbSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBrZXkgPT09ICdBcnJvd0Rvd24nCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByZXZlbnREZWZhdWx0KGV2ZW50KTsK</text>
+        <text encoding="base64">aW1wb3J0IHtwcmV2ZW50RGVmYXVsdH0gZnJvbSAnLi4vZ2xvYmFsL2RvbSc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGxpc3RBY3RpdmVJdGVtID0gdGhpcy5saXN0ICYmIHRoaXMubGlzdC5zdGF0ZS5hY3RpdmVJdGVtOwogICAgaWYgKGxpc3RBY3RpdmVJdGVtKSB7CiAgICAgIHRoaXMub25MaXN0U2VsZWN0KGxpc3RBY3RpdmVJdGVtKTsKICAgIH0KICAgIHRoaXMucHJvcHMub25DbG9zZUF0dGVtcHQoKTsK</text>
+        <text encoding="base64">ICAgIHByZXZlbnREZWZhdWx0KGV2ZW50KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByZXZlbnREZWZhdWx0KGV2ZW50KTsKCiAgICBjb25zdCBsaXN0QWN0aXZlSXRlbSA9IHRoaXMubGlzdCAmJiB0aGlzLmxpc3Quc3RhdGUuYWN0aXZlSXRlbTsKICAgIGlmIChsaXN0QWN0aXZlSXRlbSkgewogICAgICB0aGlzLm9uTGlzdFNlbGVjdChsaXN0QWN0aXZlSXRlbSk7CiAgICB9CiAgICB0aGlzLnByb3BzLm9uQ2xvc2VBdHRlbXB0KCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGxpc3RBY3RpdmVJdGVtID0gdGhpcy5saXN0ICYmIHRoaXMubGlzdC5zdGF0ZS5hY3RpdmVJdGVtOwogICAgaWYgKGxpc3RBY3RpdmVJdGVtKSB7CiAgICAgIHRoaXMub25MaXN0U2VsZWN0KGxpc3RBY3RpdmVJdGVtKTsKICAgIH0KICAgIHRoaXMucHJvcHMub25DbG9zZUF0dGVtcHQoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICBzZWxlY3QtdHlwZT0iZHJvcGRvd24iCg==</text>
+        <text encoding="base64">ICAgIHByZXZlbnREZWZhdWx0KGV2ZW50KTsKCiAgICBjb25zdCBsaXN0QWN0aXZlSXRlbSA9IHRoaXMubGlzdCAmJiB0aGlzLmxpc3Quc3RhdGUuYWN0aXZlSXRlbTsKICAgIGlmIChsaXN0QWN0aXZlSXRlbSkgewogICAgICB0aGlzLm9uTGlzdFNlbGVjdChsaXN0QWN0aXZlSXRlbSk7CiAgICB9CiAgICB0aGlzLnByb3BzLm9uQ2xvc2VBdHRlbXB0KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCc+Pj4+Pj4+Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICBzZWxlY3QtdHlwZT0iZHJvcGRvd24iCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnPj4+Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCc+Pj4+Pj4+Jyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGFiOiBldmVudCA9PiB0aGlzLnRhYlByZXNzKGV2ZW50KSwK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnPj4+Jyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
