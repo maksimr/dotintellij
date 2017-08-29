@@ -448,8 +448,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/profile/filter/user-profile-url.js" timestamp="1503602198407">
         <mark key="'" line="3" column="13" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select-ng/select-ng.js" timestamp="1504007001841">
-        <mark key="'" line="2" column="7" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select-ng/select-ng.js" timestamp="1504009550534">
+        <mark key="'" line="338" column="23" />
         <mark key="[" line="341" column="0" />
         <mark key="]" line="341" column="0" />
         <mark key="." line="341" column="0" />
@@ -1222,8 +1222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="164" column="52" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select/select.js" />
-      <jump line="234" column="27" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select/select.js" />
       <jump line="235" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select/select.js" />
       <jump line="201" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-custom-field-complex.js" />
       <jump line="285" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-custom-field-complex.js" />
@@ -1310,7 +1308,6 @@
       <jump line="319" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select-ng/select-ng.js" />
       <jump line="327" column="51" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select-ng/select-ng.js" />
       <jump line="320" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select-ng/select-ng.js" />
-      <jump line="338" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select-ng/select-ng.js" />
       <jump line="332" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select-ng/select-ng.js" />
       <jump line="331" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select-ng/select-ng.js" />
       <jump line="324" column="27" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select-ng/select-ng.js" />
@@ -1322,6 +1319,9 @@
       <jump line="409" column="52" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select-ng/select-ng.js" />
       <jump line="333" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select-ng/select-ng.js" />
       <jump line="2" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select-ng/select-ng.js" />
+      <jump line="337" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select-ng/select-ng.js" />
+      <jump line="330" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select-ng/select-ng.js" />
+      <jump line="338" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select-ng/select-ng.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1334,7 +1334,7 @@
         <text>_on</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRFdmVudEtleVw+</text>
+        <text>ArrowDown</text>
       </register>
       <register name="0" type="4">
         <text>_onCloseAttempt</text>
@@ -1374,18 +1374,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRFdmVudEtleVw+</last-search>
+      <last-search>ArrowDown</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRFdmVudEtleVw+</last-pattern>
+      <last-pattern>ArrowDown</last-pattern>
       <last-replace encoding="base64">ZnVuY3Rpb24oXDEpIA==</last-replace>
       <last-substitute encoding="base64">KFwoLipcKSkgPT4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>config</entry>
-        <entry>$onInit</entry>
         <entry>onAttempt</entry>
         <entry>_onAtte</entry>
         <entry>onOpen</entry>
@@ -1401,9 +1399,11 @@
         <entry encoding="base64">XDxfaW5wdXRTaG9ydGN1dEhhbmRsZXJcPg==</entry>
         <entry encoding="base64">XDxnZXRTaG9ydGN1dHNQcm9wc1w+</entry>
         <entry>down</entry>
-        <entry>ArrowDown</entry>
         <entry encoding="base64">XDxlbGVtZW50XD4=</entry>
         <entry encoding="base64">XDxnZXRFdmVudEtleVw+</entry>
+        <entry encoding="base64">XDxza2lwTW91c2VFbnRlclByb2Nlc3NpbmdcPg==</entry>
+        <entry>ArrowUp</entry>
+        <entry>ArrowDown</entry>
       </history-search>
       <history-cmd>
         <entry>132</entry>
