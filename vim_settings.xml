@@ -452,11 +452,11 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/profile/filter/user-profile-url.js" timestamp="1503602198407">
         <mark key="'" line="3" column="13" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select-ng/select-ng.js" timestamp="1504011563810">
-        <mark key="'" line="497" column="0" />
-        <mark key="[" line="341" column="0" />
-        <mark key="]" line="341" column="0" />
-        <mark key="." line="341" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select-ng/select-ng.js" timestamp="1504015495598">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="337" column="90" />
+        <mark key="]" line="337" column="90" />
+        <mark key="." line="337" column="90" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-feed-avatar.js" timestamp="1498740384521">
         <mark key="'" line="5" column="0" />
@@ -1225,7 +1225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="318" column="55" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-custom-field-complex.js" />
       <jump line="87" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select/select__popup.js" />
       <jump line="27" column="68" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select/select__popup.js" />
       <jump line="57" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select/select__popup.js" />
@@ -1325,49 +1324,50 @@
       <jump line="209" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select/select__popup.js" />
       <jump line="169" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select/select__popup.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select/select__popup.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select-ng/select-ng.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHtwcmV2ZW50RGVmYXVsdH0gZnJvbSAnLi4vZ2xvYmFsL2RvbSc7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHx8</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>, true</text>
+        <text encoding="base64">IHx8</text>
       </register>
       <register name="/" type="4">
-        <text>tab</text>
+        <text>ArrowDown</text>
       </register>
       <register name="0" type="4">
         <text>this.props.onCloseAttempt(event, true)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHtwcmV2ZW50RGVmYXVsdH0gZnJvbSAnLi4vZ2xvYmFsL2RvbSc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBrZXkgPT09ICdBcnJvd0Rvd24nCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByZXZlbnREZWZhdWx0KGV2ZW50KTsK</text>
+        <text encoding="base64">aW1wb3J0IHtwcmV2ZW50RGVmYXVsdH0gZnJvbSAnLi4vZ2xvYmFsL2RvbSc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGxpc3RBY3RpdmVJdGVtID0gdGhpcy5saXN0ICYmIHRoaXMubGlzdC5zdGF0ZS5hY3RpdmVJdGVtOwogICAgaWYgKGxpc3RBY3RpdmVJdGVtKSB7CiAgICAgIHRoaXMub25MaXN0U2VsZWN0KGxpc3RBY3RpdmVJdGVtKTsKICAgIH0KICAgIHRoaXMucHJvcHMub25DbG9zZUF0dGVtcHQoKTsK</text>
+        <text encoding="base64">ICAgIHByZXZlbnREZWZhdWx0KGV2ZW50KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByZXZlbnREZWZhdWx0KGV2ZW50KTsKCiAgICBjb25zdCBsaXN0QWN0aXZlSXRlbSA9IHRoaXMubGlzdCAmJiB0aGlzLmxpc3Quc3RhdGUuYWN0aXZlSXRlbTsKICAgIGlmIChsaXN0QWN0aXZlSXRlbSkgewogICAgICB0aGlzLm9uTGlzdFNlbGVjdChsaXN0QWN0aXZlSXRlbSk7CiAgICB9CiAgICB0aGlzLnByb3BzLm9uQ2xvc2VBdHRlbXB0KCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGxpc3RBY3RpdmVJdGVtID0gdGhpcy5saXN0ICYmIHRoaXMubGlzdC5zdGF0ZS5hY3RpdmVJdGVtOwogICAgaWYgKGxpc3RBY3RpdmVJdGVtKSB7CiAgICAgIHRoaXMub25MaXN0U2VsZWN0KGxpc3RBY3RpdmVJdGVtKTsKICAgIH0KICAgIHRoaXMucHJvcHMub25DbG9zZUF0dGVtcHQoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICBzZWxlY3QtdHlwZT0iZHJvcGRvd24iCg==</text>
+        <text encoding="base64">ICAgIHByZXZlbnREZWZhdWx0KGV2ZW50KTsKCiAgICBjb25zdCBsaXN0QWN0aXZlSXRlbSA9IHRoaXMubGlzdCAmJiB0aGlzLmxpc3Quc3RhdGUuYWN0aXZlSXRlbTsKICAgIGlmIChsaXN0QWN0aXZlSXRlbSkgewogICAgICB0aGlzLm9uTGlzdFNlbGVjdChsaXN0QWN0aXZlSXRlbSk7CiAgICB9CiAgICB0aGlzLnByb3BzLm9uQ2xvc2VBdHRlbXB0KCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCc+Pj4+Pj4+Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICBzZWxlY3QtdHlwZT0iZHJvcGRvd24iCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnPj4+Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCc+Pj4+Pj4+Jyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGFiOiBldmVudCA9PiB0aGlzLnRhYlByZXNzKGV2ZW50KSwK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnPj4+Jyk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgdGFiOiBldmVudCA9PiB0aGlzLnRhYlByZXNzKGV2ZW50KSwK</text>
@@ -1377,9 +1377,9 @@
       </register>
     </registers>
     <search>
-      <last-search>tab</last-search>
+      <last-search>ArrowDown</last-search>
       <last-offset />
-      <last-pattern>tab</last-pattern>
+      <last-pattern>ArrowDown</last-pattern>
       <last-replace encoding="base64">ZnVuY3Rpb24oXDEpIA==</last-replace>
       <last-substitute encoding="base64">KFwoLipcKSkgPT4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1401,12 +1401,12 @@
         <entry encoding="base64">XDxnZXRFdmVudEtleVw+</entry>
         <entry encoding="base64">XDxza2lwTW91c2VFbnRlclByb2Nlc3NpbmdcPg==</entry>
         <entry>ArrowUp</entry>
-        <entry>ArrowDown</entry>
         <entry>Arrow</entry>
         <entry>dropdown</entry>
         <entry encoding="base64">XDxvbkxpc3RTZWxlY3RcPg==</entry>
         <entry encoding="base64">XDx0YWJQcmVzc1w+</entry>
         <entry>tab</entry>
+        <entry>ArrowDown</entry>
       </history-search>
       <history-cmd>
         <entry>132</entry>
