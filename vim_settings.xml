@@ -181,8 +181,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-agile-card-focus.js" timestamp="1501764031710">
         <mark key="'" line="19" column="35" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/select/select__popup.js" timestamp="1498043294436">
-        <mark key="'" line="235" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/select/select__popup.js" timestamp="1504009636123">
+        <mark key="'" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/e2e.conf.js" timestamp="1502363599962">
         <mark key="'" line="0" column="0" />
@@ -1222,7 +1222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="235" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select/select.js" />
       <jump line="201" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-custom-field-complex.js" />
       <jump line="285" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-custom-field-complex.js" />
       <jump line="287" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-custom-field-complex.js" />
@@ -1322,6 +1321,7 @@
       <jump line="337" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select-ng/select-ng.js" />
       <jump line="330" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select-ng/select-ng.js" />
       <jump line="338" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/select-ng/select-ng.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select__popup.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1334,7 +1334,7 @@
         <text>_on</text>
       </register>
       <register name="/" type="4">
-        <text>ArrowDown</text>
+        <text>tab</text>
       </register>
       <register name="0" type="4">
         <text>_onCloseAttempt</text>
@@ -1374,9 +1374,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ArrowDown</last-search>
+      <last-search>tab</last-search>
       <last-offset />
-      <last-pattern>ArrowDown</last-pattern>
+      <last-pattern>tab</last-pattern>
       <last-replace encoding="base64">ZnVuY3Rpb24oXDEpIA==</last-replace>
       <last-substitute encoding="base64">KFwoLipcKSkgPT4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1393,7 +1393,6 @@
         <entry encoding="base64">XDxvblNlbGVjdFw+</entry>
         <entry encoding="base64">XDxnZXRTZWxlY3RJdGVtRXZlbnRcPg==</entry>
         <entry encoding="base64">XDxfbGlzdFNlbGVjdEhhbmRsZXJcPg==</entry>
-        <entry>tab</entry>
         <entry>shor</entry>
         <entry>esc</entry>
         <entry encoding="base64">XDxfaW5wdXRTaG9ydGN1dEhhbmRsZXJcPg==</entry>
@@ -1404,6 +1403,7 @@
         <entry encoding="base64">XDxza2lwTW91c2VFbnRlclByb2Nlc3NpbmdcPg==</entry>
         <entry>ArrowUp</entry>
         <entry>ArrowDown</entry>
+        <entry>tab</entry>
       </history-search>
       <history-cmd>
         <entry>132</entry>
