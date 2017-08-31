@@ -52,8 +52,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/codemirror/keymap/vim.js" timestamp="1500454892790">
         <mark key="'" line="3121" column="30" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1504101325944">
-        <mark key="'" line="26" column="19" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1504177497279">
+        <mark key="'" line="13" column="31" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/utils.js" timestamp="1503934588390">
         <mark key="'" line="310" column="19" />
@@ -855,8 +855,8 @@
         <mark key="." line="35" column="91" />
         <mark key="^" line="35" column="91" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/test/directive/yt-date-picker.js" timestamp="1504108347971">
-        <mark key="'" line="25" column="15" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/test/directive/yt-date-picker.js" timestamp="1504131620148">
+        <mark key="'" line="89" column="0" />
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="21" />
         <mark key="^" line="58" column="20" />
@@ -1205,13 +1205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="43" filename="$USER_HOME$/www/jetbrains/ring-ui/components/ring-component/ring-component_with-shortcuts.js" />
-      <jump line="34" column="35" filename="$USER_HOME$/www/jetbrains/ring-ui/components/ring-component/ring-component_with-shortcuts.js" />
-      <jump line="70" column="6" filename="$USER_HOME$/www/jetbrains/ring-ui/components/ring-component/ring-component_with-shortcuts.js" />
-      <jump line="71" column="4" filename="$USER_HOME$/www/jetbrains/ring-ui/components/ring-component/ring-component_with-shortcuts.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/ring-component/ring-component_with-shortcuts.js" />
-      <jump line="630" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.js" />
       <jump line="97" column="4" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.js" />
       <jump line="151" column="4" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.js" />
       <jump line="48" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/ring-component/ring-component_with-shortcuts.js" />
@@ -1305,6 +1298,13 @@
       <jump line="13" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/test/directive/yt-date-picker.js" />
       <jump line="19" column="44" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/test/directive/yt-date-picker.js" />
       <jump line="25" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/test/directive/yt-date-picker.js" />
+      <jump line="71" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/test/directive/yt-date-picker.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/test/directive/yt-date-picker.js" />
+      <jump line="89" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/test/directive/yt-date-picker.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="98" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="101" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="13" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1317,7 +1317,7 @@
         <text>$timeout</text>
       </register>
       <register name="/" type="4">
-        <text>focus</text>
+        <text>ring-ui</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICR0aW1lb3V0LmZsdXNoKCk7Cg==</text>
@@ -1357,9 +1357,9 @@
       </register>
     </registers>
     <search>
-      <last-search>focus</last-search>
+      <last-search>ring-ui</last-search>
       <last-offset />
-      <last-pattern>focus</last-pattern>
+      <last-pattern>ring-ui</last-pattern>
       <last-replace encoding="base64">ZnVuY3Rpb24oXDEpIA==</last-replace>
       <last-substitute encoding="base64">KFwoLipcKSkgPT4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1367,7 +1367,6 @@
     </search>
     <history>
       <history-search>
-        <entry>willRece</entry>
         <entry>will</entry>
         <entry encoding="base64">XDxlbnRlckhhbmRsZXJcPg==</entry>
         <entry>clickHandler</entry>
@@ -1387,6 +1386,7 @@
         <entry>aut</entry>
         <entry encoding="base64">XDxoYXNBdXRvZm9jdXNcPg==</entry>
         <entry>focus</entry>
+        <entry>ring-ui</entry>
       </history-search>
       <history-cmd>
         <entry>132</entry>
