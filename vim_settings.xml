@@ -1181,8 +1181,8 @@
         <mark key="^" line="9" column="15" />
         <mark key="." line="9" column="15" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-custom-field.js" timestamp="1504187352202">
-        <mark key="'" line="76" column="2" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-custom-field.js" timestamp="1504195694231">
+        <mark key="'" line="18" column="10" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-workflow-testing/src/test/kotlin/jetbrains/youtrack/workflow/core/WorkflowTestBase.kt" timestamp="1500386170226">
         <mark key="'" line="17" column="11" />
@@ -1233,7 +1233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/issue-custom-field/yt-issue-custom-field.html" />
       <jump line="55" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/issue-custom-field/yt-issue-custom-field.html" />
       <jump line="52" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/issue-custom-field/yt-issue-custom-field.html" />
       <jump line="54" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/issue-custom-field/yt-issue-custom-field.html" />
@@ -1312,7 +1311,6 @@
       <jump line="61" column="68" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-custom-field.js" />
       <jump line="44" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-custom-field.js" />
       <jump line="15" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-custom-field.js" />
-      <jump line="18" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-custom-field.js" />
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-fields-panel.js" />
       <jump line="32" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-fields-panel.js" />
       <jump line="35" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-fields-panel.js" />
@@ -1329,10 +1327,12 @@
       <jump line="101" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-custom-field-simple.js" />
       <jump line="100" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-custom-field-simple.js" />
       <jump line="31" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issue-permissions.js" />
-      <jump line="24" column="79" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-custom-field.js" />
       <jump line="66" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-custom-field.js" />
       <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-custom-field.js" />
       <jump line="76" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-custom-field.js" />
+      <jump line="25" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-custom-field.js" />
+      <jump line="24" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-custom-field.js" />
+      <jump line="18" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-custom-field.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1345,7 +1345,7 @@
         <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
-        <text>start</text>
+        <text encoding="base64">XDxpc3N1ZUZpZWxkSW5zdGFuY2VcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIHl0SXNzdWVDdXN0b21GaWVsZEN0cmwuY2FuRWRpdEZpZWxkID0gaXNzdWVQZXJtaXNzaW9ucy5jYW5FZGl0SXNzdWVGaWVsZCh5dElzc3VlQ3VzdG9tRmllbGRDdHJsLmlzc3VlLCB5dElzc3VlQ3VzdG9tRmllbGRDdHJsLmZpZWxkKTsK</text>
@@ -1385,12 +1385,12 @@
       </register>
     </registers>
     <search>
-      <last-search>start</last-search>
+      <last-search encoding="base64">XDxpc3N1ZUZpZWxkSW5zdGFuY2VcPg==</last-search>
       <last-offset />
-      <last-pattern>start</last-pattern>
+      <last-pattern encoding="base64">XDxpc3N1ZUZpZWxkSW5zdGFuY2VcPg==</last-pattern>
       <last-replace encoding="base64">ZnVuY3Rpb24oXDEpIA==</last-replace>
       <last-substitute encoding="base64">KFwoLipcKSkgPT4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -1410,11 +1410,11 @@
         <entry>click</entry>
         <entry encoding="base64">XDxvbkVkaXRGaWVsZFw+</entry>
         <entry>ins</entry>
-        <entry encoding="base64">XDxpc3N1ZUZpZWxkSW5zdGFuY2VcPg==</entry>
         <entry>instance</entry>
         <entry>issueField</entry>
         <entry encoding="base64">XDxpc3N1ZUZpZWxkSW5zdGFuY2VzXD4=</entry>
         <entry>start</entry>
+        <entry encoding="base64">XDxpc3N1ZUZpZWxkSW5zdGFuY2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>132</entry>
