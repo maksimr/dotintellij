@@ -52,10 +52,10 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/codemirror/keymap/vim.js" timestamp="1500454892790">
         <mark key="'" line="3121" column="30" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1504183940374">
-        <mark key="'" line="105" column="18" />
-        <mark key="[" line="139" column="14" />
-        <mark key="]" line="139" column="118" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1504255537335">
+        <mark key="'" line="138" column="14" />
+        <mark key="[" line="140" column="5" />
+        <mark key="]" line="140" column="22" />
         <mark key="." line="139" column="109" />
         <mark key="^" line="139" column="109" />
       </file>
@@ -1242,7 +1242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/filter/get-issue-field-presentation.js" />
       <jump line="30" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/issue-custom-field/yt-issue-custom-field.html" />
       <jump line="26" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/issue-custom-field/yt-issue-custom-field.html" />
       <jump line="20" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/issue-custom-field/yt-issue-custom-field.html" />
@@ -1342,10 +1341,11 @@
       <jump line="86" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-custom-field-lazy.js" />
       <jump line="31" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-custom-field-lazy.js" />
       <jump line="91" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-custom-field-lazy.js" />
+      <jump line="138" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>start:youtrack-dev</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -1354,10 +1354,10 @@
         <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXNzQXBpT3V0c2lkZVw+</text>
+        <text>yout</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHl0SXNzdWVDdXN0b21GaWVsZEN0cmwuY2FuRWRpdEZpZWxkID0gaXNzdWVQZXJtaXNzaW9ucy5jYW5FZGl0SXNzdWVGaWVsZCh5dElzc3VlQ3VzdG9tRmllbGRDdHJsLmlzc3VlLCB5dElzc3VlQ3VzdG9tRmllbGRDdHJsLmZpZWxkKTsK</text>
+      <register name="0" type="4">
+        <text>start:youtrack-dev</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1394,17 +1394,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXNzQXBpT3V0c2lkZVw+</last-search>
+      <last-search>yout</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXNzQXBpT3V0c2lkZVw+</last-pattern>
+      <last-pattern>yout</last-pattern>
       <last-replace encoding="base64">ZnVuY3Rpb24oXDEpIA==</last-replace>
       <last-substitute encoding="base64">KFwoLipcKSkgPT4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>promise</entry>
         <entry encoding="base64">XDxnZXRUaW1lVHJhY2tpbmdEZXBlbmRlbnRSb2xlXD4=</entry>
         <entry encoding="base64">XDxjYW5FZGl0SXNzdWVGaWVsZFw+</entry>
         <entry>init</entry>
@@ -1424,6 +1423,7 @@
         <entry encoding="base64">XDxUQUJCQUJMRV9TRUxFQ1RPUlw+</entry>
         <entry encoding="base64">XDxyZXBsYWNlQW5kRW11bGF0ZUNsaWNrXD4=</entry>
         <entry encoding="base64">XDxwYXNzQXBpT3V0c2lkZVw+</entry>
+        <entry>yout</entry>
       </history-search>
       <history-cmd>
         <entry>132</entry>
