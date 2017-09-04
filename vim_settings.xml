@@ -944,12 +944,11 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-hub/project-wizard/components/project-team/project-team.js" timestamp="1503046835367">
         <mark key="'" line="89" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/style/issue.scss" timestamp="1504270805007">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="1" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/style/issue.scss" timestamp="1504548863166">
+        <mark key="[" line="11" column="14" />
+        <mark key="]" line="11" column="21" />
+        <mark key="^" line="11" column="21" />
+        <mark key="." line="11" column="21" />
       </file>
       <file name="$USER_HOME$/www/js/youtrack-workflow/net/index.js" timestamp="1502461019301">
         <mark key="'" line="81" column="0" />
@@ -1088,12 +1087,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-application/src/main/kotlin/jetbrains/youtrack/persistent/XdIssue.kt" timestamp="1500392764013">
         <mark key="'" line="3" column="44" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/style/yt-issue-view.scss" timestamp="1504548022176">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="5" column="16" />
-        <mark key="]" line="6" column="18" />
-        <mark key="." line="6" column="18" />
-        <mark key="^" line="6" column="18" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/style/yt-issue-view.scss" timestamp="1504549141947">
+        <mark key="'" line="46" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-workflow-testing/src/test/kotlin/jetbrains/youtrack/workflow/predefinedWorkflows/UpdateFixBuildTest.kt" timestamp="1500455251627">
         <mark key="'" line="41" column="22" />
@@ -1460,9 +1455,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="218" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/list/list.js" />
-      <jump line="250" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/list/list.js" />
-      <jump line="271" column="42" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/list/list.js" />
       <jump line="538" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/list/list.js" />
       <jump line="382" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/list/list.js" />
       <jump line="589" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/list/list.js" />
@@ -1560,25 +1552,28 @@
       <jump line="464" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/style/scripting-workflow.scss" />
       <jump line="43" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/style/yt-issue-view.scss" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/style/yt-issue-view.scss" />
+      <jump line="6" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/style/yt-issue-view.scss" />
+      <jump line="30" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/style/yt-issue-view.scss" />
+      <jump line="46" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/style/yt-issue-view.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBmbGV4LXNocmluazogMDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>inherit</text>
       </register>
       <register name="/" type="4">
-        <text>yt-issue-view</text>
+        <text>container</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBmbGV4LXNocmluazogMDsK</text>
+        <text encoding="base64">ICAgICAgd2lkdGg6ICRmaWVsZHMtcGFuZWwtd2lkdGggIWltcG9ydGFudDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAxMDAlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1587,34 +1582,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAueXQtaXNzdWUtdmlld19fd3JhcHBlciB7CiAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICYtY29udGVudCB7Cg==</text>
+        <text encoding="base64">ICAgIG92ZXJmbG93OiBpbmhlcml0Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHdpZHRoOiAxMDAlOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHl0LWlzc3VlLXZpZXdfX2ZpZWxkcy1jb250YWluZXIK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICYtY29udGVudCB7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAud2lraS1wbHVzIHsKCiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>yt-issue-view</last-search>
+      <last-search>container</last-search>
       <last-offset />
-      <last-pattern>yt-issue-view</last-pattern>
+      <last-pattern>container</last-pattern>
       <last-replace encoding="base64">ZnVuY3Rpb24oXDEpIA==</last-replace>
       <last-substitute encoding="base64">KFwoLipcKSkgPT4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1622,8 +1617,6 @@
     </search>
     <history>
       <history-search>
-        <entry>renderSimple</entry>
-        <entry>List</entry>
         <entry>renderOp</entry>
         <entry encoding="base64">XDxyZW5kZXJPcHRpbWl6YXRpb25cPg==</entry>
         <entry>renderOptimiz</entry>
@@ -1633,7 +1626,6 @@
         <entry>conf</entry>
         <entry encoding="base64">XDx3aWtpXD4=</entry>
         <entry>wiki</entry>
-        <entry>overf</entry>
         <entry>des</entry>
         <entry>plus</entry>
         <entry>wid</entry>
@@ -1642,6 +1634,9 @@
         <entry>flex</entry>
         <entry>over</entry>
         <entry>yt-issue-view</entry>
+        <entry>overf</entry>
+        <entry>inhe</entry>
+        <entry>container</entry>
       </history-search>
       <history-cmd>
         <entry>132</entry>
