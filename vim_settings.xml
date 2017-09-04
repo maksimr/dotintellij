@@ -59,8 +59,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/codemirror/keymap/vim.js" timestamp="1500454892790">
         <mark key="'" line="3121" column="30" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1504255537335">
-        <mark key="'" line="138" column="14" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1504536498020">
+        <mark key="'" line="41" column="9" />
         <mark key="[" line="140" column="5" />
         <mark key="]" line="140" column="22" />
         <mark key="." line="139" column="109" />
@@ -1399,9 +1399,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="631" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-hub/app/blocks/app/app__backend.js" />
-      <jump line="9" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-hub/app/blocks/app/app__backend.js" />
-      <jump line="43" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-hub/app/blocks/app/app__backend.js" />
       <jump line="633" column="46" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-hub/app/blocks/app/app__backend.js" />
       <jump line="12" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-hub/app/blocks/app/app__backend.js" />
       <jump line="45" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/auth.js" />
@@ -1499,6 +1496,9 @@
       <jump line="38" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/index.html" />
       <jump line="14" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/index.html" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/index.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="99" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="41" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1511,7 +1511,7 @@
         <text>Remove this code in favor of publick configuration</text>
       </register>
       <register name="/" type="4">
-        <text>rss</text>
+        <text>icon</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8vIFRPRE8obWFrc2ltcnYpOiBSZW1vdmUgdGhpcyBjb2RlIGluIGZhdm9yIG9mIHB1YmxpY2sgY29uZmlndXJhdGlvbgogICAgLy8gQHNlZSBodHRwczovL3lvdXRyYWNrLmpldGJyYWlucy5jb20vaXNzdWUvSlBTLTY2MTQK</text>
@@ -1551,9 +1551,9 @@
       </register>
     </registers>
     <search>
-      <last-search>rss</last-search>
+      <last-search>icon</last-search>
       <last-offset />
-      <last-pattern>rss</last-pattern>
+      <last-pattern>icon</last-pattern>
       <last-replace encoding="base64">ZnVuY3Rpb24oXDEpIA==</last-replace>
       <last-substitute encoding="base64">KFwoLipcKSkgPT4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1561,7 +1561,6 @@
     </search>
     <history>
       <history-search>
-        <entry>open</entry>
         <entry>html</entry>
         <entry encoding="base64">XDx0b1ByZXR0aWZpZWRTZWxlY3RPcHRpb25zXD4=</entry>
         <entry>backend</entry>
@@ -1581,6 +1580,7 @@
         <entry>custom</entry>
         <entry>vers</entry>
         <entry>rss</entry>
+        <entry>icon</entry>
       </history-search>
       <history-cmd>
         <entry>132</entry>
