@@ -389,6 +389,10 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-change")).withParent(xmlTag().withLocalName(string().equalTo("yt-user-notification")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-wiki-text/@text</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("text")).withParent(xmlTag().withLocalName(string().equalTo("yt-wiki-text")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>yt-work-item-form/@on-save</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-save")).withParent(xmlTag().withLocalName(string().equalTo("yt-work-item-form")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
