@@ -358,7 +358,7 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/global/global.css" timestamp="1498746841956">
         <mark key="'" line="7" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504715415615">
+      <file name="/Dummy.txt" timestamp="1504716913811">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sidebar-table/service/toggleable-tree-view-data.js" timestamp="1500907227241">
@@ -1668,7 +1668,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-hub/dashboard/blocks/dashboard-page/dashboard-page.html" />
       <jump line="37" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-hub/dashboard/blocks/dashboard-page/dashboard-page.html" />
       <jump line="31" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-hub/dashboard/blocks/dashboard-page/dashboard-page.html" />
       <jump line="28" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-hub/dashboard/blocks/dashboard-page/dashboard-page.html" />
@@ -1768,6 +1767,7 @@
       <jump line="49" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-href.js" />
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-href.js" />
       <jump line="26" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-href.js" />
+      <jump line="36" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/visibility/style/yt-issue-related-visibility.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1792,28 +1792,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmICghaXNzdWVMaW5rKSB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogV29ya2Fyb3VuZCBmb3IgRmlyZUZveCBidWcuIEl0IGFkZHMgbmV3IGxpbmUgYmVmb3JlIGVsZW1lbnQgd2l0aCBmbG9hdDogcmlnaHQKICAgICAqLwogICAgQC1tb3otZG9jdW1lbnQgdXJsLXByZWZpeCgpIHsKICAgICAgcG9zaXRpb246IHJlbGF0aXZlOwogICAgICB0b3A6IC0yMnB4OwogICAgICByaWdodDogLTNweDsKICAgIH0K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGlmICghJGVsZW1lbnRbMF0uaGFzQXR0cmlidXRlKCd0YXJnZXQnKSAmJiBpc3N1ZUxpbmsuaW5kZXhPZigndjInKSAhPT0gMCkgewogICAgICAgICAgICAkZWxlbWVudC5hdHRyKCd0YXJnZXQnLCAnX3NlbGYnKTsKICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIGlmICghaXNzdWVMaW5rKSB7CiAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGlmICghJGVsZW1lbnRbMF0uaGFzQXR0cmlidXRlKCd0YXJnZXQnKSAmJiBpc3N1ZUxpbmsuaW5kZXhPZigndjInKSAhPT0gMCkgewogICAgICAgICAgICAkZWxlbWVudC5hdHRyKCd0YXJnZXQnLCAnX3NlbGYnKTsKICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGVsZW1lbnQuYXR0cignaHJlZicsIGlzc3VlTGluayk7CgogICAgICAgICAgICBpZiAoISRlbGVtZW50WzBdLmhhc0F0dHJpYnV0ZSgndGFyZ2V0JykgJiYgaXNzdWVMaW5rLmluZGV4T2YoJ3YyJykgIT09IDApIHsKICAgICAgICAgICAgICAkZWxlbWVudC5hdHRyKCd0YXJnZXQnLCAnX3NlbGYnKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpc3N1ZUxpbmsgJiYK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGVsZW1lbnQuYXR0cignaHJlZicsIGlzc3VlTGluayk7CgogICAgICAgICAgICBpZiAoISRlbGVtZW50WzBdLmhhc0F0dHJpYnV0ZSgndGFyZ2V0JykgJiYgaXNzdWVMaW5rLmluZGV4T2YoJ3YyJykgIT09IDApIHsKICAgICAgICAgICAgICAkZWxlbWVudC5hdHRyKCd0YXJnZXQnLCAnX3NlbGYnKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
