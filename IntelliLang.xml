@@ -209,6 +209,10 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-if")).withParent(xmlTag().withLocalName(string().equalTo("span")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>span/@ng-repeat</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-repeat")).withParent(xmlTag().withLocalName(string().equalTo("span")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>span/@on-select</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-select")).withParent(xmlTag().withLocalName(string().equalTo("span")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
@@ -219,6 +223,10 @@
     <injection language="AngularJS" injector-id="xml">
       <display-name>span/@rg-tooltip</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("rg-tooltip")).withParent(xmlTag().withLocalName(string().equalTo("span")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>tr/@ng-repeat</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-repeat")).withParent(xmlTag().withLocalName(string().equalTo("tr")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
       <display-name>yt-agile-board-general-settings/@on-update</display-name>
