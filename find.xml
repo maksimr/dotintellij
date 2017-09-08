@@ -9,17 +9,8 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scss" />
+    <option name="FILE_MASK" value="*.scss,*.js,*.html" />
     <recentFileMasks>
-      <mask>*.js,*.html,*.</mask>
-      <mask>*.js,*.html,*.s</mask>
-      <mask>*.js,*.html,*.sc</mask>
-      <mask>*.js,*.html,*.scss</mask>
-      <mask>*.js,*.html,*.scs</mask>
-      <mask>*.j</mask>
-      <mask>*.sc</mask>
-      <mask>test/*.js</mask>
-      <mask>test/*.j</mask>
       <mask>test/*.</mask>
       <mask>test/*</mask>
       <mask>test/</mask>
@@ -41,6 +32,15 @@
       <mask>*.s</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.scss,</mask>
+      <mask>*.scss,*</mask>
+      <mask>*.scss,*.</mask>
+      <mask>*.scss,*.js</mask>
+      <mask>*.scss,*.js,</mask>
+      <mask>*.scss,*.js,*</mask>
+      <mask>*.scss,*.js,*.</mask>
+      <mask>*.scss,*.js,*.ht</mask>
+      <mask>*.scss,*.js,*.html</mask>
     </recentFileMasks>
   </component>
 </application>
