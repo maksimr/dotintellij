@@ -284,8 +284,12 @@
         <mark key="^" line="66" column="1" />
         <mark key="." line="66" column="1" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/select/select.js" timestamp="1504541256998">
-        <mark key="'" line="346" column="39" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/select/select.js" timestamp="1505205789787">
+        <mark key="'" line="607" column="28" />
+        <mark key="[" line="238" column="37" />
+        <mark key="]" line="239" column="21" />
+        <mark key="." line="239" column="21" />
+        <mark key="^" line="239" column="21" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-workflow-testing/src/test/kotlin/jetbrains/youtrack/workflow/core/FakeContext.kt" timestamp="1500386326590">
         <mark key="'" line="16" column="0" />
@@ -336,7 +340,7 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/service/yt-shortcuts.js" timestamp="1500570351289">
         <mark key="'" line="114" column="2" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/issue.js" timestamp="1504870749264">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/issue.js" timestamp="1505205353835">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="60" />
@@ -759,6 +763,13 @@
         <mark key="." line="277" column="35" />
         <mark key="^" line="277" column="35" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/select/select__popup.js" timestamp="1505205412281">
+        <mark key="'" line="260" column="10" />
+        <mark key="[" line="307" column="23" />
+        <mark key="]" line="307" column="46" />
+        <mark key="^" line="307" column="46" />
+        <mark key="." line="307" column="46" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/ring-ui/README.md" timestamp="1498039405875">
         <mark key="'" line="3" column="0" />
       </file>
@@ -842,6 +853,9 @@
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="37" />
         <mark key="." line="56" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/overlay/overlay.js" timestamp="1505205519069">
+        <mark key="'" line="9" column="19" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-scripts/source_gen/jetbrains/youtrack/scripts/persistence/WorkflowImpl.java" timestamp="1500548437872">
         <mark key="'" line="450" column="4" />
@@ -1865,20 +1879,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-interval-dropdown.js" />
-      <jump line="92" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-interval-dropdown.js" />
-      <jump line="168" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-interval-dropdown.js" />
-      <jump line="10" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/template/yt-date-interval-dropdown.html" />
-      <jump line="7" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/template/yt-date-interval-dropdown.html" />
-      <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-board.html" />
-      <jump line="41" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/sprint-base-form.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/sprint-base-form.html" />
-      <jump line="12" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/sprint-base-form.html" />
-      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
-      <jump line="27301" column="35" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
-      <jump line="27325" column="35" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
-      <jump line="29399" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
-      <jump line="7246" column="53" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
       <jump line="20271" column="46" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
       <jump line="23200" column="33" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
       <jump line="23204" column="34" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
@@ -1965,72 +1965,82 @@
       <jump line="0" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/style/scripting-workflow.scss" />
       <jump line="59" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/style/scripting-workflow.scss" />
       <jump line="58" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/style/scripting-workflow.scss" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/issue.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/select/select__popup.js" />
+      <jump line="30" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/select/select__popup.js" />
+      <jump line="260" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/select/select__popup.js" />
+      <jump line="9" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/overlay/overlay.js" />
+      <jump line="13" column="38" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/select/select.js" />
+      <jump line="319" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/select/select.js" />
+      <jump line="328" column="32" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/select/select.js" />
+      <jump line="200" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/select/select.js" />
+      <jump line="185" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/select/select.js" />
+      <jump line="100" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/select/select.js" />
+      <jump line="675" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/select/select.js" />
+      <jump line="640" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/select/select.js" />
+      <jump line="606" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/select/select.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZsZXgtZ3JvdzogMTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnc2VsZWN0JywgdGhpcy5zdGF0ZS5zZWxlY3RlZEluZGV4KTsK</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>$q,</text>
+        <text encoding="base64">ICAgICAg</text>
       </register>
       <register name="/" type="4">
-        <text>script-view</text>
+        <text encoding="base64">XDxfZ2V0U2VsZWN0ZWRJbmRleFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZsZXgtZ3JvdzogMTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnPj4+IHNob3cnKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnc2VsZWN0JywgdGhpcy5zdGF0ZS5zZWxlY3RlZEluZGV4KTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnPj4+PicpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4+Jyk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4+PicpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJz4+Pj4nKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc28K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4+PicpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnPj4+IHNob3cnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIAo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnPj4+PicpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4+Jyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4+PicpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>script-view</last-search>
+      <last-search encoding="base64">XDxfZ2V0U2VsZWN0ZWRJbmRleFw+</last-search>
       <last-offset />
-      <last-pattern>script-view</last-pattern>
+      <last-pattern encoding="base64">XDxfZ2V0U2VsZWN0ZWRJbmRleFw+</last-pattern>
       <last-replace encoding="base64">ZnVuY3Rpb24oXDEpIA==</last-replace>
       <last-substitute encoding="base64">KFwoLipcKSkgPT4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmb2N1c0ZpcnN0XD4=</entry>
-        <entry encoding="base64">XDxvbk1vdXNlbW92ZVw+</entry>
-        <entry encoding="base64">XDxvbk1vdXNlZG93blw+</entry>
-        <entry>focus</entry>
         <entry encoding="base64">XDxvbkZvY3VzaW5cPg==</entry>
         <entry encoding="base64">XDxmb2N1c1RyYXBcPg==</entry>
         <entry encoding="base64">XDxhY3RpdmF0ZVw+</entry>
@@ -2047,6 +2057,10 @@
         <entry>scripting-view</entry>
         <entry>overflow</entry>
         <entry>script-view</entry>
+        <entry>sele</entry>
+        <entry>active</entry>
+        <entry encoding="base64">XDxzZWxlY3RlZEluZGV4XD4=</entry>
+        <entry encoding="base64">XDxfZ2V0U2VsZWN0ZWRJbmRleFw+</entry>
       </history-search>
       <history-cmd>
         <entry>132</entry>
