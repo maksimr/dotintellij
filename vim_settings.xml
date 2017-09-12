@@ -43,8 +43,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/file-uploader/directive/yt-paste-image.js" timestamp="1505142670153">
         <mark key="'" line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1505203417499">
-        <mark key="'" line="165" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1505222751453">
+        <mark key="'" line="50" column="30" />
         <mark key="[" line="98" column="32" />
         <mark key="]" line="98" column="33" />
         <mark key="." line="98" column="33" />
@@ -1877,7 +1877,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="194" column="43" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng.js" />
       <jump line="196" column="51" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng.js" />
       <jump line="213" column="12" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng.js" />
       <jump line="287" column="12" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng.js" />
@@ -1977,6 +1976,7 @@
       <jump line="113" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/list/list.js" />
       <jump line="52" column="53" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/user-groups/service/user-groups.js" />
       <jump line="54" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/user-groups/service/user-groups.js" />
+      <jump line="50" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1989,7 +1989,7 @@
         <text encoding="base64">ICA=</text>
       </register>
       <register name="/" type="4">
-        <text>onSelect</text>
+        <text>ring-ui</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJz4+Pj4nKTsK</text>
@@ -2029,9 +2029,9 @@
       </register>
     </registers>
     <search>
-      <last-search>onSelect</last-search>
+      <last-search>ring-ui</last-search>
       <last-offset />
-      <last-pattern>onSelect</last-pattern>
+      <last-pattern>ring-ui</last-pattern>
       <last-replace encoding="base64">ZnVuY3Rpb24oXDEpIA==</last-replace>
       <last-substitute encoding="base64">KFwoLipcKSkgPT4=</last-substitute>
       <last-dir>1</last-dir>
@@ -2039,7 +2039,6 @@
     </search>
     <history>
       <history-search>
-        <entry>selected</entry>
         <entry>render</entry>
         <entry>onHover</entry>
         <entry>hover</entry>
@@ -2059,6 +2058,7 @@
         <entry>active</entry>
         <entry>activeIndex</entry>
         <entry>onSelect</entry>
+        <entry>ring-ui</entry>
       </history-search>
       <history-cmd>
         <entry>132</entry>
