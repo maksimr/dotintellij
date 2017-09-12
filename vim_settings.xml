@@ -368,12 +368,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/profile/filter/user-profile-url.js" timestamp="1503602198407">
         <mark key="'" line="3" column="13" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" timestamp="1505239111243">
-        <mark key="'" line="254" column="22" />
-        <mark key="[" line="279" column="0" />
-        <mark key="]" line="279" column="0" />
-        <mark key="^" line="278" column="0" />
-        <mark key="." line="279" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" timestamp="1505251408512">
+        <mark key="'" line="118" column="58" />
+        <mark key="[" line="143" column="10" />
+        <mark key="]" line="143" column="17" />
+        <mark key="^" line="143" column="17" />
+        <mark key="." line="143" column="17" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" timestamp="1503578053898">
         <mark key="'" line="2" column="0" />
@@ -1876,8 +1876,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/hub.config.js" />
-      <jump line="173" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/hub.config.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/hub.config.js" />
       <jump line="95" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-hub/webpack.config.js" />
       <jump line="159" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-hub/webpack.config.js" />
@@ -1894,7 +1892,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
       <jump line="278" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
-      <jump line="280" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
       <jump line="254" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
       <jump line="3" column="49" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/hub/mount/mount.js" />
       <jump line="24" column="40" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/hub/mount/mount.js" />
@@ -1976,22 +1973,25 @@
       <jump line="264" column="32" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-watchers.js" />
       <jump line="16" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-watchers.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-watchers.js" />
+      <jump line="280" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
+      <jump line="143" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
+      <jump line="118" column="58" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>image-editor-overlay</text>
+        <text>rest</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>response</text>
+        <text>rest</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhbmFseXRpY3NNb2RpZmllclw+</text>
+        <text>api</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAnL3Jlc3QnLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICB6LWluZGV4OiAxOTsK</text>
@@ -2028,18 +2028,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhbmFseXRpY3NNb2RpZmllclw+</last-search>
+      <last-search>api</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhbmFseXRpY3NNb2RpZmllclw+</last-pattern>
+      <last-pattern>api</last-pattern>
       <last-replace encoding="base64">ZnVuY3Rpb24oXDEpIA==</last-replace>
       <last-substitute encoding="base64">KFwoLipcKSkgPT4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>absolut</entry>
-        <entry>getHeader</entry>
         <entry encoding="base64">XDxoYW5kbGVQcm9ncmVzc1w+</entry>
         <entry encoding="base64">XDxwcm9jZXNzSGVhZGVySXRlbXNcPg==</entry>
         <entry encoding="base64">XDxvbkxvYWREYXRhXD4=</entry>
@@ -2058,6 +2056,8 @@
         <entry encoding="base64">XDxpUmVhY3RcPg==</entry>
         <entry encoding="base64">XDxhZGRXYXRjaGVyc0NvdW50XD4=</entry>
         <entry encoding="base64">XDxhbmFseXRpY3NNb2RpZmllclw+</entry>
+        <entry>fav</entry>
+        <entry>api</entry>
       </history-search>
       <history-cmd>
         <entry>132</entry>
