@@ -105,6 +105,10 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on")).withParent(xmlTag().withLocalName(string().equalTo("ng-switch")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>rg-button/@active</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("active")).withParent(xmlTag().withLocalName(string().equalTo("rg-button")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>rg-button/@loader</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("loader")).withParent(xmlTag().withLocalName(string().equalTo("rg-button")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
@@ -315,6 +319,10 @@
     <injection language="AngularJS" injector-id="xml">
       <display-name>yt-issue-custom-field/@on-change-field-value</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-change-field-value")).withParent(xmlTag().withLocalName(string().equalTo("yt-issue-custom-field")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-issue-toolbar/@on-edit</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-edit")).withParent(xmlTag().withLocalName(string().equalTo("yt-issue-toolbar")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
       <display-name>yt-new-work-item-form/@draft-wrapper</display-name>
