@@ -437,7 +437,7 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/global/global.css" timestamp="1498746841956">
         <mark key="'" line="7" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505148404681">
+      <file name="/Dummy.txt" timestamp="1505204439459">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sidebar-table/service/toggleable-tree-view-data.js" timestamp="1500907227241">
@@ -1822,6 +1822,12 @@
         <mark key="]" line="263" column="0" />
         <mark key="." line="263" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/style/scripting-workflow.scss" timestamp="1505204469756">
+        <mark key="'" line="58" column="4" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="17" />
+        <mark key="." line="77" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/footer/test/directive/yt-footer.js" timestamp="1504608851891">
         <mark key="'" line="33" column="0" />
         <mark key="[" line="23" column="3" />
@@ -1859,10 +1865,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="66" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-interval-dropdown.js" />
-      <jump line="35" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-interval-dropdown.js" />
-      <jump line="38" column="47" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-interval-dropdown.js" />
-      <jump line="40" column="64" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-interval-dropdown.js" />
       <jump line="41" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-interval-dropdown.js" />
       <jump line="92" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-interval-dropdown.js" />
       <jump line="168" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-interval-dropdown.js" />
@@ -1959,10 +1961,14 @@
       <jump line="13" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
       <jump line="47" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
       <jump line="165" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="19" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/style/scripting-workflow.scss" />
+      <jump line="0" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/style/scripting-workflow.scss" />
+      <jump line="59" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/style/scripting-workflow.scss" />
+      <jump line="58" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/style/scripting-workflow.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBzaG93KGNvbmZpZykgewogICAgY29uc3QgeyRxLCAkc2NvcGV9ID0gdGhpcy4kaW5qZWN0Owo=</text>
+        <text encoding="base64">ICAgIGZsZXgtZ3JvdzogMTsK</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -1971,10 +1977,10 @@
         <text>$q,</text>
       </register>
       <register name="/" type="4">
-        <text>ring-ui</text>
+        <text>script-view</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBzaG93KGNvbmZpZykgewogICAgY29uc3QgeyRxLCAkc2NvcGV9ID0gdGhpcy4kaW5qZWN0Owo=</text>
+        <text encoding="base64">ICAgIGZsZXgtZ3JvdzogMTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZygnPj4+IHNob3cnKTsK</text>
@@ -2011,9 +2017,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ring-ui</last-search>
+      <last-search>script-view</last-search>
       <last-offset />
-      <last-pattern>ring-ui</last-pattern>
+      <last-pattern>script-view</last-pattern>
       <last-replace encoding="base64">ZnVuY3Rpb24oXDEpIA==</last-replace>
       <last-substitute encoding="base64">KFwoLipcKSkgPT4=</last-substitute>
       <last-dir>1</last-dir>
@@ -2021,9 +2027,6 @@
     </search>
     <history>
       <history-search>
-        <entry>foo</entry>
-        <entry encoding="base64">XDxzcHJpbnRFZGl0RGlhbG9nXD4=</entry>
-        <entry>dialo</entry>
         <entry encoding="base64">XDxmb2N1c0ZpcnN0XD4=</entry>
         <entry encoding="base64">XDxvbk1vdXNlbW92ZVw+</entry>
         <entry encoding="base64">XDxvbk1vdXNlZG93blw+</entry>
@@ -2041,6 +2044,9 @@
         <entry>activate</entry>
         <entry>0.12</entry>
         <entry>ring-ui</entry>
+        <entry>scripting-view</entry>
+        <entry>overflow</entry>
+        <entry>script-view</entry>
       </history-search>
       <history-cmd>
         <entry>132</entry>
