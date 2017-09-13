@@ -444,7 +444,7 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-ui/components/global/global.css" timestamp="1498746841956">
         <mark key="'" line="7" column="12" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505318671874">
+      <file name="/Dummy.txt" timestamp="1505323595046">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sidebar-table/service/toggleable-tree-view-data.js" timestamp="1500907227241">
@@ -1787,6 +1787,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue.html" timestamp="1501516996758">
         <mark key="'" line="11" column="9" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-boards.js" timestamp="1505323116789">
+        <mark key="'" line="35" column="10" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/charisma-customfields/src/main/kotlin/jetbrains/charisma/customfields/complex/build/BuildIssueCustomField.kt" timestamp="1503909546478">
         <mark key="'" line="16" column="5" />
       </file>
@@ -1817,7 +1823,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/reports.scss" timestamp="1497605917914">
         <mark key="'" line="1" column="8" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/service/get-custom-field-possible-values.js" timestamp="1505321760462">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/service/get-custom-field-possible-values.js" timestamp="1505322523516">
+        <mark key="'" line="23" column="37" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
@@ -1878,6 +1885,12 @@
         <mark key="]" line="27" column="30" />
         <mark key="." line="27" column="30" />
         <mark key="^" line="27" column="30" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-voters.js" timestamp="1505323627492">
+        <mark key="'" line="45" column="14" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-attachment.js" timestamp="1503928609673">
         <mark key="'" line="196" column="127" />
@@ -1997,9 +2010,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/controller/bundle-user-edit.js" />
-      <jump line="75" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/controller/bundle-user-edit.js" />
-      <jump line="18" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/controller/bundle-user-edit.js" />
       <jump line="20" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/controller/bundle-user-edit.js" />
       <jump line="80" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/controller/bundle-user-edit.js" />
       <jump line="81" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/controller/bundle-user-edit.js" />
@@ -2097,16 +2107,19 @@
       <jump line="22" column="55" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-hub/app/blocks/app/app.js" />
       <jump line="8" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/service/get-custom-field-possible-values.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/service/load-bundle-field-collection.js" />
+      <jump line="23" column="37" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/custom-fields/service/get-custom-field-possible-values.js" />
+      <jump line="36" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-boards.js" />
+      <jump line="47" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-voters.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc2tpcCwgZ3JvdXBzLmxlbmd0aCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICsgdG9w</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>top</text>
@@ -2115,34 +2128,34 @@
         <text>groups.slice(skip, top)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc2tpcCwgZ3JvdXBzLmxlbmd0aCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">dmFyIERpcmVjdGlvbnMgPSByZXF1aXJlKCdAamV0YnJhaW5zL3JpbmctdWkvY29tcG9uZW50cy9wb3B1cC9wb3B1cCcpLmRlZmF1bHQuUG9wdXBQcm9wcy5EaXJlY3Rpb25zOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBwb3B1cENvbmZpZzogewogICAgICAgICAgICAgICAgbGVmdDogLTE2LAogICAgICAgICAgICAgICAgbWF4V2lkdGg6ICdzY3JlZW4nLAogICAgICAgICAgICAgICAgZGlyZWN0aW9uczogW0RpcmVjdGlvbnMuTEVGVF9DRU5URVIsIERpcmVjdGlvbnMuTEVGVF9UT1AsIERpcmVjdGlvbnMuTEVGVF9CT1RUT01dCiAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdmFyIERpcmVjdGlvbnMgPSB5dERyb3Bkb3duLkRpcmVjdGlvbnM7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2sK</text>
+        <text encoding="base64">ICAgICAgICAgIHBvcHVwQ29uZmlnOiB7CiAgICAgICAgICAgIGxlZnQ6IC0xNiwKICAgICAgICAgICAgbWF4V2lkdGg6ICdzY3JlZW4nLAogICAgICAgICAgICBkaXJlY3Rpb25zOiBbCiAgICAgICAgICAgICAgRGlyZWN0aW9ucy5MRUZUX0NFTlRFUiwKICAgICAgICAgICAgICBEaXJlY3Rpb25zLkxFRlRfVE9QLAogICAgICAgICAgICAgIERpcmVjdGlvbnMuTEVGVF9CT1RUT01dCiAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2tpcCA9IHNraQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc2tpcCwgZ3JvdXBzLmxlbmd0aCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2tpcCA9IHNraQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZ3JvdXBzLnNsaWNlKHNraXAsIHNraXAgKyB0b3ApKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
