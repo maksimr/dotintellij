@@ -1243,12 +1243,12 @@
         <mark key="." line="19" column="32" />
         <mark key="^" line="19" column="32" />
       </file>
-      <file name="$USER_HOME$/www/js/youtrack-workflow/src/cli/upload.js" timestamp="1505296933189">
-        <mark key="'" line="24" column="11" />
-        <mark key="[" line="27" column="36" />
-        <mark key="]" line="28" column="49" />
-        <mark key="^" line="28" column="49" />
-        <mark key="." line="28" column="49" />
+      <file name="$USER_HOME$/www/js/youtrack-workflow/src/cli/upload.js" timestamp="1505298375826">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="32" column="100" />
+        <mark key="]" line="32" column="118" />
+        <mark key="^" line="32" column="118" />
+        <mark key="." line="32" column="118" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-attachment.js" timestamp="1503928465192">
         <mark key="'" line="369" column="0" />
@@ -1273,6 +1273,9 @@
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/i18n.js" timestamp="1497523841532">
         <mark key="'" line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/js/youtrack-workflow/.gitignore" timestamp="1505297943845">
+        <mark key="'" line="60" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" timestamp="1505132458899">
         <mark key="'" line="50" column="15" />
@@ -1942,12 +1945,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="47" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/visibility/directive/yt-issue-related-visibility.js" />
-      <jump line="70" column="34" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/visibility/directive/yt-issue-related-visibility.js" />
-      <jump line="71" column="50" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/visibility/directive/yt-issue-related-visibility.js" />
-      <jump line="117" column="34" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/visibility/directive/yt-issue-related-visibility.js" />
-      <jump line="242" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/visibility/directive/yt-issue-related-visibility.js" />
-      <jump line="10" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/visibility/directive/yt-issue-related-visibility.js" />
       <jump line="78" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/visibility/directive/yt-issue-related-visibility.js" />
       <jump line="1" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/visibility/directive/yt-issue-related-visibility.js" />
       <jump line="74" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/visibility/directive/yt-issue-related-visibility.js" />
@@ -2037,21 +2034,27 @@
       <jump line="2" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/pace/pace.js" />
       <jump line="32" column="36" filename="$USER_HOME$/www/js/youtrack-workflow/src/cli/upload.js" />
       <jump line="27" column="10" filename="$USER_HOME$/www/js/youtrack-workflow/src/cli/upload.js" />
-      <jump line="36" column="42" filename="$USER_HOME$/www/js/youtrack-workflow/src/cli/upload.js" />
       <jump line="54" column="16" filename="$USER_HOME$/www/js/youtrack-workflow/src/cli/upload.js" />
       <jump line="40" column="17" filename="$USER_HOME$/www/js/youtrack-workflow/src/cli/upload.js" />
       <jump line="26" column="13" filename="$USER_HOME$/www/js/youtrack-workflow/src/cli/upload.js" />
       <jump line="24" column="11" filename="$USER_HOME$/www/js/youtrack-workflow/src/cli/upload.js" />
+      <jump line="36" column="28" filename="$USER_HOME$/www/js/youtrack-workflow/src/cli/upload.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/js/youtrack-workflow/src/cli/upload.js" />
+      <jump line="31" column="0" filename="$USER_HOME$/www/js/youtrack-workflow/src/cli/upload.js" />
+      <jump line="63" column="0" filename="$USER_HOME$/www/js/youtrack-workflow/src/cli/upload.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/js/youtrack-workflow/src/cli/upload.js" />
+      <jump line="56" column="0" filename="$USER_HOME$/www/js/youtrack-workflow/.gitignore" />
+      <jump line="60" column="0" filename="$USER_HOME$/www/js/youtrack-workflow/.gitignore" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Pace</text>
+        <text>decodeURIComponent</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>Pace</text>
+        <text>decodeURIComponent</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGRhdGVXb3JrZmxvd1w+</text>
