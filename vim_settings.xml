@@ -83,8 +83,8 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-view-links.html" timestamp="1505254462930">
-        <mark key="'" line="5" column="37" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-view-links.html" timestamp="1506343277092">
+        <mark key="'" line="1" column="69" />
         <mark key="[" line="22" column="41" />
         <mark key="]" line="22" column="43" />
         <mark key="." line="22" column="43" />
@@ -628,8 +628,8 @@
         <mark key="." line="19" column="23" />
         <mark key="^" line="19" column="23" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-links.js" timestamp="1505253990061">
-        <mark key="'" line="21" column="21" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-links.js" timestamp="1506343312837">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="20" column="19" />
         <mark key="]" line="20" column="29" />
         <mark key="." line="20" column="29" />
@@ -750,8 +750,8 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/attach-file-toolkit.js" timestamp="1506341767271">
-        <mark key="'" line="17" column="6" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/attach-file-toolkit.js" timestamp="1506343224369">
+        <mark key="'" line="106" column="0" />
         <mark key="[" line="136" column="0" />
         <mark key="]" line="136" column="0" />
         <mark key="." line="136" column="0" />
@@ -1305,12 +1305,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="43" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream-comment.js" />
-      <jump line="50" column="43" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream-comment.js" />
-      <jump line="63" column="40" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream-comment.js" />
-      <jump line="68" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream-comment.js" />
-      <jump line="70" column="49" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream-comment.js" />
-      <jump line="71" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream-comment.js" />
       <jump line="130" column="54" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream-comment.js" />
       <jump line="41" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream-comment.js" />
       <jump line="241" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream-comment.js" />
@@ -1405,6 +1399,12 @@
       <jump line="17" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/attach-file-toolkit.js" />
       <jump line="202" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/attach-file-toolkit.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/attach-file-toolkit.js" />
+      <jump line="106" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/attach-file-toolkit.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-links.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-links.js" />
+      <jump line="87" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-links.js" />
+      <jump line="1" column="69" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-view-links.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-links.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1417,7 +1417,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>1</text>
+        <text>isLast</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Cg==</text>
@@ -1457,9 +1457,9 @@
       </register>
     </registers>
     <search>
-      <last-search>1</last-search>
+      <last-search>isLast</last-search>
       <last-offset />
-      <last-pattern>1</last-pattern>
+      <last-pattern>isLast</last-pattern>
       <last-replace encoding="base64">ZnVuY3Rpb24oXDEpIA==</last-replace>
       <last-substitute encoding="base64">KFwoLipcKSkgPT4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1467,7 +1467,6 @@
     </search>
     <history>
       <history-search>
-        <entry>delete</entry>
         <entry>comment</entry>
         <entry>can not</entry>
         <entry>undone</entry>
@@ -1487,6 +1486,7 @@
         <entry encoding="base64">XDxhcHBlbmRJbWFnZU5hbWVDb3VudGVySWZOZWVkZWRcPg==</entry>
         <entry>attach</entry>
         <entry>1</entry>
+        <entry>isLast</entry>
       </history-search>
       <history-cmd>
         <entry>61</entry>
