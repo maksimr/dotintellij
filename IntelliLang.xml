@@ -5,6 +5,10 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-href")).withParent(xmlTag().withLocalName(string().equalTo("a")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>a/@ng-if</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-if")).withParent(xmlTag().withLocalName(string().equalTo("a")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>a/@on-select</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-select")).withParent(xmlTag().withLocalName(string().equalTo("a")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
@@ -29,12 +33,20 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-if")).withParent(xmlTag().withLocalName(string().equalTo("div")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>div/@ng-keydown</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-keydown")).withParent(xmlTag().withLocalName(string().equalTo("div")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>div/@ng-messages</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-messages")).withParent(xmlTag().withLocalName(string().equalTo("div")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
       <display-name>div/@ng-model</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-model")).withParent(xmlTag().withLocalName(string().equalTo("div")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>div/@ng-repeat</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-repeat")).withParent(xmlTag().withLocalName(string().equalTo("div")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
       <display-name>div/@on-apply</display-name>
@@ -97,12 +109,20 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on")).withParent(xmlTag().withLocalName(string().equalTo("ng-switch")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>rg-button/@active</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("active")).withParent(xmlTag().withLocalName(string().equalTo("rg-button")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>rg-button/@loader</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("loader")).withParent(xmlTag().withLocalName(string().equalTo("rg-button")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
       <display-name>rg-button/@ng-click</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-click")).withParent(xmlTag().withLocalName(string().equalTo("rg-button")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>rg-button/@ngf-select</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ngf-select")).withParent(xmlTag().withLocalName(string().equalTo("rg-button")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
       <display-name>rg-button/@on-select</display-name>
@@ -117,6 +137,10 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("rg-promised-click")).withParent(xmlTag().withLocalName(string().equalTo("rg-button")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>rg-legacy-table-row/@ng-repeat</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-repeat")).withParent(xmlTag().withLocalName(string().equalTo("rg-legacy-table-row")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>rg-select/@config</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("config")).withParent(xmlTag().withLocalName(string().equalTo("rg-select")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
@@ -125,8 +149,16 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-model")).withParent(xmlTag().withLocalName(string().equalTo("rg-select")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>rg-select/@on-blur</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-blur")).withParent(xmlTag().withLocalName(string().equalTo("rg-select")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>rg-select/@on-change</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-change")).withParent(xmlTag().withLocalName(string().equalTo("rg-select")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>rg-select/@on-select</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-select")).withParent(xmlTag().withLocalName(string().equalTo("rg-select")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
       <display-name>rg-select/@options</display-name>
@@ -185,6 +217,10 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-if")).withParent(xmlTag().withLocalName(string().equalTo("span")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>span/@ng-repeat</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-repeat")).withParent(xmlTag().withLocalName(string().equalTo("span")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>span/@on-select</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-select")).withParent(xmlTag().withLocalName(string().equalTo("span")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
@@ -195,6 +231,10 @@
     <injection language="AngularJS" injector-id="xml">
       <display-name>span/@rg-tooltip</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("rg-tooltip")).withParent(xmlTag().withLocalName(string().equalTo("span")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>tr/@ng-repeat</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-repeat")).withParent(xmlTag().withLocalName(string().equalTo("tr")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
       <display-name>yt-agile-board-general-settings/@on-update</display-name>
@@ -227,6 +267,10 @@
     <injection language="AngularJS" injector-id="xml">
       <display-name>yt-backlog-issue/@add-card-to-sprint</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("add-card-to-sprint")).withParent(xmlTag().withLocalName(string().equalTo("yt-backlog-issue")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-backlog-issue/@add-issue-to-backlog</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("add-issue-to-backlog")).withParent(xmlTag().withLocalName(string().equalTo("yt-backlog-issue")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
       <display-name>yt-backlog-issue/@selection</display-name>
@@ -273,8 +317,16 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-if")).withParent(xmlTag().withLocalName(string().equalTo("yt-icon")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-issue-custom-field/@issue-field-instance</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("issue-field-instance")).withParent(xmlTag().withLocalName(string().equalTo("yt-issue-custom-field")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>yt-issue-custom-field/@on-change-field-value</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-change-field-value")).withParent(xmlTag().withLocalName(string().equalTo("yt-issue-custom-field")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-issue-toolbar/@on-edit</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-edit")).withParent(xmlTag().withLocalName(string().equalTo("yt-issue-toolbar")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
       <display-name>yt-new-work-item-form/@draft-wrapper</display-name>
@@ -283,6 +335,10 @@
     <injection language="AngularJS" injector-id="xml">
       <display-name>yt-new-work-item-form/@issue</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("issue")).withParent(xmlTag().withLocalName(string().equalTo("yt-new-work-item-form")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-query-assist/@ng-disabled</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-disabled")).withParent(xmlTag().withLocalName(string().equalTo("yt-query-assist")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
       <display-name>yt-query-assist/@on-apply</display-name>
@@ -303,6 +359,30 @@
     <injection language="AngularJS" injector-id="xml">
       <display-name>yt-saved-query-edit/@on-change</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-change")).withParent(xmlTag().withLocalName(string().equalTo("yt-saved-query-edit")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-script-editor/@has-changes</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("has-changes")).withParent(xmlTag().withLocalName(string().equalTo("yt-script-editor")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-script-editor/@on-clone</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-clone")).withParent(xmlTag().withLocalName(string().equalTo("yt-script-editor")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-script-editor/@on-close</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-close")).withParent(xmlTag().withLocalName(string().equalTo("yt-script-editor")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-script-editor/@on-move</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-move")).withParent(xmlTag().withLocalName(string().equalTo("yt-script-editor")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-script-editor/@on-rename</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-rename")).withParent(xmlTag().withLocalName(string().equalTo("yt-script-editor")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-script-list/@on-remove-script</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-remove-script")).withParent(xmlTag().withLocalName(string().equalTo("yt-script-list")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
       <display-name>yt-slider/@on-change</display-name>
@@ -327,6 +407,10 @@
     <injection language="AngularJS" injector-id="xml">
       <display-name>yt-user-notification/@on-change</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-change")).withParent(xmlTag().withLocalName(string().equalTo("yt-user-notification")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-wiki-text/@text</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("text")).withParent(xmlTag().withLocalName(string().equalTo("yt-wiki-text")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
       <display-name>yt-work-item-form/@on-save</display-name>
