@@ -1851,12 +1851,12 @@
         <mark key="." line="11" column="42" />
         <mark key="^" line="11" column="42" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" timestamp="1514670554618">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="53" column="2" />
-        <mark key="^" line="39" column="12" />
-        <mark key="." line="40" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" timestamp="1514671443632">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="81" column="28" />
+        <mark key="]" line="81" column="28" />
+        <mark key="^" line="81" column="28" />
+        <mark key="." line="81" column="28" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" timestamp="1493027433135">
         <mark key="'" line="55" column="0" />
@@ -2308,11 +2308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="436" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/draggabilly/draggabilly.js" />
-      <jump line="250" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/draggabilly/draggabilly.js" />
-      <jump line="253" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/draggabilly/draggabilly.js" />
-      <jump line="261" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/draggabilly/draggabilly.js" />
-      <jump line="277" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/draggabilly/draggabilly.js" />
       <jump line="282" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/draggabilly/draggabilly.js" />
       <jump line="266" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/draggabilly/draggabilly.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
@@ -2380,18 +2375,14 @@
       <jump line="18" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
       <jump line="15" column="4" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
       <jump line="33" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
-      <jump line="5" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
       <jump line="21" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
       <jump line="14" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
       <jump line="44" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
-      <jump line="38" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
-      <jump line="42" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
       <jump line="43" column="18" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
       <jump line="41" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
       <jump line="22" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
       <jump line="34" column="11" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
       <jump line="32" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
-      <jump line="49" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
       <jump line="36" column="12" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
       <jump line="27" column="24" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
       <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
@@ -2408,58 +2399,103 @@
       <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
       <jump line="53" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
       <jump line="2" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
+      <jump line="5" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
+      <jump line="38" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
+      <jump line="42" column="17" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
+      <jump line="45" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
+      <jump line="79" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
+      <jump line="68" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
+      <jump line="82" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
+      <jump line="90" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
+      <jump line="49" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y2xhc3MgQm9hcmQgewogIGNvbnN0cnVjdG9yKCkgewogICAgdGhpcy5jZWxscyA9IEFycmF5KDY0KTsKICAgIHRoaXMudmFsdWVzID0ge307CiAgfQoKICBnZXQoeCwgeSkgewogICAgcmV0dXJuIHRoaXMuY2VsbHNbQm9hcmQucG9zaXRpb24oeCwgeSldIHx8IG51bGw7CiAgfQoKICBzZXQoeCwgeSwgdikgewogICAgY29uc3QgaSA9IEJvYXJkLnBvc2l0aW9uKHgsIHkpOwogICAgdGhpcy5jZWxsc1tpXSA9IHY7CiAgICB0aGlzLnZhbHVlc1tpXSA9IHY7CiAgfQoKICBjbGVhcih4LCB5KSB7CiAgICBjb25zdCBpID0gQm9hcmQucG9zaXRpb24oeCwgeSk7CiAgICB0aGlzLmNlbGxzW2ldID0gbnVsbDsKICAgIGRlbGV0ZSB0aGlzLnZhbHVlc1tpXTsKICB9CgogIHZpc2l0KGZuKSB7CiAgICBPYmplY3Qua2V5cyh0aGlzLnZhbHVlcykuZm9yRWFjaChmdW5jdGlvbihpKSB7CiAgICAgIGNvbnN0IHggPSBpICUgODsKICAgICAgY29uc3QgeSA9IChpIC0geCkgLyA4OwogICAgICBmbih4LCB5LCB0aGlzLmNlbGxzW2ldKTsKICAgIH0uYmluZCh0aGlzKSkKICB9CgogIHN0YXRpYyBwb3NpdGlvbih4LCB5KSB7CiAgICByZXR1cm4gKDggKiB5KSArIHg7CiAgfQp9CgoKY29uc3QgYiA9IG5ldyBCb2FyZCgpOwpjb25zdCBQID0gMTA7CgpiLnNldCgwLCAxLCBQKTsKZXhwZWN0KGIuZ2V0KDAsIDEpKS50b0VxdWFsKFApOwpiLmNsZWFyKDAsIDEpOwpleHBlY3QoYi5nZXQoMCwgMSkpLnRvRXF1YWwobnVsbCk7CgpiLnNldCgwLCAxLCBQKTsKYi5zZXQoMSwgMSwgUCk7CmNvbnN0IHJlc3VsdCA9IFtdOwpiLnZpc2l0KCh4LCB5LCB2KSA9PiByZXN1bHQucHVzaChbeCwgeSwgdl0pKTsKZXhwZWN0KHJlc3VsdCkudG9FcXVhbChbCiAgWzAsIDEsIFBdLAogIFsxLCAxLCBQXQpdKTsK</text>
+      <register name="&quot;" type="8">
+        <text>whilte
+whilte
+whilte
+whilte
+whilte
+whilte
+whilte
+whilte</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>'+P';</text>
+        <text>F_KNIGHT</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwb3NzaWJsZU1vdmVzXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgUCA9IDEwOwo=</text>
+        <text encoding="base64">ZXhwZWN0KGIuZ2V0KDAsIDApKS50b0VxdWFsKEZfUk9PSyk7CmV4cGVjdChiLmdldCgxLCAwKSkudG9FcXVhbChGX0tOSUdIVCk7CmV4cGVjdChiLmdldCgyLCAwKSkudG9FcXVhbChGX0JJU0hPUCk7CmV4cGVjdChiLmdldCgzLCAwKSkudG9FcXVhbChGX1FVRUVOKTsKZXhwZWN0KGIuZ2V0KDQsIDApKS50b0VxdWFsKEZfS0lORyk7CmV4cGVjdChiLmdldCg1LCAwKSkudG9FcXVhbChGX0JJU0hPUCk7CmV4cGVjdChiLmdldCg2LCAwKSkudG9FcXVhbChGX0tOSUdIVCk7CmV4cGVjdChiLmdldCg3LCAwKSkudG9FcXVhbChGX1JPT0spOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgUiA9IDIwOwo=</text>
+      <register name="1" type="8">
+        <text>whilte
+whilte
+whilte
+whilte
+whilte
+whilte
+whilte
+whilte</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="8">
+        <text>F
+F
+F
+F
+F
+F
+F
+F</text>
       </register>
       <register name="3" type="8">
-        <text>'+P'
-'+P'</text>
+        <text>F
+F
+F
+F
+F
+F
+F
+F</text>
       </register>
-      <register name="4" type="8">
-        <text>'+P'
-'+P'</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="8">
-        <text>'a'
-'b'</text>
+      <register name="5" type="2">
+        <text encoding="base64">CiAgZnVuY3Rpb24gd2hpdGUoaSkgewogICAgcmV0dXJuIGk7CiAgfQoKICBmdW5jdGlvbiBibGFjayhpKSB7CiAgICByZXR1cm4gaSAqICgtMSk7CiAgfQo=</text>
       </register>
       <register name="6" type="8">
-        <text>'a'
-'b'</text>
+        <text>0
+0
+0
+0
+0
+0
+0
+0</text>
       </register>
-      <register name="7" type="8">
-        <text>2
-2</text>
+      <register name="7" type="2">
+        <text encoding="base64">ZXhwZWN0KGIuZ2V0KDYsIDApKS50b0VxdWFsKEZfS05JR0hUKTsK</text>
       </register>
-      <register name="8" type="8">
-        <text>2
-2</text>
+      <register name="8" type="2">
+        <text encoding="base64">Y29uc3QgYiA9IG5ldyBCb2FyZCgpOwpiLnNldCgwLCAxLCBGX1BBV04pOwpleHBlY3QoYi5nZXQoMCwgMSkpLnRvRXF1YWwoRl9QQVdOKTsKYi5jbGVhcigwLCAxKTsKZXhwZWN0KGIuZ2V0KDAsIDEpKS50b0VxdWFsKG51bGwpOwoKYi5zZXQoMCwgMSwgRl9QQVdOKTsKYi5zZXQoMSwgMSwgRl9QQVdOKTsKY29uc3QgcmVzdWx0ID0gW107CmIudmlzaXQoKHgsIHksIHYpID0+IHJlc3VsdC5wdXNoKFt4LCB5LCB2XSkpOwpleHBlY3QocmVzdWx0KS50b0VxdWFsKFsKICBbMCwgMSwgRl9QQVdOXSwKICBbMSwgMSwgRl9QQVdOXQpdKTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHggPSB4LmNoYXJDb2RlQXQoMCkgLSA5NjsK</text>
+      <register name="9" type="8">
+        <text>0
+0
+0
+0
+0
+0
+0
+0</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
