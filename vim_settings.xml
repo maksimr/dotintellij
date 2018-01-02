@@ -465,12 +465,12 @@
         <mark key="." line="50" column="22" />
         <mark key="^" line="50" column="53" />
       </file>
-      <file name="$USER_HOME$/www/js/chessjs/lib/BoardTest.js" timestamp="1514908621828">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="15" column="9" />
+      <file name="$USER_HOME$/www/js/chessjs/lib/BoardTest.js" timestamp="1514911363166">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/auth.js" timestamp="1493131816301">
         <mark key="'" line="38" column="11" />
@@ -2341,10 +2341,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
-      <jump line="19" column="2" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
-      <jump line="35" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
-      <jump line="20" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
       <jump line="9" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
       <jump line="12" column="15" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
       <jump line="17" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
@@ -2409,13 +2405,11 @@
       <jump line="75" column="41" filename="$USER_HOME$/www/js/chessjs/lib/BoardTest.js" />
       <jump line="5" column="0" filename="$USER_HOME$/www/js/chessjs/lib/Board.js" />
       <jump line="14" column="0" filename="$USER_HOME$/www/js/chessjs/lib/Board.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/www/js/chessjs/lib/BoardTest.js" />
       <jump line="77" column="0" filename="$USER_HOME$/www/js/chessjs/lib/BoardTest.js" />
       <jump line="41" column="0" filename="$USER_HOME$/www/js/chessjs/lib/BoardTest.js" />
       <jump line="72" column="0" filename="$USER_HOME$/www/js/chessjs/lib/BoardTest.js" />
       <jump line="13" column="0" filename="$USER_HOME$/www/js/chessjs/lib/BoardTest.js" />
       <jump line="12" column="0" filename="$USER_HOME$/www/js/chessjs/lib/BoardTest.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/www/js/chessjs/lib/BoardTest.js" />
       <jump line="7" column="2" filename="$USER_HOME$/www/js/chessjs/lib/BoardTest.js" />
       <jump line="15" column="6" filename="$USER_HOME$/www/js/chessjs/lib/BoardTest.js" />
       <jump line="6" column="7" filename="$USER_HOME$/www/js/chessjs/lib/BoardTest.js" />
@@ -2436,11 +2430,17 @@
       <jump line="0" column="0" filename="$USER_HOME$/www/js/chessjs/lib/Board.js" />
       <jump line="12" column="0" filename="$USER_HOME$/www/js/chessjs/lib/Board.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/js/chessjs/lib/BoardTest.js" />
-      <jump line="24" column="0" filename="$USER_HOME$/www/js/chessjs/lib/BoardTest.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/js/chessjs/lib/BoardTest.js" />
-      <jump line="22" column="21" filename="$USER_HOME$/www/js/chessjs/lib/BoardTest.js" />
       <jump line="16" column="0" filename="$USER_HOME$/www/js/chessjs/lib/BoardTest.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/js/chessjs/lib/BoardTest.js" />
       <jump line="23" column="0" filename="$USER_HOME$/www/js/chessjs/lib/BoardTest.js" />
+      <jump line="8" column="6" filename="$USER_HOME$/www/js/chessjs/lib/BoardTest.js" />
+      <jump line="22" column="0" filename="$USER_HOME$/www/js/chessjs/lib/BoardTest.js" />
+      <jump line="27" column="0" filename="$USER_HOME$/www/js/chessjs/lib/BoardTest.js" />
+      <jump line="24" column="5" filename="$USER_HOME$/www/js/chessjs/lib/BoardTest.js" />
+      <jump line="43" column="0" filename="$USER_HOME$/www/js/chessjs/lib/BoardTest.js" />
+      <jump line="46" column="0" filename="$USER_HOME$/www/js/chessjs/lib/BoardTest.js" />
+      <jump line="37" column="0" filename="$USER_HOME$/www/js/chessjs/lib/BoardTest.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2450,7 +2450,7 @@
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>File</text>
+        <text>FILES.</text>
       </register>
       <register name="/" type="4">
         <text>position</text>
@@ -2470,45 +2470,23 @@
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="8">
-        <text>2
-2
-2
-2
-2
-2
-2
-2</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAvLyBGaWxsIHdvcmtpbmcgYm9hcmRzJyBhcmVhCg==</text>
       </register>
-      <register name="5" type="8">
-        <text>1
-1
-1
-1
-1
-1
-1
-1</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAvLyBDbGVhbiBib2FyZHMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgQlJEX1NRX05VTSA9IDEyMDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="8">
-        <text>FILE
-FILE
-FILE
-FILE
-FILE
-FILE
-FILE
-FILE
-FILE</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICBsZXQgc3EgPSBTUVVBUkVTLkExOwo=</text>
       </register>
-      <register name="9" type="8">
-        <text encoding="base64">IAogCiAKIAogCiAKIAogCiA=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBsZXQgZmlsZSA9IEZJTEVTLkZJTEVfQTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
