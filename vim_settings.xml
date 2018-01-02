@@ -950,8 +950,8 @@
         <mark key="." line="95" column="32" />
         <mark key="^" line="95" column="32" />
       </file>
-      <file name="$USER_HOME$/www/js/chessjs/lib/GameTest.js" timestamp="1514929139291">
-        <mark key="'" line="5" column="18" />
+      <file name="$USER_HOME$/www/js/chessjs/lib/GameTest.js" timestamp="1514932274000">
+        <mark key="'" line="5" column="0" />
         <mark key="[" line="4" column="13" />
         <mark key="]" line="4" column="19" />
         <mark key="." line="4" column="19" />
@@ -1482,12 +1482,10 @@
         <mark key="." line="99" column="46" />
         <mark key="^" line="99" column="46" />
       </file>
-      <file name="$USER_HOME$/www/js/chessjs/lib/Game.js" timestamp="1514928984243">
-        <mark key="'" line="4" column="16" />
-        <mark key="[" line="1" column="34" />
-        <mark key="]" line="1" column="34" />
-        <mark key="." line="1" column="34" />
-        <mark key="^" line="1" column="34" />
+      <file name="$USER_HOME$/www/js/chessjs/lib/Game.js" timestamp="1514932357340">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="23" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/test/service/get-time-zone-regions.js" timestamp="1491828563398">
         <mark key="'" line="32" column="0" />
@@ -1594,8 +1592,8 @@
         <mark key="." line="14" column="1" />
         <mark key="^" line="14" column="1" />
       </file>
-      <file name="$USER_HOME$/www/js/chessjs/lib/Board.js" timestamp="1514928561130">
-        <mark key="'" line="80" column="0" />
+      <file name="$USER_HOME$/www/js/chessjs/lib/Board.js" timestamp="1514932311743">
+        <mark key="'" line="25" column="0" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -2363,10 +2361,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
-      <jump line="43" column="7" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
-      <jump line="38" column="19" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
-      <jump line="2" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
       <jump line="3" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
       <jump line="18" column="14" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
       <jump line="5" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.es6" />
@@ -2381,7 +2375,6 @@
       <jump line="19" column="0" filename="$USER_HOME$/www/js/chessjs/lib/BoardTest.js" />
       <jump line="34" column="0" filename="$USER_HOME$/www/js/chessjs/lib/Board.js" />
       <jump line="9" column="0" filename="$USER_HOME$/www/js/chessjs/lib/Board.js" />
-      <jump line="1" column="2" filename="$USER_HOME$/www/js/chessjs/lib/Board.js" />
       <jump line="32" column="0" filename="$USER_HOME$/www/js/chessjs/lib/Board.js" />
       <jump line="21" column="14" filename="$USER_HOME$/www/js/chessjs/lib/Board.js" />
       <jump line="11" column="22" filename="$USER_HOME$/www/js/chessjs/lib/Board.js" />
@@ -2394,7 +2387,6 @@
       <jump line="22" column="12" filename="$USER_HOME$/www/js/chessjs/lib/Board.js" />
       <jump line="5" column="0" filename="$USER_HOME$/www/js/chessjs/lib/Board.js" />
       <jump line="40" column="1" filename="$USER_HOME$/www/js/chessjs/lib/Board.js" />
-      <jump line="43" column="10" filename="$USER_HOME$/www/js/chessjs/lib/Board.js" />
       <jump line="45" column="0" filename="$USER_HOME$/www/js/chessjs/lib/Board.js" />
       <jump line="2" column="25" filename="$USER_HOME$/www/js/chessjs/lib/BoardTest.js" />
       <jump line="14" column="0" filename="$USER_HOME$/www/js/chessjs/lib/BoardTest.js" />
@@ -2463,10 +2455,16 @@
       <jump line="2" column="18" filename="$USER_HOME$/www/js/chessjs/lib/GameTest.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/js/chessjs/lib/BoardTest.js" />
       <jump line="47" column="0" filename="$USER_HOME$/www/js/chessjs/lib/BoardTest.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/www/js/chessjs/lib/GameTest.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/www/js/chessjs/lib/Game.js" />
+      <jump line="1" column="6" filename="$USER_HOME$/www/js/chessjs/lib/Board.js" />
+      <jump line="73" column="0" filename="$USER_HOME$/www/js/chessjs/lib/Board.js" />
+      <jump line="43" column="2" filename="$USER_HOME$/www/js/chessjs/lib/Board.js" />
+      <jump line="25" column="0" filename="$USER_HOME$/www/js/chessjs/lib/Board.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuY2FzdGxlUGVtID0gMDsK</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -2481,13 +2479,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuY2FzdGxlUGVtID0gMDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMuY2FzdGxlUGVtID0gMDsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -2499,16 +2497,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBsZXQgYm9hcmQ7CiAgYmVmb3JlRWFjaChmdW5jdGlvbigpIHsKICAgIGJvYXJkID0gbmV3IEJvYXJkKCk7CiAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsZXQgYm9hcmQ7CiAgYmVmb3JlRWFjaChmdW5jdGlvbigpIHsKICAgIGJvYXJkID0gbmV3IEJvYXJkKCk7CiAgfSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
