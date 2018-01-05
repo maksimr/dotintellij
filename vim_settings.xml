@@ -2479,7 +2479,7 @@
         <text>On</text>
       </register>
       <register name="/" type="4">
-        <text>jest</text>
+        <text>FILE</text>
       </register>
       <register name="0" type="4">
         <text>ROOK</text>
@@ -2519,9 +2519,9 @@
       </register>
     </registers>
     <search>
-      <last-search>jest</last-search>
+      <last-search>FILE</last-search>
       <last-offset />
-      <last-pattern>jest</last-pattern>
+      <last-pattern>FILE</last-pattern>
       <last-replace>= require(</last-replace>
       <last-substitute>from</last-substitute>
       <last-dir>1</last-dir>
@@ -2529,7 +2529,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dragg</entry>
         <entry encoding="base64">XDxESUFMT0dfQ0xBU1NcPg==</entry>
         <entry>handles</entry>
         <entry>bindHandles</entry>
@@ -2549,6 +2548,7 @@
         <entry encoding="base64">XDxQaWVjZVw+</entry>
         <entry encoding="base64">XDxleHBlY3RcPg==</entry>
         <entry>jest</entry>
+        <entry>FILE</entry>
       </history-search>
       <history-cmd>
         <entry>%/karma-runner/maksimr/gc</entry>
