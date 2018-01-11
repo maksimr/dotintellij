@@ -113,11 +113,11 @@
         <mark key="." line="93" column="15" />
         <mark key="^" line="93" column="15" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1515508504947">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="51" column="28" />
-        <mark key="." line="65" column="20" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1515670654904">
+        <mark key="'" line="81" column="11" />
+        <mark key="[" line="94" column="32" />
+        <mark key="]" line="94" column="33" />
+        <mark key="." line="94" column="33" />
         <mark key="^" line="95" column="23" />
       </file>
       <file name="$USER_HOME$/www/js/Lisa/src/containers/ServerSetup.js" timestamp="1492451987785">
@@ -2455,10 +2455,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="0" filename="$USER_HOME$/www/js/xo/lib/Game.js" />
-      <jump line="89" column="0" filename="$USER_HOME$/www/js/xo/lib/Game.js" />
-      <jump line="93" column="0" filename="$USER_HOME$/www/js/xo/lib/Game.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/www/js/xo/lib/Game.js" />
       <jump line="184" column="4" filename="$USER_HOME$/www/js/xo/lib/GameTest.js" />
       <jump line="10" column="0" filename="$USER_HOME$/www/js/xo/lib/GameTest.js" />
       <jump line="190" column="0" filename="$USER_HOME$/www/js/xo/lib/GameTest.js" />
@@ -2555,6 +2551,10 @@
       <jump line="104" column="0" filename="$USER_HOME$/www/js/xo/lib/GameTest.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/js/xo/lib/GameTest.js" />
       <jump line="46" column="13" filename="$USER_HOME$/www/js/xo/.eslintrc" />
+      <jump line="14" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="95" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="80" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="81" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2567,7 +2567,7 @@
         <text>get(b)</text>
       </register>
       <register name="/" type="4">
-        <text>var b</text>
+        <text>phantom</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZXhwZWN0KGdldChwdXQoYiwgWCwgMCksIDApKS50b0VxdWFsKFgpOwo=</text>
@@ -2607,9 +2607,9 @@
       </register>
     </registers>
     <search>
-      <last-search>var b</last-search>
+      <last-search>phantom</last-search>
       <last-offset />
-      <last-pattern>var b</last-pattern>
+      <last-pattern>phantom</last-pattern>
       <last-replace>EMPTY</last-replace>
       <last-substitute>Square.EMPTY</last-substitute>
       <last-dir>1</last-dir>
@@ -2617,8 +2617,6 @@
     </search>
     <history>
       <history-search>
-        <entry>X</entry>
-        <entry>Player.O</entry>
         <entry>||</entry>
         <entry>sort</entry>
         <entry>__card</entry>
@@ -2637,6 +2635,8 @@
         <entry>let b</entry>
         <entry>put</entry>
         <entry>var b</entry>
+        <entry>karma-phan</entry>
+        <entry>phantom</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
