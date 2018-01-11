@@ -741,7 +741,7 @@
         <mark key="^" line="6" column="36" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/i18n.js" timestamp="1515673241518">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/i18n.js" timestamp="1515674368538">
         <mark key="'" line="41" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/grid/test/grid.js" timestamp="1493891693218">
@@ -1376,6 +1376,10 @@
         <mark key="]" line="73" column="0" />
         <mark key="." line="122" column="0" />
         <mark key="^" line="121" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/test/icon.js" timestamp="1515674391972">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="14" column="5" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/settings.js" timestamp="1491817602094">
         <mark key="'" line="2" column="4" />
@@ -2138,6 +2142,13 @@
         <mark key="." line="29" column="30" />
         <mark key="^" line="26" column="33" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/test/i18n.js" timestamp="1515674411010">
+        <mark key="'" line="3" column="10" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/main/kotlin/jetbrains/youtrack/webdriver/page/NewIssuePage.kt" timestamp="1492769526133">
         <mark key="'" line="32" column="17" />
         <mark key="[" line="16" column="0" />
@@ -2458,8 +2469,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="9" filename="$USER_HOME$/www/js/xo/lib/Game.js" />
-      <jump line="27" column="4" filename="$USER_HOME$/www/js/xo/lib/Game.js" />
       <jump line="101" column="0" filename="$USER_HOME$/www/js/xo/lib/GameTest.js" />
       <jump line="3" column="0" filename="$USER_HOME$/www/js/xo/lib/GameTest.js" />
       <jump line="191" column="0" filename="$USER_HOME$/www/js/xo/lib/GameTest.js" />
@@ -2534,7 +2543,6 @@
       <jump line="96" column="32" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
       <jump line="168" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
       <jump line="18" column="3" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/i18n.js" />
-      <jump line="41" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/i18n.js" />
       <jump line="350" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/admin.js" />
       <jump line="344" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/admin.js" />
       <jump line="299" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/admin.js" />
@@ -2558,22 +2566,25 @@
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/admin.js" />
       <jump line="40" column="33" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/admin.js" />
       <jump line="70" column="52" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/admin.js" />
+      <jump line="29" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/i18n.js" />
+      <jump line="41" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/i18n.js" />
+      <jump line="3" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/test/i18n.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y29uc3QgWCA9IDE7CmNvbnN0IE8gPSAtMTsKY29uc3QgRSA9IHVuZGVmaW5lZDsKCmZ1bmN0aW9uIGNyb3NzKGJkKSB7CiAgY29uc3QgZ3QgPSBnZXQuYmluZChudWxsLCBiZCk7CiAgcmV0dXJuICgKICAgIChndCgwKSA9PT0gZ3QoMSkgJiYgZ3QoMSkgPT09IGd0KDIpICYmIGd0KDIpICE9PSBFICYmIGd0KDIpKSB8fAogICAgKGd0KDMpID09PSBndCg0KSAmJiBndCg0KSA9PT0gZ3QoNSkgJiYgZ3QoNSkgIT09IEUgJiYgZ3QoNSkpIHx8CiAgICAoZ3QoNikgPT09IGd0KDcpICYmIGd0KDcpID09PSBndCg4KSAmJiBndCg4KSAhPT0gRSAmJiBndCg4KSkgfHwKICAgIChndCgwKSA9PT0gZ3QoMykgJiYgZ3QoMykgPT09IGd0KDYpICYmIGd0KDYpICE9PSBFICYmIGd0KDYpKSB8fAogICAgKGd0KDEpID09PSBndCg0KSAmJiBndCg0KSA9PT0gZ3QoNykgJiYgZ3QoNykgIT09IEUgJiYgZ3QoNykpIHx8CiAgICAoZ3QoMikgPT09IGd0KDUpICYmIGd0KDUpID09PSBndCg4KSAmJiBndCg4KSAhPT0gRSAmJiBndCg4KSkgfHwKICAgIChndCgwKSA9PT0gZ3QoNCkgJiYgZ3QoNCkgPT09IGd0KDgpICYmIGd0KDgpICE9PSBFICYmIGd0KDgpKSB8fAogICAgKGd0KDIpID09PSBndCg0KSAmJiBndCg0KSA9PT0gZ3QoNikgJiYgZ3QoNikgIT09IEUgJiYgZ3QoNikpCiAgKTsKfQoKZnVuY3Rpb24gc2NvcmUoYmQpIHsKICBpZiAoaXNXaW4oYmQsIFgpKSByZXR1cm4gMTA7CiAgaWYgKGlzV2luKGJkLCBPKSkgcmV0dXJuIC0xMDsKICByZXR1cm4gMDsKfQoKZnVuY3Rpb24gaXNXaW4oYmQsIHApIHsKICByZXR1cm4gY3Jvc3MoYmQpID09PSBwOwp9CgpmdW5jdGlvbiBpc092ZXIoYmQpIHsKICByZXR1cm4gQm9vbGVhbihjcm9zcyhiZCkpIHx8ICFoYXNFbXB0eShiZCk7Cn0KCmZ1bmN0aW9uIGJvYXJkKGJkKSB7CiAgaWYgKGJkKSByZXR1cm4gW10uY29uY2F0KGJkKTsKICByZXR1cm4gbmV3IEFycmF5KDMgKiAzKTsKfQoKZnVuY3Rpb24gcHV0KGJkLCB4LCBpKSB7CiAgYmQgPSBib2FyZChiZCk7CiAgYmRbaV0gPSB4OwogIHJldHVybiBiZDsKfQoKZnVuY3Rpb24gZ2V0KGJkLCBpKSB7CiAgcmV0dXJuIGJkW2ldOwp9CgpmdW5jdGlvbiBoYXNFbXB0eShiZCkgewogIGZvciAobGV0IGkgPSAwOyBpIDwgYmQubGVuZ3RoOyBpKyspIHsKICAgIGlmIChiZFtpXSA9PT0gRSkgcmV0dXJuIHRydWU7CiAgfQogIHJldHVybiBmYWxzZTsKfQoKZnVuY3Rpb24gZW1wdHkoYmQpIHsKICBjb25zdCByZXN1bHQgPSBbXTsKICBmb3IgKGxldCBpID0gMDsgaSA8IGJkLmxlbmd0aDsgaSsrKSB7CiAgICBpZiAoYmRbaV0gPT09IEUpIHJlc3VsdC5wdXNoKGkpOwogIH0KICByZXR1cm4gcmVzdWx0Owp9CgpmdW5jdGlvbiBtaW5tYXgoYmQsIHApIHsKICBpZiAoaXNPdmVyKGJkKSkgcmV0dXJuIFtzY29yZShiZCldOwoKICBjb25zdCBrZXkgPSBiZCArICcnICsgcDsKICBpZiAobWlubWF4Lmhhc093blByb3BlcnR5KGtleSkpIHJldHVybiBtaW5tYXhba2V5XTsKCiAgbGV0IGJlc3RTY29yZTsKICBsZXQgYmVzdE1vdmU7CiAgZW1wdHkoYmQpLmZvckVhY2goKGkpID0+IHsKICAgIGxldCBuZXdTY29yZSA9IG1pbm1heChwdXQoYmQsIHAsIGkpLCBzd2l0Y2hQbGF5ZXIocCkpWzBdOwoKICAgIGlmICgKICAgICAgKGJlc3RTY29yZSA9PT0gRSkgfHwKICAgICAgKHAgPT09IFggJiYgbmV3U2NvcmUgPiBiZXN0U2NvcmUpIHx8CiAgICAgIChwID09PSBPICYmIG5ld1Njb3JlIDwgYmVzdFNjb3JlKQogICAgKSB7CiAgICAgIGJlc3RTY29yZSA9IG5ld1Njb3JlOwogICAgICBiZXN0TW92ZSA9IGk7CiAgICB9CiAgfSk7CgogIG1pbm1heFtrZXldID0gW2Jlc3RTY29yZSwgYmVzdE1vdmVdOwogIHJldHVybiBbYmVzdFNjb3JlLCBiZXN0TW92ZV07Cn0KCmZ1bmN0aW9uIHN3aXRjaFBsYXllcih4KSB7CiAgaWYgKHggPT09IFgpIHJldHVybiBPOwogIHJldHVybiBYOwp9CgoKZnVuY3Rpb24gY2hhcih4KSB7CiAgc3dpdGNoICh4KSB7CiAgICBjYXNlIFg6CiAgICAgIHJldHVybiAnw5cnOwogICAgY2FzZSBPOgogICAgICByZXR1cm4gJ+KXiyc7CiAgfQogIHJldHVybiAnwrcnOwp9CgpleHBlY3QoY2hhcihYKSkudG9FcXVhbCgnw5cnKTsKZXhwZWN0KGNoYXIoTykpLnRvRXF1YWwoJ8OXJyk7CgpsZXQgYiA9IGJvYXJkKCk7CmIgPSBwdXQoYiwgWCwgMCk7CmIgPSBwdXQoYiwgWCwgMSk7CmIgPSBwdXQoYiwgWCwgMik7CmV4cGVjdChzY29yZShiKSkudG9FcXVhbCgxMCk7IC8vIFggLSB3aW4KCmIgPSBib2FyZCgpOwpiID0gcHV0KGIsIE8sIDApOwpiID0gcHV0KGIsIE8sIDEpOwpiID0gcHV0KGIsIE8sIDIpOwpleHBlY3Qoc2NvcmUoYikpLnRvRXF1YWwoLTEwKTsgLy8gTyAtIHdpbgoKYiA9IGJvYXJkKCk7CmIgPSBwdXQoYiwgTywgMCk7CmIgPSBwdXQoYiwgWCwgMSk7CmIgPSBwdXQoYiwgWCwgMik7CmIgPSBwdXQoYiwgWCwgMyk7CmIgPSBwdXQoYiwgTywgNCk7CmIgPSBwdXQoYiwgTywgNSk7CmIgPSBwdXQoYiwgTywgNik7CmIgPSBwdXQoYiwgWCwgNyk7CmIgPSBwdXQoYiwgWCwgOCk7CmV4cGVjdChzY29yZShiKSkudG9FcXVhbCgwKTsgLy8gZHJhdwoKYiA9IGJvYXJkKCk7CmV4cGVjdChoYXNFbXB0eShiKSkudG9FcXVhbCh0cnVlKTsKCmIgPSBib2FyZCgpOwpiID0gcHV0KGIsIE8sIDApOwpiID0gcHV0KGIsIFgsIDEpOwpiID0gcHV0KGIsIFgsIDIpOwpiID0gcHV0KGIsIFgsIDMpOwpiID0gcHV0KGIsIE8sIDQpOwpiID0gcHV0KGIsIE8sIDUpOwpiID0gcHV0KGIsIE8sIDYpOwpiID0gcHV0KGIsIFgsIDcpOwpiID0gcHV0KGIsIFgsIDgpOwpleHBlY3QoaGFzRW1wdHkoYikpLnRvRXF1YWwoZmFsc2UpOwoKYiA9IGJvYXJkKCk7CmV4cGVjdChlbXB0eShiKS5sZW5ndGgpLnRvRXF1YWwoOSk7CgpiID0gYm9hcmQoKTsKZXhwZWN0KGlzT3ZlcihiKSkudG9FcXVhbChmYWxzZSk7CgpiID0gYm9hcmQoKTsKYiA9IHB1dChiLCBPLCAwKTsKYiA9IHB1dChiLCBPLCAxKTsKYiA9IHB1dChiLCBPLCAyKTsKZXhwZWN0KGlzT3ZlcihiKSkudG9FcXVhbCh0cnVlKTsKCmIgPSBib2FyZCgpOwpiID0gcHV0KGIsIE8sIDApOwpiID0gcHV0KGIsIFgsIDEpOwpiID0gcHV0KGIsIFgsIDIpOwpiID0gcHV0KGIsIFgsIDMpOwpiID0gcHV0KGIsIE8sIDQpOwpiID0gcHV0KGIsIE8sIDUpOwpiID0gcHV0KGIsIE8sIDYpOwpiID0gcHV0KGIsIFgsIDcpOwpiID0gcHV0KGIsIFgsIDgpOwpleHBlY3QoaXNPdmVyKGIpKS50b0VxdWFsKHRydWUpOwoKYiA9IGJvYXJkKCk7CmV4cGVjdChtaW5tYXgoYiwgTykpLnRvRXF1YWwoWzAsIDBdKTsKCmIgPSBib2FyZCgpOwpiID0gcHV0KGIsIFgsIDApOwpiID0gcHV0KGIsIE8sIDIpOwpiID0gcHV0KGIsIFgsIDMpOwpiID0gcHV0KGIsIE8sIDYpOwpleHBlY3QobWlubWF4KGIsIFgpKS50b0VxdWFsKFsxMCwgNF0pOwoKYiA9IGJvYXJkKCk7CmIgPSBwdXQoYiwgWCwgMCk7CmV4cGVjdChtaW5tYXgoYiwgTykpLnRvRXF1YWwoWzAsIDRdKTs=</text>
+        <text>icon</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>get(b)</text>
+        <text>icon</text>
       </register>
       <register name="/" type="4">
         <text>i18n</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwZWN0KGdldChwdXQoYiwgWCwgMCksIDApKS50b0VxdWFsKFgpOwo=</text>
+        <text encoding="base64">ICBpdCgnc2hvdWxkIGRlZmluZSBtb2R1bGUnLCBpbmplY3QoZnVuY3Rpb24oKSB7CiAgICBleHBlY3QoYW5ndWxhci5tb2R1bGUoJ3lvdXRyYWNrLmNvbXBvbmVudHMuaWNvbicpKS50b0JlRGVmaW5lZCgpOwogIH0pKTsK</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">Y29uc3QgWCA9IDE7CmNvbnN0IE8gPSAtMTsKY29uc3QgRSA9IHVuZGVmaW5lZDsKCmZ1bmN0aW9uIGNyb3NzKGJkKSB7CiAgY29uc3QgZ3QgPSBnZXQuYmluZChudWxsLCBiZCk7CiAgcmV0dXJuICgKICAgIChndCgwKSA9PT0gZ3QoMSkgJiYgZ3QoMSkgPT09IGd0KDIpICYmIGd0KDIpICE9PSBFICYmIGd0KDIpKSB8fAogICAgKGd0KDMpID09PSBndCg0KSAmJiBndCg0KSA9PT0gZ3QoNSkgJiYgZ3QoNSkgIT09IEUgJiYgZ3QoNSkpIHx8CiAgICAoZ3QoNikgPT09IGd0KDcpICYmIGd0KDcpID09PSBndCg4KSAmJiBndCg4KSAhPT0gRSAmJiBndCg4KSkgfHwKICAgIChndCgwKSA9PT0gZ3QoMykgJiYgZ3QoMykgPT09IGd0KDYpICYmIGd0KDYpICE9PSBFICYmIGd0KDYpKSB8fAogICAgKGd0KDEpID09PSBndCg0KSAmJiBndCg0KSA9PT0gZ3QoNykgJiYgZ3QoNykgIT09IEUgJiYgZ3QoNykpIHx8CiAgICAoZ3QoMikgPT09IGd0KDUpICYmIGd0KDUpID09PSBndCg4KSAmJiBndCg4KSAhPT0gRSAmJiBndCg4KSkgfHwKICAgIChndCgwKSA9PT0gZ3QoNCkgJiYgZ3QoNCkgPT09IGd0KDgpICYmIGd0KDgpICE9PSBFICYmIGd0KDgpKSB8fAogICAgKGd0KDIpID09PSBndCg0KSAmJiBndCg0KSA9PT0gZ3QoNikgJiYgZ3QoNikgIT09IEUgJiYgZ3QoNikpCiAgKTsKfQoKZnVuY3Rpb24gc2NvcmUoYmQpIHsKICBpZiAoaXNXaW4oYmQsIFgpKSByZXR1cm4gMTA7CiAgaWYgKGlzV2luKGJkLCBPKSkgcmV0dXJuIC0xMDsKICByZXR1cm4gMDsKfQoKZnVuY3Rpb24gaXNXaW4oYmQsIHApIHsKICByZXR1cm4gY3Jvc3MoYmQpID09PSBwOwp9CgpmdW5jdGlvbiBpc092ZXIoYmQpIHsKICByZXR1cm4gQm9vbGVhbihjcm9zcyhiZCkpIHx8ICFoYXNFbXB0eShiZCk7Cn0KCmZ1bmN0aW9uIGJvYXJkKGJkKSB7CiAgaWYgKGJkKSByZXR1cm4gW10uY29uY2F0KGJkKTsKICByZXR1cm4gbmV3IEFycmF5KDMgKiAzKTsKfQoKZnVuY3Rpb24gcHV0KGJkLCB4LCBpKSB7CiAgYmQgPSBib2FyZChiZCk7CiAgYmRbaV0gPSB4OwogIHJldHVybiBiZDsKfQoKZnVuY3Rpb24gZ2V0KGJkLCBpKSB7CiAgcmV0dXJuIGJkW2ldOwp9CgpmdW5jdGlvbiBoYXNFbXB0eShiZCkgewogIGZvciAobGV0IGkgPSAwOyBpIDwgYmQubGVuZ3RoOyBpKyspIHsKICAgIGlmIChiZFtpXSA9PT0gRSkgcmV0dXJuIHRydWU7CiAgfQogIHJldHVybiBmYWxzZTsKfQoKZnVuY3Rpb24gZW1wdHkoYmQpIHsKICBjb25zdCByZXN1bHQgPSBbXTsKICBmb3IgKGxldCBpID0gMDsgaSA8IGJkLmxlbmd0aDsgaSsrKSB7CiAgICBpZiAoYmRbaV0gPT09IEUpIHJlc3VsdC5wdXNoKGkpOwogIH0KICByZXR1cm4gcmVzdWx0Owp9CgpmdW5jdGlvbiBtaW5tYXgoYmQsIHApIHsKICBpZiAoaXNPdmVyKGJkKSkgcmV0dXJuIFtzY29yZShiZCldOwoKICBjb25zdCBrZXkgPSBiZCArICcnICsgcDsKICBpZiAobWlubWF4Lmhhc093blByb3BlcnR5KGtleSkpIHJldHVybiBtaW5tYXhba2V5XTsKCiAgbGV0IGJlc3RTY29yZTsKICBsZXQgYmVzdE1vdmU7CiAgZW1wdHkoYmQpLmZvckVhY2goKGkpID0+IHsKICAgIGxldCBuZXdTY29yZSA9IG1pbm1heChwdXQoYmQsIHAsIGkpLCBzd2l0Y2hQbGF5ZXIocCkpWzBdOwoKICAgIGlmICgKICAgICAgKGJlc3RTY29yZSA9PT0gRSkgfHwKICAgICAgKHAgPT09IFggJiYgbmV3U2NvcmUgPiBiZXN0U2NvcmUpIHx8CiAgICAgIChwID09PSBPICYmIG5ld1Njb3JlIDwgYmVzdFNjb3JlKQogICAgKSB7CiAgICAgIGJlc3RTY29yZSA9IG5ld1Njb3JlOwogICAgICBiZXN0TW92ZSA9IGk7CiAgICB9CiAgfSk7CgogIG1pbm1heFtrZXldID0gW2Jlc3RTY29yZSwgYmVzdE1vdmVdOwogIHJldHVybiBbYmVzdFNjb3JlLCBiZXN0TW92ZV07Cn0KCmZ1bmN0aW9uIHN3aXRjaFBsYXllcih4KSB7CiAgaWYgKHggPT09IFgpIHJldHVybiBPOwogIHJldHVybiBYOwp9CgoKZnVuY3Rpb24gY2hhcih4KSB7CiAgc3dpdGNoICh4KSB7CiAgICBjYXNlIFg6CiAgICAgIHJldHVybiAnw5cnOwogICAgY2FzZSBPOgogICAgICByZXR1cm4gJ+KXiyc7CiAgfQogIHJldHVybiAnwrcnOwp9CgpleHBlY3QoY2hhcihYKSkudG9FcXVhbCgnw5cnKTsKZXhwZWN0KGNoYXIoTykpLnRvRXF1YWwoJ8OXJyk7CgpsZXQgYiA9IGJvYXJkKCk7CmIgPSBwdXQoYiwgWCwgMCk7CmIgPSBwdXQoYiwgWCwgMSk7CmIgPSBwdXQoYiwgWCwgMik7CmV4cGVjdChzY29yZShiKSkudG9FcXVhbCgxMCk7IC8vIFggLSB3aW4KCmIgPSBib2FyZCgpOwpiID0gcHV0KGIsIE8sIDApOwpiID0gcHV0KGIsIE8sIDEpOwpiID0gcHV0KGIsIE8sIDIpOwpleHBlY3Qoc2NvcmUoYikpLnRvRXF1YWwoLTEwKTsgLy8gTyAtIHdpbgoKYiA9IGJvYXJkKCk7CmIgPSBwdXQoYiwgTywgMCk7CmIgPSBwdXQoYiwgWCwgMSk7CmIgPSBwdXQoYiwgWCwgMik7CmIgPSBwdXQoYiwgWCwgMyk7CmIgPSBwdXQoYiwgTywgNCk7CmIgPSBwdXQoYiwgTywgNSk7CmIgPSBwdXQoYiwgTywgNik7CmIgPSBwdXQoYiwgWCwgNyk7CmIgPSBwdXQoYiwgWCwgOCk7CmV4cGVjdChzY29yZShiKSkudG9FcXVhbCgwKTsgLy8gZHJhdwoKYiA9IGJvYXJkKCk7CmV4cGVjdChoYXNFbXB0eShiKSkudG9FcXVhbCh0cnVlKTsKCmIgPSBib2FyZCgpOwpiID0gcHV0KGIsIE8sIDApOwpiID0gcHV0KGIsIFgsIDEpOwpiID0gcHV0KGIsIFgsIDIpOwpiID0gcHV0KGIsIFgsIDMpOwpiID0gcHV0KGIsIE8sIDQpOwpiID0gcHV0KGIsIE8sIDUpOwpiID0gcHV0KGIsIE8sIDYpOwpiID0gcHV0KGIsIFgsIDcpOwpiID0gcHV0KGIsIFgsIDgpOwpleHBlY3QoaGFzRW1wdHkoYikpLnRvRXF1YWwoZmFsc2UpOwoKYiA9IGJvYXJkKCk7CmV4cGVjdChlbXB0eShiKS5sZW5ndGgpLnRvRXF1YWwoOSk7CgpiID0gYm9hcmQoKTsKZXhwZWN0KGlzT3ZlcihiKSkudG9FcXVhbChmYWxzZSk7CgpiID0gYm9hcmQoKTsKYiA9IHB1dChiLCBPLCAwKTsKYiA9IHB1dChiLCBPLCAxKTsKYiA9IHB1dChiLCBPLCAyKTsKZXhwZWN0KGlzT3ZlcihiKSkudG9FcXVhbCh0cnVlKTsKCmIgPSBib2FyZCgpOwpiID0gcHV0KGIsIE8sIDApOwpiID0gcHV0KGIsIFgsIDEpOwpiID0gcHV0KGIsIFgsIDIpOwpiID0gcHV0KGIsIFgsIDMpOwpiID0gcHV0KGIsIE8sIDQpOwpiID0gcHV0KGIsIE8sIDUpOwpiID0gcHV0KGIsIE8sIDYpOwpiID0gcHV0KGIsIFgsIDcpOwpiID0gcHV0KGIsIFgsIDgpOwpleHBlY3QoaXNPdmVyKGIpKS50b0VxdWFsKHRydWUpOwoKYiA9IGJvYXJkKCk7CmV4cGVjdChtaW5tYXgoYiwgTykpLnRvRXF1YWwoWzAsIDBdKTsKCmIgPSBib2FyZCgpOwpiID0gcHV0KGIsIFgsIDApOwpiID0gcHV0KGIsIE8sIDIpOwpiID0gcHV0KGIsIFgsIDMpOwpiID0gcHV0KGIsIE8sIDYpOwpleHBlY3QobWlubWF4KGIsIFgpKS50b0VxdWFsKFsxMCwgNF0pOwoKYiA9IGJvYXJkKCk7CmIgPSBwdXQoYiwgWCwgMCk7CmV4cGVjdChtaW5tYXgoYiwgTykpLnRvRXF1YWwoWzAsIDRdKTs=</text>
