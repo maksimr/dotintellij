@@ -1769,8 +1769,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/profile/profile.js" timestamp="1515752206982">
         <mark key="'" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/service/i18n-translate.js" timestamp="1515759448427">
-        <mark key="'" line="16" column="33" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/service/i18n-translate.js" timestamp="1515765009050">
+        <mark key="'" line="13" column="15" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header-menu-builder/service/header-items.js" timestamp="1496072721956">
         <mark key="'" line="284" column="18" />
@@ -2637,10 +2637,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="39" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/externals/header/test/header.js" />
-      <jump line="18" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/externals/header/test/header.js" />
-      <jump line="139" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/externals/header/test/header.js" />
-      <jump line="20" column="35" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/externals/header/test/header.js" />
       <jump line="144" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/externals/header/test/header.js" />
       <jump line="86" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/externals/header/test/controller/mps-issues-menu-create-button.js" />
       <jump line="7" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/externals/header/test/controller/mps-issues-menu-create-button.js" />
@@ -2737,6 +2733,10 @@
       <jump line="172" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/service/i18n-translate.js" />
       <jump line="6" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/service/i18n-translate.js" />
       <jump line="16" column="33" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/service/i18n-translate.js" />
+      <jump line="21" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/service/i18n-translate.js" />
+      <jump line="118" column="33" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/service/i18n-translate.js" />
+      <jump line="106" column="37" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/service/i18n-translate.js" />
+      <jump line="13" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/service/i18n-translate.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2749,7 +2749,7 @@
         <text>getLocaleIdFromSettings(settings).split('_')[0]</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXRMb2NhbGVcPg==</text>
+        <text encoding="base64">XDx0cmFuc2xhdGlvbnNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpMThuVHJhbnNsYXRlLmxvYWQoZ2V0TG9jYWxlSWRGcm9tU2V0dGluZ3Moc2V0dGluZ3MpLnNwbGl0KCdfJylbMF0pOwo=</text>
@@ -2789,9 +2789,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXRMb2NhbGVcPg==</last-search>
+      <last-search encoding="base64">XDx0cmFuc2xhdGlvbnNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXRMb2NhbGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDx0cmFuc2xhdGlvbnNcPg==</last-pattern>
       <last-replace>EMPTY</last-replace>
       <last-substitute>Square.EMPTY</last-substitute>
       <last-dir>-1</last-dir>
@@ -2799,7 +2799,6 @@
     </search>
     <history>
       <history-search>
-        <entry>start</entry>
         <entry encoding="base64">XDxib290c3RyYXBBcHBcPg==</entry>
         <entry>isBoo</entry>
         <entry encoding="base64">XDxjb250ZXh0XD4=</entry>
@@ -2819,6 +2818,7 @@
         <entry>cache</entry>
         <entry encoding="base64">XDxpc1Byb2R1Y3Rpb25Nb2RlXD4=</entry>
         <entry encoding="base64">XDxzZXRMb2NhbGVcPg==</entry>
+        <entry encoding="base64">XDx0cmFuc2xhdGlvbnNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
