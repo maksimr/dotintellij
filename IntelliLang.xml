@@ -141,6 +141,10 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-repeat")).withParent(xmlTag().withLocalName(string().equalTo("rg-legacy-table-row")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>rg-save-field/@on-save</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-save")).withParent(xmlTag().withLocalName(string().equalTo("rg-save-field")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>rg-select/@config</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("config")).withParent(xmlTag().withLocalName(string().equalTo("rg-select")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
