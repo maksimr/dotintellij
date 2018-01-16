@@ -333,6 +333,10 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-edit")).withParent(xmlTag().withLocalName(string().equalTo("yt-issue-toolbar")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-markup-reference/@markup-reference</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("markup-reference")).withParent(xmlTag().withLocalName(string().equalTo("yt-markup-reference")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>yt-new-work-item-form/@draft-wrapper</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("draft-wrapper")).withParent(xmlTag().withLocalName(string().equalTo("yt-new-work-item-form")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
