@@ -649,8 +649,8 @@
         <mark key="]" line="259" column="50" />
         <mark key="." line="249" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" timestamp="1516023091616">
-        <mark key="'" line="62" column="35" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" timestamp="1516189390525">
+        <mark key="'" line="276" column="0" />
         <mark key="[" line="67" column="0" />
         <mark key="]" line="68" column="87" />
         <mark key="." line="70" column="88" />
@@ -2788,12 +2788,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/markup/directive/yt-markup-reference.js" />
-      <jump line="9" column="29" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/markup/directive/yt-markup-reference.js" />
-      <jump line="25" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/markup/directive/yt-markup-reference.js" />
-      <jump line="15" column="48" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/markup/directive/yt-markup-reference.js" />
-      <jump line="6" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/markup/directive/yt-markup-reference.js" />
-      <jump line="21" column="45" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/markup/directive/yt-markup-reference.js" />
       <jump line="20" column="32" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/markup/directive/yt-markup-reference.js" />
       <jump line="17" column="52" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/markup/directive/yt-markup-reference.js" />
       <jump line="14" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/markup/template/markup.html" />
@@ -2888,6 +2882,12 @@
       <jump line="29" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
       <jump line="240" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/admin.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/admin.js" />
+      <jump line="63" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
+      <jump line="98" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
+      <jump line="94" column="61" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
+      <jump line="95" column="58" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
+      <jump line="93" column="73" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
+      <jump line="276" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -2900,7 +2900,7 @@
         <text>CATCH</text>
       </register>
       <register name="/" type="4">
-        <text>admin\/ring</text>
+        <text>seed</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHZhciBkZWZhdWx0T3B0aW9ucyA9IHsKICAgICAgYWNjZXNzOiB7Cg==</text>
@@ -2940,9 +2940,9 @@
       </register>
     </registers>
     <search>
-      <last-search>admin\/ring</last-search>
+      <last-search>seed</last-search>
       <last-offset />
-      <last-pattern>admin\/ring</last-pattern>
+      <last-pattern>seed</last-pattern>
       <last-replace>EMPTY</last-replace>
       <last-substitute>Square.EMPTY</last-substitute>
       <last-dir>1</last-dir>
@@ -2950,8 +2950,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRNYXJrdXBQcmV2aWV3XD4=</entry>
-        <entry encoding="base64">XDxleGFtcGxlc1w+</entry>
         <entry encoding="base64">XDx3aWtpZnlFeGFtcGxlc1w+</entry>
         <entry encoding="base64">XDxtYXJrdXBSZWZlcmVuY2VcPg==</entry>
         <entry>List</entry>
@@ -2970,6 +2968,8 @@
         <entry>ring</entry>
         <entry>admin</entry>
         <entry>admin\/ring</entry>
+        <entry>--seed</entry>
+        <entry>seed</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
