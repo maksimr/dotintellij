@@ -466,12 +466,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" timestamp="1516192906462">
         <mark key="'" line="28823" column="7" />
       </file>
-      <file name="$USER_HOME$/www/kotlin/foo/src/node/index.kt" timestamp="1516289378221">
+      <file name="$USER_HOME$/www/kotlin/foo/src/node/index.kt" timestamp="1516289650311">
         <mark key="'" line="19" column="0" />
-        <mark key="[" line="31" column="65" />
-        <mark key="]" line="31" column="76" />
-        <mark key="." line="31" column="76" />
-        <mark key="^" line="31" column="76" />
+        <mark key="[" line="35" column="47" />
+        <mark key="]" line="35" column="53" />
+        <mark key="." line="35" column="53" />
+        <mark key="^" line="35" column="53" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/codemirror/codemirror.js" timestamp="1491568797255">
         <mark key="'" line="9" column="0" />
@@ -1833,11 +1833,12 @@
         <mark key="." line="4" column="17" />
         <mark key="^" line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/www/kotlin/foo/src/cli.kt" timestamp="1516289527306">
-        <mark key="'" line="93" column="39" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/www/kotlin/foo/src/cli.kt" timestamp="1516291025992">
+        <mark key="'" line="124" column="0" />
+        <mark key="[" line="64" column="80" />
+        <mark key="]" line="64" column="80" />
+        <mark key="." line="64" column="80" />
+        <mark key="^" line="64" column="80" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/style/date-picker.scss" timestamp="1515588153458">
         <mark key="'" line="11" column="24" />
@@ -2889,8 +2890,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="32" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/i18n.js" />
-      <jump line="28" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/i18n.js" />
       <jump line="12" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/i18n.js" />
       <jump line="9" column="19" filename="$USER_HOME$/www/js/pub/src/test/index_test.kt" />
       <jump line="4" column="0" filename="$USER_HOME$/www/js/pub/src/test/index_test.kt" />
@@ -2989,16 +2988,18 @@
       <jump line="53" column="21" filename="$USER_HOME$/www/kotlin/foo/src/cli.kt" />
       <jump line="61" column="21" filename="$USER_HOME$/www/kotlin/foo/src/cli.kt" />
       <jump line="70" column="39" filename="$USER_HOME$/www/kotlin/foo/src/cli.kt" />
+      <jump line="65" column="0" filename="$USER_HOME$/www/kotlin/foo/src/cli.kt" />
+      <jump line="124" column="0" filename="$USER_HOME$/www/kotlin/foo/src/cli.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZhbCBkID0gTwo=</text>
+      <register name="&quot;" type="4">
+        <text>res</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>/plugin/uploadPlugin</text>
+        <text>res</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXNvbHZlXD4=</text>
@@ -3007,34 +3008,34 @@
         <text>/plugin/uploadPlugin</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBkID0gTwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgZDogZHluYW1pYyA9IG9iamVjdCB7fQogICAgICAgIGRbIm1ldGhvZCJdID0gInBvc3QiCiAgICAgICAgZFsiaG9zdCJdID0gImh0dHBzOi8vcGx1Z2lucy5qZXRicmFpbnMuY29tIgogICAgICAgIGRbInBhdGgiXSA9ICIvcGx1Z2luL3VwbG9hZFBsdWdpbiIKICAgICAgICBkWyJoZWFkZXJzIl0gPSBmb3JtLmdldEhlYWRlcnMoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZ1biBnZXQodXJsOiBTdHJpbmcsIGNhbGxiYWNrOiAocmVzcG9uc2U6IFVuaXQpIC0+IEFueSk6IFVuaXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlamVjdChlcnIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIHsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvcm0uYXBwZW5kKCdteV9idWZmZXInLCBuZXcgQnVmZmVyICgxMCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzb2x2ZShyZXMpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBQcm9taXNlIHsgcmVzb2x2ZSwgcmVqZWN0IC0+CiAgICAgICAgcGFjayhmZCkudGhlbih7IGFyY2hpdmUgLT4KICAgICAgICAgICAgY29uc29sZS5sb2coInB1Ymxpc2ggJGFyY2hpdmUiKQogICAgICAgICAgICByZXNvbHZlKDApCiAgICAgICAgfSwgcmVqZWN0KQogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3JtLnBpcGUocmVxdWVzdCkKICAgICAgICByZXF1ZXN0Lm9uKCJyZXNwb25zZSIsIHsgcmVzIC0+CiAgICAgICAgICAgIHJlcy5vbigiZW5kIiwgewogICAgICAgICAgICAgICAgaWYgKHJlcy5zdGF0dXNDb2RlIDwgMjAwIHx8IHJlcy5zdGF0dXNDb2RlID4gMjk5KSB7CiAgICAgICAgICAgICAgICAgICAgdGhyb3cgRXJyb3IoIkh0dHBFcnJvcjogJHtyZXMuc3RhdHVzQ29kZX0iKQogICAgICAgICAgICAgICAgfQoKICAgICAgICAgICAgICAgIHJlc29sdmUoMCkKICAgICAgICAgICAgfSkKICAgICAgICAgICAgcmVzLm9uKCJlcnJvciIsIHsgZXJyb3IgLT4gcmVqZWN0KGVycm9yKSB9KQogICAgICAgIH0pCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
