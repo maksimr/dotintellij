@@ -1696,11 +1696,12 @@
         <mark key="." line="64" column="62" />
         <mark key="^" line="64" column="62" />
       </file>
-      <file name="$USER_HOME$/www/kotlin/hub-pub/package.json" timestamp="1516316457658">
-        <mark key="[" line="14" column="16" />
-        <mark key="]" line="14" column="34" />
-        <mark key="." line="14" column="16" />
-        <mark key="^" line="14" column="11" />
+      <file name="$USER_HOME$/www/kotlin/hub-pub/package.json" timestamp="1516317605008">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="23" column="16" />
+        <mark key="]" line="23" column="43" />
+        <mark key="." line="23" column="43" />
+        <mark key="^" line="23" column="43" />
       </file>
       <file name="$USER_HOME$/www/js/Lisa/plugins/Theme/index.js" timestamp="1495002885347">
         <mark key="'" line="0" column="42" />
@@ -2798,10 +2799,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="0" filename="$USER_HOME$/www/kotlin/foo/src/cli.kt" />
-      <jump line="3" column="0" filename="$USER_HOME$/www/kotlin/foo/src/cli.kt" />
-      <jump line="85" column="0" filename="$USER_HOME$/www/kotlin/foo/src/cli.kt" />
-      <jump line="13" column="25" filename="$USER_HOME$/www/kotlin/foo/src/cli.kt" />
       <jump line="23" column="31" filename="$USER_HOME$/www/kotlin/foo/src/cli.kt" />
       <jump line="87" column="12" filename="$USER_HOME$/www/kotlin/foo/src/cli.kt" />
       <jump line="72" column="19" filename="$USER_HOME$/www/kotlin/foo/src/cli.kt" />
@@ -2898,52 +2895,56 @@
       <jump line="14" column="0" filename="$USER_HOME$/www/kotlin/hub-pub/src/upload.kt" />
       <jump line="11" column="74" filename="$USER_HOME$/www/kotlin/hub-pub/src/declarations/form-data/index.kt" />
       <jump line="18" column="27" filename="$USER_HOME$/www/kotlin/hub-pub/src/upload.kt" />
+      <jump line="25" column="0" filename="$USER_HOME$/www/kotlin/hub-pub/package.json" />
+      <jump line="24" column="0" filename="$USER_HOME$/www/kotlin/hub-pub/package.json" />
+      <jump line="19" column="0" filename="$USER_HOME$/www/kotlin/hub-pub/package.json" />
+      <jump line="11" column="0" filename="$USER_HOME$/www/kotlin/hub-pub/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>./bin/youtrack-workflow</text>
+        <text>./gradlew run --continuous</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>./bin/youtrack-workflow</text>
+        <text>./gradlew run --continuous</text>
       </register>
       <register name="/" type="4">
         <text>conso</text>
       </register>
-      <register name="0" type="4">
-        <text>js/src/index.kt.js</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICJ3YXRjaCI6ICIuL2dyYWRsZXcgcnVuIC0tY29udGludW91cyIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJwdWJsaXNoIjogIi4vZ3JhZGxldyBydW4gLS1jb250aW51b3VzIiwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJwb3N0Y3NzLmNvbmZpZy5qcyIsCiAgICAid2VicGFjay5jb25maWcuanMiLAogICAgImpzbGludC14bWwuanMiCg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICJwb3N0Y3NzLmNvbmZpZy5qcyIsCiAgICAid2VicGFjay5jb25maWcuanMiLAogICAgImpzbGludC14bWwuanMiCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoMSA+IDIpIHsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc29sdmUoMCkK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoMSA+IDIpIHsKICAgICAgICAgICAgCiAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzcD8uc3RhdHVzQ29kZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc29sdmUoMCkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzcD8uc3RhdHVzQ29kZSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cocmVzcD8uc3RhdHVzQ29kZSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KHNvY2tldDogbmV0LlNvY2tldCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
