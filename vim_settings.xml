@@ -1914,8 +1914,10 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/service/header-routing-configuration.js" timestamp="1516365350785">
         <mark key="'" line="58" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/is-own-activity.js" timestamp="1516008285360">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/is-own-activity.js" timestamp="1516704340120">
         <mark key="'" line="17" column="2" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="14" column="27" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/main-core.scss" timestamp="1493907077065">
         <mark key="'" line="232" column="14" />
@@ -2123,8 +2125,8 @@
         <mark key="." line="6" column="19" />
         <mark key="^" line="6" column="12" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" timestamp="1516365332186">
-        <mark key="'" line="543" column="37" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" timestamp="1516704308607">
+        <mark key="'" line="549" column="28" />
       </file>
       <file name="$USER_HOME$/www/js/Lisa/src/components/UserAvatar.js" timestamp="1494519844371">
         <mark key="'" line="13" column="0" />
@@ -3048,7 +3050,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="400" column="27" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
       <jump line="502" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
       <jump line="440" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
       <jump line="504" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
@@ -3148,10 +3149,11 @@
       <jump line="6" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/permissions.js" />
       <jump line="7" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/permission-route-decorator.js" />
       <jump line="44" column="40" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/admin.js" />
+      <jump line="549" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2xvYWRTeXN0ZW1MYW5ndWFnZScpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhY3Rpdml0eS5hdXRob3IuaWQgPT09IGdldEN1cnJlbnRVc2VyLmdldCgpLmlkICYmCiAgICAgICAgISRkb2N1bWVudFswXS5oaWRkZW4K</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -3160,7 +3162,7 @@
         <text>access</text>
       </register>
       <register name="/" type="4">
-        <text>ring</text>
+        <text>isOwn</text>
       </register>
       <register name="0" type="4">
         <text>extractPermissionsFromRoute(route)</text>
@@ -3200,9 +3202,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ring</last-search>
+      <last-search>isOwn</last-search>
       <last-offset />
-      <last-pattern>ring</last-pattern>
+      <last-pattern>isOwn</last-pattern>
       <last-replace>EMPTY</last-replace>
       <last-substitute>Square.EMPTY</last-substitute>
       <last-dir>1</last-dir>
@@ -3210,7 +3212,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1cGRhdGVUZW1wbGF0ZXNcPg==</entry>
         <entry>Widgets</entry>
         <entry encoding="base64">XDxpc3N1ZVVwZGF0ZXJcPg==</entry>
         <entry>on</entry>
@@ -3230,6 +3231,7 @@
         <entry encoding="base64">XDxhY2Nlc3NcPg==</entry>
         <entry>permission</entry>
         <entry>ring</entry>
+        <entry>isOwn</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
