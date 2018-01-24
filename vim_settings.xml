@@ -1590,11 +1590,11 @@
         <mark key="^" line="49" column="29" />
         <mark key="." line="49" column="29" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/directive/yt-icon.js" timestamp="1516801468489">
-        <mark key="[" line="24" column="25" />
-        <mark key="]" line="24" column="25" />
-        <mark key="." line="24" column="25" />
-        <mark key="^" line="24" column="25" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/directive/yt-icon.js" timestamp="1516803276551">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/www/js/react-chat-app/src/reducers/messages.js" timestamp="1492985745236">
         <mark key="'" line="4" column="0" />
@@ -3129,7 +3129,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="51" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sticky-panel/directive/yt-sticky.js" />
       <jump line="15" column="27" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sticky-panel/directive/yt-sticky.js" />
       <jump line="70" column="32" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sticky-panel/directive/yt-sticky.js" />
       <jump line="116" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sticky-panel/directive/yt-sticky.js" />
@@ -3229,10 +3228,11 @@
       <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/yt-utils.js" />
       <jump line="7" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/form/directive/yt-form-checkbox.js" />
       <jump line="10" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/form/template/yt-form-checkbox.html" />
+      <jump line="21" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/directive/yt-icon.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>iconMap.iconToPath[scope.icon] || scope.icon</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygKICAgICAgICAgIGljb25NYXAuaWNvblRvUGF0aFtzY29wZS5pY29uXSB8fCBzY29wZS5pY29uLAogICAgICAgICAgJGxvY2F0aW9uLnVybCgpLAogICAgICAgICAgc2NvcGUuaWNvblVybCk7Cg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -3247,34 +3247,34 @@
         <text>iconMap.iconToPath[scope.icon] || scope.icon</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygkbG9jYXRpb24udXJsKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygKICAgICAgICAgIGljb25NYXAuaWNvblRvUGF0aFtzY29wZS5pY29uXSB8fCBzY29wZS5pY29uLAogICAgICAgICAgJGxvY2F0aW9uLnVybCgpLAogICAgICAgICAgc2NvcGUuaWNvblVybCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzcz0icmluZy1jaGVja2JveF9faWNvbl9faW1hZ2UiCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygkbG9jYXRpb24udXJsKCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHt7bm90aWZpY2F0aW9uLmVuYWJsZWQgfCBqc29ufX0K</text>
+        <text encoding="base64">ICAgICAgICBjbGFzcz0icmluZy1jaGVja2JveF9faWNvbl9faW1hZ2UiCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgIHt7bm90aWZpY2F0aW9uLmVuYWJsZWQgfCBqc29ufX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGkxOG4oJ0lzc3VlcycpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIHt7bm90aWZpY2F0aW9uLmVuYWJsZWQgfCBqc29ufX0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGdldHRleHRDYXRhbG9nLnNldEN1cnJlbnRMYW5ndWFnZShsYW5nKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGkxOG4oJ0lzc3VlcycpKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgIGdldHRleHRDYXRhbG9nLnNldEN1cnJlbnRMYW5ndWFnZShsYW5nKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGdldHRleHRDYXRhbG9nLnNldEN1cnJlbnRMYW5ndWFnZShsYW5nKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGdldHRleHRDYXRhbG9nLnNldEN1cnJlbnRMYW5ndWFnZShsYW5nKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
