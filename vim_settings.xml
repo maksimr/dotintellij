@@ -3111,11 +3111,12 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dart/myapp/lib/components/TopStories.dart" timestamp="1517083707039">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/www/dart/myapp/lib/components/TopStories.dart" timestamp="1517085528549">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="19" column="27" />
+        <mark key="]" line="19" column="25" />
+        <mark key="^" line="19" column="25" />
+        <mark key="." line="19" column="25" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/externals/header/controller/mps-issues-menu-create-button.js" timestamp="1516198218250">
         <mark key="'" line="40" column="5" />
@@ -3270,8 +3271,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/www/dart/yvm/bin/main.dart" />
-      <jump line="6" column="0" filename="$USER_HOME$/www/dart/yvm/bin/main.dart" />
       <jump line="0" column="36" filename="$USER_HOME$/www/dart/yvm/bin/main.dart" />
       <jump line="1" column="0" filename="$USER_HOME$/www/dart/yvm/lib/builds.dart" />
       <jump line="27" column="0" filename="$USER_HOME$/www/dart/yvm/lib/builds.dart" />
@@ -3370,16 +3369,18 @@
       <jump line="4461" column="7" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/framework.dart" />
       <jump line="4465" column="10" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/framework.dart" />
       <jump line="4529" column="7" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/framework.dart" />
+      <jump line="3" column="6" filename="$USER_HOME$/www/dart/myapp/lib/components/TopStories.dart" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/dart/myapp/lib/components/TopStories.dart" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>stories</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICA=</text>
+        <text>stories</text>
       </register>
       <register name="/" type="4">
         <text>mount</text>
@@ -3394,28 +3395,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBiZWZvCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">bmV3IENvbHVtbigKICAgICAgICAgIG1haW5BeGlzQWxpZ25tZW50OiBNYWluQXhpc0FsaWdubWVudC5jZW50ZXIsCiAgICAgICAgICBjaGlsZHJlbjogPFdpZGdldD5bCiAgICAgICAgICAgIG5ldyBUZXh0KAogICAgICAgICAgICAgICdZb3UgaGF2ZSBwdXNoZWQgdGhlIGJ1dHRvbiB0aGlzIG1hbnkgdGltZXM6JywKICAgICAgICAgICAgKSwKICAgICAgICAgIF0sCiAgICAgICAgKQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgVG9wU3RvcmllcyBleHRlbmRzIFN0YXRlbGVzc1dpZGdldCB7CiAgVG9wU3Rvcmllcyh7S2V5IGtleX0pIDogc3VwZXIoa2V5OiBrZXkpOwoKICBAb3ZlcnJpZGUKICBXaWRnZXQgYnVpbGQoQnVpbGRDb250ZXh0IGNvbnRleHQpIHsKICAgIHJldHVybiBuZXcgU2NhZmZvbGQoCiAgICAgIGJvZHk6IG5ldyBDZW50ZXIoCiAgICAgICAgY2hpbGQ6IG5ldyBDb2x1bW4oCiAgICAgICAgICBtYWluQXhpc0FsaWdubWVudDogTWFpbkF4aXNBbGlnbm1lbnQuY2VudGVyLAogICAgICAgICAgY2hpbGRyZW46IDxXaWRnZXQ+WwogICAgICAgICAgICBuZXcgVGV4dCgKICAgICAgICAgICAgICAnWW91IGhhdmUgcHVzaGVkIHRoZSBidXR0b24gdGhpcyBtYW55IHRpbWVzOicsCiAgICAgICAgICAgICksCiAgICAgICAgICBdLAogICAgICAgICksCiAgICAgICksCiAgICApOwogIH0KfQo=</text>
+        <text encoding="base64">CiAgQG92ZXJyaWRlCiAgV2lkZ2V0IGJ1aWxkKEJ1aWxkQ29udGV4dCBjb250ZXh0KSB7CiAgICByZXR1cm4gbmV3IFNjYWZmb2xkKAogICAgICBib2R5OiBuZXcgQ2VudGVyKAogICAgICAgIGNoaWxkOiBuZXcgTGlzdFZpZXcoCiAgICAgICAgICBjaGlsZHJlbjogPFdpZGdldD5bCiAgICAgICAgICAgIG5ldyBUZXh0KCJBcHBsZSIpLAogICAgICAgICAgICBuZXcgVGV4dCgiT3JhbmdlIiksCiAgICAgICAgICAgIG5ldyBUZXh0KCJCYW5hbmEiKSwKICAgICAgICAgIF0sCiAgICAgICAgKSwKICAgICAgKSwKICAgICk7CiAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOm15YXBwL21haW4uZGFydCc7Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IGltcGxlbWVudCBjcmVhdGVTdGF0ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IGltcGxlbWVudCBjcmVhdGVTdGF0ZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y2xhc3MgTXlBcHAgZXh0ZW5kcyBTdGF0ZWxlc3NXaWRnZXQgewogIEBvdmVycmlkZQogIFdpZGdldCBidWlsZChCdWlsZENvbnRleHQgY29udGV4dCkgewogICAgcmV0dXJuIG5ldyBNYXRlcmlhbEFwcCgKICAgICAgdGl0bGU6ICdIYWNrZXIgTmV3cyBEZW1vJywKICAgICAgdGhlbWU6IG5ldyBUaGVtZURhdGEoCiAgICAgICAgcHJpbWFyeVN3YXRjaDogQ29sb3JzLmdyZWVuLAogICAgICApLAogICAgICBob21lOiBuZXcgSG9tZVBhZ2UoKSwKICAgICk7CiAgfQp9CgpjbGFzcyBIb21lUGFnZSBleHRlbmRzIFN0YXRlbGVzc1dpZGdldCB7CiAgSG9tZVBhZ2Uoe0tleSBrZXl9KSA6IHN1cGVyKGtleToga2V5KTsKCiAgQG92ZXJyaWRlCiAgV2lkZ2V0IGJ1aWxkKEJ1aWxkQ29udGV4dCBjb250ZXh0KSB7CiAgICByZXR1cm4gbmV3IFNjYWZmb2xkKAogICAgICBib2R5OiBuZXcgQ2VudGVyKAogICAgICAgIGNoaWxkOiBuZXcgQ29sdW1uKAogICAgICAgICAgbWFpbkF4aXNBbGlnbm1lbnQ6IE1haW5BeGlzQWxpZ25tZW50LmNlbnRlciwKICAgICAgICAgIGNoaWxkcmVuOiA8V2lkZ2V0PlsKICAgICAgICAgICAgbmV3IFRleHQoCiAgICAgICAgICAgICAgJ1lvdSBoYXZlIHB1c2hlZCB0aGUgYnV0dG9uIHRoaXMgbWFueSB0aW1lczonLAogICAgICAgICAgICApLAogICAgICAgICAgXSwKICAgICAgICApLAogICAgICApLAogICAgKTsKICB9Cn0K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
