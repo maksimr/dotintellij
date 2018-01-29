@@ -1570,6 +1570,13 @@
         <mark key="^" line="0" column="32" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/search-query-panel/directive/search-query-panel.js" timestamp="1517231632503">
+        <mark key="'" line="7" column="6" />
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="7" column="15" />
+        <mark key="^" line="7" column="15" />
+        <mark key="." line="7" column="15" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/service/diff.js" timestamp="1493027439244">
         <mark key="'" line="7" column="11" />
         <mark key="[" line="75" column="27" />
@@ -2977,6 +2984,9 @@
         <mark key="^" line="9" column="23" />
         <mark key="." line="10" column="21" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/search-query-panel/template/search-query-panel.html" timestamp="1517231625714">
+        <mark key="'" line="39" column="19" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/virtual-repeat/style/virtual-repeat.scss" timestamp="1493044870930">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="0" column="47" />
@@ -3400,16 +3410,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="2" filename="$USER_HOME$/www/dart/myapp/lib/components/TopStory.dart" />
-      <jump line="19" column="34" filename="$USER_HOME$/www/dart/myapp/lib/components/TopStory.dart" />
-      <jump line="13" column="2" filename="$USER_HOME$/www/dart/myapp/lib/components/TopStory.dart" />
-      <jump line="35" column="23" filename="$USER_HOME$/www/dart/myapp/lib/components/TopStory.dart" />
-      <jump line="45" column="0" filename="$USER_HOME$/www/dart/myapp/lib/components/TopStory.dart" />
-      <jump line="16" column="0" filename="$USER_HOME$/www/dart/myapp/lib/components/TopStory.dart" />
-      <jump line="33" column="35" filename="$USER_HOME$/www/dart/myapp/lib/components/TopStory.dart" />
-      <jump line="32" column="0" filename="$USER_HOME$/www/dart/myapp/lib/components/TopStory.dart" />
-      <jump line="8" column="38" filename="$USER_HOME$/www/dart/myapp/lib/components/TopStory.dart" />
-      <jump line="65" column="0" filename="$USER_HOME$/www/dart/myapp/lib/components/TopStory.dart" />
       <jump line="10" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/workflow/service/workflow-error-cli-decorator.js" />
       <jump line="53" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/workflow/service/workflow-error-cli-decorator.js" />
       <jump line="15" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/issue.js" />
@@ -3500,6 +3500,16 @@
       <jump line="40" column="34" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/template/new-features.html" />
       <jump line="88" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/template/new-features.html" />
       <jump line="17" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/directive/new-features-popup.js" />
+      <jump line="16" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/search-query-panel/directive/search-query-panel.js" />
+      <jump line="9" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/search-query-panel/directive/search-query-panel.js" />
+      <jump line="141" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/search-query-panel/directive/search-query-panel.js" />
+      <jump line="7" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/search-query-panel/directive/search-query-panel.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/search-query-panel/template/search-query-panel.html" />
+      <jump line="10" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/search-query-panel/template/search-query-panel.html" />
+      <jump line="43" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/search-query-panel/template/search-query-panel.html" />
+      <jump line="16" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/search-query-panel/template/search-query-panel.html" />
+      <jump line="34" column="38" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/search-query-panel/template/search-query-panel.html" />
+      <jump line="39" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/search-query-panel/template/search-query-panel.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -3512,7 +3522,7 @@
         <text>This feature lets you upload custom widgets and add them to your dashboards and project pages</text>
       </register>
       <register name="/" type="4">
-        <text>Cutom</text>
+        <text>focus</text>
       </register>
       <register name="0" type="4">
         <text>This feature lets you upload custom widgets and add them to your dashboards</text>
@@ -3552,9 +3562,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Cutom</last-search>
+      <last-search>focus</last-search>
       <last-offset />
-      <last-pattern>Cutom</last-pattern>
+      <last-pattern>focus</last-pattern>
       <last-replace>EMPTY</last-replace>
       <last-substitute>Square.EMPTY</last-substitute>
       <last-dir>1</last-dir>
@@ -3562,7 +3572,6 @@
     </search>
     <history>
       <history-search>
-        <entry>alert</entry>
         <entry encoding="base64">XDx5dEFsZXJ0XD4=</entry>
         <entry>show</entry>
         <entry encoding="base64">XDxmaW5kU2FtZUFsZXJ0XD4=</entry>
@@ -3582,6 +3591,7 @@
         <entry>2018</entry>
         <entry>2017.4</entry>
         <entry>Cutom</entry>
+        <entry>focus</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
