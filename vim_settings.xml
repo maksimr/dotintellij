@@ -1698,12 +1698,12 @@
         <mark key="." line="20" column="71" />
         <mark key="^" line="20" column="71" />
       </file>
-      <file name="/tmp/foo/test/widget_test.dart" timestamp="1517348017935">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="17" column="20" />
-        <mark key="]" line="17" column="18" />
-        <mark key="." line="17" column="18" />
-        <mark key="^" line="17" column="18" />
+      <file name="/tmp/foo/test/widget_test.dart" timestamp="1517349089899">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="28" column="49" />
+        <mark key="]" line="28" column="64" />
+        <mark key="." line="28" column="64" />
+        <mark key="^" line="28" column="64" />
       </file>
       <file name="$USER_HOME$/www/js/Lisa/src/lib/http.js" timestamp="1492204322475">
         <mark key="'" line="8" column="21" />
@@ -3281,9 +3281,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/template/new-features-popup.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/template/new-features-popup.html" />
-      <jump line="16" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/template/new-features-popup.html" />
       <jump line="17" column="38" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/template/new-features-popup.html" />
       <jump line="88" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/directive/new-features-popup.js" />
       <jump line="48" column="48" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/directive/new-features-popup.js" />
@@ -3381,69 +3378,71 @@
       <jump line="7" column="0" filename="/tmp/foo/test/widget_test.dart" />
       <jump line="13" column="0" filename="/tmp/foo/test/widget_test.dart" />
       <jump line="3" column="0" filename="/tmp/foo/test/widget_test.dart" />
+      <jump line="18" column="36" filename="/tmp/foo/test/widget_test.dart" />
+      <jump line="12" column="52" filename="/tmp/foo/test/widget_test.dart" />
+      <jump line="15" column="0" filename="/tmp/foo/test/widget_test.dart" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>new HttpClientMock()</text>
+        <text>new StreamMatcher()</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>new HttpClientMock()</text>
+        <text>new StreamMatcher()</text>
       </register>
       <register name="/" type="4">
-        <text>base</text>
+        <text encoding="base64">XDxIdHRwQ2xpZW50UmVxdWVzdE1vY2tcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>new HttpClientMock()</text>
+        <text>res.transform(UTF8.decoder).join()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdoZW4oKQo=</text>
+        <text encoding="base64">ICBwcmludChyZXMudHJhbnNmb3JtKFVURjguZGVjb2RlcikpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBjbGFzcyBNb2NrQ2F0IGV4dGVuZHMgTW9jayBpbXBsZW1lbnRzIENhdCB7fQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIE1vY2tDYXQgZXh0ZW5kcyBNb2NrIGltcGxlbWVudHMgQ2F0IHt9Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIEh0dHBDbGllbnRNb2NrIGV4dGVuZHMgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBmaW5hbCBjbGllbnQgPSBuZXcgSHR0cCgpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOm1vY2tpdG8vbW9ja2l0by5kYXJ0JzsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHdoZW4oY2xpZW50TW9jaykudGhlblJldHVybihuZXcgSHR0cENsaWVudFJlcXVlc3RNb2NrKCkpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Y2xhc3MgSHR0cENsaWVudE1vY2sgZXh0ZW5kcyBNb2NrIGltcGxlbWVudHMgSHR0cENsaWVudCB7CiAgSHR0cENsaWVudE1vY2soKSA9PiBuZXcgSHR0cENsaWVudFJlcXVlc3QoKTsKfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICB9Owo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Y2xhc3MgSHR0cENsaWVudFJlcXVlc3RNb2NrIGV4dGVuZHMgTW9jayBpbXBsZW1lbnRzIEh0dHBDbGllbnRSZXF1ZXN0IHt9Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAjIFRoZSBmb2xsb3dpbmcgYWRkcyB0aGUgQ3VwZXJ0aW5vIEljb25zIGZvbnQgdG8geW91ciBhcHBsaWNhdGlvbi4KICAjIFVzZSB3aXRoIHRoZSBDdXBlcnRpbm9JY29ucyBjbGFzcyBmb3IgaU9TIHN0eWxlIGljb25zLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>base</last-search>
+      <last-search encoding="base64">XDxIdHRwQ2xpZW50UmVxdWVzdE1vY2tcPg==</last-search>
       <last-offset />
-      <last-pattern>base</last-pattern>
+      <last-pattern encoding="base64">XDxIdHRwQ2xpZW50UmVxdWVzdE1vY2tcPg==</last-pattern>
       <last-replace>EMPTY</last-replace>
       <last-substitute>Square.EMPTY</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>versions</entry>
         <entry encoding="base64">XDxjdXJyZW50SW5kZXhcPg==</entry>
         <entry>ass</entry>
         <entry encoding="base64">XDxMb2dpbkxvZ29cPg==</entry>
@@ -3463,6 +3462,7 @@
         <entry>Cry</entry>
         <entry encoding="base64">XDxkYXJ0XD4=</entry>
         <entry>base</entry>
+        <entry encoding="base64">XDxIdHRwQ2xpZW50UmVxdWVzdE1vY2tcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
