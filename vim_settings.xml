@@ -2971,12 +2971,12 @@
         <mark key="." line="59" column="41" />
         <mark key="^" line="59" column="41" />
       </file>
-      <file name="$USER_HOME$/www/dart/youtrack/lib/components/LoginForm.dart" timestamp="1517329430228">
-        <mark key="'" line="56" column="19" />
-        <mark key="[" line="44" column="28" />
-        <mark key="]" line="44" column="44" />
-        <mark key="." line="44" column="44" />
-        <mark key="^" line="44" column="44" />
+      <file name="$USER_HOME$/www/dart/youtrack/lib/components/LoginForm.dart" timestamp="1517340080294">
+        <mark key="'" line="36" column="14" />
+        <mark key="[" line="42" column="40" />
+        <mark key="]" line="42" column="44" />
+        <mark key="." line="42" column="44" />
+        <mark key="^" line="42" column="44" />
       </file>
       <file name="$USER_HOME$/www/js/Lisa/lib/ui/Message.js" timestamp="1493737385611">
         <mark key="'" line="4" column="1" />
@@ -3267,11 +3267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="76" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/directive/new-features-popup.js" />
-      <jump line="21" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/directive/new-features-popup.js" />
-      <jump line="65" column="59" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/template/new-features-popup.html" />
-      <jump line="50" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/directive/new-features-popup.js" />
-      <jump line="92" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/directive/new-features-popup.js" />
       <jump line="89" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/directive/new-features-popup.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/directive/new-features-popup.js" />
       <jump line="64" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/directive/new-features-popup.js" />
@@ -3367,61 +3362,66 @@
       <jump line="19" column="0" filename="$USER_HOME$/www/dart/youtrack/lib/components/LoginPage.dart" />
       <jump line="14" column="16" filename="$USER_HOME$/www/dart/youtrack/lib/components/LoginPage.dart" />
       <jump line="12" column="0" filename="$USER_HOME$/www/dart/youtrack/lib/components/LoginPage.dart" />
+      <jump line="34" column="8" filename="$USER_HOME$/www/dart/youtrack/lib/components/LoginForm.dart" />
+      <jump line="17" column="10" filename="$USER_HOME$/www/dart/youtrack/lib/components/LoginForm.dart" />
+      <jump line="23" column="20" filename="$USER_HOME$/www/dart/youtrack/lib/components/LoginForm.dart" />
+      <jump line="25" column="20" filename="$USER_HOME$/www/dart/youtrack/lib/components/LoginForm.dart" />
+      <jump line="36" column="14" filename="$USER_HOME$/www/dart/youtrack/lib/components/LoginForm.dart" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>print(value),</text>
+        <text>Login</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>print(value),</text>
+        <text>Login</text>
       </register>
       <register name="/" type="4">
-        <text>Form</text>
+        <text>Login</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgb25DaGFuZ2VkOiAodmFsdWUpID0+IGxvZ2luID0gdmFsdWUsCg==</text>
+        <text encoding="base64">ICAgIFNjYWZmb2xkLm9mKGNvbnRleHQpLnNob3dTbmFja0JhcigKICAgICAgICBuZXcgU25hY2tCYXIoY29udGVudDogbmV3IFRleHQoJ0xvZ2luICRfbG9naW46JF9wYXNzd29yZCcpKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IGltcGxlbWVudCBjcmVhdGVTdGF0ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvcm0uc2F2ZSgpOwogICAgX3BlcmZvcm1Mb2dpbigpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgTG9naW5Gb3JtIGV4dGVuZHMgU3RhdGVsZXNzV2lkZ2V0IHsKICBAb3ZlcnJpZGUKICBXaWRnZXQgYnVpbGQoQnVpbGRDb250ZXh0IGNvbnRleHQpIHsKICAgIHZhciBwYWRkaW5nID0gMjAuMDsKICAgIHJldHVybiBuZXcgUGFkZGluZygKICAgICAgICBwYWRkaW5nOiBuZXcgRWRnZUluc2V0cy5mcm9tTFRSQigwLjAsIHBhZGRpbmcsIDAuMCwgcGFkZGluZyksCiAgICAgICAgY2hpbGQ6IG5ldyBDb2x1bW4oCiAgICAgICAgICBjaGlsZHJlbjogWwogICAgICAgICAgICBidWlsZExvZ2luRmllbGQoKSwKICAgICAgICAgICAgYnVpbGRQYXNzd29yZEZpZWxkKCksCiAgICAgICAgICAgIGJ1aWxkTG9naW5CdXR0b24oY29udGV4dCksCiAgICAgICAgICBdLAogICAgICAgICkpOwogIH0KCiAgb25Mb2dpbihjb250ZXh0KSB7CiAgICBTY2FmZm9sZAogICAgICAgIC5vZihjb250ZXh0KQogICAgICAgIC5zaG93U25hY2tCYXIobmV3IFNuYWNrQmFyKGNvbnRlbnQ6IG5ldyBUZXh0KCdMb2dpbiB1c2VyJykpKTsKICB9CgogIGJ1aWxkTG9naW5CdXR0b24oY29udGV4dCkgewogICAgcmV0dXJuIG5ldyBQYWRkaW5nKAogICAgICBwYWRkaW5nOiBuZXcgRWRnZUluc2V0cy5mcm9tTFRSQigwLjAsIDMwLjAsIDAuMCwgMC4wKSwKICAgICAgY2hpbGQ6IG5ldyBSYWlzZWRCdXR0b24oCiAgICAgICAgY2hpbGQ6IG5ldyBUZXh0KCJMb2dpbiIpLAogICAgICAgIG9uUHJlc3NlZDogKCkgPT4gb25Mb2dpbihjb250ZXh0KSwKICAgICAgKSwKICAgICk7CiAgfQoKICBidWlsZFBhc3N3b3JkRmllbGQoKSB7CiAgICByZXR1cm4gbmV3IFRleHRGaWVsZCgKICAgICAgb2JzY3VyZVRleHQ6IHRydWUsCiAgICAgIG9uQ2hhbmdlZDogKHZhbHVlKSA9PiBwcmludCh2YWx1ZSksCiAgICAgIGRlY29yYXRpb246IG5ldyBJbnB1dERlY29yYXRpb24oCiAgICAgICAgbGFiZWxUZXh0OiBpMThuKCJQYXNzd29yZCIpLAogICAgICApLAogICAgKTsKICB9CgogIGJ1aWxkTG9naW5GaWVsZCgpIHsKICAgIHJldHVybiBuZXcgVGV4dEZpZWxkKAogICAgICBrZXlib2FyZFR5cGU6IFRleHRJbnB1dFR5cGUuZW1haWxBZGRyZXNzLAogICAgICBvbkNoYW5nZWQ6ICh2YWx1ZSkgPT4gcHJpbnQodmFsdWUpLAogICAgICBkZWNvcmF0aW9uOiBuZXcgSW5wdXREZWNvcmF0aW9uKAogICAgICAgIGxhYmVsVGV4dDogaTE4bigiTG9naW4iKSwKICAgICAgKSwKICAgICk7CiAgfQp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjaGlsZDoK</text>
+        <text encoding="base64">ICAgIFNjYWZmb2xkLm9mKGNvbnRleHQpLnNob3dTbmFja0JhcigKICAgICAgICBuZXcgU25hY2tCYXIoY29udGVudDogbmV3IFRleHQoJ0xvZ2luICRfbG9naW46JF9wYXNzd29yZCcpKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICApLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgb25DaGEK</text>
+        <text encoding="base64">ICAgICAgb25DaGFuZ2VkOiAodmFsdWUpID0+IGxvZ2luID0gdmFsdWUsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbGkK</text>
+        <text encoding="base64">ICAgICAgb25DaGFuZ2VkOiAodmFsdWUpID0+IHBhc3N3b3JkID0gdmFsdWUsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYQo=</text>
+        <text encoding="base64">ICBmaW5hbCBmb3JtS2V5ID0gbmV3IEdsb2JhbEtleTxGb3JtU3RhdGU+KCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEZvcm0ub2YoY29udGV4dCkucmVzZXQoKTsK</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IGltcGxlbWVudCBjcmVhdGVTdGF0ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Form</last-search>
+      <last-search>Login</last-search>
       <last-offset />
-      <last-pattern>Form</last-pattern>
+      <last-pattern>Login</last-pattern>
       <last-replace>EMPTY</last-replace>
       <last-substitute>Square.EMPTY</last-substitute>
       <last-dir>1</last-dir>
@@ -3443,12 +3443,12 @@
         <entry>ass</entry>
         <entry encoding="base64">XDxMb2dpbkxvZ29cPg==</entry>
         <entry>Pass</entry>
-        <entry>Login</entry>
         <entry>TODO</entry>
         <entry encoding="base64">XDxvbkxvbmdQcmVzc1w+</entry>
         <entry>onLogin</entry>
         <entry encoding="base64">XDxvbkxvZ2luXD4=</entry>
         <entry>Form</entry>
+        <entry>Login</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
