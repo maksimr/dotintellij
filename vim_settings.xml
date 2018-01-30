@@ -1698,6 +1698,13 @@
         <mark key="." line="20" column="71" />
         <mark key="^" line="20" column="71" />
       </file>
+      <file name="/tmp/foo/test/widget_test.dart" timestamp="1517348017935">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="17" column="20" />
+        <mark key="]" line="17" column="18" />
+        <mark key="." line="17" column="18" />
+        <mark key="^" line="17" column="18" />
+      </file>
       <file name="$USER_HOME$/www/js/Lisa/src/lib/http.js" timestamp="1492204322475">
         <mark key="'" line="8" column="21" />
         <mark key="[" line="1" column="22" />
@@ -2165,6 +2172,11 @@
         <mark key="]" line="14" column="47" />
         <mark key="." line="14" column="47" />
         <mark key="^" line="14" column="47" />
+      </file>
+      <file name="/tmp/foo/pubspec.yaml" timestamp="1517347391488">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="16" />
+        <mark key="." line="6" column="16" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/service/i18n-translate.js" timestamp="1516797381369">
         <mark key="'" line="100" column="32" />
@@ -3269,9 +3281,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="65" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/template/new-features-popup.html" />
-      <jump line="76" column="54" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/template/new-features-popup.html" />
-      <jump line="19" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/directive/new-features-popup.js" />
       <jump line="53" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/template/new-features-popup.html" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/template/new-features-popup.html" />
       <jump line="16" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/template/new-features-popup.html" />
@@ -3369,52 +3378,55 @@
       <jump line="1" column="8" filename="$USER_HOME$/www/dart/youtrack/lib/components/LoginForm.dart" />
       <jump line="0" column="8" filename="$USER_HOME$/www/dart/youtrack/lib/components/LoginForm.dart" />
       <jump line="51" column="10" filename="$USER_HOME$/www/dart/youtrack/lib/components/LoginForm.dart" />
+      <jump line="7" column="0" filename="/tmp/foo/test/widget_test.dart" />
+      <jump line="13" column="0" filename="/tmp/foo/test/widget_test.dart" />
+      <jump line="3" column="0" filename="/tmp/foo/test/widget_test.dart" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>CryptoUtils.bytesToBase64</text>
+        <text>new HttpClientMock()</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>CryptoUtils.bytesToBase64</text>
+        <text>new HttpClientMock()</text>
       </register>
       <register name="/" type="4">
         <text>base</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0ICdkYXJ0OmNvbnZlcnQnOwo=</text>
+      <register name="0" type="4">
+        <text>new HttpClientMock()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOmNyeXB0by9jcnlwdG8uZGFydCc7Cg==</text>
+        <text encoding="base64">ICAgIHdoZW4oKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjcnlwdG86IDIuMC4yKzEK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjcnlwdG86IDIuMC4yKzEK</text>
+        <text encoding="base64">ICBjbGFzcyBNb2NrQ2F0IGV4dGVuZHMgTW9jayBpbXBsZW1lbnRzIENhdCB7fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNsYXNzIE1vY2tDYXQgZXh0ZW5kcyBNb2NrIGltcGxlbWVudHMgQ2F0IHt9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAjIFRoZSBmb2xsb3dpbmcgYWRkcyB0aGUgQ3VwZXJ0aW5vIEljb25zIGZvbnQgdG8geW91ciBhcHBsaWNhdGlvbi4KICAjIFVzZSB3aXRoIHRoZSBDdXBlcnRpbm9JY29ucyBjbGFzcyBmb3IgaU9TIHN0eWxlIGljb25zLgo=</text>
+        <text encoding="base64">ICAgIGNsYXNzIEh0dHBDbGllbnRNb2NrIGV4dGVuZHMgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjcnlwdG86IDIuMC4yKzEK</text>
+        <text encoding="base64">ICBmaW5hbCBjbGllbnQgPSBuZXcgSHR0cCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOm1vY2tpdG8vbW9ja2l0by5kYXJ0JzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJ0b2Eoc3RyKSB7fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAjIFRoZSBmb2xsb3dpbmcgYWRkcyB0aGUgQ3VwZXJ0aW5vIEljb25zIGZvbnQgdG8geW91ciBhcHBsaWNhdGlvbi4KICAjIFVzZSB3aXRoIHRoZSBDdXBlcnRpbm9JY29ucyBjbGFzcyBmb3IgaU9TIHN0eWxlIGljb25zLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
