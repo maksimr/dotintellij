@@ -672,13 +672,6 @@
         <mark key="." line="11" column="35" />
         <mark key="^" line="11" column="35" />
       </file>
-      <file name="$USER_HOME$/www/dart/youtrack/lib/components/App.dart" timestamp="1517315560157">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="11" column="47" />
-        <mark key="]" line="11" column="47" />
-        <mark key="." line="11" column="47" />
-        <mark key="^" line="11" column="47" />
-      </file>
       <file name="$USER_HOME$/www/js/Lisa/src/components/AppHeader.js" timestamp="1494957418413">
         <mark key="'" line="25" column="0" />
         <mark key="[" line="49" column="3" />
@@ -1915,12 +1908,12 @@
         <mark key="." line="64" column="80" />
         <mark key="^" line="64" column="80" />
       </file>
-      <file name="$USER_HOME$/www/dart/youtrack/lib/components/LoginPage.dart" timestamp="1517324298597">
-        <mark key="'" line="96" column="5" />
-        <mark key="[" line="96" column="6" />
-        <mark key="]" line="96" column="6" />
-        <mark key="." line="96" column="6" />
-        <mark key="^" line="62" column="38" />
+      <file name="$USER_HOME$/www/dart/youtrack/lib/components/LoginPage.dart" timestamp="1517326134454">
+        <mark key="'" line="38" column="19" />
+        <mark key="[" line="31" column="29" />
+        <mark key="]" line="31" column="35" />
+        <mark key="^" line="31" column="35" />
+        <mark key="." line="31" column="35" />
       </file>
       <file name="$USER_HOME$/www/js/Lisa/src/views/Blank.js" timestamp="1494829770689">
         <mark key="'" line="6" column="8" />
@@ -2967,8 +2960,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="35" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/directive/new-features-popup.js" />
-      <jump line="32" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/directive/new-features-popup.js" />
       <jump line="39" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/test/directive/new-features-popup.js" />
       <jump line="33" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/test/directive/new-features-popup.js" />
       <jump line="20" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/directive/new-features-popup.js" />
@@ -3042,7 +3033,6 @@
       <jump line="8" column="34" filename="$USER_HOME$/www/dart/youtrack/pubspec.yaml" />
       <jump line="24" column="25" filename="$USER_HOME$/www/dart/youtrack/pubspec.yaml" />
       <jump line="16" column="0" filename="$USER_HOME$/www/dart/youtrack/lib/components/App.dart" />
-      <jump line="11" column="0" filename="$USER_HOME$/www/dart/youtrack/lib/components/App.dart" />
       <jump line="8" column="0" filename="$USER_HOME$/www/dart/youtrack/lib/components/AppLogo.dart" />
       <jump line="13" column="19" filename="$USER_HOME$/www/dart/youtrack/lib/components/App.dart" />
       <jump line="2" column="0" filename="$USER_HOME$/www/dart/youtrack/lib/components/App.dart" />
@@ -3067,65 +3057,68 @@
       <jump line="81" column="0" filename="$USER_HOME$/www/dart/youtrack/lib/components/LoginPage.dart" />
       <jump line="0" column="0" filename="$USER_HOME$/www/dart/youtrack/lib/components/LoginPage.dart" />
       <jump line="96" column="5" filename="$USER_HOME$/www/dart/youtrack/lib/components/LoginPage.dart" />
+      <jump line="44" column="19" filename="$USER_HOME$/www/dart/youtrack/lib/components/LoginPage.dart" />
+      <jump line="38" column="19" filename="$USER_HOME$/www/dart/youtrack/lib/components/LoginPage.dart" />
+      <jump line="11" column="11" filename="$USER_HOME$/www/dart/youtrack/lib/components/App.dart" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>build</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>build</text>
       </register>
       <register name="/" type="4">
-        <text>TODO</text>
+        <text>onLogin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IFRleHRGb3JtRmllbGQoCiAgICAgICAgICAgICAgZGVjb3JhdGlvbjogbmV3IElucHV0RGVjb3JhdGlvbigKICAgICAgICAgICAgICAgIGxhYmVsVGV4dDogIkxvZ2luIiwKICAgICAgICAgICAgICApLAogICAgICAgICAgICApLAo=</text>
+        <text encoding="base64">ICAgICAga2V5Ym9hcmRUeXBlOiBUZXh0SW5wdXRUeXBlLmVtYWlsQWRkcmVzcywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAub2YoKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIG9uTG9naW4gPSAoKSB7CiAgICAgIAogICAgfTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAga2V5Ym9hcmRUeXBlOiBUZXh0SW5wdXRUeXBlLnBhciwK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAga2V5Ym9hcmRUeXBlOiBUZXh0SW5wdXRUeXBlLmVtYWlsQWRkcmVzcywKICAgICAgZGVjb3JhdGlvbjogbmV3IElucHV0RGVjb3JhdGlvbigK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB0ZXh0Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="8" type="4">
         <text>new TextFormField(
               decoration: new InputDecoration(
                 labelText: &quot;Login&quot;,
               ),
             )</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBkZWNvcmF0aW9uOiBJbiwK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IFRleHQoIlVzZXIgUGFzc3dvcmQiKSwK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IFRleHQoIlVzZXIgTG9naW4iKSwK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRm9ybUZpZWxkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>TODO</last-search>
+      <last-search>onLogin</last-search>
       <last-offset />
-      <last-pattern>TODO</last-pattern>
+      <last-pattern>onLogin</last-pattern>
       <last-replace>EMPTY</last-replace>
       <last-substitute>Square.EMPTY</last-substitute>
       <last-dir>1</last-dir>
@@ -3133,8 +3126,6 @@
     </search>
     <history>
       <history-search>
-        <entry>$ctrl</entry>
-        <entry>$scope</entry>
         <entry>expose pub</entry>
         <entry>new</entry>
         <entry>id</entry>
@@ -3153,6 +3144,8 @@
         <entry>Pass</entry>
         <entry>Login</entry>
         <entry>TODO</entry>
+        <entry encoding="base64">XDxvbkxvbmdQcmVzc1w+</entry>
+        <entry>onLogin</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
@@ -3171,9 +3164,9 @@
         <entry>%s/show/layout-show/gc</entry>
         <entry>%s/hide/layout-hide/gc</entry>
         <entry>%s/from/= require(/gc</entry>
-        <entry>action AceJumpAction</entry>
         <entry>%s/Square.EMPTY/EMPTY/gc</entry>
         <entry>ww</entry>
+        <entry>action AceJumpAction</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
