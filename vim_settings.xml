@@ -2141,8 +2141,8 @@
         <mark key="]" line="48" column="143" />
         <mark key="." line="48" column="143" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/user-agreement/smart-user-agreement.js" timestamp="1517403519171">
-        <mark key="'" line="87" column="18" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/user-agreement/smart-user-agreement.js" timestamp="1517403648968">
+        <mark key="'" line="57" column="8" />
       </file>
       <file name="$USER_HOME$/www/js/react-chat-app/src/reducers/index.js" timestamp="1492945587326">
         <mark key="'" line="1" column="8" />
@@ -3322,12 +3322,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="2" filename="$USER_HOME$/www/dart/youtrack/lib/components/LoginForm.dart" />
-      <jump line="17" column="6" filename="$USER_HOME$/www/dart/youtrack/lib/components/LoginForm.dart" />
-      <jump line="74" column="0" filename="$USER_HOME$/www/dart/youtrack/lib/components/LoginForm.dart" />
-      <jump line="69" column="0" filename="$USER_HOME$/www/dart/youtrack/lib/components/LoginForm.dart" />
-      <jump line="14" column="23" filename="$USER_HOME$/www/dart/youtrack/lib/components/LoginPage.dart" />
-      <jump line="35" column="2" filename="$USER_HOME$/www/dart/youtrack/pubspec.yaml" />
       <jump line="52" column="2" filename="$USER_HOME$/www/dart/youtrack/pubspec.yaml" />
       <jump line="50" column="18" filename="$USER_HOME$/www/dart/youtrack/lib/components/LoginForm.dart" />
       <jump line="5" column="30" filename="$USER_HOME$/www/dart/youtrack/lib/components/LoginForm.dart" />
@@ -3422,6 +3416,12 @@
       <jump line="15" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/user-agreement/smart-user-agreement.js" />
       <jump line="87" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/user-agreement/smart-user-agreement.js" />
       <jump line="7" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/user-agreement/test/service/user-agreement.js" />
+      <jump line="106" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/user-agreement/smart-user-agreement.js" />
+      <jump line="67" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/user-agreement/smart-user-agreement.js" />
+      <jump line="63" column="47" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/user-agreement/smart-user-agreement.js" />
+      <jump line="36" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/user-agreement/smart-user-agreement.js" />
+      <jump line="55" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/user-agreement/smart-user-agreement.js" />
+      <jump line="57" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/user-agreement/smart-user-agreement.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -3434,7 +3434,7 @@
         <text>destroy</text>
       </register>
       <register name="/" type="4">
-        <text>auth</text>
+        <text>guest</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGlSZWFjdC51bm1vdW50Q29tcG9uZW50QXROb2RlKHRoaXMuY29udGFpbmVyTm9kZSk7Cg==</text>
@@ -3474,9 +3474,9 @@
       </register>
     </registers>
     <search>
-      <last-search>auth</last-search>
+      <last-search>guest</last-search>
       <last-offset />
-      <last-pattern>auth</last-pattern>
+      <last-pattern>guest</last-pattern>
       <last-replace>EMPTY</last-replace>
       <last-substitute>Square.EMPTY</last-substitute>
       <last-dir>1</last-dir>
@@ -3484,7 +3484,6 @@
     </search>
     <history>
       <history-search>
-        <entry>render</entry>
         <entry encoding="base64">XDxvbkRlY2xpbmVcPg==</entry>
         <entry>setInterval</entry>
         <entry encoding="base64">XDxzZXRJbnRlcnZhbFw+</entry>
@@ -3504,6 +3503,7 @@
         <entry encoding="base64">XDxVc2VyQWdyZWVtZW50XD4=</entry>
         <entry>featch</entry>
         <entry>auth</entry>
+        <entry>guest</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
