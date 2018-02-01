@@ -3046,12 +3046,11 @@
         <mark key="." line="71" column="42" />
         <mark key="^" line="71" column="13" />
       </file>
-      <file name="$USER_HOME$/www/dart/foo/lib/hub.dart" timestamp="1517488704956">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="17" column="17" />
-        <mark key="]" line="17" column="17" />
-        <mark key="." line="17" column="17" />
-        <mark key="^" line="17" column="17" />
+      <file name="$USER_HOME$/www/dart/foo/lib/hub.dart" timestamp="1517495798665">
+        <mark key="[" line="4" column="52" />
+        <mark key="]" line="4" column="52" />
+        <mark key="." line="4" column="52" />
+        <mark key="^" line="4" column="52" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/test/directive/yt-header.js" timestamp="1496074339059">
         <mark key="'" line="127" column="19" />
@@ -3368,8 +3367,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/user-agreement/test/service/user-agreement.js" />
-      <jump line="77" column="39" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/user-agreement/test/service/user-agreement.js" />
       <jump line="84" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/user-agreement/test/service/user-agreement.js" />
       <jump line="18" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/user-agreement/test/service/user-agreement.js" />
       <jump line="74" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/user-agreement/test/service/user-agreement.js" />
@@ -3468,16 +3465,18 @@
       <jump line="2" column="0" filename="$USER_HOME$/www/dart/foo/test/hub_sign_in_test.dart" />
       <jump line="2" column="0" filename="$USER_HOME$/www/dart/foo/test/hub_test.dart" />
       <jump line="4" column="0" filename="$USER_HOME$/www/dart/foo/lib/hub.dart" />
+      <jump line="16" column="0" filename="$USER_HOME$/www/dart/foo/lib/hub.dart" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/dart/foo/lib/hub.dart" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>HubAuthorizatoin</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>login</text>
+        <text>HubAuthorizatoin</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2dpblw+</text>
@@ -3486,7 +3485,7 @@
         <text encoding="base64">Y2xhc3MgVXNlckNyZWRlbnRpYWxzIGV4dGVuZHMgQ3JlZGVudGlhbHMgewogIFVzZXJDcmVkZW50aWFscyh7bG9naW4sIHBhc3N3b3JkfSk7Cn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YWJzdHJhY3QgY2xhc3MgQ3JlZGVudGlhbHMgewogIGF1dGhvcml6ZSgpIHt9Cn0KCmNsYXNzIFVzZXJDcmVkZW50aWFscyBleHRlbmRzIENyZWRlbnRpYWxzIHsKICBVc2VyQ3JlZGVudGlhbHMoe2xvZ2luLCBwYXNzd29yZH0pOwp9CgpjbGFzcyBIdWIgewogIEh1Yih7CiAgICBAcmVxdWlyZWQgc2NvcGVzLAogICAgQHJlcXVpcmVkIHVybCwKICB9KTsKCiAgc2lnbkluKENyZWRlbnRpYWxzIHgpIHsKICAgIHguYXV0aG9yaXplKCk7CiAgfQoKICBzaWduT3V0KCkge30KfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -3495,25 +3494,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgV2ViVG9rZW4gZXh0ZW5kcyBDcmVkZW50aWFscyB7CiAgVXNlckNyZWRlbnRpYWxzKHtsb2dpbiwgcGFzc3dvcmR9KTsKfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Y2xhc3MgV2ViVG9rZW4gZXh0ZW5kcyBDcmVkZW50aWFscyB7CiAgVXNlckNyZWRlbnRpYWxzKHtsb2dpbiwgcGFzc3dvcmR9KTsKfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ewo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ewo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBzaWduSW4oU3RyaW5nIHgpIHt9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICBzaWduSW4oU3RyaW5nIHgpIHt9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
