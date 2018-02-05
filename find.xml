@@ -9,7 +9,7 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scss" />
+    <option name="FILE_MASK" value="*.scss,*.js,*.html" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -26,5 +26,6 @@
     <mask>*.html,*.js,*.po</mask>
     <mask>*.html,*.js,*.po,*.pot</mask>
     <mask>*.scss</mask>
+    <mask>*.scss,*.js,*.html</mask>
   </component>
 </application>
