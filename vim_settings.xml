@@ -211,8 +211,8 @@
         <mark key="^" line="9" column="38" />
         <mark key="." line="9" column="38" />
       </file>
-      <file name="$USER_HOME$/www/dart/foo/lib/components/CounterPage.dart" timestamp="1517875359304">
-        <mark key="'" line="26" column="0" />
+      <file name="$USER_HOME$/www/dart/foo/lib/components/CounterPage.dart" timestamp="1517923444110">
+        <mark key="'" line="26" column="15" />
         <mark key="[" line="27" column="26" />
         <mark key="]" line="27" column="31" />
         <mark key="." line="27" column="31" />
@@ -3306,12 +3306,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1068" column="7" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/scroll_view.dart" />
-      <jump line="994" column="7" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/scroll_view.dart" />
-      <jump line="969" column="14" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/scroll_view.dart" />
-      <jump line="967" column="19" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/scroll_view.dart" />
-      <jump line="956" column="30" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/scroll_view.dart" />
-      <jump line="933" column="7" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/scroll_view.dart" />
       <jump line="883" column="7" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/scroll_view.dart" />
       <jump line="778" column="23" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/scroll_view.dart" />
       <jump line="775" column="58" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/scroll_view.dart" />
@@ -3406,6 +3400,12 @@
       <jump line="21" column="3" filename="$USER_HOME$/www/kotlin/hub-pub/package.json" />
       <jump line="3" column="18" filename="$USER_HOME$/www/kotlin/hub-pub/package.json" />
       <jump line="29" column="0" filename="$USER_HOME$/www/kotlin/hub-pub/package.json" />
+      <jump line="27" column="0" filename="$USER_HOME$/www/dart/foo/lib/components/CounterPage.dart" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/dart/foo/lib/components/CounterPage.dart" />
+      <jump line="53" column="0" filename="$USER_HOME$/www/dart/foo/lib/components/CounterPage.dart" />
+      <jump line="10" column="0" filename="$USER_HOME$/www/dart/foo/lib/components/CounterPage.dart" />
+      <jump line="1" column="31" filename="$USER_HOME$/www/dart/foo/lib/components/CounterPage.dart" />
+      <jump line="26" column="15" filename="$USER_HOME$/www/dart/foo/lib/components/CounterPage.dart" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3418,7 +3418,7 @@
         <text>publish</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYW5pZmVzdEZpbGVcPg==</text>
+        <text>Connector</text>
       </register>
       <register name="0" type="4">
         <text>path.resolve(dir, manifestFile)</text>
@@ -3458,17 +3458,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYW5pZmVzdEZpbGVcPg==</last-search>
+      <last-search>Connector</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYW5pZmVzdEZpbGVcPg==</last-pattern>
+      <last-pattern>Connector</last-pattern>
       <last-replace>EMPTY</last-replace>
       <last-substitute>Square.EMPTY</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Index</entry>
         <entry>getLinksQuery</entry>
         <entry>get</entry>
         <entry>Test</entry>
@@ -3488,6 +3487,7 @@
         <entry>pwd</entry>
         <entry>dir</entry>
         <entry encoding="base64">XDxtYW5pZmVzdEZpbGVcPg==</entry>
+        <entry>Connector</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
