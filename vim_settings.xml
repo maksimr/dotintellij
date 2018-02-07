@@ -1402,8 +1402,10 @@
         <mark key="." line="29" column="27" />
         <mark key="^" line="29" column="27" />
       </file>
-      <file name="$USER_HOME$/www/dart/bar/lib/AppStore.dart" timestamp="1518039166337">
-        <mark key="[" line="0" column="39" />
+      <file name="$USER_HOME$/www/dart/bar/lib/AppStore.dart" timestamp="1518045762360">
+        <mark key="'" line="2" column="23" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="4" column="0" />
       </file>
       <file name="$USER_HOME$/www/js/Lisa/src/reducers/server.js" timestamp="1492452929813">
         <mark key="'" line="25" column="8" />
@@ -1889,11 +1891,11 @@
         <mark key="." line="93" column="15" />
         <mark key="^" line="93" column="15" />
       </file>
-      <file name="$USER_HOME$/www/dart/bar/lib/main.dart" timestamp="1518044415708">
-        <mark key="'" line="57" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="13" column="20" />
-        <mark key="." line="100" column="19" />
+      <file name="$USER_HOME$/www/dart/bar/lib/main.dart" timestamp="1518046298927">
+        <mark key="'" line="50" column="14" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="96" column="2" />
+        <mark key="." line="0" column="75" />
         <mark key="^" line="100" column="19" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-timezone-select.js" timestamp="1491995293068">
@@ -3242,10 +3244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="189" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
-      <jump line="106" column="3" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/issue.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/issue.js" />
-      <jump line="75" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/issue.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-toolbar.html" />
       <jump line="20" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-toolbar.html" />
       <jump line="17" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-toolbar.html" />
@@ -3297,7 +3295,6 @@
       <jump line="19" column="0" filename="$USER_HOME$/www/dart/foo/lib/components/Provider.dart" />
       <jump line="59" column="0" filename="$USER_HOME$/www/dart/foo/lib/components/Provider.dart" />
       <jump line="49" column="40" filename="$USER_HOME$/www/dart/bar/lib/main.dart" />
-      <jump line="50" column="61" filename="$USER_HOME$/www/dart/bar/lib/main.dart" />
       <jump line="52" column="55" filename="$USER_HOME$/www/dart/bar/lib/main.dart" />
       <jump line="59" column="9" filename="$USER_HOME$/www/dart/bar/lib/main.dart" />
       <jump line="88" column="0" filename="$USER_HOME$/www/dart/bar/lib/main.dart" />
@@ -3318,7 +3315,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/material/theme.dart" />
       <jump line="71" column="17" filename="$USER_HOME$/www/dart/bar/lib/main.dart" />
       <jump line="95" column="0" filename="$USER_HOME$/www/dart/bar/lib/main.dart" />
-      <jump line="2" column="0" filename="$USER_HOME$/www/dart/bar/lib/main.dart" />
       <jump line="67" column="0" filename="$USER_HOME$/www/dart/bar/lib/main.dart" />
       <jump line="78" column="20" filename="$USER_HOME$/www/dart/bar/lib/main.dart" />
       <jump line="13" column="0" filename="$USER_HOME$/www/dart/bar/lib/Provider.dart" />
@@ -3342,10 +3338,16 @@
       <jump line="3" column="0" filename="$USER_HOME$/www/dart/bar/lib/Provider.dart" />
       <jump line="2" column="0" filename="$USER_HOME$/www/dart/bar/lib/Provider.dart" />
       <jump line="57" column="0" filename="$USER_HOME$/www/dart/bar/lib/main.dart" />
+      <jump line="5" column="0" filename="$USER_HOME$/www/dart/bar/lib/main.dart" />
+      <jump line="2" column="23" filename="$USER_HOME$/www/dart/bar/lib/AppStore.dart" />
+      <jump line="2" column="20" filename="$USER_HOME$/www/dart/bar/lib/main.dart" />
+      <jump line="15" column="0" filename="$USER_HOME$/www/dart/bar/lib/main.dart" />
+      <jump line="48" column="0" filename="$USER_HOME$/www/dart/bar/lib/main.dart" />
+      <jump line="50" column="14" filename="$USER_HOME$/www/dart/bar/lib/main.dart" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y2xhc3MgTXlBcHAgZXh0ZW5kcyBTdGF0ZWxlc3NXaWRnZXQgewogIC8vIFRoaXMgd2lkZ2V0IGlzIHRoZSByb290IG9mIHlvdXIgYXBwbGljYXRpb24uCiAgQG92ZXJyaWRlCiAgV2lkZ2V0IGJ1aWxkKEJ1aWxkQ29udGV4dCBjb250ZXh0KSB7CiAgICByZXR1cm4gbmV3IFByb3ZpZGVyKAogICAgICBkYXRhOiBhcHBTdG9yZSwK</text>
+        <text encoding="base64">ICAgICAgKSwgLy8gVGhpcyB0cmFpbGluZyBjb21tYSBtYWtlcyBhdXRvLWZvcm1hdHRpbmcgbmljZXIgZm9yIGJ1aWxkIG1ldGhvZHMuCiAgICApOwogIH0K</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -3354,10 +3356,10 @@
         <text>StatefulWidget</text>
       </register>
       <register name="/" type="4">
-        <text>count</text>
+        <text>_in</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBXaWRnZXQgYnVpbGQoQnVpbGRDb250ZXh0IGNvbnRleHQpIHsKICAgIHZhciBfY291bnRlciA9IFByb3ZpZGVyLm9mKGNvbnRleHQpLnZhbHVlOwo=</text>
+        <text encoding="base64">ICAgICAgZmxvYXRpbmdBY3Rpb25CdXR0b246IG5ldyBGbG9hdGluZ0FjdGlvbkJ1dHRvbigKICAgICAgICBvblByZXNzZWQ6ICgpID0+IF9pbmNyZW1lbnRDb3VudGVyKGNvbnRleHQpLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -3394,9 +3396,9 @@
       </register>
     </registers>
     <search>
-      <last-search>count</last-search>
+      <last-search>_in</last-search>
       <last-offset />
-      <last-pattern>count</last-pattern>
+      <last-pattern>_in</last-pattern>
       <last-replace>EMPTY</last-replace>
       <last-substitute>Square.EMPTY</last-substitute>
       <last-dir>1</last-dir>
@@ -3404,8 +3406,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxMaXN0ZW5hYmxlXD4=</entry>
-        <entry>route</entry>
         <entry>redirects</entry>
         <entry>server</entry>
         <entry>issues</entry>
@@ -3424,6 +3424,8 @@
         <entry>Inhe</entry>
         <entry>counter</entry>
         <entry>count</entry>
+        <entry>Provider</entry>
+        <entry>_in</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
