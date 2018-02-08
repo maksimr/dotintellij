@@ -1891,12 +1891,12 @@
         <mark key="." line="93" column="15" />
         <mark key="^" line="93" column="15" />
       </file>
-      <file name="$USER_HOME$/www/dart/bar/lib/main.dart" timestamp="1518046298927">
+      <file name="$USER_HOME$/www/dart/bar/lib/main.dart" timestamp="1518047466611">
         <mark key="'" line="50" column="14" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="96" column="2" />
-        <mark key="." line="0" column="75" />
-        <mark key="^" line="100" column="19" />
+        <mark key="[" line="100" column="20" />
+        <mark key="]" line="100" column="20" />
+        <mark key="." line="100" column="20" />
+        <mark key="^" line="100" column="20" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-timezone-select.js" timestamp="1491995293068">
         <mark key="'" line="75" column="0" />
@@ -2493,12 +2493,12 @@
         <mark key="^" line="10" column="47" />
         <mark key="." line="10" column="47" />
       </file>
-      <file name="$USER_HOME$/www/dart/bar/lib/Provider.dart" timestamp="1518043745292">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="37" />
-        <mark key="^" line="1" column="37" />
-        <mark key="." line="1" column="37" />
+      <file name="$USER_HOME$/www/dart/bar/lib/Provider.dart" timestamp="1518048316262">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="29" column="2" />
+        <mark key="^" line="53" column="35" />
+        <mark key="." line="53" column="35" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/hub/mount/mount.js" timestamp="1516794149541">
         <mark key="'" line="1" column="18" />
@@ -3244,9 +3244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-toolbar.html" />
-      <jump line="20" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-toolbar.html" />
-      <jump line="17" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-toolbar.html" />
       <jump line="15" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/issue.js" />
       <jump line="58" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/issue.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/issue.js" />
@@ -3344,52 +3341,55 @@
       <jump line="15" column="0" filename="$USER_HOME$/www/dart/bar/lib/main.dart" />
       <jump line="48" column="0" filename="$USER_HOME$/www/dart/bar/lib/main.dart" />
       <jump line="50" column="14" filename="$USER_HOME$/www/dart/bar/lib/main.dart" />
+      <jump line="34" column="0" filename="$USER_HOME$/www/dart/bar/lib/Provider.dart" />
+      <jump line="42" column="49" filename="$USER_HOME$/www/dart/bar/lib/Provider.dart" />
+      <jump line="39" column="0" filename="$USER_HOME$/www/dart/bar/lib/Provider.dart" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgKSwgLy8gVGhpcyB0cmFpbGluZyBjb21tYSBtYWtlcyBhdXRvLWZvcm1hdHRpbmcgbmljZXIgZm9yIGJ1aWxkIG1ldGhvZHMuCiAgICApOwogIH0K</text>
+        <text encoding="base64">Y2xhc3MgX1Byb3ZpZGVyU3RhdGUgZXh0ZW5kcyBTdGF0ZTxQcm92aWRlcj4gewogIEBvdmVycmlkZQogIGluaXRTdGF0ZSgpIHsKICAgIHN1cGVyLmluaXRTdGF0ZSgpOwogICAgd2lkZ2V0LmRhdGEuYWRkTGlzdGVuZXIoZGlkVmFsdWVDaGFuZ2UpOwogIH0KCiAgQG92ZXJyaWRlCiAgZGlzcG9zZSgpIHsKICAgIHdpZGdldC5kYXRhLnJlbW92ZUxpc3RlbmVyKGRpZFZhbHVlQ2hhbmdlKTsKICAgIHN1cGVyLmRpc3Bvc2UoKTsKICB9Cg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>StatefulWidget</text>
+        <text>, this.dataValue</text>
       </register>
       <register name="/" type="4">
         <text>_in</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZmxvYXRpbmdBY3Rpb25CdXR0b246IG5ldyBGbG9hdGluZ0FjdGlvbkJ1dHRvbigKICAgICAgICBvblByZXNzZWQ6ICgpID0+IF9pbmNyZW1lbnRDb3VudGVyKGNvbnRleHQpLAo=</text>
+        <text encoding="base64">CiAgZGlkVmFsdWVDaGFuZ2UoKSA9PiBzZXRTdGF0ZSgoKSB7fSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZGF0YVZhbHVlOiB3aWRnZXQuZGF0YS52YWx1ZSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBAb3ZlcnJpZGUKICBpbml0U3RhdGUoKSB7CiAgICBzdXBlci5pbml0U3RhdGUoKTsKICAgIHdpZGdldC5kYXRhLmFkZExpc3RlbmVyKGRpZFZhbHVlQ2hhbmdlKTsKICB9CgogIEBvdmVycmlkZQogIGRpc3Bvc2UoKSB7CiAgICB3aWRnZXQuZGF0YS5yZW1vdmVMaXN0ZW5lcihkaWRWYWx1ZUNoYW5nZSk7CiAgICBzdXBlci5kaXNwb3NlKCk7CiAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZGF0YVZhbHVlOiB3aWRnZXQuZGF0YS52YWx1ZSwK</text>
+        <text encoding="base64">ICBAb3ZlcnJpZGUKICBpbml0U3RhdGUoKSB7CiAgICBzdXBlci5pbml0U3RhdGUoKTsKICAgIHdpZGdldC5kYXRhLmFkZExpc3RlbmVyKGRpZFZhbHVlQ2hhbmdlKTsKICB9CgogIEBvdmVycmlkZQogIGRpc3Bvc2UoKSB7CiAgICB3aWRnZXQuZGF0YS5yZW1vdmVMaXN0ZW5lcihkaWRWYWx1ZUNoYW5nZSk7CiAgICBzdXBlci5kaXNwb3NlKCk7CiAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBmaW5hbCBkYXRhVmFsdWU7Cg==</text>
+        <text encoding="base64">ICAgICAgZGF0YVZhbHVlOiB3aWRnZXQuZGF0YS52YWx1ZSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgUHJvdmlkZXIgZXh0ZW5kcyBTdGF0ZWxlc3NXaWRnZXQgewogIGNvbnN0IFByb3ZpZGVyKHt0aGlzLmRhdGEsIHRoaXMuY2hpbGR9KTsKCiAgZmluYWwgZGF0YTsKICBmaW5hbCBjaGlsZDsKCiAgQG92ZXJyaWRlCiAgV2lkZ2V0IGJ1aWxkKEJ1aWxkQ29udGV4dCBjb250ZXh0KSA9PiBjaGlsZDsKfQo=</text>
+        <text encoding="base64">ICBmaW5hbCBkYXRhVmFsdWU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOmZsdXR0ZXIvbWF0ZXJpYWwuZGFydCc7Cg==</text>
+        <text encoding="base64">Y2xhc3MgUHJvdmlkZXIgZXh0ZW5kcyBTdGF0ZWxlc3NXaWRnZXQgewogIGNvbnN0IFByb3ZpZGVyKHt0aGlzLmRhdGEsIHRoaXMuY2hpbGR9KTsKCiAgZmluYWwgZGF0YTsKICBmaW5hbCBjaGlsZDsKCiAgQG92ZXJyaWRlCiAgV2lkZ2V0IGJ1aWxkKEJ1aWxkQ29udGV4dCBjb250ZXh0KSA9PiBjaGlsZDsKfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOmZsdXR0ZXIvbWF0ZXJpYWwuZGFydCc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IGltcGxlbWVudCBidWlsZAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
