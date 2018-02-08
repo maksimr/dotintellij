@@ -777,11 +777,12 @@
         <mark key="^" line="57" column="2" />
         <mark key="." line="57" column="2" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" timestamp="1518093950303">
-        <mark key="'" line="4" column="24" />
-        <mark key="[" line="192" column="0" />
-        <mark key="]" line="192" column="0" />
-        <mark key="." line="192" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" timestamp="1518096738942">
+        <mark key="'" line="172" column="10" />
+        <mark key="[" line="192" column="17" />
+        <mark key="]" line="192" column="17" />
+        <mark key="." line="192" column="17" />
+        <mark key="^" line="192" column="17" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" timestamp="1517843109873">
         <mark key="'" line="289" column="0" />
@@ -3252,10 +3253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/www/dart/bar/lib/main.dart" />
-      <jump line="101" column="0" filename="$USER_HOME$/www/dart/bar/lib/main.dart" />
-      <jump line="26" column="0" filename="/main.dart" />
-      <jump line="12" column="0" filename="$USER_HOME$/www/dart/bar/lib/main.dart" />
       <jump line="12" column="0" filename="$USER_HOME$/www/dart/bar/lib/Provider.dart" />
       <jump line="66" column="0" filename="$USER_HOME$/www/dart/bar/lib/Provider.dart" />
       <jump line="1" column="0" filename="$USER_HOME$/www/dart/bar/lib/Provider.dart" />
@@ -3352,61 +3349,65 @@
       <jump line="1" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/issue.js" />
       <jump line="4" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/admin.js" />
+      <jump line="191" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
+      <jump line="192" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
+      <jump line="193" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
+      <jump line="172" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>omitRedirect</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>omitRedirect</text>
       </register>
       <register name="/" type="4">
-        <text>redirect</text>
+        <text>issue</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLyogQG5nSW5qZWN0ICovCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlc29sdmU6IHsKICAgICAgICAgICAgLyogQG5nSW5qZWN0ICovCiAgICAgICAgICAgIGN1cnJlbnRVc2VyUmVzb2x2ZTogZnVuY3Rpb24oY3VycmVudFVzZXJSZXNvbHZlKSB7CiAgICAgICAgICAgICAgcmV0dXJuIGN1cnJlbnRVc2VyUmVzb2x2ZSgpLnRoZW4oZnVuY3Rpb24odXNlcikgewogICAgICAgICAgICAgICAgY29uc29sZS5sb2codXNlci5wcm9maWxlcy5hcHBlYXJhbmNlLnVzZU5ld0ZzaSk7CiAgICAgICAgICAgICAgICByZXR1cm4gdXNlcjsKICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgfQogICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAnL2lzc3VlJywK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRpdGxlOiBmYWxzZQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRlbXBsYXRlOiAnSGVsbG8gV29ybGQhJywK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAnL2lzc3VlJywK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIHJlc29sdmU6IHsKICAgICAgICAgICAgLyogQG5nSW5qZWN0ICovCiAgICAgICAgICAgIGN1cnJlbnRVc2VyUmVzb2x2ZTogZnVuY3Rpb24oY3VycmVudFVzZXJSZXNvbHZlKSB7CiAgICAgICAgICAgICAgcmV0dXJuIGN1cnJlbnRVc2VyUmVzb2x2ZSgpLnRoZW4oZnVuY3Rpb24odXNlcikgewogICAgICAgICAgICAgICAgY29uc29sZS5sb2codXNlci5wcm9maWxlcy5hcHBlYXJhbmNlLnVzZU5ld0ZzaSk7CiAgICAgICAgICAgICAgICByZXR1cm4gdXNlcjsKICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgfQogICAgICAgICAgfQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIHRpdGxlOiBmYWxzZQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIHRlbXBsYXRlOiAnSGVsbG8gV29ybGQhJywK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAud2hlbignL2lzc3VlJywgewogICAgICAgICAgdGVtcGxhdGU6ICc8ZGl2IHJnLWVycm9yLXBhZ2U9IntlcnJvcjoge3N0YXR1czogNDA0fX0iPjwvZGl2PicsCiAgICAgICAgICB0aXRsZTogZmFsc2UKICAgICAgICB9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICckcm91dGVQcm92aWRlcicsICdwZXJtaXNzaW9uUm91dGVEZWNvcmF0b3InLCAnaXNzdWVUZW1wbGF0ZVVybCcsICd5dFNob3J0Y3V0c0hlbHBMaXN0QnlDYXRlZ29yeVByb3ZpZGVyJywgJ2lzc3VlRGlzdHJhY3Rpb25GcmVlTW9kZVByb3ZpZGVyJywK</text>
+        <text encoding="base64">ICAgICAgICAnL2lzc3VlJywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRvUmVnRXhwID0gdGhpcy50b1JlZ0V4cDsK</text>
+        <text encoding="base64">ICAgICAgICAud2hlbignL2lzc3VlJywgewogICAgICAgICAgdGVtcGxhdGU6ICc8ZGl2IHJnLWVycm9yLXBhZ2U9IntlcnJvcjoge3N0YXR1czogNDA0fX0iPjwvZGl2PicsCiAgICAgICAgICB0aXRsZTogZmFsc2UKICAgICAgICB9KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>redirect</last-search>
+      <last-search>issue</last-search>
       <last-offset />
-      <last-pattern>redirect</last-pattern>
+      <last-pattern>issue</last-pattern>
       <last-replace>EMPTY</last-replace>
       <last-substitute>Square.EMPTY</last-substitute>
       <last-dir>1</last-dir>
@@ -3431,9 +3432,9 @@
         <entry>when</entry>
         <entry>lazy</entry>
         <entry>route</entry>
-        <entry>issue</entry>
         <entry>redire</entry>
         <entry>redirect</entry>
+        <entry>issue</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
