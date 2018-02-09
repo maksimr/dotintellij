@@ -764,8 +764,12 @@
         <mark key="^" line="57" column="2" />
         <mark key="." line="57" column="2" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" timestamp="1518168447764">
-        <mark key="'" line="285" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" timestamp="1518171867501">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="192" column="19" />
+        <mark key="]" line="192" column="17" />
+        <mark key="^" line="192" column="17" />
+        <mark key="." line="192" column="17" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" timestamp="1517843109873">
         <mark key="'" line="289" column="0" />
@@ -3179,9 +3183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/user-agreement/test/service/user-agreement.js" />
-      <jump line="31" column="50" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/user-agreement/test/service/user-agreement.js" />
-      <jump line="41" column="44" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/user-agreement/test/service/user-agreement.js" />
       <jump line="1" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/externals/header/test/controller/mps-issues-menu-create-button.js" />
       <jump line="69" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/user-agreement/service/user-agreement.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/user-agreement/service/user-agreement.js" />
@@ -3279,6 +3280,9 @@
       <jump line="108" column="11" filename="$USER_HOME$/www/kotlin/hub-pub/.gitignore" />
       <jump line="109" column="1" filename="$USER_HOME$/www/kotlin/hub-pub/.gitignore" />
       <jump line="112" column="11" filename="$USER_HOME$/www/kotlin/hub-pub/.gitignore" />
+      <jump line="8" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
+      <jump line="290" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -3291,7 +3295,7 @@
         <text>, packParams</text>
       </register>
       <register name="/" type="4">
-        <text>npm</text>
+        <text>issues</text>
       </register>
       <register name="0" type="4">
         <text>http://localhost:8088/hub</text>
@@ -3331,9 +3335,9 @@
       </register>
     </registers>
     <search>
-      <last-search>npm</last-search>
+      <last-search>issues</last-search>
       <last-offset />
-      <last-pattern>npm</last-pattern>
+      <last-pattern>issues</last-pattern>
       <last-replace>EMPTY</last-replace>
       <last-substitute>Square.EMPTY</last-substitute>
       <last-dir>1</last-dir>
@@ -3341,7 +3345,6 @@
     </search>
     <history>
       <history-search>
-        <entry>publ</entry>
         <entry>sett</entry>
         <entry encoding="base64">XDxnZXRVc2VyQWdyZWVtZW50XD4=</entry>
         <entry>when</entry>
@@ -3361,6 +3364,7 @@
         <entry encoding="base64">XDxfb25TdWJtaXRcPg==</entry>
         <entry>zip</entry>
         <entry>npm</entry>
+        <entry>issues</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
