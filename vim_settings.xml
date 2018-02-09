@@ -855,6 +855,13 @@
         <mark key="." line="60" column="15" />
         <mark key="^" line="25" column="9" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/markup/style/markup.scss" timestamp="1518193410623">
+        <mark key="'" line="283" column="1" />
+        <mark key="[" line="331" column="18" />
+        <mark key="]" line="331" column="23" />
+        <mark key="." line="331" column="23" />
+        <mark key="^" line="331" column="23" />
+      </file>
       <file name="$USER_HOME$/www/js/Lisa/src/views/Login.js" timestamp="1494842579777">
         <mark key="'" line="66" column="0" />
         <mark key="[" line="3" column="12" />
@@ -883,7 +890,7 @@
         <mark key="." line="59" column="47" />
         <mark key="^" line="59" column="47" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518184999942">
+      <file name="/Dummy.txt" timestamp="1518193397400">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/js/Lisa/src/components/Login/HostSetup/Input.js" timestamp="1492219268576">
@@ -3207,9 +3214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="112" column="11" filename="$USER_HOME$/www/kotlin/hub-pub/.gitignore" />
-      <jump line="8" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
-      <jump line="290" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
       <jump line="6" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
       <jump line="203" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
       <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/webpack/lib/webpack.js" />
@@ -3307,31 +3311,34 @@
       <jump line="7" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-hub/components/user-agreement/user-agreement.js" />
       <jump line="23" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-hub/components/user-agreement/user-agreement.js" />
       <jump line="25" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-hub/components/user-agreement/user-agreement.js" />
+      <jump line="257" column="1" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/markup/style/markup.scss" />
+      <jump line="262" column="1" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/markup/style/markup.scss" />
+      <jump line="283" column="1" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/markup/style/markup.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJlcXVpcmUoJ3JpbmctaHViL2NvbXBvbmVudHMvdXNlci1hZ3JlZW1lbnQvdXNlci1hZ3JlZW1lbnQnKTsK</text>
+      <register name="&quot;" type="4">
+        <text>nowrap</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>nowrap</text>
       </register>
       <register name="/" type="4">
-        <text>show</text>
+        <text>wiki</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJlcXVpcmUoJ3JpbmctaHViL2NvbXBvbmVudHMvdXNlci1hZ3JlZW1lbnQvdXNlci1hZ3JlZW1lbnQnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlcXVpcmUoJ3JpbmctaHViL2NvbXBvbmVudHMvdXNlci1hZ3JlZW1lbnQvdXNlci1hZ3JlZW1lbnQnKTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZXF1aXJlKCdyaW5nLWh1Yi9jb21wb25lbnRzL3VzZXItYWdyZWVtZW50L3VzZXItYWdyZWVtZW50JykK</text>
+        <text encoding="base64">ICAgIHJlcXVpcmUoJ3JpbmctaHViL2NvbXBvbmVudHMvdXNlci1hZ3JlZW1lbnQvdXNlci1hZ3JlZW1lbnQnKTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICByZXF1aXJlKCdyaW5nLWh1Yi9jb21wb25lbnRzL3VzZXItYWdyZWVtZW50L3VzZXItYWdyZWVtZW50JykK</text>
@@ -3340,28 +3347,28 @@
         <text encoding="base64">ICByZXF1aXJlKCdyaW5nLWh1Yi9jb21wb25lbnRzL3VzZXItYWdyZWVtZW50L3VzZXItYWdyZWVtZW50JykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXF1aXJlKCdyaW5nLWh1Yi9jb21wb25lbnRzL3VzZXItYWdyZWVtZW50L3VzZXItYWdyZWVtZW50JykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHJlcXVpcmUoJ3JpbmctaHViJyk7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHJlcXVpcmUoJ3JpbmctaHViJyk7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhZGRMYXp5Um91dGUoJy9pc3N1ZS8/OnA/JywgZnVuY3Rpb24ocmVzb2x2ZSkgewogICAgcmVxdWlyZShbJy4vcGFnZXMvaXNzdWUvaXNzdWUnXSwgcmVzb2x2ZSk7CiAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>show</last-search>
+      <last-search>wiki</last-search>
       <last-offset />
-      <last-pattern>show</last-pattern>
+      <last-pattern>wiki</last-pattern>
       <last-replace>EMPTY</last-replace>
       <last-substitute>Square.EMPTY</last-substitute>
       <last-dir>1</last-dir>
@@ -3369,7 +3376,6 @@
     </search>
     <history>
       <history-search>
-        <entry>develo[</entry>
         <entry>develop</entry>
         <entry encoding="base64">XDxodHRwUHJveHlNaWRkbGV3YXJlXD4=</entry>
         <entry encoding="base64">XDxvcHRzXD4=</entry>
@@ -3389,6 +3395,7 @@
         <entry>$get</entry>
         <entry>onShow</entry>
         <entry>show</entry>
+        <entry>wiki</entry>
       </history-search>
       <history-cmd>
         <entry>wq</entry>
