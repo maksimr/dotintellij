@@ -1306,10 +1306,10 @@
         <mark key="." line="46" column="61" />
         <mark key="^" line="46" column="61" />
       </file>
-      <file name="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/foundation/change_notifier.dart" timestamp="1518036075452">
+      <file name="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/foundation/change_notifier.dart" timestamp="1518268755429">
         <mark key="'" line="60" column="8" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="39" column="76" />
+        <mark key="[" line="190" column="0" />
+        <mark key="]" line="190" column="11" />
       </file>
       <file name="$USER_HOME$/www/dart/hub/lib/components/screens/UserInfo.dart" timestamp="1517738584812">
         <mark key="'" line="11" column="16" />
@@ -1904,6 +1904,13 @@
         <mark key="." line="93" column="15" />
         <mark key="^" line="93" column="15" />
       </file>
+      <file name="$USER_HOME$/www/dart/bar/lib/main.dart" timestamp="1518268825784">
+        <mark key="'" line="11" column="21" />
+        <mark key="[" line="9" column="17" />
+        <mark key="]" line="9" column="21" />
+        <mark key="^" line="9" column="21" />
+        <mark key="." line="9" column="21" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-timezone-select.js" timestamp="1491995293068">
         <mark key="'" line="75" column="0" />
         <mark key="[" line="0" column="0" />
@@ -2493,8 +2500,8 @@
         <mark key="^" line="10" column="47" />
         <mark key="." line="10" column="47" />
       </file>
-      <file name="$USER_HOME$/www/dart/bar/lib/Provider.dart" timestamp="1518252179473">
-        <mark key="'" line="24" column="0" />
+      <file name="$USER_HOME$/www/dart/bar/lib/Provider.dart" timestamp="1518268243723">
+        <mark key="'" line="53" column="0" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="55" column="0" />
         <mark key="." line="53" column="32" />
@@ -3214,15 +3221,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/webpack-dev-server/lib/Server.js" />
-      <jump line="136" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/webpack-dev-server/lib/Server.js" />
-      <jump line="181" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/webpack-dev-server/lib/Server.js" />
-      <jump line="195" column="39" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/webpack-dev-server/lib/Server.js" />
-      <jump line="196" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/webpack-dev-server/lib/Server.js" />
-      <jump line="197" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/webpack-dev-server/lib/Server.js" />
-      <jump line="199" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/webpack-dev-server/lib/Server.js" />
-      <jump line="200" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/webpack-dev-server/lib/Server.js" />
-      <jump line="202" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/webpack-dev-server/lib/Server.js" />
       <jump line="205" column="47" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/webpack-dev-server/lib/Server.js" />
       <jump line="208" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/webpack-dev-server/lib/Server.js" />
       <jump line="209" column="37" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/webpack-dev-server/lib/Server.js" />
@@ -3314,49 +3312,58 @@
       <jump line="11" column="0" filename="$USER_HOME$/www/dart/hub/lib/components/ui/Provider.dart" />
       <jump line="51" column="0" filename="$USER_HOME$/www/dart/hub/lib/components/ui/Provider.dart" />
       <jump line="24" column="0" filename="$USER_HOME$/www/dart/bar/lib/Provider.dart" />
+      <jump line="25" column="54" filename="$USER_HOME$/www/dart/bar/lib/main.dart" />
+      <jump line="105" column="0" filename="$USER_HOME$/www/dart/bar/lib/main.dart" />
+      <jump line="6" column="0" filename="$USER_HOME$/www/dart/bar/lib/Provider.dart" />
+      <jump line="53" column="0" filename="$USER_HOME$/www/dart/bar/lib/Provider.dart" />
+      <jump line="3" column="29" filename="$USER_HOME$/www/dart/bar/lib/main.dart" />
+      <jump line="36" column="0" filename="$USER_HOME$/www/dart/bar/lib/main.dart" />
+      <jump line="10" column="0" filename="$USER_HOME$/www/dart/bar/lib/main.dart" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/dart/bar/lib/main.dart" />
+      <jump line="11" column="21" filename="$USER_HOME$/www/dart/bar/lib/main.dart" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>nowrap</text>
+        <text>new</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>nowrap</text>
+        <text>new</text>
       </register>
       <register name="/" type="4">
         <text>wiki</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlcXVpcmUoJ3JpbmctaHViL2NvbXBvbmVudHMvdXNlci1hZ3JlZW1lbnQvdXNlci1hZ3JlZW1lbnQnKTsK</text>
+        <text encoding="base64">ICBUIF92YWx1ZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlcXVpcmUoJ3JpbmctaHViL2NvbXBvbmVudHMvdXNlci1hZ3JlZW1lbnQvdXNlci1hZ3JlZW1lbnQnKTsK</text>
+        <text encoding="base64">ICBUIF92YWx1ZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZXF1aXJlKCdyaW5nLWh1Yi9jb21wb25lbnRzL3VzZXItYWdyZWVtZW50L3VzZXItYWdyZWVtZW50JykK</text>
+        <text encoding="base64">ICBmaW5hbCBfdmFsdWU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICByZXF1aXJlKCdyaW5nLWh1Yi9jb21wb25lbnRzL3VzZXItYWdyZWVtZW50L3VzZXItYWdyZWVtZW50JykK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZXF1aXJlKCdyaW5nLWh1Yi9jb21wb25lbnRzL3VzZXItYWdyZWVtZW50L3VzZXItYWdyZWVtZW50JykK</text>
+        <text encoding="base64">ICAgIHJlcXVpcmUoJ3JpbmctaHViL2NvbXBvbmVudHMvdXNlci1hZ3JlZW1lbnQvdXNlci1hZ3JlZW1lbnQnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXF1aXJlKCdyaW5nLWh1Yi9jb21wb25lbnRzL3VzZXItYWdyZWVtZW50L3VzZXItYWdyZWVtZW50JykK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICByZXF1aXJlKCdyaW5nLWh1Yi9jb21wb25lbnRzL3VzZXItYWdyZWVtZW50L3VzZXItYWdyZWVtZW50JykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJlcXVpcmUoJ3JpbmctaHViJyk7Cg==</text>
+        <text encoding="base64">ICByZXF1aXJlKCdyaW5nLWh1Yi9jb21wb25lbnRzL3VzZXItYWdyZWVtZW50L3VzZXItYWdyZWVtZW50JykK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
