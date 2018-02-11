@@ -446,12 +446,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/js/foo/lib/Transliteration.js" timestamp="1518366579376">
-        <mark key="'" line="74" column="23" />
-        <mark key="[" line="75" column="22" />
-        <mark key="]" line="75" column="22" />
-        <mark key="." line="75" column="22" />
-        <mark key="^" line="75" column="22" />
+      <file name="$USER_HOME$/www/js/foo/lib/Transliteration.js" timestamp="1518367867087">
+        <mark key="'" line="47" column="4" />
+        <mark key="[" line="62" column="34" />
+        <mark key="]" line="62" column="34" />
+        <mark key="^" line="62" column="34" />
+        <mark key="." line="62" column="34" />
       </file>
       <file name="$USER_HOME$/www/js/electron-quick-start/renderer.js" timestamp="1492877397700">
         <mark key="'" line="19" column="13" />
@@ -2153,12 +2153,12 @@
         <mark key="." line="64" column="80" />
         <mark key="^" line="64" column="80" />
       </file>
-      <file name="$USER_HOME$/www/js/foo/lib/TransliterationTest.js" timestamp="1518366616005">
-        <mark key="'" line="12" column="1" />
-        <mark key="[" line="12" column="53" />
-        <mark key="]" line="12" column="54" />
-        <mark key="^" line="12" column="54" />
-        <mark key="." line="12" column="54" />
+      <file name="$USER_HOME$/www/js/foo/lib/TransliterationTest.js" timestamp="1518366999620">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="46" column="3" />
+        <mark key="]" line="46" column="1" />
+        <mark key="^" line="46" column="1" />
+        <mark key="." line="46" column="1" />
       </file>
       <file name="$USER_HOME$/www/js/Lisa/src/views/Blank.js" timestamp="1494829770689">
         <mark key="'" line="6" column="8" />
@@ -3265,13 +3265,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="20" filename="$USER_HOME$/www/dart/bar/lib/main.dart" />
-      <jump line="15" column="15" filename="$USER_HOME$/www/dart/bar/lib/main.dart" />
-      <jump line="51" column="21" filename="$USER_HOME$/www/dart/bar/lib/main.dart" />
-      <jump line="107" column="21" filename="$USER_HOME$/www/dart/bar/lib/main.dart" />
-      <jump line="30" column="17" filename="$USER_HOME$/www/dart/bar/lib/main.dart" />
-      <jump line="105" column="0" filename="$USER_HOME$/www/dart/bar/lib/main.dart" />
-      <jump line="24" column="37" filename="$USER_HOME$/www/dart/bar/lib/main.dart" />
       <jump line="35" column="7" filename="$USER_HOME$/www/dart/bar/lib/main.dart" />
       <jump line="91" column="11" filename="$USER_HOME$/www/dart/bar/lib/main.dart" />
       <jump line="112" column="0" filename="$USER_HOME$/www/dart/bar/lib/main.dart" />
@@ -3346,7 +3339,6 @@
       <jump line="71" column="11" filename="$USER_HOME$/www/js/foo/lib/Transliteration.js" />
       <jump line="137" column="0" filename="$USER_HOME$/www/js/foo/lib/Transliteration.js" />
       <jump line="41" column="0" filename="$USER_HOME$/www/js/foo/lib/Transliteration.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/www/js/foo/lib/Transliteration.js" />
       <jump line="20" column="0" filename="$USER_HOME$/www/js/foo/lib/Transliteration.js" />
       <jump line="63" column="0" filename="$USER_HOME$/www/js/foo/lib/Transliteration.js" />
       <jump line="70" column="0" filename="$USER_HOME$/www/js/foo/lib/Transliteration.js" />
@@ -3365,52 +3357,60 @@
       <jump line="75" column="23" filename="$USER_HOME$/www/js/foo/lib/Transliteration.js" />
       <jump line="40" column="2" filename="$USER_HOME$/www/js/foo/lib/TransliterationTest.js" />
       <jump line="12" column="1" filename="$USER_HOME$/www/js/foo/lib/TransliterationTest.js" />
+      <jump line="81" column="11" filename="$USER_HOME$/www/js/foo/lib/Transliteration.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/www/js/foo/lib/TransliterationTest.js" />
+      <jump line="8" column="11" filename="$USER_HOME$/www/js/foo/lib/Transliteration.js" />
+      <jump line="49" column="0" filename="$USER_HOME$/www/js/foo/lib/Transliteration.js" />
+      <jump line="24" column="0" filename="$USER_HOME$/www/js/foo/lib/Transliteration.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/www/js/foo/lib/Transliteration.js" />
+      <jump line="85" column="22" filename="$USER_HOME$/www/js/foo/lib/Transliteration.js" />
+      <jump line="53" column="4" filename="$USER_HOME$/www/js/foo/lib/Transliteration.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>tranliteration</text>
+        <text>continue</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>tranliteration</text>
+        <text>continue</text>
       </register>
       <register name="/" type="4">
         <text>ы</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlICdhJzogdHIgKz0gJ9GPJzsgYnJlYWs7Cg==</text>
+      <register name="0" type="4">
+        <text>str[i]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlICdoJzogdHIgKz0gJ9GKJzsgYnJlYWs7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlICdpJzogdHIgKz0gJ9GLJzsgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICAgICAgY2ggPSBzdHJbaV07Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaSsrOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjYXNlICdzJzogdHIgKz0gJ9GJJzsgYnJlYWs7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICBsYWJlbDoK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgYnJlYWs7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkZWZhdWx0OiAgdHIgKz0gJ9C5JzsgaS0tOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgY2ggPSBzdHJbaV07Cg==</text>
+        <text encoding="base64">ICAgICAgY29udGludWU7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaSwgc3RyLmxlbmd0aCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
