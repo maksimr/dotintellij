@@ -2316,6 +2316,12 @@
         <mark key="^" line="306" column="3" />
         <mark key="." line="306" column="3" />
       </file>
+      <file name="$USER_HOME$/www/js/foo/src/InputParser.js" timestamp="1518376054564">
+        <mark key="[" line="1" column="26" />
+        <mark key="]" line="1" column="25" />
+        <mark key="." line="1" column="25" />
+        <mark key="^" line="1" column="25" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/form/test/directive/yt-radio.js" timestamp="1496162433563">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="29" column="36" />
@@ -2997,11 +3003,12 @@
         <mark key="." line="0" column="25" />
         <mark key="^" line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/www/js/foo/src/LocalNamesTest.js" timestamp="1518375455685">
-        <mark key="[" line="7" column="11" />
-        <mark key="]" line="8" column="15" />
-        <mark key="." line="8" column="15" />
-        <mark key="^" line="8" column="15" />
+      <file name="$USER_HOME$/www/js/foo/src/LocalNamesTest.js" timestamp="1518375510018">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="18" column="46" />
+        <mark key="]" line="18" column="46" />
+        <mark key="." line="18" column="46" />
+        <mark key="^" line="18" column="46" />
       </file>
       <file name="$USER_HOME$/www/js/electron-quick-start/tests/messageSpec.js" timestamp="1492894074518">
         <mark key="'" line="5" column="0" />
@@ -3183,6 +3190,12 @@
         <mark key="^" line="10101" column="40" />
         <mark key="." line="10101" column="40" />
       </file>
+      <file name="$USER_HOME$/www/js/foo/src/InputParserTest.js" timestamp="1518375841223">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/www/dart/myapp/lib/route.dart" timestamp="1517239958585">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="6" column="0" />
@@ -3282,9 +3295,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="27" filename="$USER_HOME$/www/js/foo/lib/Transliteration.js" />
-      <jump line="55" column="27" filename="$USER_HOME$/www/js/foo/lib/Transliteration.js" />
-      <jump line="54" column="27" filename="$USER_HOME$/www/js/foo/lib/Transliteration.js" />
       <jump line="53" column="27" filename="$USER_HOME$/www/js/foo/lib/Transliteration.js" />
       <jump line="43" column="0" filename="$USER_HOME$/www/js/foo/lib/Transliteration.js" />
       <jump line="70" column="0" filename="$USER_HOME$/www/js/foo/lib/Transliteration.js" />
@@ -3382,16 +3392,19 @@
       <jump line="6" column="9" filename="$USER_HOME$/www/js/foo/wallaby.js" />
       <jump line="0" column="9" filename="$USER_HOME$/www/js/foo/src/onInput.js" />
       <jump line="1" column="0" filename="$USER_HOME$/www/js/foo/src/LocalNames.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/www/js/foo/src/LocalNamesTest.js" />
+      <jump line="3" column="1" filename="$USER_HOME$/www/js/foo/src/InputParserTest.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/js/foo/src/InputParserTest.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>event</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>ld.find;</text>
+        <text>event</text>
       </register>
       <register name="/" type="4">
         <text>tt</text>
@@ -3400,34 +3413,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgJycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhciBxdWVyeSA9IGV2ZW50LnZhbHVlOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHZhciBhbHRRdWVyeSA9IGV2ZW50Lgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgpmdW5jdGlvbiBMb2NhbE5hbWVzKCkgewogIAp9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZXNjcmliZSgnb25JbnB1dCcsIGZ1bmN0aW9uKCkgewogIH0pOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGl0KCdzaG91bGQgJywgZnVuY3Rpb24oKSB7CiAgICAgIAogICAgfSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBmdW5jdGlvbiBjcmVhdGVFdmVudCgpIHsKICAgIHJldHVybiB7fTsKICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gb25JbnB1dCgpIHsKCn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
