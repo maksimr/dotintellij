@@ -556,6 +556,13 @@
         <mark key="^" line="6" column="36" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/www/dart/todo/lib/components/AddTodo.dart" timestamp="1519033504691">
+        <mark key="'" line="51" column="6" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="5" />
+        <mark key="^" line="23" column="5" />
+        <mark key="." line="23" column="5" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-timezone-select.js" timestamp="1491816682959">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="17" column="16" />
@@ -857,12 +864,11 @@
         <mark key="^" line="15" column="29" />
         <mark key="." line="15" column="29" />
       </file>
-      <file name="$USER_HOME$/www/dart/todo/lib/components/AddTodoButton.dart" timestamp="1519030147962">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="17" column="34" />
-        <mark key="]" line="17" column="34" />
-        <mark key="." line="17" column="34" />
-        <mark key="^" line="17" column="34" />
+      <file name="$USER_HOME$/www/dart/todo/lib/components/AddTodoButton.dart" timestamp="1519031130843">
+        <mark key="[" line="15" column="33" />
+        <mark key="]" line="15" column="33" />
+        <mark key="." line="15" column="33" />
+        <mark key="^" line="15" column="33" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/externals/header/header.js" timestamp="1517426139451">
         <mark key="'" line="40" column="0" />
@@ -3421,18 +3427,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/www/js/foo/src/components/DropdownMenuItem.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/www/js/foo/src/components/DropdownMenu.js" />
-      <jump line="55" column="21" filename="$USER_HOME$/www/js/foo/src/components/DropdownMenu.js" />
-      <jump line="57" column="2" filename="$USER_HOME$/www/js/foo/src/components/DropdownMenu.js" />
-      <jump line="21" column="0" filename="$USER_HOME$/www/js/foo/src/components/DropdownMenu.js" />
-      <jump line="47" column="0" filename="$USER_HOME$/www/js/foo/src/components/DropdownMenu.js" />
-      <jump line="34" column="17" filename="$USER_HOME$/www/js/foo/src/components/DropdownMenu.js" />
-      <jump line="19" column="30" filename="$USER_HOME$/www/js/foo/src/components/DropdownMenu.js" />
-      <jump line="31" column="32" filename="$USER_HOME$/www/js/foo/src/components/DropdownMenu.js" />
-      <jump line="35" column="34" filename="$USER_HOME$/www/js/foo/src/components/DropdownMenu.js" />
-      <jump line="17" column="0" filename="$USER_HOME$/www/js/foo/src/components/DropdownMenu.js" />
-      <jump line="12" column="0" filename="$USER_HOME$/www/js/foo/src/components/DropdownMenu.js" />
       <jump line="8" column="25" filename="$USER_HOME$/www/js/foo/src/components/Select.js" />
       <jump line="69" column="0" filename="$USER_HOME$/www/js/foo/src/components/Select.js" />
       <jump line="10" column="0" filename="$USER_HOME$/www/js/foo/src/components/Select.js" />
@@ -3519,71 +3513,82 @@
       <jump line="9" column="0" filename="$USER_HOME$/www/dart/todo/lib/components/TodoItem.dart" />
       <jump line="7" column="19" filename="$USER_HOME$/www/dart/todo/lib/components/AddTodoButton.dart" />
       <jump line="0" column="36" filename="$USER_HOME$/www/dart/todo/lib/components/AddTodoButton.dart" />
-      <jump line="17" column="23" filename="$USER_HOME$/www/dart/todo/lib/components/AddTodoButton.dart" />
       <jump line="2" column="0" filename="$USER_HOME$/www/dart/todo/lib/components/AddTodoButton.dart" />
+      <jump line="18" column="4" filename="$USER_HOME$/www/dart/todo/lib/components/AddTodoButton.dart" />
+      <jump line="5" column="0" filename="$USER_HOME$/www/dart/todo/lib/components/AddTodoButton.dart" />
+      <jump line="17" column="17" filename="$USER_HOME$/www/dart/todo/lib/components/AddTodoButton.dart" />
+      <jump line="15" column="0" filename="$USER_HOME$/www/dart/todo/lib/components/AddTodoButton.dart" />
+      <jump line="18" column="9" filename="$USER_HOME$/www/dart/todo/lib/components/AddTodo.dart" />
+      <jump line="57" column="6" filename="$USER_HOME$/www/dart/todo/lib/components/AddTodo.dart" />
+      <jump line="32" column="0" filename="$USER_HOME$/www/dart/todo/lib/components/AddTodo.dart" />
+      <jump line="59" column="4" filename="$USER_HOME$/www/dart/todo/lib/components/AddTodo.dart" />
+      <jump line="47" column="7" filename="$USER_HOME$/www/dart/todo/lib/components/AddTodo.dart" />
+      <jump line="69" column="0" filename="$USER_HOME$/www/dart/todo/lib/components/AddTodo.dart" />
+      <jump line="35" column="19" filename="$USER_HOME$/www/dart/todo/lib/components/AddTodo.dart" />
+      <jump line="46" column="7" filename="$USER_HOME$/www/dart/todo/lib/components/AddTodo.dart" />
+      <jump line="51" column="6" filename="$USER_HOME$/www/dart/todo/lib/components/AddTodo.dart" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>new Dialog( ),</text>
+        <text>.value</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>new Dialog( ),</text>
+        <text>.value</text>
       </register>
       <register name="/" type="4">
-        <text>selected</text>
+        <text encoding="base64">XDxUZXh0YXJlYVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY2hpbGQ6IG5ldyBEaWFsb2coCiAgICAgICAgY2hpbGQ6IG5ldyBDZW50ZXIoCiAgICAgICAgICBjaGlsZDogbmV3IFRleHQoIkhlbGxvIFdvcmxkISIpLAogICAgICAgICksCiAgICAgICksCg==</text>
+        <text encoding="base64">ICBjb25zdCBBZGRUb2RvRm9ybSgpOwoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjaGlsZDogbmV3IENlbnRlcigKICAgICAgICAgIGNoaWxkOiBuZXcgVGV4dCgiSGVsbG8gV29ybGQhIiksCiAgICAgICAgKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IGltcGxlbWVudCBidWlsZAo=</text>
+        <text encoding="base64">ICBjb25zdCBBZGRUb2RvRm9ybSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCBDcmVhdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb2xvcjogQ29sb3JzLmJsdWUsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdvbkFkZFRvZG8nKTsK</text>
+        <text encoding="base64">ICBmaW5hbCBvblByZXNzZWQ7CiAgZmluYWwgY2hpbGQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hpbGQ6IG5ldyBJY29uKEljb25zLmFkZCksCiAgICAgICAgICAgIG9uUHJlc3NlZDogbnVsbCwK</text>
+        <text encoding="base64">ICAgICAgICAiQ3JlYXRlIiwKICAgICAgICBzdHlsZTogbmV3IFRleHRTdHlsZSgKICAgICAgICAgIGNvbG9yOiBDb2xvcnMud2hpdGUsCiAgICAgICAgKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IGltcGxlbWVudCBidWlsZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF4TGluZXM6IG51bGwsCiAgICAgICAgICAgIGtleWJvYXJkVHlwZTogVGV4dElucHV0VHlwZS5tdWx0aWxpbmUsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hpbGQ6IG5ldyBJY29uKEljb25zLmFkZCksCg==</text>
+        <text encoding="base64">ICAgICwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>selected</last-search>
+      <last-search encoding="base64">XDxUZXh0YXJlYVw+</last-search>
       <last-offset />
-      <last-pattern>selected</last-pattern>
+      <last-pattern encoding="base64">XDxUZXh0YXJlYVw+</last-pattern>
       <last-replace encoding="base64">PG9wdGlvbiB2YWx1ZT0iXDEiPlwxPFwvb3B0aW9uPg==</last-replace>
       <last-substitute>\([А-я-]\+\)$</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>'\(.*\)'</entry>
         <entry>'\(.*\)',?</entry>
         <entry>'\(.*\)'[,]$</entry>
         <entry>'\(.*\)'[,]*$</entry>
@@ -3603,6 +3608,7 @@
         <entry encoding="base64">XDxzZWxlY3RcPg==</entry>
         <entry encoding="base64">XDxhZGROYW1lXD4=</entry>
         <entry>selected</entry>
+        <entry encoding="base64">XDxUZXh0YXJlYVw+</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
@@ -3614,7 +3620,6 @@
         <entry encoding="base64">JXMvdmFsdWU9IlwoLipcKSI+L3ZhbHVlPSIkMSI+JDEvZ2M=</entry>
         <entry encoding="base64">JXMvdmFsdWU9IlwoLipcKSI+L3ZhbHVlPSJcJDEiPlwkMS9nYw==</entry>
         <entry encoding="base64">JXMvdmFsdWU9IlwoLipcKSI+L3ZhbHVlPSJcMSI+XDEvZ2M=</entry>
-        <entry>action AceJumpAction</entry>
         <entry encoding="base64">JXMvJ1woLipcKScvPG9wdGlvbiB2YWx1ZT0iXDEiPlwxPFwvb3B0aW9uPi9nYw==</entry>
         <entry encoding="base64">JXMvJ1woLipcKScsPy88b3B0aW9uIHZhbHVlPSJcMSI+XDE8XC9vcHRpb24+L2dj</entry>
         <entry encoding="base64">JXMvJ1woLipcKSdbLF0kLzxvcHRpb24gdmFsdWU9IlwxIj5cMTxcL29wdGlvbj4vZ2M=</entry>
@@ -3624,6 +3629,7 @@
         <entry encoding="base64">JXMvXChb0JAt0Y9dK1wpJC88b3B0aW9uIHZhbHVlPSJcMSI+XDE8XC9vcHRpb24+L2dj</entry>
         <entry encoding="base64">JXMvXChb0JAt0Y9dXCtcKSQvPG9wdGlvbiB2YWx1ZT0iXDEiPlwxPFwvb3B0aW9uPi9nYw==</entry>
         <entry encoding="base64">JXMvXChb0JAt0Y8tXVwrXCkkLzxvcHRpb24gdmFsdWU9IlwxIj5cMTxcL29wdGlvbj4vZ2M=</entry>
+        <entry>action AceJumpAction</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
