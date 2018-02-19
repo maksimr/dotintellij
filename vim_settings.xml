@@ -857,12 +857,12 @@
         <mark key="^" line="15" column="29" />
         <mark key="." line="15" column="29" />
       </file>
-      <file name="$USER_HOME$/www/dart/todo/lib/components/AddTodoButton.dart" timestamp="1519028832710">
-        <mark key="'" line="0" column="36" />
-        <mark key="[" line="14" column="22" />
-        <mark key="]" line="14" column="22" />
-        <mark key="." line="14" column="22" />
-        <mark key="^" line="14" column="22" />
+      <file name="$USER_HOME$/www/dart/todo/lib/components/AddTodoButton.dart" timestamp="1519030147962">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="17" column="34" />
+        <mark key="]" line="17" column="34" />
+        <mark key="." line="17" column="34" />
+        <mark key="^" line="17" column="34" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/externals/header/header.js" timestamp="1517426139451">
         <mark key="'" line="40" column="0" />
@@ -2554,6 +2554,12 @@
         <mark key="." line="0" column="54" />
         <mark key="^" line="0" column="54" />
       </file>
+      <file name="$USER_HOME$/www/dart/todo/lib/components/AddTodoDialog.dart" timestamp="1519030132534">
+        <mark key="[" line="11" column="6" />
+        <mark key="]" line="11" column="6" />
+        <mark key="." line="11" column="6" />
+        <mark key="^" line="11" column="5" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/test/diff.js" timestamp="1493033268746">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -2651,6 +2657,12 @@
         <mark key="]" line="13" column="44" />
         <mark key="." line="13" column="44" />
         <mark key="^" line="13" column="44" />
+      </file>
+      <file name="$USER_HOME$/www/dart/todo/lib/components/CreateTodoDialog.dart" timestamp="1519030084265">
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="4" column="1" />
+        <mark key="." line="4" column="1" />
+        <mark key="^" line="4" column="1" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/test/service/header-items.js" timestamp="1496133081001">
         <mark key="'" line="11" column="12" />
@@ -3409,8 +3421,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/www/js/foo/src/components/DropdownMenuItem.js" />
-      <jump line="19" column="0" filename="$USER_HOME$/www/js/foo/src/components/DropdownMenuItem.js" />
       <jump line="4" column="0" filename="$USER_HOME$/www/js/foo/src/components/DropdownMenuItem.js" />
       <jump line="6" column="0" filename="$USER_HOME$/www/js/foo/src/components/DropdownMenu.js" />
       <jump line="55" column="21" filename="$USER_HOME$/www/js/foo/src/components/DropdownMenu.js" />
@@ -3509,52 +3519,54 @@
       <jump line="9" column="0" filename="$USER_HOME$/www/dart/todo/lib/components/TodoItem.dart" />
       <jump line="7" column="19" filename="$USER_HOME$/www/dart/todo/lib/components/AddTodoButton.dart" />
       <jump line="0" column="36" filename="$USER_HOME$/www/dart/todo/lib/components/AddTodoButton.dart" />
+      <jump line="17" column="23" filename="$USER_HOME$/www/dart/todo/lib/components/AddTodoButton.dart" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/dart/todo/lib/components/AddTodoButton.dart" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>new Dialog( ),</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>new Dialog( ),</text>
       </register>
       <register name="/" type="4">
         <text>selected</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOnRvZG8vY29tcG9uZW50cy9Qcm92aWRlci5kYXJ0JzsK</text>
+        <text encoding="base64">ICAgICAgY2hpbGQ6IG5ldyBEaWFsb2coCiAgICAgICAgY2hpbGQ6IG5ldyBDZW50ZXIoCiAgICAgICAgICBjaGlsZDogbmV3IFRleHQoIkhlbGxvIFdvcmxkISIpLAogICAgICAgICksCiAgICAgICksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICBjaGlsZDogbmV3IENlbnRlcigKICAgICAgICAgIGNoaWxkOiBuZXcgVGV4dCgiSGVsbG8gV29ybGQhIiksCiAgICAgICAgKSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hpbGQ6IG5ldyBJY29uKEljb25zLmFkZCksCiAgICAgICAgICAgIG9uUHJlc3NlZDogbnVsbCwK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgIC8vIFRPRE86IGltcGxlbWVudCBidWlsZAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICBjb25zdCBDcmVhdAo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hpbGQ6IG5ldyBJY29uKEljb25zLmFkZCksCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCdvbkFkZFRvZG8nKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hpbGQ6IG5ldyBJY29uKEljb25zLmFkZCksCiAgICAgICAgICAgIG9uUHJlc3NlZDogbnVsbCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IGltcGxlbWVudCBidWlsZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb3JlbSAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hpbGQ6IG5ldyBJY29uKEljb25zLmFkZCksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
