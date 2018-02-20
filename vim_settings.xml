@@ -164,6 +164,9 @@
         <mark key="." line="11" column="1" />
         <mark key="^" line="11" column="1" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/karma.conf.js" timestamp="1519123855733">
+        <mark key="'" line="68" column="0" />
+      </file>
       <file name="$USER_HOME$/www/js/Lisa/src/actions/index.js" timestamp="1495340429228">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="65" column="8" />
@@ -289,6 +292,9 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="12" column="7" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/directive/yt-add-comment.js" timestamp="1519123598284">
+        <mark key="'" line="302" column="4" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1517399141001">
         <mark key="'" line="1763" column="23" />
@@ -1515,12 +1521,12 @@
         <mark key="." line="11" column="42" />
         <mark key="^" line="11" column="42" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" timestamp="1493027433135">
-        <mark key="'" line="55" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="19" column="72" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" timestamp="1519123926172">
+        <mark key="'" line="24" column="33" />
+        <mark key="[" line="31" column="35" />
+        <mark key="]" line="31" column="34" />
+        <mark key="^" line="31" column="34" />
+        <mark key="." line="31" column="34" />
       </file>
       <file name="$USER_HOME$/www/js/Lisa/src/components/Login/HostSetup/index.js" timestamp="1492219861817">
         <mark key="'" line="3" column="0" />
@@ -3435,11 +3441,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="0" filename="$USER_HOME$/www/js/foo/src/components/Select.js" />
-      <jump line="14" column="42" filename="$USER_HOME$/www/js/foo/src/components/Select.js" />
-      <jump line="57" column="0" filename="$USER_HOME$/www/js/foo/src/components/Select.js" />
-      <jump line="31" column="13" filename="$USER_HOME$/www/js/foo/src/components/Select.js" />
-      <jump line="81" column="0" filename="$USER_HOME$/www/js/foo/src/components/Select.js" />
       <jump line="76" column="0" filename="$USER_HOME$/www/js/foo/src/components/Select.js" />
       <jump line="24" column="0" filename="$USER_HOME$/www/js/foo/src/components/Select.js" />
       <jump line="51" column="0" filename="$USER_HOME$/www/js/foo/src/components/Select.js" />
@@ -3535,22 +3536,27 @@
       <jump line="6" column="0" filename="$USER_HOME$/www/dart/todo/lib/components/AddTodoButton.dart" />
       <jump line="24" column="0" filename="$USER_HOME$/www/dart/todo/lib/components/AddTodoButton.dart" />
       <jump line="328" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/markup/style/markup.scss" />
+      <jump line="302" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/directive/yt-add-comment.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/karma.conf.js" />
+      <jump line="68" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/karma.conf.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" />
+      <jump line="24" column="33" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOnRvZG8vZGF0YS9Ub2RvLmRhcnQnOwo=</text>
+      <register name="&quot;" type="4">
+        <text>**/</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>const</text>
+        <text>**/</text>
       </register>
       <register name="/" type="4">
-        <text>onSaved</text>
+        <text>ic</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgcHJpbnQodG9kby50ZXh0KTsKICAgICAgICAgICAgICAgICAgY2xvc2UoY29udGV4dCk7Cg==</text>
+        <text encoding="base64">ICAgICAge3BhdHRlcm46ICdhcHAvKiovdGVzdC9zZXJ2aWNlLyoqLyouanMnLCBpZ25vcmU6IHRydWV9LAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOnRvZG8vZGF0YS9Ub2RvLmRhcnQnOwo=</text>
@@ -3587,9 +3593,9 @@
       </register>
     </registers>
     <search>
-      <last-search>onSaved</last-search>
+      <last-search>ic</last-search>
       <last-offset />
-      <last-pattern>onSaved</last-pattern>
+      <last-pattern>ic</last-pattern>
       <last-replace encoding="base64">PG9wdGlvbiB2YWx1ZT0iXDEiPlwxPFwvb3B0aW9uPg==</last-replace>
       <last-substitute>\([А-я-]\+\)$</last-substitute>
       <last-dir>1</last-dir>
@@ -3597,8 +3603,6 @@
     </search>
     <history>
       <history-search>
-        <entry>contains</entry>
-        <entry>popup</entry>
         <entry>on</entry>
         <entry>click</entry>
         <entry encoding="base64">XDxyZW5kZXJJdGVtc1w+</entry>
@@ -3617,6 +3621,8 @@
         <entry encoding="base64">XDxGb3JtRmllbGRTZXR0ZXJcPg==</entry>
         <entry>Function</entry>
         <entry>onSaved</entry>
+        <entry>babel</entry>
+        <entry>ic</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
