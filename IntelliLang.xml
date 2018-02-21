@@ -133,6 +133,14 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on")).withParent(xmlTag().withLocalName(string().equalTo("ng-switch")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>pw-project-card-team/@team</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("team")).withParent(xmlTag().withLocalName(string().equalTo("pw-project-card-team")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>pw-project-card/@ng-repeat</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-repeat")).withParent(xmlTag().withLocalName(string().equalTo("pw-project-card")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>pw-project-team-list/@users</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("users")).withParent(xmlTag().withLocalName(string().equalTo("pw-project-team-list")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
