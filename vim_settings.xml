@@ -663,6 +663,9 @@
       <file name="$USER_HOME$/www/dart/mypill/lib/components/App.dart" timestamp="1519154383358">
         <mark key="'" line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/service/yt-shortcuts.js" timestamp="1519211942854">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/issue.js" timestamp="1518008299552">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="15" column="0" />
@@ -1562,8 +1565,8 @@
         <mark key="." line="13" column="79" />
         <mark key="^" line="13" column="79" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/user-agreement/service/user-agreement.js" timestamp="1519210118668">
-        <mark key="'" line="21" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/user-agreement/service/user-agreement.js" timestamp="1519211894258">
+        <mark key="'" line="13" column="3" />
         <mark key="[" line="1" column="37" />
         <mark key="]" line="1" column="51" />
         <mark key="^" line="25" column="51" />
@@ -1759,6 +1762,9 @@
         <mark key="]" line="21" column="1" />
         <mark key="." line="23" column="6" />
         <mark key="^" line="23" column="6" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/shortcuts.js" timestamp="1519211917274">
+        <mark key="'" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/www/dart/hub/lib/components/Input.dart" timestamp="1517567234346">
         <mark key="'" line="21" column="0" />
@@ -2812,8 +2818,8 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/user-agreement/user-agreement.js" timestamp="1519210178315">
-        <mark key="'" line="7" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/user-agreement/user-agreement.js" timestamp="1519211890179">
+        <mark key="'" line="3" column="9" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -3495,11 +3501,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/auth.js" />
-      <jump line="44" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/auth.js" />
-      <jump line="3" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/auth.js" />
-      <jump line="23" column="38" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/auth.js" />
-      <jump line="24" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/auth.js" />
       <jump line="37" column="3" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/auth.js" />
       <jump line="38" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/auth.js" />
       <jump line="39" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/auth.js" />
@@ -3595,6 +3596,11 @@
       <jump line="123" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/externals/header/test/header.js" />
       <jump line="10" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/externals/header/test/header.js" />
       <jump line="7" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/user-agreement/user-agreement.js" />
+      <jump line="3" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/user-agreement/user-agreement.js" />
+      <jump line="13" column="3" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/user-agreement/service/user-agreement.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/shortcuts.js" />
+      <jump line="2" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/service/yt-shortcuts.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/service/yt-shortcuts.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -3607,7 +3613,7 @@
         <text>provide</text>
       </register>
       <register name="/" type="4">
-        <text>onDecline</text>
+        <text>stop</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Cg==</text>
@@ -3647,9 +3653,9 @@
       </register>
     </registers>
     <search>
-      <last-search>onDecline</last-search>
+      <last-search>stop</last-search>
       <last-offset />
-      <last-pattern>onDecline</last-pattern>
+      <last-pattern>stop</last-pattern>
       <last-replace encoding="base64">PG9wdGlvbiB2YWx1ZT0iXDEiPlwxPFwvb3B0aW9uPg==</last-replace>
       <last-substitute>\([А-я-]\+\)$</last-substitute>
       <last-dir>1</last-dir>
@@ -3657,7 +3663,6 @@
     </search>
     <history>
       <history-search>
-        <entry>issue</entry>
         <entry>onInit</entry>
         <entry>confi</entry>
         <entry>get</entry>
@@ -3677,6 +3682,7 @@
         <entry encoding="base64">XDxhdXRoXD4=</entry>
         <entry>stopChecking</entry>
         <entry>onDecline</entry>
+        <entry>stop</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
