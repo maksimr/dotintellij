@@ -293,8 +293,8 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="12" column="7" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/directive/yt-add-comment.js" timestamp="1519229703536">
-        <mark key="'" line="205" column="22" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/directive/yt-add-comment.js" timestamp="1519230938397">
+        <mark key="'" line="155" column="26" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1517399141001">
         <mark key="'" line="1763" column="23" />
@@ -3542,11 +3542,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-hub/components/user-agreement/user-agreement.js" />
-      <jump line="72" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-hub/components/user-agreement/user-agreement.js" />
-      <jump line="17" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-hub/components/user-agreement/user-agreement.js" />
-      <jump line="82" column="47" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-hub/components/user-agreement/user-agreement.js" />
-      <jump line="16" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/user-agreement/user-agreement.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/user-agreement/user-agreement.js" />
       <jump line="24" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/service/pause-shortcuts-plugin.js" />
       <jump line="7" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/service/pause-shortcuts-plugin.js" />
@@ -3642,6 +3637,11 @@
       <jump line="93" column="34" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/directive/yt-add-comment.js" />
       <jump line="188" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/directive/yt-add-comment.js" />
       <jump line="205" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/directive/yt-add-comment.js" />
+      <jump line="148" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/directive/yt-add-comment.js" />
+      <jump line="120" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/directive/yt-add-comment.js" />
+      <jump line="101" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/directive/yt-add-comment.js" />
+      <jump line="94" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/directive/yt-add-comment.js" />
+      <jump line="155" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/directive/yt-add-comment.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -3654,7 +3654,7 @@
         <text>, delay);</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxodWJBdXRoU2hvdWxkVXNlRGVmaW5lZEluWW91VHJhY2tDb25maWdVcmxIYWNrXD4=</text>
+        <text encoding="base64">XDxvblVwZGF0ZURyYWZ0XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2ZXJzaW9uOiBwcm9jZXNzLmVudi5WRVJTSU9OX05VTUJFUiB8fCAnZGV2JywKICAgICAgICBudW1iZXI6IHByb2Nlc3MuZW52LkJVSUxEX05VTUJFUiB8fCAnZGV2JywK</text>
@@ -3695,9 +3695,9 @@ debounce(</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxodWJBdXRoU2hvdWxkVXNlRGVmaW5lZEluWW91VHJhY2tDb25maWdVcmxIYWNrXD4=</last-search>
+      <last-search encoding="base64">XDxvblVwZGF0ZURyYWZ0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxodWJBdXRoU2hvdWxkVXNlRGVmaW5lZEluWW91VHJhY2tDb25maWdVcmxIYWNrXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxvblVwZGF0ZURyYWZ0XD4=</last-pattern>
       <last-replace encoding="base64">PG9wdGlvbiB2YWx1ZT0iXDEiPlwxPFwvb3B0aW9uPg==</last-replace>
       <last-substitute>\([А-я-]\+\)$</last-substitute>
       <last-dir>-1</last-dir>
@@ -3705,7 +3705,6 @@ debounce(</text>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdGFydENoZWNraW5nXD4=</entry>
         <entry>login</entry>
         <entry>title</entry>
         <entry>team</entry>
@@ -3725,6 +3724,7 @@ debounce(</text>
         <entry>build</entry>
         <entry>config</entry>
         <entry encoding="base64">XDxodWJBdXRoU2hvdWxkVXNlRGVmaW5lZEluWW91VHJhY2tDb25maWdVcmxIYWNrXD4=</entry>
+        <entry encoding="base64">XDxvblVwZGF0ZURyYWZ0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
