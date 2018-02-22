@@ -469,6 +469,12 @@
         <mark key="." line="18" column="6" />
         <mark key="^" line="18" column="6" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/apply-patch.js" timestamp="1519303830007">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="16" column="22" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/www/js/Lisa/src/renderer.js" timestamp="1492447469371">
         <mark key="'" line="23" column="23" />
         <mark key="[" line="11" column="0" />
@@ -825,10 +831,10 @@
         <mark key="^" line="228" column="43" />
         <mark key="." line="228" column="43" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" timestamp="1519300998760">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" timestamp="1519303861449">
         <mark key="'" line="243" column="69" />
-        <mark key="[" line="247" column="7" />
-        <mark key="]" line="247" column="46" />
+        <mark key="[" line="260" column="7" />
+        <mark key="]" line="260" column="32" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
@@ -3655,8 +3661,8 @@
       <jump line="25" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/clipboard/directive/yt-clipboard.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjbGlwYm9hcmQub24oJ3N1Y2Nlc3MnLCBmdW5jdGlvbihldmVudCkgewogICAgICAgICAgZXZhbEFzeW5jKGF0dHIuY2xpcGJvYXJkT25TdWNjZXNzLCBldmVudCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>npm run patch -- &quot;ring-ui&quot;</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -3667,38 +3673,38 @@
       <register name="/" type="4">
         <text>patch</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjbGlwYm9hcmQub24oJ3N1Y2Nlc3MnLCBmdW5jdGlvbihldmVudCkgewogICAgICAgICAgZXZhbEFzeW5jKGF0dHIuY2xpcGJvYXJkT25TdWNjZXNzLCBldmVudCk7Cg==</text>
+      <register name="0" type="4">
+        <text>npm run patch -- &quot;ring-ui&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnQScpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnQicpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnQScpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnQicpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgb24K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZnVuY3Rpb24oYXV0aFByb3ZpZGVyLCBoY1VzZXJBZ3JlZW1lbnRQcm92aWRlcikgewogICAgICAgIGhjVXNlckFncmVlbWVudFByb3ZpZGVyLmluaXQoe2F1dGg6IGF1dGhQcm92aWRlci54eHhBdXRofSk7CiAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uKGF1dGhQcm92aWRlciwgaGNVc2VyQWdyZWVtZW50UHJvdmlkZXIpIHsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgZnVuY3Rpb24oYXV0aFByb3ZpZGVyLCBoY1VzZXJBZ3JlZW1lbnRQcm92aWRlcikgewogICAgICAgIGhjVXNlckFncmVlbWVudFByb3ZpZGVyLmluaXQoe2F1dGg6IGF1dGhQcm92aWRlci54eHhBdXRofSk7CiAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
