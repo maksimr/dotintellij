@@ -2742,8 +2742,8 @@
         <mark key="." line="6" column="16" />
         <mark key="^" line="6" column="16" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/hub/mount/mount.js" timestamp="1519228507788">
-        <mark key="'" line="9" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/hub/mount/mount.js" timestamp="1519309684789">
+        <mark key="'" line="32" column="0" />
         <mark key="[" line="4" column="48" />
         <mark key="]" line="4" column="56" />
         <mark key="." line="4" column="56" />
@@ -3559,14 +3559,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="52" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/template/projects.html" />
-      <jump line="11" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/template/projects.html" />
-      <jump line="12" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/template/projects.html" />
-      <jump line="28" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/template/projects.html" />
-      <jump line="18" column="45" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/template/projects.html" />
-      <jump line="19" column="43" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/template/projects.html" />
-      <jump line="20" column="33" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/template/projects.html" />
-      <jump line="23" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/template/projects.html" />
       <jump line="25" column="33" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/template/projects.html" />
       <jump line="26" column="71" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/template/projects.html" />
       <jump line="17" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sticky-panel/directive/yt-sticky-panel.js" />
@@ -3659,6 +3651,14 @@
       <jump line="25" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/clipboard/directive/yt-clipboard.js" />
       <jump line="261" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
       <jump line="289" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
+      <jump line="10" column="47" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/hub/mount/mount.js" />
+      <jump line="43" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/hub/mount/mount.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/hub/mount/mount.js" />
+      <jump line="23" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/hub/mount/mount.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/hub/mount/mount.js" />
+      <jump line="0" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/hub/mount/mount.js" />
+      <jump line="38" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/hub/mount/mount.js" />
+      <jump line="32" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/hub/mount/mount.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3671,7 +3671,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>patch</text>
+        <text encoding="base64">XDxhbmd1bGFyTW9kdWxlXD4=</text>
       </register>
       <register name="0" type="4">
         <text>npm run patch -- &quot;ring-ui&quot;</text>
@@ -3711,17 +3711,16 @@
       </register>
     </registers>
     <search>
-      <last-search>patch</last-search>
+      <last-search encoding="base64">XDxhbmd1bGFyTW9kdWxlXD4=</last-search>
       <last-offset />
-      <last-pattern>patch</last-pattern>
+      <last-pattern encoding="base64">XDxhbmd1bGFyTW9kdWxlXD4=</last-pattern>
       <last-replace encoding="base64">PG9wdGlvbiB2YWx1ZT0iXDEiPlwxPFwvb3B0aW9uPg==</last-replace>
       <last-substitute>\([А-я-]\+\)$</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>team</entry>
         <entry>projects</entry>
         <entry>delay</entry>
         <entry encoding="base64">XDx5dFNjcm9sbFw+</entry>
@@ -3741,6 +3740,7 @@
         <entry encoding="base64">XDxvblVwZGF0ZURyYWZ0XD4=</entry>
         <entry>path</entry>
         <entry>patch</entry>
+        <entry encoding="base64">XDxhbmd1bGFyTW9kdWxlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
