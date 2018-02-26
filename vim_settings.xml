@@ -480,8 +480,8 @@
         <mark key="." line="18" column="6" />
         <mark key="^" line="18" column="6" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/apply-patch.js" timestamp="1519633022678">
-        <mark key="'" line="5" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/apply-patch.js" timestamp="1519633300232">
+        <mark key="'" line="77" column="0" />
         <mark key="[" line="53" column="18" />
         <mark key="]" line="53" column="17" />
         <mark key="." line="53" column="17" />
@@ -2161,6 +2161,11 @@
         <mark key="^" line="39" column="2" />
         <mark key="." line="39" column="2" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-time-picker.js" timestamp="1519633449314">
+        <mark key="'" line="2" column="61" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="110" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/response-transform.js" timestamp="1491897071082">
         <mark key="'" line="202" column="0" />
         <mark key="[" line="79" column="34" />
@@ -2807,6 +2812,13 @@
         <mark key="]" line="0" column="22" />
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-picker.js" timestamp="1519633620402">
+        <mark key="'" line="218" column="8" />
+        <mark key="[" line="48" column="78" />
+        <mark key="]" line="49" column="11" />
+        <mark key="^" line="49" column="11" />
+        <mark key="." line="49" column="11" />
       </file>
       <file name="$USER_HOME$/www/js/foo/src/components/Popup.js" timestamp="1518867264587">
         <mark key="'" line="39" column="0" />
@@ -3569,12 +3581,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="777" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/semver/semver.js" />
-      <jump line="1065" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/semver/semver.js" />
-      <jump line="409" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/semver/semver.js" />
-      <jump line="492" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/semver/semver.js" />
-      <jump line="1308" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/semver/semver.js" />
-      <jump line="1207" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/semver/semver.js" />
       <jump line="488" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/semver/semver.js" />
       <jump line="1206" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/semver/semver.js" />
       <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/semver/semver.js" />
@@ -3667,71 +3673,76 @@
       <jump line="53" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/apply-patch.js" />
       <jump line="49" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/apply-patch.js" />
       <jump line="64" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/apply-patch.js" />
-      <jump line="77" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/apply-patch.js" />
       <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/apply-patch.js" />
+      <jump line="77" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/apply-patch.js" />
+      <jump line="107" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-time-picker.js" />
+      <jump line="2" column="61" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-time-picker.js" />
+      <jump line="15" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-picker.js" />
+      <jump line="48" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-picker.js" />
+      <jump line="23" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-picker.js" />
+      <jump line="215" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-picker.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>gte</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgXQo=</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxub3JtYWxpemVWZXJzaW9uXD4=</text>
+        <text>place</text>
       </register>
       <register name="0" type="4">
-        <text>gte</text>
+        <text>i18nDate.dateFormatInQueryNotation[config.backend.l10n.language]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJzZW12ZXIiOiAiXjUuNS4wIgo=</text>
+        <text encoding="base64">ICAgICAgXQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvKmVzbGludC1kaXNhYmxlKi8K</text>
+        <text encoding="base64">ICAgICAgICAnJHNjb3BlJywKICAgICAgICAnJGVsZW1lbnQnLAogICAgICAgICckYXR0cnMnLAogICAgICAgICdkYXRlRmlsdGVyJywKICAgICAgICAneXREYXRlVXRpbHMnLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qIG5vbWluICovCiAgICAvKiBub21pbiAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nLmFwcGx5KGNvbnNvbGUsIGFyZ3MpOwo=</text>
+        <text encoding="base64">ICAgICJzZW12ZXIiOiAiXjUuNS4wIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">WW91IGNvdWxkIGNoYW5nZSBgPFZFUlNJT04+YCBvbiBgQU5ZYCB0aGVuIHBhdGNoIHdpbGwgYmUgYXBwbGllZCB0byBhbnkgdmVyc2lvbiBvZiBsaWJyYXJ5LiBQYXRjaCBgQU5ZLnBhdGNoYCBhcHBsaWVkCmZvciBBTEwgTElCUkFSSUVTIChyaW5nLXVpIGFuZCByaW5nLWh1YikK</text>
+        <text encoding="base64">ICAvKmVzbGludC1kaXNhYmxlKi8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8qIG5vbWluICovCiAgICAvKiBub21pbiAqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nLmFwcGx5KGNvbnNvbGUsIGFyZ3MpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Tm93IFlvdVRyYWNrIHN1cHBvcnRzIHRocmVlIHR5cGVzIG9mIHBhdGNoZXM6IGByaW5nLXVpQDxWRVJTSU9OPi5wYXRjaGAsIGByaW5nLWh1YkA8VkVSU0lPTj4ucGF0Y2hgIGFuZCBgQU5ZLnBhdGNoYC4KWW91IGNvdWxkIGNoYW5nZSBgPFZFUlNJT04+YCBvbiBgQU5ZYCB0aGVuIHBhdGNoIHdpbGwgYmUgYXBwbGllZCB0byBhbnkgdmVyc2lvbiBvZiBsaWJyYXJ5LiBQYXRjaCBgQU5ZLnBhdGNoYCBhcHBsaWVkCmZvciBBTEwgTElCUkFSSUVTIChyaW5nLXVpIGFuZCByaW5nLWh1YikK</text>
+        <text encoding="base64">WW91IGNvdWxkIGNoYW5nZSBgPFZFUlNJT04+YCBvbiBgQU5ZYCB0aGVuIHBhdGNoIHdpbGwgYmUgYXBwbGllZCB0byBhbnkgdmVyc2lvbiBvZiBsaWJyYXJ5LiBQYXRjaCBgQU5ZLnBhdGNoYCBhcHBsaWVkCmZvciBBTEwgTElCUkFSSUVTIChyaW5nLXVpIGFuZCByaW5nLWh1YikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">b3IgYG5wbSBydW4gcGF0Y2ggLS0gInJpbmctdWlAPHZlcnNpb24+ImAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxub3JtYWxpemVWZXJzaW9uXD4=</last-search>
+      <last-search>place</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxub3JtYWxpemVWZXJzaW9uXD4=</last-pattern>
+      <last-pattern>place</last-pattern>
       <last-replace encoding="base64">PG9wdGlvbiB2YWx1ZT0iXDEiPlwxPFwvb3B0aW9uPg==</last-replace>
       <last-substitute>\([А-я-]\+\)$</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>build</entry>
         <entry>config</entry>
         <entry encoding="base64">XDxodWJBdXRoU2hvdWxkVXNlRGVmaW5lZEluWW91VHJhY2tDb25maWdVcmxIYWNrXD4=</entry>
         <entry encoding="base64">XDxvblVwZGF0ZURyYWZ0XD4=</entry>
@@ -3751,6 +3762,7 @@
         <entry>Any</entry>
         <entry>semver</entry>
         <entry encoding="base64">XDxub3JtYWxpemVWZXJzaW9uXD4=</entry>
+        <entry>place</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>

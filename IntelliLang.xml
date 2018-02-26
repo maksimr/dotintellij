@@ -121,6 +121,10 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-pattern")).withParent(xmlTag().withLocalName(string().equalTo("input")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>input/@placeholder</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("placeholder")).withParent(xmlTag().withLocalName(string().equalTo("input")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>input/@yt-event-escape</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("yt-event-escape")).withParent(xmlTag().withLocalName(string().equalTo("input")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
