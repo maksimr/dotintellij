@@ -865,12 +865,11 @@
         <mark key="." line="10" column="83" />
         <mark key="^" line="10" column="83" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/test.config.js" timestamp="1519642130855">
-        <mark key="'" line="20" column="4" />
-        <mark key="[" line="6" column="79" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/test.config.js" timestamp="1519644567168">
+        <mark key="'" line="18" column="4" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/main/kotlin/jetbrains/youtrack/webdriver/elements/ringui/RingListItem.kt" timestamp="1493806688009">
         <mark key="'" line="16" column="0" />
@@ -1819,12 +1818,12 @@
         <mark key="." line="4" column="25" />
         <mark key="^" line="4" column="25" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" timestamp="1519642406474">
-        <mark key="'" line="164" column="8" />
-        <mark key="[" line="229" column="18" />
-        <mark key="]" line="229" column="22" />
-        <mark key="." line="229" column="22" />
-        <mark key="^" line="229" column="22" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" timestamp="1519644912309">
+        <mark key="'" line="157" column="34" />
+        <mark key="[" line="230" column="26" />
+        <mark key="]" line="231" column="24" />
+        <mark key="." line="231" column="24" />
+        <mark key="^" line="231" column="24" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/service/pause-shortcuts-plugin.js" timestamp="1519225329984">
         <mark key="'" line="28" column="2" />
@@ -3554,11 +3553,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="43" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-picker.js" />
-      <jump line="178" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-picker.js" />
-      <jump line="166" column="33" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-picker.js" />
-      <jump line="68" column="39" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-picker.js" />
-      <jump line="64" column="40" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-picker.js" />
       <jump line="57" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-picker.js" />
       <jump line="14" column="45" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-time-picker.js" />
       <jump line="65" column="86" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-time-picker.js" />
@@ -3654,49 +3648,54 @@
       <jump line="280" column="35" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" />
       <jump line="164" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
+      <jump line="236" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
+      <jump line="219" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
+      <jump line="221" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
+      <jump line="218" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
+      <jump line="157" column="34" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Object.create</text>
+        <text>rule.loader || rule.use || []</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>Object.create</text>
+        <text>rule.loader || rule.use || []</text>
       </register>
       <register name="/" type="4">
-        <text>copy</text>
+        <text>conso</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICB3ZWJwYWNrU2hhcmUuaGFwcGlmeSh3ZWJwYWNrU2hhcmUuZ2V0RGVwZW5kZW5jaWVzV2VicGFja0NvbmZpZygpKSwK</text>
+      <register name="0" type="4">
+        <text>rule.loader || rule.use || []</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB2YXIgY2xvbmUgPSByZXF1aXJlKCdtb3V0L2xhbmcvY2xvbmUnKTsK</text>
+        <text encoding="base64">ICAgIGRlbGV0ZSBuZXdSdWxlLnF1ZXJ5Owo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcXVlcnk6IHJ1bGUucXVlcnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZy5wbHVnaW5zLnB1c2goaGFwcHlQYWlyWzFdKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKFtdLmNvbmNhdChydWxlLmxvYWRlciB8fCBydWxlLnVzZSB8fCBbXSkpOwo=</text>
+        <text encoding="base64">Y29uc29sZS5sb2cod2VicGFja1NoYXJlLmhhcHBpZnkod2VicGFja1NoYXJlLmdldERlcGVuZGVuY2llc1dlYnBhY2tDb25maWcoKSkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhbXS5jb25jYXQocnVsZS5sb2FkZXIgfHwgcnVsZS51c2UgfHwgW10pKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCc+Pj4+JywgaGFwcHlQYWlyWzBdKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJ1bGUsIHJ1bGUudXNlKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdBJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHJ1bGUsIHJ1bGUudXNlKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0FBQScpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBuZXdDb25maWcucGx1Z2lucyA9IFtdOwo=</text>
+        <text encoding="base64">ICB2YXIgY2xvbmUgPSByZXF1aXJlKCdtb3V0L2xhbmcvY2xvbmUnKTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -3706,9 +3705,9 @@
       </register>
     </registers>
     <search>
-      <last-search>copy</last-search>
+      <last-search>conso</last-search>
       <last-offset />
-      <last-pattern>copy</last-pattern>
+      <last-pattern>conso</last-pattern>
       <last-replace encoding="base64">PG9wdGlvbiB2YWx1ZT0iXDEiPlwxPFwvb3B0aW9uPg==</last-replace>
       <last-substitute>\([А-я-]\+\)$</last-substitute>
       <last-dir>1</last-dir>
@@ -3716,8 +3715,6 @@
     </search>
     <history>
       <history-search>
-        <entry>flush</entry>
-        <entry>addAttachment</entry>
         <entry encoding="base64">XDx1cGRhdGVEcmFmdFw+</entry>
         <entry encoding="base64">XDxvblVwZGF0ZURyYWZ0XD4=</entry>
         <entry>browser</entry>
@@ -3729,13 +3726,15 @@
         <entry>style</entry>
         <entry encoding="base64">XDxnZXRTdHlsZUxvYWRlcnNcPg==</entry>
         <entry>exclude</entry>
-        <entry encoding="base64">XDxwbHVnaW5zXD4=</entry>
         <entry>happy</entry>
         <entry>resolve</entry>
         <entry>babel</entry>
         <entry encoding="base64">XDxhbGxTdWJBcHBzXD4=</entry>
         <entry encoding="base64">XDxyZXNvbHZlTG9hZGVyXD4=</entry>
         <entry>copy</entry>
+        <entry encoding="base64">XDxwbHVnaW5zXD4=</entry>
+        <entry encoding="base64">XDxydWxlc1w+</entry>
+        <entry>conso</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvJywkLyI+PC9vcHRpb24+L2dj</entry>
