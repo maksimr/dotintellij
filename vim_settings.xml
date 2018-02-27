@@ -297,8 +297,8 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="12" column="7" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/directive/yt-add-comment.js" timestamp="1519735981073">
-        <mark key="'" line="82" column="14" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/directive/yt-add-comment.js" timestamp="1519736364681">
+        <mark key="'" line="17" column="25" />
         <mark key="[" line="89" column="0" />
         <mark key="]" line="95" column="58" />
         <mark key="^" line="94" column="14" />
@@ -3682,7 +3682,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="37" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/activities/test/service/apply-activity-to.js" />
       <jump line="205" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/activities/test/service/apply-activity-to.js" />
       <jump line="12" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
       <jump line="887" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
@@ -3758,7 +3757,6 @@
       <jump line="9" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/directive/yt-comment-form.js" />
       <jump line="106" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/directive/yt-comment-form.js" />
       <jump line="113" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/directive/yt-comment-form.js" />
-      <jump line="17" column="48" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/directive/yt-add-comment.js" />
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/template/yt-add-comment.html" />
       <jump line="103" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/template/yt-add-comment.html" />
       <jump line="49" column="66" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/template/yt-add-comment.html" />
@@ -3782,6 +3780,8 @@
       <jump line="46" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/directive/yt-add-comment.js" />
       <jump line="20" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/directive/yt-add-comment.js" />
       <jump line="82" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/directive/yt-add-comment.js" />
+      <jump line="89" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/directive/yt-add-comment.js" />
+      <jump line="17" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/directive/yt-add-comment.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3794,7 +3794,7 @@
         <text>add-comment</text>
       </register>
       <register name="/" type="4">
-        <text>addAttachments</text>
+        <text encoding="base64">XDx2YWxpZGF0ZUF0dGFjaG1lbnRzU2l6ZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cmVxdWlyZSgnLi9kaXJlY3RpdmUveXQtYWRkLWNvbW1lbnQnKTsK</text>
@@ -3834,17 +3834,16 @@
       </register>
     </registers>
     <search>
-      <last-search>addAttachments</last-search>
+      <last-search encoding="base64">XDx2YWxpZGF0ZUF0dGFjaG1lbnRzU2l6ZVw+</last-search>
       <last-offset />
-      <last-pattern>addAttachments</last-pattern>
+      <last-pattern encoding="base64">XDx2YWxpZGF0ZUF0dGFjaG1lbnRzU2l6ZVw+</last-pattern>
       <last-replace encoding="base64">PG9wdGlvbiB2YWx1ZT0iXDEiPlwxPFwvb3B0aW9uPg==</last-replace>
       <last-substitute>\([А-я-]\+\)$</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzYXZlRHJhZnRcPg==</entry>
         <entry encoding="base64">XDxzaG93TmV3Q29tbWVudFZpc2liaWxpdHlcPg==</entry>
         <entry encoding="base64">XDxhZGRBdHRhY2htZW50c1w+</entry>
         <entry encoding="base64">XDxsb2FkQ29tbWVudERyYWZ0Rm9yXD4=</entry>
@@ -3864,6 +3863,7 @@
         <entry encoding="base64">XDx1cGRhdGVEcmFmdFw+</entry>
         <entry>attach</entry>
         <entry>addAttachments</entry>
+        <entry encoding="base64">XDx2YWxpZGF0ZUF0dGFjaG1lbnRzU2l6ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvJywkLyI+PC9vcHRpb24+L2dj</entry>
