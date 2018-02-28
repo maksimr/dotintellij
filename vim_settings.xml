@@ -1847,8 +1847,8 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="12" column="31" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-voters.html" timestamp="1519811606892">
-        <mark key="'" line="22" column="9" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-voters.html" timestamp="1519815785447">
+        <mark key="'" line="25" column="0" />
       </file>
       <file name="$USER_HOME$/www/js/Lisa/src/containers/ServerSetupSpec.js" timestamp="1492452039746">
         <mark key="'" line="41" column="0" />
@@ -2780,8 +2780,8 @@
         <mark key="." line="1" column="6" />
         <mark key="^" line="1" column="6" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/hub/mount/config.js" timestamp="1519229104580">
-        <mark key="'" line="13" column="2" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/hub/mount/config.js" timestamp="1519815806532">
+        <mark key="'" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/test/directive/yt-timezone-select.js" timestamp="1491816275968">
         <mark key="'" line="3" column="0" />
@@ -2852,8 +2852,8 @@
         <mark key="." line="6" column="16" />
         <mark key="^" line="6" column="16" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/hub/mount/mount.js" timestamp="1519309684789">
-        <mark key="'" line="32" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/hub/mount/mount.js" timestamp="1519815802141">
+        <mark key="'" line="14" column="14" />
         <mark key="[" line="4" column="48" />
         <mark key="]" line="4" column="56" />
         <mark key="." line="4" column="56" />
@@ -3707,13 +3707,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="194" column="41" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/directive/yt-add-comment.js" />
-      <jump line="15" column="27" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/directive/yt-add-comment.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/directive/yt-comment-form.js" />
-      <jump line="309" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/directive/yt-comment-form.js" />
-      <jump line="8" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/directive/yt-comment-form.js" />
-      <jump line="292" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/directive/yt-comment-form.js" />
-      <jump line="278" column="53" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/directive/yt-comment-form.js" />
       <jump line="263" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/directive/yt-comment-form.js" />
       <jump line="242" column="73" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/directive/yt-comment-form.js" />
       <jump line="194" column="41" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/directive/yt-comment-form.js" />
@@ -3807,6 +3800,13 @@
       <jump line="21" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/attachments/service/upload-attachments-to-comment-draft.js" />
       <jump line="10" column="26" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="22" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-voters.html" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-voters.html" />
+      <jump line="25" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-voters.html" />
+      <jump line="13" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/hub/mount/mount.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/hub/mount/mount.js" />
+      <jump line="1" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/hub/mount/mount.js" />
+      <jump line="14" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/hub/mount/mount.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/hub/mount/config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -3819,7 +3819,7 @@
         <text>uploadAttachments(attachments)</text>
       </register>
       <register name="/" type="4">
-        <text>edit</text>
+        <text>nit</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgJGN0cmwudXBsb2FkQXR0YWNobWVudHMgPSBmdW5jdGlvbihhdHRhY2htZW50cykgewogICAgICAgIHJldHVybiB1cGxvYWRBdHRhY2htZW50cyhhdHRhY2htZW50cykKICAgICAgICAgIC50aGVuKGZ1bmN0aW9uKHVwbG9hZGVkQXR0YWNobWVudHMpIHsKICAgICAgICAgICAgJGN0cmwub25VcGRhdGVEcmFmdCh7CiAgICAgICAgICAgICAgYXR0YWNobWVudHM6IHVwbG9hZGVkQXR0YWNobWVudHMuY29uY2F0KCRjdHJsLmNvbW1lbnQuYXR0YWNobWVudHMgfHwgW10pLAogICAgICAgICAgICAgICQkYXR0YWNobWVudHM6ICgkY3RybC5jb21tZW50LiQkYXR0YWNobWVudHMgfHwgW10pLmZpbHRlcihmdW5jdGlvbihhdHRhY2htZW50KSB7CiAgICAgICAgICAgICAgICByZXR1cm4gIWF0dGFjaG1lbnRzLmZpbmQoZnVuY3Rpb24odXBsb2FkZWRBdHRhY2gpIHsKICAgICAgICAgICAgICAgICAgcmV0dXJuIHVwbG9hZGVkQXR0YWNoID09PSBhdHRhY2htZW50OwogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgfSk7CiAgICAgICAgICB9KTsKICAgICAgfTsK</text>
@@ -3859,9 +3859,9 @@
       </register>
     </registers>
     <search>
-      <last-search>edit</last-search>
+      <last-search>nit</last-search>
       <last-offset />
-      <last-pattern>edit</last-pattern>
+      <last-pattern>nit</last-pattern>
       <last-replace encoding="base64">PG9wdGlvbiB2YWx1ZT0iXDEiPlwxPFwvb3B0aW9uPg==</last-replace>
       <last-substitute>\([А-я-]\+\)$</last-substitute>
       <last-dir>1</last-dir>
@@ -3869,9 +3869,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjcmVhdGVVcGRhdGVDb21tZW50RHJhZnRGb3JcPg==</entry>
-        <entry encoding="base64">XDxnZW5lcmF0ZVVuaXF1ZUF0dGFjaG1lbnROYW1lXD4=</entry>
-        <entry encoding="base64">XDx1c2VyTWFya2Rvd25NYXJrdXBcPg==</entry>
         <entry encoding="base64">XDxhbmFseXRpY3NcPg==</entry>
         <entry encoding="base64">XDxnZXRQZXJQYXRoVHJhY2tpbmdJbmZvXD4=</entry>
         <entry encoding="base64">XDxnZXRDdXJyZW50VXNlclw+</entry>
@@ -3889,6 +3886,9 @@
         <entry>upload</entry>
         <entry encoding="base64">XDx1cGxvYWRBdHRhY2htZW50c1w+</entry>
         <entry>edit</entry>
+        <entry>auth</entry>
+        <entry>config</entry>
+        <entry>nit</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvJywkLyI+PC9vcHRpb24+L2dj</entry>
