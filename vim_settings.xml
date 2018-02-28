@@ -1847,6 +1847,9 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="12" column="31" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-voters.html" timestamp="1519811606892">
+        <mark key="'" line="22" column="9" />
+      </file>
       <file name="$USER_HOME$/www/js/Lisa/src/containers/ServerSetupSpec.js" timestamp="1492452039746">
         <mark key="'" line="41" column="0" />
         <mark key="[" line="34" column="41" />
@@ -3704,7 +3707,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="242" column="73" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/directive/yt-add-comment.js" />
       <jump line="194" column="41" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/directive/yt-add-comment.js" />
       <jump line="15" column="27" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/directive/yt-add-comment.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/directive/yt-comment-form.js" />
@@ -3804,6 +3806,7 @@
       <jump line="99" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/directive/yt-add-comment.js" />
       <jump line="21" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/attachments/service/upload-attachments-to-comment-draft.js" />
       <jump line="10" column="26" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="22" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-voters.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -3816,7 +3819,7 @@
         <text>uploadAttachments(attachments)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cGxvYWRBdHRhY2htZW50c1w+</text>
+        <text>edit</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgJGN0cmwudXBsb2FkQXR0YWNobWVudHMgPSBmdW5jdGlvbihhdHRhY2htZW50cykgewogICAgICAgIHJldHVybiB1cGxvYWRBdHRhY2htZW50cyhhdHRhY2htZW50cykKICAgICAgICAgIC50aGVuKGZ1bmN0aW9uKHVwbG9hZGVkQXR0YWNobWVudHMpIHsKICAgICAgICAgICAgJGN0cmwub25VcGRhdGVEcmFmdCh7CiAgICAgICAgICAgICAgYXR0YWNobWVudHM6IHVwbG9hZGVkQXR0YWNobWVudHMuY29uY2F0KCRjdHJsLmNvbW1lbnQuYXR0YWNobWVudHMgfHwgW10pLAogICAgICAgICAgICAgICQkYXR0YWNobWVudHM6ICgkY3RybC5jb21tZW50LiQkYXR0YWNobWVudHMgfHwgW10pLmZpbHRlcihmdW5jdGlvbihhdHRhY2htZW50KSB7CiAgICAgICAgICAgICAgICByZXR1cm4gIWF0dGFjaG1lbnRzLmZpbmQoZnVuY3Rpb24odXBsb2FkZWRBdHRhY2gpIHsKICAgICAgICAgICAgICAgICAgcmV0dXJuIHVwbG9hZGVkQXR0YWNoID09PSBhdHRhY2htZW50OwogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgfSk7CiAgICAgICAgICB9KTsKICAgICAgfTsK</text>
@@ -3856,12 +3859,12 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cGxvYWRBdHRhY2htZW50c1w+</last-search>
+      <last-search>edit</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cGxvYWRBdHRhY2htZW50c1w+</last-pattern>
+      <last-pattern>edit</last-pattern>
       <last-replace encoding="base64">PG9wdGlvbiB2YWx1ZT0iXDEiPlwxPFwvb3B0aW9uPg==</last-replace>
       <last-substitute>\([А-я-]\+\)$</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -3879,13 +3882,13 @@
         <entry encoding="base64">XDx1cGRhdGVEcmFmdFw+</entry>
         <entry>attach</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZUF0dGFjaG1lbnRzU2l6ZVw+</entry>
-        <entry>edit</entry>
         <entry>block</entry>
         <entry encoding="base64">XDxhdHRhY2htZW50XD4=</entry>
         <entry encoding="base64">XDxhZGRBdHRhY2htZW50c1w+</entry>
         <entry>addAttachments</entry>
         <entry>upload</entry>
         <entry encoding="base64">XDx1cGxvYWRBdHRhY2htZW50c1w+</entry>
+        <entry>edit</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvJywkLyI+PC9vcHRpb24+L2dj</entry>
