@@ -1071,12 +1071,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="0" column="25" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream-comment.js" timestamp="1519739336123">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream-comment.js" timestamp="1519809225209">
         <mark key="'" line="287" column="27" />
-        <mark key="[" line="297" column="44" />
-        <mark key="]" line="297" column="44" />
-        <mark key="^" line="297" column="44" />
-        <mark key="." line="297" column="44" />
+        <mark key="[" line="295" column="15" />
+        <mark key="]" line="295" column="26" />
+        <mark key="." line="295" column="26" />
+        <mark key="^" line="295" column="26" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/project-wizard/project-wizard.js" timestamp="1519225776814">
         <mark key="'" line="3" column="0" />
@@ -1666,12 +1666,11 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-stream-comment.html" timestamp="1519739035220">
-        <mark key="'" line="172" column="71" />
-        <mark key="[" line="137" column="38" />
-        <mark key="]" line="137" column="58" />
-        <mark key="." line="137" column="38" />
-        <mark key="^" line="133" column="88" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-stream-comment.html" timestamp="1519809253206">
+        <mark key="'" line="162" column="71" />
+        <mark key="[" line="129" column="0" />
+        <mark key="]" line="129" column="0" />
+        <mark key="." line="129" column="0" />
       </file>
       <file name="$USER_HOME$/www/js/foo/src/data/state.json" timestamp="1518771974237">
         <mark key="'" line="59" column="0" />
@@ -2628,11 +2627,10 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/template/yt-add-comment.html" timestamp="1519738914167">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/template/yt-add-comment.html" timestamp="1519809236127">
         <mark key="[" line="32" column="0" />
-        <mark key="]" line="48" column="32" />
+        <mark key="]" line="41" column="32" />
         <mark key="^" line="41" column="51" />
-        <mark key="." line="44" column="67" />
       </file>
       <file name="$USER_HOME$/www/js/react-chat-app/webpack.config.js" timestamp="1492955695436">
         <mark key="'" line="52" column="0" />
@@ -2893,12 +2891,11 @@
         <mark key="." line="6" column="13" />
         <mark key="^" line="6" column="13" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/comment.js" timestamp="1519738136479">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/comment.js" timestamp="1519809275592">
         <mark key="'" line="16" column="36" />
-        <mark key="[" line="18" column="24" />
-        <mark key="]" line="18" column="42" />
-        <mark key="." line="18" column="42" />
-        <mark key="^" line="18" column="42" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/zip-dashboard-widgets.sh" timestamp="1516110743051">
         <mark key="'" line="11" column="12" />
@@ -3810,13 +3807,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBidWlsdF92YWx1ZTogXjUuMi4xCg==</text>
+        <text encoding="base64">cmVxdWlyZSgnLi9kaXJlY3RpdmUveXQtY29tbWVudC1hdHRhY2htZW50cycpOwo=</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>uploadAttachments(attachments)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGxvYWRBdHRhY2htZW50c1w+</text>
@@ -3825,34 +3822,34 @@
         <text encoding="base64">ICAgICAgJGN0cmwudXBsb2FkQXR0YWNobWVudHMgPSBmdW5jdGlvbihhdHRhY2htZW50cykgewogICAgICAgIHJldHVybiB1cGxvYWRBdHRhY2htZW50cyhhdHRhY2htZW50cykKICAgICAgICAgIC50aGVuKGZ1bmN0aW9uKHVwbG9hZGVkQXR0YWNobWVudHMpIHsKICAgICAgICAgICAgJGN0cmwub25VcGRhdGVEcmFmdCh7CiAgICAgICAgICAgICAgYXR0YWNobWVudHM6IHVwbG9hZGVkQXR0YWNobWVudHMuY29uY2F0KCRjdHJsLmNvbW1lbnQuYXR0YWNobWVudHMgfHwgW10pLAogICAgICAgICAgICAgICQkYXR0YWNobWVudHM6ICgkY3RybC5jb21tZW50LiQkYXR0YWNobWVudHMgfHwgW10pLmZpbHRlcihmdW5jdGlvbihhdHRhY2htZW50KSB7CiAgICAgICAgICAgICAgICByZXR1cm4gIWF0dGFjaG1lbnRzLmZpbmQoZnVuY3Rpb24odXBsb2FkZWRBdHRhY2gpIHsKICAgICAgICAgICAgICAgICAgcmV0dXJuIHVwbG9hZGVkQXR0YWNoID09PSBhdHRhY2htZW50OwogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgfSk7CiAgICAgICAgICB9KTsKICAgICAgfTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBidWlsdF92YWx1ZTogXjUuMi4xCg==</text>
+        <text encoding="base64">cmVxdWlyZSgnLi9kaXJlY3RpdmUveXQtY29tbWVudC1hdHRhY2htZW50cycpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBidWlsZF9ydW5uZXI6IF4wLjcuOQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBidWlsdF92YWx1ZTogXjUuMi4xCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBidWlsdF92YWx1ZV9nZW5lcmF0b3I6IF41LjIuMQo=</text>
+        <text encoding="base64">ICAgICAgPHl0LWNvbW1lbnQtYXR0YWNobWVudHMgY2xhc3M9Inl0LXZndXR0ZXItMiB5dC1ibG9jay1lbGVtZW50IgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhdHRhY2htZW50cz0iJGlzc3VlRmVlZENvbW1lbnRDdHJsLmNvbW1lbnREcmFmdC5hdHRhY2htZW50cyIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYXR0YWNobWVudHMtaW4tcHJvZ3Jlc3M9IiRpc3N1ZUZlZWRDb21tZW50Q3RybC5jb21tZW50RHJhZnQuJCRhdHRhY2htZW50cyIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb24tcmV0cnk9IiRpc3N1ZUZlZWRDb21tZW50Q3RybC51cGxvYWRBdHRhY2htZW50cyhbJGF0dGFjaG1lbnRdKSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb24tcmVtb3ZlPSIkaXNzdWVGZWVkQ29tbWVudEN0cmwucmVtb3ZlQXR0YWNobWVudCgkYXR0YWNobWVudCkiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRpc2FibGVkPSIkaXNzdWVGZWVkQ29tbWVudEN0cmwuZGlzYWJsZWQiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5nLWlmPSIkaXNzdWVGZWVkQ29tbWVudEN0cmwuaGFzQXR0YWNoZW1udHMoKSI+CiAgICAgIDwveXQtY29tbWVudC1hdHRhY2htZW50cz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBidWlsdF92YWx1ZTogXjUuMi4xCg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBidWlsZF9ydW5uZXI6IF4wLjcuOQogIGJ1aWx0X3ZhbHVlX2dlbmVyYXRvcjogXjUuMi4xCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codXBsb2FkZWRBdHRhY2htZW50cyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGN0cmwub25VcGRhdGVEcmFmdCh7CiAgICAgICAgICAgICAgYXR0YWNobWVudHM6IHVwbG9hZGVkQXR0YWNobWVudHMuY29uY2F0KCRjdHJsLmNvbW1lbnQuYXR0YWNobWVudHMgfHwgW10KICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIC50aGVuKGZ1bmN0aW9uKHVwbG9hZGVkQXR0YWNobWVudHMpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAkJGF0dGFjaG1lbnRzOiAoJGN0cmwuY29tbWVudC4kJGF0dGFjaG1lbnRzIHx8IFtdKS5maWx0ZXIoZnVuY3Rpb24oYXR0YWNobWVudCkgewogICAgICAgICAgICAgICAgcmV0dXJuICFhdHRhY2htZW50cy5maW5kKGZ1bmN0aW9uKHVwbG9hZGVkQXR0YWNoKSB7CiAgICAgICAgICAgICAgICAgIHJldHVybiB1cGxvYWRlZEF0dGFjaCA9PT0gYXR0YWNobWVudDsKICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICBidWlsdF92YWx1ZTogXjUuMi4xCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBidWlsZF9ydW5uZXI6IF4wLjcuOQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
