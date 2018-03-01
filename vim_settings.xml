@@ -262,8 +262,8 @@
         <mark key="." line="1" column="30" />
         <mark key="^" line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/issue.js" timestamp="1519899201339">
-        <mark key="'" line="10" column="40" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/issue.js" timestamp="1519900799659">
+        <mark key="'" line="118" column="21" />
         <mark key="[" line="134" column="0" />
         <mark key="]" line="134" column="0" />
         <mark key="." line="134" column="0" />
@@ -3770,9 +3770,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="50" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
-      <jump line="75" column="40" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webapp/src/test/kotlin/jetbrains/youtrack/rest/user/UserProfilesTest.kt" />
-      <jump line="30" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webapp/src/test/kotlin/jetbrains/youtrack/rest/user/UserProfilesTest.kt" />
       <jump line="27" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webapp/src/test/kotlin/jetbrains/youtrack/rest/user/UserProfilesTest.kt" />
       <jump line="34" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webapp/src/test/kotlin/jetbrains/youtrack/rest/user/UserProfilesTest.kt" />
       <jump line="74" column="83" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webapp/src/test/kotlin/jetbrains/youtrack/rest/user/UserProfilesTest.kt" />
@@ -3870,6 +3867,9 @@
       <jump line="36" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/service/issues-search-result-model.js" />
       <jump line="70" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/service/issues-search-result-model.js" />
       <jump line="73" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/service/issues-search-result-model.js" />
+      <jump line="134" column="61" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/issue.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/issue.js" />
+      <jump line="118" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/issue.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3882,7 +3882,7 @@
         <text>searchContext</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjdXJyZW50SXNzdWVJZFw+</text>
+        <text>project</text>
       </register>
       <register name="0" type="4">
         <text>issueId</text>
@@ -3922,17 +3922,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjdXJyZW50SXNzdWVJZFw+</last-search>
+      <last-search>project</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjdXJyZW50SXNzdWVJZFw+</last-pattern>
+      <last-pattern>project</last-pattern>
       <last-replace encoding="base64">PG9wdGlvbiB2YWx1ZT0iXDEiPlwxPFwvb3B0aW9uPg==</last-replace>
       <last-substitute>\([А-я-]\+\)$</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxodWJBdXRoU2hvdWxkVXNlRGVmaW5lZEluWW91VHJhY2tDb25maWdVcmxIYWNrXD4=</entry>
         <entry encoding="base64">XDxoY1VzZXJBZ3JlZW1lbnRQcm92aWRlclw+</entry>
         <entry encoding="base64">XDxodWJDb25maWdcPg==</entry>
         <entry>uiTheme</entry>
@@ -3952,6 +3951,7 @@
         <entry encoding="base64">XDxsb2FkU2VhcmNoTW9kZWxcPg==</entry>
         <entry encoding="base64">XDxzZWFyY2hQYWdlT2JqZWN0XD4=</entry>
         <entry encoding="base64">XDxjdXJyZW50SXNzdWVJZFw+</entry>
+        <entry>project</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvJywkLyI+PC9vcHRpb24+L2dj</entry>
