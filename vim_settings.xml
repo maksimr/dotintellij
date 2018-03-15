@@ -894,12 +894,12 @@
         <mark key="." line="10" column="83" />
         <mark key="^" line="10" column="83" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/page-loader/directive/yt-page-loader.js" timestamp="1521109309720">
-        <mark key="'" line="52" column="0" />
-        <mark key="[" line="59" column="48" />
-        <mark key="]" line="60" column="27" />
-        <mark key="." line="60" column="27" />
-        <mark key="^" line="60" column="27" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/page-loader/directive/yt-page-loader.js" timestamp="1521114179076">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="13" column="58" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-hub/components/hub-backend/hub-backend.js" timestamp="1519822685899">
         <mark key="'" line="28" column="20" />
@@ -3725,7 +3725,6 @@
       <jump line="30" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/page-loader/style/yt-page-loader.scss" />
       <jump line="17" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/page-loader/directive/yt-page-loader.js" />
       <jump line="27" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/page-loader/directive/yt-page-loader.js" />
-      <jump line="28" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/page-loader/directive/yt-page-loader.js" />
       <jump line="54" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/page-loader/test/directive/yt-page-loader.js" />
       <jump line="52" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/page-loader/test/directive/yt-page-loader.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/page-loader/test/directive/yt-page-loader.js" />
@@ -3754,22 +3753,23 @@
       <jump line="54" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/page-loader/directive/yt-page-loader.js" />
       <jump line="46" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/page-loader/directive/yt-page-loader.js" />
       <jump line="52" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/page-loader/directive/yt-page-loader.js" />
+      <jump line="28" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/page-loader/directive/yt-page-loader.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>500</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>500</text>
+        <text>function(isVisible) { }</text>
       </register>
       <register name="/" type="4">
         <text>$ctrl</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5pbWF0ZU5vZGUoZnJhbWVEdXJhdGlvbik7Cg==</text>
+      <register name="0" type="4">
+        <text>changes.visible.currentValue</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -3777,31 +3777,31 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICRjdHJsLmlzVmlzaWJsZSA9IGNoYW5nZXMudmlzaWJsZS5jdXJyZW50VmFsdWU7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJGN0cmwuaXNWaXNpYmxlID0gaXNWaXNpYmxlOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
         <text>function() {
                 
               }</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25GaW5pc2ggJiYgb25GaW5pc2goKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5pbWF0ZU5vZGUoZnJhbWVEdXJhdGlvbik7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFuaW1hdGVOb2RlKGZyYW1lRHVyYXRpb24pOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhbmltYXRlTm9kZShmcmFtZUR1cmF0aW9uKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
