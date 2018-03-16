@@ -2727,8 +2727,8 @@
         <mark key="." line="6" column="31" />
         <mark key="^" line="6" column="31" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/directive/yt-mention.js" timestamp="1521193938244">
-        <mark key="'" line="218" column="51" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/directive/yt-mention.js" timestamp="1521194042055">
+        <mark key="'" line="291" column="40" />
         <mark key="[" line="224" column="0" />
         <mark key="]" line="224" column="0" />
         <mark key="." line="224" column="0" />
@@ -3690,10 +3690,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/page-loader/directive/yt-page-loader.js" />
-      <jump line="49" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/page-loader/directive/yt-page-loader.js" />
-      <jump line="10" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/page-loader/directive/yt-page-loader.js" />
-      <jump line="59" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/page-loader/directive/yt-page-loader.js" />
       <jump line="14" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/page-loader/directive/yt-page-loader.js" />
       <jump line="37" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/page-loader/directive/yt-page-loader.js" />
       <jump line="32" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/page-loader/directive/yt-page-loader.js" />
@@ -3764,7 +3760,6 @@
       <jump line="11" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/externals/vcs-changes/yt-vcs-changes-tab.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-comments.html" />
       <jump line="287" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/directive/yt-mention.js" />
-      <jump line="25" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/directive/yt-mention.js" />
       <jump line="292" column="40" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/directive/yt-mention.js" />
       <jump line="265" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/directive/yt-mention.js" />
       <jump line="299" column="27" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/directive/yt-mention.js" />
@@ -3790,6 +3785,11 @@
       <jump line="267" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/directive/yt-mention.js" />
       <jump line="268" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/directive/yt-mention.js" />
       <jump line="218" column="51" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/directive/yt-mention.js" />
+      <jump line="63" column="38" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/directive/yt-mention.js" />
+      <jump line="27" column="48" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/directive/yt-mention.js" />
+      <jump line="436" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/directive/yt-mention.js" />
+      <jump line="25" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/directive/yt-mention.js" />
+      <jump line="291" column="40" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/directive/yt-mention.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -3802,7 +3802,7 @@
         <text>caretPosition</text>
       </register>
       <register name="/" type="4">
-        <text>query</text>
+        <text encoding="base64">XDxjb21wbGV0aW9uUXVlcnlMZW5ndGhcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdmFyIHByZVRleHQgPSB0ZXh0YXJlYS52YWx1ZS5zdWJzdHJpbmcoMCwgY2FyZXRQb3NpdGlvbiAtIHF1ZXJ5TGVuZ3RoKTsKICAgICAgICAgICAgdmFyIGFmdGVyVGV4dCA9IHRleHRhcmVhLnZhbHVlLnN1YnN0cihjYXJldFBvc2l0aW9uKTsK</text>
@@ -3842,12 +3842,12 @@
       </register>
     </registers>
     <search>
-      <last-search>query</last-search>
+      <last-search encoding="base64">XDxjb21wbGV0aW9uUXVlcnlMZW5ndGhcPg==</last-search>
       <last-offset />
-      <last-pattern>query</last-pattern>
+      <last-pattern encoding="base64">XDxjb21wbGV0aW9uUXVlcnlMZW5ndGhcPg==</last-pattern>
       <last-replace encoding="base64">PG9wdGlvbiB2YWx1ZT0iXDEiPlwxPFwvb3B0aW9uPg==</last-replace>
       <last-substitute>\([А-я-]\+\)$</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -3865,13 +3865,13 @@
         <entry>app</entry>
         <entry>scss</entry>
         <entry>vcs</entry>
-        <entry encoding="base64">XDxjb21wbGV0aW9uUXVlcnlMZW5ndGhcPg==</entry>
         <entry encoding="base64">XDxnZXRVc2VyTmFtZVw+</entry>
         <entry>add</entry>
         <entry>enter</entry>
         <entry>userName</entry>
         <entry>console</entry>
         <entry>query</entry>
+        <entry encoding="base64">XDxjb21wbGV0aW9uUXVlcnlMZW5ndGhcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvJywkLyI+PC9vcHRpb24+L2dj</entry>
