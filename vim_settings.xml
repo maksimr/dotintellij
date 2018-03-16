@@ -2496,10 +2496,10 @@
         <mark key="." line="14" column="47" />
         <mark key="^" line="14" column="47" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/icon/icon.scss" timestamp="1521210206488">
-        <mark key="'" line="7" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/icon/icon.scss" timestamp="1521211275067">
+        <mark key="'" line="61" column="4" />
         <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
+        <mark key="]" line="52" column="24" />
         <mark key="." line="51" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/i18n/service/i18n-translate.js" timestamp="1516797381369">
@@ -3707,9 +3707,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/externals/header/header.js" />
-      <jump line="89" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/externals/header/header.js" />
-      <jump line="110" column="38" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/externals/header/header.js" />
       <jump line="112" column="78" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/externals/header/header.js" />
       <jump line="22" column="59" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/externals/header/header.js" />
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/externals/header/header.js" />
@@ -3801,16 +3798,19 @@
       <jump line="11" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/icon.js" />
       <jump line="45" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/icon/icon.scss" />
       <jump line="39" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/icon/icon.scss" />
+      <jump line="35" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/icon/icon.scss" />
+      <jump line="7" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/icon/icon.scss" />
+      <jump line="44" column="1" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/icon/icon.scss" />
+      <jump line="40" column="1" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/icon/icon.scss" />
+      <jump line="37" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/icon/icon.scss" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/icon/icon.scss" />
       <jump line="52" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/icon/icon.scss" />
       <jump line="56" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/icon/icon.scss" />
       <jump line="61" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/icon/icon.scss" />
-      <jump line="35" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/icon/icon.scss" />
-      <jump line="7" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/icon/icon.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAwJSB7CiAgICB0cmFuc2Zvcm06IHNjYWxlKDEpOwo=</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -3822,7 +3822,7 @@
         <text>trans</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRyYW5zZm9ybTogc2NhbGUoMSk7Cg==</text>
+        <text encoding="base64">ICAwJSB7CiAgICB0cmFuc2Zvcm06IHNjYWxlKDEpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -3869,7 +3869,6 @@
     </search>
     <history>
       <history-search>
-        <entry>userName</entry>
         <entry encoding="base64">XDxvblNlbGVjdFw+</entry>
         <entry encoding="base64">XDx1c2VyTmFtZVw+</entry>
         <entry>onSuggest</entry>
@@ -3888,6 +3887,7 @@
         <entry>loading</entry>
         <entry encoding="base64">XDxsb2FkaW5nXD4=</entry>
         <entry>transform</entry>
+        <entry encoding="base64">XDxyaW5nXD4=</entry>
         <entry>trans</entry>
       </history-search>
       <history-cmd>
