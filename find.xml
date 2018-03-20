@@ -9,7 +9,7 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js,*.scss" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -28,11 +28,11 @@
     <mask>*.html,</mask>
     <mask>*.html,*.scss</mask>
     <mask>*.html,*.scss,*.js</mask>
-    <mask>*.scss</mask>
     <mask>*.scss,*.html, *.js</mask>
     <mask>*.dart</mask>
-    <mask>*.js</mask>
     <mask>*.js,*.html</mask>
     <mask>*.js,*.scss</mask>
+    <mask>*.scss</mask>
+    <mask>*.js</mask>
   </component>
 </application>
