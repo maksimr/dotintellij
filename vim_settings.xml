@@ -2525,10 +2525,10 @@
         <mark key="." line="38" column="32" />
         <mark key="^" line="38" column="32" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" timestamp="1521531676099">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="317" column="8" />
-        <mark key="]" line="317" column="57" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" timestamp="1521533303963">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="317" column="0" />
+        <mark key="]" line="318" column="70" />
       </file>
       <file name="$USER_HOME$/www/js/karma-electron-launcher/test/e2e/require/index.spec.js" timestamp="1492637470867">
         <mark key="'" line="7" column="36" />
@@ -3774,8 +3774,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/www/dart/bar/lib/Provider.dart" />
-      <jump line="54" column="0" filename="$USER_HOME$/www/dart/bar/lib/Provider.dart" />
       <jump line="10" column="9" filename="$USER_HOME$/www/dart/bar/lib/App.dart" />
       <jump line="21" column="0" filename="$USER_HOME$/www/dart/bar/lib/App.dart" />
       <jump line="61" column="2" filename="$USER_HOME$/www/dart/bar/lib/App.dart" />
@@ -3874,10 +3872,12 @@
       <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
       <jump line="314" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
+      <jump line="315" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>https://github.com/angular/angular.js/issues/14002</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gQHNlZSBodHRwczovL2dpdGh1Yi5jb20vYW5ndWxhci9hbmd1bGFyLmpzL2lzc3Vlcy8xNDAwMgovLyBUT0RPOiBSZW1vdmUgaGFjayBhbmQgdW5kZXJzdGFuZCB3aHkgd2UgaW5qZWN0aW5nIHJvdXRlIGZpeCBwcm9ibGVtCg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -3889,7 +3889,7 @@
         <text>$browser</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy90aW1lb3V0IGlzIHJlcXVpcmVkIHRvIGdldCBwcm9wZXIgY2FyZXQgcG9zaXRpb24gYWZ0ZXIgdHlwaW5nIGluc2lkZSB0aGUgdGV4dGFyZWEKICAgICAgICAgICAgJHRpbWVvdXQuY2FuY2VsKHN1Z2dlc3RUaW1lb3V0KTsK</text>
+        <text encoding="base64">Ly8gQHNlZSBodHRwczovL2dpdGh1Yi5jb20vYW5ndWxhci9hbmd1bGFyLmpzL2lzc3Vlcy8xNDAwMgovLyBUT0RPOiBSZW1vdmUgaGFjayBhbmQgdW5kZXJzdGFuZCB3aHkgd2UgaW5qZWN0aW5nIHJvdXRlIGZpeCBwcm9ibGVtCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIC8vIENvbHVtbiBpcyBhbHNvIGxheW91dCB3aWRnZXQuIEl0IHRha2VzIGEgbGlzdCBvZiBjaGlsZHJlbiBhbmQKICAgICAgICAgIC8vIGFycmFuZ2VzIHRoZW0gdmVydGljYWxseS4gQnkgZGVmYXVsdCwgaXQgc2l6ZXMgaXRzZWxmIHRvIGZpdCBpdHMKICAgICAgICAgIC8vIGNoaWxkcmVuIGhvcml6b250YWxseSwgYW5kIHRyaWVzIHRvIGJlIGFzIHRhbGwgYXMgaXRzIHBhcmVudC4KICAgICAgICAgIC8vCiAgICAgICAgICAvLyBJbnZva2UgImRlYnVnIHBhaW50IiAocHJlc3MgInAiIGluIHRoZSBjb25zb2xlIHdoZXJlIHlvdSByYW4KICAgICAgICAgIC8vICJmbHV0dGVyIHJ1biIsIG9yIHNlbGVjdCAiVG9nZ2xlIERlYnVnIFBhaW50IiBmcm9tIHRoZSBGbHV0dGVyIHRvb2wKICAgICAgICAgIC8vIHdpbmRvdyBpbiBJbnRlbGxpSikgdG8gc2VlIHRoZSB3aXJlZnJhbWUgZm9yIGVhY2ggd2lkZ2V0LgogICAgICAgICAgLy8KICAgICAgICAgIC8vIENvbHVtbiBoYXMgdmFyaW91cyBwcm9wZXJ0aWVzIHRvIGNvbnRyb2wgaG93IGl0IHNpemVzIGl0c2VsZiBhbmQKICAgICAgICAgIC8vIGhvdyBpdCBwb3NpdGlvbnMgaXRzIGNoaWxkcmVuLiBIZXJlIHdlIHVzZSBtYWluQXhpc0FsaWdubWVudCB0bwogICAgICAgICAgLy8gY2VudGVyIHRoZSBjaGlsZHJlbiB2ZXJ0aWNhbGx5OyB0aGUgbWFpbiBheGlzIGhlcmUgaXMgdGhlIHZlcnRpY2FsCiAgICAgICAgICAvLyBheGlzIGJlY2F1c2UgQ29sdW1ucyBhcmUgdmVydGljYWwgKHRoZSBjcm9zcyBheGlzIHdvdWxkIGJlCiAgICAgICAgICAvLyBob3Jpem9udGFsKS4K</text>
