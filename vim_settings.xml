@@ -889,10 +889,10 @@
         <mark key="^" line="228" column="43" />
         <mark key="." line="228" column="43" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" timestamp="1521030263996">
-        <mark key="'" line="249" column="50" />
-        <mark key="[" line="248" column="58" />
-        <mark key="]" line="248" column="61" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" timestamp="1521707361208">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="248" column="0" />
+        <mark key="]" line="249" column="51" />
         <mark key="^" line="256" column="23" />
         <mark key="." line="256" column="23" />
       </file>
@@ -3799,8 +3799,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="203" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/service/create-header.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/header/smart-services.js" />
       <jump line="4" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/header/smart-services.js" />
       <jump line="75" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/auth.js" />
       <jump line="0" column="53" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/auth.js" />
@@ -3899,10 +3897,12 @@
       <jump line="154" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-picker.js" />
       <jump line="100" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-picker.js" />
       <jump line="160" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-picker.js" />
+      <jump line="278" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>widget</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">SWYgeW91IGFkZCBuZXcgZmlsZXMgeW91IHNob3VsZCB1c2UgYGdpdCBhZGQgPENIQU5HRVM+ICYmIGdpdCBkaWZmIC0tc3RhZ2VkID4gcGF0Y2gvcmluZy11aUA8VkVSU0lPTj4ucGF0Y2ggJiYgZ2l0IHJlc2V0IDxDSEFOR0VTPmAKKiBBZGQgcGF0Y2ggYGdpdCBhZGQgcGF0Y2gvcmluZy11aUA8VkVSU0lPTj4ucGF0Y2hgCg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -3911,10 +3911,10 @@
         <text>widget</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhdHRhY2hQb3B1cFw+</text>
+        <text>patch</text>
       </register>
-      <register name="0" type="4">
-        <text>new Text(&quot;$counter&quot;)</text>
+      <register name="0" type="2">
+        <text encoding="base64">SWYgeW91IGFkZCBuZXcgZmlsZXMgeW91IHNob3VsZCB1c2UgYGdpdCBhZGQgPENIQU5HRVM+ICYmIGdpdCBkaWZmIC0tc3RhZ2VkID4gcGF0Y2gvcmluZy11aUA8VkVSU0lPTj4ucGF0Y2ggJiYgZ2l0IHJlc2V0IDxDSEFOR0VTPmAKKiBBZGQgcGF0Y2ggYGdpdCBhZGQgcGF0Y2gvcmluZy11aUA8VkVSU0lPTj4ucGF0Y2hgCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHJldHVybiBuZXcgUGFkZGluZyhwYWRkaW5nOiBudWxsKQo=</text>
@@ -3951,17 +3951,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhdHRhY2hQb3B1cFw+</last-search>
+      <last-search>patch</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhdHRhY2hQb3B1cFw+</last-pattern>
+      <last-pattern>patch</last-pattern>
       <last-replace encoding="base64">PG9wdGlvbiB2YWx1ZT0iXDEiPlwxPFwvb3B0aW9uPg==</last-replace>
       <last-substitute>\([А-я-]\+\)$</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>update</entry>
         <entry>console.log</entry>
         <entry>valueOf</entry>
         <entry>date</entry>
@@ -3981,6 +3980,7 @@
         <entry>destory</entry>
         <entry>$destroy</entry>
         <entry encoding="base64">XDxhdHRhY2hQb3B1cFw+</entry>
+        <entry>patch</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvJywkLyI+PFwvb3B0aW9uPi9nYw==</entry>
