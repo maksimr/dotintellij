@@ -2305,6 +2305,13 @@
         <mark key="." line="10" column="43" />
         <mark key="^" line="10" column="43" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/activities/service/group-activities.js" timestamp="1521798239946">
+        <mark key="'" line="57" column="43" />
+        <mark key="[" line="2" column="31" />
+        <mark key="]" line="2" column="38" />
+        <mark key="." line="2" column="38" />
+        <mark key="^" line="2" column="38" />
+      </file>
       <file name="$USER_HOME$/www/js/react-chat-app/src/Login.js" timestamp="1493065511969">
         <mark key="'" line="12" column="16" />
         <mark key="[" line="93" column="13" />
@@ -3996,9 +4003,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="40" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/agile-board.js" />
-      <jump line="258" column="53" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-backlog-issue.js" />
-      <jump line="40" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-backlog-issue.js" />
       <jump line="4" column="59" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-backlog-issue.js" />
       <jump line="215" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-backlog-issue.js" />
       <jump line="214" column="47" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/directive/yt-backlog-issue.js" />
@@ -4096,19 +4100,22 @@
       <jump line="87" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/production.config.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
       <jump line="6" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
+      <jump line="6" column="41" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/activities/service/group-activities.js" />
+      <jump line="2" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/activities/service/group-activities.js" />
+      <jump line="57" column="43" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/activities/service/group-activities.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_http.get</text>
+        <text>60000</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>_http.get</text>
+        <text>60000</text>
       </register>
       <register name="/" type="4">
-        <text>ring</text>
+        <text>idleTime</text>
       </register>
       <register name="0" type="4">
         <text>_loadPermissions</text>
@@ -4148,9 +4155,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ring</last-search>
+      <last-search>idleTime</last-search>
       <last-offset />
-      <last-pattern>ring</last-pattern>
+      <last-pattern>idleTime</last-pattern>
       <last-replace encoding="base64">PG9wdGlvbiB2YWx1ZT0iXDEiPlwxPFwvb3B0aW9uPg==</last-replace>
       <last-substitute>\([А-я-]\+\)$</last-substitute>
       <last-dir>1</last-dir>
@@ -4158,7 +4165,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRSZ1NlbGVjdENvbmZpZ1w+</entry>
         <entry>avatarUrl</entry>
         <entry>permis</entry>
         <entry>user</entry>
@@ -4178,6 +4184,7 @@
         <entry>sand</entry>
         <entry>_get</entry>
         <entry>ring</entry>
+        <entry>idleTime</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvJywkLyI+PFwvb3B0aW9uPi9nYw==</entry>
