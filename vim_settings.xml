@@ -1591,6 +1591,9 @@
         <mark key="^" line="18" column="26" />
         <mark key="." line="26" column="37" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/activities-create-model.js" timestamp="1522074543838">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/test-documentation.js" timestamp="1492511983162">
         <mark key="'" line="33" column="3" />
         <mark key="[" line="46" column="61" />
@@ -4003,9 +4006,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="696" column="35" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/basic.dart" />
-      <jump line="707" column="16" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/basic.dart" />
-      <jump line="717" column="60" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/basic.dart" />
       <jump line="732" column="54" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/basic.dart" />
       <jump line="734" column="35" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/basic.dart" />
       <jump line="739" column="19" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/basic.dart" />
@@ -4103,6 +4103,9 @@
       <jump line="625" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
       <jump line="626" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
       <jump line="644" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
+      <jump line="25" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/activities-create-model.js" />
+      <jump line="191" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/activities-create-model.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/activities-create-model.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -4115,7 +4118,7 @@
         <text>0.4.39</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cGRhdGVOb3RpZmljYXRpb25zXD4=</text>
+        <text>permiss</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB2YXIgYWN0aXZpdHlDYXRlZ29yeUlkID0gYWN0aXZpdHkuY2F0ZWdvcnkgJiYgYWN0aXZpdHkuY2F0ZWdvcnkuaWQ7CiAgICAgICAgaWYgKAogICAgICAgICAgYWN0aXZpdHlDYXRlZ29yeUlkICYmCiAgICAgICAgICAhaXNFbmFibGVkVGVtcGxhdGUoQWN0aXZpdHkuY2F0ZWdvcnlLZXlCeUNhdGVnb3J5SWRbYWN0aXZpdHlDYXRlZ29yeUlkXSkgJiYKICAgICAgICAgICgKICAgICAgICAgICAgYWN0aXZpdHlTdHJlYW1Qcm9jZXNzb3IuaXNBY3Rpdml0eS5hZGRlZChhY3Rpdml0eS50eXBlKSB8fAogICAgICAgICAgICBpc1JlbGF0ZXNUbyhBY3Rpdml0eS5DYXRlZ29yeS5ISVNUT1JZLCBhY3Rpdml0eSkKICAgICAgICAgICkKICAgICAgICApIHsKICAgICAgICAgIHVwZGF0ZU5vdGlmaWNhdGlvbnMoYWN0aXZpdHkpOwogICAgICAgIH0K</text>
@@ -4155,17 +4158,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cGRhdGVOb3RpZmljYXRpb25zXD4=</last-search>
+      <last-search>permiss</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cGRhdGVOb3RpZmljYXRpb25zXD4=</last-pattern>
+      <last-pattern>permiss</last-pattern>
       <last-replace encoding="base64">PG9wdGlvbiB2YWx1ZT0iXDEiPlwxPFwvb3B0aW9uPg==</last-replace>
       <last-substitute>\([А-я-]\+\)$</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoYXNUZXJtaW5hdGVkXD4=</entry>
         <entry encoding="base64">XDxjb250YWluc1Rlcm1pbmF0ZWRBY3Rpdml0eVw+</entry>
         <entry encoding="base64">XDxpc1JlbGF0ZXNUb0FuZENhblNob3dcPg==</entry>
         <entry encoding="base64">XDxpc1JlbGF0ZXNUb1w+</entry>
@@ -4185,6 +4187,7 @@
         <entry>react</entry>
         <entry>update</entry>
         <entry encoding="base64">XDx1cGRhdGVOb3RpZmljYXRpb25zXD4=</entry>
+        <entry>permiss</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvJywkLyI+PFwvb3B0aW9uPi9nYw==</entry>
