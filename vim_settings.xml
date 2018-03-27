@@ -38,6 +38,12 @@
         <mark key="^" line="51" column="48" />
         <mark key="." line="51" column="48" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issue-stream-notifications.js" timestamp="1522145122362">
+        <mark key="[" line="3" column="5" />
+        <mark key="]" line="3" column="5" />
+        <mark key="." line="3" column="5" />
+        <mark key="^" line="3" column="5" />
+      </file>
       <file name="$USER_HOME$/www/js/Lisa/src/reducers/index.js" timestamp="1494841072127">
         <mark key="'" line="128" column="0" />
         <mark key="[" line="124" column="63" />
@@ -1349,6 +1355,11 @@
         <mark key="^" line="2" column="22" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issue-stream-filters.js" timestamp="1522145101904">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="69" column="5" />
+      </file>
       <file name="$USER_HOME$/www/js/chessjs/lib/Game.js" timestamp="1515151280389">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="6" column="16" />
@@ -1379,6 +1390,11 @@
         <mark key="]" line="44" column="24" />
         <mark key="." line="44" column="24" />
         <mark key="^" line="44" column="24" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/issue-resolver.js" timestamp="1522145219466">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="14" column="4" />
       </file>
       <file name="$USER_HOME$/www/js/Lisa/src/components/Version.js" timestamp="1492453426980">
         <mark key="'" line="6" column="0" />
@@ -2792,9 +2808,9 @@
         <mark key="." line="6" column="19" />
         <mark key="^" line="6" column="12" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" timestamp="1522078235874">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" timestamp="1522145051156">
         <mark key="a" line="424" column="0" />
-        <mark key="'" line="862" column="21" />
+        <mark key="'" line="59" column="0" />
       </file>
       <file name="$USER_HOME$/www/js/Lisa/src/components/UserAvatar.js" timestamp="1494519844371">
         <mark key="'" line="13" column="0" />
@@ -2809,6 +2825,13 @@
         <mark key="]" line="306" column="3" />
         <mark key="^" line="306" column="3" />
         <mark key="." line="306" column="3" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/issue-stream-notifications.js" timestamp="1522145278014">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="30" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/form/test/directive/yt-radio.js" timestamp="1496162433563">
         <mark key="'" line="20" column="0" />
@@ -4003,15 +4026,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="933" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
-      <jump line="77" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/activities/service/group-activities.js" />
-      <jump line="97" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/activities/service/group-activities.js" />
-      <jump line="76" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/activities/service/group-activities.js" />
-      <jump line="931" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
-      <jump line="648" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
-      <jump line="958" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
-      <jump line="45" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
-      <jump line="646" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
       <jump line="969" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
       <jump line="744" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
       <jump line="739" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
@@ -4103,52 +4117,64 @@
       <jump line="915" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
       <jump line="888" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
       <jump line="882" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
+      <jump line="669" column="71" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
+      <jump line="59" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
+      <jump line="16" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issue-stream-filters.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issue-stream-filters.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/issue-stream-notifications.js" />
+      <jump line="14" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/issue-resolver.js" />
+      <jump line="43" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/issue-resolver.js" />
+      <jump line="3" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/issue-stream-notifications.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/issue-stream-notifications.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHN0cmVhbUN0cmwuZ3JvdXBlZEFjdGl2aXRpZXMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>isNaturalCommentsOrder</text>
+        <text>function</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpc05hdHVyYWxDb21tZW50c09yZGVyXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>streamCtrl.groupedActivities.length - 1</text>
+      <register name="0" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHN0cmVhbUN0cmwuZ3JvdXBlZEFjdGl2aXRpZXMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHN0cmVhbUN0cmwuaXNOYXR1cmFsQ29tbWVudHNPcmRlcik7Cg==</text>
+        <text encoding="base64">ICAgIGZ1bmN0aW9uKCRwcm92aWRlKSB7CiAgICAgICRwcm92aWRlLnZhbHVlKCckcm91dGUnLCB7CiAgICAgICAgY3VycmVudDogewogICAgICAgICAgcGFyYW1zOiBwYXJhbXMKICAgICAgICB9CiAgICAgIH0pOwogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdBJywgbGFzdEdyb3VwKTsKICAgICAgICAgIGNvbnNvbGUubG9nKCdCJywgZXZlbnRzKHByb2Nlc3NlZEFjdGl2aXRpZXNbMF0pIDwgZXZlbnRzQmVmb3JlKTsKICAgICAgICAgIGNvbnNvbGUubG9nKCdDJywgbmV3Q2hhbmdlc1tjYXRlZ29yeUtleV0ubGVuZ3RoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdBJywgcHJvY2Vzc2VkQWN0aXZpdGllcyk7CiAgICAgICAgICBjb25zb2xlLmxvZygnQicsIGV2ZW50cyhwcm9jZXNzZWRBY3Rpdml0aWVzWzBdKSA8IGV2ZW50c0JlZm9yZSk7CiAgICAgICAgICBjb25zb2xlLmxvZygnQycsIG5ld0NoYW5nZXNbY2F0ZWdvcnlLZXldLmxlbmd0aCk7Cg==</text>
+        <text encoding="base64">YW5ndWxhci5tb2R1bGUoJ3lvdXRyYWNrLmNvbXBvbmVudHMuaXNzdWUnKQogIC5mYWN0b3J5KCdpc3N1ZVN0cmVhbU5vdGlmaWNhdGlvbnMnLCBmdW5jdGlvbigpIHsKICAgIHJldHVybiBmdW5jdGlvbigpIHsKICAgIH07CiAgfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdDaGFuZ2VzW2NhdGVnb3J5S2V5XSA9IG5ld0NoYW5nZXNbY2F0ZWdvcnlLZXldIHx8IFtdOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgY2F0ZWdvcnlLZXkgPSBBY3Rpdml0eS5jYXRlZ29yeUtleUJ5Q2F0ZWdvcnlJZFtjYXRlZ29yeUlkXTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIHZhciBzdHJlYW1RdWVyeUZpbHRlcmluZ1R5cGVzID0ge307CiAgICBmb3IgKHZhciBrZXkgaW4gaXNzdWVTdHJlYW1UeXBlc01hcCkgewogICAgICBpZiAoaXNzdWVTdHJlYW1UeXBlc01hcC5oYXNPd25Qcm9wZXJ0eShrZXkpKSB7CiAgICAgICAgdmFyIGl0ZW0gPSBpc3N1ZVN0cmVhbVR5cGVzTWFwW2tleV07CiAgICAgICAgc3RyZWFtUXVlcnlGaWx0ZXJpbmdUeXBlc1tpdGVtLiR0eXBlXSA9IGl0ZW0ua2V5OwogICAgICB9CiAgICB9CgogICAgZnVuY3Rpb24gc2F2ZVNlbGVjdGVkKGZlZWRJdGVtVHlwZSwgc2VsZWN0ZWQpIHsKICAgICAgaWYgKHNlbGVjdGVkKSB7CiAgICAgICAgeXRMb2NhbERCLnNldChmZWVkSXRlbVR5cGUuJHR5cGUsIHRydWUpOwogICAgICB9IGVsc2UgewogICAgICAgIHl0TG9jYWxEQi5ybShmZWVkSXRlbVR5cGUuJHR5cGUpOwogICAgICB9CiAgICB9CgogICAgZnVuY3Rpb24gZ2V0UXVlcnlQYXJhbWV0ZXIoZmVlZEl0ZW1UeXBlKSB7CiAgICAgIHJldHVybiBzdHJlYW1RdWVyeUZpbHRlcmluZ1R5cGVzW2ZlZWRJdGVtVHlwZS4kdHlwZV07CiAgICB9CgogICAgZnVuY3Rpb24gZ2V0U2VsZWN0ZWRUeXBlcygpIHsKICAgICAgdmFyIHNlbGVjdGVkSW5VcmwgPSBbXTsKICAgICAgdmFyIHNlbGVjdGVkQnlEZWZhdWx0ID0gW107CiAgICAgIC8vIGZpcnN0IHRyeSB0byBmZXQgdGhlbSBmcm9tIFVSTCB0aGVuIGZyb20gbG9jYWwgc3RvcmFnZQogICAgICB2YXIgdXJsUGFyYW1ldGVycyA9ICRsb2NhdGlvbi5zZWFyY2goKTsKICAgICAgdmFyIGZpbHRlclR5cGVzID0gT2JqZWN0LmtleXMoaXNzdWVTdHJlYW1UeXBlc01hcCk7CiAgICAgIGZpbHRlclR5cGVzLmZvckVhY2goZnVuY3Rpb24oa2V5KSB7CiAgICAgICAgdmFyIGZpbHRlclR5cGUgPSBpc3N1ZVN0cmVhbVR5cGVzTWFwW2tleV07CiAgICAgICAgaWYgKHVybFBhcmFtZXRlcnNbc3RyZWFtUXVlcnlGaWx0ZXJpbmdUeXBlc1tmaWx0ZXJUeXBlLiR0eXBlXV0pIHsKICAgICAgICAgIHNlbGVjdGVkSW5VcmwucHVzaChmaWx0ZXJUeXBlKTsKICAgICAgICB9CiAgICAgICAgaWYgKHl0TG9jYWxEQi5nZXQoZmlsdGVyVHlwZS4kdHlwZSkpIHsKICAgICAgICAgIHNlbGVjdGVkQnlEZWZhdWx0LnB1c2goZmlsdGVyVHlwZSk7CiAgICAgICAgfQogICAgICB9KTsKICAgICAgaWYgKHNlbGVjdGVkSW5VcmwubGVuZ3RoKSB7CiAgICAgICAgcmV0dXJuIHNlbGVjdGVkSW5Vcmw7CiAgICAgIH0KICAgICAgcmV0dXJuIHNlbGVjdGVkQnlEZWZhdWx0OwogICAgfQoKICAgIGZ1bmN0aW9uIGdldElzc3VlTGluayhpc3N1ZSwgc2VsZWN0ZWRUeXBlcykgewogICAgICB2YXIgcXVlcnlQYXJhbWV0ZXJzID0gc2VsZWN0ZWRUeXBlcy5tYXAoZnVuY3Rpb24oaXQpIHsKICAgICAgICByZXR1cm4gc3RyZWFtUXVlcnlGaWx0ZXJpbmdUeXBlc1tpdC4kdHlwZV07CiAgICAgIH0pOwogICAgICB2YXIgaXNzdWVVcmwgPSB5dFV0aWxzLmdldEJhc2VVcmkoKSArICd2Mi9pc3N1ZS8nICsgZ2V0UmVhZGFibGVJc3N1ZUlkRmlsdGVyKGlzc3VlKTsKICAgICAgdmFyIGZpcnN0ID0gdHJ1ZTsKICAgICAgcXVlcnlQYXJhbWV0ZXJzLmZvckVhY2goZnVuY3Rpb24ocGFyYW1ldGVyKSB7CiAgICAgICAgaWYgKGZpcnN0KSB7CiAgICAgICAgICBpc3N1ZVVybCA9IGlzc3VlVXJsICsgJz8nICsgcGFyYW1ldGVyOwogICAgICAgICAgZmlyc3QgPSBmYWxzZTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgaXNzdWVVcmwgPSBpc3N1ZVVybCArICcmJyArIHBhcmFtZXRlcjsKICAgICAgICB9CiAgICAgIH0pOwogICAgICByZXR1cm4gaXNzdWVVcmw7CiAgICB9CgogICAgcmV0dXJuIHsKICAgICAgc2F2ZVNlbGVjdGVkOiBzYXZlU2VsZWN0ZWQsCiAgICAgIGdldFF1ZXJ5UGFyYW1ldGVyOiBnZXRRdWVyeVBhcmFtZXRlciwKICAgICAgZ2V0U2VsZWN0ZWRUeXBlczogZ2V0U2VsZWN0ZWRUeXBlcywKICAgICAgZ2V0SXNzdWVMaW5rOiBnZXRJc3N1ZUxpbmsKICAgIH07</text>
+      </register>
+      <register name="8" type="4">
+        <text>$location,
+                                          ytLocalDB, ytUtils,
+                                          issueStreamTypesMap,
+                                          getReadableIssueIdFilter</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKHN0cmVhbUN0cmwuZ3JvdXBlZEFjdGl2aXRpZXMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
