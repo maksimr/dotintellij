@@ -38,11 +38,12 @@
         <mark key="^" line="51" column="48" />
         <mark key="." line="51" column="48" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issue-stream-notifications.js" timestamp="1522151794665">
-        <mark key="'" line="18" column="6" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issue-stream-notifications.js" timestamp="1522155572484">
+        <mark key="'" line="59" column="4" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="8" column="38" />
       </file>
       <file name="$USER_HOME$/www/js/Lisa/src/reducers/index.js" timestamp="1494841072127">
         <mark key="'" line="128" column="0" />
@@ -2816,13 +2817,13 @@
         <mark key="." line="6" column="19" />
         <mark key="^" line="6" column="12" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" timestamp="1522155352119">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" timestamp="1522157352241">
         <mark key="a" line="424" column="0" />
-        <mark key="'" line="670" column="52" />
-        <mark key="[" line="666" column="69" />
-        <mark key="]" line="667" column="17" />
-        <mark key="." line="667" column="17" />
-        <mark key="^" line="667" column="17" />
+        <mark key="'" line="640" column="15" />
+        <mark key="[" line="667" column="23" />
+        <mark key="]" line="667" column="29" />
+        <mark key="." line="667" column="29" />
+        <mark key="^" line="667" column="29" />
       </file>
       <file name="$USER_HOME$/www/js/Lisa/src/components/UserAvatar.js" timestamp="1494519844371">
         <mark key="'" line="13" column="0" />
@@ -4037,9 +4038,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="652" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
-      <jump line="23" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/issue-stream-notifications.js" />
-      <jump line="27" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/issue-stream-notifications.js" />
       <jump line="63" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/issue-stream-notifications.js" />
       <jump line="70" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/issue-stream-notifications.js" />
       <jump line="82" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/issue-stream-notifications.js" />
@@ -4103,7 +4101,6 @@
       <jump line="647" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
       <jump line="663" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
-      <jump line="640" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
       <jump line="543" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
       <jump line="49" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
       <jump line="879" column="38" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
@@ -4137,69 +4134,72 @@
       <jump line="641" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
       <jump line="60" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
       <jump line="669" column="52" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
+      <jump line="53" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issue-stream-notifications.js" />
+      <jump line="6" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issue-stream-notifications.js" />
+      <jump line="59" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issue-stream-notifications.js" />
+      <jump line="640" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ActivityCategories.</text>
+        <text>removing</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>ActivityCategories.</text>
+        <text>removing</text>
       </register>
       <register name="/" type="4">
-        <text>update</text>
+        <text encoding="base64">XDx1cGRhdGVOb3RpZmljYXRpb25zXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>Activity.Category.COMMENT</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoIW5vdGlmaWNhdGlvbnNbY2F0ZWdvcnlJZF0ubGVuZ3RoKSB7CiAgICAgICAgICB0aGlzLnJlbW92ZUFsbChjYXRlZ29yeUlkKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGRlYnUK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGFjdGl2aXR5KTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCc+Pj4+JywgYWN0aXZpdHkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgdmFyIG5ld0NoYW5nZXMgPSB7fTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RyZWFtQ3RybC5pc3N1ZU5vdGlmaWNhdGlvbnMuc2V0KEFjdGl2aXR5LkNhdGVnb3J5LkNPTU1FTlQsIGFjdGl2aXR5KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlzQWN0aXZpdHlDYXRlZ29yeS5jb21tZW50VGVtcG9yYXJpbHlEZWxldGVkKGFjdGl2aXR5KSkgewogICAgICAgICAgICAgIHN0cmVhbUN0cmwKICAgICAgICAgICAgICAgIC5pc3N1ZU5vdGlmaWNhdGlvbnMKICAgICAgICAgICAgICAgIC5yZW1vdmVCeVRhcmdldChBY3Rpdml0eS5jYXRlZ29yeUtleUJ5Q2F0ZWdvcnlJZFthY3Rpdml0eS5jYXRlZ29yeS5pZF0sIGFjdGl2aXR5LnRhcmdldC5pZCk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3RyZWFtQ3RybAogICAgICAgICAgICAgIC5pc3N1ZU5vdGlmaWNhdGlvbnMKICAgICAgICAgICAgICAucmVtb3ZlQnlUYXJnZXQoQWN0aXZpdHkuQ2F0ZWdvcnkuQ09NTUVOVCwgYWN0aXZpdHkudGFyZ2V0LmlkKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCc+Pj4+PicsIGFjdGl2aXR5KTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGFjdGl2aXR5KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJz4+Pj4+JywgYWN0aXZpdHkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXBkYXRlTm90aWZpY2F0aW9ucyhhY3Rpdml0eSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygnPj4+Pj4nKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIW5vdGlmaWNhdGlvbnNbY2F0ZWdvcnlJZF0pIHsKICAgICAgICAgIG5vdGlmaWNhdGlvbnNbY2F0ZWdvcnlJZF0gPSBbXTsKICAgICAgICB9CgogICAgICAgIG5vdGlmaWNhdGlvbnNbY2F0ZWdvcnlJZF0ucHVzaChhY3Rpdml0eSk7CiAgICAgICAgbm90aWZpY2F0aW9uc1tjYXRlZ29yeUlkXSA9IG1lcmdlQWN0aXZpdGllcyhub3RpZmljYXRpb25zW2NhdGVnb3J5SWRdKTsKCiAgICAgICAgaWYgKCFub3RpZmljYXRpb25zW2NhdGVnb3J5SWRdLmxlbmd0aCkgewogICAgICAgICAgdGhpcy5yZW1vdmVBbGwoY2F0ZWdvcnlJZCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4+JywgYWN0aXZpdHkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4+PicsIEFjdGl2aXR5LmNhdGVnb3J5S2V5QnlDYXRlZ29yeUlkKGFjdGl2aXR5LmNhdGVnb3J5LmlkKSwgdGFyZ2V0SWQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>update</last-search>
+      <last-search encoding="base64">XDx1cGRhdGVOb3RpZmljYXRpb25zXD4=</last-search>
       <last-offset />
-      <last-pattern>update</last-pattern>
+      <last-pattern encoding="base64">XDx1cGRhdGVOb3RpZmljYXRpb25zXD4=</last-pattern>
       <last-replace encoding="base64">PG9wdGlvbiB2YWx1ZT0iXDEiPlwxPFwvb3B0aW9uPg==</last-replace>
       <last-substitute>\([А-я-]\+\)$</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>HIS</entry>
         <entry encoding="base64">XDxDYXRlZ29yeVw+</entry>
         <entry encoding="base64">XDxndWlkXD4=</entry>
         <entry encoding="base64">XDxBY3Rpdml0eU1vY2tcPg==</entry>
@@ -4213,12 +4213,13 @@
         <entry>remove</entry>
         <entry encoding="base64">XDxvblJlbW92ZUFjdGl2aXR5XD4=</entry>
         <entry>updateNotifi</entry>
-        <entry encoding="base64">XDx1cGRhdGVOb3RpZmljYXRpb25zXD4=</entry>
         <entry>isTempora</entry>
         <entry>isTem</entry>
         <entry>Delete</entry>
         <entry>restore</entry>
         <entry>update</entry>
+        <entry>comment.deleted</entry>
+        <entry encoding="base64">XDx1cGRhdGVOb3RpZmljYXRpb25zXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvJywkLyI+PFwvb3B0aW9uPi9nYw==</entry>
