@@ -1991,6 +1991,9 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/permissions.js" timestamp="1521795790628">
         <mark key="'" line="14" column="16" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-body.js" timestamp="1522159622064">
+        <mark key="'" line="25" column="38" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/form/form.js" timestamp="1517825164921">
         <mark key="'" line="31" column="0" />
         <mark key="[" line="2" column="72" />
@@ -2721,9 +2724,9 @@
         <mark key="." line="6" column="19" />
         <mark key="^" line="6" column="12" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" timestamp="1522157352241">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" timestamp="1522159597359">
         <mark key="a" line="424" column="0" />
-        <mark key="'" line="640" column="15" />
+        <mark key="'" line="659" column="0" />
         <mark key="[" line="667" column="23" />
         <mark key="]" line="667" column="29" />
         <mark key="." line="667" column="29" />
@@ -3893,14 +3896,11 @@
         <mark key="." line="92" column="38" />
         <mark key="^" line="92" column="38" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-body.html" timestamp="1522159610152">
+        <mark key="'" line="22" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/issue-stream-notifications.js" />
-      <jump line="89" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/issue-stream-notifications.js" />
-      <jump line="25" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/issue-stream-notifications.js" />
-      <jump line="183" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/scripts/yt-script-editor.js" />
-      <jump line="100" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/issue-stream-notifications.js" />
-      <jump line="39" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/issue-stream-notifications.js" />
       <jump line="101" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/issue-stream-notifications.js" />
       <jump line="78" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/issue-stream-notifications.js" />
       <jump line="76" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/issue-stream-notifications.js" />
@@ -3995,6 +3995,12 @@
       <jump line="640" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
       <jump line="55" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issue-stream-notifications.js" />
       <jump line="117" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/issue-stream-notifications.js" />
+      <jump line="659" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-body.html" />
+      <jump line="108" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-body.html" />
+      <jump line="22" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-body.html" />
+      <jump line="12" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-body.js" />
+      <jump line="25" column="38" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-body.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -4007,7 +4013,7 @@
         <text encoding="base64">IGlzIHVua25vd24=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cGRhdGVOb3RpZmljYXRpb25zXD4=</text>
+        <text>Alert</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Cg==</text>
@@ -4047,17 +4053,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cGRhdGVOb3RpZmljYXRpb25zXD4=</last-search>
+      <last-search>Alert</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cGRhdGVOb3RpZmljYXRpb25zXD4=</last-pattern>
+      <last-pattern>Alert</last-pattern>
       <last-replace encoding="base64">PG9wdGlvbiB2YWx1ZT0iXDEiPlwxPFwvb3B0aW9uPg==</last-replace>
       <last-substitute>\([А-я-]\+\)$</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxDYXRlZ29yeVw+</entry>
         <entry encoding="base64">XDxndWlkXD4=</entry>
         <entry encoding="base64">XDxBY3Rpdml0eU1vY2tcPg==</entry>
         <entry encoding="base64">XDx2YWx1ZVw+</entry>
@@ -4077,6 +4082,7 @@
         <entry>update</entry>
         <entry>comment.deleted</entry>
         <entry encoding="base64">XDx1cGRhdGVOb3RpZmljYXRpb25zXD4=</entry>
+        <entry>Alert</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvJywkLyI+PFwvb3B0aW9uPi9nYw==</entry>
