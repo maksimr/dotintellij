@@ -389,6 +389,18 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-if")).withParent(xmlTag().withLocalName(string().equalTo("yt-issue-star")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-issue-stream-comment/@on-remove</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-remove")).withParent(xmlTag().withLocalName(string().equalTo("yt-issue-stream-comment")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-issue-stream-vcs/@on-remove</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-remove")).withParent(xmlTag().withLocalName(string().equalTo("yt-issue-stream-vcs")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-issue-stream-work-item/@on-remove</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-remove")).withParent(xmlTag().withLocalName(string().equalTo("yt-issue-stream-work-item")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>yt-issue-toolbar/@on-edit</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-edit")).withParent(xmlTag().withLocalName(string().equalTo("yt-issue-toolbar")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
@@ -483,6 +495,10 @@
     <injection language="AngularJS" injector-id="xml">
       <display-name>yt-wiki-text/@text</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("text")).withParent(xmlTag().withLocalName(string().equalTo("yt-wiki-text")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-work-item-form/@on-delete</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-delete")).withParent(xmlTag().withLocalName(string().equalTo("yt-work-item-form")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
       <display-name>yt-work-item-form/@on-save</display-name>
