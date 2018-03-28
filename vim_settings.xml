@@ -94,8 +94,8 @@
         <mark key="." line="1" column="65" />
         <mark key="^" line="1" column="65" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1522071691069">
-        <mark key="'" line="59" column="5" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1522244592405">
+        <mark key="'" line="13" column="42" />
         <mark key="[" line="26" column="27" />
         <mark key="]" line="26" column="32" />
         <mark key="." line="26" column="32" />
@@ -2739,9 +2739,9 @@
         <mark key="." line="6" column="19" />
         <mark key="^" line="6" column="12" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" timestamp="1522228092211">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" timestamp="1522244818962">
         <mark key="a" line="424" column="0" />
-        <mark key="'" line="18" column="25" />
+        <mark key="'" line="15" column="24" />
         <mark key="[" line="667" column="23" />
         <mark key="]" line="667" column="29" />
         <mark key="." line="667" column="29" />
@@ -3917,11 +3917,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="767" column="38" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
-      <jump line="764" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
-      <jump line="970" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
-      <jump line="35" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/activities/service/activity.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/activities/service/activity.js" />
       <jump line="785" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
       <jump line="641" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
       <jump line="60" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
@@ -4017,6 +4012,11 @@
       <jump line="12" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/README.md" />
       <jump line="6" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issue-resolver.js" />
       <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issue-resolver.js" />
+      <jump line="113" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="118" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="13" column="42" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="27" column="39" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
+      <jump line="15" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -4029,7 +4029,7 @@
         <text>issueResource</text>
       </register>
       <register name="/" type="4">
-        <text>fron</text>
+        <text>ring-ui</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YGBgCi4vZ3JhZGxldyBydW5KYXJPbjgwODggLURmcm9udGVuZD10cnVlCg==</text>
@@ -4069,9 +4069,9 @@
       </register>
     </registers>
     <search>
-      <last-search>fron</last-search>
+      <last-search>ring-ui</last-search>
       <last-offset />
-      <last-pattern>fron</last-pattern>
+      <last-pattern>ring-ui</last-pattern>
       <last-replace encoding="base64">PG9wdGlvbiB2YWx1ZT0iXDEiPlwxPFwvb3B0aW9uPg==</last-replace>
       <last-substitute>\([А-я-]\+\)$</last-substitute>
       <last-dir>1</last-dir>
@@ -4079,7 +4079,6 @@
     </search>
     <history>
       <history-search>
-        <entry>restore</entry>
         <entry>update</entry>
         <entry>comment.deleted</entry>
         <entry encoding="base64">XDx1cGRhdGVOb3RpZmljYXRpb25zXD4=</entry>
@@ -4099,6 +4098,7 @@
         <entry encoding="base64">XDxpc3N1ZVJlc29sdmVcPg==</entry>
         <entry>issueResolve</entry>
         <entry>fron</entry>
+        <entry>ring-ui</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JXMvJywkLyI+PFwvb3B0aW9uPi9nYw==</entry>
