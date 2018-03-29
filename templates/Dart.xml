@@ -1,5 +1,5 @@
 <templateSet group="Dart">
-  <template name="$pubspec" value="name: $PROJECT_NAME$&#10;environment:&#10;  sdk: '&gt;=2-0-0-dev &lt;2.0.0'&#10;dependencies:&#10;  built_collection: '&gt;=2.0.0 &lt;4.0.0'&#10;  built_value: ^5.3.0&#10;dev_dependencies:&#10;  build_runner: ^0.7.9&#10;  built_value_generator: ^5.3.0&#10;" toReformat="false" toShortenFQNames="true">
+  <template name="$pubspec" value="name: $PROJECT_NAME$&#10;environment:&#10;  sdk: '&gt;=2-0-0-dev &lt;2.0.0'&#10;dependencies:&#10;  built_collection: '&gt;=2.0.0 &lt;4.0.0'&#10;  built_value: ^5.3.0&#10;dev_dependencies:&#10;  build_runner: ^0.7.9&#10;  built_value_generator: ^5.3.0&#10;" description="" toReformat="false" toShortenFQNames="true">
     <variable name="PROJECT_NAME" expression="" defaultValue="example" alwaysStopAt="true" />
     <context>
       <option name="ASPECTJ" value="false" />

@@ -5,4 +5,9 @@
       <option name="DART" value="true" />
     </context>
   </template>
+  <template name="$ss" value="setState(() {$END$});" description="setState" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
 </templateSet>
