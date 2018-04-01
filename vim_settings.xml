@@ -1304,8 +1304,8 @@
         <mark key="^" line="6" column="9" />
         <mark key="." line="6" column="9" />
       </file>
-      <file name="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/rendering/custom_paint.dart" timestamp="1522485525608">
-        <mark key="'" line="131" column="59" />
+      <file name="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/rendering/custom_paint.dart" timestamp="1522582290686">
+        <mark key="'" line="130" column="41" />
       </file>
       <file name="$USER_HOME$/www/js/Lisa/lib/ui/Promised.js" timestamp="1495923095873">
         <mark key="'" line="16" column="0" />
@@ -2594,13 +2594,13 @@
         <mark key="." line="64" column="80" />
         <mark key="^" line="64" column="80" />
       </file>
-      <file name="$USER_HOME$/www/dart/charts/lib/main.dart" timestamp="1522531952753">
-        <mark key="'" line="43" column="0" />
-        <mark key="j" line="27" column="5" />
-        <mark key="[" line="81" column="16" />
-        <mark key="]" line="81" column="21" />
-        <mark key="." line="81" column="21" />
-        <mark key="^" line="81" column="21" />
+      <file name="$USER_HOME$/www/dart/charts/lib/main.dart" timestamp="1522582677533">
+        <mark key="'" line="69" column="9" />
+        <mark key="j" line="34" column="5" />
+        <mark key="[" line="40" column="95" />
+        <mark key="]" line="40" column="95" />
+        <mark key="." line="40" column="95" />
+        <mark key="^" line="40" column="95" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1522318886243">
         <mark key="[" line="0" column="0" />
@@ -4029,8 +4029,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="0" filename="$USER_HOME$/www/dart/charts/lib/main.dart" />
-      <jump line="80" column="0" filename="$USER_HOME$/www/dart/charts/lib/main.dart" />
       <jump line="91" column="0" filename="$USER_HOME$/www/dart/charts/lib/main.dart" />
       <jump line="89" column="0" filename="$USER_HOME$/www/dart/charts/lib/main.dart" />
       <jump line="49" column="0" filename="$USER_HOME$/www/dart/charts/lib/bar.dart" />
@@ -4104,7 +4102,6 @@
       <jump line="43" column="38" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/rendering/custom_paint.dart" />
       <jump line="45" column="14" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/rendering/custom_paint.dart" />
       <jump line="51" column="54" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/rendering/custom_paint.dart" />
-      <jump line="130" column="41" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/rendering/custom_paint.dart" />
       <jump line="131" column="59" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/rendering/custom_paint.dart" />
       <jump line="38" column="30" filename="$USER_HOME$/www/dart/charts/lib/bar.dart" />
       <jump line="13" column="13" filename="$USER_HOME$/www/dart/charts/lib/bar.dart" />
@@ -4129,19 +4126,22 @@
       <jump line="73" column="0" filename="$USER_HOME$/www/dart/charts/lib/main.dart" />
       <jump line="33" column="20" filename="$USER_HOME$/www/dart/charts/lib/main.dart" />
       <jump line="43" column="0" filename="$USER_HOME$/www/dart/charts/lib/main.dart" />
+      <jump line="129" column="4" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/rendering/custom_paint.dart" />
+      <jump line="130" column="41" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/rendering/custom_paint.dart" />
+      <jump line="60" column="9" filename="$USER_HOME$/www/dart/charts/lib/main.dart" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Colors.red;</text>
+        <text>color != oldDelegate.color;</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>Colors.red;</text>
+        <text>color != oldDelegate.color;</text>
       </register>
       <register name="/" type="4">
-        <text>bar</text>
+        <text>Tween</text>
       </register>
       <register name="0" type="4">
         <text>new Random().nextInt(colors.length)</text>
@@ -4181,9 +4181,9 @@
       </register>
     </registers>
     <search>
-      <last-search>bar</last-search>
+      <last-search>Tween</last-search>
       <last-offset />
-      <last-pattern>bar</last-pattern>
+      <last-pattern>Tween</last-pattern>
       <last-replace>BarChart</last-replace>
       <last-substitute>Bar</last-substitute>
       <last-dir>1</last-dir>
@@ -4191,7 +4191,6 @@
     </search>
     <history>
       <history-search>
-        <entry>animation</entry>
         <entry encoding="base64">XDxfQW5pbWF0ZWRFdmFsdWF0aW9uXD4=</entry>
         <entry>animate</entry>
         <entry encoding="base64">XDxmb3J3YXJkXD4=</entry>
@@ -4203,7 +4202,6 @@
         <entry>AnimatedController</entry>
         <entry>Controller</entry>
         <entry encoding="base64">XDxBbmltYXRpb25Db250cm9sbGVyXD4=</entry>
-        <entry>repaint</entry>
         <entry>%s</entry>
         <entry>Bar</entry>
         <entry>BarChart</entry>
@@ -4211,6 +4209,8 @@
         <entry encoding="base64">XDxCYXJDaGFydFBhaW50ZXJcPg==</entry>
         <entry>Canvas</entry>
         <entry>bar</entry>
+        <entry>repaint</entry>
+        <entry>Tween</entry>
       </history-search>
       <history-cmd>
         <entry>%s/'/&quot;/gc</entry>
