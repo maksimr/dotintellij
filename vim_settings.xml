@@ -2835,9 +2835,9 @@
         <mark key="." line="6" column="19" />
         <mark key="^" line="6" column="12" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" timestamp="1522662922170">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" timestamp="1522667982443">
         <mark key="a" line="424" column="0" />
-        <mark key="'" line="963" column="2" />
+        <mark key="'" line="409" column="15" />
         <mark key="[" line="409" column="53" />
         <mark key="]" line="409" column="52" />
         <mark key="." line="409" column="52" />
@@ -4092,7 +4092,6 @@
       <jump line="346" column="40" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
       <jump line="303" column="69" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
       <jump line="305" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
-      <jump line="409" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
       <jump line="299" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
       <jump line="265" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
       <jump line="48" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-stream.js" />
@@ -4134,6 +4133,7 @@
       <jump line="92" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/title-ng/title-ng.js" />
       <jump line="16" column="27" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
       <jump line="963" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
+      <jump line="409" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -4146,7 +4146,7 @@
         <text>, doNotSort</text>
       </register>
       <register name="/" type="4">
-        <text>addNew</text>
+        <text encoding="base64">XDx1cGRhdGVBY3Rpdml0eVN0cmVhbVw+</text>
       </register>
       <register name="0" type="4">
         <text>new Random().nextInt(colors.length)</text>
@@ -4186,18 +4186,17 @@
       </register>
     </registers>
     <search>
-      <last-search>addNew</last-search>
+      <last-search encoding="base64">XDx1cGRhdGVBY3Rpdml0eVN0cmVhbVw+</last-search>
       <last-offset />
-      <last-pattern>addNew</last-pattern>
+      <last-pattern encoding="base64">XDx1cGRhdGVBY3Rpdml0eVN0cmVhbVw+</last-pattern>
       <last-replace>BarChart</last-replace>
       <last-substitute>Bar</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry encoding="base64">XDxzb3J0QnlUaW1lc3RhbXBcPg==</entry>
-        <entry encoding="base64">XDx1cGRhdGVBY3Rpdml0eVN0cmVhbVw+</entry>
         <entry encoding="base64">XDxnZXRBbGxDYWNoZWRBY3Rpdml0aWVzXD4=</entry>
         <entry>trigger</entry>
         <entry encoding="base64">XDx0cmlnZ2VyTG9hZGluZ1Jldmlld0FjdGl2aXRpZXNcPg==</entry>
@@ -4216,6 +4215,7 @@
         <entry>addActivity</entry>
         <entry>onAddNew</entry>
         <entry>addNew</entry>
+        <entry encoding="base64">XDx1cGRhdGVBY3Rpdml0eVN0cmVhbVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/'/&quot;/gc</entry>
