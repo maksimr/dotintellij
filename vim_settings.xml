@@ -2835,9 +2835,9 @@
         <mark key="." line="6" column="19" />
         <mark key="^" line="6" column="12" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" timestamp="1522661741702">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" timestamp="1522662922170">
         <mark key="a" line="424" column="0" />
-        <mark key="'" line="350" column="0" />
+        <mark key="'" line="963" column="2" />
         <mark key="[" line="409" column="53" />
         <mark key="]" line="409" column="52" />
         <mark key="." line="409" column="52" />
@@ -4034,8 +4034,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="9" filename="$USER_HOME$/www/dart/charts/lib/main.dart" />
-      <jump line="73" column="0" filename="$USER_HOME$/www/dart/charts/lib/main.dart" />
       <jump line="33" column="20" filename="$USER_HOME$/www/dart/charts/lib/main.dart" />
       <jump line="43" column="0" filename="$USER_HOME$/www/dart/charts/lib/main.dart" />
       <jump line="129" column="4" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/rendering/custom_paint.dart" />
@@ -4134,6 +4132,8 @@
       <jump line="86" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/title-ng/title-ng.js" />
       <jump line="97" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/title-ng/title-ng.js" />
       <jump line="92" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/title-ng/title-ng.js" />
+      <jump line="16" column="27" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
+      <jump line="963" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -4146,7 +4146,7 @@
         <text>, doNotSort</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXRUaXRsZVw+</text>
+        <text>addNew</text>
       </register>
       <register name="0" type="4">
         <text>new Random().nextInt(colors.length)</text>
@@ -4186,19 +4186,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXRUaXRsZVw+</last-search>
+      <last-search>addNew</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXRUaXRsZVw+</last-pattern>
+      <last-pattern>addNew</last-pattern>
       <last-replace>BarChart</last-replace>
       <last-substitute>Bar</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>natural</entry>
-        <entry encoding="base64">XDxpc05hdHVyYWxDb21tZW50c09yZGVyXD4=</entry>
-        <entry>times</entry>
         <entry encoding="base64">XDxzb3J0QnlUaW1lc3RhbXBcPg==</entry>
         <entry encoding="base64">XDx1cGRhdGVBY3Rpdml0eVN0cmVhbVw+</entry>
         <entry encoding="base64">XDxnZXRBbGxDYWNoZWRBY3Rpdml0aWVzXD4=</entry>
@@ -4216,6 +4213,9 @@
         <entry encoding="base64">XDxmaWVsZE5hbWVcPg==</entry>
         <entry>You</entry>
         <entry encoding="base64">XDxzZXRUaXRsZVw+</entry>
+        <entry>addActivity</entry>
+        <entry>onAddNew</entry>
+        <entry>addNew</entry>
       </history-search>
       <history-cmd>
         <entry>%s/'/&quot;/gc</entry>
