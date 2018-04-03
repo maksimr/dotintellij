@@ -191,12 +191,11 @@
         <mark key="." line="11" column="1" />
         <mark key="^" line="11" column="1" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/karma.conf.js" timestamp="1522748853121">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="67" column="16" />
-        <mark key="]" line="67" column="30" />
-        <mark key="^" line="63" column="69" />
-        <mark key="." line="67" column="16" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/karma.conf.js" timestamp="1522752250873">
+        <mark key="'" line="58" column="4" />
+        <mark key="[" line="1" column="27" />
+        <mark key="]" line="1" column="64" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/www/js/Lisa/src/actions/index.js" timestamp="1495340429228">
         <mark key="'" line="14" column="0" />
@@ -4071,8 +4070,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="405" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/react-day-picker/lib/DayPicker.js" />
-      <jump line="429" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/react-day-picker/lib/DayPicker.js" />
       <jump line="463" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/react-day-picker/lib/DayPicker.js" />
       <jump line="505" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/react-day-picker/lib/DayPicker.js" />
       <jump line="521" column="3" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/react-day-picker/lib/DayPicker.js" />
@@ -4171,10 +4168,12 @@
       <jump line="63" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/karma.conf.js" />
       <jump line="83" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/karma.conf.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/karma.conf.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/karma.conf.js" />
+      <jump line="58" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/karma.conf.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ChromeHeadless_without_sandbox</text>
+        <text>require('puppeteer').executablePath();</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -4186,40 +4185,40 @@
         <text>Headless</text>
       </register>
       <register name="0" type="4">
-        <text>ChromeHeadless</text>
+        <text>require('puppeteer').executablePath()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1aXJlKCdrYXJtYS1jaHJvbWUtbGF1bmNoZXInKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZXF1aXJlKCdrYXJtYS1jaHJvbWUtbGF1bmNoZXInKQo=</text>
+        <text encoding="base64">ICAgIGN1c3RvbUxhdW5jaGVyczogewogICAgICBDaHJvbWVIZWFkbGVzc193aXRob3V0X3NhbmRib3g6IHsKICAgICAgICBiYXNlOiAnQ2hyb21lSGVhZGxlc3MnLAogICAgICAgIGZsYWdzOiBbJy0tbm8tc2FuZGJveCcsICctLWRpc2FibGUtc2V0dWlkLXNhbmRib3gnLCAnLS1oZWFkbGVzcycsICctLWRpc2FibGUtZ3B1JywgJy0tcmVtb3RlLWRlYnVnZ2luZy1wb3J0PTkyMjInXQogICAgICB9CiAgICB9LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFyIHBvcHVwVGVtcGxhdGUgPSByZXF1aXJlKCcuLi90ZW1wbGF0ZS95dC1kYXRlLWludGVydmFsLWRyb3Bkb3duLmh0bWwnKTsKdmFyIEVOVEVSX0tFWSA9IDEzOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXF1aXJlKCdrYXJtYS1jaHJvbWUtbGF1bmNoZXInKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByZXF1aXJlKCdrYXJtYS1jaHJvbWUtbGF1bmNoZXInKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFyIHBvcHVwVGVtcGxhdGUgPSByZXF1aXJlKCcuLi90ZW1wbGF0ZS95dC1kYXRlLWludGVydmFsLWRyb3Bkb3duLmh0bWwnKTsKdmFyIEVOVEVSX0tFWSA9IDEzOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">dmFyIERhdGVVdGlscyA9IHJlcXVpcmUoJ3JlYWN0LWRheS1waWNrZXInKS5EYXRlVXRpbHM7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAuZGlyZWN0aXZlKCd5dERhdGVJbnRlcnZhbElucHV0JywgZnVuY3Rpb24oRGF0ZVBpY2tlcikgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFyIERhdGVVdGlscyA9IHJlcXVpcmUoJ3JlYWN0LWRheS1waWNrZXInKS5EYXRlVXRpbHM7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dmFyIERhdGVVdGlscyA9IHJlcXVpcmUoJ3JlYWN0LWRheS1waWNrZXInKS5EYXRlVXRpbHM7Cg==</text>
+        <text encoding="base64">ICAuZGlyZWN0aXZlKCd5dERhdGVJbnRlcnZhbElucHV0JywgZnVuY3Rpb24oRGF0ZVBpY2tlcikgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
