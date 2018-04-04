@@ -1192,6 +1192,9 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/tooltip/directive/yt-tooltip.js" timestamp="1522855481458">
+        <mark key="'" line="45" column="17" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-work-item-form.js" timestamp="1522757093729">
         <mark key="'" line="104" column="0" />
       </file>
@@ -3169,12 +3172,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/tooltip/service/yt-tooltip.js" timestamp="1522226137402">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/tooltip/service/yt-tooltip.js" timestamp="1522855593588">
         <mark key="'" line="42" column="2" />
-        <mark key="[" line="12" column="76" />
-        <mark key="]" line="12" column="91" />
-        <mark key="." line="12" column="91" />
-        <mark key="^" line="12" column="91" />
+        <mark key="[" line="21" column="35" />
+        <mark key="]" line="21" column="35" />
+        <mark key="." line="21" column="35" />
+        <mark key="^" line="21" column="35" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/template/yt-timezone-select.html" timestamp="1491816695919">
         <mark key="'" line="12" column="0" />
@@ -4114,7 +4117,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="242" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/popup/popup.js" />
       <jump line="481" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/popup/popup.js" />
       <jump line="244" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/popup/popup.js" />
       <jump line="238" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/popup/popup.js" />
@@ -4214,10 +4216,11 @@
       <jump line="6" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/popup/test/service/create-popup-render.js" />
       <jump line="122" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/popup/service/create-popup-render.js" />
       <jump line="130" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/popup/service/create-popup-render.js" />
+      <jump line="45" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/tooltip/directive/yt-tooltip.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>this</text>
+        <text>delayedOnMouseOver.cancel</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -4228,8 +4231,8 @@
       <register name="/" type="4">
         <text>anchor</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMuJCRjb250YWluZXJOb2RlID0gY29udGFpbmVyRWxlbWVudDsK</text>
+      <register name="0" type="4">
+        <text>delayedOnMouseOver.cancel</text>
       </register>
       <register name="1" type="8">
         <text>this.
