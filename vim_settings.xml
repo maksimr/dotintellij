@@ -1829,10 +1829,10 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="1" column="31" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/popup/popup.js" timestamp="1522843140893">
-        <mark key="'" line="242" column="2" />
-        <mark key="[" line="235" column="0" />
-        <mark key="]" line="235" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/popup/popup.js" timestamp="1522844533110">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="242" column="2" />
+        <mark key="]" line="242" column="9" />
         <mark key="." line="235" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/select/select__popup.js" timestamp="1521726577522">
@@ -2893,10 +2893,7 @@
         <mark key="." line="103" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/react-portal/build/portal.js" timestamp="1522843948791">
-        <mark key="'" line="129" column="11" />
-        <mark key="[" line="207" column="39" />
-        <mark key="]" line="207" column="73" />
-        <mark key="." line="207" column="0" />
+        <mark key="'" line="128" column="11" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/form/test/directive/yt-radio.js" timestamp="1496162433563">
         <mark key="'" line="20" column="0" />
@@ -3372,12 +3369,12 @@
         <mark key="^" line="15" column="18" />
         <mark key="." line="15" column="18" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/popup/service/create-popup-render.js" timestamp="1522843106550">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/popup/service/create-popup-render.js" timestamp="1522844743992">
         <mark key="'" line="24" column="11" />
-        <mark key="[" line="25" column="67" />
-        <mark key="]" line="26" column="34" />
-        <mark key="." line="26" column="34" />
-        <mark key="^" line="26" column="34" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="55" column="53" />
+        <mark key="." line="55" column="53" />
+        <mark key="^" line="55" column="53" />
       </file>
       <file name="$USER_HOME$/www/dart/myapp/lib/topstories.dart" timestamp="1517082773403">
         <mark key="'" line="2" column="0" />
@@ -4095,10 +4092,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/tooltip/service/tooltip.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/test/unit/test-bundle.webpack.js" />
-      <jump line="56" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
-      <jump line="17" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/popup/test/service/render-popup.js" />
       <jump line="21" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/popup/service/create-popup-render.js" />
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/test/unit/test-bundle.webpack.js" />
       <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/test/unit/test-common.js" />
@@ -4195,10 +4188,14 @@
       <jump line="84" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/react-portal/build/portal.js" />
       <jump line="96" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/react-portal/build/portal.js" />
       <jump line="129" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/react-portal/build/portal.js" />
+      <jump line="467" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/popup/popup.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/popup/popup.js" />
+      <jump line="469" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/popup/popup.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/popup/popup.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>unstable_renderSubtreeIntoContainer</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhwb3B1cC5wb3B1cFJlZik7Cg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -4207,60 +4204,59 @@
         <text>openPortal</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZW5kZXJQb3J0YWxcPg==</text>
+        <text>popupRef</text>
       </register>
       <register name="0" type="4">
-        <text>unstable_renderSubtreeIntoContainer</text>
+        <text>popupRef</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ1BvcnRhbChyZW5kZXJQb3J0YWwpJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZyhwb3B1cC5wb3B1cFJlZik7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnUG9ydGFsKHJlbmRlclBvcnRhbCknKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygnb25SZW5kZXInKTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ1BvcnRhbChyZW5kZXJQb3J0YWwpJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnUG9ydGFsKG9wZW5Qb3J0YWwpJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnUG9ydGFsKHJlbmRlclBvcnRhbCknKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ1BvcnRhbChyZW5kZXIpJywgdGhpcy5wcm9wcy5vcGVuQnlDbGlja09uKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ1BvcnRhbChyZW5kZXJQb3J0YWwpJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdwb3J0YWxSZWYnKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnUG9ydGFsKG9wZW5Qb3J0YWwpJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdwb3B1cFJlZicpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ1BvcnRhbChyZW5kZXIpJywgdGhpcy5wcm9wcy5vcGVuQnlDbGlja09uKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygnb25SZW5kZXInKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdwb3J0YWxSZWYnKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygnb25SZW5kZXInKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdwb3B1cFJlZicpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZW5kZXJQb3J0YWxcPg==</last-search>
+      <last-search>popupRef</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZW5kZXJQb3J0YWxcPg==</last-pattern>
+      <last-pattern>popupRef</last-pattern>
       <last-replace>BarChart</last-replace>
       <last-substitute>Bar</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>padd</entry>
         <entry>enzyme</entry>
         <entry>create</entry>
         <entry>setAttribute</entry>
@@ -4280,6 +4276,7 @@
         <entry>render</entry>
         <entry encoding="base64">XDxvcGVuUG9ydGFsXD4=</entry>
         <entry encoding="base64">XDxyZW5kZXJQb3J0YWxcPg==</entry>
+        <entry>popupRef</entry>
       </history-search>
       <history-cmd>
         <entry>%s/'/&quot;/gc</entry>
