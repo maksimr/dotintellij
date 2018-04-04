@@ -1,6 +1,10 @@
 <application>
   <component name="LanguageInjectionConfiguration">
     <injection language="AngularJS" injector-id="xml">
+      <display-name>a/@ng-class</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-class")).withParent(xmlTag().withLocalName(string().equalTo("a")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>a/@ng-click</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-click")).withParent(xmlTag().withLocalName(string().equalTo("a")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
@@ -279,6 +283,10 @@
     <injection language="AngularJS" injector-id="xml">
       <display-name>tr/@ng-repeat</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-repeat")).withParent(xmlTag().withLocalName(string().equalTo("tr")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>user-profile-link/@inactive</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("inactive")).withParent(xmlTag().withLocalName(string().equalTo("user-profile-link")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
       <display-name>yt-agile-board-general-settings/@on-update</display-name>
