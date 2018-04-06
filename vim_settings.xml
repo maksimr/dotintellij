@@ -2475,12 +2475,12 @@
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/run-compatibility-test.sh" timestamp="1523008817375">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="17" column="4" />
-        <mark key="]" line="17" column="4" />
-        <mark key="." line="17" column="7" />
-        <mark key="^" line="12" column="10" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/run-compatibility-test.sh" timestamp="1523017150307">
+        <mark key="'" line="23" column="0" />
+        <mark key="[" line="25" column="84" />
+        <mark key="]" line="25" column="93" />
+        <mark key="." line="25" column="93" />
+        <mark key="^" line="25" column="93" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/controller/command-dialog.js" timestamp="1522921920983">
         <mark key="'" line="48" column="6" />
@@ -2651,6 +2651,10 @@
         <mark key="]" line="232" column="19" />
         <mark key="." line="232" column="19" />
         <mark key="^" line="232" column="19" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/projects.js" timestamp="1523016801540">
+        <mark key="[" line="69" column="13" />
+        <mark key="]" line="69" column="25" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/template/yt-legend-color-select.html" timestamp="1492792917566">
         <mark key="'" line="57" column="0" />
@@ -4259,29 +4263,29 @@
       <jump line="19" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/Dockerfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyA+IGRvY2tlciBidWlsZCAtdCBkb2NrZXItcmVnaXN0cnkubGFicy5pbnRlbGxpai5uZXQvamV0YnJhaW5zL3lvdXRyYWNrLWZyb250ZW5kLWVudiAuCiMgPiBkb2NrZXIgcHVzaCBkb2NrZXItcmVnaXN0cnkubGFicy5pbnRlbGxpai5uZXQvamV0YnJhaW5zL3lvdXRyYWNrLWZyb250ZW5kLWVudjpsYXRlc3QK</text>
+      <register name="&quot;" type="4">
+        <text>%env.hub-version%</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>%env.hub-version%</text>
       </register>
       <register name="/" type="4">
         <text>ENv</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">IyA+IGRvY2tlciBidWlsZCAtdCBkb2NrZXItcmVnaXN0cnkubGFicy5pbnRlbGxpai5uZXQvamV0YnJhaW5zL3lvdXRyYWNrLWZyb250ZW5kLWVudiAuCiMgPiBkb2NrZXIgcHVzaCBkb2NrZXItcmVnaXN0cnkubGFicy5pbnRlbGxpai5uZXQvamV0YnJhaW5zL3lvdXRyYWNrLWZyb250ZW5kLWVudjpsYXRlc3QK</text>
+      <register name="0" type="4">
+        <text>$X_LIBRARY_VERSION</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUlY9JFhfTElCUkFSWV9WRVJTSU9OCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgWF9WRVJTSU9OPSRYX0xJQlJBUllfVkVSU0lPTgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -4290,22 +4294,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">CkVOViBKQVZBX1ZFUlNJT05fTUFKT1I9OApFTlYgSkFWQV9WRVJTSU9OX01JTk9SPTE2MgpFTlYgSkFWQV9WRVJTSU9OX0JVSUxEPTEyCkVOViBKQVZBX0RPV05MT0FEX0hBU0g9MGRhNzg4MDYwZDQ5NGY1MDk1YmY4NjI0NzM1ZmEyZjEK</text>
-      </register>
-      <register name="6" type="8">
-        <text encoding="base64">ICAKICAKICAKICA=</text>
-      </register>
-      <register name="7" type="8">
-        <text encoding="base64">IAogCiAKIA==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">UlVOIFwKICBlY2hvIG9yYWNsZS1qYXZhOC1pbnN0YWxsZXIgc2hhcmVkL2FjY2VwdGVkLW9yYWNsZS1saWNlbnNlLXYxLTEgc2VsZWN0IHRydWUgfCBkZWJjb25mLXNldC1zZWxlY3Rpb25zICYmIFwKICBhZGQtYXB0LXJlcG9zaXRvcnkgLXkgcHBhOndlYnVwZDh0ZWFtL2phdmEgJiYgXAogIGFwdC1nZXQgdXBkYXRlICYmIFwKICBhcHQtZ2V0IGluc3RhbGwgLXkgb3JhY2xlLWphdmE4LWluc3RhbGxlciAmJiBcCiAgcm0gLXJmIC92YXIvbGliL2FwdC9saXN0cy8qICYmIFwKICBybSAtcmYgL3Zhci9jYWNoZS9vcmFjbGUtamRrOC1pbnN0YWxsZXIK</text>
+      <register name="8" type="8">
+        <text encoding="base64">ICAKICAKICAKICA=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">IyBPcmFjbGUgSmF2YQo=</text>
+      <register name="9" type="8">
+        <text encoding="base64">IAogCiAKIA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
