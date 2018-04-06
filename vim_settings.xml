@@ -855,8 +855,8 @@
         <mark key="^" line="7" column="48" />
         <mark key="." line="7" column="48" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/run-build.sh" timestamp="1523027179971">
-        <mark key="'" line="10" column="4" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/run-build.sh" timestamp="1523028370006">
+        <mark key="'" line="17" column="21" />
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
@@ -2008,11 +2008,12 @@
         <mark key="." line="69" column="15" />
         <mark key="^" line="69" column="15" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/Dockerfile" timestamp="1523024564080">
-        <mark key="[" line="28" column="36" />
-        <mark key="]" line="29" column="78" />
-        <mark key="^" line="29" column="78" />
-        <mark key="." line="29" column="78" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/Dockerfile" timestamp="1523028185022">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="11" column="64" />
+        <mark key="]" line="11" column="68" />
+        <mark key="^" line="11" column="68" />
+        <mark key="." line="11" column="68" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-interval-input.js" timestamp="1522747537981">
         <mark key="'" line="2" column="29" />
@@ -3003,12 +3004,6 @@
         <mark key="]" line="63" column="23" />
         <mark key="^" line="63" column="23" />
         <mark key="." line="63" column="23" />
-      </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/query-assist/query-assist.js" timestamp="1522922673430">
-        <mark key="[" line="226" column="30" />
-        <mark key="]" line="226" column="36" />
-        <mark key="." line="226" column="36" />
-        <mark key="^" line="226" column="36" />
       </file>
       <file name="$USER_HOME$/www/clojure/hello-clojurescript/src/hello_clojurescript/core.cljs" timestamp="1492019009517">
         <mark key="'" line="11" column="0" />
@@ -4146,8 +4141,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/run-build-frontend.sh" />
-      <jump line="15" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/Dockerfile" />
       <jump line="14" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/Dockerfile" />
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/Dockerfile" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/Dockerfile" />
@@ -4246,6 +4239,8 @@
       <jump line="44" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/server.sh" />
       <jump line="14" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/run-build.sh" />
       <jump line="10" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/run-build.sh" />
+      <jump line="11" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/Dockerfile" />
+      <jump line="17" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/run-build.sh" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -4258,7 +4253,7 @@
         <text>startxvfb</text>
       </register>
       <register name="/" type="4">
-        <text>-f</text>
+        <text>xv</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aWYgWyAtZiAvZXRjL2luaXQuZC94dmZiIF07IHRoZW4KICAgIHNoIC1lIC9ldGMvaW5pdC5kL3h2ZmIgc3RhcnQKZmkK</text>
@@ -4301,9 +4296,9 @@
       </register>
     </registers>
     <search>
-      <last-search>-f</last-search>
+      <last-search>xv</last-search>
       <last-offset />
-      <last-pattern>-f</last-pattern>
+      <last-pattern>xv</last-pattern>
       <last-replace>BarChart</last-replace>
       <last-substitute>Bar</last-substitute>
       <last-dir>1</last-dir>
@@ -4311,8 +4306,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvblJlbW92ZUFjdGl2aXR5XD4=</entry>
-        <entry encoding="base64">XDxvblJlbW92ZUFjdGl2aXR5TWFudWFsbHlcPg==</entry>
         <entry encoding="base64">XDxURUFNQ0lUWV9WRVJTSU9OXD4=</entry>
         <entry>require</entry>
         <entry>docker</entry>
@@ -4331,6 +4324,8 @@
         <entry>if</entry>
         <entry>file</entry>
         <entry>-f</entry>
+        <entry>xvf</entry>
+        <entry>xv</entry>
       </history-search>
       <history-cmd>
         <entry>%s/'/&quot;/gc</entry>
