@@ -2531,10 +2531,11 @@
         <mark key="." line="11" column="37" />
         <mark key="^" line="11" column="37" />
       </file>
-      <file name="$USER_HOME$/www/dart/foo/lib/main.dart" timestamp="1523275757544">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
+      <file name="$USER_HOME$/www/dart/foo/lib/main.dart" timestamp="1523277245889">
+        <mark key="[" line="29" column="54" />
+        <mark key="]" line="29" column="52" />
+        <mark key="." line="29" column="52" />
+        <mark key="^" line="29" column="52" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/main-core.scss" timestamp="1493907077065">
         <mark key="'" line="232" column="14" />
@@ -3956,9 +3957,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" />
-      <jump line="46" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-new.js" />
-      <jump line="35" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-new.js" />
       <jump line="5" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-new.js" />
       <jump line="52" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-new.js" />
       <jump line="64" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-new.js" />
@@ -4056,64 +4054,67 @@
       <jump line="25" column="25" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="77" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="48" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="65" column="9" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="51" column="5" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="76" column="26" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50KGFuaW1hdGlvbi52YWx1ZSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cGlzY2luZyBlbGl0LiA=</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>easeInOut</text>
+        <text encoding="base64">cGlzY2luZyBlbGl0LiA=</text>
       </register>
       <register name="/" type="4">
-        <text>grad</text>
+        <text>text</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBBbmltYXRpb25Db250cm9sbGVyIF9hbmltYXRpb247Cg==</text>
+        <text encoding="base64">ICAgICAgICBuZXcgTGlzdEl0ZW0oCiAgICAgICAgICAgICJMb3JlbSBpcHN1bSBkb2xvciBzaXQgYW1ldCwgY29uc2VjdGV0dXIgYWRpcGlzY2luZyBlbGl0LiBBbGlxdWFtIG1hdHRpcyBpbiBsb3JlbSBwb3N1ZXJlIGVsZWlmZW5kLiIpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KGFuaW1hdGlvbi52YWx1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgcGFkZGluZzogbmV3IEVkZ2VJbnNldHMub25seSh0b3A6IDQwLjApLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBfYnVpbGQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIF9zY2FsZVggPSAwLjA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAiTG9yZW0gaXBzdW0gZG9sb3Igc2l0IGFtZXQsIGNvbnNlY3RldHVyIGFkaXBpc2NpbmcgZWxpdC4gQWxpcXVhbSBtYXR0aXMgaW4gbG9yZW0gcG9zdWVyZSBlbGVpZmVuZC4iOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIF9zY2FsZVggPSBjb250cm9sbGVyLnZhbHVlOwo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyB0ZXh0ID0KICAgICAgICAiTG9yZW0gaXBzdW0gZG9sb3Igc2l0IGFtZXQsIGNvbnNlY3RldHVyIGFkaXBpc2NpbmcgZWxpdC4gQWxpcXVhbSBtYXR0aXMgaW4gbG9yZW0gcG9zdWVyZSBlbGVpZmVuZC4iOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9KSk7Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KGFuaW1hdGlvbi52YWx1ZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkb3VibGUgX3NjYWxlWDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmV0dXJuIFYK</text>
+        <text encoding="base64">ICAgIF9zY2FsZVggPSAwLjA7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIF9zY2FsZVggPSBjb250cm9sbGVyLnZhbHVlOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9KSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>grad</last-search>
+      <last-search>text</last-search>
       <last-offset />
-      <last-pattern>grad</last-pattern>
+      <last-pattern>text</last-pattern>
       <last-replace>BarChart</last-replace>
       <last-substitute>Bar</last-substitute>
       <last-dir>1</last-dir>
@@ -4121,7 +4122,6 @@
     </search>
     <history>
       <history-search>
-        <entry>file</entry>
         <entry>-f</entry>
         <entry>xvf</entry>
         <entry>xv</entry>
@@ -4141,6 +4141,7 @@
         <entry>include</entry>
         <entry>fron</entry>
         <entry>grad</entry>
+        <entry>text</entry>
       </history-search>
       <history-cmd>
         <entry>%s/'/&quot;/gc</entry>
