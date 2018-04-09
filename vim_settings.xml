@@ -2203,10 +2203,10 @@
         <mark key="." line="90" column="44" />
         <mark key="^" line="90" column="44" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/export-build-variabls.sh" timestamp="1523272193988">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/export-build-variabls.sh" timestamp="1523273129279">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="10" column="6" />
-        <mark key="]" line="10" column="17" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="10" column="34" />
         <mark key="." line="6" column="51" />
         <mark key="^" line="6" column="51" />
       </file>
@@ -2549,8 +2549,8 @@
         <mark key="." line="11" column="37" />
         <mark key="^" line="11" column="37" />
       </file>
-      <file name="$USER_HOME$/www/dart/foo/lib/main.dart" timestamp="1523230241209">
-        <mark key="'" line="65" column="0" />
+      <file name="$USER_HOME$/www/dart/foo/lib/main.dart" timestamp="1523273555160">
+        <mark key="'" line="106" column="0" />
         <mark key="[" line="44" column="44" />
         <mark key="]" line="44" column="45" />
         <mark key="." line="44" column="45" />
@@ -3972,8 +3972,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="106" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
-      <jump line="41" column="21" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="95" column="2" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="6" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="63" column="11" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
@@ -4072,10 +4070,12 @@
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/server.sh" />
       <jump line="186" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/server.sh" />
       <jump line="18" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/script/server.sh" />
+      <jump line="68" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="106" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>BUILD_NUMBER</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">CmVjaG8gIkJVSUxEX05VTUJFUjogJEJVSUxEX05VTUJFUiIK</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -4086,8 +4086,8 @@
       <register name="/" type="4">
         <text>grad</text>
       </register>
-      <register name="0" type="4">
-        <text>{BUILD_NUMBER:-develop}</text>
+      <register name="0" type="2">
+        <text encoding="base64">CmVjaG8gIkJVSUxEX05VTUJFUjogJEJVSUxEX05VTUJFUiIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">cmV0dXJuIFYK</text>
