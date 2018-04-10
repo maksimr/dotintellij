@@ -2644,7 +2644,7 @@
         <mark key="." line="38" column="32" />
         <mark key="^" line="38" column="32" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" timestamp="1521794704009">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" timestamp="1523352745240">
         <mark key="'" line="16" column="0" />
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -3405,6 +3405,11 @@
         <mark key="." line="0" column="51" />
         <mark key="^" line="0" column="51" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/yt-utils.js" timestamp="1523352718045">
+        <mark key="'" line="125" column="0" />
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="127" column="36" />
+      </file>
       <file name="$USER_HOME$/www/js/karma-electron-launcher/test/e2e/simple/karma.conf.js" timestamp="1492626590759">
         <mark key="'" line="36" column="0" />
         <mark key="[" line="10" column="16" />
@@ -3925,10 +3930,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-new.js" />
-      <jump line="2" column="60" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-new.js" />
-      <jump line="44" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-new.js" />
-      <jump line="38" column="29" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-new.js" />
       <jump line="66" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-new.js" />
       <jump line="45" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-new.js" />
       <jump line="62" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-new.js" />
@@ -4025,10 +4026,14 @@
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-new.js" />
       <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-new.js" />
       <jump line="110" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-new.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/yt-utils.js" />
+      <jump line="124" column="71" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/yt-utils.js" />
+      <jump line="126" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/yt-utils.js" />
+      <jump line="125" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/yt-utils.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>TITLE</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgc2Nyb2xsVG9UYXJnZXQ6IGZ1bmN0aW9uKGNvbnRhaW5lciwgdGFyZ2V0KSB7CiAgICAgICAgaWYgKCFjb250YWluZXIgfHwgIXRhcmdldCkgewo=</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -4037,10 +4042,10 @@
         <text>TITLE</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxMaXN0VHlwZXNcPg==</text>
+        <text encoding="base64">XDxzY3JvbGxUb1RhcmdldFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>TITLE</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgc2Nyb2xsVG9UYXJnZXQ6IGZ1bmN0aW9uKGNvbnRhaW5lciwgdGFyZ2V0KSB7CiAgICAgICAgaWYgKCFjb250YWluZXIgfHwgIXRhcmdldCkgewo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgcGFkZGluZzogbmV3IEVkZ2VJbnNldHMub25seSh0b3A6IDQwLjApLAo=</text>
@@ -4080,9 +4085,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxMaXN0VHlwZXNcPg==</last-search>
+      <last-search encoding="base64">XDxzY3JvbGxUb1RhcmdldFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxMaXN0VHlwZXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzY3JvbGxUb1RhcmdldFw+</last-pattern>
       <last-replace>BarChart</last-replace>
       <last-substitute>Bar</last-substitute>
       <last-dir>-1</last-dir>
@@ -4090,8 +4095,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxUZXh0U3R5bGVcPg==</entry>
-        <entry>compli</entry>
         <entry>textFont</entry>
         <entry>duraton</entry>
         <entry>duration</entry>
@@ -4110,6 +4113,8 @@
         <entry>reso</entry>
         <entry>TITLE</entry>
         <entry encoding="base64">XDxMaXN0VHlwZXNcPg==</entry>
+        <entry>scroll</entry>
+        <entry encoding="base64">XDxzY3JvbGxUb1RhcmdldFw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/'/&quot;/gc</entry>
