@@ -2595,8 +2595,8 @@
         <mark key="." line="11" column="37" />
         <mark key="^" line="11" column="37" />
       </file>
-      <file name="$USER_HOME$/www/dart/foo/lib/main.dart" timestamp="1523381106195">
-        <mark key="'" line="111" column="0" />
+      <file name="$USER_HOME$/www/dart/foo/lib/main.dart" timestamp="1523385409819">
+        <mark key="'" line="18" column="17" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/main-core.scss" timestamp="1493907077065">
         <mark key="'" line="232" column="14" />
@@ -4049,13 +4049,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/popup/popup.js" />
-      <jump line="14" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/popup/popup.js" />
-      <jump line="443" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/popup/popup.js" />
-      <jump line="69" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/popup/popup.js" />
-      <jump line="482" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/popup/popup.js" />
-      <jump line="451" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/popup/popup.js" />
-      <jump line="450" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/popup/popup.js" />
       <jump line="449" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/popup/popup.js" />
       <jump line="448" column="42" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/popup/popup.js" />
       <jump line="28" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/popup/popup.js" />
@@ -4146,9 +4139,16 @@
       <jump line="112" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="26" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="4" column="6" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
-      <jump line="22" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="2" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="111" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="79" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="88" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="9" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="28" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="80" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="105" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="22" column="2" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="18" column="17" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -4161,7 +4161,7 @@
         <text>none</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRDb21wdXRlZFN0eWxlUHJvcFw+</text>
+        <text encoding="base64">XDxfYnVpbGRMaXN0SXRlbVw+</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">bmctaWY9Imlzc3VlTGlua3NDdHJsLmxpbmtzLmxlbmd0aCA+IDEi</text>
@@ -4204,9 +4204,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRDb21wdXRlZFN0eWxlUHJvcFw+</last-search>
+      <last-search encoding="base64">XDxfYnVpbGRMaXN0SXRlbVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRDb21wdXRlZFN0eWxlUHJvcFw+</last-pattern>
+      <last-pattern encoding="base64">XDxfYnVpbGRMaXN0SXRlbVw+</last-pattern>
       <last-replace>BarChart</last-replace>
       <last-substitute>Bar</last-substitute>
       <last-dir>-1</last-dir>
@@ -4214,7 +4214,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxERUZBVUxUX0RJUkVDVElPTlNcPg==</entry>
         <entry>direct</entry>
         <entry>popup</entry>
         <entry>styles</entry>
@@ -4234,6 +4233,7 @@
         <entry encoding="base64">PDw8</entry>
         <entry encoding="base64">XDxzZXRDYWNoZVw+</entry>
         <entry encoding="base64">XDxnZXRDb21wdXRlZFN0eWxlUHJvcFw+</entry>
+        <entry encoding="base64">XDxfYnVpbGRMaXN0SXRlbVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/'/&quot;/gc</entry>
