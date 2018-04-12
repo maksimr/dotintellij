@@ -3759,8 +3759,8 @@
         <mark key="." line="29" column="0" />
         <mark key="^" line="106" column="3" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-custom-field-complex.js" timestamp="1523537300619">
-        <mark key="'" line="79" column="41" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-custom-field-complex.js" timestamp="1523537905439">
+        <mark key="'" line="109" column="7" />
         <mark key="[" line="105" column="0" />
         <mark key="]" line="105" column="0" />
         <mark key="." line="105" column="0" />
@@ -4141,7 +4141,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/overlay/style/yt-overlay.scss" />
       <jump line="9" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/command-dialog.js" />
       <jump line="35" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/test/service/command-dialog.js" />
       <jump line="28" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/test/service/command-dialog.js" />
@@ -4241,6 +4240,7 @@
       <jump line="157" column="29" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-custom-field-complex.js" />
       <jump line="117" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-custom-field-complex.js" />
       <jump line="79" column="41" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-custom-field-complex.js" />
+      <jump line="109" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-custom-field-complex.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -4253,7 +4253,7 @@
         <text>id</text>
       </register>
       <register name="/" type="4">
-        <text>getFieldValues</text>
+        <text>hasState</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Cg==</text>
@@ -4296,9 +4296,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getFieldValues</last-search>
+      <last-search>hasState</last-search>
       <last-offset />
-      <last-pattern>getFieldValues</last-pattern>
+      <last-pattern>hasState</last-pattern>
       <last-replace>true</last-replace>
       <last-substitute>projectId</last-substitute>
       <last-dir>1</last-dir>
@@ -4306,7 +4306,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxSSU5HX0lDT05fUFJFRklYXD4=</entry>
         <entry>pro</entry>
         <entry>opaci</entry>
         <entry>value</entry>
@@ -4326,6 +4325,7 @@
         <entry>possible</entry>
         <entry>state</entry>
         <entry>getFieldValues</entry>
+        <entry>hasState</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Bar/BarChart/gc</entry>
