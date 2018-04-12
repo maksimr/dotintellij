@@ -193,6 +193,18 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("config")).withParent(xmlTag().withLocalName(string().equalTo("rg-select")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>rg-select/@external-filter</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("external-filter")).withParent(xmlTag().withLocalName(string().equalTo("rg-select")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>rg-select/@filter</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("filter")).withParent(xmlTag().withLocalName(string().equalTo("rg-select")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>rg-select/@infinite-scroll-pack-size</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("infinite-scroll-pack-size")).withParent(xmlTag().withLocalName(string().equalTo("rg-select")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>rg-select/@ng-model</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-model")).withParent(xmlTag().withLocalName(string().equalTo("rg-select")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
