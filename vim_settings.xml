@@ -2279,8 +2279,8 @@
         <mark key="^" line="44" column="10" />
         <mark key="." line="44" column="10" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/issue.js" timestamp="1522661752184">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/issue.js" timestamp="1523614553145">
+        <mark key="'" line="84" column="10" />
         <mark key="[" line="96" column="35" />
         <mark key="]" line="96" column="46" />
         <mark key="^" line="96" column="46" />
@@ -4092,9 +4092,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="243" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-custom-field-complex.js" />
-      <jump line="57" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-custom-field-complex.js" />
-      <jump line="232" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-custom-field-complex.js" />
       <jump line="264" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-custom-field-complex.js" />
       <jump line="42" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-custom-field-complex.js" />
       <jump line="43" column="33" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-custom-field-complex.js" />
@@ -4192,6 +4189,9 @@
       <jump line="110" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-new.js" />
       <jump line="9" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-new.js" />
       <jump line="96" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-new.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/issue.js" />
+      <jump line="82" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/issue.js" />
+      <jump line="84" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/issue.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4204,7 +4204,7 @@
         <text>favoriteProjects</text>
       </register>
       <register name="/" type="4">
-        <text>isPinned</text>
+        <text>header</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAK</text>
@@ -4247,9 +4247,9 @@
       </register>
     </registers>
     <search>
-      <last-search>isPinned</last-search>
+      <last-search>header</last-search>
       <last-offset />
-      <last-pattern>isPinned</last-pattern>
+      <last-pattern>header</last-pattern>
       <last-replace>true</last-replace>
       <last-substitute>projectId</last-substitute>
       <last-dir>1</last-dir>
@@ -4257,9 +4257,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsb2FkT3B0aW9uc1RvU2VsZWN0XD4=</entry>
-        <entry>StateMachine</entry>
-        <entry encoding="base64">XDxzZXRDdXJyZW50U2VsZWN0aW9uXD4=</entry>
         <entry>init</entry>
         <entry>config</entry>
         <entry>exter</entry>
@@ -4277,6 +4274,9 @@
         <entry>controller</entry>
         <entry>projects-new</entry>
         <entry>isPinned</entry>
+        <entry>class</entry>
+        <entry>global</entry>
+        <entry>header</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Bar/BarChart/gc</entry>
