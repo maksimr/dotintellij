@@ -2572,12 +2572,12 @@
         <mark key="." line="11" column="37" />
         <mark key="^" line="11" column="37" />
       </file>
-      <file name="$USER_HOME$/www/dart/foo/lib/main.dart" timestamp="1523655923090">
+      <file name="$USER_HOME$/www/dart/foo/lib/main.dart" timestamp="1523656697720">
         <mark key="'" line="123" column="0" />
         <mark key="[" line="14" column="24" />
-        <mark key="]" line="14" column="26" />
-        <mark key="." line="14" column="26" />
-        <mark key="^" line="14" column="26" />
+        <mark key="]" line="14" column="28" />
+        <mark key="." line="14" column="28" />
+        <mark key="^" line="14" column="28" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/main-core.scss" timestamp="1493907077065">
         <mark key="'" line="232" column="14" />
@@ -4192,13 +4192,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>black</text>
+        <text>red</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>black</text>
+        <text>red</text>
       </register>
       <register name="/" type="4">
         <text>Medi</text>
@@ -4276,12 +4276,6 @@
         <entry>Medi</entry>
       </history-search>
       <history-cmd>
-        <entry>action SaveAll</entry>
-        <entry>action Save</entry>
-        <entry>action SaveDocument</entry>
-        <entry>cmap w :actoin SaveAll</entry>
-        <entry encoding="base64">Y21hcCB3IDxDLXM+</entry>
-        <entry encoding="base64">bWFwIDxDTUQtcz4gPEN0cmwtcz4=</entry>
         <entry encoding="base64">bWFwIDxDbWQrcz4gPENtZCssPg==</entry>
         <entry>map Cmd+s Cmd+,</entry>
         <entry encoding="base64">bWFwIDxjbWQrcz4gPGNtZCssPg==</entry>
@@ -4292,9 +4286,15 @@
         <entry>actionlist Ace</entry>
         <entry>actionlist Widget</entry>
         <entry>%s/projectId/true/gc</entry>
-        <entry>action AceAction</entry>
         <entry>actionlist</entry>
+        <entry>action AceAction</entry>
+        <entry>action SaveAll</entry>
         <entry>actionlist Save</entry>
+        <entry>action context.save</entry>
+        <entry>action SaveDocument</entry>
+        <entry>actionlist Flutter</entry>
+        <entry>:action Flutter.Toolbar.ReloadAction</entry>
+        <entry>action Flutter.Toolbar.ReloadAction</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
