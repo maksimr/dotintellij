@@ -2589,8 +2589,8 @@
         <mark key="." line="232" column="19" />
         <mark key="^" line="232" column="19" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/projects.js" timestamp="1523350072735">
-        <mark key="'" line="9" column="28" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/projects.js" timestamp="1523609684473">
+        <mark key="'" line="170" column="0" />
         <mark key="[" line="9" column="33" />
         <mark key="]" line="9" column="36" />
         <mark key="." line="9" column="36" />
@@ -2718,8 +2718,8 @@
         <mark key="." line="38" column="32" />
         <mark key="^" line="38" column="32" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" timestamp="1523557970169">
-        <mark key="'" line="140" column="12" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" timestamp="1523608571045">
+        <mark key="'" line="324" column="2" />
         <mark key="[" line="138" column="12" />
         <mark key="]" line="138" column="56" />
         <mark key="." line="22" column="50" />
@@ -4092,10 +4092,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="179" column="15" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng.js" />
-      <jump line="437" column="19" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng.js" />
-      <jump line="252" column="11" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng.js" />
-      <jump line="504" column="17" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng.js" />
       <jump line="485" column="21" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng.js" />
       <jump line="472" column="21" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng.js" />
       <jump line="434" column="19" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng.js" />
@@ -4176,8 +4172,6 @@
       <jump line="285" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
       <jump line="33" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
       <jump line="253" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" />
-      <jump line="30" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
-      <jump line="324" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
       <jump line="93" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng.js" />
       <jump line="522" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng.js" />
       <jump line="28" column="19" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng.js" />
@@ -4192,6 +4186,12 @@
       <jump line="3" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="7" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="123" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="30" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
+      <jump line="324" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
+      <jump line="15" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/projects.js" />
+      <jump line="111" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/projects.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/projects.js" />
+      <jump line="170" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/projects.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -4204,7 +4204,7 @@
         <text>angular.element</text>
       </register>
       <register name="/" type="4">
-        <text>controller</text>
+        <text>projects-new</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Cg==</text>
@@ -4247,9 +4247,9 @@
       </register>
     </registers>
     <search>
-      <last-search>controller</last-search>
+      <last-search>projects-new</last-search>
       <last-offset />
-      <last-pattern>controller</last-pattern>
+      <last-pattern>projects-new</last-pattern>
       <last-replace>true</last-replace>
       <last-substitute>projectId</last-substitute>
       <last-dir>1</last-dir>
@@ -4257,7 +4257,6 @@
     </search>
     <history>
       <history-search>
-        <entry>pack</entry>
         <entry encoding="base64">XDxnZXRDdXJyZW50U2tpcFBhcmFtZXRlclw+</entry>
         <entry encoding="base64">XDxsb2FkT3B0aW9uc1RvU2VsZWN0XD4=</entry>
         <entry>StateMachine</entry>
@@ -4277,6 +4276,7 @@
         <entry encoding="base64">XDxkaXJlY3RpdmVTY29wZVw+</entry>
         <entry>directiveScope</entry>
         <entry>controller</entry>
+        <entry>projects-new</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Bar/BarChart/gc</entry>
