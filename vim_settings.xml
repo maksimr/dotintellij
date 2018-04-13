@@ -1268,12 +1268,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/style/yt-issue-attachment-preview.scss" timestamp="1523454965241">
         <mark key="'" line="2" column="1" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/test/controller/projects-new.js" timestamp="1523265006458">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/test/controller/projects-new.js" timestamp="1523611395376">
         <mark key="'" line="76" column="0" />
-        <mark key="[" line="90" column="48" />
-        <mark key="]" line="90" column="74" />
-        <mark key="^" line="90" column="74" />
-        <mark key="." line="90" column="74" />
+        <mark key="[" line="127" column="10" />
+        <mark key="]" line="127" column="25" />
+        <mark key="." line="127" column="25" />
+        <mark key="^" line="127" column="25" />
       </file>
       <file name="$USER_HOME$/www/js/Lisa/src/pages/Login/HostSetup/actionTypes.js" timestamp="1492278128036">
         <mark key="'" line="0" column="0" />
@@ -2017,12 +2017,12 @@
         <mark key="." line="19" column="40" />
         <mark key="^" line="19" column="40" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-new.js" timestamp="1523378264529">
-        <mark key="'" line="110" column="2" />
-        <mark key="[" line="96" column="50" />
-        <mark key="]" line="96" column="55" />
-        <mark key="." line="96" column="50" />
-        <mark key="^" line="96" column="54" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-new.js" timestamp="1523611245924">
+        <mark key="'" line="96" column="7" />
+        <mark key="[" line="99" column="7" />
+        <mark key="]" line="99" column="7" />
+        <mark key="." line="99" column="7" />
+        <mark key="^" line="99" column="7" />
       </file>
       <file name="$USER_HOME$/www/dart/hub/lib/components/Input.dart" timestamp="1517567234346">
         <mark key="'" line="21" column="0" />
@@ -4092,12 +4092,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="485" column="21" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng.js" />
-      <jump line="472" column="21" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng.js" />
-      <jump line="434" column="19" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng.js" />
-      <jump line="411" column="10" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng.js" />
-      <jump line="84" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng.js" />
       <jump line="243" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-custom-field-complex.js" />
       <jump line="57" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-custom-field-complex.js" />
       <jump line="232" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-custom-field-complex.js" />
@@ -4192,25 +4186,31 @@
       <jump line="111" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/projects.js" />
       <jump line="8" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/projects.js" />
       <jump line="170" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/projects.js" />
+      <jump line="20" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-new.js" />
+      <jump line="85" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-new.js" />
+      <jump line="10" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-new.js" />
+      <jump line="110" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-new.js" />
+      <jump line="9" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-new.js" />
+      <jump line="96" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-new.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>https://youtrack.jetbrains.com/issue/JT-27074</text>
+        <text>favoriteProjects</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>angular.element</text>
+        <text>favoriteProjects</text>
       </register>
       <register name="/" type="4">
-        <text>projects-new</text>
+        <text>isPinned</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVsZW1lbnQgPSAkY29tcGlsZShlbGVtZW50KSgkc2NvcGUpOwo=</text>
+        <text encoding="base64">ICAgICAgdmFyIHF1ZXJ5ID0gJ0EnOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -4219,37 +4219,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICRzY29wZS4kZGlnZXN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJHEucmVzb2x2ZSh0b0h1YlByb2plY3RzKFtdKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVsZW1lbnQgPSAkY29tcGlsZShlbGVtZW50KSgkc2NvcGUpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHl0SXNzdWVDdXN0b21GaWVsZENvbXBsZXhDdHJsID0gZGlyZWN0aXZlU2NvcGUgJiYgZGlyZWN0aXZlU2NvcGUueXRJc3N1ZUN1c3RvbUZpZWxkQ29tcGxleEN0cmw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRpcmVjdGl2ZVNjb3BlID0gZWxlbWVudC5pc29sYXRlU2NvcGUoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICRzY29wZS4kZGlnZXN0KCk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action AceAction</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>projects-new</last-search>
+      <last-search>isPinned</last-search>
       <last-offset />
-      <last-pattern>projects-new</last-pattern>
+      <last-pattern>isPinned</last-pattern>
       <last-replace>true</last-replace>
       <last-substitute>projectId</last-substitute>
       <last-dir>1</last-dir>
@@ -4257,7 +4257,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRDdXJyZW50U2tpcFBhcmFtZXRlclw+</entry>
         <entry encoding="base64">XDxsb2FkT3B0aW9uc1RvU2VsZWN0XD4=</entry>
         <entry>StateMachine</entry>
         <entry encoding="base64">XDxzZXRDdXJyZW50U2VsZWN0aW9uXD4=</entry>
@@ -4277,6 +4276,7 @@
         <entry>directiveScope</entry>
         <entry>controller</entry>
         <entry>projects-new</entry>
+        <entry>isPinned</entry>
       </history-search>
       <history-cmd>
         <entry>%s/Bar/BarChart/gc</entry>
@@ -4297,8 +4297,8 @@
         <entry>actionlist Ace</entry>
         <entry>actionlist Widget</entry>
         <entry>%s/projectId/true/gc</entry>
-        <entry>w</entry>
         <entry>action AceAction</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
