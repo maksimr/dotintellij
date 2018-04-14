@@ -2085,6 +2085,9 @@
         <mark key="." line="18" column="13" />
         <mark key="^" line="18" column="13" />
       </file>
+      <file name="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/container.dart" timestamp="1523698510767">
+        <mark key="'" line="234" column="24" />
+      </file>
       <file name="$USER_HOME$/www/js/react-chat-app/src/reducers/messages.js" timestamp="1492985745236">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="0" column="37" />
@@ -2330,10 +2333,12 @@
         <mark key="." line="93" column="15" />
         <mark key="^" line="93" column="15" />
       </file>
-      <file name="$USER_HOME$/www/dart/bar/lib/main.dart" timestamp="1523661874991">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/www/dart/bar/lib/main.dart" timestamp="1523698425170">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="11" column="16" />
+        <mark key="]" line="11" column="25" />
+        <mark key="." line="11" column="25" />
+        <mark key="^" line="11" column="25" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-timezone-select.js" timestamp="1491995293068">
         <mark key="'" line="75" column="0" />
@@ -4079,17 +4084,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
-      <jump line="7" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
-      <jump line="30" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
-      <jump line="324" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
-      <jump line="15" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/projects.js" />
-      <jump line="111" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/projects.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/projects.js" />
-      <jump line="170" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/projects.js" />
-      <jump line="85" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-new.js" />
-      <jump line="10" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-new.js" />
-      <jump line="110" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-new.js" />
       <jump line="9" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-new.js" />
       <jump line="96" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-new.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/issue.js" />
@@ -4179,64 +4173,75 @@
       <jump line="743" column="14" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/framework.dart" />
       <jump line="3532" column="6" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/framework.dart" />
       <jump line="3088" column="31" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/framework.dart" />
+      <jump line="21" column="0" filename="$USER_HOME$/www/dart/bar/lib/main.dart" />
+      <jump line="250" column="19" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/container.dart" />
+      <jump line="206" column="6" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/container.dart" />
+      <jump line="196" column="9" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/container.dart" />
+      <jump line="168" column="4" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/container.dart" />
+      <jump line="167" column="5" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/container.dart" />
+      <jump line="163" column="4" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/container.dart" />
+      <jump line="166" column="61" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/container.dart" />
+      <jump line="189" column="8" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/container.dart" />
+      <jump line="248" column="11" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/container.dart" />
+      <jump line="234" column="24" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/container.dart" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbG9yCg==</text>
+      <register name="&quot;" type="4">
+        <text>Center</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>new</text>
+        <text>Center</text>
       </register>
       <register name="/" type="4">
-        <text>constraints</text>
+        <text>width</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">bmV3IA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbG9yCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNoaWxkOiBuZXcgQ29udGFpbmVyKAogICAgICAgICAgICBjb2xvcjogQ29sb3JzLmdyZWVuLAogICAgICAgICAgICB3aWR0aDogNDAuMCwKICAgICAgICAgICAgaGVpZ2h0OiA0MC4wLAogICAgICAgICAgKSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgKSwK</text>
+        <text encoding="base64">ICAgICAgICAgIGNoaQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjaGlsZDogbmV3IENvbnRhaW5lcigK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbG9yOiBDb2xvcnMuZ3JlZW4sCiAgICAgICAgICBjaGlsZDogY29uc3QgQ2VudGVyKAogICAgICAgICAgICBjaGlsZDogY29uc3QgVGV4dCgnSGVsbG8gV29ybGQhJyksCiAgICAgICAgICApLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbG9yOiBDb2xvcnMucmVkLAogICAgICAgICAgd2lkdGg6IDQwLjAsCiAgICAgICAgICBoZWlnaHQ6IDQwLjAsCg==</text>
+        <text encoding="base64">ICAgICAgICBjaGlsZDogY29uc3QgQ2FyZCgKICAgICAgICAgIGNvbG9yOiBDb2xvcnMuZ3JlZW4sCiAgICAgICAgICBjaGlsZDogY29uc3QgQ2VudGVyKAogICAgICAgICAgICBjaGlsZDogY29uc3QgVGV4dCgnSGVsbG8gV29ybGQhJyksCiAgICAgICAgICApLAogICAgICAgICksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgd2lkdGg6IGRvdWJsZS5JTkZJTklUWSwKICAgICAgaGVpZ2h0OiBkb3VibGUuSU5GSU5JVFksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbG9yOiBDb2xvcnMucmVkLAogICAgICAgICAgd2lkdGg6IDQwLjAsCiAgICAgICAgICBoZWlnaHQ6IDQwLjAsCg==</text>
+        <text encoding="base64">Y2xhc3MgTXlCb3ggZXh0ZW5kcyBTdGF0ZWxlc3NXaWRnZXQgewogIEBvdmVycmlkZQogIFdpZGdldCBidWlsZChCdWlsZENvbnRleHQgY29udGV4dCkgewogICAgcmV0dXJuIG5ldyBDb250YWluZXIoCiAgICAgIGNvbG9yOiBDb2xvcnMuZ3JlZW4sCiAgICApOwogIH0KfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3RyYWludHM6IG5ldyBCb3hDb25zdHJhaW50cy50aWdodChuZXcgU2l6ZSgKICAgICAgICAgICAgICA0MC4wLAogICAgICAgICAgICAgIDQwLjAsCiAgICAgICAgICAgICkpLAo=</text>
+        <text encoding="base64">ICAgICAgICBjaGlsZDogbmV3IFNpemVkQm94KAogICAgICAgICAgY2hpbGQ6IG5ldyBNeUJveCgpLAogICAgICAgICAgd2lkdGg6IDQwLjAsCiAgICAgICAgICBoZWlnaHQ6IDQwLjAsCiAgICAgICAgKSwK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zdHJhaW50czogbmV3IEJveENvbnN0cmFpbnRzLnRpZ2h0KG5ldyBTaXplKAogICAgICAgICAgICAgICAgNDAuMCwKICAgICAgICAgICAgICAgIDQwLjAsCiAgICAgICAgICAgICAgKSkpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBtaW5XaWR0aDogNDAuMCwKICAgICAgICAgICAgICBtYXhXaWR0aDogNDAuMCwKICAgICAgICAgICAgICBtaW5IZWlnaHQ6IDQwLjAsCiAgICAgICAgICAgICAgbWF4SGVpZ2h0OiA0MC4wLAo=</text>
+        <text encoding="base64">ICAgIHByaW50KGNvbnRleHQuc2l6ZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>constraints</last-search>
+      <last-search>width</last-search>
       <last-offset />
-      <last-pattern>constraints</last-pattern>
+      <last-pattern>width</last-pattern>
       <last-replace>true</last-replace>
       <last-substitute>projectId</last-substitute>
       <last-dir>1</last-dir>
@@ -4244,8 +4249,6 @@
     </search>
     <history>
       <history-search>
-        <entry>StateMatchine</entry>
-        <entry>StateMat</entry>
         <entry>hasState</entry>
         <entry encoding="base64">XDxkaXJlY3RpdmVTY29wZVw+</entry>
         <entry>directiveScope</entry>
@@ -4264,6 +4267,8 @@
         <entry>RenderView</entry>
         <entry>size</entry>
         <entry>constraints</entry>
+        <entry encoding="base64">XDxjb25zdHJhaW50c1w+</entry>
+        <entry>width</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bWFwIDxjbWQrcz4gdQ==</entry>
@@ -4281,10 +4286,10 @@
         <entry>:action Flutter.Toolbar.ReloadAction</entry>
         <entry>action Flutter.Toolbar.ReloadAction</entry>
         <entry>ww</entry>
-        <entry>action AceAction</entry>
         <entry>actionlist wrap</entry>
         <entry>actionlist Wrap</entry>
         <entry>actionlist Flutter</entry>
+        <entry>action AceAction</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
