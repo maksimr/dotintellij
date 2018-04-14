@@ -2705,7 +2705,8 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="31" column="21" />
       </file>
-      <file name="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/rendering/proxy_box.dart" timestamp="1523732664237">
+      <file name="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/rendering/proxy_box.dart" timestamp="1523733604064">
+        <mark key="'" line="334" column="50" />
         <mark key="[" line="182" column="0" />
         <mark key="]" line="183" column="79" />
       </file>
@@ -4085,13 +4086,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
-      <jump line="3" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
-      <jump line="123" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
-      <jump line="17" column="11" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
-      <jump line="697" column="5" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/binding.dart" />
-      <jump line="715" column="21" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/binding.dart" />
-      <jump line="717" column="32" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/binding.dart" />
       <jump line="718" column="33" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/binding.dart" />
       <jump line="731" column="49" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/binding.dart" />
       <jump line="788" column="28" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/binding.dart" />
@@ -4185,6 +4179,13 @@
       <jump line="1620" column="17" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/basic.dart" />
       <jump line="1610" column="6" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/basic.dart" />
       <jump line="1453" column="17" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/rendering/object.dart" />
+      <jump line="191" column="0" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/rendering/proxy_box.dart" />
+      <jump line="201" column="17" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/rendering/proxy_box.dart" />
+      <jump line="256" column="50" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/rendering/proxy_box.dart" />
+      <jump line="259" column="44" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/rendering/proxy_box.dart" />
+      <jump line="337" column="16" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/rendering/proxy_box.dart" />
+      <jump line="336" column="16" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/rendering/proxy_box.dart" />
+      <jump line="334" column="50" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/rendering/proxy_box.dart" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -4197,7 +4198,7 @@
         <text>widget</text>
       </register>
       <register name="/" type="4">
-        <text>parentUsesSize</text>
+        <text>constraints</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgKiBSZXR1cm5zIHRoaXMgW251bV0gY2xhbXBlZCB0byBiZSBpbiB0aGUgcmFuZ2UgW2xvd2VyTGltaXRdLVt1cHBlckxpbWl0XS4KICAgKgo=</text>
@@ -4240,9 +4241,9 @@
       </register>
     </registers>
     <search>
-      <last-search>parentUsesSize</last-search>
+      <last-search>constraints</last-search>
       <last-offset />
-      <last-pattern>parentUsesSize</last-pattern>
+      <last-pattern>constraints</last-pattern>
       <last-replace>true</last-replace>
       <last-substitute>projectId</last-substitute>
       <last-dir>1</last-dir>
@@ -4260,7 +4261,6 @@
         <entry>Render</entry>
         <entry>RenderView</entry>
         <entry>size</entry>
-        <entry>constraints</entry>
         <entry encoding="base64">XDxjb25zdHJhaW50c1w+</entry>
         <entry>color</entry>
         <entry encoding="base64">XDxjb2xvclw+</entry>
@@ -4270,6 +4270,7 @@
         <entry>render</entry>
         <entry encoding="base64">XDxhZGRpdGlvbmFsQ29uc3RyYWludHNcPg==</entry>
         <entry>parentUsesSize</entry>
+        <entry>constraints</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">bWFwIDxjbWQrcz4gdQ==</entry>
