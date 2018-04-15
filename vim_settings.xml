@@ -2130,13 +2130,6 @@
         <mark key="^" line="40" column="52" />
         <mark key="." line="40" column="52" />
       </file>
-      <file name="$USER_HOME$/www/dart/flutter_sdk/packages/flutter/test/widgets/unconstrained_box_test.dart" timestamp="1523782141927">
-        <mark key="'" line="11" column="72" />
-        <mark key="[" line="9" column="10" />
-        <mark key="]" line="9" column="25" />
-        <mark key="." line="9" column="25" />
-        <mark key="^" line="9" column="25" />
-      </file>
       <file name="/tmp/foo/test/widget_test.dart" timestamp="1517349089899">
         <mark key="'" line="16" column="0" />
         <mark key="[" line="28" column="49" />
@@ -2233,13 +2226,7 @@
         <mark key="." line="8" column="26" />
         <mark key="^" line="8" column="26" />
       </file>
-      <file name="$USER_HOME$/www/dart/flutter_sdk/packages/flutter/lib/src/widgets/basic.dart" timestamp="1523781873094">
-        <mark key="'" line="1763" column="7" />
-        <mark key="[" line="1764" column="14" />
-        <mark key="]" line="1764" column="14" />
-        <mark key="." line="1764" column="14" />
-        <mark key="^" line="1764" column="14" />
-      </file>
+      <file name="$USER_HOME$/www/dart/flutter_sdk/packages/flutter/lib/src/widgets/basic.dart" timestamp="1523782841440" />
       <file name="$USER_HOME$/www/js/foo/src/PopupTest.js" timestamp="1518770758620">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="37" column="27" />
@@ -3006,6 +2993,10 @@
         <mark key="]" line="63" column="23" />
         <mark key="^" line="63" column="23" />
         <mark key="." line="63" column="23" />
+      </file>
+      <file name="$USER_HOME$/www/dart/flutter_sdk/packages/flutter/test/widgets/reassemble_test.dart" timestamp="1523782815847">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="24" />
       </file>
       <file name="$USER_HOME$/www/clojure/hello-clojurescript/src/hello_clojurescript/core.cljs" timestamp="1492019009517">
         <mark key="'" line="11" column="0" />
@@ -4148,7 +4139,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1620" column="17" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/basic.dart" />
       <jump line="1610" column="6" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/basic.dart" />
       <jump line="1453" column="17" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/rendering/object.dart" />
       <jump line="191" column="0" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/rendering/proxy_box.dart" />
@@ -4248,55 +4238,56 @@
       <jump line="21" column="6" filename="$USER_HOME$/www/dart/flutter_sdk/packages/flutter/test/widgets/render_object_widget_test.dart" />
       <jump line="1763" column="7" filename="$USER_HOME$/www/dart/flutter_sdk/packages/flutter/lib/src/widgets/basic.dart" />
       <jump line="12" column="72" filename="$USER_HOME$/www/dart/flutter_sdk/packages/flutter/test/widgets/unconstrained_box_test.dart" />
+      <jump line="1767" column="0" filename="$USER_HOME$/www/dart/flutter_sdk/packages/flutter/lib/src/widgets/basic.dart" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Widget</text>
+        <text encoding="base64">YXdhaXQg</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>Widget</text>
+        <text encoding="base64">YXdhaXQg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cGRhdGVSZW5kZXJPYmplY3RcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHRlc3Rlci5wdW1wV2lkZ2V0KHVuY29uc3RyYWluZWRCb3gpOwo=</text>
+        <text encoding="base64">ICAgIGF3YWl0IHRlc3Rlci5wdW1wKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHRlc3Rlci5wdW1wQW5kU2V0dGxlKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHRlc3Rlci5wdW1wQW5kU2V0dGxlKCk7Cg==</text>
+        <text encoding="base64">ICAgIHJlbmRlck9iamVjdC4uY29uc3RyYWluZWRBeGlzID0gY29uc3RyYWluZWRBeGlzOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgLi5jb25zdHJhaW5lZEF4aXMgPSBjb25zdHJhaW5lZEF4aXM7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCdBJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIFJlbmRlck9iamVjdCByID0gdGVzdGVyLnJlbmRlck9iamVjdChmaW5kLmJ5VHlwZShVbmNvbnN0cmFpbmVkQm94KSk7CiAgICB1bmNvbnN0cmFpbmVkQm94LmNyZWF0ZUVsZW1lbnQoKTsK</text>
+        <text encoding="base64">ICAgIGF3YWl0IHRlc3Rlci5wdW1wQW5kU2V0dGxlKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGF3YWl0IHRlc3Rlci5wdW1wQW5kU2V0dGxlKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGYK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHRlc3Rlci5wdW1wV2lkZ2V0KHVuY29uc3RyYWluZWRCb3gpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGF3YWl0IHRlc3Rlci5wdW1wKCk7Cg==</text>
+        <text encoding="base64">ICAgIGZpbmFsIFJlbmRlck9iamVjdCByID0gdGVzdGVyLnJlbmRlck9iamVjdChmaW5kLmJ5VHlwZShVbmNvbnN0cmFpbmVkQm94KSk7CiAgICB1bmNvbnN0cmFpbmVkQm94LmNyZWF0ZUVsZW1lbnQoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
