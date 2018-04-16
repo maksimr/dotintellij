@@ -22,8 +22,8 @@
       <file name="$USER_HOME$/www/dart/flutter_sdk/packages/flutter/test/widgets/render_object_widget_test.dart" timestamp="1523781550332">
         <mark key="'" line="21" column="6" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/test/service/yt-utils.js" timestamp="1523881356863">
-        <mark key="'" line="17" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/test/service/yt-utils.js" timestamp="1523890948104">
+        <mark key="'" line="16" column="0" />
         <mark key="[" line="0" column="1" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -152,6 +152,12 @@
       <file name="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/rendering/object.dart" timestamp="1523735699476">
         <mark key="'" line="1270" column="33" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/yt-utils.js" timestamp="1523891081355">
+        <mark key="[" line="196" column="0" />
+        <mark key="]" line="196" column="0" />
+        <mark key="." line="196" column="0" />
+        <mark key="^" line="194" column="11" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/permissions.js" timestamp="1523531896107">
         <mark key="'" line="0" column="0" />
       </file>
@@ -243,9 +249,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="355" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
-      <jump line="346" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
-      <jump line="345" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
       <jump line="324" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
       <jump line="323" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
       <jump line="322" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
@@ -343,72 +346,74 @@
       <jump line="57" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issues-other-actions.js" />
       <jump line="56" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issues-other-actions.js" />
       <jump line="66" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issues-other-actions.js" />
+      <jump line="5" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/test/service/yt-utils.js" />
+      <jump line="411" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/test/service/yt-utils.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/test/service/yt-utils.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>this.</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlbGVtZW50XD4=</text>
+        <text>setValueByPropertyName</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBydW5uYWJsZSA9IHRlc3RzQ29udGV4dC5rZXlzKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cnVubmFibGUgPSB0ZXN0c0NvbnRleHQua2V5cygpOwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyaWFibGVbbmFtZUl0ZW1zW2ldXSA9IHZhbHVlOwo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0aGlzLnNpbm9uLnN0dWIoJGN0cmwsICdyZXNldCcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2YXIgd2luZG93TW9jazsK</text>
+        <text encoding="base64">cnVubmFibGUgPSB0ZXN0c0NvbnRleHQua2V5cygpOwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB0aGlzLnNpbm9uLnN0dWIoJGN0cmwsICdyZXNldCcpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cnVubmFibGUgPSB0ZXN0c0NvbnRleHQua2V5cygpOwo=</text>
+        <text encoding="base64">ICB2YXIgd2luZG93TW9jazsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB2YXIgc2lub24gPSB0aGlzLnNpbm9uOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlbGVtZW50XD4=</last-search>
+      <last-search>setValueByPropertyName</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlbGVtZW50XD4=</last-pattern>
+      <last-pattern>setValueByPropertyName</last-pattern>
       <last-replace>true</last-replace>
       <last-substitute>projectId</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>babel</entry>
         <entry encoding="base64">XDxnZXRKYXZhU2NyaXB0TG9hZGVyc1w+</entry>
         <entry encoding="base64">XDxyZXNvbHZlTG9hZGVyXD4=</entry>
         <entry>this</entry>
@@ -428,9 +433,9 @@
         <entry>sinon</entry>
         <entry>element</entry>
         <entry encoding="base64">XDxlbGVtZW50XD4=</entry>
+        <entry>setValueByPropertyName</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">bWFwISA8Y21kK3M+IHU=</entry>
         <entry encoding="base64">bWFwIDxDbWQrcz4gPEMtcz4=</entry>
         <entry>action AceJumpAction</entry>
         <entry>actionlist Ace</entry>
@@ -449,6 +454,7 @@
         <entry>actionlist Flutter</entry>
         <entry>action AceAction</entry>
         <entry>40</entry>
+        <entry>198</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
