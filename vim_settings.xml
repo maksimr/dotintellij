@@ -143,11 +143,12 @@
       <file name="$USER_HOME$/www/dart/flutter_sdk/packages/flutter/test/widgets/unconstrained_box_test.dart" timestamp="1523784915934">
         <mark key="'" line="14" column="3" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/test/unit/test-bundle.webpack.js" timestamp="1523881399391">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="1" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="0" column="1" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/test/unit/test-bundle.webpack.js" timestamp="1523881721820">
+        <mark key="'" line="3" column="1" />
+        <mark key="[" line="1" column="15" />
+        <mark key="]" line="2" column="1" />
+        <mark key="." line="2" column="1" />
+        <mark key="^" line="2" column="1" />
       </file>
       <file name="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/rendering/shifted_box.dart" timestamp="1523785509321">
         <mark key="[" line="628" column="0" />
@@ -182,10 +183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="7" filename="$USER_HOME$/www/dart/flutter_sdk/packages/flutter/test/widgets/render_object_widget_test.dart" />
-      <jump line="21" column="6" filename="$USER_HOME$/www/dart/flutter_sdk/packages/flutter/test/widgets/render_object_widget_test.dart" />
-      <jump line="1763" column="7" filename="$USER_HOME$/www/dart/flutter_sdk/packages/flutter/lib/src/widgets/basic.dart" />
-      <jump line="12" column="72" filename="$USER_HOME$/www/dart/flutter_sdk/packages/flutter/test/widgets/unconstrained_box_test.dart" />
       <jump line="1767" column="0" filename="$USER_HOME$/www/dart/flutter_sdk/packages/flutter/lib/src/widgets/basic.dart" />
       <jump line="5" column="0" filename="$USER_HOME$/www/dart/bar/lib/main.dart" />
       <jump line="242" column="2" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/rendering/sliver_list.dart" />
@@ -282,10 +279,14 @@
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/test/service/yt-utils.js" />
       <jump line="412" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/test/service/yt-utils.js" />
       <jump line="17" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/test/service/yt-utils.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/test/unit/test-bundle.webpack.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/test/unit/test-bundle.webpack.js" />
+      <jump line="19" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/test/unit/test-bundle.webpack.js" />
+      <jump line="3" column="1" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/test/unit/test-bundle.webpack.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgYW5hbHl0aWNzLnRyYWNrRXZlbnQoJ3l0LWNvbW1hbmQtZGlhbG9nJywgJ3Nob3ctY29tbWFuZC1kaWFsb2cnKTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -300,37 +301,37 @@
         <text encoding="base64">ICAgICAgcmV0dXJuIG5ldyBTaXplZEJveCgKICAgICAgICB3aWR0aDogMTAwLjAsCiAgICAgICAgaGVpZ2h0OiAxMDAuMCwKICAgICAgICBjaGlsZDogbmV3IFBhZGRpbmcoCiAgICAgICAgICBwYWRkaW5nOiBFZGdlSW5zZXRzLmFsbCg1LjApLAogICAgICAgICAgY2hpbGQ6IG5ldyBEZWNvcmF0ZWRCb3goCiAgICAgICAgICAgIGRlY29yYXRpb246IG5ldyBCb3hEZWNvcmF0aW9uKAogICAgICAgICAgICAgIGNvbG9yOiBjb2xvciwKICAgICAgICAgICAgKSwKICAgICAgICAgICksCiAgICAgICAgKSwKICAgICAgKTs=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgYW5hbHl0aWNzLnRyYWNrRXZlbnQoJ3l0LWNvbW1hbmQtZGlhbG9nJywgJ3Nob3ctY29tbWFuZC1kaWFsb2cnKTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhciB0ID0gKChsZW4gLSAxKSAtIGkpICogc2l6ZTsK</text>
+        <text encoding="base64">cmVxdWlyZSgnLi90ZXN0LWNvbW1vbicpOwoKLy8gVGhpcyBnZXRzIHJlcGxhY2VkIGJ5IGthcm1hIHdlYnBhY2sgd2l0aCB0aGUgdXBkYXRlZCBmaWxlcyBvbiByZWJ1aWxkCnZhciBfX2thcm1hV2VicGFja01hbmlmZXN0X18gPSBbXTsKCnZhciB0ZXN0c0NvbnRleHQgPSByZXF1aXJlLmNvbnRleHQoJy4uLy4uL2FwcCcsIHRydWUsIC90ZXN0XC8oPyFlMmVcLykuKlwuanMkLyk7CgpmdW5jdGlvbiBpbk1hbmlmZXN0KHBhdGgpIHsKICByZXR1cm4gX19rYXJtYVdlYnBhY2tNYW5pZmVzdF9fLmluZGV4T2YocGF0aCkgPj0gMDsKfQoKdmFyIHJ1bm5hYmxlID0gdGVzdHNDb250ZXh0LmtleXMoKS5maWx0ZXIoaW5NYW5pZmVzdCk7CgovLyBSdW4gYWxsIHRlc3RzIGlmIHdlIGRpZG4ndCBmaW5kIGFueSBjaGFuZ2VzCmlmICghcnVubmFibGUubGVuZ3RoKSB7CiAgcnVubmFibGUgPSB0ZXN0c0NvbnRleHQua2V5cygpOwp9CgpydW5uYWJsZS5mb3JFYWNoKHRlc3RzQ29udGV4dCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgfSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICk7Cg==</text>
+        <text encoding="base64">J3VzZSBzdHJpY3QnOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBuZXcgTGF5b3V0QnVpbGRlcigKICAgICAgYnVpbGRlcjogKGNvbnRleHQsIHBvcykgewo=</text>
+        <text encoding="base64">CiAgICAgICAgYW5hbHl0aWNzLnRyYWNrRXZlbnQoJ3l0LWNvbW1hbmQtZGlhbG9nJywgJ3Nob3ctY29tbWFuZC1kaWFsb2cnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBSZW5kZXJCb3ggYiA9IGNvbnRleHQuZmluZFJlbmRlck9iamVjdCgpOwo=</text>
+        <text encoding="base64">ICAgIHZhciB0ID0gKChsZW4gLSAxKSAtIGkpICogc2l6ZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChiLnNpemUpOwo=</text>
+        <text encoding="base64">ICAgICAgfSwK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBiLnBhcmVudERhdGEK</text>
+        <text encoding="base64">ICAgICk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbmV3IFNpemVkQm94KAogICAgICAgIHdpZHRoOiAxMDAuMCwKICAgICAgICBoZWlnaHQ6IDEwMC4wLAogICAgICAgIGNoaWxkOiBuZXcgUGFkZGluZygKICAgICAgICAgIHBhZGRpbmc6IEVkZ2VJbnNldHMuYWxsKDUuMCksCiAgICAgICAgICBjaGlsZDogbmV3IERlY29yYXRlZEJveCgKICAgICAgICAgICAgZGVjb3JhdGlvbjogbmV3IEJveERlY29yYXRpb24oCiAgICAgICAgICAgICAgY29sb3I6IGNvbG9yLAogICAgICAgICAgICApLAogICAgICAgICAgKSwKICAgICAgICApLAogICAgICApLAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBuZXcgTGF5b3V0QnVpbGRlcigKICAgICAgYnVpbGRlcjogKGNvbnRleHQsIHBvcykgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
