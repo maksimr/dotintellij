@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/directive/yt-workflow-rule-icon.js" timestamp="1523976410434">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/directive/yt-workflow-rule-icon.js" timestamp="1523977344044">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="16" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/issue.js" timestamp="1523956842220">
         <mark key="'" line="0" column="0" />
@@ -69,12 +69,11 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" timestamp="1523976859023">
         <mark key="'" line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/service/scripts/rule-templates.js" timestamp="1523976727939">
-        <mark key="'" line="80" column="2" />
-        <mark key="[" line="10" column="21" />
-        <mark key="]" line="10" column="21" />
-        <mark key="." line="10" column="21" />
-        <mark key="^" line="10" column="21" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/service/scripts/rule-templates.js" timestamp="1523977263159">
+        <mark key="'" line="78" column="2" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/issue-resource.js" timestamp="1523968548523">
         <mark key="'" line="313" column="10" />
@@ -204,7 +203,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="427" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/admin.js" />
       <jump line="403" column="43" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/admin.js" />
       <jump line="13" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/vcs.js" />
       <jump line="70" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/vcs.js" />
@@ -304,10 +302,11 @@
       <jump line="47" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
       <jump line="46" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
       <jump line="25" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/directive/yt-workflow-rule-icon.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcmVzb2x2ZUxvYWRlcignbmctYW5ub3RhdGUnKSwK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGYpOwo=</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -319,37 +318,37 @@
         <text>babel</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgYXJncy51bnNoaWZ0KG51bGwpOwogICAgICByZXR1cm4gbmV3IChGdW5jdGlvbi5wcm90b3R5cGUuYmluZC5hcHBseShjdG9yLCBhcmdzKSkoKTsK</text>
+        <text encoding="base64">ICAgIHZhciBmID0gKGEsIGIpID0+IHt9OwogICAgY29uc29sZS5sb2cobmV3IGYoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcmVzb2x2ZUxvYWRlcignbmctYW5ub3RhdGUnKSwK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGYpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJwbHVnaW5zIjogWwogICAgICAiYW5ndWxhcmpzLWFubm90YXRlIgogICAgXSwK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNsYXNzCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHNlcnZpY2VOYW1lKSB7CiAgICAgICAgY29uc29sZS5sb2coc2VydmljZU5hbWUpOwogICAgICB9Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICB2YXIgZiA9IChhLCBiKSA9PiB7fTsKICBjb25zb2xlLmxvZygnQUFBJywgbmV3IGYoKSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHZhciBmID0gKGEsIGIpID0+IHt9OwogICAgY29uc29sZS5sb2cobmV3IGYoKSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgcmVzb2x2ZUxvYWRlcignbmctYW5ub3RhdGUnKSwK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coc2VydmljZU5hbWUpOwo=</text>
+        <text encoding="base64">ICAgICJwbHVnaW5zIjogWwogICAgICAiYW5ndWxhcmpzLWFubm90YXRlIgogICAgXSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmVxdWlyZSgnYmFiZWwtcG9seWZpbGwnKTsK</text>
+        <text encoding="base64">ICAgIGNsYXNzCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKHNlcnZpY2VOYW1lKSB7CiAgICAgICAgY29uc29sZS5sb2coc2VydmljZU5hbWUpOwogICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
