@@ -437,6 +437,10 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-remove")).withParent(xmlTag().withLocalName(string().equalTo("yt-issue-stream-work-item")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-issue-tags/@on-remove-tag</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-remove-tag")).withParent(xmlTag().withLocalName(string().equalTo("yt-issue-tags")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>yt-issue-toolbar/@on-edit</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-edit")).withParent(xmlTag().withLocalName(string().equalTo("yt-issue-toolbar")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
