@@ -205,8 +205,10 @@
         <mark key="[" line="70" column="0" />
         <mark key="]" line="73" column="12" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" timestamp="1524063770549">
-        <mark key="'" line="30" column="20" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" timestamp="1524077640241">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="153" column="0" />
+        <mark key="]" line="165" column="4" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-fields-panel.html" timestamp="1524050130005">
         <mark key="'" line="12" column="34" />
@@ -242,6 +244,9 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-issue-create-dialog.js" timestamp="1524044797413">
         <mark key="[" line="68" column="46" />
         <mark key="]" line="68" column="62" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1524077409996">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/service/get-issue-draft.js" timestamp="1523967346623">
         <mark key="'" line="19" column="0" />
@@ -305,9 +310,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="274" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-watchers.js" />
-      <jump line="10" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-watchers.html" />
-      <jump line="62" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/template/new-issue.html" />
       <jump line="64" column="59" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/issue.js" />
       <jump line="57" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/issue.js" />
       <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/template/new-issue.html" />
@@ -338,7 +340,6 @@
       <jump line="92" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
       <jump line="110" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
       <jump line="111" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
-      <jump line="5" column="57" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
       <jump line="105" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/command-dialog.js" />
       <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/command-dialog.js" />
@@ -405,10 +406,14 @@
       <jump line="71" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
       <jump line="133" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
       <jump line="30" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
+      <jump line="69" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
+      <jump line="183" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IElzc3Vl</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIGxvYWRJc3N1ZURyYWZ0KGRyYWZ0SWQpIHsKICAgICAgcmV0dXJuIGlzc3VlUmVzb3VyY2UuaXNzdWVEcmFmdHNGdWxsLmdldCh7CiAgICAgICAgaXNzdWVJZDogZHJhZnRJZAogICAgICB9KS4kcHJvbWlzZQogICAgICAgIC5jYXRjaChmdW5jdGlvbihlcnIpIHsKICAgICAgICAgIGlmIChlcnIuc3RhdHVzID09PSA0MDQpIHsKICAgICAgICAgICAgcmV0dXJuIGluaXREcmFmdCgpLnRoZW4oZnVuY3Rpb24oKSB7CiAgICAgICAgICAgICAgYWxlcnQud2FybmluZyhpMThuKCdUaGUgcmVxdWVzdGVkIGRyYWZ0IGRvZXNuXCd0IGV4aXN0IGFueW1vcmUsIHNvIGEgbmV3IGRyYWZ0IHdhcyBjcmVhdGVkIGluc3RlYWQnKSk7CiAgICAgICAgICAgIH0pOwogICAgICAgICAgfQogICAgICAgICAgcmV0dXJuIGh0dHBFcnJvckhhbmRsZXIuc2hvd01lc3NhZ2UoZXJyKTsKICAgICAgICB9KTsKICAgIH0K</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -420,7 +425,7 @@
         <text>init</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIGxvYWRJc3N1ZURyYWZ0KGRyYWZ0SWQpIHsKICAgICAgcmV0dXJuIGlzc3VlUmVzb3VyY2UuaXNzdWVEcmFmdHNGdWxsLmdldCh7CiAgICAgICAgaXNzdWVJZDogZHJhZnRJZAogICAgICB9KS4kcHJvbWlzZQogICAgICAgIC5jYXRjaChmdW5jdGlvbihlcnIpIHsKICAgICAgICAgIGlmIChlcnIuc3RhdHVzID09PSA0MDQpIHsKICAgICAgICAgICAgcmV0dXJuIGluaXREcmFmdCgpLnRoZW4oZnVuY3Rpb24oKSB7CiAgICAgICAgICAgICAgYWxlcnQud2FybmluZyhpMThuKCdUaGUgcmVxdWVzdGVkIGRyYWZ0IGRvZXNuXCd0IGV4aXN0IGFueW1vcmUsIHNvIGEgbmV3IGRyYWZ0IHdhcyBjcmVhdGVkIGluc3RlYWQnKSk7CiAgICAgICAgICAgIH0pOwogICAgICAgICAgfQogICAgICAgICAgcmV0dXJuIGh0dHBFcnJvckhhbmRsZXIuc2hvd01lc3NhZ2UoZXJyKTsKICAgICAgICB9KTsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
