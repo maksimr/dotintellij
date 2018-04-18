@@ -130,11 +130,11 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/service/multiple-request-processor-handler.js" timestamp="1524039760936">
         <mark key="'" line="139" column="2" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/template/new-issue.html" timestamp="1524060310378">
-        <mark key="'" line="23" column="0" />
-        <mark key="[" line="58" column="50" />
-        <mark key="]" line="58" column="61" />
-        <mark key="." line="58" column="61" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/template/new-issue.html" timestamp="1524061140555">
+        <mark key="'" line="57" column="22" />
+        <mark key="[" line="78" column="24" />
+        <mark key="]" line="78" column="24" />
+        <mark key="." line="78" column="24" />
         <mark key="^" line="58" column="61" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/vcs.js" timestamp="1524039656018">
@@ -214,10 +214,6 @@
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" timestamp="1524060392634">
         <mark key="'" line="8" column="0" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="^" line="44" column="26" />
-        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-fields-panel.html" timestamp="1524050130005">
         <mark key="'" line="12" column="34" />
@@ -316,7 +312,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-fields-panel.html" />
       <jump line="12" column="34" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-fields-panel.html" />
       <jump line="8" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-view.html" />
       <jump line="60" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/template/new-issue.html" />
@@ -416,19 +411,20 @@
       <jump line="23" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/template/new-issue.html" />
       <jump line="108" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/issue.js" />
       <jump line="21" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-view-meta-information.html" />
+      <jump line="57" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/template/new-issue.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IElzc3Vl</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>issueViewCtrl</text>
+        <text encoding="base64">IElzc3Vl</text>
       </register>
       <register name="/" type="4">
-        <text>eye</text>
+        <text>Create</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Cg==</text>
@@ -471,9 +467,9 @@
       </register>
     </registers>
     <search>
-      <last-search>eye</last-search>
+      <last-search>Create</last-search>
       <last-offset />
-      <last-pattern>eye</last-pattern>
+      <last-pattern>Create</last-pattern>
       <last-replace>sidebar</last-replace>
       <last-substitute>fields</last-substitute>
       <last-dir>1</last-dir>
@@ -481,7 +477,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpc3N1ZVNob3J0Y3V0c1w+</entry>
         <entry>lis</entry>
         <entry encoding="base64">XDxzaG93Q29tbWFuZERpYWxvZ1dpdGhUeXBpbmdcPg==</entry>
         <entry>controll</entry>
@@ -501,6 +496,7 @@
         <entry>yt-gutter</entry>
         <entry>yt-vgutt</entry>
         <entry>eye</entry>
+        <entry>Create</entry>
       </history-search>
       <history-cmd>
         <entry>action SaveDocument</entry>
