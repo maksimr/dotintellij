@@ -205,8 +205,8 @@
         <mark key="[" line="70" column="0" />
         <mark key="]" line="73" column="12" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" timestamp="1524062648462">
-        <mark key="'" line="133" column="13" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" timestamp="1524063770549">
+        <mark key="'" line="30" column="20" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-fields-panel.html" timestamp="1524050130005">
         <mark key="'" line="12" column="34" />
@@ -305,10 +305,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-watchers.js" />
-      <jump line="101" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-watchers.js" />
-      <jump line="104" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-watchers.js" />
-      <jump line="139" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-watchers.js" />
       <jump line="274" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-watchers.js" />
       <jump line="10" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-watchers.html" />
       <jump line="62" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/template/new-issue.html" />
@@ -404,7 +400,11 @@
       <jump line="64" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
       <jump line="63" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
       <jump line="60" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
+      <jump line="58" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
+      <jump line="70" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
+      <jump line="71" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
       <jump line="133" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
+      <jump line="30" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -417,7 +417,7 @@
         <text encoding="base64">IElzc3Vl</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbml0RHJhZnRcPg==</text>
+        <text>init</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Cg==</text>
@@ -460,17 +460,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbml0RHJhZnRcPg==</last-search>
+      <last-search>init</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbml0RHJhZnRcPg==</last-pattern>
+      <last-pattern>init</last-pattern>
       <last-replace>sidebar</last-replace>
       <last-substitute>fields</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>controll</entry>
         <entry>insta</entry>
         <entry encoding="base64">XDxpc3N1ZVByb2plY3RJbnN0YW5jZVw+</entry>
         <entry encoding="base64">XDxvbkNoYW5nZVw+</entry>
@@ -490,6 +489,7 @@
         <entry>Create</entry>
         <entry>remove</entry>
         <entry encoding="base64">XDxpbml0RHJhZnRcPg==</entry>
+        <entry>init</entry>
       </history-search>
       <history-cmd>
         <entry>action SaveDocument</entry>
