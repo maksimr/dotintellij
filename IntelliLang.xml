@@ -297,6 +297,18 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("rg-tooltip")).withParent(xmlTag().withLocalName(string().equalTo("span")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>textarea/@markdown</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("markdown")).withParent(xmlTag().withLocalName(string().equalTo("textarea")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>textarea/@ng-change</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-change")).withParent(xmlTag().withLocalName(string().equalTo("textarea")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>textarea/@yt-event-ctrl-enter</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("yt-event-ctrl-enter")).withParent(xmlTag().withLocalName(string().equalTo("textarea")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>textarea/@yt-paste-image</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("yt-paste-image")).withParent(xmlTag().withLocalName(string().equalTo("textarea")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
