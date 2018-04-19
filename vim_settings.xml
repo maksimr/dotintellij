@@ -183,11 +183,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/vcs-integration-resource.js" timestamp="1524039644146">
         <mark key="'" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/test/controller/new-issue.js" timestamp="1524138669896">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/test/controller/new-issue.js" timestamp="1524139104844">
         <mark key="'" line="108" column="0" />
-        <mark key="[" line="172" column="16" />
-        <mark key="]" line="172" column="16" />
-        <mark key="." line="172" column="16" />
+        <mark key="[" line="173" column="6" />
+        <mark key="]" line="173" column="14" />
+        <mark key="." line="173" column="14" />
+        <mark key="^" line="173" column="14" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/style/yt-issue-layout.scss" timestamp="1524044531726">
         <mark key="'" line="9" column="3" />
@@ -231,12 +232,12 @@
         <mark key="[" line="127" column="8" />
         <mark key="]" line="127" column="46" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" timestamp="1524138553286">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="38" />
-        <mark key="." line="70" column="0" />
-        <mark key="^" line="37" column="37" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" timestamp="1524139542347">
+        <mark key="'" line="180" column="6" />
+        <mark key="[" line="186" column="20" />
+        <mark key="]" line="186" column="31" />
+        <mark key="." line="186" column="31" />
+        <mark key="^" line="186" column="31" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-fields-panel.html" timestamp="1524050130005">
         <mark key="'" line="12" column="34" />
@@ -351,8 +352,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="180" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/issue.js" />
-      <jump line="59" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/service/create-issue-event-source.js" />
       <jump line="62" column="58" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/service/create-issue-event-source.js" />
       <jump line="66" column="49" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/service/create-issue-event-source.js" />
       <jump line="74" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/service/create-issue-event-source.js" />
@@ -383,7 +382,6 @@
       <jump line="121" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/test/controller/new-issue.js" />
       <jump line="122" column="29" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
       <jump line="82" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
-      <jump line="186" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
       <jump line="174" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
       <jump line="130" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
       <jump line="48" column="32" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
@@ -451,72 +449,74 @@
       <jump line="32" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
       <jump line="17" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
       <jump line="108" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/test/controller/new-issue.js" />
+      <jump line="186" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
+      <jump line="175" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
+      <jump line="180" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>draft if draft was modified on server</text>
+        <text>activeRequestPromise</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>draft if draft was modified on server</text>
+        <text>activeRequestPromise</text>
       </register>
       <register name="/" type="4">
-        <text>save</text>
+        <text encoding="base64">XDxyZXR1cm5cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgc2F2ZURyYWZ0LmFjdGl2ZVJlcXVlc3RQcm9taXNlID0gcHJvbWlzZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0R2V0RHJhZnQoZHJhZnQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHNhdmVEcmFmdC5yZXF1ZXN0c051bWJlciAtPSAxOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0VXBkYXRlRHJhZnQoZHJhZnQpLnJlc3BvbmQoNDEyKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwbHlDb3VudGRvd25UaW1lciA9IG51bGw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQuZmx1c2ggPSBmdW5jdGlvbigpIHsKICAgICAgICAgIGlmIChhcHBseUNvdW50ZG93blRpbWVyKSB7CgogICAgICAgICAgfQogICAgICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgc2F2ZURyYWZ0LnJlcXVlc3RzTnVtYmVyID0gc2F2ZURyYWZ0LnJlcXVlc3RzTnVtYmVyIHx8IDA7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRJc3N1ZVdhdGNoZXIoJGN0cmwuc2F2ZURyYWZ0RGVsYXllZC5jYW5jZWwpOwo=</text>
+        <text encoding="base64">ICAgICAgJGN0cmwuaXNzdQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYWRkSXNzdWVXYXRjaGVyKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgJGN0cmwuc2F2ZURyYWZ0RGVsYXllZC5jYW5jZWwoKTsK</text>
+        <text encoding="base64">ICAgICAgc3VtbWFyeQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>save</last-search>
+      <last-search encoding="base64">XDxyZXR1cm5cPg==</last-search>
       <last-offset />
-      <last-pattern>save</last-pattern>
+      <last-pattern encoding="base64">XDxyZXR1cm5cPg==</last-pattern>
       <last-replace>sidebar</last-replace>
       <last-substitute>fields</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>reject</entry>
         <entry>load</entry>
         <entry>init</entry>
         <entry encoding="base64">XDxzaG93TWVzc2FnZVw+</entry>
@@ -536,6 +536,7 @@
         <entry>clean</entry>
         <entry>clear</entry>
         <entry>save</entry>
+        <entry encoding="base64">XDxyZXR1cm5cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>action SaveDocument</entry>
