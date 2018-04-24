@@ -517,6 +517,10 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-if")).withParent(xmlTag().withLocalName(string().equalTo("yt-issue-view")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-issues-assignee-action/@issue</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("issue")).withParent(xmlTag().withLocalName(string().equalTo("yt-issues-assignee-action")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>yt-issues-navigator/@search-result-model</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("search-result-model")).withParent(xmlTag().withLocalName(string().equalTo("yt-issues-navigator")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
