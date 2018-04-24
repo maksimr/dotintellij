@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Scanner.kt" timestamp="1524593513898">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="14" column="21" />
-        <mark key="]" line="14" column="21" />
-        <mark key="." line="14" column="21" />
-        <mark key="^" line="14" column="21" />
+      <file name="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Scanner.kt" timestamp="1524594753420">
+        <mark key="'" line="20" column="16" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+        <mark key="^" line="25" column="23" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/issue.js" timestamp="1524214811430">
         <mark key="'" line="69" column="26" />
@@ -546,7 +546,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/search-query-panel/search-query-panel.js" />
       <jump line="19" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/search-query-panel/directive/search-query-panel.js" />
       <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/search-query-panel/template/search-query-panel.html" />
       <jump line="103" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issues-search/service/issues-search-result-model.js" />
@@ -631,7 +630,6 @@
       <jump line="1" column="0" filename="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Scanner.kt" />
       <jump line="14" column="0" filename="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Scanner.kt" />
       <jump line="4" column="0" filename="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Scanner.kt" />
-      <jump line="11" column="8" filename="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Scanner.kt" />
       <jump line="15" column="0" filename="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Lox.kt" />
       <jump line="3" column="0" filename="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Lox.kt" />
       <jump line="2" column="0" filename="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Scanner.kt" />
@@ -646,10 +644,12 @@
       <jump line="63" column="0" filename="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Lox.kt" />
       <jump line="0" column="0" filename="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Lox.kt" />
       <jump line="12" column="0" filename="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Scanner.kt" />
+      <jump line="11" column="16" filename="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Scanner.kt" />
+      <jump line="20" column="16" filename="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Scanner.kt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -658,10 +658,10 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>Token</text>
+        <text encoding="base64">XDxpc0F0RW5kXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2xhc3MgVG9rZW4odmFsIHR5cGU6IFRva2VuVHlwZSwKICAgICAgICAgICAgdmFsIGxleGVtZTogU3RyaW5nLAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFyIGN1cnJlbnQgPSAwCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -672,46 +672,45 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="8">
+        <text encoding="base64">dmFyIAp2YXIgCnZhciA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKHZhbCBzb3VyY2U6IFN0cmluZykgewogICAgICAgIHRoaXMuc291cmNlID0gc291cmNlCiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHNvdXJjZTogU3RyaW5nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CmNsYXNzIFNjYW5uZXIodmFsIHNvdXJjZTogU3RyaW5nKSB7CiAgICBmdW4gc2NhblRva2VucygpOiBMaXN0PFRva2VuPiB7CiAgICAgICAgcmV0dXJuIGVtcHR5TGlzdCgpCiAgICB9Cn0K</text>
+        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKHZhbCBzb3VyY2U6IFN0cmluZykgewogICAgICAgIHRoaXMuc291cmNlID0gc291cmNlCiAgICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdmFsIHNvdXJjZTogU3RyaW5nCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdHlwZSArICIgIiArIGxleGVtZSArICIgIiArIGxpdGVyYWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Token</last-search>
+      <last-search encoding="base64">XDxpc0F0RW5kXD4=</last-search>
       <last-offset />
-      <last-pattern>Token</last-pattern>
+      <last-pattern encoding="base64">XDxpc0F0RW5kXD4=</last-pattern>
       <last-replace>update</last-replace>
       <last-substitute>updated</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>NextIssue</entry>
         <entry encoding="base64">XDxzaG91bGRMb2FkTmV4dFBhZ2VPZkZvdW5kZWRJc3N1ZXNcPg==</entry>
         <entry encoding="base64">XDxuYXZpZ2F0ZVRvSXNzdWVcPg==</entry>
         <entry encoding="base64">XDxnZXROZXh0SXNzdWVJbmRleFw+</entry>
@@ -731,6 +730,7 @@
         <entry encoding="base64">XDxtYWluXD4=</entry>
         <entry>getFav</entry>
         <entry>Token</entry>
+        <entry encoding="base64">XDxpc0F0RW5kXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
