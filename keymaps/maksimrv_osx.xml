@@ -167,6 +167,10 @@
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="b" />
   </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+    <keyboard-shortcut first-keystroke="comma" second-keystroke="n" />
+  </action>
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="alt comma" second-keystroke="p" />
   </action>
