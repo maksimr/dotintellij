@@ -464,6 +464,11 @@
         <mark key="." line="3" column="30" />
         <mark key="^" line="3" column="30" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/feature-flags/service/feature-flags.js" timestamp="1524660976078">
+        <mark key="'" line="82" column="4" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="73" column="78" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/workflow/service/workflow-error-cli-decorator.js" timestamp="1524140946771">
         <mark key="'" line="10" column="21" />
       </file>
@@ -601,9 +606,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/directive/yt-mention.js" />
-      <jump line="112" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/directive/yt-mention.js" />
-      <jump line="108" column="33" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/directive/yt-mention.js" />
       <jump line="43" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/directive/yt-mention.js" />
       <jump line="433" column="33" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/directive/yt-mention.js" />
       <jump line="26" column="27" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/directive/yt-mention.js" />
@@ -701,10 +703,13 @@
       <jump line="397" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/custom-fields/custom-fields-per-project.js" />
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/style/icon.scss" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/app.scss" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/feature-flags/service/feature-flags.js" />
+      <jump line="71" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/feature-flags/service/feature-flags.js" />
+      <jump line="82" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/feature-flags/service/feature-flags.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.yt-icon-fix</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBORVdfQ1JFQVRFX0lTU1VFOiBtYWtlQmFja2VuZEZlYXR1cmVGbGFnKCduZXdDcmVhdGVJc3N1ZScpLAogICAgICAgIFJFUVVJUkVfQ1VTVE9NX0ZJRUxEUzogbWFrZUJhY2tlbmRGZWF0dXJlRmxhZygncmVxdWlyZWRDdXN0b21GaWVsZHMnKSwK</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -715,8 +720,8 @@
       <register name="/" type="4">
         <text>yt-gutter</text>
       </register>
-      <register name="0" type="4">
-        <text>.yt-icon-fix</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBORVdfQ1JFQVRFX0lTU1VFOiBtYWtlQmFja2VuZEZlYXR1cmVGbGFnKCduZXdDcmVhdGVJc3N1ZScpLAogICAgICAgIFJFUVVJUkVfQ1VTVE9NX0ZJRUxEUzogbWFrZUJhY2tlbmRGZWF0dXJlRmxhZygncmVxdWlyZWRDdXN0b21GaWVsZHMnKSwK</text>
       </register>
       <register name="1" type="8">
         <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAogICAgICAgICAgICAKICAgICAgICAgICAg</text>
