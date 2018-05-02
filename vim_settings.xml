@@ -6,8 +6,8 @@
       <file name="$USER_HOME$/www/dart/flutter_sdk/examples/flutter_gallery/lib/main.dart" timestamp="1524853529252">
         <mark key="'" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Scanner.kt" timestamp="1525175765069">
-        <mark key="'" line="124" column="8" />
+      <file name="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Scanner.kt" timestamp="1525273362220">
+        <mark key="'" line="170" column="0" />
         <mark key="[" line="159" column="20" />
         <mark key="]" line="159" column="21" />
         <mark key="." line="159" column="21" />
@@ -454,8 +454,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/config/config.js" timestamp="1524225231062">
         <mark key="'" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Interpreter.kt" timestamp="1525270616109">
-        <mark key="'" line="45" column="16" />
+      <file name="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Interpreter.kt" timestamp="1525273358713">
+        <mark key="'" line="46" column="44" />
         <mark key="[" line="41" column="26" />
         <mark key="]" line="41" column="36" />
         <mark key="." line="41" column="36" />
@@ -649,9 +649,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="36" filename="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Parser.kt" />
-      <jump line="112" column="0" filename="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Parser.kt" />
-      <jump line="115" column="0" filename="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Parser.kt" />
       <jump line="118" column="0" filename="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Parser.kt" />
       <jump line="12" column="0" filename="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Parser.kt" />
       <jump line="119" column="2" filename="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Parser.kt" />
@@ -749,6 +746,9 @@
       <jump line="24" column="0" filename="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Lox.kt" />
       <jump line="103" column="16" filename="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Interpreter.kt" />
       <jump line="44" column="16" filename="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Interpreter.kt" />
+      <jump line="42" column="0" filename="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Interpreter.kt" />
+      <jump line="46" column="44" filename="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Interpreter.kt" />
+      <jump line="170" column="0" filename="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Scanner.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -761,7 +761,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>check</text>
+        <text>End</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZWZ0IGlzIFN0cmluZyAmJiByaWdodCBpcyBTdHJpbmcgLT4gcmV0dXJuIGxlZnQgKyByaWdodAo=</text>
@@ -804,9 +804,9 @@
       </register>
     </registers>
     <search>
-      <last-search>check</last-search>
+      <last-search>End</last-search>
       <last-offset />
-      <last-pattern>check</last-pattern>
+      <last-pattern>End</last-pattern>
       <last-replace>onCtrlEnterCallback</last-replace>
       <last-substitute>onEnterCallback</last-substitute>
       <last-dir>1</last-dir>
@@ -814,8 +814,6 @@
     </search>
     <history>
       <history-search>
-        <entry>anima</entry>
-        <entry>List</entry>
         <entry>Animation</entry>
         <entry>Ani</entry>
         <entry encoding="base64">XDxvblRhcFw+</entry>
@@ -834,6 +832,8 @@
         <entry encoding="base64">XDx3aGVuXD4=</entry>
         <entry encoding="base64">XDxzeW5jaHJvbml6ZVw+</entry>
         <entry>check</entry>
+        <entry>is</entry>
+        <entry>End</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist wrap</entry>
