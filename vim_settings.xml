@@ -323,7 +323,7 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/search-query-panel/template/search-query-panel.html" timestamp="1524567368315">
         <mark key="'" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Parser.kt" timestamp="1525176303302">
+      <file name="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Parser.kt" timestamp="1525265417998">
         <mark key="'" line="151" column="16" />
         <mark key="[" line="13" column="37" />
         <mark key="]" line="14" column="22" />
@@ -383,8 +383,8 @@
         <mark key="^" line="400" column="5" />
         <mark key="." line="400" column="72" />
       </file>
-      <file name="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Lox.kt" timestamp="1525181994784">
-        <mark key="'" line="71" column="0" />
+      <file name="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Lox.kt" timestamp="1525265343961">
+        <mark key="'" line="57" column="0" />
         <mark key="[" line="36" column="46" />
         <mark key="]" line="36" column="49" />
         <mark key="." line="36" column="49" />
@@ -639,11 +639,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Expr.kt" />
-      <jump line="48" column="0" filename="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/AstPrinter.kt" />
-      <jump line="147" column="31" filename="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Scanner.kt" />
-      <jump line="27" column="18" filename="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Parser.kt" />
-      <jump line="36" column="0" filename="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Parser.kt" />
       <jump line="26" column="15" filename="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Parser.kt" />
       <jump line="61" column="15" filename="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Parser.kt" />
       <jump line="58" column="0" filename="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Parser.kt" />
@@ -709,7 +704,6 @@
       <jump line="147" column="0" filename="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Parser.kt" />
       <jump line="128" column="0" filename="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Parser.kt" />
       <jump line="163" column="0" filename="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Parser.kt" />
-      <jump line="151" column="16" filename="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Parser.kt" />
       <jump line="56" column="0" filename="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Lox.kt" />
       <jump line="70" column="0" filename="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Lox.kt" />
       <jump line="15" column="13" filename="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Lox.kt" />
@@ -739,6 +733,12 @@
       <jump line="12" column="0" filename="$USER_HOME$/www/dart/bar/lib/main.dart" />
       <jump line="44" column="15" filename="$USER_HOME$/www/dart/bar/lib/main.dart" />
       <jump line="18" column="0" filename="$USER_HOME$/www/dart/bar/lib/main.dart" />
+      <jump line="6" column="7" filename="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Lox.kt" />
+      <jump line="61" column="8" filename="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Lox.kt" />
+      <jump line="10" column="0" filename="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Lox.kt" />
+      <jump line="57" column="0" filename="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Lox.kt" />
+      <jump line="129" column="0" filename="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Parser.kt" />
+      <jump line="151" column="16" filename="$USER_HOME$/www/java/craftinginterpreters/src/com/craftinginterpreters/lox/Parser.kt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -751,7 +751,7 @@
         <text>widget</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3aGVuXD4=</text>
+        <text encoding="base64">XDxzeW5jaHJvbml6ZVw+</text>
       </register>
       <register name="0" type="4">
         <text>currentOffsetMap[items[i]]</text>
@@ -794,9 +794,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx3aGVuXD4=</last-search>
+      <last-search encoding="base64">XDxzeW5jaHJvbml6ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3aGVuXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzeW5jaHJvbml6ZVw+</last-pattern>
       <last-replace>onCtrlEnterCallback</last-replace>
       <last-substitute>onEnterCallback</last-substitute>
       <last-dir>-1</last-dir>
@@ -804,7 +804,6 @@
     </search>
     <history>
       <history-search>
-        <entry>destroy</entry>
         <entry>128</entry>
         <entry>anima</entry>
         <entry>List</entry>
@@ -824,6 +823,7 @@
         <entry>Gr</entry>
         <entry>line</entry>
         <entry encoding="base64">XDx3aGVuXD4=</entry>
+        <entry encoding="base64">XDxzeW5jaHJvbml6ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>actionlist wrap</entry>
