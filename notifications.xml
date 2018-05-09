@@ -1,6 +1,16 @@
 <application>
   <component name="NotificationConfiguration">
-    <notification groupId="MATERIAL_THEME_UPDATE" displayType="STICKY_BALLOON" shouldLog="false" />
-    <notification groupId="Quokka Notifications" displayType="NONE" shouldLog="false" />
+    <notification groupId="Configure Kotlin in Project" displayType="STICKY_BALLOON" />
+    <notification groupId="Cursive Licence" displayType="NONE" />
+    <notification groupId="Dart Analysis" displayType="NONE" shouldLog="false" />
+    <notification groupId="Docker: Dockerfile detection" displayType="NONE" shouldLog="false" />
+    <notification groupId="Framework Detection" displayType="NONE" />
+    <notification groupId="Gradle Import" displayType="NONE" shouldLog="false" />
+    <notification groupId="Outdated Kotlin Runtime" shouldLog="false" />
+    <notification groupId="TeamCity.BuildFailed" displayType="STICKY_BALLOON" />
+    <notification groupId="TeamCity.BuildSuccessful" displayType="STICKY_BALLOON" />
+    <notification groupId="Unindexed maven repositories gradle detection" displayType="NONE" shouldLog="false" />
+    <notification groupId="Upsource" displayType="NONE" shouldLog="false" />
+    <notification groupId="Wallaby Expired License" displayType="NONE" shouldLog="false" />
   </component>
 </application>

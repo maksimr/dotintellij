@@ -1,7 +1,44 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localWholeWordsOnly" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
+    <mask>*.jsp</mask>
+    <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.as</mask>
+    <mask>*.css</mask>
+    <mask>*.mxml</mask>
+    <mask>*.html,*.js,*.pot</mask>
+    <mask>*.html,*.js,*.po</mask>
+    <mask>*.html,*.js,*.po,*.pot</mask>
+    <mask>*.html,*.js</mask>
+    <mask>*.html,*.js,*.scss</mask>
+    <mask>*.html,</mask>
+    <mask>*.html,*.scss</mask>
+    <mask>*.html,*.scss,*.js</mask>
+    <mask>*.scss,*.html, *.js</mask>
+    <mask>*.js,*.html,*.scss,*.gradle</mask>
+    <mask>*.sh</mask>
+    <mask>*.dart</mask>
+    <mask>*.scss,*.js</mask>
+    <mask>*.scss,*.js,*.html</mask>
+    <mask>*.scss,*html,*.js</mask>
+    <mask>*.js,*.scss</mask>
+    <mask>*.js,*.scss,*.html</mask>
+    <mask>*.html</mask>
+    <mask>*.kt</mask>
+    <mask>*</mask>
+    <mask>*.js</mask>
+    <mask>*.js,*.html</mask>
+    <mask>*.js,*.html,*.scss</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
