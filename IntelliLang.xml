@@ -413,6 +413,10 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("selected-fn")).withParent(xmlTag().withLocalName(string().equalTo("yt-date-picker")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-dropdown/@directions</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("directions")).withParent(xmlTag().withLocalName(string().equalTo("yt-dropdown")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>yt-dropzone/@ng-attr-class</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-attr-class")).withParent(xmlTag().withLocalName(string().equalTo("yt-dropzone")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
