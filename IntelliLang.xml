@@ -413,6 +413,10 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("selected-fn")).withParent(xmlTag().withLocalName(string().equalTo("yt-date-picker")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-draft-issue-toolbar/@on-refresh</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-refresh")).withParent(xmlTag().withLocalName(string().equalTo("yt-draft-issue-toolbar")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>yt-dropdown/@directions</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("directions")).withParent(xmlTag().withLocalName(string().equalTo("yt-dropdown")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
@@ -519,6 +523,10 @@
     <injection language="AngularJS" injector-id="xml">
       <display-name>yt-issue-view/@ng-if</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-if")).withParent(xmlTag().withLocalName(string().equalTo("yt-issue-view")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-issue-watchers/@on-refresh-issue</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-refresh-issue")).withParent(xmlTag().withLocalName(string().equalTo("yt-issue-watchers")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
       <display-name>yt-issues-assignee-action/@issue</display-name>
