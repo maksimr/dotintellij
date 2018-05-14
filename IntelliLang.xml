@@ -465,12 +465,20 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-change-field-value")).withParent(xmlTag().withLocalName(string().equalTo("yt-issue-custom-field")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-issue-fields-panel/@change-issue-project</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("change-issue-project")).withParent(xmlTag().withLocalName(string().equalTo("yt-issue-fields-panel")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>yt-issue-fields-panel/@error-decorator</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("error-decorator")).withParent(xmlTag().withLocalName(string().equalTo("yt-issue-fields-panel")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
       <display-name>yt-issue-fields-panel/@fields-filter</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("fields-filter")).withParent(xmlTag().withLocalName(string().equalTo("yt-issue-fields-panel")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-issue-fields-panel/@on-change-issue-project</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-change-issue-project")).withParent(xmlTag().withLocalName(string().equalTo("yt-issue-fields-panel")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
       <display-name>yt-issue-layout/@sidebar-on-the-left</display-name>
