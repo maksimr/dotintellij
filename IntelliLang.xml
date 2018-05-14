@@ -145,6 +145,10 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("new-features")).withParent(xmlTag().withLocalName(string().equalTo("new-features-popup")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>ng-switch/@case</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("case")).withParent(xmlTag().withLocalName(string().equalTo("ng-switch")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>ng-switch/@on</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on")).withParent(xmlTag().withLocalName(string().equalTo("ng-switch")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
