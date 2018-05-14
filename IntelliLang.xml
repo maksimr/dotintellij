@@ -329,8 +329,20 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-disabled")).withParent(xmlTag().withLocalName(string().equalTo("textarea")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>textarea/@on-open-command-dialog</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-open-command-dialog")).withParent(xmlTag().withLocalName(string().equalTo("textarea")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>textarea/@yt-event-command-dialog</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("yt-event-command-dialog")).withParent(xmlTag().withLocalName(string().equalTo("textarea")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>textarea/@yt-event-ctrl-enter</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("yt-event-ctrl-enter")).withParent(xmlTag().withLocalName(string().equalTo("textarea")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>textarea/@yt-event-on-open-command-dialog</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("yt-event-on-open-command-dialog")).withParent(xmlTag().withLocalName(string().equalTo("textarea")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
       <display-name>textarea/@yt-focus-if</display-name>
