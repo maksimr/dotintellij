@@ -333,6 +333,10 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("yt-event-ctrl-enter")).withParent(xmlTag().withLocalName(string().equalTo("textarea")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>textarea/@yt-focus-if</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("yt-focus-if")).withParent(xmlTag().withLocalName(string().equalTo("textarea")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>textarea/@yt-paste-image</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("yt-paste-image")).withParent(xmlTag().withLocalName(string().equalTo("textarea")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
@@ -477,6 +481,10 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("fields-filter")).withParent(xmlTag().withLocalName(string().equalTo("yt-issue-fields-panel")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-issue-fields-panel/@on-change-field</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-change-field")).withParent(xmlTag().withLocalName(string().equalTo("yt-issue-fields-panel")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>yt-issue-fields-panel/@on-change-issue-project</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-change-issue-project")).withParent(xmlTag().withLocalName(string().equalTo("yt-issue-fields-panel")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
@@ -559,6 +567,10 @@
     <injection language="AngularJS" injector-id="xml">
       <display-name>yt-markup-reference/@markup-reference</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("markup-reference")).withParent(xmlTag().withLocalName(string().equalTo("yt-markup-reference")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-markup-type/@on-switch-markup</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-switch-markup")).withParent(xmlTag().withLocalName(string().equalTo("yt-markup-type")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
       <display-name>yt-new-work-item-form/@draft-wrapper</display-name>
