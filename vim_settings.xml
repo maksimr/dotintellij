@@ -384,12 +384,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/service/yt-shortcuts-map.js" timestamp="1526325212013">
         <mark key="'" line="587" column="27" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_11.es6" timestamp="1526389081449">
-        <mark key="'" line="26" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="37" column="21" />
-        <mark key="." line="10" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_11.es6" timestamp="1526389197380">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="35" column="10" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/config/config.js" timestamp="1524225231062">
         <mark key="'" line="2" column="0" />
@@ -553,9 +553,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="52" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issue-updater.js" />
-      <jump line="16" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/test/service/save-issue-changes.js" />
-      <jump line="3" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/test/service/save-issue-changes.js" />
       <jump line="6" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/test/service/save-issue-changes.js" />
       <jump line="5" column="48" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/test/service/save-issue-changes.js" />
       <jump line="7" column="50" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/issue.js" />
@@ -650,9 +647,12 @@
       <jump line="26" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/test/service/save-issue-changes.js" />
       <jump line="197" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/test/service/save-issue-changes.js" />
       <jump line="22" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/test/service/save-issue-changes.js" />
-      <jump line="8" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_11.es6" />
-      <jump line="27" column="16" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_11.es6" />
       <jump line="26" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_11.es6" />
+      <jump line="8" column="30" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_11.es6" />
+      <jump line="27" column="6" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_11.es6" />
+      <jump line="37" column="11" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_11.es6" />
+      <jump line="33" column="6" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_11.es6" />
+      <jump line="25" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_11.es6" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -662,37 +662,37 @@
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZnJvbSwg</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
-        <text>reject</text>
+        <text encoding="base64">XDx0cmFuc2l0aW9uXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9Owo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5jdXJyZW50U3RhdGUgPSBUVVJOU1RJTEVfU1RBVEUuTE9DS0VEOwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgdGhpcy5jdXJyZW50U3RhdGUgPSBUVVJOU1RJTEVfU1RBVEUuTE9DS0VEOwo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5jdXJyZW50U3RhdGUgPSBUVVJOU1RJTEVfU1RBVEUuVU5MT0NLRUQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">dC5wdXNoKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5jdXJyZW50U3RhdGUgPSBUVVJOU1RJTEVfU1RBVEUuVU5MT0NLRUQ7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">dC5wdXNoKCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dC5wdXNoKCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -708,17 +708,16 @@
       </register>
     </registers>
     <search>
-      <last-search>reject</last-search>
+      <last-search encoding="base64">XDx0cmFuc2l0aW9uXD4=</last-search>
       <last-offset />
-      <last-pattern>reject</last-pattern>
+      <last-pattern encoding="base64">XDx0cmFuc2l0aW9uXD4=</last-pattern>
       <last-replace />
       <last-substitute>\.Companion</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>create</entry>
         <entry encoding="base64">XDxxXD4=</entry>
         <entry encoding="base64">XDxpc3N1ZVJlc291cmNlXD4=</entry>
         <entry>reso</entry>
@@ -738,6 +737,7 @@
         <entry encoding="base64">XDxhcHBseUNvbW1hbmRcPg==</entry>
         <entry>300</entry>
         <entry>reject</entry>
+        <entry encoding="base64">XDx0cmFuc2l0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\$ctrl\.\$apply()/runDigest()/gc</entry>
