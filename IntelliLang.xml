@@ -25,10 +25,6 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("options")).withParent(xmlTag().withLocalName(string().equalTo("a")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
-      <display-name>div</display-name>
-      <place><![CDATA[xmlTag().withLocalName(string().equalTo("div")).withNamespace(string().equalTo("http://www.w3.org/1999/html"))]]></place>
-    </injection>
-    <injection language="AngularJS" injector-id="xml">
       <display-name>div/@caret</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("caret")).withParent(xmlTag().withLocalName(string().equalTo("div")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
@@ -147,6 +143,10 @@
     <injection language="AngularJS" injector-id="xml">
       <display-name>new-features-popup/@new-features</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("new-features")).withParent(xmlTag().withLocalName(string().equalTo("new-features-popup")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>ng-switch/@case</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("case")).withParent(xmlTag().withLocalName(string().equalTo("ng-switch")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
       <display-name>ng-switch/@on</display-name>
@@ -329,8 +329,24 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-disabled")).withParent(xmlTag().withLocalName(string().equalTo("textarea")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>textarea/@on-open-command-dialog</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-open-command-dialog")).withParent(xmlTag().withLocalName(string().equalTo("textarea")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>textarea/@yt-event-command-dialog</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("yt-event-command-dialog")).withParent(xmlTag().withLocalName(string().equalTo("textarea")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>textarea/@yt-event-ctrl-enter</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("yt-event-ctrl-enter")).withParent(xmlTag().withLocalName(string().equalTo("textarea")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>textarea/@yt-event-on-open-command-dialog</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("yt-event-on-open-command-dialog")).withParent(xmlTag().withLocalName(string().equalTo("textarea")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>textarea/@yt-focus-if</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("yt-focus-if")).withParent(xmlTag().withLocalName(string().equalTo("textarea")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
       <display-name>textarea/@yt-paste-image</display-name>
@@ -347,6 +363,10 @@
     <injection language="AngularJS" injector-id="xml">
       <display-name>yt-agile-board-general-settings/@on-update</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-update")).withParent(xmlTag().withLocalName(string().equalTo("yt-agile-board-general-settings")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-agile-board-inline-estimation/@error-decorator</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("error-decorator")).withParent(xmlTag().withLocalName(string().equalTo("yt-agile-board-inline-estimation")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
       <display-name>yt-agile-card-assignee/@assignees</display-name>
@@ -417,6 +437,14 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("selected-fn")).withParent(xmlTag().withLocalName(string().equalTo("yt-date-picker")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-draft-issue-toolbar/@on-refresh</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-refresh")).withParent(xmlTag().withLocalName(string().equalTo("yt-draft-issue-toolbar")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-dropdown/@directions</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("directions")).withParent(xmlTag().withLocalName(string().equalTo("yt-dropdown")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>yt-dropzone/@ng-attr-class</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-attr-class")).withParent(xmlTag().withLocalName(string().equalTo("yt-dropzone")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
@@ -453,8 +481,24 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-change-field-value")).withParent(xmlTag().withLocalName(string().equalTo("yt-issue-custom-field")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-issue-fields-panel/@change-issue-project</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("change-issue-project")).withParent(xmlTag().withLocalName(string().equalTo("yt-issue-fields-panel")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-issue-fields-panel/@error-decorator</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("error-decorator")).withParent(xmlTag().withLocalName(string().equalTo("yt-issue-fields-panel")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>yt-issue-fields-panel/@fields-filter</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("fields-filter")).withParent(xmlTag().withLocalName(string().equalTo("yt-issue-fields-panel")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-issue-fields-panel/@on-change-field</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-change-field")).withParent(xmlTag().withLocalName(string().equalTo("yt-issue-fields-panel")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-issue-fields-panel/@on-change-issue-project</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-change-issue-project")).withParent(xmlTag().withLocalName(string().equalTo("yt-issue-fields-panel")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
       <display-name>yt-issue-layout/@sidebar-on-the-left</display-name>
@@ -521,6 +565,10 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-if")).withParent(xmlTag().withLocalName(string().equalTo("yt-issue-view")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-issue-watchers/@on-refresh-issue</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-refresh-issue")).withParent(xmlTag().withLocalName(string().equalTo("yt-issue-watchers")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>yt-issues-assignee-action/@issue</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("issue")).withParent(xmlTag().withLocalName(string().equalTo("yt-issues-assignee-action")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
@@ -531,6 +579,10 @@
     <injection language="AngularJS" injector-id="xml">
       <display-name>yt-markup-reference/@markup-reference</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("markup-reference")).withParent(xmlTag().withLocalName(string().equalTo("yt-markup-reference")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-markup-type/@on-switch-markup</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-switch-markup")).withParent(xmlTag().withLocalName(string().equalTo("yt-markup-type")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
       <display-name>yt-new-work-item-form/@draft-wrapper</display-name>

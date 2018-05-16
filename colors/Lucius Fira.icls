@@ -1,5 +1,6 @@
 <scheme name="Lucius Fira" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
+  <option name="LINE_SPACING" value="1.0" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
     <option name="EDITOR_FONT_SIZE" value="18" />
@@ -574,6 +575,12 @@
     <option name="JS.SEMICOLON">
       <value>
         <option name="FOREGROUND" value="a9b7c6" />
+      </value>
+    </option>
+    <option name="KOTLIN_ANNOTATION">
+      <value>
+        <option name="FOREGROUND" value="bbb529" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="LABEL">

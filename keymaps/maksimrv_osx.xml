@@ -164,6 +164,9 @@
     <keyboard-shortcut first-keystroke="ctrl f7" />
     <keyboard-shortcut first-keystroke="alt comma" second-keystroke="u" />
   </action>
+  <action id="Flutter.ExtractWidget">
+    <keyboard-shortcut first-keystroke="alt comma" second-keystroke="w" />
+  </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="alt g" second-keystroke="b" />
   </action>
@@ -188,6 +191,10 @@
   <action id="Rerun">
     <keyboard-shortcut first-keystroke="ctrl f5" />
     <keyboard-shortcut first-keystroke="alt comma" second-keystroke="shift r" />
+  </action>
+  <action id="SaveAll">
+    <keyboard-shortcut first-keystroke="ctrl s" />
+    <keyboard-shortcut first-keystroke="meta s" />
   </action>
   <action id="ShowErrorDescription">
     <keyboard-shortcut first-keystroke="ctrl f1" />

@@ -13,4 +13,11 @@
       <option name="WORKING_DIRECTORY" value="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend" />
     </exec>
   </tool>
+  <tool name="iTerm" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/Applications/iTerm.app" />
+      <option name="PARAMETERS" value="$ProjectFileDir$" />
+      <option name="WORKING_DIRECTORY" value="/Applications" />
+    </exec>
+  </tool>
 </toolSet>
