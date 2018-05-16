@@ -353,6 +353,10 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("yt-paste-image")).withParent(xmlTag().withLocalName(string().equalTo("textarea")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>tr/@ng-click</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-click")).withParent(xmlTag().withLocalName(string().equalTo("tr")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>tr/@ng-repeat</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-repeat")).withParent(xmlTag().withLocalName(string().equalTo("tr")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
