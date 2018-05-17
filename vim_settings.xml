@@ -217,6 +217,9 @@
       <file name="$APPLICATION_CONFIG_DIR$/javascript/nodejs/0.12.9/core-modules/timers.js" timestamp="1524473528962">
         <mark key="'" line="473" column="22" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/event/directive/yt-focus-if.js" timestamp="1526554897631">
+        <mark key="'" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-issue-create-dialog.js" timestamp="1526376275639">
         <mark key="'" line="316" column="0" />
       </file>
@@ -275,11 +278,6 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/query-assist/directive/yt-query-assist.js" timestamp="1524568272774">
         <mark key="'" line="102" column="22" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/service/create-issue-event-source.js" timestamp="1526481493917">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="113" column="4" />
-      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/test/service/save-issue-changes.js" timestamp="1526388428785">
         <mark key="'" line="22" column="0" />
         <mark key="[" line="175" column="3" />
@@ -290,8 +288,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/search-query-panel/template/search-query-panel.html" timestamp="1524567368315">
         <mark key="'" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/custom-fields/custom-fields-per-project.js" timestamp="1526483106151">
-        <mark key="'" line="451" column="31" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/custom-fields/custom-fields-per-project.js" timestamp="1526555320509">
+        <mark key="'" line="455" column="6" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/controller/edit-project/edit-project-teamcity.js" timestamp="1524039339458">
         <mark key="'" line="41" column="0" />
@@ -456,7 +454,7 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/load-more/directive/yt-load-more.js" timestamp="1524730731304">
         <mark key="'" line="54" column="2" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" timestamp="1526546139567">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" timestamp="1526554420523">
         <mark key="a" line="33" column="10" />
         <mark key="'" line="456" column="2" />
         <mark key="[" line="41" column="10" />
@@ -542,16 +540,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="408" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
-      <jump line="338" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
-      <jump line="70" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
-      <jump line="380" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
-      <jump line="23" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
-      <jump line="5" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/service/create-issue-event-source.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/service/create-issue-event-source.js" />
-      <jump line="4" column="27" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/service/update-issue-draft.js" />
-      <jump line="24" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
-      <jump line="379" column="38" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
       <jump line="435" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
       <jump line="30" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/service/create-issue-updater.js" />
       <jump line="52" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/service/create-issue-updater.js" />
@@ -641,7 +629,17 @@
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
       <jump line="448" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
       <jump line="27" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
       <jump line="456" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/event/directive/yt-focus-if.js" />
+      <jump line="310" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/custom-fields/custom-fields-per-project.js" />
+      <jump line="516" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/custom-fields/custom-fields-per-project.js" />
+      <jump line="541" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/custom-fields/custom-fields-per-project.js" />
+      <jump line="698" column="43" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/custom-fields/custom-fields-per-project.js" />
+      <jump line="704" column="59" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/custom-fields/custom-fields-per-project.js" />
+      <jump line="11" column="33" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/custom-fields/custom-fields-per-project.js" />
+      <jump line="307" column="66" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/custom-fields/custom-fields-per-project.js" />
+      <jump line="455" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/custom-fields/custom-fields-per-project.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -654,7 +652,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>fdes</text>
+        <text>canBe</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Cg==</text>
@@ -697,9 +695,9 @@
       </register>
     </registers>
     <search>
-      <last-search>fdes</last-search>
+      <last-search>canBe</last-search>
       <last-offset />
-      <last-pattern>fdes</last-pattern>
+      <last-pattern>canBe</last-pattern>
       <last-replace>\1</last-replace>
       <last-substitute>$ctrl.\(waitWhenDraftIsSaved\)</last-substitute>
       <last-dir>1</last-dir>
@@ -707,7 +705,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwcmVwYXJlRHJhZnRcPg==</entry>
         <entry encoding="base64">XDxyZWZyZXNoQ3VycmVudElzc3VlXD4=</entry>
         <entry encoding="base64">XDxvcGVuQ29tbWFuZERpYWxvZ1w+</entry>
         <entry encoding="base64">XDxyZWZyZXNoRHJhZnRPblByZWNvbmRpdGlvbkZhaWxlZFw+</entry>
@@ -727,6 +724,7 @@
         <entry>update</entry>
         <entry>desc</entry>
         <entry>fdes</entry>
+        <entry>canBe</entry>
       </history-search>
       <history-cmd>
         <entry>%s/isModified/isModifiedAndUnsaved/gc</entry>
