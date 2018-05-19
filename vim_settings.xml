@@ -219,7 +219,7 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/yt-utils.js" timestamp="1524568027874">
         <mark key="'" line="452" column="32" />
       </file>
-      <file name="$USER_HOME$/www/dart/foo/lib/main.dart" timestamp="1526716595367">
+      <file name="$USER_HOME$/www/dart/foo/lib/main.dart" timestamp="1526722359007">
         <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issues.js" timestamp="1525779947621">
@@ -593,7 +593,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="10" filename="$USER_HOME$/www/dart/hub/lib/components/PrimaryButton.dart" />
       <jump line="143" column="0" filename="$USER_HOME$/www/dart/hub/lib/components/LoginScreen.dart" />
       <jump line="33" column="0" filename="$USER_HOME$/www/dart/hub/lib/components/LoginScreen.dart" />
       <jump line="50" column="8" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/material/typography.dart" />
@@ -692,6 +691,7 @@
       <jump line="2" column="39" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="175" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="94" column="14" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="12" column="32" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="0" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
     </jumps>
     <registers>
@@ -705,7 +705,7 @@
         <text>widget</text>
       </register>
       <register name="/" type="4">
-        <text>appBar</text>
+        <text>Back</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOmZsdXR0ZXIvbWF0ZXJpYWwuZGFydCc7Cg==</text>
@@ -748,9 +748,9 @@
       </register>
     </registers>
     <search>
-      <last-search>appBar</last-search>
+      <last-search>Back</last-search>
       <last-offset />
-      <last-pattern>appBar</last-pattern>
+      <last-pattern>Back</last-pattern>
       <last-replace>\1</last-replace>
       <last-substitute>$ctrl.\(waitWhenDraftIsSaved\)</last-substitute>
       <last-dir>1</last-dir>
@@ -758,7 +758,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfZXJyb3JNZXNzYWdlXD4=</entry>
         <entry encoding="base64">XDxfaHViQ29ubmVjdEVycm9yTWVzc2FnZVw+</entry>
         <entry>_hubUrl =</entry>
         <entry encoding="base64">XDxfY2hlY2tDb25uZWN0aW9uXD4=</entry>
@@ -778,6 +777,7 @@
         <entry encoding="base64">XDxfaXNDb21wb3NpbmdcPg==</entry>
         <entry>_buildTextCompo</entry>
         <entry>appBar</entry>
+        <entry>Back</entry>
       </history-search>
       <history-cmd>
         <entry>%s/isModified/isModifiedAndUnsaved/gc</entry>
