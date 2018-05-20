@@ -146,12 +146,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issues-search/service/issues-search-result-model.js" timestamp="1524567554804">
         <mark key="'" line="70" column="15" />
       </file>
-      <file name="$USER_HOME$/www/dart/foo/lib/Provider.dart" timestamp="1526834771026">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/www/dart/foo/lib/Provider.dart" timestamp="1526839309759">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="9" column="11" />
+        <mark key="]" line="9" column="10" />
+        <mark key="." line="9" column="10" />
+        <mark key="^" line="9" column="10" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/event/directive/yt-autofocus.js" timestamp="1526308156967">
         <mark key="'" line="6" column="55" />
@@ -264,12 +264,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/yt-utils.js" timestamp="1524568027874">
         <mark key="'" line="452" column="32" />
       </file>
-      <file name="$USER_HOME$/www/dart/foo/lib/main.dart" timestamp="1526838385150">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="17" />
-        <mark key="]" line="7" column="17" />
-        <mark key="." line="7" column="17" />
-        <mark key="^" line="7" column="17" />
+      <file name="$USER_HOME$/www/dart/foo/lib/main.dart" timestamp="1526839337154">
+        <mark key="'" line="22" column="12" />
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="25" column="8" />
+        <mark key="." line="25" column="8" />
+        <mark key="^" line="25" column="8" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issues.js" timestamp="1525779947621">
         <mark key="'" line="63" column="2" />
@@ -740,7 +740,6 @@
       <jump line="21" column="8" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="1" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="4" column="6" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
-      <jump line="22" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="18" column="18" filename="$USER_HOME$/www/dart/foo/pubspec.yaml" />
       <jump line="8" column="0" filename="$USER_HOME$/www/dart/foo/pubspec.yaml" />
       <jump line="11" column="7" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
@@ -757,16 +756,17 @@
       <jump line="38" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="41" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="0" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="22" column="12" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBkYXRhLnZhbHVlID0gdmFsdWUucmVidWlsZCgodmFsdWUpID0+IHZhbHVlWyJjb3VudGVyIl0gKz0gMSksCg==</text>
+      <register name="&quot;" type="4">
+        <text>AppData</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>widget</text>
+        <text>AppData</text>
       </register>
       <register name="/" type="4">
         <text>parentData</text>
@@ -775,37 +775,37 @@
         <text encoding="base64">ICBfYnVpbGRIaW50KCkgewogICAgcmV0dXJuIG5ldyBTaXplZEJveCgKICAgICAgd2lkdGg6IDQwMC4wLAogICAgICBoZWlnaHQ6IDEwMC4wLAogICAgICBjaGlsZDogRGVjb3JhdGVkQm94KAogICAgICAgIGRlY29yYXRpb246IEJveERlY29yYXRpb24oCiAgICAgICAgICBjb2xvcjogQ29sb3JzLmJsdWUsCiAgICAgICAgKSwKICAgICAgKSwKICAgICk7CiAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBkYXRhLnZhbHVlID0gdmFsdWUucmVidWlsZCgodmFsdWUpID0+IHZhbHVlWyJjb3VudGVyIl0gKz0gMSksCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN3aXRjaAo=</text>
+        <text encoding="base64">ICAgIGRhdGEudmFsdWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIFQgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb25QCg==</text>
+        <text encoding="base64">ICAgIGRhdGEudmEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIGNvdW50ID0gdmFsdWUucmVidWlsZCgoYnVpbGRlcikgPT4gYnVpbGRlclsiZm9vIl0gPSAiZm9vIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBkYXRhLnZhbHVlID0gdmFsdWUucmVidWlsZCgodmFsdWUpID0+IHZhbHVlWyJjb3VudGVyIl0gKz0gMSksCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhbHVlLmJ1Cg==</text>
+        <text encoding="base64">ICAgIHN3aXRjaAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb25QCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZpbmFsIGNvdW50ID0gdmFsdWUucmVidWlsZCgoYnVpbGRlcikgPT4gYnVpbGRlclsiZm9vIl0gPSAiZm9vIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
