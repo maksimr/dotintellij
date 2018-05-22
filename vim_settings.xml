@@ -210,9 +210,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/yt-utils.js" timestamp="1524568027874">
         <mark key="'" line="452" column="32" />
       </file>
-      <file name="$USER_HOME$/www/dart/foo/lib/main.dart" timestamp="1527016105466">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="4" column="60" />
+      <file name="$USER_HOME$/www/dart/foo/lib/main.dart" timestamp="1527022587214">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="22" column="42" />
+        <mark key="]" line="22" column="53" />
+        <mark key="." line="22" column="53" />
+        <mark key="^" line="22" column="53" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/image-editor/test/image-editor.js" timestamp="1526982837950">
         <mark key="'" line="0" column="0" />
@@ -414,12 +417,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/directive/yt-script-editor.js" timestamp="1523915529615">
         <mark key="'" line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dart/foo/lib/components/HomePage.dart" timestamp="1527016071431">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="20" column="21" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/www/dart/foo/lib/components/HomePage.dart" timestamp="1527022959630">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="22" column="40" />
+        <mark key="]" line="22" column="40" />
+        <mark key="^" line="22" column="40" />
+        <mark key="." line="22" column="40" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/yt-select-default-values.js" timestamp="1526556913583">
         <mark key="'" line="7" column="6" />
@@ -649,8 +652,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="68" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/directive/yt-add-comment.js" />
-      <jump line="112" column="81" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/directive/yt-add-comment.js" />
       <jump line="113" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/directive/yt-add-comment.js" />
       <jump line="114" column="44" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/directive/yt-add-comment.js" />
       <jump line="122" column="40" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/directive/yt-add-comment.js" />
@@ -736,7 +737,6 @@
       <jump line="29" column="4" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="23" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="7" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
-      <jump line="21" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="11" column="2" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="17" column="5" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="10" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
@@ -747,24 +747,27 @@
       <jump line="35" column="0" filename="$USER_HOME$/www/dart/foo/lib/components/HomePage.dart" />
       <jump line="1" column="0" filename="$USER_HOME$/www/dart/foo/lib/components/HomePage.dart" />
       <jump line="20" column="0" filename="$USER_HOME$/www/dart/foo/lib/components/HomePage.dart" />
-      <jump line="33" column="0" filename="$USER_HOME$/www/dart/foo/lib/components/HomePage.dart" />
       <jump line="29" column="0" filename="$USER_HOME$/www/dart/foo/lib/components/HomePage.dart" />
+      <jump line="21" column="22" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="20" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="8" column="0" filename="$USER_HOME$/www/dart/foo/lib/components/HomePage.dart" />
+      <jump line="33" column="0" filename="$USER_HOME$/www/dart/foo/lib/components/HomePage.dart" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>??</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG5ld1ZhbHVl</text>
+        <text>??</text>
       </register>
       <register name="/" type="4">
         <text>list</text>
       </register>
       <register name="0" type="4">
-        <text>Map.from(appData)..[&quot;userName&quot;] = value</text>
+        <text>prefs.getString(&quot;userData&quot;)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -773,31 +776,31 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c3dhcChhdG9tLCBuZXdWYWx1ZSkgewogIGF0b20udmFsdWUgPSBuZXdWYWx1ZTsKfQo=</text>
+        <text encoding="base64">ICBmaW5hbCAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdG9yZS52YWx1ZSA9IE1hcC5mcm9tKGFwcERhdGEpLi5bInVzZXJOYW1lIl0gPSB2YWx1ZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Y2xhc3MgUHJveHlNYXAgZXh0ZW5kcyBNYXAge30K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgaW5pdGlhbFZhbHVlOiB1c2VyTmFtZSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">c3dhcChhdG9tLCBuZXdWYWx1ZSkgewogIGF0b20udmFsdWUgPSBuZXdWYWx1ZTsKfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdG9yZS52YWx1ZSA9IE1hcC5mcm9tKGFwcERhdGEpLi5bInVzZXJOYW1lIl0gPSB2YWx1ZTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIFNoYXJlZFByZWZlcmVuY2VzIHByZWZzID0gYXdhaXQgU2hhcmVkUHJlZmVyZW5jZXMuZ2V0SW5zdGFuY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgaW5pdGlhbFZhbHVlOiB1c2VyTmFtZSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
