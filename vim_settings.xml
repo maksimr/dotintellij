@@ -47,12 +47,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webapp/src/test/kotlin/jetbrains/youtrack/rest/workflow/WorkflowsTest.kt" timestamp="1525344282355">
         <mark key="'" line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/attachments/test/service/edit-attachment-dialog.js" timestamp="1526900042069">
-        <mark key="'" line="8" column="0" />
-        <mark key="[" line="8" column="64" />
-        <mark key="]" line="9" column="21" />
-        <mark key="." line="9" column="21" />
-        <mark key="^" line="9" column="21" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/attachments/test/service/edit-attachment-dialog.js" timestamp="1527068696518">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="7" column="4" />
+        <mark key="]" line="7" column="28" />
+        <mark key="." line="7" column="28" />
+        <mark key="^" line="7" column="28" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/service/show-invalid-issue-draft-warning.js" timestamp="1526905693040">
         <mark key="'" line="6" column="0" />
@@ -75,13 +75,16 @@
         <mark key="^" line="50" column="12" />
         <mark key="." line="50" column="12" />
       </file>
-      <file name="$USER_HOME$/www/dart/foo/lib/components/App.dart" timestamp="1527013485870">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/image-editor/image-editor.js" timestamp="1527068636293">
+        <mark key="'" line="8" column="27" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/domain-settings.js" timestamp="1524039524046">
         <mark key="'" line="63" column="2" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/attachments/test/service/generate-unique-attachment-name.js" timestamp="1527068687714">
+        <mark key="'" line="6" column="28" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="3" column="4" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1526978569257">
         <mark key="'" line="158" column="41" />
@@ -682,8 +685,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="6" filename="$USER_HOME$/www/dart/foo/lib/components/HomePage.dart" />
-      <jump line="108" column="0" filename="$USER_HOME$/www/dart/foo/lib/components/HomePage.dart" />
       <jump line="27" column="2" filename="$USER_HOME$/www/dart/foo/lib/components/HomePage.dart" />
       <jump line="96" column="0" filename="$USER_HOME$/www/dart/foo/lib/components/HomePage.dart" />
       <jump line="15" column="0" filename="$USER_HOME$/www/dart/foo/lib/components/HomePage.dart" />
@@ -782,10 +783,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/multiselect-with-badges/template/yt-multi-select-with-badges.html" />
       <jump line="3" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/multiselect-with-badges/template/yt-multi-select-with-badges.html" />
       <jump line="27" column="40" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/multiselect-with-badges/template/yt-multi-select-with-badges.html" />
+      <jump line="8" column="27" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/image-editor/image-editor.js" />
+      <jump line="6" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/attachments/test/service/generate-unique-attachment-name.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>data-test=&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBiZWZvcmVFYWNoKGFuZ3VsYXIubW9jay5tb2R1bGUoCiAgICByZXF1aXJlKCcuLi8uLi9hdHRhY2htZW50cycpLm5hbWUKICApKTsK</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -794,10 +797,10 @@
         <text>data-test=&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>repea</text>
+        <text>att</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">JHRhZy1iYWNrZ3JvdW5kLWNvbG9yOiAjZTlmMWY1Owo=</text>
+        <text encoding="base64">ICBiZWZvcmVFYWNoKGFuZ3VsYXIubW9jay5tb2R1bGUoCiAgICByZXF1aXJlKCcuLi8uLi9hdHRhY2htZW50cycpLm5hbWUKICApKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -837,9 +840,9 @@
       </register>
     </registers>
     <search>
-      <last-search>repea</last-search>
+      <last-search>att</last-search>
       <last-offset />
-      <last-pattern>repea</last-pattern>
+      <last-pattern>att</last-pattern>
       <last-replace>\1</last-replace>
       <last-substitute>$ctrl.\(waitWhenDraftIsSaved\)</last-substitute>
       <last-dir>1</last-dir>
@@ -847,7 +850,6 @@
     </search>
     <history>
       <history-search>
-        <entry>thub</entry>
         <entry>thumb</entry>
         <entry encoding="base64">XDxJU1NVRV9BVFRBQ0hNRU5UX1NQRUNJRklDX0ZJRUxEU1w+</entry>
         <entry>get</entry>
@@ -867,6 +869,7 @@
         <entry>ring</entry>
         <entry>tag</entry>
         <entry>repea</entry>
+        <entry>att</entry>
       </history-search>
       <history-cmd>
         <entry>%s/isModified/isModifiedAndUnsaved/gc</entry>
