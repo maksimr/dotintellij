@@ -665,6 +665,10 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-if")).withParent(xmlTag().withLocalName(string().equalTo("yt-splash-screen")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-sticky/@is-sticked</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("is-sticked")).withParent(xmlTag().withLocalName(string().equalTo("yt-sticky")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>yt-update-notifications/@on-change</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-change")).withParent(xmlTag().withLocalName(string().equalTo("yt-update-notifications")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
