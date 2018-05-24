@@ -125,6 +125,10 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("team-data-source")).withParent(xmlTag().withLocalName(string().equalTo("hub-integration")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>img/@ng-src</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-src")).withParent(xmlTag().withLocalName(string().equalTo("img")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>input/@ng-change</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-change")).withParent(xmlTag().withLocalName(string().equalTo("input")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
@@ -353,6 +357,10 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("yt-paste-image")).withParent(xmlTag().withLocalName(string().equalTo("textarea")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>tr/@ng-click</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-click")).withParent(xmlTag().withLocalName(string().equalTo("tr")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>tr/@ng-repeat</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-repeat")).withParent(xmlTag().withLocalName(string().equalTo("tr")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
@@ -391,6 +399,14 @@
     <injection language="AngularJS" injector-id="xml">
       <display-name>yt-agile-swimlane-column/@create-card</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("create-card")).withParent(xmlTag().withLocalName(string().equalTo("yt-agile-swimlane-column")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-attachment/@editable</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("editable")).withParent(xmlTag().withLocalName(string().equalTo("yt-attachment")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-attachment/@on-edit</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-edit")).withParent(xmlTag().withLocalName(string().equalTo("yt-attachment")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
       <display-name>yt-backlog-issue/@add-card-to-sprint</display-name>
@@ -647,6 +663,10 @@
     <injection language="AngularJS" injector-id="xml">
       <display-name>yt-splash-screen/@ng-if</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-if")).withParent(xmlTag().withLocalName(string().equalTo("yt-splash-screen")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-sticky/@is-sticked</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("is-sticked")).withParent(xmlTag().withLocalName(string().equalTo("yt-sticky")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
       <display-name>yt-update-notifications/@on-change</display-name>
