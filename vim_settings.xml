@@ -217,6 +217,13 @@
       <file name="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/material/input_decorator.dart" timestamp="1526936013275">
         <mark key="'" line="1509" column="0" />
       </file>
+      <file name="$USER_HOME$/www/dart/foo/lib/q/q.dart" timestamp="1527116147362">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="5" column="30" />
+        <mark key="]" line="5" column="30" />
+        <mark key="." line="5" column="30" />
+        <mark key="^" line="5" column="30" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/image-editor-overlay.js" timestamp="1526989880185">
         <mark key="'" line="11" column="14" />
         <mark key="[" line="4" column="0" />
@@ -563,12 +570,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-watchers.html" timestamp="1524746904821">
         <mark key="'" line="15" column="22" />
       </file>
-      <file name="$USER_HOME$/www/dart/foo/lib/components/UserInfo.dart" timestamp="1527115512528">
-        <mark key="'" line="13" column="23" />
-        <mark key="[" line="11" column="15" />
-        <mark key="]" line="11" column="15" />
-        <mark key="^" line="11" column="15" />
-        <mark key="." line="11" column="15" />
+      <file name="$USER_HOME$/www/dart/foo/lib/components/UserInfo.dart" timestamp="1527116574303">
+        <mark key="'" line="10" column="8" />
+        <mark key="[" line="20" column="24" />
+        <mark key="]" line="20" column="25" />
+        <mark key="." line="20" column="25" />
+        <mark key="^" line="20" column="27" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/layout/directive/layout.js" timestamp="1525950013118">
         <mark key="'" line="45" column="17" />
@@ -743,10 +750,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="301" column="12" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/form.dart" />
-      <jump line="295" column="46" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/form.dart" />
-      <jump line="276" column="13" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/form.dart" />
-      <jump line="242" column="69" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/form.dart" />
       <jump line="241" column="59" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/form.dart" />
       <jump line="51" column="0" filename="$USER_HOME$/www/dart/foo/lib/components/Connect.dart" />
       <jump line="45" column="9" filename="$USER_HOME$/www/dart/foo/lib/components/Connect.dart" />
@@ -843,55 +846,59 @@
       <jump line="0" column="0" filename="$USER_HOME$/www/dart/foo/lib/components/App.dart" />
       <jump line="20" column="0" filename="$USER_HOME$/www/dart/foo/lib/components/App.dart" />
       <jump line="11" column="8" filename="$USER_HOME$/www/dart/foo/lib/components/App.dart" />
+      <jump line="10" column="0" filename="$USER_HOME$/www/dart/foo/lib/components/UserInfo.dart" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/dart/foo/lib/q/q.dart" />
+      <jump line="12" column="20" filename="$USER_HOME$/www/dart/foo/lib/components/UserInfo.dart" />
+      <jump line="11" column="8" filename="$USER_HOME$/www/dart/foo/lib/components/UserInfo.dart" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZm9vCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IFBhZGRpbmcoCiAgICAgICAgICAgICAgcGFkZGluZzogY29uc3QgRWRnZUluc2V0cy5hbGwoMjAuMCksCiAgICAgICAgICAgICAgY2hpbGQ6IENpcmNsZUF2YXRhcigKICAgICAgICAgICAgICAgIGNoaWxkOiBUZXh0KHVzZXJOYW1lWzBdKSwKICAgICAgICAgICAgICApLAogICAgICAgICAgICApCg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>screen</text>
+        <text>widget</text>
       </register>
       <register name="/" type="4">
         <text>user</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIChnZXRJbihhcHBTdGF0ZS52YWx1ZSwgWydwZXJzaXN0ZW50JywgJ3VzZXJJbmZvJ10pICE9IG51bGwpIHsKICAgICAgc2NyZWVuID0gbmV3IFVzZXJJbmZvKGdldEluKGFwcFN0YXRlLnZhbHVlLCBbJ3BlcnNpc3RlbnQnLCAndXNlckluZm8nXSkpOwogICAgfSBlbHNlIGlmIChnZXRJbihhcHBTdGF0ZS52YWx1ZSwgWydwZXJzaXN0ZW50JywgJ2h1YlVybCddKSAhPSBudWxsKSB7CiAgICAgIHNjcmVlbiA9IG5ldyBMb2dpbigpOwogICAgfSBlbHNlIHsKICAgICAgc2NyZWVuID0gbmV3IENvbm5lY3QoKTsKICAgIH0K</text>
+        <text encoding="base64">Y2xhc3MgX1BlcnNpc3RlbnQgewogIGZpbmFsIHVzZXJJbmZvID0gX1VzZXJJbmZvKCkKfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZm9vCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IFBhZGRpbmcoCiAgICAgICAgICAgICAgcGFkZGluZzogY29uc3QgRWRnZUluc2V0cy5hbGwoMjAuMCksCiAgICAgICAgICAgICAgY2hpbGQ6IENpcmNsZUF2YXRhcigKICAgICAgICAgICAgICAgIGNoaWxkOiBUZXh0KHVzZXJOYW1lWzBdKSwKICAgICAgICAgICAgICApLAogICAgICAgICAgICApCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFdpZGdldCBzY3JlZW47CgogICAgaWYgKGdldEluKGFwcFN0YXRlLnZhbHVlLCBbJ3BlcnNpc3RlbnQnLCAndXNlckluZm8nXSkgIT0gbnVsbCkgewogICAgICBzY3JlZW4gPSBuZXcgVXNlckluZm8oZ2V0SW4oYXBwU3RhdGUudmFsdWUsIFsncGVyc2lzdGVudCcsICd1c2VySW5mbyddKSk7CiAgICB9IGVsc2UgaWYgKGdldEluKGFwcFN0YXRlLnZhbHVlLCBbJ3BlcnNpc3RlbnQnLCAnaHViVXJsJ10pICE9IG51bGwpIHsKICAgICAgc2NyZWVuID0gbmV3IExvZ2luKCk7CiAgICB9IGVsc2UgewogICAgICBzY3JlZW4gPSBuZXcgQ29ubmVjdCgpOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KHVzZXIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHZlcnRpY2FsRGlyZWN0aW9uOiAsCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHN3aXRjaChhcHApCg==</text>
+        <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOmZvby9xL3EuZGFydCc7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0ICdkYXJ0OmNvbGxlY3Rpb24nOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgdXNlckRhdGEgPSBVbm1vZGlmaWFibGVNYXBWaWV3KGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgIHVzZXIubmFtZSA9ICJmb28iOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
