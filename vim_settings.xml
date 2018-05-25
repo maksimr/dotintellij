@@ -156,6 +156,9 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/README.md" timestamp="1527065326956">
         <mark key="'" line="94" column="64" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" timestamp="1527252314950">
+        <mark key="'" line="1617" column="15" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/header/service/header-routing-configuration.js" timestamp="1525359087346">
         <mark key="'" line="0" column="0" />
       </file>
@@ -184,6 +187,12 @@
         <mark key="]" line="0" column="58" />
         <mark key="." line="4" column="0" />
         <mark key="^" line="1" column="33" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/style/agile-board-settings.scss" timestamp="1527252375197">
+        <mark key="[" line="24" column="16" />
+        <mark key="]" line="24" column="17" />
+        <mark key="^" line="29" column="23" />
+        <mark key="." line="24" column="17" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/activities/test/service/apply-activity-to.js" timestamp="1524560333078">
         <mark key="'" line="65" column="15" />
@@ -726,6 +735,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" timestamp="1523982466340">
         <mark key="'" line="4" column="46" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-board-backlog.html" timestamp="1527252581739">
+        <mark key="[" line="17" column="93" />
+        <mark key="]" line="17" column="91" />
+        <mark key="^" line="17" column="91" />
+        <mark key="." line="17" column="91" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/popup/popup.js" timestamp="1527178496546">
         <mark key="'" line="352" column="50" />
         <mark key="[" line="270" column="0" />
@@ -923,7 +938,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="39" filename="$USER_HOME$/www/dart/foo/lib/components/UserInfo.dart" />
       <jump line="35" column="15" filename="$USER_HOME$/www/dart/foo/lib/components/UserInfo.dart" />
       <jump line="43" column="30" filename="$USER_HOME$/www/dart/foo/lib/components/UserInfo.dart" />
       <jump line="11" column="10" filename="$USER_HOME$/www/dart/foo/lib/components/UserInfo.dart" />
@@ -1023,22 +1037,23 @@
       <jump line="58" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/ring-hub/app/blocks/project-wizard-adapter/project-list-component.js" />
       <jump line="27" column="27" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects.js" />
       <jump line="14" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects.js" />
+      <jump line="1617" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLnlvdXRyYWNrTW9kZSkgewogICAgICAkc2NvcGUuJHdhdGNoKCgpID0+IHRoaXMucXVlcnksICgpID0+IHsK</text>
+      <register name="&quot;" type="4">
+        <text>}}</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>$onInit</text>
+        <text>}}</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQUk9KRUNUU19NRVNTQUdFU1w+</text>
+        <text encoding="base64">XDxvbkJhY2tsb2dTYXZlZFNlYXJjaENoYW5nZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLnlvdXRyYWNrTW9kZSkgewogICAgICAkc2NvcGUuJHdhdGNoKCgpID0+IHRoaXMucXVlcnksICgpID0+IHsK</text>
+      <register name="0" type="4">
+        <text>agileBoardCtrl.getBacklogTitle()</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5xdWVyeSk7Cg==</text>
@@ -1078,9 +1093,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQUk9KRUNUU19NRVNTQUdFU1w+</last-search>
+      <last-search encoding="base64">XDxvbkJhY2tsb2dTYXZlZFNlYXJjaENoYW5nZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQUk9KRUNUU19NRVNTQUdFU1w+</last-pattern>
+      <last-pattern encoding="base64">XDxvbkJhY2tsb2dTYXZlZFNlYXJjaENoYW5nZVw+</last-pattern>
       <last-replace>isStuck</last-replace>
       <last-substitute>$ctrl.isStuck</last-substitute>
       <last-dir>-1</last-dir>
@@ -1088,7 +1103,6 @@
     </search>
     <history>
       <history-search>
-        <entry>open</entry>
         <entry encoding="base64">XDxfYnVpbGRVc2VyQXZhdGFyXD4=</entry>
         <entry encoding="base64">XDx1c2VyRW1haWxcPg==</entry>
         <entry encoding="base64">XDxfYnVpbGREcmF3ZXJcPg==</entry>
@@ -1108,6 +1122,7 @@
         <entry>data</entry>
         <entry>store</entry>
         <entry encoding="base64">XDxQUk9KRUNUU19NRVNTQUdFU1w+</entry>
+        <entry encoding="base64">XDxvbkJhY2tsb2dTYXZlZFNlYXJjaENoYW5nZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/::NewCreateIssuePage)/::NewCreateIssuePage, &quot;foo=bar&quot;)/gc</entry>
