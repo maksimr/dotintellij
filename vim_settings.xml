@@ -508,8 +508,8 @@
         <mark key="." line="11" column="2" />
         <mark key="^" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-view.html" timestamp="1527172892627">
-        <mark key="'" line="1" column="18" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-view.html" timestamp="1527256123514">
+        <mark key="'" line="10" column="53" />
         <mark key="[" line="8" column="55" />
         <mark key="]" line="8" column="73" />
         <mark key="." line="8" column="73" />
@@ -574,6 +574,13 @@
       </file>
       <file name="$USER_HOME$/www/dart/flutter_list_drag_and_drop/android/app/src/main/AndroidManifest.xml" timestamp="1524309654998">
         <mark key="'" line="38" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/markup/test/directive/yt-markup.js" timestamp="1527256316702">
+        <mark key="'" line="49" column="41" />
+        <mark key="[" line="51" column="70" />
+        <mark key="]" line="52" column="15" />
+        <mark key="^" line="52" column="15" />
+        <mark key="." line="52" column="15" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/image-tool/directive/yt-image-tool.js" timestamp="1526997573765">
         <mark key="'" line="152" column="2" />
@@ -938,9 +945,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="15" filename="$USER_HOME$/www/dart/foo/lib/components/UserInfo.dart" />
-      <jump line="43" column="30" filename="$USER_HOME$/www/dart/foo/lib/components/UserInfo.dart" />
-      <jump line="11" column="10" filename="$USER_HOME$/www/dart/foo/lib/components/UserInfo.dart" />
       <jump line="46" column="35" filename="$USER_HOME$/www/dart/foo/lib/components/UserInfo.dart" />
       <jump line="57" column="0" filename="$USER_HOME$/www/dart/foo/lib/components/UserInfo.dart" />
       <jump line="40" column="30" filename="$USER_HOME$/www/dart/foo/lib/components/UserInfo.dart" />
@@ -1038,72 +1042,74 @@
       <jump line="27" column="27" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects.js" />
       <jump line="14" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects.js" />
       <jump line="1617" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/controller/agile-board.js" />
+      <jump line="10" column="53" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-view.html" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/markup/test/directive/yt-markup.js" />
+      <jump line="49" column="41" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/markup/test/directive/yt-markup.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>}}</text>
+        <text encoding="base64">b24gYHs+fX1g</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxvbkJhY2tsb2dTYXZlZFNlYXJjaENoYW5nZVw+</text>
+        <text>summary</text>
       </register>
-      <register name="0" type="4">
-        <text>agileBoardCtrl.getBacklogTitle()</text>
+      <register name="0" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5xdWVyeSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnUHJvamVjdExpc3RDb21wb25lbnQ6ICR3YXRjaCcpOwogICAgICAgIGNvbnNvbGUubG9nKHRoaXMucXVlcnkpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGhpcy5xdWVyeSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdQcm9qZWN0TGlzdDogcmVuZGVyJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnUHJvamVjdExpc3RDb21wb25lbnQ6ICR3YXRjaCcpOwogICAgICAgIGNvbnNvbGUubG9nKHRoaXMucXVlcnkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdQcm9qZWN0TGlzdENvbXBvbmVudDogcmVuZGVyQ29tcG9uZW50Jyk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdQcm9qZWN0TGlzdDogcmVuZGVyJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdQcm9qZWN0TGlzdENvbXBvbmVudDogcmVuZGVyQ29tcG9uZW50Jyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJz4+Pj4nKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50KHJlc3BvbnNlKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJz4+Pj4nKTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCB1c2VyTmFtZSA9IAo=</text>
+        <text encoding="base64">ICAgIHByaW50KHJlc3BvbnNlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCB1c2VyTmFtZSA9IAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxvbkJhY2tsb2dTYXZlZFNlYXJjaENoYW5nZVw+</last-search>
+      <last-search>summary</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxvbkJhY2tsb2dTYXZlZFNlYXJjaENoYW5nZVw+</last-pattern>
+      <last-pattern>summary</last-pattern>
       <last-replace>isStuck</last-replace>
       <last-substitute>$ctrl.isStuck</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfYnVpbGRVc2VyQXZhdGFyXD4=</entry>
         <entry encoding="base64">XDx1c2VyRW1haWxcPg==</entry>
         <entry encoding="base64">XDxfYnVpbGREcmF3ZXJcPg==</entry>
         <entry>dra</entry>
@@ -1123,6 +1129,7 @@
         <entry>store</entry>
         <entry encoding="base64">XDxQUk9KRUNUU19NRVNTQUdFU1w+</entry>
         <entry encoding="base64">XDxvbkJhY2tsb2dTYXZlZFNlYXJjaENoYW5nZVw+</entry>
+        <entry>summary</entry>
       </history-search>
       <history-cmd>
         <entry>%s/::NewCreateIssuePage)/::NewCreateIssuePage, &quot;foo=bar&quot;)/gc</entry>
