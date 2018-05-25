@@ -43,12 +43,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/controller/domain-settings.js" timestamp="1524039524046">
         <mark key="'" line="63" column="2" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1526978569257">
-        <mark key="'" line="158" column="41" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="22" column="22" />
-        <mark key="^" line="155" column="28" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1527267259653">
+        <mark key="'" line="119" column="5" />
+        <mark key="[" line="29" column="27" />
+        <mark key="]" line="29" column="32" />
+        <mark key="." line="29" column="32" />
+        <mark key="^" line="29" column="32" />
       </file>
       <file name="$USER_HOME$/www/dart/bar/lib/main.dart" timestamp="1526068828334">
         <mark key="'" line="11" column="5" />
@@ -911,10 +911,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/projects.js" />
-      <jump line="13" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/projects.js" />
-      <jump line="14" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/projects.js" />
-      <jump line="15" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/projects.js" />
       <jump line="16" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/projects.js" />
       <jump line="17" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/projects.js" />
       <jump line="18" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/projects.js" />
@@ -1011,19 +1007,23 @@
       <jump line="8" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/test/controller/new-issue.js" />
       <jump line="6" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/test/controller/new-issue.js" />
       <jump line="557" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/test/controller/new-issue.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="13" column="42" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="29" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="119" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.only</text>
+        <text>0.4.43</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>.only</text>
+        <text>0.4.43</text>
       </register>
       <register name="/" type="4">
-        <text>$inter</text>
+        <text>ring-ui</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Cg==</text>
@@ -1066,9 +1066,9 @@
       </register>
     </registers>
     <search>
-      <last-search>$inter</last-search>
+      <last-search>ring-ui</last-search>
       <last-offset />
-      <last-pattern>$inter</last-pattern>
+      <last-pattern>ring-ui</last-pattern>
       <last-replace>isStuck</last-replace>
       <last-substitute>$ctrl.isStuck</last-substitute>
       <last-dir>1</last-dir>
@@ -1076,7 +1076,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxQUk9KRUNUU19NRVNTQUdFU1w+</entry>
         <entry encoding="base64">XDxvbkJhY2tsb2dTYXZlZFNlYXJjaENoYW5nZVw+</entry>
         <entry>summary</entry>
         <entry>title</entry>
@@ -1096,6 +1095,7 @@
         <entry>equal</entry>
         <entry>document</entry>
         <entry>$inter</entry>
+        <entry>ring-ui</entry>
       </history-search>
       <history-cmd>
         <entry>%s/::NewCreateIssuePage)/::NewCreateIssuePage, &quot;foo=bar&quot;)/gc</entry>
