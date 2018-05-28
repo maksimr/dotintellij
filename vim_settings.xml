@@ -349,8 +349,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" timestamp="1527176705185">
         <mark key="'" line="17168" column="25" />
       </file>
-      <file name="$USER_HOME$/www/dart/foo/lib/components/UsersSearch.dart" timestamp="1527523756240">
-        <mark key="'" line="73" column="2" />
+      <file name="$USER_HOME$/www/dart/foo/lib/components/UsersSearch.dart" timestamp="1527542963425">
+        <mark key="'" line="87" column="0" />
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
@@ -956,12 +956,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="167" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/navigation/directive/yt-navigation.js" />
-      <jump line="169" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/navigation/directive/yt-navigation.js" />
-      <jump line="189" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/navigation/directive/yt-navigation.js" />
-      <jump line="98" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/navigation/directive/yt-navigation.js" />
-      <jump line="95" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/navigation/directive/yt-navigation.js" />
-      <jump line="77" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/navigation/directive/yt-navigation.js" />
       <jump line="88" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/navigation/directive/yt-navigation.js" />
       <jump line="70" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/navigation/directive/yt-navigation.js" />
       <jump line="182" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/navigation/directive/yt-navigation.js" />
@@ -1053,9 +1047,15 @@
       <jump line="110" column="14" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/editable_text.dart" />
       <jump line="94" column="52" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/editable_text.dart" />
       <jump line="35" column="44" filename="$USER_HOME$/www/dart/foo/lib/components/UsersSearch.dart" />
-      <jump line="87" column="0" filename="$USER_HOME$/www/dart/foo/lib/components/UsersSearch.dart" />
       <jump line="84" column="8" filename="$USER_HOME$/www/dart/foo/lib/components/UsersSearch.dart" />
       <jump line="73" column="2" filename="$USER_HOME$/www/dart/foo/lib/components/UsersSearch.dart" />
+      <jump line="14" column="0" filename="$USER_HOME$/www/dart/foo/lib/components/UsersSearch.dart" />
+      <jump line="87" column="0" filename="$USER_HOME$/www/dart/foo/lib/components/UsersSearch.dart" />
+      <jump line="25" column="18" filename="$USER_HOME$/www/dart/hub/lib/components/LoginScreen.dart" />
+      <jump line="8" column="35" filename="$USER_HOME$/www/dart/hub/lib/components/LoginScreen.dart" />
+      <jump line="175" column="6" filename="$USER_HOME$/www/dart/hub/lib/components/LoginScreen.dart" />
+      <jump line="118" column="9" filename="$USER_HOME$/www/dart/hub/lib/components/LoginScreen.dart" />
+      <jump line="167" column="6" filename="$USER_HOME$/www/dart/hub/lib/components/LoginScreen.dart" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1068,7 +1068,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb21wb3NpbmdcPg==</text>
+        <text>per</text>
       </register>
       <register name="0" type="4">
         <text>clearComposing</text>
@@ -1111,18 +1111,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb21wb3NpbmdcPg==</last-search>
+      <last-search>per</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb21wb3NpbmdcPg==</last-pattern>
+      <last-pattern>per</last-pattern>
       <last-replace>isStuck</last-replace>
       <last-substitute>$ctrl.isStuck</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvbktleURvd25cPg==</entry>
-        <entry encoding="base64">XDxpbmRleFw+</entry>
         <entry>currentIndex</entry>
         <entry>resolve</entry>
         <entry encoding="base64">XDxvcmlnaW5hbFBhdGhcPg==</entry>
@@ -1141,6 +1139,8 @@
         <entry encoding="base64">XDxwcmVwZW5kXD4=</entry>
         <entry>clear</entry>
         <entry encoding="base64">XDxjb21wb3NpbmdcPg==</entry>
+        <entry>shar</entry>
+        <entry>per</entry>
       </history-search>
       <history-cmd>
         <entry>%s/foo=bar//gc</entry>
