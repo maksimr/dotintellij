@@ -657,6 +657,14 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-remove-script")).withParent(xmlTag().withLocalName(string().equalTo("yt-script-list")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-similar-issues/@issues</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("issues")).withParent(xmlTag().withLocalName(string().equalTo("yt-similar-issues")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-similar-issues/@ng-if</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-if")).withParent(xmlTag().withLocalName(string().equalTo("yt-similar-issues")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>yt-slider/@on-change</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-change")).withParent(xmlTag().withLocalName(string().equalTo("yt-slider")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
