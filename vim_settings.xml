@@ -24,10 +24,6 @@
         <mark key="^" line="82" column="43" />
         <mark key="." line="132" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream-comment.js" timestamp="1527794606142">
-        <mark key="[" line="286" column="19" />
-        <mark key="]" line="286" column="29" />
-      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/navigation/directive/yt-navigation.js" timestamp="1527799961576">
         <mark key="'" line="195" column="26" />
         <mark key="[" line="195" column="12" />
@@ -177,12 +173,12 @@
         <mark key="." line="9" column="8" />
         <mark key="^" line="9" column="8" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/template/new-issue.html" timestamp="1527805058374">
-        <mark key="'" line="89" column="56" />
-        <mark key="[" line="142" column="0" />
-        <mark key="]" line="158" column="26" />
-        <mark key="." line="88" column="17" />
-        <mark key="^" line="88" column="17" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/template/new-issue.html" timestamp="1527807779343">
+        <mark key="'" line="50" column="0" />
+        <mark key="[" line="66" column="97" />
+        <mark key="]" line="66" column="110" />
+        <mark key="." line="66" column="110" />
+        <mark key="^" line="66" column="110" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issues-more-actions.html" timestamp="1527761129642">
         <mark key="'" line="7" column="0" />
@@ -808,12 +804,12 @@
         <mark key="." line="238" column="24" />
         <mark key="^" line="238" column="24" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue-common/style/yt-issue.scss" timestamp="1527793778667">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue-common/style/yt-issue.scss" timestamp="1527807816153">
         <mark key="'" line="50" column="16" />
-        <mark key="[" line="50" column="6" />
-        <mark key="]" line="50" column="5" />
+        <mark key="[" line="84" column="18" />
+        <mark key="]" line="84" column="19" />
         <mark key="^" line="50" column="5" />
-        <mark key="." line="50" column="5" />
+        <mark key="." line="84" column="19" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dropdown/directive/yt-dropdown.js" timestamp="1527789651022">
         <mark key="'" line="27" column="72" />
@@ -823,8 +819,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32464" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
-      <jump line="32466" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
       <jump line="32541" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
       <jump line="2656" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
       <jump line="2822" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/angular/angular.js" />
@@ -923,10 +917,12 @@
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
       <jump line="459" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/test/controller/new-issue.js" />
       <jump line="460" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/test/controller/new-issue.js" />
+      <jump line="154" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/template/new-issue.html" />
+      <jump line="50" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/template/new-issue.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgbmV3RHJhZnQgPSBjcmVhdGVEcmFmdE1vY2soKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHl0LXNpbWlsYXItaXNzdWVzIGNsYXNzPSJ5dC12Z3V0dGVyLTEgeXQtYmxvY2stZWxlbWVudCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5nLWlmPSJuZXdJc3N1ZUN0cmwuc2ltaWxhcklzc3Vlcy5sZW5ndGgiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpc3N1ZXM9Im5ld0lzc3VlQ3RybC5zaW1pbGFySXNzdWVzIj48L3l0LXNpbWlsYXItaXNzdWVzPgo=</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -935,10 +931,10 @@
         <text encoding="base64">IGNhbmNlbA==</text>
       </register>
       <register name="/" type="4">
-        <text>clear</text>
+        <text>summ</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgbmV3RHJhZnQgPSBjcmVhdGVEcmFmdE1vY2soKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHl0LXNpbWlsYXItaXNzdWVzIGNsYXNzPSJ5dC12Z3V0dGVyLTEgeXQtYmxvY2stZWxlbWVudCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG5nLWlmPSJuZXdJc3N1ZUN0cmwuc2ltaWxhcklzc3Vlcy5sZW5ndGgiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpc3N1ZXM9Im5ld0lzc3VlQ3RybC5zaW1pbGFySXNzdWVzIj48L3l0LXNpbWlsYXItaXNzdWVzPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBleHBlY3RSZW1vdmVEcmFmdChkcmFmdCk7Cg==</text>
@@ -978,9 +974,9 @@
       </register>
     </registers>
     <search>
-      <last-search>clear</last-search>
+      <last-search>summ</last-search>
       <last-offset />
-      <last-pattern>clear</last-pattern>
+      <last-pattern>summ</last-pattern>
       <last-replace>currentIndex</last-replace>
       <last-substitute>\$ctrl\.currentIndex</last-substitute>
       <last-dir>1</last-dir>
@@ -988,7 +984,6 @@
     </search>
     <history>
       <history-search>
-        <entry>onDele</entry>
         <entry>remove</entry>
         <entry>DELE</entry>
         <entry encoding="base64">XDxza2lwSXRlbVhYWFw+</entry>
@@ -1008,6 +1003,7 @@
         <entry>epan</entry>
         <entry>clearDraft</entry>
         <entry>clear</entry>
+        <entry>summ</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\.Companion//gc</entry>
