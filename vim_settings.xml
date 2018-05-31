@@ -24,12 +24,12 @@
         <mark key="^" line="82" column="43" />
         <mark key="." line="132" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/navigation/directive/yt-navigation.js" timestamp="1527769564248">
-        <mark key="'" line="166" column="2" />
-        <mark key="[" line="3" column="20" />
-        <mark key="]" line="3" column="20" />
-        <mark key="^" line="3" column="20" />
-        <mark key="." line="3" column="20" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/navigation/directive/yt-navigation.js" timestamp="1527771498520">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="30" column="12" />
+        <mark key="]" line="30" column="12" />
+        <mark key="." line="30" column="12" />
+        <mark key="^" line="30" column="12" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sticky/style/yt-sticky.scss" timestamp="1527180804158">
         <mark key="'" line="33" column="0" />
@@ -708,12 +708,12 @@
         <mark key="^" line="10" column="6" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/navigation/test/directive/yt-navigation.js" timestamp="1527769846142">
-        <mark key="'" line="247" column="0" />
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="78" column="35" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/navigation/test/directive/yt-navigation.js" timestamp="1527771257493">
+        <mark key="'" line="13" column="51" />
+        <mark key="[" line="227" column="47" />
+        <mark key="]" line="227" column="48" />
+        <mark key="." line="227" column="48" />
+        <mark key="^" line="226" column="34" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-toolbar.html" timestamp="1527763038875">
         <mark key="'" line="34" column="19" />
@@ -815,11 +815,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="175" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/navigation/test/service/yt-navigation.js" />
-      <jump line="19" column="45" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/navigation/test/service/yt-navigation.js" />
-      <jump line="20" column="45" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/navigation/test/service/yt-navigation.js" />
-      <jump line="36" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/navigation/test/service/yt-navigation.js" />
-      <jump line="37" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/navigation/test/service/yt-navigation.js" />
       <jump line="39" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/navigation/test/service/yt-navigation.js" />
       <jump line="40" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/navigation/test/service/yt-navigation.js" />
       <jump line="13" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/navigation/test/service/yt-navigation.js" />
@@ -915,52 +910,57 @@
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/navigation/test/directive/yt-navigation.js" />
       <jump line="247" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/navigation/test/directive/yt-navigation.js" />
       <jump line="203" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
+      <jump line="206" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/navigation/test/directive/yt-navigation.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/navigation/test/directive/yt-navigation.js" />
+      <jump line="209" column="37" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/navigation/test/directive/yt-navigation.js" />
+      <jump line="13" column="51" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/navigation/test/directive/yt-navigation.js" />
+      <jump line="20" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/navigation/directive/yt-navigation.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJGNvbXBvbmVudENvbnRyb2xsZXIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>$componentController</text>
+        <text>onD</text>
       </register>
       <register name="/" type="4">
-        <text>focus</text>
+        <text>navTarget</text>
       </register>
       <register name="0" type="4">
-        <text>$componentController</text>
+        <text>changes.navTarget.prevValue</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgJGNvbXBvbmVudENvbnRyb2xsZXIsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJGNvbXBvbmVudENvbnRyb2xsZXIoJ3l0TmF2aWdhdGlvbicpKTsK</text>
+        <text encoding="base64">ICAgICAgICBhbmd1bGFyLmVsZW1lbnQoJGRvY3VtZW50WzBdLmJvZHkpLm9uKCdrZXlkb3duJywgb25LZXlEb3duKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJldlZhbHVlLnRyaWdnZXIoJyRkZXN0cm95Jyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgogICAgICBmdW5jdGlvbiBvbktleURvd24oZXZlbnQpIHsKICAgICAgICBzd2l0Y2ggKHRydWUpIHsKICAgICAgICAgIGNhc2UgKGV2ZW50LmtleUNvZGUgPT09IEV2ZW50S2V5Q29kZXMuRE9XTik6CiAgICAgICAgICAgICRjdHJsLm5leHRJdGVtKCk7CiAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgY2FzZSAoZXZlbnQua2V5Q29kZSA9PT0gRXZlbnRLZXlDb2Rlcy5VUCk6CiAgICAgICAgICAgICRjdHJsLnByZXZJdGVtKCk7CiAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgY2FzZSAoZXZlbnQua2V5Q29kZSA9PT0gRXZlbnRLZXlDb2Rlcy5IT01FKToKICAgICAgICAgICAgZm9jdXNJdGVtQXRJbmRleCgwKTsKICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICBjYXNlIChldmVudC5rZXlDb2RlID09PSBFdmVudEtleUNvZGVzLkVORCk6CiAgICAgICAgICAgIGZvY3VzSXRlbUF0SW5kZXgoJGN0cmwuc2l6ZSgpIC0gMSk7CiAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgZGVmYXVsdDoKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KCiAgICAgICAgZXZlbnQucHJldmVudERlZmF1bHQoKTsKICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHByZXZWYWx1ZS5vZmYoZXZlbnROYW1lLCAkY3RybFtldmVudE5hbWVdKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHZhciBjdXJyZW50VmFsdWUgPSAkY3RybC5uYXZUYXJnZXQ7CiAgICAgICAgICB2YXIgcHJldlZhbHVlID0gY2hhbmdlcy5uYXZUYXJnZXQucHJldlZhbHVlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIFsnbmV4dEl0ZW0nLCAncHJldkl0ZW0nXS5mb3JFYWNoKChldmVudE5hbWUpID0+IHsKICAgICAgICAgICAgcHJldlZhbHVlICYmIHByZXZWYWx1ZS5vZmYoZXZlbnROYW1lLCAkY3RybFtldmVudE5hbWVdKTsKICAgICAgICAgICAgY3VycmVudFZhbHVlLm9uKGV2ZW50TmFtZSwgJGN0cmxbZXZlbnROYW1lXSk7CiAgICAgICAgICB9KTsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZnVuY3Rpb24gdW5zdWJzY3JpYmVPbktleWRvd24oKSB7CiAgICAgICAgaWYgKCRjdHJsLnVuc3Vic2NyaWJlT25Eb2N1bWVudEtleWRvd24pIHsKICAgICAgICAgICRjdHJsLnVuc3Vic2NyaWJlT25Eb2N1bWVudEtleWRvd24oKTsKICAgICAgICAgICRjdHJsLnVuc3Vic2NyaWJlT25Eb2N1bWVudEtleWRvd24gPSBudWxsOwogICAgICAgIH0KICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -970,9 +970,9 @@
       </register>
     </registers>
     <search>
-      <last-search>focus</last-search>
+      <last-search>navTarget</last-search>
       <last-offset />
-      <last-pattern>focus</last-pattern>
+      <last-pattern>navTarget</last-pattern>
       <last-replace>currentIndex</last-replace>
       <last-substitute>\$ctrl\.currentIndex</last-substitute>
       <last-dir>1</last-dir>
@@ -980,7 +980,6 @@
     </search>
     <history>
       <history-search>
-        <entry>currentItem</entry>
         <entry>current</entry>
         <entry>isVali</entry>
         <entry>return null if</entry>
@@ -1000,6 +999,7 @@
         <entry encoding="base64">XDx1cGRhdGVDdXJyZW50SW5kZXhcPg==</entry>
         <entry>should move to pre</entry>
         <entry>focus</entry>
+        <entry>navTarget</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\.Companion//gc</entry>
