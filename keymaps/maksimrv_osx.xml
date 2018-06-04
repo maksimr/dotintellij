@@ -196,6 +196,10 @@
     <keyboard-shortcut first-keystroke="ctrl s" />
     <keyboard-shortcut first-keystroke="meta s" />
   </action>
+  <action id="SearchAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt d" />
+    <keyboard-shortcut first-keystroke="alt comma" second-keystroke="shift d" />
+  </action>
   <action id="ShowBookmarks">
     <keyboard-shortcut first-keystroke="shift f11" />
     <keyboard-shortcut first-keystroke="alt comma" second-keystroke="shift b" />
@@ -205,6 +209,10 @@
     <keyboard-shortcut first-keystroke="alt comma" second-keystroke="comma" />
   </action>
   <action id="ShowUmlDiagramPopup" />
+  <action id="SmartSearchAction">
+    <keyboard-shortcut first-keystroke="shift ctrl d" />
+    <keyboard-shortcut first-keystroke="alt comma" second-keystroke="d" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
