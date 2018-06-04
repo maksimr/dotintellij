@@ -81,6 +81,10 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-switch")).withParent(xmlTag().withLocalName(string().equalTo("div")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>div/@ngf-select</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ngf-select")).withParent(xmlTag().withLocalName(string().equalTo("div")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>div/@on-apply</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-apply")).withParent(xmlTag().withLocalName(string().equalTo("div")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>

@@ -129,8 +129,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/test/e2e/e2e-test-utils.js" timestamp="1528116593270">
         <mark key="'" line="137" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-attachments.html" timestamp="1527596712508">
-        <mark key="'" line="8" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-attachments.html" timestamp="1528119631087">
+        <mark key="'" line="28" column="30" />
         <mark key="[" line="11" column="43" />
         <mark key="]" line="11" column="45" />
         <mark key="." line="11" column="45" />
@@ -178,12 +178,12 @@
         <mark key="." line="9" column="8" />
         <mark key="^" line="9" column="8" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/template/new-issue.html" timestamp="1528119094829">
-        <mark key="'" line="78" column="37" />
-        <mark key="[" line="84" column="66" />
-        <mark key="]" line="84" column="76" />
-        <mark key="." line="84" column="76" />
-        <mark key="^" line="84" column="76" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/template/new-issue.html" timestamp="1528119564325">
+        <mark key="'" line="84" column="35" />
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="94" column="0" />
+        <mark key="." line="94" column="0" />
+        <mark key="^" line="94" column="11" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issues-more-actions.html" timestamp="1527761129642">
         <mark key="'" line="7" column="0" />
@@ -291,6 +291,9 @@
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/navigation/service/keyboard-list-navigator.js" timestamp="1527801100725">
         <mark key="'" line="11" column="11" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-attachments.js" timestamp="1528119581145">
+        <mark key="'" line="88" column="2" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/comment/directive/yt-add-comment.js" timestamp="1527077550036">
         <mark key="'" line="359" column="2" />
@@ -764,8 +767,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-body.js" timestamp="1527696901739">
         <mark key="'" line="101" column="42" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" timestamp="1528119036923">
-        <mark key="'" line="264" column="13" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" timestamp="1528119546900">
+        <mark key="'" line="163" column="10" />
         <mark key="[" line="266" column="0" />
         <mark key="]" line="266" column="0" />
         <mark key="." line="266" column="0" />
@@ -902,15 +905,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/test/kotlin/jetbrains/youtrack/webdriver/dashboard/DashboardTest.kt" />
-      <jump line="3" column="58" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/test/kotlin/jetbrains/youtrack/webdriver/newIssue/NewIssueTest.kt" />
-      <jump line="301" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/test/kotlin/jetbrains/youtrack/webdriver/newIssue/NewIssueTest.kt" />
-      <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/build.gradle" />
-      <jump line="251" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/build.gradle" />
-      <jump line="28" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/main/kotlin/jetbrains/youtrack/webdriver/page/NewCreateIssuePage.kt" />
-      <jump line="123" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/main/kotlin/jetbrains/youtrack/webdriver/page/NewCreateIssuePage.kt" />
-      <jump line="130" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/main/kotlin/jetbrains/youtrack/webdriver/page/NewCreateIssuePage.kt" />
-      <jump line="189" column="41" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/main/kotlin/jetbrains/youtrack/webdriver/page/NewCreateIssuePage.kt" />
       <jump line="190" column="41" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/main/kotlin/jetbrains/youtrack/webdriver/page/NewCreateIssuePage.kt" />
       <jump line="191" column="44" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/main/kotlin/jetbrains/youtrack/webdriver/page/NewCreateIssuePage.kt" />
       <jump line="269" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/main/kotlin/jetbrains/youtrack/webdriver/page/NewCreateIssuePage.kt" />
@@ -1002,19 +996,28 @@
       <jump line="66" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
       <jump line="55" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
       <jump line="264" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
+      <jump line="269" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
+      <jump line="163" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/new-issue.js" />
+      <jump line="84" column="35" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/template/new-issue.html" />
+      <jump line="24" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-attachments.js" />
+      <jump line="88" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-attachments.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-attachments.html" />
+      <jump line="5" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-attachments.html" />
+      <jump line="9" column="52" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-attachments.html" />
+      <jump line="28" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-attachments.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>toEqual</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkb0NoYW5nZVw+</text>
+        <text>click</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkaHR0cEJhY2tlbmQudmVyaWZ5Tm9PdXRzdGFuZGluZ1JlcXVlc3QoKTsK</text>
@@ -1057,22 +1060,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkb0NoYW5nZVw+</last-search>
+      <last-search>click</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkb0NoYW5nZVw+</last-pattern>
+      <last-pattern>click</last-pattern>
       <last-replace>currentIndex</last-replace>
       <last-substitute>\$ctrl\.currentIndex</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>no</entry>
-        <entry encoding="base64">XDxnZXRDdXJyZW50VXNlclw+</entry>
-        <entry>feat</entry>
-        <entry encoding="base64">XDxmZWF0dXJlRmxhZ3NcPg==</entry>
-        <entry encoding="base64">XDxzaW5vblw+</entry>
-        <entry>watch</entry>
         <entry encoding="base64">XDxleHBlY3RHZXRTaW1pbGFySXNzdWVzRm9yXD4=</entry>
         <entry>fit</entry>
         <entry>isSimi</entry>
@@ -1087,6 +1084,12 @@
         <entry>markdown</entry>
         <entry>onChange</entry>
         <entry encoding="base64">XDxkb0NoYW5nZVw+</entry>
+        <entry>onRemove</entry>
+        <entry encoding="base64">XDxvbkRyb3BBdHRhY2htZW50c1w+</entry>
+        <entry>attach</entry>
+        <entry>drag</entry>
+        <entry>drop</entry>
+        <entry>click</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\.Companion//gc</entry>
