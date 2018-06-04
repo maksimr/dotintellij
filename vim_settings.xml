@@ -48,8 +48,8 @@
         <mark key="." line="7" column="7" />
         <mark key="^" line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/test/kotlin/jetbrains/youtrack/webdriver/newIssue/NewIssueTest.kt" timestamp="1528106500042">
-        <mark key="'" line="299" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/test/kotlin/jetbrains/youtrack/webdriver/newIssue/NewIssueTest.kt" timestamp="1528108998771">
+        <mark key="'" line="296" column="38" />
         <mark key="[" line="296" column="0" />
         <mark key="]" line="296" column="0" />
         <mark key="." line="296" column="0" />
@@ -518,14 +518,15 @@
         <mark key="^" line="14" column="19" />
         <mark key="." line="14" column="19" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/build.gradle" timestamp="1528106187752">
-        <mark key="'" line="251" column="0" />
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="90" />
-        <mark key="." line="95" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/build.gradle" timestamp="1528109100353">
+        <mark key="'" line="152" column="12" />
+        <mark key="[" line="224" column="16" />
+        <mark key="]" line="224" column="24" />
+        <mark key="." line="224" column="24" />
+        <mark key="^" line="224" column="24" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/test/kotlin/jetbrains/youtrack/webdriver/dashboard/DashboardTest.kt" timestamp="1528101829120">
-        <mark key="'" line="43" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/test/kotlin/jetbrains/youtrack/webdriver/dashboard/DashboardTest.kt" timestamp="1528109036934">
+        <mark key="'" line="32" column="12" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/app.scss" timestamp="1527793825040">
         <mark key="'" line="226" column="6" />
@@ -897,10 +898,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1713" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/code-prettify/src/node_prettify.js" />
-      <jump line="43" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/markup/directive/yt-markup.js" />
-      <jump line="5" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/prettify/prettify.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/prettify/lib/lang-kotlin.js" />
       <jump line="40" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/prettify/lib/lang-kotlin.js" />
       <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/prettify/lib/lang-kotlin.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/prettify/lib/lang-kotlin.js" />
@@ -997,22 +994,26 @@
       <jump line="191" column="44" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/main/kotlin/jetbrains/youtrack/webdriver/page/NewCreateIssuePage.kt" />
       <jump line="269" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/main/kotlin/jetbrains/youtrack/webdriver/page/NewCreateIssuePage.kt" />
       <jump line="140" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/main/kotlin/jetbrains/youtrack/webdriver/page/NewCreateIssuePage.kt" />
+      <jump line="296" column="38" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/test/kotlin/jetbrains/youtrack/webdriver/newIssue/NewIssueTest.kt" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/build.gradle" />
+      <jump line="32" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/test/kotlin/jetbrains/youtrack/webdriver/dashboard/DashboardTest.kt" />
+      <jump line="152" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>newIssue</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>newValue</text>
+        <text>newIssue</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b2dnbGVQYW5lbFw+</text>
+        <text>dash</text>
       </register>
-      <register name="0" type="4">
-        <text>isExpanded() != curState</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGV4Y2x1ZGUgJyoqL25ld0lzc3VlLyoqJwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1052,18 +1053,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0b2dnbGVQYW5lbFw+</last-search>
+      <last-search>dash</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b2dnbGVQYW5lbFw+</last-pattern>
+      <last-pattern>dash</last-pattern>
       <last-replace>currentIndex</last-replace>
       <last-substitute>\$ctrl\.currentIndex</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>kot</entry>
-        <entry>regist</entry>
         <entry encoding="base64">XDxydW5EZWxheWVkUHJldHR5UHJpbnRcPg==</entry>
         <entry>$time</entry>
         <entry encoding="base64">XDx1cmxcPg==</entry>
@@ -1082,6 +1081,8 @@
         <entry>wait</entry>
         <entry>toggle</entry>
         <entry encoding="base64">XDx0b2dnbGVQYW5lbFw+</entry>
+        <entry>Smoke</entry>
+        <entry>dash</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\.Companion//gc</entry>
