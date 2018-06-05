@@ -289,12 +289,12 @@
         <mark key="." line="7" column="27" />
         <mark key="^" line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/test/controller/new-issue.js" timestamp="1528191681853">
-        <mark key="'" line="737" column="11" />
-        <mark key="[" line="295" column="25" />
-        <mark key="]" line="295" column="25" />
-        <mark key="." line="295" column="25" />
-        <mark key="^" line="295" column="25" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/test/controller/new-issue.js" timestamp="1528192316622">
+        <mark key="'" line="162" column="26" />
+        <mark key="[" line="388" column="4" />
+        <mark key="]" line="388" column="4" />
+        <mark key="." line="388" column="4" />
+        <mark key="^" line="388" column="4" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/controller/issue.js" timestamp="1527521550507">
         <mark key="'" line="259" column="22" />
@@ -921,19 +921,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="12" filename="/yt-issue-stream-comment.js" />
-      <jump line="131" column="10" filename="/yt-issue-stream-comment.js" />
-      <jump line="132" column="58" filename="/yt-issue-stream-comment.js" />
-      <jump line="147" column="27" filename="/yt-issue-stream-comment.js" />
-      <jump line="148" column="31" filename="/yt-issue-stream-comment.js" />
-      <jump line="117" column="39" filename="/yt-issue-stream-comment.js" />
-      <jump line="118" column="39" filename="/yt-issue-stream-comment.js" />
-      <jump line="119" column="65" filename="/yt-issue-stream-comment.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-stream-work-item.html" />
-      <jump line="15" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-stream-work-item.html" />
-      <jump line="16" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-stream-work-item.html" />
-      <jump line="34" column="82" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-stream-work-item.html" />
-      <jump line="9" column="71" filename="/yt-issue-feed-work-item.html" />
       <jump line="64" column="71" filename="/yt-issue-feed-work-item.html" />
       <jump line="35" column="44" filename="/yt-issue-feed-work-item.html" />
       <jump line="8" column="21" filename="/yt-issue-feed-work-item.html" />
@@ -1021,22 +1008,35 @@
       <jump line="710" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/test/controller/new-issue.js" />
       <jump line="28" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/test/controller/new-issue.js" />
       <jump line="736" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/test/controller/new-issue.js" />
+      <jump line="295" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/test/controller/new-issue.js" />
+      <jump line="30" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/test/controller/new-issue.js" />
+      <jump line="27" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/test/controller/new-issue.js" />
+      <jump line="738" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/test/controller/new-issue.js" />
+      <jump line="337" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/test/controller/new-issue.js" />
+      <jump line="370" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/test/controller/new-issue.js" />
+      <jump line="400" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/test/controller/new-issue.js" />
+      <jump line="731" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/test/controller/new-issue.js" />
+      <jump line="670" column="75" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/test/controller/new-issue.js" />
+      <jump line="730" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/test/controller/new-issue.js" />
+      <jump line="732" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/test/controller/new-issue.js" />
+      <jump line="61" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/test/controller/new-issue.js" />
+      <jump line="162" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/test/controller/new-issue.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>'A';</text>
       </register>
       <register name="/" type="4">
-        <text>onChangeSumm</text>
+        <text encoding="base64">ID0gJ0En</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdXBkYXRlU3VtbWFyeShkcmFmdCwgJ0QnKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1045,28 +1045,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdXBkYXRlU3VtbWFyeShkcmFmdCwgJ0YnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjaGlsZDogQ2VudGVyKAogICAgICAgICksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNoaWxkOiBUZXh0KAogICAgICAgICAgICAiQSIsCiAgICAgICAgICApLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3R5bGU6IFRleHRTdHlsZSgKICAgICAgICAgICAgICBjb2xvcjogQ29sb3JzLmJsYWNrLAogICAgICAgICAgICAgIGZvbnRTaXplOiA0MC4wLAogICAgICAgICAgICApLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgJGN0cmwub25DaGFuZ2UodHJ1ZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW5pdGlhbFBhZ2U6IDEsCg==</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0R2V0U2ltaWxhcklzc3Vlc0ZvcihkcmFmdC5pZCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBmaW5hbCBwYWdlQ3RybCA9IG5ldyBQYWdlQ29udHJvbGxlcihpbml0aWFsUGFnZTogd2lkZ2V0LmluaXRpYWxQYWdlKTsK</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0R2V0U2ltaWxhcklzc3Vlc0ZvcihkcmFmdC5pZCk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1076,9 +1076,9 @@
       </register>
     </registers>
     <search>
-      <last-search>onChangeSumm</last-search>
+      <last-search encoding="base64">ID0gJ0En</last-search>
       <last-offset />
-      <last-pattern>onChangeSumm</last-pattern>
+      <last-pattern encoding="base64">ID0gJ0En</last-pattern>
       <last-replace>currentIndex</last-replace>
       <last-substitute>\$ctrl\.currentIndex</last-substitute>
       <last-dir>1</last-dir>
@@ -1086,10 +1086,6 @@
     </search>
     <history>
       <history-search>
-        <entry>markdown</entry>
-        <entry encoding="base64">XDxkb0NoYW5nZVw+</entry>
-        <entry>onRemove</entry>
-        <entry encoding="base64">XDxvbkRyb3BBdHRhY2htZW50c1w+</entry>
         <entry>drag</entry>
         <entry>drop</entry>
         <entry>click</entry>
@@ -1104,8 +1100,12 @@
         <entry>print</entry>
         <entry encoding="base64">XDxwYWdlQ3RybFw+</entry>
         <entry encoding="base64">XDxpbml0aWFsUGFnZVw+</entry>
-        <entry>onChange</entry>
         <entry>onChangeSumm</entry>
+        <entry encoding="base64">XDx0aW1lb3V0XD4=</entry>
+        <entry encoding="base64">XDxmbHVzaERyYWZ0Q2hhbmdlc1w+</entry>
+        <entry>onChange</entry>
+        <entry encoding="base64">XDxkcmFmdFw+</entry>
+        <entry encoding="base64">ID0gJ0En</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\.Companion//gc</entry>
