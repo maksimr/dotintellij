@@ -469,6 +469,10 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("selected-fn")).withParent(xmlTag().withLocalName(string().equalTo("yt-date-picker")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-draft-issue-toolbar/@on-open-command-dialog</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-open-command-dialog")).withParent(xmlTag().withLocalName(string().equalTo("yt-draft-issue-toolbar")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>yt-draft-issue-toolbar/@on-refresh</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-refresh")).withParent(xmlTag().withLocalName(string().equalTo("yt-draft-issue-toolbar")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
