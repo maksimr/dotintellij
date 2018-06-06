@@ -1032,8 +1032,10 @@
         <mark key="[" line="133" column="0" />
         <mark key="]" line="134" column="62" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dropdown/directive/yt-dropdown.js" timestamp="1527789651022">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/dropdown/directive/yt-dropdown.js" timestamp="1528293934433">
         <mark key="'" line="27" column="72" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="31" column="41" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/tooltip/directive/yt-tooltip.js" timestamp="1528285631529">
         <mark key="'" line="9" column="60" />
@@ -1158,8 +1160,8 @@
       <jump line="119" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/service/mention-helper.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>$window.getComputedStyle(element[0])</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRyYW5zY2x1ZGUoZnVuY3Rpb24oY2xvbmUsIHRyYW5zY2x1ZGVkU2NvcGUpIHsKICAgICAgICAgICAgICAkZWxlbWVudC5hcHBlbmQoY2xvbmUpOwogICAgICAgICAgICAgIC8vIFhYWDoKICAgICAgICAgICAgICAvLyBGaXggaXQgaW4gcmluZy11aS4KICAgICAgICAgICAgICAvLyBSaW5nLXVpIHNldCB0ZXh0LWFsaWduIGVxdWFscyBgY2VudGVyYCBub3cgYW5kIHRoaXMgaXMgZG9lc24ndCBuZWVkZWQgaW4KICAgICAgICAgICAgICAvLyBtb3N0IG9mIHRoZSBjYXNlcwogICAgICAgICAgICAgICRlbGVtZW50LmNzcyh7dGV4dEFsaWduOiAnbGVmdCd9KTsKICAgICAgICAgICAgICAkc2NvcGUuJG9uKCckZGVzdHJveScsIHRyYW5zY2x1ZGVkU2NvcGUuJGRlc3Ryb3kuYmluZCh0cmFuc2NsdWRlZFNjb3BlKSk7CiAgICAgICAgICAgIH0sIG51bGwsICd5dERyb3Bkb3duQ29udGVudCcpOwo=</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -1168,10 +1170,10 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwb3NpdGlvblw+</text>
+        <text>slot</text>
       </register>
-      <register name="0" type="4">
-        <text>$window.getComputedStyle(element[0]);</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJHRyYW5zY2x1ZGUoZnVuY3Rpb24oY2xvbmUsIHRyYW5zY2x1ZGVkU2NvcGUpIHsKICAgICAgICAgICAgICAkZWxlbWVudC5hcHBlbmQoY2xvbmUpOwogICAgICAgICAgICAgIC8vIFhYWDoKICAgICAgICAgICAgICAvLyBGaXggaXQgaW4gcmluZy11aS4KICAgICAgICAgICAgICAvLyBSaW5nLXVpIHNldCB0ZXh0LWFsaWduIGVxdWFscyBgY2VudGVyYCBub3cgYW5kIHRoaXMgaXMgZG9lc24ndCBuZWVkZWQgaW4KICAgICAgICAgICAgICAvLyBtb3N0IG9mIHRoZSBjYXNlcwogICAgICAgICAgICAgICRlbGVtZW50LmNzcyh7dGV4dEFsaWduOiAnbGVmdCd9KTsKICAgICAgICAgICAgICAkc2NvcGUuJG9uKCckZGVzdHJveScsIHRyYW5zY2x1ZGVkU2NvcGUuJGRlc3Ryb3kuYmluZCh0cmFuc2NsdWRlZFNjb3BlKSk7CiAgICAgICAgICAgIH0sIG51bGwsICd5dERyb3Bkb3duQ29udGVudCcpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICByZXF1aXJlKCdAamV0YnJhaW5zL3JpbmctdWkvY29tcG9uZW50cy9zZWxlY3Qtbmcvc2VsZWN0LW5nJykuZGVmYXVsdCwK</text>
@@ -1211,17 +1213,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwb3NpdGlvblw+</last-search>
+      <last-search>slot</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwb3NpdGlvblw+</last-pattern>
+      <last-pattern>slot</last-pattern>
       <last-replace>currentIndex</last-replace>
       <last-substitute>\$ctrl\.currentIndex</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>equal</entry>
         <entry encoding="base64">XDxhc3NlcnROb3RFcXVhbHNcPg==</entry>
         <entry>assertEqua</entry>
         <entry>markup</entry>
@@ -1241,6 +1242,7 @@
         <entry>compu</entry>
         <entry encoding="base64">XDxnZXRFbGVtZW50U3R5bGVzXD4=</entry>
         <entry encoding="base64">XDxwb3NpdGlvblw+</entry>
+        <entry>slot</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\.Companion//gc</entry>
