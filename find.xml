@@ -9,7 +9,7 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.html" />
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
@@ -28,7 +28,6 @@
     <mask>*.js,*.scss</mask>
     <mask>*.js,*.scss,*.html</mask>
     <mask>*.js,*.html,*.scss,*.json</mask>
-    <mask>*.html</mask>
     <mask>*.html,*.scss,*.js</mask>
     <mask>*.dart</mask>
     <mask>*.gradle</mask>
@@ -40,5 +39,6 @@
     <mask>*.js,*.html</mask>
     <mask>*.kt</mask>
     <mask>*.js</mask>
+    <mask>*.html</mask>
   </component>
 </application>
