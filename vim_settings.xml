@@ -101,10 +101,10 @@
         <mark key="^" line="0" column="21" />
         <mark key="." line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1528296662609">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="67" column="22" />
-        <mark key="]" line="67" column="27" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1528363058378">
+        <mark key="'" line="153" column="5" />
+        <mark key="[" line="170" column="72" />
+        <mark key="]" line="170" column="118" />
         <mark key="." line="67" column="27" />
         <mark key="^" line="67" column="27" />
       </file>
@@ -384,10 +384,10 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="7" column="51" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/yt-utils.js" timestamp="1528301849233">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/utils/service/yt-utils.js" timestamp="1528362602294">
         <mark key="'" line="485" column="2" />
         <mark key="[" line="309" column="0" />
-        <mark key="]" line="311" column="7" />
+        <mark key="]" line="310" column="65" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/service/mention-helper.js" timestamp="1528301834149">
         <mark key="'" line="74" column="27" />
@@ -608,12 +608,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/service/yt-shortcuts-convert-serverside.js" timestamp="1528204949702">
         <mark key="'" line="27" column="26" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/main/kotlin/jetbrains/youtrack/webdriver/page/NewCreateIssuePage.kt" timestamp="1528283318722">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/main/kotlin/jetbrains/youtrack/webdriver/page/NewCreateIssuePage.kt" timestamp="1528362654224">
         <mark key="'" line="111" column="13" />
-        <mark key="[" line="303" column="28" />
-        <mark key="]" line="303" column="47" />
-        <mark key="." line="303" column="47" />
-        <mark key="^" line="303" column="47" />
+        <mark key="[" line="299" column="0" />
+        <mark key="]" line="300" column="28" />
+        <mark key="." line="300" column="28" />
+        <mark key="^" line="300" column="28" />
       </file>
       <file name="$USER_HOME$/www/dart/foo/lib/components/UsersSearch.dart" timestamp="1527542963425">
         <mark key="'" line="87" column="0" />
@@ -986,8 +986,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="269" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/directive/yt-mention.js" />
-      <jump line="417" column="46" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/directive/yt-mention.js" />
       <jump line="420" column="38" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/directive/yt-mention.js" />
       <jump line="421" column="40" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/directive/yt-mention.js" />
       <jump line="426" column="49" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/directive/yt-mention.js" />
@@ -1086,10 +1084,12 @@
       <jump line="51" column="27" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/service/mention-helper.js" />
       <jump line="55" column="27" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/service/mention-helper.js" />
       <jump line="74" column="27" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/service/mention-helper.js" />
+      <jump line="104" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="153" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgc2V0Q2FyZXRQb3NpdGlvbjogZnVuY3Rpb24odGV4dGFyZWEsIGNhcmV0UG9zaXRpb24pIHsKICAgICAgICB0ZXh0YXJlYS5zZXRTZWxlY3Rpb25SYW5nZShjYXJldFBvc2l0aW9uLCBjYXJldFBvc2l0aW9uKTsKICAgICAgfSwK</text>
+      <register name="&quot;" type="4">
+        <text>-d  --progress --inline --devtool eval --colors</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -1098,10 +1098,10 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmdW5jdGlvblw+</text>
+        <text>webpack-dev</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHByZVRleHQgPSB0ZXh0YXJlYS52YWx1ZS5zdWJzdHJpbmcoMCwgY2FyZXRQb3NpdGlvbiAtIHF1ZXJ5TGVuZ3RoKTsKICAgICAgICAgICAgdmFyIGFmdGVyVGV4dCA9IHRleHRhcmVhLnZhbHVlLnN1YnN0cihjYXJldFBvc2l0aW9uKTsK</text>
+        <text encoding="base64">ICAgICAgc2V0Q2FyZXRQb3NpdGlvbjogZnVuY3Rpb24odGV4dGFyZWEsIGNhcmV0UG9zaXRpb24pIHsKICAgICAgICB0ZXh0YXJlYS5zZXRTZWxlY3Rpb25SYW5nZShjYXJldFBvc2l0aW9uLCBjYXJldFBvc2l0aW9uKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICByZXF1aXJlKCdAamV0YnJhaW5zL3JpbmctdWkvY29tcG9uZW50cy9zZWxlY3Qtbmcvc2VsZWN0LW5nJykuZGVmYXVsdCwK</text>
@@ -1141,17 +1141,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmdW5jdGlvblw+</last-search>
+      <last-search>webpack-dev</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmdW5jdGlvblw+</last-pattern>
+      <last-pattern>webpack-dev</last-pattern>
       <last-replace>currentIndex</last-replace>
       <last-substitute>\$ctrl\.currentIndex</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>usesMark</entry>
         <entry encoding="base64">XDxvblNlbGVjdFN5bnRheE9wdGlvblw+</entry>
         <entry encoding="base64">XDxvbkNoYW5nZU1hcmtkb3duXD4=</entry>
         <entry>sele</entry>
@@ -1171,6 +1170,7 @@
         <entry>query</entry>
         <entry encoding="base64">XDxnZXRVc2VyTmFtZUJ5Q2FyZXRQb3NpdGlvblw+</entry>
         <entry encoding="base64">XDxmdW5jdGlvblw+</entry>
+        <entry>webpack-dev</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\.Companion//gc</entry>
