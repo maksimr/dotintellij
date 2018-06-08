@@ -411,8 +411,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/service/mention-helper.js" timestamp="1528301834149">
         <mark key="'" line="74" column="27" />
       </file>
-      <file name="$USER_HOME$/www/dart/foo/lib/main.dart" timestamp="1528457688961">
-        <mark key="'" line="4" column="0" />
+      <file name="$USER_HOME$/www/dart/foo/lib/main.dart" timestamp="1528490885752">
+        <mark key="'" line="82" column="0" />
         <mark key="[" line="26" column="38" />
         <mark key="]" line="26" column="38" />
         <mark key="." line="26" column="38" />
@@ -684,6 +684,13 @@
         <mark key="]" line="25" column="13" />
         <mark key="." line="25" column="13" />
         <mark key="^" line="25" column="13" />
+      </file>
+      <file name="$USER_HOME$/www/dart/foo/test/widget_test.dart" timestamp="1528491200393">
+        <mark key="'" line="13" column="36" />
+        <mark key="[" line="14" column="32" />
+        <mark key="]" line="14" column="33" />
+        <mark key="^" line="14" column="33" />
+        <mark key="." line="14" column="33" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-similar-issues.js" timestamp="1527586881371">
         <mark key="'" line="4" column="14" />
@@ -1046,10 +1053,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1761" column="21" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/framework.dart" />
-      <jump line="1763" column="9" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/framework.dart" />
-      <jump line="1767" column="61" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/framework.dart" />
-      <jump line="1770" column="62" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/framework.dart" />
       <jump line="1771" column="58" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/framework.dart" />
       <jump line="1772" column="29" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/framework.dart" />
       <jump line="1774" column="34" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/framework.dart" />
@@ -1146,6 +1149,10 @@
       <jump line="47" column="39" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/test/kotlin/jetbrains/youtrack/webdriver/newIssue/NewIssueTest.kt" />
       <jump line="72" column="13" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="4" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="22" column="73" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="48" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="82" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="13" column="36" filename="$USER_HOME$/www/dart/foo/test/widget_test.dart" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1158,7 +1165,7 @@
         <text encoding="base64">LndoZXJlKChpKSA9PiBpICUgMiA9PSAwKSw=</text>
       </register>
       <register name="/" type="4">
-        <text>Des</text>
+        <text>Consu</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2ltaWxhcklzc3Vlcy5jb2xsYXBzZSgpCg==</text>
@@ -1201,9 +1208,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Des</last-search>
+      <last-search>Consu</last-search>
       <last-offset />
-      <last-pattern>Des</last-pattern>
+      <last-pattern>Consu</last-pattern>
       <last-replace>currentIndex</last-replace>
       <last-substitute>\$ctrl\.currentIndex</last-substitute>
       <last-dir>1</last-dir>
@@ -1211,8 +1218,6 @@
     </search>
     <history>
       <history-search>
-        <entry>build</entry>
-        <entry encoding="base64">XDxNeUhvbWVQYWdlXD4=</entry>
         <entry encoding="base64">XDxfY291bnRlclw+</entry>
         <entry>count</entry>
         <entry encoding="base64">XDxjb3VudFN0cmVhbVw+</entry>
@@ -1231,6 +1236,8 @@
         <entry>case_6</entry>
         <entry>verifiyIssueDe</entry>
         <entry>Des</entry>
+        <entry>consumer</entry>
+        <entry>Consu</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\.Companion//gc</entry>
