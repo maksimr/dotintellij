@@ -110,8 +110,8 @@
         <mark key="^" line="0" column="21" />
         <mark key="." line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1528544642778">
-        <mark key="'" line="13" column="42" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1528545045221">
+        <mark key="'" line="195" column="0" />
         <mark key="[" line="42" column="33" />
         <mark key="]" line="42" column="32" />
         <mark key="." line="42" column="32" />
@@ -797,6 +797,13 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="3" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/issue-menu-create-button.html" timestamp="1528546612551">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="3" column="15" />
+        <mark key="]" line="3" column="15" />
+        <mark key="." line="3" column="15" />
+        <mark key="^" line="3" column="68" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/code-editor.js" timestamp="1527866691087">
         <mark key="'" line="29" column="15" />
       </file>
@@ -816,14 +823,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="3" column="0" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sticky/directive/yt-sticky-panel.js" timestamp="1528300532479">
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="131" column="23" />
-      </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/test/directive/yt-date-interval-dropdown.js" timestamp="1528299711780">
-        <mark key="[" line="17" column="19" />
-        <mark key="]" line="17" column="32" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/README.md" timestamp="1527605363996">
         <mark key="'" line="40" column="4" />
@@ -858,6 +857,12 @@
         <mark key="]" line="69" column="79" />
         <mark key="." line="69" column="86" />
         <mark key="^" line="69" column="59" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/controller/issue-menu-create-button.js" timestamp="1528546960405">
+        <mark key="[" line="21" column="37" />
+        <mark key="]" line="21" column="38" />
+        <mark key="." line="21" column="38" />
+        <mark key="^" line="21" column="7" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/directive/yt-mention.js" timestamp="1528301428802">
         <mark key="'" line="251" column="28" />
@@ -1053,12 +1058,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1778" column="4" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/framework.dart" />
-      <jump line="1779" column="65" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/framework.dart" />
-      <jump line="1783" column="55" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/framework.dart" />
-      <jump line="1785" column="20" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/framework.dart" />
-      <jump line="1790" column="13" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/framework.dart" />
-      <jump line="1795" column="12" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/framework.dart" />
       <jump line="1831" column="60" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/framework.dart" />
       <jump line="1832" column="62" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/framework.dart" />
       <jump line="1854" column="62" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/framework.dart" />
@@ -1153,55 +1152,61 @@
       <jump line="205" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/test/kotlin/jetbrains/youtrack/webdriver/newIssue/NewIssueDraftsTest.kt" />
       <jump line="134" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
       <jump line="13" column="42" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="42" column="32" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="201" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="195" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="3" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/issue-menu-create-button.html" />
+      <jump line="23" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/issue-menu-create-button.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0.4.58</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXZlbnQuYnV0dG9uLCBldmVudC53aGljaCk7Cg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>0.4.58</text>
+        <text>ng-click=&quot;issueMenuCreateButtonCtrl.onClick($event, issueMenuCreateButtonPublicInterface.openInNewTab)&quot;</text>
       </register>
       <register name="/" type="4">
         <text>ring-ui</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2ltaWxhcklzc3Vlcy5jb2xsYXBzZSgpCg==</text>
+      <register name="0" type="4">
+        <text>issueMenuCreateButtonCtrl.onClick($event, issueMenuCreateButtonPublicInterface.openInNewTab)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXZlbnQuYnV0dG9uLCBldmVudC53aGljaCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIFRoaXMgY2FsbCB0byBzZXRTdGF0ZSB0ZWxscyB0aGUgRmx1dHRlciBmcmFtZXdvcmsgdGhhdCBzb21ldGhpbmcgaGFzCiAgICAvLyBjaGFuZ2VkIGluIHRoaXMgU3RhdGUsIHdoaWNoIGNhdXNlcyBpdCB0byByZXJ1biB0aGUgYnVpbGQgbWV0aG9kIGJlbG93CiAgICAvLyBzbyB0aGF0IHRoZSBkaXNwbGF5IGNhbiByZWZsZWN0IHRoZSB1cGRhdGVkIHZhbHVlcy4gSWYgd2UgY2hhbmdlZAogICAgLy8gX2NvdW50ZXIgd2l0aG91dCBjYWxsaW5nIHNldFN0YXRlKCksIHRoZW4gdGhlIGJ1aWxkIG1ldGhvZCB3b3VsZCBub3QgYmUKICAgIC8vIGNhbGxlZCBhZ2FpbiwgYW5kIHNvIG5vdGhpbmcgd291bGQgYXBwZWFyIHRvIGhhcHBlbi4K</text>
+        <text encoding="base64">ICAgICAgY29uc3QgYnRuQ29kZSA9IGV2ZW50LmJ1dHRvbjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gUHJvZHVjZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBDb25zdW1lcgo=</text>
+        <text encoding="base64">ICAgICAgaWYgKGJ0bkNvZGUgPT09IDEpIHsgLy8gTWlkZGxlIGJ1dHRvbiBjbGlja2VkCiAgICAgICAgLy8gU3RvcCBwcm9wYWdhdGlvbiBiZWNhdXNlIHdlIGhhbmRsZSB0aGlzIGNhc2UgaW4gbW91c2Vkb3duIGV2ZW50CiAgICAgICAgLy8gb3RoZXIgY2FzZXMgaGFuZGwgYnkgY2xpY2sgZXZlbnQKICAgICAgICBldmVudC5zdG9wUHJvcGFnYXRpb24oKTsKICAgICAgICByZXR1cm4gY3JlYXRlSXNzdWUobnVsbCwgdHJ1ZSk7CiAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coYnRuQ29kZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y291bnRlckN0cmwuYWRkKDAKKTsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXZlbnQud2hpY2gpOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhldmVudC53aGljaCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y291bnRlckN0cmwuYWRkKDApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
