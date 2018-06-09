@@ -36,8 +36,8 @@
         <mark key="." line="8" column="25" />
         <mark key="^" line="8" column="25" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/test/kotlin/jetbrains/youtrack/webdriver/newIssue/NewIssueDraftsTest.kt" timestamp="1528449096102">
-        <mark key="'" line="79" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/test/kotlin/jetbrains/youtrack/webdriver/newIssue/NewIssueDraftsTest.kt" timestamp="1528544577005">
+        <mark key="'" line="205" column="0" />
         <mark key="[" line="140" column="0" />
         <mark key="]" line="140" column="0" />
         <mark key="." line="140" column="0" />
@@ -110,12 +110,12 @@
         <mark key="^" line="0" column="21" />
         <mark key="." line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1528363272986">
-        <mark key="'" line="153" column="5" />
-        <mark key="[" line="170" column="0" />
-        <mark key="]" line="171" column="139" />
-        <mark key="." line="67" column="27" />
-        <mark key="^" line="67" column="27" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1528544642778">
+        <mark key="'" line="13" column="42" />
+        <mark key="[" line="42" column="33" />
+        <mark key="]" line="42" column="32" />
+        <mark key="." line="42" column="32" />
+        <mark key="^" line="42" column="32" />
       </file>
       <file name="$USER_HOME$/www/dart/bar/lib/main.dart" timestamp="1528227497769">
         <mark key="'" line="21" column="39" />
@@ -1053,10 +1053,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1771" column="58" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/framework.dart" />
-      <jump line="1772" column="29" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/framework.dart" />
-      <jump line="1774" column="34" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/framework.dart" />
-      <jump line="1776" column="21" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/framework.dart" />
       <jump line="1778" column="4" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/framework.dart" />
       <jump line="1779" column="65" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/framework.dart" />
       <jump line="1783" column="55" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/framework.dart" />
@@ -1153,19 +1149,23 @@
       <jump line="48" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="82" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="13" column="36" filename="$USER_HOME$/www/dart/foo/test/widget_test.dart" />
+      <jump line="143" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/test/kotlin/jetbrains/youtrack/webdriver/newIssue/NewIssueDraftsTest.kt" />
+      <jump line="205" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/test/kotlin/jetbrains/youtrack/webdriver/newIssue/NewIssueDraftsTest.kt" />
+      <jump line="134" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="13" column="42" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LndoZXJlKChpKSA9PiBpICUgMiA9PSAwKSw=</text>
+        <text>0.4.58</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LndoZXJlKChpKSA9PiBpICUgMiA9PSAwKSw=</text>
+        <text>0.4.58</text>
       </register>
       <register name="/" type="4">
-        <text>Consu</text>
+        <text>ring-ui</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2ltaWxhcklzc3Vlcy5jb2xsYXBzZSgpCg==</text>
@@ -1208,9 +1208,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Consu</last-search>
+      <last-search>ring-ui</last-search>
       <last-offset />
-      <last-pattern>Consu</last-pattern>
+      <last-pattern>ring-ui</last-pattern>
       <last-replace>currentIndex</last-replace>
       <last-substitute>\$ctrl\.currentIndex</last-substitute>
       <last-dir>1</last-dir>
@@ -1218,7 +1218,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfY291bnRlclw+</entry>
         <entry>count</entry>
         <entry encoding="base64">XDxjb3VudFN0cmVhbVw+</entry>
         <entry>init</entry>
@@ -1238,6 +1237,7 @@
         <entry>Des</entry>
         <entry>consumer</entry>
         <entry>Consu</entry>
+        <entry>ring-ui</entry>
       </history-search>
       <history-cmd>
         <entry>%s/\.Companion//gc</entry>
