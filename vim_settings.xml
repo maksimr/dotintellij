@@ -244,12 +244,11 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/service/mention-helper.js" timestamp="1528301834149">
         <mark key="'" line="74" column="27" />
       </file>
-      <file name="$USER_HOME$/www/dart/foo/lib/main.dart" timestamp="1529015243115">
-        <mark key="'" line="12" column="53" />
-        <mark key="[" line="91" column="50" />
-        <mark key="]" line="91" column="67" />
-        <mark key="." line="91" column="67" />
-        <mark key="^" line="91" column="67" />
+      <file name="$USER_HOME$/www/dart/foo/lib/main.dart" timestamp="1529018149746">
+        <mark key="[" line="118" column="66" />
+        <mark key="]" line="118" column="66" />
+        <mark key="." line="118" column="66" />
+        <mark key="^" line="118" column="66" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/styles/yt-code-editor.scss" timestamp="1528975984374">
         <mark key="[" line="3" column="0" />
@@ -1158,9 +1157,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/service/workflows/workflow-editing.js" />
-      <jump line="183" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/service/workflows/workflow-editing.js" />
-      <jump line="33" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/code-editor/code-editor.js" />
       <jump line="6" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/codemirror/service/XXXCodeMirror-patch.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/codemirror/lib/codemirror.js" />
       <jump line="308" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/codemirror/lib/codemirror.js" />
@@ -1209,7 +1205,6 @@
       <jump line="145" column="35" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
       <jump line="149" column="87" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
       <jump line="310" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
-      <jump line="60" column="33" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="4" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="189" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="10" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
@@ -1228,7 +1223,6 @@
       <jump line="6" column="16" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="3" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="192" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
-      <jump line="7" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="143" column="12" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="33" column="12" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="151" column="13" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
@@ -1258,64 +1252,69 @@
       <jump line="31" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="86" column="24" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="12" column="53" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="64" column="19" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="79" column="40" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="7" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="60" column="13" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="63" column="6" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>priorityFieldValue</text>
+        <text>circle</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>priorityFieldValue</text>
+        <text>circle</text>
       </register>
       <register name="/" type="4">
-        <text>name</text>
+        <text>App</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZ2V0SW4ocHJpb3JpdHlGaWVsZFZhbHVlLCBbIm5hbWUiXSwgIiAiKVswXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgb3ZlcmZsb3c6IFRleHRPdmVyZmxvdy5lbGxpcHNpcywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb2xvcjogQ29sb3JzLmJsYWNrNTQsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGZsb2F0aW5nQWN0aW9uQnV0dG9uTG9jYXRpb246IEZsb2F0aW5nQWN0aW9uQnV0dG9uTG9jYXRpb24uY2VudGVyRmxvYXQsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yZWdyb3VuZENvbG9yOiBDb2xvcnMud2hpdGUsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBfZ2V0UHJpb3JpdHlJc3N1ZUZpZWxkQ29sb3IocHJpb3JpdHlGaWVsZFZhbHVlKSB7CiAgICBmaW5hbCBiZyA9IGdldEluKHByaW9yaXR5RmllbGRWYWx1ZSwgWyJjb2xvciIsICJiYWNrZ3JvdW5kIl0sICIjZmZmIik7CiAgICBmaW5hbCBmZyA9IGdldEluKHByaW9yaXR5RmllbGRWYWx1ZSwgWyJjb2xvciIsICJmb3JlZ3JvdW5kIl0sICIjMDAwIik7CiAgICByZXR1cm4gW2Nzc0hleFRvQ29sb3IoYmcpLCBjc3NIZXhUb0NvbG9yKGZnKV07CiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG9vbGJhck9wYWNpdHk6IDAuMSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBfZ2V0UHJpb3JpdHlJc3N1ZUZpZWxkVmFsdWUoaXNzdWUpIHsKICAgIGZpbmFsIExpc3QgaXNzdWVGaWVsZHMgPSBnZXRJbihpc3N1ZSwgWyJmaWVsZHMiXSwgW10pOwogICAgZmluYWwgcHJpb3JpdHlGaWVsZCA9CiAgICAgICAgaXNzdWVGaWVsZHMuZmlyc3RXaGVyZShpc1ByaW9yaXR5RmllbGQsIG9yRWxzZTogKCkgPT4gTWFwKCkpOwogICAgcmV0dXJuIChnZXRJbihwcmlvcml0eUZpZWxkLCBbInZhbHVlIiwgIjAiXSkgPz8KICAgICAgICBnZXRJbihwcmlvcml0eUZpZWxkLCBbInZhbHVlIl0pID8/CiAgICAgICAgTWFwKCkpOwogIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBmb250U2l6ZTogMTUuMCwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGJvcmRlclJhZGl1czogQm9yZGVyUmFkaXVzLmNpcmN1bGFyKDguMCksCg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBib29sIF9pc1ByaW9yaXR5RmllbGQoaXNzdWVGaWVsZCkgewogICAgcmV0dXJuIGdldEluKGlzc3VlRmllbGQsIFsicHJvamVjdEN1c3RvbUZpZWxkIiwgImZpZWxkIiwgIm5hbWUiXSwgIiIpCiAgICAgICAgICAgIC50b0xvd2VyQ2FzZSgpID09CiAgICAgICAgInByaW9yaXR5IjsKICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGNvbG9yOiBwcmlvcml0eUZpZWxkQ29sb3JbMF0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>name</last-search>
+      <last-search>App</last-search>
       <last-offset />
-      <last-pattern>name</last-pattern>
+      <last-pattern>App</last-pattern>
       <last-replace>#FFFFFF</last-replace>
       <last-substitute>\$ring-palette-white-text</last-substitute>
       <last-dir>1</last-dir>
@@ -1323,11 +1322,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfZ2V0UHJpb3JpdHlJc3N1ZUZpZWxkQ29sb3JcPg==</entry>
-        <entry encoding="base64">XDxfZ2V0Q29sb3JGcm9tUGFsZXR0ZUJ5SWRcPg==</entry>
-        <entry>circle</entry>
-        <entry>reca</entry>
-        <entry>size</entry>
         <entry>Sized</entry>
         <entry encoding="base64">XDxib3JkZXJcPg==</entry>
         <entry>soft</entry>
@@ -1343,6 +1337,11 @@
         <entry encoding="base64">XDxnZXRQcmlvcml0eUlzc3VlRmllbGRDb2xvclw+</entry>
         <entry encoding="base64">XDxnZXRQcmlvcml0eUlzc3VlRmllbGRBYmJyXD4=</entry>
         <entry>name</entry>
+        <entry>lines</entry>
+        <entry>line</entry>
+        <entry>max</entry>
+        <entry>Menu</entry>
+        <entry>App</entry>
       </history-search>
       <history-cmd>
         <entry>77</entry>
