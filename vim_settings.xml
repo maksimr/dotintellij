@@ -599,6 +599,12 @@
         <mark key="^" line="18" column="1" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/www/dart/flutter/packages/flutter_tools/lib/src/resident_runner.dart" timestamp="1529191885410">
+        <mark key="'" line="757" column="7" />
+        <mark key="[" line="656" column="0" />
+        <mark key="]" line="656" column="0" />
+        <mark key="." line="656" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-application/src/main/kotlin/jetbrains/charisma/persistent/issue/IssueWatchers.kt" timestamp="1528879299515">
         <mark key="'" line="24" column="16" />
       </file>
@@ -611,6 +617,9 @@
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/user/service/get-current-user.js" timestamp="1528112097669">
         <mark key="'" line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/www/dart/flutter/packages/flutter_tools/lib/src/vmservice.dart" timestamp="1529192262014">
+        <mark key="'" line="1462" column="0" />
       </file>
       <file name="$USER_HOME$/.dvm/darts/2.0.0-dev.60.0/lib/collection/collection.dart" timestamp="1529095801165">
         <mark key="'" line="28" column="0" />
@@ -1243,15 +1252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4321" column="6" filename="$USER_HOME$/www/dart/flutter/bin/cache/pkg/sky_engine/lib/core/uri.dart" />
-      <jump line="81" column="2" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
-      <jump line="104" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
-      <jump line="22" column="0" filename="$USER_HOME$/www/dart/foo/lib/IssueField.dart" />
-      <jump line="59" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
-      <jump line="15" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
-      <jump line="6" column="10" filename="$USER_HOME$/www/dart/fo/lib/src/assoc.dart" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/dart/fo/lib/src/assoc.dart" />
-      <jump line="12" column="0" filename="$USER_HOME$/www/dart/fo/lib/src/assoc.dart" />
       <jump line="1" column="0" filename="$USER_HOME$/www/dart/fo/lib/src/assoc_in.dart" />
       <jump line="3" column="0" filename="$USER_HOME$/www/dart/fo/lib/src/get_in.dart" />
       <jump line="12" column="21" filename="$USER_HOME$/www/dart/fo/lib/src/get_in.dart" />
@@ -1343,52 +1343,61 @@
       <jump line="5" column="0" filename="$USER_HOME$/www/dart/fo/lib/src/assoc_in.dart" />
       <jump line="664" column="40" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/rendering/shifted_box.dart" />
       <jump line="14" column="77" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/rendering/shifted_box.dart" />
+      <jump line="656" column="23" filename="$USER_HOME$/www/dart/flutter/packages/flutter_tools/lib/src/resident_runner.dart" />
+      <jump line="650" column="23" filename="$USER_HOME$/www/dart/flutter/packages/flutter_tools/lib/src/resident_runner.dart" />
+      <jump line="648" column="10" filename="$USER_HOME$/www/dart/flutter/packages/flutter_tools/lib/src/resident_runner.dart" />
+      <jump line="655" column="15" filename="$USER_HOME$/www/dart/flutter/packages/flutter_tools/lib/src/resident_runner.dart" />
+      <jump line="777" column="7" filename="$USER_HOME$/www/dart/flutter/packages/flutter_tools/lib/src/resident_runner.dart" />
+      <jump line="757" column="7" filename="$USER_HOME$/www/dart/flutter/packages/flutter_tools/lib/src/resident_runner.dart" />
+      <jump line="251" column="6" filename="$USER_HOME$/www/dart/flutter/packages/flutter_tools/lib/src/vmservice.dart" />
+      <jump line="40" column="12" filename="$USER_HOME$/www/dart/flutter/packages/flutter_tools/lib/src/vmservice.dart" />
+      <jump line="1462" column="0" filename="$USER_HOME$/www/dart/flutter/packages/flutter_tools/lib/src/vmservice.dart" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG9jQ29udHJvbGxlcjogJ2NoYW5nZXMnCiAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHByaW50U3RhdHVzKG9iamVjdCk7Cg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>Colors.red,</text>
+        <text encoding="base64">Pj4+Pj4=</text>
       </register>
       <register name="/" type="4">
-        <text>id</text>
+        <text encoding="base64">XDxfc2VydmljZURpc2Nvbm5lY3RlZFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZG9jQ29udHJvbGxlcjogJ2NoYW5nZXMnCiAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KCI+Pj4+PiIpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHByaW50U3RhdHVzKG9iamVjdCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgbGVhZGluZzogVGV4dCgiJGlkIiksCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCI+Pj4+PiIpOwogICAgcHJpbnQob2JqZWN0KTsKICAgIHByaW50KCI8PDw8PCIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbmFsIGlkID0gaXNzdWVbImlkUmVhZGFibGUiXTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgbGVhZGluZzogVGV4dCgiJGlkIiksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpZiAoc25hcHNob3QuaGFzRXJyb3IpIHt9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbmFsIGlkID0gaXNzdWVbImlkUmVhZGFibGUiXTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBpdGVtQ291bnQ6ICwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc25hcHNob3QuZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpZiAoc25hcHNob3QuaGFzRXJyb3IpIHt9Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBsb2FkSXNzdWVzWyJkYXRhIl0gPSBkYXRhOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpdGVtQ291bnQ6ICwK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJpbnQoc25hcHNob3QuZGF0YSk7Cg==</text>
@@ -1398,19 +1407,16 @@
       </register>
     </registers>
     <search>
-      <last-search>id</last-search>
+      <last-search encoding="base64">XDxfc2VydmljZURpc2Nvbm5lY3RlZFw+</last-search>
       <last-offset />
-      <last-pattern>id</last-pattern>
+      <last-pattern encoding="base64">XDxfc2VydmljZURpc2Nvbm5lY3RlZFw+</last-pattern>
       <last-replace>fo</last-replace>
       <last-substitute>shelf</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>line</entry>
-        <entry>max</entry>
-        <entry>Menu</entry>
         <entry>App</entry>
         <entry>parse</entry>
         <entry>dart-lang</entry>
@@ -1428,6 +1434,9 @@
         <entry encoding="base64">XDxyZWFkYWJsZUlzc3VlSWRcPg==</entry>
         <entry>read</entry>
         <entry>id</entry>
+        <entry encoding="base64">XDxfc2VydmljZVByb3RvY29sRG9uZVw+</entry>
+        <entry encoding="base64">XDxfcmVzZXRUZXJtaW5hbFw+</entry>
+        <entry encoding="base64">XDxfc2VydmljZURpc2Nvbm5lY3RlZFw+</entry>
       </history-search>
       <history-cmd>
         <entry>%s/$ctrl.updateDraft/$ctrl.onChange/gc</entry>
