@@ -720,8 +720,8 @@
         <mark key="." line="31" column="26" />
         <mark key="^" line="31" column="26" />
       </file>
-      <file name="$USER_HOME$/www/dart/foo/lib/IssueField.dart" timestamp="1529097408914">
-        <mark key="'" line="31" column="0" />
+      <file name="$USER_HOME$/www/dart/foo/lib/IssueField.dart" timestamp="1529144872751">
+        <mark key="'" line="20" column="6" />
         <mark key="[" line="18" column="42" />
         <mark key="]" line="18" column="40" />
         <mark key="." line="18" column="40" />
@@ -1254,10 +1254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
-      <jump line="106" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
-      <jump line="6" column="0" filename="$USER_HOME$/www/dart/fo/test/fo_test.dart" />
-      <jump line="12" column="0" filename="$USER_HOME$/www/dart/fo/test/fo_test.dart" />
       <jump line="15" column="0" filename="$USER_HOME$/www/dart/fo/test/fo_test.dart" />
       <jump line="5" column="6" filename="$USER_HOME$/www/dart/fo/test/get_in_test.dart" />
       <jump line="28" column="5" filename="$USER_HOME$/www/dart/fo/test/get_in_test.dart" />
@@ -1342,10 +1338,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/www/dart/foo/lib/IssueField.dart" />
       <jump line="10" column="9" filename="$USER_HOME$/www/dart/foo/lib/IssueField.dart" />
       <jump line="14" column="27" filename="$USER_HOME$/www/dart/foo/lib/IssueField.dart" />
-      <jump line="17" column="10" filename="$USER_HOME$/www/dart/foo/lib/IssueField.dart" />
-      <jump line="18" column="6" filename="$USER_HOME$/www/dart/foo/lib/IssueField.dart" />
       <jump line="23" column="13" filename="$USER_HOME$/www/dart/foo/lib/IssueField.dart" />
-      <jump line="24" column="13" filename="$USER_HOME$/www/dart/foo/lib/IssueField.dart" />
       <jump line="29" column="9" filename="$USER_HOME$/www/dart/foo/lib/IssueField.dart" />
       <jump line="15" column="28" filename="$USER_HOME$/www/dart/foo/lib/IssueField.dart" />
       <jump line="16" column="22" filename="$USER_HOME$/www/dart/foo/lib/IssueField.dart" />
@@ -1353,7 +1346,14 @@
       <jump line="12" column="0" filename="$USER_HOME$/www/dart/foo/lib/IssueField.dart" />
       <jump line="13" column="0" filename="$USER_HOME$/www/dart/foo/lib/IssueField.dart" />
       <jump line="27" column="0" filename="$USER_HOME$/www/dart/foo/lib/IssueField.dart" />
+      <jump line="11" column="33" filename="$USER_HOME$/www/dart/foo/lib/IssueField.dart" />
+      <jump line="18" column="39" filename="$USER_HOME$/www/dart/foo/lib/IssueField.dart" />
       <jump line="31" column="0" filename="$USER_HOME$/www/dart/foo/lib/IssueField.dart" />
+      <jump line="1" column="22" filename="$USER_HOME$/www/dart/foo/lib/IssueField.dart" />
+      <jump line="24" column="13" filename="$USER_HOME$/www/dart/foo/lib/IssueField.dart" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/dart/foo/lib/IssueField.dart" />
+      <jump line="17" column="60" filename="$USER_HOME$/www/dart/foo/lib/IssueField.dart" />
+      <jump line="20" column="6" filename="$USER_HOME$/www/dart/foo/lib/IssueField.dart" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1366,7 +1366,7 @@
         <text encoding="base64">IHNob3cgZ2V0SW47</text>
       </register>
       <register name="/" type="4">
-        <text>getIn</text>
+        <text>Map</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBjdXBlcnRpbm9faWNvbnM6IF4wLjEuMgo=</text>
@@ -1409,9 +1409,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getIn</last-search>
+      <last-search>Map</last-search>
       <last-offset />
-      <last-pattern>getIn</last-pattern>
+      <last-pattern>Map</last-pattern>
       <last-replace>fo</last-replace>
       <last-substitute>shelf</last-substitute>
       <last-dir>1</last-dir>
@@ -1419,7 +1419,6 @@
     </search>
     <history>
       <history-search>
-        <entry>lineWrap</entry>
         <entry>code</entry>
         <entry>scroll</entry>
         <entry>vir</entry>
@@ -1439,6 +1438,7 @@
         <entry>dart-lang</entry>
         <entry>shelf</entry>
         <entry>getIn</entry>
+        <entry>Map</entry>
       </history-search>
       <history-cmd>
         <entry>%s/$ctrl.updateDraft/$ctrl.onChange/gc</entry>
