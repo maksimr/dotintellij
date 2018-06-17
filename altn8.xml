@@ -19,6 +19,18 @@
           <option name="matchExpression" value="(.*?)Test\.(.*)$" />
           <option name="replaceExpression" value="$1.$2" />
         </AlternateFreeRegexItem>
+        <AlternateFreeRegexItem>
+          <option name="matchExpression" value="^(.*?)\.(.*)$" />
+          <option name="replaceExpression" value="$1.$2" />
+        </AlternateFreeRegexItem>
+        <AlternateFreeRegexItem>
+          <option name="matchExpression" value="^(.*?)\.(.*)$" />
+          <option name="replaceExpression" value="$1.html" />
+        </AlternateFreeRegexItem>
+        <AlternateFreeRegexItem>
+          <option name="matchExpression" value="^(.*?)\.(.*)$" />
+          <option name="replaceExpression" value="$1.js" />
+        </AlternateFreeRegexItem>
       </list>
     </option>
     <option name="genericRegexActive" value="false" />
