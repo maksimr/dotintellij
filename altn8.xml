@@ -20,20 +20,26 @@
           <option name="replaceExpression" value="$1.$2" />
         </AlternateFreeRegexItem>
         <AlternateFreeRegexItem>
-          <option name="matchExpression" value="^(.*?)\.(.*)$" />
+          <option name="matchExpression" value="(.*?)\.(.*)$" />
           <option name="replaceExpression" value="$1.$2" />
         </AlternateFreeRegexItem>
         <AlternateFreeRegexItem>
-          <option name="matchExpression" value="^(.*?)\.(.*)$" />
-          <option name="replaceExpression" value="$1.html" />
+          <option name="matchExpression" value="(.*?)\.(.*)$" />
+          <option name="replaceExpression" value="$1\.html" />
         </AlternateFreeRegexItem>
         <AlternateFreeRegexItem>
-          <option name="matchExpression" value="^(.*?)\.(.*)$" />
-          <option name="replaceExpression" value="$1.js" />
+          <option name="matchExpression" value="(.*?)\.(.*)$" />
+          <option name="replaceExpression" value="$1\.js" />
+        </AlternateFreeRegexItem>
+        <AlternateFreeRegexItem>
+          <option name="matchExpression" value="(.*?)\.(.*)$" />
+          <option name="replaceExpression" value="$1\.scss" />
         </AlternateFreeRegexItem>
       </list>
     </option>
     <option name="genericRegexActive" value="false" />
     <option name="caseInsensitiveBasename" value="true" />
+    <option name="genericPrefixRegexItems" />
+    <option name="genericPostfixRegexItems" />
   </component>
 </application>

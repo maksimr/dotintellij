@@ -481,6 +481,10 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-refresh")).withParent(xmlTag().withLocalName(string().equalTo("yt-draft-issue-toolbar")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-drafts-dropdown/@current-draft-id</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("current-draft-id")).withParent(xmlTag().withLocalName(string().equalTo("yt-drafts-dropdown")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>yt-dropdown/@directions</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("directions")).withParent(xmlTag().withLocalName(string().equalTo("yt-dropdown")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
