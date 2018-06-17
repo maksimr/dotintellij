@@ -9,6 +9,12 @@
         <abbreviation name="w" />
         <abbreviation name="wallaby" />
       </action>
+      <action id="ChooseRunConfiguration">
+        <abbreviation name="r" />
+      </action>
+      <action id="Annotate">
+        <abbreviation name="ga" />
+      </action>
       <action id="com.wallaby.javascript.actions.RunTestFileAction">
         <abbreviation name="w" />
         <abbreviation name="wallaby" />
@@ -28,6 +34,9 @@
       <action id="com.wallaby.javascript.actions.RunAllTestsAction">
         <abbreviation name="w" />
         <abbreviation name="wallaby" />
+      </action>
+      <action id="Git.Branches">
+        <abbreviation name="gb" />
       </action>
     </abbreviations>
   </component>
