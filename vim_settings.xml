@@ -393,11 +393,11 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="37" column="19" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue-links/test/directive/yt-issue-links-list-content.js" timestamp="1529408763705">
-        <mark key="[" line="37" column="5" />
-        <mark key="]" line="37" column="3" />
-        <mark key="." line="37" column="3" />
-        <mark key="^" line="37" column="3" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue-links/test/directive/yt-issue-links-list-content.js" timestamp="1529410129419">
+        <mark key="[" line="45" column="19" />
+        <mark key="]" line="45" column="30" />
+        <mark key="." line="45" column="30" />
+        <mark key="^" line="45" column="30" />
       </file>
       <file name="$USER_HOME$/www/dart/hub/lib/components/Carousel.dart" timestamp="1528228068847">
         <mark key="'" line="7" column="2" />
@@ -433,12 +433,12 @@
         <mark key="." line="430" column="9" />
         <mark key="^" line="430" column="9" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue-links/directive/yt-issue-links-list-content.js" timestamp="1529408851860">
-        <mark key="'" line="39" column="14" />
-        <mark key="[" line="128" column="20" />
-        <mark key="]" line="128" column="46" />
-        <mark key="^" line="128" column="46" />
-        <mark key="." line="128" column="46" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue-links/directive/yt-issue-links-list-content.js" timestamp="1529410110884">
+        <mark key="'" line="140" column="10" />
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="141" column="0" />
+        <mark key="." line="141" column="0" />
+        <mark key="^" line="138" column="24" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/test/controller/projects.js" timestamp="1527517689033">
         <mark key="'" line="52" column="1" />
@@ -1484,7 +1484,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue-links/template/yt-issue-links-list-content.html" />
       <jump line="4" column="63" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue-links/directive/yt-issue-links-list-content.js" />
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue-links/directive/yt-issue-links-list-content.js" />
       <jump line="154" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue-links/directive/yt-issue-links-list-content.js" />
@@ -1495,7 +1494,6 @@
       <jump line="53" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue-links/directive/yt-issue-links-list-content.js" />
       <jump line="143" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue-links/directive/yt-issue-links-list-content.js" />
       <jump line="8" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue-links/directive/yt-issue-links-list-content.js" />
-      <jump line="127" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue-links/directive/yt-issue-links-list-content.js" />
       <jump line="115" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue-links/directive/yt-issue-links-list-content.js" />
       <jump line="119" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue-links/directive/yt-issue-links-list-content.js" />
       <jump line="75" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue-links/directive/yt-issue-links-list-content.js" />
@@ -1583,41 +1581,43 @@
       <jump line="8" column="1" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue-links/test/directive/yt-issue-links-list-content.js" />
       <jump line="37" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue-links/test/directive/yt-issue-links-list-content.js" />
       <jump line="208" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mock/service/yt-mock.js" />
-      <jump line="39" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue-links/directive/yt-issue-links-list-content.js" />
+      <jump line="127" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue-links/directive/yt-issue-links-list-content.js" />
+      <jump line="39" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue-links/directive/yt-issue-links-list-content.js" />
+      <jump line="140" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue-links/directive/yt-issue-links-list-content.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>[ ].join(' ')</text>
+        <text>getLinkTitle</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>[ ].join(' ')</text>
+        <text>getLinkTitle</text>
       </register>
       <register name="/" type="4">
-        <text>header</text>
+        <text>title</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBbc3RhdC5yZXNvbHZlZCwgc3RhdC50b3RhbF0uam9pbignLycpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBnZXRJc3N1ZUxpbmtUaXRsZUZpbHRlcihsaW5rVHlwZSksCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGZ1bmN0aW9uIGdldFN0YXQobGlua3NHcm91cCkgewogICAgICAgICAgICBjb25zdCByZXNvbHZlZElzc3Vlc0Ftb3VudCA9IGxpbmtzR3JvdXAudW5yZXNvbHZlZElzc3Vlc1NpemUgPD0gbGlua3NHcm91cC5pc3N1ZXNTaXplCiAgICAgICAgICAgICAgPyBsaW5rc0dyb3VwLmlzc3Vlc1NpemUgLSBsaW5rc0dyb3VwLnVucmVzb2x2ZWRJc3N1ZXNTaXplCiAgICAgICAgICAgICAgOiAnPyc7CiAgICAgICAgICAgIHJldHVybiB7CiAgICAgICAgICAgICAgdG90YWw6IGxpbmtzR3JvdXAuaXNzdWVzU2l6ZSwKICAgICAgICAgICAgICByZXNvbHZlZDogcmVzb2x2ZWRJc3N1ZXNBbW91bnQKICAgICAgICAgICAgfTsKICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnN0IHN0YXQgPSBnZXRTdGF0KGxpbmtUeXBlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBdLmpvaW4oJyAnKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCByZXNvbHZlZElzc3Vlc0Ftb3VudCA9IGxpbmsuaXNzdWVzU2l6ZSAtIGxpbmsudW5yZXNvbHZlZElzc3Vlc1NpemU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCByZXNvbHZlZElzc3Vlc0Ftb3VudCA9IGxpbmsuaXNzdWVzU2l6ZSAtIGxpbmsudW5yZXNvbHZlZElzc3Vlc1NpemU7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -1629,19 +1629,19 @@
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBbc3RhdC5yZXNvbHZlZCwgc3RhdC50b3RhbF0uam9pbignLycpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgIDogJz8nOwogICAgICAgIC8vIHJldHVybiB7CiAgICAgICAgLy8gICB0b3RhbDogbGlua3NHcm91cC5pc3N1ZXNTaXplLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBnZXRJc3N1ZUxpbmtUaXRsZUZpbHRlcihsaW5rVHlwZSksCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>header</last-search>
+      <last-search>title</last-search>
       <last-offset />
-      <last-pattern>header</last-pattern>
+      <last-pattern>title</last-pattern>
       <last-replace>issueLinksCtrl</last-replace>
       <last-substitute>$ctrl</last-substitute>
       <last-dir>1</last-dir>
@@ -1649,8 +1649,6 @@
     </search>
     <history>
       <history-search>
-        <entry>can</entry>
-        <entry encoding="base64">XDx3aXRoUGFnZXJcPg==</entry>
         <entry>loadMore</entry>
         <entry encoding="base64">XDxnZXRTdGF0XD4=</entry>
         <entry>activeInd</entry>
@@ -1669,6 +1667,8 @@
         <entry>loca</entry>
         <entry>linkType</entry>
         <entry>header</entry>
+        <entry encoding="base64">XDxnZXRMaW5rVGl0bGVcPg==</entry>
+        <entry>title</entry>
       </history-search>
       <history-cmd>
         <entry>%s/$ctrl.(isModifiedAndUnsaved)/$q/gc</entry>
