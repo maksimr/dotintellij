@@ -298,10 +298,12 @@
         <mark key="." line="4" column="38" />
         <mark key="^" line="4" column="38" />
       </file>
-      <file name="$USER_HOME$/www/dart/foo/lib/main.dart" timestamp="1529444837927">
-        <mark key="'" line="191" column="0" />
-        <mark key="[" line="181" column="0" />
-        <mark key="]" line="182" column="11" />
+      <file name="$USER_HOME$/www/dart/foo/lib/main.dart" timestamp="1529444951243">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="56" />
+        <mark key="." line="47" column="28" />
+        <mark key="^" line="47" column="28" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sticky/sticky.js" timestamp="1527155416008">
         <mark key="'" line="74" column="0" />
@@ -1486,7 +1488,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="121" column="47" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue-links/directive/yt-issue-links-list.js" />
       <jump line="103" column="68" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue-links/directive/yt-issue-links-list.js" />
       <jump line="98" column="62" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue-links/directive/yt-issue-links-list.js" />
       <jump line="80" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue-links/directive/yt-issue-links-list.js" />
@@ -1586,64 +1587,65 @@
       <jump line="179" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="0" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="191" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="5" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Y2xhc3MgTXlTdGF0ZWZ1bFdpZGdldCBleHRlbmRzIFN0YXRlZnVsV2lkZ2V0IHsKICBAb3ZlcnJpZGUK</text>
+        <text encoding="base64">ICB2b2lkIF9pbmNyZW1lbnRDb3VudGVyKCkgPT4gc2V0U3RhdGUoKCkgPT4gX2NvdW50ZXIrKyk7Cg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
-        <text>issue</text>
+        <text>setState</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y2xhc3MgTXlTdGF0ZWZ1bFdpZGdldCBleHRlbmRzIFN0YXRlZnVsV2lkZ2V0IHsKICBAb3ZlcnJpZGUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2xhc3MgTXlTdGF0ZWxlc3NXaWRnZXQgZXh0ZW5kcyBTdGF0ZWxlc3NXaWRnZXQgewogIEBvdmVycmlkZQogIFdpZGdldCBidWlsZChCdWlsZENvbnRleHQgY29udGV4dCkgewogICAgcmV0dXJuIENvbnRhaW5lcigpOwogIH0KfQo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlzc3VlTW9jayA9IHl0TW9jay5jcmVhdGVJc3N1ZU1vY2soe2NvbW1lbnRzOiBbXX0pOwo=</text>
+        <text encoding="base64">ICAgICAgLy8gVGhpcyBjYWxsIHRvIHNldFN0YXRlIHRlbGxzIHRoZSBGbHV0dGVyIGZyYW1ld29yayB0aGF0IHNvbWV0aGluZyBoYXMKICAgICAgLy8gY2hhbmdlZCBpbiB0aGlzIFN0YXRlLCB3aGljaCBjYXVzZXMgaXQgdG8gcmVydW4gdGhlIGJ1aWxkIG1ldGhvZCBiZWxvdwogICAgICAvLyBzbyB0aGF0IHRoZSBkaXNwbGF5IGNhbiByZWZsZWN0IHRoZSB1cGRhdGVkIHZhbHVlcy4gSWYgd2UgY2hhbmdlZAogICAgICAvLyBfY291bnRlciB3aXRob3V0IGNhbGxpbmcgc2V0U3RhdGUoKSwgdGhlbiB0aGUgYnVpbGQgbWV0aG9kIHdvdWxkIG5vdCBiZQogICAgICAvLyBjYWxsZWQgYWdhaW4sIGFuZCBzbyBub3RoaW5nIHdvdWxkIGFwcGVhciB0byBoYXBwZW4uCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgTXlTdGF0ZWxlc3NXaWRnZXQgZXh0ZW5kcyBTdGF0ZWxlc3NXaWRnZXQgewogIEBvdmVycmlkZQogIFdpZGdldCBidWlsZChCdWlsZENvbnRleHQgY29udGV4dCkgewogICAgcmV0dXJuIENvbnRhaW5lcigpOwogIH0KfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0pLnRoZW4oKGF0dGFjaG1lbnQpID0+IHsK</text>
+        <text encoding="base64">ICAgIGlzc3VlTW9jayA9IHl0TW9jay5jcmVhdGVJc3N1ZU1vY2soe2NvbW1lbnRzOiBbXX0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFhdHRhY2htZW50KSB7CiAgICAgICAgICAgICAgdGhyb3cgRXJyb3IoJ2F0dGFjaG1lbnQgaW5mb3JtYXRpb24gaXMgcmVxdWlyZWQgZm9yIHByb3BlciB3b3JrIHl0UGFzdEltYWdlIGRpcmVjdGl2ZScpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiBhdHRhY2htZW50Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0pLnRoZW4oKGF0dGFjaG1lbnQpID0+IHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFhdHRhY2htZW50KSB7CiAgICAgICAgICAgICAgdGhyb3cgRXJyb3IoJ2F0dGFjaG1lbnQgaW5mb3JtYXRpb24gaXMgcmVxdWlyZWQgZm9yIHByb3BlciB3b3JrIHl0UGFzdEltYWdlIGRpcmVjdGl2ZScpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiBhdHRhY2htZW50Owo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZmluYWwgY2IgPSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>issue</last-search>
+      <last-search>setState</last-search>
       <last-offset />
-      <last-pattern>issue</last-pattern>
+      <last-pattern>setState</last-pattern>
       <last-replace>issueLinksCtrl</last-replace>
       <last-substitute>$ctrl</last-substitute>
       <last-dir>1</last-dir>
@@ -1651,8 +1653,6 @@
     </search>
     <history>
       <history-search>
-        <entry>linkGroup</entry>
-        <entry>stat</entry>
         <entry>loca</entry>
         <entry>linkType</entry>
         <entry>header</entry>
@@ -1671,6 +1671,8 @@
         <entry>attachFile</entry>
         <entry encoding="base64">XDxkaWdlc3RcPg==</entry>
         <entry>issue</entry>
+        <entry>setSTate</entry>
+        <entry>setState</entry>
       </history-search>
       <history-cmd>
         <entry>%s/$ctrl.(isModifiedAndUnsaved)/$q/gc</entry>
