@@ -553,6 +553,10 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("link-type-groups")).withParent(xmlTag().withLocalName(string().equalTo("yt-issue-link-list-content")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-issue-link/@on-remove</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-remove")).withParent(xmlTag().withLocalName(string().equalTo("yt-issue-link")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>yt-issue-list-item/@ng-repeat</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-repeat")).withParent(xmlTag().withLocalName(string().equalTo("yt-issue-list-item")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
