@@ -298,12 +298,11 @@
         <mark key="." line="4" column="38" />
         <mark key="^" line="4" column="38" />
       </file>
-      <file name="$USER_HOME$/www/dart/foo/lib/main.dart" timestamp="1529451117576">
+      <file name="$USER_HOME$/www/dart/foo/lib/main.dart" timestamp="1529451981777">
         <mark key="'" line="99" column="0" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="47" column="28" />
-        <mark key="^" line="47" column="28" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sticky/sticky.js" timestamp="1527155416008">
         <mark key="'" line="74" column="0" />
@@ -1488,7 +1487,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="123" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-links.js" />
       <jump line="128" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue-links/directive/yt-issue-links-list-content.js" />
       <jump line="42" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue-links/directive/yt-issue-links-list-content.js" />
       <jump line="137" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue-links/directive/yt-issue-links-list-content.js" />
@@ -1587,11 +1585,12 @@
       <jump line="18" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="40" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="0" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="99" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB2b2lkIF9pbmNyZW1lbnRDb3VudGVyKCkgPT4gc2V0U3RhdGUoKCkgPT4gX2NvdW50ZXIrKyk7Cgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -1606,34 +1605,34 @@
         <text encoding="base64">ICB2b2lkIF9pbmNyZW1lbnRDb3VudGVyKCkgPT4gc2V0U3RhdGUoKCkgPT4gX2NvdW50ZXIrKyk7Cgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy8gVGhpcyBjYWxsIHRvIHNldFN0YXRlIHRlbGxzIHRoZSBGbHV0dGVyIGZyYW1ld29yayB0aGF0IHNvbWV0aGluZyBoYXMKICAgICAgLy8gY2hhbmdlZCBpbiB0aGlzIFN0YXRlLCB3aGljaCBjYXVzZXMgaXQgdG8gcmVydW4gdGhlIGJ1aWxkIG1ldGhvZCBiZWxvdwogICAgICAvLyBzbyB0aGF0IHRoZSBkaXNwbGF5IGNhbiByZWZsZWN0IHRoZSB1cGRhdGVkIHZhbHVlcy4gSWYgd2UgY2hhbmdlZAogICAgICAvLyBfY291bnRlciB3aXRob3V0IGNhbGxpbmcgc2V0U3RhdGUoKSwgdGhlbiB0aGUgYnVpbGQgbWV0aG9kIHdvdWxkIG5vdCBiZQogICAgICAvLyBjYWxsZWQgYWdhaW4sIGFuZCBzbyBub3RoaW5nIHdvdWxkIGFwcGVhciB0byBoYXBwZW4uCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2xhc3MgTXlTdGF0ZWxlc3NXaWRnZXQgZXh0ZW5kcyBTdGF0ZWxlc3NXaWRnZXQgewogIEBvdmVycmlkZQogIFdpZGdldCBidWlsZChCdWlsZENvbnRleHQgY29udGV4dCkgewogICAgcmV0dXJuIENvbnRhaW5lcigpOwogIH0KfQo=</text>
+        <text encoding="base64">ICAgICAgLy8gVGhpcyBjYWxsIHRvIHNldFN0YXRlIHRlbGxzIHRoZSBGbHV0dGVyIGZyYW1ld29yayB0aGF0IHNvbWV0aGluZyBoYXMKICAgICAgLy8gY2hhbmdlZCBpbiB0aGlzIFN0YXRlLCB3aGljaCBjYXVzZXMgaXQgdG8gcmVydW4gdGhlIGJ1aWxkIG1ldGhvZCBiZWxvdwogICAgICAvLyBzbyB0aGF0IHRoZSBkaXNwbGF5IGNhbiByZWZsZWN0IHRoZSB1cGRhdGVkIHZhbHVlcy4gSWYgd2UgY2hhbmdlZAogICAgICAvLyBfY291bnRlciB3aXRob3V0IGNhbGxpbmcgc2V0U3RhdGUoKSwgdGhlbiB0aGUgYnVpbGQgbWV0aG9kIHdvdWxkIG5vdCBiZQogICAgICAvLyBjYWxsZWQgYWdhaW4sIGFuZCBzbyBub3RoaW5nIHdvdWxkIGFwcGVhciB0byBoYXBwZW4uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlzc3VlTW9jayA9IHl0TW9jay5jcmVhdGVJc3N1ZU1vY2soe2NvbW1lbnRzOiBbXX0pOwo=</text>
+        <text encoding="base64">Y2xhc3MgTXlTdGF0ZWxlc3NXaWRnZXQgZXh0ZW5kcyBTdGF0ZWxlc3NXaWRnZXQgewogIEBvdmVycmlkZQogIFdpZGdldCBidWlsZChCdWlsZENvbnRleHQgY29udGV4dCkgewogICAgcmV0dXJuIENvbnRhaW5lcigpOwogIH0KfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlzc3VlTW9jayA9IHl0TW9jay5jcmVhdGVJc3N1ZU1vY2soe2NvbW1lbnRzOiBbXX0pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0pLnRoZW4oKGF0dGFjaG1lbnQpID0+IHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFhdHRhY2htZW50KSB7CiAgICAgICAgICAgICAgdGhyb3cgRXJyb3IoJ2F0dGFjaG1lbnQgaW5mb3JtYXRpb24gaXMgcmVxdWlyZWQgZm9yIHByb3BlciB3b3JrIHl0UGFzdEltYWdlIGRpcmVjdGl2ZScpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiBhdHRhY2htZW50Owo=</text>
+        <text encoding="base64">ICAgICAgICAgIH0pLnRoZW4oKGF0dGFjaG1lbnQpID0+IHsK</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFhdHRhY2htZW50KSB7CiAgICAgICAgICAgICAgdGhyb3cgRXJyb3IoJ2F0dGFjaG1lbnQgaW5mb3JtYXRpb24gaXMgcmVxdWlyZWQgZm9yIHByb3BlciB3b3JrIHl0UGFzdEltYWdlIGRpcmVjdGl2ZScpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJldHVybiBhdHRhY2htZW50Owo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
