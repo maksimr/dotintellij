@@ -505,6 +505,10 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("target-id")).withParent(xmlTag().withLocalName(string().equalTo("yt-event-animate")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-form-checkbox/@ng-click</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-click")).withParent(xmlTag().withLocalName(string().equalTo("yt-form-checkbox")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>yt-icon/@icon</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("icon")).withParent(xmlTag().withLocalName(string().equalTo("yt-icon")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
