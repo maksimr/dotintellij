@@ -64,10 +64,10 @@
         <mark key="^" line="0" column="21" />
         <mark key="." line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1529338643318">
-        <mark key="'" line="177" column="0" />
-        <mark key="[" line="170" column="76" />
-        <mark key="]" line="170" column="85" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1529588306574">
+        <mark key="'" line="134" column="5" />
+        <mark key="[" line="42" column="27" />
+        <mark key="]" line="42" column="32" />
         <mark key="." line="42" column="32" />
         <mark key="^" line="42" column="32" />
       </file>
@@ -403,11 +403,7 @@
         <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue-links/test/directive/yt-issue-link.js" timestamp="1529585984485">
-        <mark key="'" line="36" column="20" />
-        <mark key="[" line="15" column="36" />
-        <mark key="]" line="15" column="43" />
-        <mark key="." line="15" column="43" />
-        <mark key="^" line="15" column="43" />
+        <mark key="'" line="12" column="20" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/test/kotlin/jetbrains/youtrack/webdriver/dashboard/DashboardTest.kt" timestamp="1528110838035">
         <mark key="'" line="63" column="0" />
@@ -1474,10 +1470,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="23" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
-      <jump line="108" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
-      <jump line="4" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
-      <jump line="40" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="9" column="16" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="83" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="87" column="23" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
@@ -1574,19 +1566,23 @@
       <jump line="40" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue-links/template/yt-issue-links-list-content.html" />
       <jump line="30" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue-links/directive/yt-issue-links-list-content.js" />
       <jump line="33" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue-links/test/directive/yt-issue-link.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="13" column="42" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="42" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="134" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>onRemove</text>
+        <text>0.4.60</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>onRemove</text>
+        <text>0.4.60</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc0lzc3Vlc0xvYWRlZEZvclw+</text>
+        <text>ring-ui</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgb25SZW1vdmU6ICcmPycK</text>
@@ -1629,17 +1625,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc0lzc3Vlc0xvYWRlZEZvclw+</last-search>
+      <last-search>ring-ui</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc0lzc3Vlc0xvYWRlZEZvclw+</last-pattern>
+      <last-pattern>ring-ui</last-pattern>
       <last-replace>issueLinksCtrl</last-replace>
       <last-substitute>$ctrl</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZW1vdmVkXD4=</entry>
         <entry>25</entry>
         <entry encoding="base64">XDxtYXhTaG93bkxpbmtzTnVtYmVyXD4=</entry>
         <entry>active</entry>
@@ -1659,6 +1654,7 @@
         <entry>Link</entry>
         <entry>splice</entry>
         <entry encoding="base64">XDxpc0lzc3Vlc0xvYWRlZEZvclw+</entry>
+        <entry>ring-ui</entry>
       </history-search>
       <history-cmd>
         <entry>%s/$ctrl.(isModifiedAndUnsaved)/$q/gc</entry>
