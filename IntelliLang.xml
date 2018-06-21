@@ -333,6 +333,10 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("rg-tooltip")).withParent(xmlTag().withLocalName(string().equalTo("span")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>span/@translate-n</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("translate-n")).withParent(xmlTag().withLocalName(string().equalTo("span")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>textarea/@markdown</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("markdown")).withParent(xmlTag().withLocalName(string().equalTo("textarea")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
