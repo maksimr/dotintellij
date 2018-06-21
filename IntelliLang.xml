@@ -637,6 +637,10 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("search-result-model")).withParent(xmlTag().withLocalName(string().equalTo("yt-issues-navigator")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-list-line-stylization-loader/@ng-repeat</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("ng-repeat")).withParent(xmlTag().withLocalName(string().equalTo("yt-list-line-stylization-loader")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>yt-markup-reference/@markup-reference</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("markup-reference")).withParent(xmlTag().withLocalName(string().equalTo("yt-markup-reference")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
