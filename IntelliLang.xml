@@ -561,6 +561,10 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("can-unlink")).withParent(xmlTag().withLocalName(string().equalTo("yt-issue-link-list-content")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-issue-link-list-content/@issue-links</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("issue-links")).withParent(xmlTag().withLocalName(string().equalTo("yt-issue-link-list-content")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>yt-issue-link-list-content/@link-type-groups</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("link-type-groups")).withParent(xmlTag().withLocalName(string().equalTo("yt-issue-link-list-content")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
