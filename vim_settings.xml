@@ -192,12 +192,12 @@
         <mark key="^" line="1" column="17" />
         <mark key="." line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/template/yt-drafts-dropdown.html" timestamp="1529316063357">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/template/yt-drafts-dropdown.html" timestamp="1529676788921">
         <mark key="'" line="26" column="80" />
-        <mark key="[" line="41" column="44" />
-        <mark key="]" line="41" column="68" />
-        <mark key="." line="41" column="44" />
-        <mark key="^" line="41" column="64" />
+        <mark key="[" line="42" column="63" />
+        <mark key="]" line="42" column="61" />
+        <mark key="." line="42" column="61" />
+        <mark key="^" line="42" column="61" />
       </file>
       <file name="$USER_HOME$/www/dart/foo/lib/issue_fields.dart" timestamp="1529234897136">
         <mark key="'" line="35" column="0" />
@@ -1120,8 +1120,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/user-card/card.js" timestamp="1528879007912">
         <mark key="'" line="91" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/event/event.js" timestamp="1529671637685">
-        <mark key="'" line="30" column="23" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/event/event.js" timestamp="1529676563223">
+        <mark key="'" line="30" column="0" />
         <mark key="[" line="1" column="0" />
         <mark key="]" line="18" column="4" />
         <mark key="." line="25" column="41" />
@@ -1511,7 +1511,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/form/directive/yt-form-checkbox.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/app.scss" />
       <jump line="115" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/app.scss" />
       <jump line="372" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/app.scss" />
@@ -1610,20 +1609,21 @@
       <jump line="8" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-priority-issue-sign.html" />
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue-links/template/yt-issue-link.html" />
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/event/event.js" />
-      <jump line="30" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/event/event.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/event/event.js" />
+      <jump line="30" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/event/event.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>if</text>
+        <text>target=&quot;_blank&quot;</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>if</text>
+        <text>target=&quot;_blank&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>with</text>
+        <text>target</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY29uc3QgbGluayA9IHl0TW9jay5jcmVhdGVJc3N1ZUxpbmtNb2NrKCk7Cg==</text>
@@ -1666,9 +1666,9 @@
       </register>
     </registers>
     <search>
-      <last-search>with</last-search>
+      <last-search>target</last-search>
       <last-offset />
-      <last-pattern>with</last-pattern>
+      <last-pattern>target</last-pattern>
       <last-replace>issueLinksCtrl</last-replace>
       <last-substitute>$ctrl</last-substitute>
       <last-dir>1</last-dir>
@@ -1676,8 +1676,6 @@
     </search>
     <history>
       <history-search>
-        <entry>vote</entry>
-        <entry>hover</entry>
         <entry>issue</entry>
         <entry>att</entry>
         <entry>acti</entry>
@@ -1696,6 +1694,8 @@
         <entry encoding="base64">XDx1cGRhdGVFeHBhbmRlZFN0YXRlXD4=</entry>
         <entry>expandList</entry>
         <entry>with</entry>
+        <entry>open</entry>
+        <entry>target</entry>
       </history-search>
       <history-cmd>
         <entry>%s/$ctrl.(isModifiedAndUnsaved)/$q/gc</entry>
