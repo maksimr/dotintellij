@@ -317,8 +317,8 @@
         <mark key="." line="4" column="38" />
         <mark key="^" line="4" column="38" />
       </file>
-      <file name="$USER_HOME$/www/dart/foo/lib/main.dart" timestamp="1529524603481">
-        <mark key="'" line="137" column="0" />
+      <file name="$USER_HOME$/www/dart/foo/lib/main.dart" timestamp="1529784413785">
+        <mark key="'" line="108" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sticky/sticky.js" timestamp="1527155416008">
         <mark key="'" line="74" column="0" />
@@ -1322,8 +1322,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dart/fo/test/assoc_in_test.dart" timestamp="1529737550649">
+      <file name="$USER_HOME$/www/dart/fo/test/assoc_in_test.dart" timestamp="1529784439249">
         <mark key="'" line="27" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/dart/hub/lib/screens/App.dart" timestamp="1529192431009">
         <mark key="'" line="19" column="2" />
@@ -1517,10 +1521,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/form/directive/yt-form-checkbox.js" />
-      <jump line="16" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue-links/template/yt-issue-links-list-content.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue-links/template/yt-issue-links-list-content.html" />
-      <jump line="24" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issues-search/template/yt-base-issue-list.html" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issues-search/directive/yt-base-issue-list.js" />
       <jump line="32" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issues-search/directive/yt-base-issue-list.js" />
       <jump line="6" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issues-search/template/yt-base-issue-list.html" />
@@ -1615,18 +1615,22 @@
       <jump line="4" column="0" filename="$USER_HOME$/www/dart/fo/lib/src/assoc_in.dart" />
       <jump line="15" column="0" filename="$USER_HOME$/www/dart/fo/lib/src/assoc_in.dart" />
       <jump line="3" column="21" filename="$USER_HOME$/www/dart/fo/lib/fo.dart" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/dart/fo/test/assoc_in_test.dart" />
       <jump line="2" column="0" filename="$USER_HOME$/www/dart/fo/test/assoc_in_test.dart" />
       <jump line="27" column="0" filename="$USER_HOME$/www/dart/fo/test/assoc_in_test.dart" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="108" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>target=&quot;_blank&quot;</text>
+        <text>import 'package:fo/fo.dart' show assocIn;</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>target=&quot;_blank&quot;</text>
+        <text>import 'package:fo/fo.dart' show assocIn;</text>
       </register>
       <register name="/" type="4">
         <text>target</text>
