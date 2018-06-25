@@ -9,13 +9,12 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.kt" />
+    <option name="FILE_MASK" value="*.html,*.js,*.scss" />
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.html,*.js,*.pot</mask>
     <mask>*.html,*.js,*.po</mask>
     <mask>*.html,*.js,*.po,*.pot</mask>
-    <mask>*.html,*.js,*.scss</mask>
     <mask>*.html,</mask>
     <mask>*.html,*.scss</mask>
     <mask>*.scss,*.html, *.js</mask>
@@ -23,7 +22,6 @@
     <mask>*.sh</mask>
     <mask>*.scss,*.js,*.html</mask>
     <mask>*.scss,*html,*.js</mask>
-    <mask>*.js,*.scss</mask>
     <mask>*.js,*.scss,*.html</mask>
     <mask>*.js,*.html,*.scss,*.json</mask>
     <mask>*.html,*.scss,*.js</mask>
@@ -32,13 +30,15 @@
     <mask>*.scss,*.js,*.kt,*.gradle</mask>
     <mask>*</mask>
     <mask>*.scss</mask>
-    <mask>*.html</mask>
-    <mask>*.html,*.js</mask>
     <mask>*.dart</mask>
-    <mask>*.js</mask>
     <mask>*.js,*.html</mask>
     <mask>*.js,*.html,*.scss</mask>
     <mask>*.js,*.html,*.scss,*.kt</mask>
     <mask>*.kt</mask>
+    <mask>*.js</mask>
+    <mask>*.js,*.scss</mask>
+    <mask>*.html</mask>
+    <mask>*.html,*.js</mask>
+    <mask>*.html,*.js,*.scss</mask>
   </component>
 </application>
