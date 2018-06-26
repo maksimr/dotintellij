@@ -17,6 +17,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Wallaby'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'⌃F5' or '⌥,, ⇧R'</ShortCut>
+          <Description>Rerun 'Wallaby'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'main.dart'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -30,6 +38,14 @@
           <IdeaActionID>armory.treeHdr.showMenu</IdeaActionID>
           <ShortCut>'⌥Context Menu'</ShortCut>
           <Description>Show Tree Menu</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Wallaby'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'Wallaby'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
