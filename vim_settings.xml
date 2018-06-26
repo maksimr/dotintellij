@@ -347,11 +347,12 @@
         <mark key="." line="4" column="38" />
         <mark key="^" line="4" column="38" />
       </file>
-      <file name="$USER_HOME$/www/dart/foo/lib/main.dart" timestamp="1530047164906">
-        <mark key="[" line="7" column="22" />
-        <mark key="]" line="7" column="22" />
-        <mark key="." line="7" column="22" />
-        <mark key="^" line="7" column="22" />
+      <file name="$USER_HOME$/www/dart/foo/lib/main.dart" timestamp="1530049846858">
+        <mark key="'" line="12" column="2" />
+        <mark key="[" line="9" column="26" />
+        <mark key="]" line="9" column="26" />
+        <mark key="." line="9" column="26" />
+        <mark key="^" line="9" column="26" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/attachments/service/upload-attachments-to.js" timestamp="1529875755370">
         <mark key="'" line="5" column="8" />
@@ -1816,7 +1817,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="50" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sidebar-table/template/yt-sidebar-table.html" />
       <jump line="26" column="88" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sidebar-table/template/yt-sidebar-table.html" />
       <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/custom-fields/custom-field-prototype-toolbar.html" />
       <jump line="71" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/custom-fields/custom-field-prototype-toolbar.html" />
@@ -1915,17 +1915,18 @@
       <jump line="45" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="25" column="28" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="10" column="8" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
-      <jump line="7" column="6" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="7" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="12" column="2" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBNYXRlcmlhbEFwcCgKICAgICAgZGVidWdTaG93Q2hlY2tlZE1vZGVCYW5uZXI6IGZhbHNlLAogICAgICBob21lOiBNYXRlcmlhbCgKICAgICAgICBjaGlsZDogVW5jb25zdHJhaW5lZEJveCgKICAgICAgICAgIGNoaWxkOiBTaXplZEJveCgKICAgICAgICAgICAgd2lkdGg6IDMwMC4wLAogICAgICAgICAgICBoZWlnaHQ6IDMwMC4wLAogICAgICAgICAgICBjaGlsZDogQ29sdW1uKAogICAgICAgICAgICAgIGNoaWxkcmVuOiA8V2lkZ2V0PlsKICAgICAgICAgICAgICAgIFRleHQoCiAgICAgICAgICAgICAgICAgICJKdW5lIiwKICAgICAgICAgICAgICAgICAgc3R5bGU6IFRleHRTdHlsZSgKICAgICAgICAgICAgICAgICAgICBmb250U2l6ZTogMjguMCwKICAgICAgICAgICAgICAgICAgICBjb2xvcjogQ29sb3JzLmJsYWNrNTQsCiAgICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgQ29udGFpbmVyKAogICAgICAgICAgICAgICAgICBwYWRkaW5nOiBFZGdlSW5zZXRzLm9ubHkodG9wOiAxMC4wKSwKICAgICAgICAgICAgICAgICAgY2hpbGQ6IFJvdygKICAgICAgICAgICAgICAgICAgICBtYWluQXhpc0FsaWdubWVudDogTWFpbkF4aXNBbGlnbm1lbnQuc3BhY2VCZXR3ZWVuLAogICAgICAgICAgICAgICAgICAgIGNoaWxkcmVuOiBbCiAgICAgICAgICAgICAgICAgICAgICAiTW9uIiwKICAgICAgICAgICAgICAgICAgICAgICJUdWUiLAogICAgICAgICAgICAgICAgICAgICAgIldlZCIsCiAgICAgICAgICAgICAgICAgICAgICAiVGh1IiwKICAgICAgICAgICAgICAgICAgICAgICJGcmkiLAogICAgICAgICAgICAgICAgICAgICAgIlNhdCIsCiAgICAgICAgICAgICAgICAgICAgICAiU3VuIiwKICAgICAgICAgICAgICAgICAgICBdLm1hcCgoaXQpID0+IFRleHQoaXQpKS50b0xpc3QoKSwKICAgICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgICBEaXZpZGVyKCksCiAgICAgICAgICAgICAgICBDb2x1bW4oCiAgICAgICAgICAgICAgICAgIGNoaWxkcmVuOgogICAgICAgICAgICAgICAgICAgICAgTGlzdC5nZW5lcmF0ZSg0LCAoaW5kZXgpID0+IF9idWlsZFdlZWsoaW5kZXgpKS50b0xpc3QoKSwKICAgICAgICAgICAgICAgICksCiAgICAgICAgICAgICAgICBEaXZpZGVyKCksCiAgICAgICAgICAgICAgXSwKICAgICAgICAgICAgKSwKICAgICAgICAgICksCiAgICAgICAgKSwKICAgICAgKSwKICAgICk7CiAgfQoKICBXaWRnZXQgX2J1aWxkV2VlayhpKSB7CiAgICByZXR1cm4gQ29udGFpbmVyKAogICAgICBjaGlsZDogUm93KAogICAgICAgIG1haW5BeGlzQWxpZ25tZW50OiBNYWluQXhpc0FsaWdubWVudC5zcGFjZUJldHdlZW4sCiAgICAgICAgY2hpbGRyZW46IExpc3QuZ2VuZXJhdGUoNywgKGluZGV4KSA9PiBfYnVpbGREYXkoaW5kZXgsIGkpKS50b0xpc3QoKSwKICAgICAgKSwKICAgICk7CiAgfQoKICBXaWRnZXQgX2J1aWxkRGF5KGRheUluZGV4LCB3ZWFrSW5kZXgpIHsKICAgIGZpbmFsIGRhdGUgPSAoZGF5SW5kZXggKyAxKSArICh3ZWFrSW5kZXggKiA3KTsKICAgIHJldHVybiBDb250YWluZXIoCiAgICAgIGRlY29yYXRpb246IEJveERlY29yYXRpb24oCiAgICAgICAgc2hhcGU6IEJveFNoYXBlLmNpcmNsZSwKICAgICAgKSwKICAgICAgcGFkZGluZzogRWRnZUluc2V0cy5hbGwoMTAuMCksCiAgICAgIGNoaWxkOiBUZXh0KAogICAgICAgICIkZGF0ZSIsCiAgICAgICAgc3R5bGU6IFRleHRTdHlsZSgKICAgICAgICAgIGZvbnRTaXplOiAxOC4wLAogICAgICAgICAgY29sb3I6IF9pc1dlZWtlbmREYXkoZGF5SW5kZXgpID8gQ29sb3JzLnJlZEFjY2VudCA6IENvbG9ycy5ibGFjazU0LAogICAgICAgICksCiAgICAgICksCiAgICApOwogIH0KCiAgYm9vbCBfaXNXZWVrZW5kRGF5KGRheUluZGV4KSA9PiAoZGF5SW5kZXggPT0gNSB8fCBkYXlJbmRleCA9PSA2KTsK</text>
+      <register name="&quot;" type="4">
+        <text>null</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>widget</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>promise</text>
