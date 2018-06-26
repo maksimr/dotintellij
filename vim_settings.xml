@@ -347,11 +347,12 @@
         <mark key="." line="4" column="38" />
         <mark key="^" line="4" column="38" />
       </file>
-      <file name="$USER_HOME$/www/dart/foo/lib/main.dart" timestamp="1530029188692">
+      <file name="$USER_HOME$/www/dart/foo/lib/main.dart" timestamp="1530030827290">
+        <mark key="'" line="25" column="28" />
         <mark key="[" line="26" column="57" />
-        <mark key="]" line="26" column="67" />
-        <mark key="." line="26" column="67" />
-        <mark key="^" line="26" column="67" />
+        <mark key="]" line="26" column="68" />
+        <mark key="." line="26" column="68" />
+        <mark key="^" line="26" column="68" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/attachments/service/upload-attachments-to.js" timestamp="1529875755370">
         <mark key="'" line="5" column="8" />
@@ -1816,7 +1817,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/custom-fields/custom-field-prototype-toolbar.html" />
       <jump line="8" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/custom-fields/custom-field-prototype-toolbar.html" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sidebar-table/template/yt-sidebar-table.html" />
       <jump line="10" column="50" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sidebar-table/template/yt-sidebar-table.html" />
@@ -1916,16 +1916,17 @@
       <jump line="33" column="10" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="40" column="28" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="45" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="25" column="28" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>spaceBetween</text>
+        <text>spaceAround</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>spaceBetween</text>
+        <text>spaceAround</text>
       </register>
       <register name="/" type="4">
         <text>promise</text>
@@ -1934,7 +1935,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiU2F0IiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xvcjogQ29sb3JzLnllbGxvdywK</text>
+        <text encoding="base64">aW1wb3J0ICdkYXJ0Oic7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1943,28 +1944,28 @@
         <text encoding="base64">ICAgICAgICBjb2xvcjogQ29sb3JzLnllbGxvdywK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzaAo=</text>
+        <text encoding="base64">ICAgICAgICBjb2xvcjogQ29sb3JzLnllbGxvdywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcGFkZGluZzogRWRnZUluc2V0cy5zeW1tZXRyaWModmVydGljYWw6IDEwLjApLAo=</text>
+        <text encoding="base64">ICAgICAgICBzaAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcGFkZGluZzogRWRnZUluc2V0cy5zeW1tZXRyaWModmVydGljYWw6IDEwLjApLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBfaXNXZWVrZW5EZGF5KGRheUluZGV4KSB7CiAgICAKICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBfaXNXZWVrZW5EZGF5KGRheUluZGV4KSB7CiAgICAKICB9Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBfaXMK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF9idWlsZFdlZWsoKSwKICAgICAgICAgICAgICAgIF9idWlsZFdlZWsoKSwK</text>
+        <text encoding="base64">ICBfaXMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
