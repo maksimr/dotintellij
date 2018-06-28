@@ -393,10 +393,10 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/filter/yt-relative-date.js" timestamp="1529933513528">
         <mark key="'" line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dart/foo/lib/components/Calendar.dart" timestamp="1530211235195">
+      <file name="$USER_HOME$/www/dart/foo/lib/components/Calendar.dart" timestamp="1530214470404">
         <mark key="'" line="121" column="0" />
-        <mark key="[" line="12" column="29" />
-        <mark key="]" line="12" column="52" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="25" />
         <mark key="^" line="12" column="52" />
         <mark key="." line="12" column="52" />
       </file>
@@ -956,6 +956,9 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
         <mark key="^" line="61" column="7" />
+      </file>
+      <file name="$USER_HOME$/www/dart/foo/lib/screens/DetailsScreen.dart" timestamp="1530214569626">
+        <mark key="'" line="86" column="13" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/template/agile-toolbar.html" timestamp="1529960175341">
         <mark key="'" line="127" column="0" />
@@ -1554,7 +1557,7 @@
         <mark key="^" line="338" column="12" />
         <mark key="." line="338" column="12" />
       </file>
-      <file name="$USER_HOME$/www/dart/foo/lib/screens/ParticipantsScreen.dart" timestamp="1530213505803">
+      <file name="$USER_HOME$/www/dart/foo/lib/screens/ParticipantsScreen.dart" timestamp="1530214320695">
         <mark key="'" line="77" column="0" />
         <mark key="[" line="48" column="38" />
         <mark key="]" line="48" column="63" />
@@ -1711,8 +1714,8 @@
       <file name="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/container.dart" timestamp="1530194071073">
         <mark key="'" line="305" column="46" />
       </file>
-      <file name="$USER_HOME$/www/dart/foo/lib/components/Provider.dart" timestamp="1527013266233">
-        <mark key="'" line="54" column="0" />
+      <file name="$USER_HOME$/www/dart/foo/lib/components/Provider.dart" timestamp="1530214448148">
+        <mark key="'" line="55" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="^" line="8" column="0" />
@@ -1824,15 +1827,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="2" filename="$USER_HOME$/www/dart/foo/lib/components/TimeSelectPanel.dart" />
-      <jump line="82" column="10" filename="$USER_HOME$/www/dart/foo/lib/screens/DetailsScreen.dart" />
-      <jump line="102" column="16" filename="$USER_HOME$/www/dart/foo/lib/screens/DetailsScreen.dart" />
-      <jump line="93" column="2" filename="$USER_HOME$/www/dart/foo/lib/components/TimeSelectPanel.dart" />
-      <jump line="88" column="0" filename="$USER_HOME$/www/dart/foo/lib/screens/DetailsScreen.dart" />
-      <jump line="83" column="17" filename="$USER_HOME$/www/dart/foo/lib/screens/DetailsScreen.dart" />
-      <jump line="40" column="24" filename="$USER_HOME$/www/dart/foo/lib/components/IntervalSelectPanel.dart" />
-      <jump line="76" column="0" filename="$USER_HOME$/www/dart/foo/lib/components/IntervalSelectPanel.dart" />
-      <jump line="63" column="51" filename="$USER_HOME$/www/dart/foo/lib/screens/DetailsScreen.dart" />
       <jump line="89" column="51" filename="$USER_HOME$/www/dart/foo/lib/screens/DetailsScreen.dart" />
       <jump line="101" column="70" filename="$USER_HOME$/www/dart/foo/lib/screens/DetailsScreen.dart" />
       <jump line="1747" column="8" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/material/input_decorator.dart" />
@@ -1924,64 +1918,73 @@
       <jump line="53" column="0" filename="$USER_HOME$/www/dart/foo/lib/screens/ParticipantsScreen.dart" />
       <jump line="21" column="13" filename="$USER_HOME$/www/dart/foo/lib/screens/ParticipantsScreen.dart" />
       <jump line="61" column="0" filename="$USER_HOME$/www/dart/foo/lib/screens/ParticipantsScreen.dart" />
+      <jump line="54" column="0" filename="$USER_HOME$/www/dart/foo/lib/components/Provider.dart" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/dart/foo/lib/components/Provider.dart" />
+      <jump line="55" column="0" filename="$USER_HOME$/www/dart/foo/lib/components/Provider.dart" />
+      <jump line="64" column="24" filename="$USER_HOME$/www/dart/foo/lib/screens/DetailsScreen.dart" />
+      <jump line="66" column="10" filename="$USER_HOME$/www/dart/foo/lib/screens/DetailsScreen.dart" />
+      <jump line="137" column="25" filename="$USER_HOME$/www/dart/foo/lib/screens/DetailsScreen.dart" />
+      <jump line="150" column="16" filename="$USER_HOME$/www/dart/foo/lib/screens/DetailsScreen.dart" />
+      <jump line="155" column="16" filename="$USER_HOME$/www/dart/foo/lib/screens/DetailsScreen.dart" />
+      <jump line="86" column="13" filename="$USER_HOME$/www/dart/foo/lib/screens/DetailsScreen.dart" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;Elizaveta Kulikova&quot;</text>
+        <text>16</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;Elizaveta Kulikova&quot;</text>
+        <text>16</text>
       </register>
       <register name="/" type="4">
-        <text>wid</text>
+        <text>hei</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBDb2x1bW4oCiAgICAgIGNoaWxkcmVuOiA8V2lkZ2V0PlsKICAgICAgICBUZXh0RmllbGQoCiAgICAgICAgICBhdXRvZm9jdXM6IHRydWUsCiAgICAgICAgICBvbkNoYW5nZWQ6IChxdWVyeSkgewogICAgICAgICAgICBzZXRTdGF0ZSgoKSB7CiAgICAgICAgICAgICAgZmlsdGVyZWRMb2NhdGlvbnMgPSBsb2NhdGlvbnMud2hlcmUoKGxvY2F0aW9uKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gbG9jYXRpb24uY29udGFpbnMocXVlcnkpOwogICAgICAgICAgICAgIH0pLnRvTGlzdCgpOwogICAgICAgICAgICB9KTsKICAgICAgICAgIH0sCiAgICAgICAgICBkZWNvcmF0aW9uOiBJbnB1dERlY29yYXRpb24oCiAgICAgICAgICAgIGNvbnRlbnRQYWRkaW5nOiBFZGdlSW5zZXRzLnN5bW1ldHJpYygKICAgICAgICAgICAgICBob3Jpem9udGFsOiAxNi4wLAogICAgICAgICAgICAgIHZlcnRpY2FsOiAyNC4wLAogICAgICAgICAgICApLAogICAgICAgICAgICBib3JkZXI6IElucHV0Qm9yZGVyLm5vbmUsCiAgICAgICAgICAgIGhpbnRUZXh0OiAiU2VhcmNoIiwKICAgICAgICAgICksCiAgICAgICAgKSwKICAgICAgICBEaXZpZGVyKGhlaWdodDogMC4wKSwKICAgICAgXSwKICAgICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGVpZ2h0OiA0MC4wLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IGltcGxlbWVudCBpbml0U3RhdGUK</text>
+        <text encoding="base64">ICAgICAgICAgIGhlaWdodDogMzAuMCwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBMaXN0IGZpbHRlcmVkUGFydGljaXBhbnRzID0gW107Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IGltcGxlbWVudCBpbml0U3RhdGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBDb2x1bW4gX2J1aWxkU2VhcmNoSW5wdXQoKSB7CiAgICByZXR1cm4gQ29sdW1uKAogICAgICBjaGlsZHJlbjogPFdpZGdldD5bCiAgICAgICAgVGV4dEZpZWxkKAogICAgICAgICAgYXV0b2ZvY3VzOiB0cnVlLAogICAgICAgICAgb25DaGFuZ2VkOiAocXVlcnkpIHsKICAgICAgICAgICAgc2V0U3RhdGUoKCkgewogICAgICAgICAgICAgIGZpbHRlcmVkUGFydGljaXBhbnRzID0gcGFydGljaXBhbnRzLndoZXJlKChpdCkgewogICAgICAgICAgICAgICAgcmV0dXJuIGl0LmNvbnRhaW5zKHF1ZXJ5KTsKICAgICAgICAgICAgICB9KS50b0xpc3QoKTsKICAgICAgICAgICAgfSk7CiAgICAgICAgICB9LAogICAgICAgICAgZGVjb3JhdGlvbjogSW5wdXREZWNvcmF0aW9uKAogICAgICAgICAgICBjb250ZW50UGFkZGluZzogRWRnZUluc2V0cy5zeW1tZXRyaWMoCiAgICAgICAgICAgICAgaG9yaXpvbnRhbDogMTYuMCwKICAgICAgICAgICAgICB2ZXJ0aWNhbDogMjQuMCwKICAgICAgICAgICAgKSwKICAgICAgICAgICAgYm9yZGVyOiBJbnB1dEJvcmRlci5ub25lLAogICAgICAgICAgICBoaW50VGV4dDogIlNlYXJjaCIsCiAgICAgICAgICApLAogICAgICAgICksCiAgICAgICAgRGl2aWRlcihoZWlnaHQ6IDAuMCksCiAgICAgIF0sCiAgICApOwogIH0K</text>
+        <text encoding="base64">ICBMaXN0IGZpbHRlcmVkUGFydGljaXBhbnRzID0gW107Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBDb2x1bW4oCiAgICAgIGNoaWxkcmVuOiA8V2lkZ2V0PlsKICAgICAgICBUZXh0RmllbGQoCiAgICAgICAgICBhdXRvZm9jdXM6IHRydWUsCiAgICAgICAgICBkZWNvcmF0aW9uOiBJbnB1dERlY29yYXRpb24oCiAgICAgICAgICAgIGNvbnRlbnRQYWRkaW5nOiBFZGdlSW5zZXRzLnN5bW1ldHJpYygKICAgICAgICAgICAgICBob3Jpem9udGFsOiAxNi4wLAogICAgICAgICAgICAgIHZlcnRpY2FsOiAyNC4wLAogICAgICAgICAgICApLAogICAgICAgICAgICBib3JkZXI6IElucHV0Qm9yZGVyLm5vbmUsCiAgICAgICAgICAgIGhpbnRUZXh0OiAiU2VhcmNoIiwKICAgICAgICAgICksCiAgICAgICAgKSwKICAgICAgICBEaXZpZGVyKGhlaWdodDogMC4wKSwKICAgICAgXSwKICAgICk7Cg==</text>
+        <text encoding="base64">ICBDb2x1bW4gX2J1aWxkU2VhcmNoSW5wdXQoKSB7CiAgICByZXR1cm4gQ29sdW1uKAogICAgICBjaGlsZHJlbjogPFdpZGdldD5bCiAgICAgICAgVGV4dEZpZWxkKAogICAgICAgICAgYXV0b2ZvY3VzOiB0cnVlLAogICAgICAgICAgb25DaGFuZ2VkOiAocXVlcnkpIHsKICAgICAgICAgICAgc2V0U3RhdGUoKCkgewogICAgICAgICAgICAgIGZpbHRlcmVkUGFydGljaXBhbnRzID0gcGFydGljaXBhbnRzLndoZXJlKChpdCkgewogICAgICAgICAgICAgICAgcmV0dXJuIGl0LmNvbnRhaW5zKHF1ZXJ5KTsKICAgICAgICAgICAgICB9KS50b0xpc3QoKTsKICAgICAgICAgICAgfSk7CiAgICAgICAgICB9LAogICAgICAgICAgZGVjb3JhdGlvbjogSW5wdXREZWNvcmF0aW9uKAogICAgICAgICAgICBjb250ZW50UGFkZGluZzogRWRnZUluc2V0cy5zeW1tZXRyaWMoCiAgICAgICAgICAgICAgaG9yaXpvbnRhbDogMTYuMCwKICAgICAgICAgICAgICB2ZXJ0aWNhbDogMjQuMCwKICAgICAgICAgICAgKSwKICAgICAgICAgICAgYm9yZGVyOiBJbnB1dEJvcmRlci5ub25lLAogICAgICAgICAgICBoaW50VGV4dDogIlNlYXJjaCIsCiAgICAgICAgICApLAogICAgICAgICksCiAgICAgICAgRGl2aWRlcihoZWlnaHQ6IDAuMCksCiAgICAgIF0sCiAgICApOwogIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBDb2x1bW4oCiAgICAgIGNoaWxkcmVuOiA8V2lkZ2V0PlsKICAgICAgICBUZXh0RmllbGQoCiAgICAgICAgICBhdXRvZm9jdXM6IHRydWUsCiAgICAgICAgICBkZWNvcmF0aW9uOiBJbnB1dERlY29yYXRpb24oCiAgICAgICAgICAgIGNvbnRlbnRQYWRkaW5nOiBFZGdlSW5zZXRzLnN5bW1ldHJpYygKICAgICAgICAgICAgICBob3Jpem9udGFsOiAxNi4wLAogICAgICAgICAgICAgIHZlcnRpY2FsOiAyNC4wLAogICAgICAgICAgICApLAogICAgICAgICAgICBib3JkZXI6IElucHV0Qm9yZGVyLm5vbmUsCiAgICAgICAgICAgIGhpbnRUZXh0OiAiU2VhcmNoIiwKICAgICAgICAgICksCiAgICAgICAgKSwKICAgICAgICBEaXZpZGVyKGhlaWdodDogMC4wKSwKICAgICAgXSwKICAgICk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBxdWVyeSA9IHE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBTdHJpbmcgcXVlcnk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBxdWVyeSA9IHE7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIFRPRE86IGltcGxlbWVudCBpbml0U3RhdGUK</text>
+        <text encoding="base64">ICBTdHJpbmcgcXVlcnk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIC8vIFRPRE86IGltcGxlbWVudCBpbml0U3RhdGUK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>wid</last-search>
+      <last-search>hei</last-search>
       <last-offset />
-      <last-pattern>wid</last-pattern>
+      <last-pattern>hei</last-pattern>
       <last-replace>issueLinksCtrl</last-replace>
       <last-substitute>$ctrl</last-substitute>
       <last-dir>1</last-dir>
@@ -1989,7 +1992,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxib3JkZXJcPg==</entry>
         <entry encoding="base64">XDxfZ2V0RmlsbENvbG9yXD4=</entry>
         <entry>border</entry>
         <entry encoding="base64">XDxfYnVpbGRJbmZvXD4=</entry>
@@ -2009,6 +2011,7 @@
         <entry>onTap</entry>
         <entry encoding="base64">XDxxdWVyeVw+</entry>
         <entry>wid</entry>
+        <entry>hei</entry>
       </history-search>
       <history-cmd>
         <entry>%s/$ctrl.(isModifiedAndUnsaved)/$q/gc</entry>
