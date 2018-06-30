@@ -379,8 +379,8 @@
         <mark key="^" line="10" column="26" />
         <mark key="." line="10" column="26" />
       </file>
-      <file name="$USER_HOME$/www/dart/foo/lib/screens/BookingScreen.dart" timestamp="1530265527040">
-        <mark key="'" line="43" column="23" />
+      <file name="$USER_HOME$/www/dart/foo/lib/screens/BookingScreen.dart" timestamp="1530333490861">
+        <mark key="'" line="107" column="20" />
         <mark key="[" line="99" column="0" />
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
@@ -742,8 +742,8 @@
         <mark key="^" line="31" column="9" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dart/foo/test/lib/combinations.dart" timestamp="1530227107607">
-        <mark key="'" line="12" column="5" />
+      <file name="$USER_HOME$/www/dart/foo/test/lib/combinations.dart" timestamp="1530333567579">
+        <mark key="'" line="40" column="0" />
       </file>
       <file name="$USER_HOME$/www/js/foo/src/main.js" timestamp="1528393106572">
         <mark key="'" line="49" column="0" />
@@ -885,6 +885,9 @@
       </file>
       <file name="$USER_HOME$/www/dart/foo/lib/components/PickerView.dart" timestamp="1530193389667">
         <mark key="'" line="5" column="26" />
+      </file>
+      <file name="$USER_HOME$/www/dart/foo/lib/lib/combinations.dart" timestamp="1530333545293">
+        <mark key="'" line="1" column="8" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issues.js" timestamp="1529429606557">
         <mark key="'" line="116" column="2" />
@@ -1862,11 +1865,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="37" filename="$USER_HOME$/www/dart/foo/lib/screens/ParticipantsScreen.dart" />
-      <jump line="157" column="0" filename="$USER_HOME$/www/dart/foo/lib/screens/ParticipantsScreen.dart" />
-      <jump line="75" column="43" filename="$USER_HOME$/www/dart/foo/lib/screens/ParticipantsScreen.dart" />
-      <jump line="179" column="9" filename="$USER_HOME$/www/dart/foo/lib/screens/ParticipantsScreen.dart" />
-      <jump line="238" column="2" filename="$USER_HOME$/www/dart/foo/lib/screens/DetailsScreen.dart" />
       <jump line="23" column="15" filename="$USER_HOME$/www/dart/foo/lib/screens/BookingScreen.dart" />
       <jump line="105" column="27" filename="$USER_HOME$/www/dart/foo/lib/screens/BookingScreen.dart" />
       <jump line="172" column="0" filename="$USER_HOME$/www/dart/foo/lib/screens/ParticipantsScreen.dart" />
@@ -1962,6 +1960,11 @@
       <jump line="305" column="29" filename="$USER_HOME$/www/dart/foo/lib/screens/DetailsScreen.dart" />
       <jump line="43" column="23" filename="$USER_HOME$/www/dart/foo/lib/screens/BookingScreen.dart" />
       <jump line="8" column="27" filename="$USER_HOME$/www/dart/foo/lib/components/TimeSelectPanel.dart" />
+      <jump line="107" column="20" filename="$USER_HOME$/www/dart/foo/lib/screens/BookingScreen.dart" />
+      <jump line="1" column="8" filename="$USER_HOME$/www/dart/foo/lib/lib/combinations.dart" />
+      <jump line="14" column="4" filename="$USER_HOME$/www/dart/foo/test/lib/combinations.dart" />
+      <jump line="10" column="0" filename="$USER_HOME$/www/dart/foo/test/lib/combinations.dart" />
+      <jump line="40" column="0" filename="$USER_HOME$/www/dart/foo/test/lib/combinations.dart" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1974,7 +1977,7 @@
         <text>time</text>
       </register>
       <register name="/" type="4">
-        <text>Starts</text>
+        <text encoding="base64">XDxuXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBfZm9ybWF0VGltZSh0aW1lKSB7CiAgICByZXR1cm4gdGltZSA+IDkgPyAiJHRpbWUiIDogIjAkdGltZSI7CiAgfQo=</text>
@@ -2017,17 +2020,16 @@
       </register>
     </registers>
     <search>
-      <last-search>Starts</last-search>
+      <last-search encoding="base64">XDxuXD4=</last-search>
       <last-offset />
-      <last-pattern>Starts</last-pattern>
+      <last-pattern encoding="base64">XDxuXD4=</last-pattern>
       <last-replace>&quot;${Location.\1}&quot;</last-replace>
       <last-substitute>&quot;\(Novosibirsk\)&quot;</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfdXBkYXRlVXNlclJvb21zXD4=</entry>
         <entry>onTap</entry>
         <entry>getDefault</entry>
         <entry>reduce</entry>
@@ -2047,6 +2049,7 @@
         <entry>Scaff</entry>
         <entry>Snack</entry>
         <entry>Starts</entry>
+        <entry encoding="base64">XDxuXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>55,58s/\s*\(.*\)$/createRoom(&quot;\1&quot;, &quot;Bostom&quot;),/gc</entry>
