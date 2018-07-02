@@ -14,7 +14,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'⌃C'</ShortCut>
           <Description>Copy</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Wallaby'">
@@ -38,6 +38,14 @@
           <IdeaActionID>armory.treeHdr.showMenu</IdeaActionID>
           <ShortCut>'⌥Context Menu'</ShortCut>
           <Description>Show Tree Menu</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Unit Tests'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'⌃F2'</ShortCut>
+          <Description>Stop 'Unit Tests'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
