@@ -970,8 +970,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/event-source/service/yt-event-source.js" timestamp="1528892960555">
         <mark key="'" line="86" column="17" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/directive/yt-icon.js" timestamp="1530794951931">
-        <mark key="'" line="3" column="4" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/directive/yt-icon.js" timestamp="1530798714441">
+        <mark key="'" line="34" column="2" />
         <mark key="[" line="29" column="9" />
         <mark key="]" line="29" column="10" />
         <mark key="." line="29" column="10" />
@@ -1294,8 +1294,8 @@
         <mark key="." line="99" column="0" />
         <mark key="^" line="107" column="51" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/style/icon.scss" timestamp="1530795558450">
-        <mark key="'" line="0" column="52" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/style/icon.scss" timestamp="1530797739461">
+        <mark key="'" line="50" column="0" />
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
         <mark key="." line="50" column="0" />
@@ -2114,10 +2114,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="54" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/custom-fields-configuration.html" />
-      <jump line="62" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/custom-fields-configuration.html" />
-      <jump line="31" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/custom-fields-configuration.html" />
-      <jump line="59" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/custom-fields-configuration.html" />
       <jump line="42" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/custom-fields-configuration.html" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/custom-fields-configuration.html" />
       <jump line="29" column="37" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/karma.conf.js" />
@@ -2207,13 +2203,17 @@
       <jump line="57" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sidebar-table/template/yt-sidebar-table.html" />
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/directive/yt-icon.js" />
       <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/directive/yt-icon.js" />
-      <jump line="4" column="55" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/directive/yt-icon.js" />
-      <jump line="34" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/directive/yt-icon.js" />
+      <jump line="50" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/style/icon.scss" />
+      <jump line="6" column="57" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/directive/yt-icon.js" />
+      <jump line="31" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/directive/yt-icon.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/global/url.js" />
+      <jump line="30" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/directive/yt-icon.js" />
       <jump line="2" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/directive/yt-icon.js" />
-      <jump line="31" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/directive/yt-icon.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/icon/icon.css" />
-      <jump line="26" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/directive/yt-icon.js" />
-      <jump line="3" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/directive/yt-icon.js" />
+      <jump line="26" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/directive/yt-icon.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/directive/yt-icon.js" />
+      <jump line="3" column="1" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/directive/yt-icon.js" />
+      <jump line="34" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/directive/yt-icon.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2229,7 +2229,7 @@
         <text>.ring-table__toolbar</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx2YXJcPg==</text>
+        <text encoding="base64">XDxjc3NcPg==</text>
       </register>
       <register name="0" type="4">
         <text>../../components/alert/alert</text>
@@ -2272,9 +2272,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx2YXJcPg==</last-search>
+      <last-search encoding="base64">XDxjc3NcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx2YXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjc3NcPg==</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>);$</last-substitute>
       <last-dir>-1</last-dir>
@@ -2282,7 +2282,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxsZWdhY3lcPg==</entry>
         <entry>position</entry>
         <entry>position: relative</entry>
         <entry>width</entry>
@@ -2302,6 +2301,7 @@
         <entry>sidebar</entry>
         <entry encoding="base64">XDxyaW5nSWNvblN0eWxlc1w+</entry>
         <entry encoding="base64">XDx2YXJcPg==</entry>
+        <entry encoding="base64">XDxjc3NcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;\(Prague\)&quot;/&quot;${Location.\1}&quot;/gc</entry>
