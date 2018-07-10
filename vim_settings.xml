@@ -1068,8 +1068,8 @@
         <mark key="^" line="82" column="43" />
         <mark key="." line="132" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/issue.js" timestamp="1531214355251">
-        <mark key="'" line="101" column="122" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/issue.js" timestamp="1531215812091">
+        <mark key="'" line="163" column="16" />
         <mark key="[" line="163" column="47" />
         <mark key="]" line="163" column="47" />
         <mark key="." line="163" column="47" />
@@ -1924,6 +1924,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/service/yt-shortcuts-convert-serverside.js" timestamp="1528204949702">
         <mark key="'" line="27" column="26" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue.js" timestamp="1531215890931">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/style/yt-drafts-dropdown.scss" timestamp="1527690259500">
         <mark key="'" line="25" column="8" />
         <mark key="[" line="21" column="0" />
@@ -2129,10 +2135,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/directive/yt-mention.js" />
-      <jump line="59" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/directive/yt-mention.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/template/yt-mention-popup.html" />
-      <jump line="62" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/directive/yt-mention.js" />
       <jump line="462" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/directive/yt-mention.js" />
       <jump line="49" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/directive/yt-mention.js" />
       <jump line="45" column="34" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/directive/yt-mention.js" />
@@ -2229,13 +2231,17 @@
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/issue.js" />
       <jump line="97" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/issue.js" />
       <jump line="101" column="122" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/issue.js" />
+      <jump line="160" column="46" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/issue.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/issue.js" />
+      <jump line="163" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issue/issue.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN5bmMtYm90dG9tPSJ5dC1mb290ZXI7LTQwIgo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc29sZS5sb2coJ2ZvbycpOwo=</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -2250,37 +2256,37 @@
         <text encoding="base64">ICAgICAgICAud2hlbignL2lzc3VlLzppc3N1ZUlkJywgaXNzdWVSb3V0ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAud2hlbignL3YyL2lzc3VlLzppc3N1ZUlkJywge3JlZGlyZWN0VG86ICcvaXNzdWUvOmlzc3VlSWQnfSkK</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJ2ZvbycpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAud2hlbignL3YyL2lzc3VlLzppc3N1ZUlkJywge3JlZGlyZWN0VG86ICcvaXNzdWUvOmlzc3VlSWQnfSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRlbXBsYXRlVXJsOiAndGVtcGxhdGUvaXNzdWUuaHRtbCcsCiAgICAgICAgICBjb250cm9sbGVyQXM6ICdpc3N1ZUN0cmwnLAogICAgICAgICAgY29udHJvbGxlcjogJ0lzc3VlQ3RybCcsCiAgICAgICAgICB0aXRsZTogZmFsc2UsCiAgICAgICAgICBib2R5Q2xhc3NOYW1lOiBmdW5jdGlvbigpIHsKICAgICAgICAgICAgcmV0dXJuIFsnZ2xvYmFsX2lzc3VlLWZ1bGwtdmlldycsICdnbG9iYWxfY2VudGVyJywgaXNzdWVEaXN0cmFjdGlvbkZyZWVNb2RlUHJvdmlkZXIuZ2V0Qm9keUNsYXNzKCldOwogICAgICAgICAgfSwKICAgICAgICAgIGhlbHBTaG9ydGN1dHNMaXN0OiBoZWxwU2hvcnRjdXRzTGlzdCwKICAgICAgICAgIHJlbG9hZE9uU2VhcmNoOiBmYWxzZSwKICAgICAgICAgIGhlYWRlckNvbmZpZzogewogICAgICAgICAgICB0ZW1wbGF0ZTogcmVxdWlyZSgnLi4vLi4vY29tcG9uZW50cy9pc3N1ZS90ZW1wbGF0ZS9pc3N1ZS1tZW51LWNyZWF0ZS1idXR0b24uaHRtbCcpCiAgICAgICAgICB9LAogICAgICAgICAgcXVpY2tTZWFyY2hDb25maWc6IHsKICAgICAgICAgICAgdGVtcGxhdGU6IHJlcXVpcmUoJy4vdGVtcGxhdGUvcXVpY2stc2VhcmNoLWRpYWxvZy5odG1sJyksCiAgICAgICAgICAgIGNvbnRyb2xsZXI6ICdJc3N1ZVF1aWNrU2VhcmNoRGlhbG9nQ3RybCcKICAgICAgICAgIH0sCiAgICAgICAgICBhY2Nlc3M6IHsKICAgICAgICAgICAgcmVxdWlyZWRQZXJtaXNzaW9uczogJ3l0Lmlzc3VlLXJlYWQnCiAgICAgICAgICB9LAogICAgICAgICAgcmVzb2x2ZTogewogICAgICAgICAgICAvKiBAbmdJbmplY3QgKi8KICAgICAgICAgICAgaXNzdWVSZXNvbHZlOiBmdW5jdGlvbihpc3N1ZVJlc29sdmVyKSB7CiAgICAgICAgICAgICAgcmV0dXJuIGlzc3VlUmVzb2x2ZXIoKTsKICAgICAgICAgICAgfSwKICAgICAgICAgICAgLyogQG5nSW5qZWN0ICovCiAgICAgICAgICAgIGN1cnJlbnRVc2VyUmVzb2x2ZTogZnVuY3Rpb24oY3VycmVudFVzZXJSZXNvbHZlcikgewogICAgICAgICAgICAgIHJldHVybiBjdXJyZW50VXNlclJlc29sdmVyKCk7CiAgICAgICAgICAgIH0KICAgICAgICAgIH0K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGJvZHkuaGVpZ2h0Owo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIHRlbXBsYXRlVXJsOiAndGVtcGxhdGUvaXNzdWUuaHRtbCcsCiAgICAgICAgICBjb250cm9sbGVyQXM6ICdpc3N1ZUN0cmwnLAogICAgICAgICAgY29udHJvbGxlcjogJ0lzc3VlQ3RybCcsCiAgICAgICAgICB0aXRsZTogZmFsc2UsCiAgICAgICAgICBib2R5Q2xhc3NOYW1lOiBmdW5jdGlvbigpIHsKICAgICAgICAgICAgcmV0dXJuIFsnZ2xvYmFsX2lzc3VlLWZ1bGwtdmlldycsICdnbG9iYWxfY2VudGVyJywgaXNzdWVEaXN0cmFjdGlvbkZyZWVNb2RlUHJvdmlkZXIuZ2V0Qm9keUNsYXNzKCldOwogICAgICAgICAgfSwKICAgICAgICAgIGhlbHBTaG9ydGN1dHNMaXN0OiBoZWxwU2hvcnRjdXRzTGlzdCwKICAgICAgICAgIHJlbG9hZE9uU2VhcmNoOiBmYWxzZSwKICAgICAgICAgIGhlYWRlckNvbmZpZzogewogICAgICAgICAgICB0ZW1wbGF0ZTogcmVxdWlyZSgnLi4vLi4vY29tcG9uZW50cy9pc3N1ZS90ZW1wbGF0ZS9pc3N1ZS1tZW51LWNyZWF0ZS1idXR0b24uaHRtbCcpCiAgICAgICAgICB9LAogICAgICAgICAgcXVpY2tTZWFyY2hDb25maWc6IHsKICAgICAgICAgICAgdGVtcGxhdGU6IHJlcXVpcmUoJy4vdGVtcGxhdGUvcXVpY2stc2VhcmNoLWRpYWxvZy5odG1sJyksCiAgICAgICAgICAgIGNvbnRyb2xsZXI6ICdJc3N1ZVF1aWNrU2VhcmNoRGlhbG9nQ3RybCcKICAgICAgICAgIH0sCiAgICAgICAgICBhY2Nlc3M6IHsKICAgICAgICAgICAgcmVxdWlyZWRQZXJtaXNzaW9uczogJ3l0Lmlzc3VlLXJlYWQnCiAgICAgICAgICB9LAogICAgICAgICAgcmVzb2x2ZTogewogICAgICAgICAgICAvKiBAbmdJbmplY3QgKi8KICAgICAgICAgICAgaXNzdWVSZXNvbHZlOiBmdW5jdGlvbihpc3N1ZVJlc29sdmVyKSB7CiAgICAgICAgICAgICAgcmV0dXJuIGlzc3VlUmVzb2x2ZXIoKTsKICAgICAgICAgICAgfSwKICAgICAgICAgICAgLyogQG5nSW5qZWN0ICovCiAgICAgICAgICAgIGN1cnJlbnRVc2VyUmVzb2x2ZTogZnVuY3Rpb24oY3VycmVudFVzZXJSZXNvbHZlcikgewogICAgICAgICAgICAgIHJldHVybiBjdXJyZW50VXNlclJlc29sdmVyKCk7CiAgICAgICAgICAgIH0KICAgICAgICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGJvZHkuaGVpZ2h0Owo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgZG9jCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1lbnRpb25Qb3B1cEN0cmwuY29tcGxldGVTdWdnZXN0ID0gY29tcGxldGVTdWdnZXN0OwogICAgICAgICAgbWVudGlvblBvcHVwQ3RybC5jYWxjdWxhdGVJdGVtSGVpZ2h0ID0gY2FsY3VsYXRlSXRlbUhlaWdodDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgZG9jCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIG1lbnRpb25Qb3B1cEN0cmwuY29tcGxldGVTdWdnZXN0ID0gY29tcGxldGVTdWdnZXN0OwogICAgICAgICAgbWVudGlvblBvcHVwQ3RybC5jYWxjdWxhdGVJdGVtSGVpZ2h0ID0gY2FsY3VsYXRlSXRlbUhlaWdodDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2319,7 +2325,6 @@
         <entry>v2</entry>
       </history-search>
       <history-cmd>
-        <entry>%s/&quot;\(Prague\)&quot;/&quot;${Location.\1}&quot;/gc</entry>
         <entry>%s/&quot;\(Spb Times\)&quot;/&quot;${Location.SpbTimes}&quot;/gc</entry>
         <entry>%s/&quot;\(Boston\)&quot;/&quot;${Location.\1}&quot;/gc</entry>
         <entry>%s/&quot;\(Moscow\)&quot;/&quot;${Location.\1}&quot;/gc</entry>
@@ -2338,6 +2343,7 @@
         <entry>41,57s/,\s*]/]/gc</entry>
         <entry>41,57s/);$/;/gc</entry>
         <entry>39</entry>
+        <entry>action AceAction</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
