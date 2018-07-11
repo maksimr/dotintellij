@@ -295,9 +295,12 @@
         <mark key="^" line="14" column="33" />
         <mark key="." line="14" column="33" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/list/list__item.js" timestamp="1531303196689">
+      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/list/list__item.js" timestamp="1531303230547">
         <mark key="'" line="147" column="12" />
         <mark key="[" line="173" column="28" />
+        <mark key="]" line="174" column="50" />
+        <mark key="^" line="174" column="50" />
+        <mark key="." line="174" column="50" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-similar-issues.js" timestamp="1527586881371">
         <mark key="'" line="4" column="14" />
@@ -1454,6 +1457,9 @@
         <mark key="^" line="3" column="4" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.test.js" timestamp="1531303305843">
+        <mark key="'" line="216" column="34" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/issue-resource.js" timestamp="1529877022248">
         <mark key="'" line="931" column="57" />
         <mark key="[" line="953" column="55" />
@@ -2214,10 +2220,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/button-ng/button-ng.test.js" />
-      <jump line="50" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/button-ng/button-ng.test.js" />
-      <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng.js" />
-      <jump line="392" column="21" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select.js" />
       <jump line="438" column="32" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select.js" />
       <jump line="487" column="19" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select.js" />
       <jump line="389" column="6" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select.js" />
@@ -2314,6 +2316,10 @@
       <jump line="153" column="14" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list__item.js" />
       <jump line="123" column="8" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list__item.js" />
       <jump line="147" column="12" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list__item.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.test.js" />
+      <jump line="264" column="64" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.test.js" />
+      <jump line="212" column="8" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.test.js" />
+      <jump line="216" column="34" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list.test.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2382,7 +2388,6 @@
     </search>
     <history>
       <history-search>
-        <entry>button</entry>
         <entry encoding="base64">XDxyZ0J1dHRvbkRpcmVjdGl2ZVw+</entry>
         <entry>loader</entry>
         <entry encoding="base64">XDxMT0FERVJfQkFDS0dST1VORF9TRUxFQ1RPUlw+</entry>
@@ -2401,6 +2406,7 @@
         <entry encoding="base64">XDxzaG93bkRhdGFcPg==</entry>
         <entry encoding="base64">XDxfbXVsdGlwbGVNYXBcPg==</entry>
         <entry>checkbox</entry>
+        <entry>description</entry>
         <entry>data-test</entry>
       </history-search>
       <history-cmd>
