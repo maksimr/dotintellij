@@ -9,8 +9,7 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scss" />
-    <mask>*.html,*.js,*.po</mask>
+    <option name="FILE_MASK" value="*.spec.js" />
     <mask>*.html,*.js,*.po,*.pot</mask>
     <mask>*.html,</mask>
     <mask>*.html,*.scss</mask>
@@ -36,9 +35,10 @@
     <mask>*.html,*.js</mask>
     <mask>*.html</mask>
     <mask>*.kt</mask>
-    <mask>*.js</mask>
     <mask>*.test.js</mask>
     <mask>*.js,*.html</mask>
     <mask>*.scss</mask>
+    <mask>*.js</mask>
+    <mask>*.spec.js</mask>
   </component>
 </application>
