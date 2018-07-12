@@ -49,11 +49,11 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/externals/header/template/issues-menu-create-button.html" timestamp="1529957858393">
         <mark key="'" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1531403969068">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1531407469773">
         <mark key="'" line="15" column="38" />
-        <mark key="[" line="42" column="27" />
-        <mark key="]" line="42" column="40" />
-        <mark key="." line="42" column="40" />
+        <mark key="[" line="42" column="40" />
+        <mark key="]" line="42" column="41" />
+        <mark key="." line="42" column="41" />
         <mark key="^" line="42" column="40" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/test/kotlin/jetbrains/youtrack/webdriver/fsi/IssueAttachmentsTest.kt" timestamp="1530617812588">
@@ -2014,6 +2014,9 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/codemirror/service/XXXCodeMirror-patch.js" timestamp="1528971928430">
         <mark key="'" line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-watchers.html" timestamp="1531407240880">
+        <mark key="'" line="15" column="19" />
+      </file>
       <file name="$USER_HOME$/www/dart/foo/lib/screens/CalendarScreen.dart" timestamp="1530334096907">
         <mark key="'" line="26" column="2" />
       </file>
@@ -2241,11 +2244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/profile/test/e2e/user-profile.spec.js" />
-      <jump line="7" column="1" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/profile/test/e2e/user-profile.spec.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/profile/test/e2e/user-profile.spec.js" />
-      <jump line="170" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/profile/test/e2e/user-profile.spec.js" />
-      <jump line="198" column="50" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/e2e/agile-board.spec.js" />
       <jump line="13" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/e2e/agile-board.spec.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/e2e/agile-board.spec.js" />
       <jump line="524" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/agile-board/test/e2e/agile-board.spec.js" />
@@ -2341,6 +2339,11 @@
       <jump line="220" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/package.json" />
       <jump line="867" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/select/select.js" />
       <jump line="1088" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/select/select.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-watchers.html" />
+      <jump line="7" column="63" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-watchers.html" />
+      <jump line="9" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-watchers.html" />
+      <jump line="11" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-watchers.html" />
+      <jump line="15" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-watchers.html" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2356,7 +2359,7 @@
         <text>.ring-tag</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">Pj4+</text>
+        <text>watch</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LyogZXNsaW50LWRpc2FibGUgcmVhY3Qvc2VsZi1jbG9zaW5nLWNvbXAgKi8K</text>
@@ -2399,9 +2402,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">Pj4+</last-search>
+      <last-search>watch</last-search>
       <last-offset />
-      <last-pattern encoding="base64">Pj4+</last-pattern>
+      <last-pattern>watch</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>);$</last-substitute>
       <last-dir>1</last-dir>
@@ -2409,7 +2412,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwb3B1cEl0ZW1zQnlcPg==</entry>
         <entry encoding="base64">XDxxdWVyeUFzc2lzdElucHV0XD4=</entry>
         <entry>query</entry>
         <entry>tab</entry>
@@ -2429,6 +2431,7 @@
         <entry>span</entry>
         <entry encoding="base64">PHNwYW4=</entry>
         <entry encoding="base64">Pj4+</entry>
+        <entry>watch</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;\(Spb Times\)&quot;/&quot;${Location.SpbTimes}&quot;/gc</entry>
