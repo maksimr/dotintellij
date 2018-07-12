@@ -9,7 +9,7 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.test.js" />
+    <option name="FILE_MASK" value="*.js,*.html" />
     <mask>*.html,*.js,*.po</mask>
     <mask>*.html,*.js,*.po,*.pot</mask>
     <mask>*.html,</mask>
@@ -30,7 +30,6 @@
     <mask>*.js,*.html,*.scss,*.kt</mask>
     <mask>*.js,*.scss</mask>
     <mask>*.scss</mask>
-    <mask>*.js,*.html</mask>
     <mask>*.dart</mask>
     <mask>*.html,*.js,*.kt</mask>
     <mask>*.html,*.js,*.scss</mask>
@@ -40,5 +39,6 @@
     <mask>*.kt</mask>
     <mask>*.js</mask>
     <mask>*.test.js</mask>
+    <mask>*.js,*.html</mask>
   </component>
 </application>
