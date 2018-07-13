@@ -49,8 +49,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/externals/header/template/issues-menu-create-button.html" timestamp="1529957858393">
         <mark key="'" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1531496243404">
-        <mark key="'" line="201" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1531506134059">
+        <mark key="'" line="13" column="42" />
         <mark key="[" line="42" column="40" />
         <mark key="]" line="42" column="41" />
         <mark key="." line="42" column="41" />
@@ -2296,9 +2296,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="4" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng__lazy.js" />
-      <jump line="7" column="38" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng__lazy.js" />
-      <jump line="11" column="16" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng__lazy.js" />
       <jump line="49" column="13" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng__lazy.js" />
       <jump line="46" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng__lazy.test.js" />
       <jump line="35" column="21" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng__lazy.test.js" />
@@ -2395,7 +2392,10 @@
       <jump line="184" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list__item.js" />
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list__item.js" />
       <jump line="42" column="40" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
       <jump line="201" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="13" column="42" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2411,7 +2411,7 @@
         <text>.only</text>
       </register>
       <register name="/" type="4">
-        <text>selected</text>
+        <text>ring-ui</text>
       </register>
       <register name="0" type="4">
         <text>ring-list-item-selected</text>
@@ -2454,9 +2454,9 @@
       </register>
     </registers>
     <search>
-      <last-search>selected</last-search>
+      <last-search>ring-ui</last-search>
       <last-offset />
-      <last-pattern>selected</last-pattern>
+      <last-pattern>ring-ui</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>);$</last-substitute>
       <last-dir>1</last-dir>
@@ -2464,7 +2464,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZWxlY3RcPg==</entry>
         <entry encoding="base64">XDxzZWxlY3RJbnN0YW5jZVw+</entry>
         <entry>line</entry>
         <entry encoding="base64">XDxsYXp5U2VsZWN0XD4=</entry>
@@ -2484,6 +2483,7 @@
         <entry>attr</entry>
         <entry encoding="base64">XDxkYXRhVGVzdFw+</entry>
         <entry>selected</entry>
+        <entry>ring-ui</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;\(Spb Times\)&quot;/&quot;${Location.SpbTimes}&quot;/gc</entry>
