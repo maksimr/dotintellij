@@ -49,8 +49,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/externals/header/template/issues-menu-create-button.html" timestamp="1529957858393">
         <mark key="'" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1531474250453">
-        <mark key="'" line="8" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1531496243404">
+        <mark key="'" line="201" column="0" />
         <mark key="[" line="42" column="40" />
         <mark key="]" line="42" column="41" />
         <mark key="." line="42" column="41" />
@@ -322,12 +322,12 @@
         <mark key="^" line="14" column="33" />
         <mark key="." line="14" column="33" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/list/list__item.js" timestamp="1531492581730">
+      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/list/list__item.js" timestamp="1531496029033">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="111" column="4" />
-        <mark key="]" line="111" column="8" />
-        <mark key="." line="111" column="8" />
-        <mark key="^" line="111" column="8" />
+        <mark key="[" line="165" column="22" />
+        <mark key="]" line="165" column="13" />
+        <mark key="." line="165" column="13" />
+        <mark key="^" line="165" column="13" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-similar-issues.js" timestamp="1527586881371">
         <mark key="'" line="4" column="14" />
@@ -2296,8 +2296,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng__lazy.js" />
-      <jump line="30" column="4" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng__lazy.test.js" />
       <jump line="60" column="4" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng__lazy.js" />
       <jump line="7" column="38" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng__lazy.js" />
       <jump line="11" column="16" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng__lazy.js" />
@@ -2396,13 +2394,15 @@
       <jump line="90" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list__item.js" />
       <jump line="184" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list__item.js" />
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/list/list__item.js" />
+      <jump line="42" column="40" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="201" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
     </jumps>
     <registers>
       <register name="a" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN5bmMtYm90dG9tPSJ5dC1mb290ZXI7LTQwIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN5bmMtYm90dG9tPSJ5dC1mb290ZXI7LTQwIgogICAgICAgICAgICAgIDxkaXYK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>.only</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2Cg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -2417,37 +2417,37 @@
         <text>ring-list-item-selected</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmICghZGlzYWJsZWQpIHsKICAgICAgZGF0YVRlc3QgKz0gJyByaW5nLWxpc3QtaXRlbS1hY3Rpb24nOwogICAgfQogICAgaWYgKGNoZWNrYm94KSB7CiAgICAgIGRhdGFUZXN0ICs9ICcgcmluZy1saXN0LWl0ZW0tc2VsZWN0ZWQnOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGFUZXN0cyBmcm9tICcuLi9nbG9iYWwvZGF0YS10ZXN0cyc7Cg==</text>
+        <text encoding="base64">ICAgIGlmICghZGlzYWJsZWQpIHsKICAgICAgZGF0YVRlc3QgKz0gJyByaW5nLWxpc3QtaXRlbS1hY3Rpb24nOwogICAgfQogICAgaWYgKGNoZWNrYm94KSB7CiAgICAgIGRhdGFUZXN0ICs9ICcgcmluZy1saXN0LWl0ZW0tc2VsZWN0ZWQnOwogICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRhdGFUZXN0cwo=</text>
+        <text encoding="base64">aW1wb3J0IGRhdGFUZXN0cyBmcm9tICcuLi9nbG9iYWwvZGF0YS10ZXN0cyc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGFUZXN0cyBmcm9tICcuL2RhdGEtdGVzdHMnOwo=</text>
+        <text encoding="base64">ICAgIGRhdGFUZXN0cwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGRhdGFUZXN0cyBmcm9tICcuL2RhdGEtdGVzdHMnOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBzaGFsbG93TGlzdEl0ZW0oe2NoZWNrYm94OiBmYWxzZX0pLnNob3VsZC4KICAgICAgbWF0Y2goJ2RpdltkYXRhLXRlc3Q9InJpbmctbGlzdC1pdGVtIHJpbmctbGlzdC1pdGVtLWFjdGlvbiJdJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHtDaGVja21hcmtJY29ufSBmcm9tICcuLi9pY29uJzsK</text>
+        <text encoding="base64">CiAgICBzaGFsbG93TGlzdEl0ZW0oe2NoZWNrYm94OiBmYWxzZX0pLnNob3VsZC4KICAgICAgbWF0Y2goJ2RpdltkYXRhLXRlc3Q9InJpbmctbGlzdC1pdGVtIHJpbmctbGlzdC1pdGVtLWFjdGlvbiJdJyk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtDaGVja21hcmtJY29ufSBmcm9tICcuLi9pY29uJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaGF2ZS5jbGFzc05hbWUoJ3Rlc3QtY2xhc3MnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
