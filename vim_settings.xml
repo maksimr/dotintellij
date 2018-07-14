@@ -1376,8 +1376,11 @@
         <mark key="." line="4" column="38" />
         <mark key="^" line="4" column="38" />
       </file>
-      <file name="$USER_HOME$/www/dart/foo/lib/main.dart" timestamp="1531573258322">
+      <file name="$USER_HOME$/www/dart/foo/lib/main.dart" timestamp="1531574936675">
         <mark key="'" line="108" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/attachments/service/upload-attachments-to.js" timestamp="1529875755370">
         <mark key="'" line="5" column="8" />
@@ -2398,11 +2401,11 @@
       <jump line="70" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="2" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="60" column="10" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
-      <jump line="4" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="71" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="3" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
-      <jump line="12" column="9" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="0" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="12" column="7" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="4" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="108" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
     </jumps>
     <registers>
@@ -2410,13 +2413,13 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN5bmMtYm90dG9tPSJ5dC1mb290ZXI7LTQwIgogICAgICAgICAgICAgIDxkaXYK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>.only</text>
+        <text encoding="base64">bmV3IA==</text>
       </register>
       <register name="/" type="4">
         <text>data-test</text>
@@ -2425,37 +2428,37 @@
         <text>ring-list-item-selected</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmICghZGlzYWJsZWQpIHsKICAgICAgZGF0YVRlc3QgKz0gJyByaW5nLWxpc3QtaXRlbS1hY3Rpb24nOwogICAgfQogICAgaWYgKGNoZWNrYm94KSB7CiAgICAgIGRhdGFUZXN0ICs9ICcgcmluZy1saXN0LWl0ZW0tc2VsZWN0ZWQnOwogICAgfQo=</text>
+        <text encoding="base64">Y29uc3QgY291bnRlclN0cmVhbSA9IFN0cmVhbUJ1aWxkZXIoYnVpbGRlcjogKF8pID0+IG51bGwsIDApOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGFUZXN0cyBmcm9tICcuLi9nbG9iYWwvZGF0YS10ZXN0cyc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRhdGFUZXN0cwo=</text>
+        <text encoding="base64">ICAgIGlmICghZGlzYWJsZWQpIHsKICAgICAgZGF0YVRlc3QgKz0gJyByaW5nLWxpc3QtaXRlbS1hY3Rpb24nOwogICAgfQogICAgaWYgKGNoZWNrYm94KSB7CiAgICAgIGRhdGFUZXN0ICs9ICcgcmluZy1saXN0LWl0ZW0tc2VsZWN0ZWQnOwogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGFUZXN0cyBmcm9tICcuL2RhdGEtdGVzdHMnOwo=</text>
+        <text encoding="base64">aW1wb3J0IGRhdGFUZXN0cyBmcm9tICcuLi9nbG9iYWwvZGF0YS10ZXN0cyc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRhdGFUZXN0cwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBzaGFsbG93TGlzdEl0ZW0oe2NoZWNrYm94OiBmYWxzZX0pLnNob3VsZC4KICAgICAgbWF0Y2goJ2RpdltkYXRhLXRlc3Q9InJpbmctbGlzdC1pdGVtIHJpbmctbGlzdC1pdGVtLWFjdGlvbiJdJyk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGRhdGFUZXN0cyBmcm9tICcuL2RhdGEtdGVzdHMnOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHtDaGVja21hcmtJY29ufSBmcm9tICcuLi9pY29uJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBzaGFsbG93TGlzdEl0ZW0oe2NoZWNrYm94OiBmYWxzZX0pLnNob3VsZC4KICAgICAgbWF0Y2goJ2RpdltkYXRhLXRlc3Q9InJpbmctbGlzdC1pdGVtIHJpbmctbGlzdC1pdGVtLWFjdGlvbiJdJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
