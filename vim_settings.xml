@@ -1385,12 +1385,12 @@
         <mark key="." line="4" column="38" />
         <mark key="^" line="4" column="38" />
       </file>
-      <file name="$USER_HOME$/www/dart/foo/lib/main.dart" timestamp="1531674719384">
-        <mark key="'" line="15" column="31" />
-        <mark key="[" line="58" column="42" />
-        <mark key="]" line="58" column="49" />
-        <mark key="." line="58" column="49" />
-        <mark key="^" line="58" column="49" />
+      <file name="$USER_HOME$/www/dart/foo/lib/main.dart" timestamp="1531691700029">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="56" column="49" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/attachments/service/upload-attachments-to.js" timestamp="1529875755370">
         <mark key="'" line="5" column="8" />
@@ -2323,9 +2323,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="338" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/webpack-share.js" />
-      <jump line="74" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" />
-      <jump line="64" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" />
       <jump line="5" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" />
       <jump line="65" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" />
       <jump line="69" column="3" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/wallaby.js" />
@@ -2408,13 +2405,10 @@
       <jump line="80" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="4" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="85" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
-      <jump line="1" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="8" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="3" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="86" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="16" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
-      <jump line="2" column="11" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="6" column="6" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="29" column="34" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="40" column="36" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
@@ -2423,13 +2417,19 @@
       <jump line="13" column="7" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="22" column="26" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="15" column="31" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="59" column="49" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="47" column="15" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="67" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN5bmMtYm90dG9tPSJ5dC1mb290ZXI7LTQwIgogICAgICAgICAgICAgIDxkaXYK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -2444,37 +2444,37 @@
         <text encoding="base64">ICBmaW5hbCBIdHRwQ2xpZW50UmVxdWVzdCByZXEgPSBhd2FpdCBIdHRwQ2xpZW50KCkKICAgICAgLmdldFVybChVcmkucGFyc2UoImh0dHBzOi8vdmMubGFicy5pbnRlbGxpai5uZXQvYXBpL3Jlc3QvZ2V0Um9vbXMiKSk7CiAgZmluYWwgSHR0cENsaWVudFJlc3BvbnNlIHJlcyA9IGF3YWl0IHJlcS5jbG9zZSgpOwogIHJldHVybiBqc29uRGVjb2RlKGF3YWl0IHJlcy50cmFuc2Zvcm0odXRmOC5kZWNvZGVyKS5qb2luKCIiKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjbGkK</text>
+        <text encoding="base64">aW1wb3J0ICdkYXJ0OmFzeW5jJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGNvbG9yOiBDb2xvcnMucmVkLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBmaW5hbCBIdHRwQ2xpZW50UmVxdWVzdCByZXEgPSBhd2FpdCBIdHRwQ2xpZW50KCkKICAgICAgLmdldFVybChVcmkucGFyc2UoImh0dHBzOi8vdmMubGFicy5pbnRlbGxpai5uZXQvYXBpL3Jlc3QvZ2V0Um9vbXMiKSk7CiAgZmluYWwgSHR0cENsaWVudFJlc3BvbnNlIHJlcyA9IGF3YWl0IHJlcS5jbG9zZSgpOwogIHJldHVybiBqc29uRGVjb2RlKGF3YWl0IHJlcy50cmFuc2Zvcm0odXRmOC5kZWNvZGVyKS5qb2luKCIiKSk7Cg==</text>
+        <text encoding="base64">ICBjbGkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGNvbG9yOiBDb2xvcnMucmVkLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBmaW5hbCBIdHRwQ2xpZW50UmVxdWVzdCByZXEgPSBhd2FpdCBIdHRwQ2xpZW50KCkKICAgICAgLmdldFVybChVcmkucGFyc2UoImh0dHBzOi8vdmMubGFicy5pbnRlbGxpai5uZXQvYXBpL3Jlc3QvZ2V0Um9vbXMiKSk7CiAgZmluYWwgSHR0cENsaWVudFJlc3BvbnNlIHJlcyA9IGF3YWl0IHJlcS5jbG9zZSgpOwogIHJldHVybiBqc29uRGVjb2RlKGF3YWl0IHJlcy50cmFuc2Zvcm0odXRmOC5kZWNvZGVyKS5qb2luKCIiKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Z2V0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbG9yOiBDb2xvcnMucmVkLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z2V0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
