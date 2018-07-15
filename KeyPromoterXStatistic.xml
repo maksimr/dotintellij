@@ -1,6 +1,14 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
+      <Statistic Action="Activate Armory">
+        <Item>
+          <IdeaActionID>armory.activateArmory</IdeaActionID>
+          <ShortCut>'⌃⏎' or '⌧' or 'Begin'</ShortCut>
+          <Description>Activate Armory</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Close">
         <Item>
           <IdeaActionID>armory.box.DeleteTree</IdeaActionID>
