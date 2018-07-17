@@ -408,8 +408,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/scripts/yt-script-list.js" timestamp="1530523542757">
         <mark key="'" line="155" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/custom-fields/custom-field-prototype-table.html" timestamp="1530016442292">
-        <mark key="'" line="142" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/custom-fields/custom-field-prototype-table.html" timestamp="1531815068006">
+        <mark key="'" line="37" column="14" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue-custom-fields/template/dropdown-issue-custom-field-simple.html" timestamp="1531657616172">
         <mark key="'" line="77" column="0" />
@@ -717,7 +717,7 @@
         <mark key="." line="8" column="7" />
         <mark key="^" line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/navigation/directive/yt-navigation-item.js" timestamp="1531813711970">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/navigation/directive/yt-navigation-item.js" timestamp="1531815013599">
         <mark key="'" line="113" column="2" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="34" />
@@ -2382,10 +2382,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng.js" />
-      <jump line="88" column="80" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng.js" />
-      <jump line="115" column="6" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng.js" />
-      <jump line="561" column="11" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng.test.js" />
       <jump line="563" column="11" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng.test.js" />
       <jump line="73" column="44" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng.test.js" />
       <jump line="74" column="12" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng.test.js" />
@@ -2481,7 +2477,11 @@
       <jump line="546" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select-ng/select-ng.js" />
       <jump line="104" column="29" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/navigation/directive/yt-navigation-item.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/navigation/directive/yt-navigation-item.js" />
+      <jump line="6" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/navigation/directive/yt-navigation-item.js" />
       <jump line="113" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/navigation/directive/yt-navigation-item.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/custom-fields/custom-field-prototype-table.html" />
+      <jump line="38" column="92" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/custom-fields/custom-field-prototype-table.html" />
+      <jump line="37" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/custom-fields/custom-field-prototype-table.html" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -2497,7 +2497,7 @@
         <text>ctrl.</text>
       </register>
       <register name="/" type="4">
-        <text>createDefault</text>
+        <text>badge</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjdHJsLmRlZmF1bHRDb25maWcgPSB7CiAgICAgICAgICBsYWJlbDogY3RybC5sYWJlbCB8fCBSaW5nTWVzc2FnZUJ1bmRsZS5zZWxlY3RfbGFiZWwoKSwKICAgICAgICAgIHNlbGVjdGVkTGFiZWw6IGN0cmwuc2VsZWN0ZWRMYWJlbCwKICAgICAgICAgIGFsbG93QW55OiBnZXRUeXBlKCkgPT09ICdzdWdnZXN0JywKICAgICAgICAgIGhpZGVBcnJvdzogZ2V0VHlwZSgpID09PSAnc3VnZ2VzdCcsCiAgICAgICAgICBmaWx0ZXI6IGN0cmwuZmlsdGVyLAogICAgICAgICAgdGFnczogY3RybC50YWdzLAogICAgICAgICAgbXVsdGlwbGU6IGN0cmwubXVsdGlwbGUsCiAgICAgICAgICBwb3B1cENsYXNzTmFtZTogJGF0dHJzLnBvcHVwQ2xhc3MsCiAgICAgICAgICBjbGVhcjogY3RybC5jbGVhciwKICAgICAgICAgIHJpbmdQb3B1cFRhcmdldDogaXNJbkRpYWxvZygpID8gJ2RpYWxvZy1uZy1wb3B1cC1jb250YWluZXInIDogbnVsbCwKICAgICAgICAgIHJlbmRlck9wdGltaXphdGlvbjogZ2V0VHlwZSgpICE9PSAnZHJvcGRvd24nLAogICAgICAgICAgdHlwZTogZ2V0U2VsZWN0VHlwZSgpLAogICAgICAgICAgbG9hZGluZ01lc3NhZ2U6IGN0cmwubG9hZGluZ01lc3NhZ2UgfHwgUmluZ01lc3NhZ2VCdW5kbGUuc2VsZWN0X2xvYWRpbmcoKSwKICAgICAgICAgIG5vdEZvdW5kTWVzc2FnZTogY3RybC5ub3RGb3VuZE1lc3NhZ2UgfHwgUmluZ01lc3NhZ2VCdW5kbGUuc2VsZWN0X29wdGlvbnNfbm90X2ZvdW5kKCksCiAgICAgICAgICB0YXJnZXRFbGVtZW50OiBnZXRUeXBlKCkgPT09ICdkcm9wZG93bicgPyBlbGVtZW50IDogbnVsbCwKICAgICAgICAgIHNpemU6IGdldFNlbGVjdFNpemUoKSwKICAgICAgICAgIG9uQmVmb3JlT3BlbjogKCkgPT4gewogICAgICAgICAgICByZXNldE1lbW9yaXplZE9wdGlvbnMoKTsKICAgICAgICAgICAgY3RybC5sb2FkT3B0aW9uc1RvU2VsZWN0KGN0cmwucXVlcnkpOwogICAgICAgICAgICAkc2NvcGUuJGV2YWxBc3luYygoKSA9PiB7fSk7CiAgICAgICAgICB9LAogICAgICAgICAgb25PcGVuOiAoKSA9PiB7CiAgICAgICAgICAgICRzY29wZS4kZXZhbEFzeW5jKCgpID0+IHsKICAgICAgICAgICAgICBjdHJsLm9uT3BlbigpOwogICAgICAgICAgICB9KTsKICAgICAgICAgIH0sCiAgICAgICAgICBvbkNsb3NlOiAoKSA9PiB7CiAgICAgICAgICAgIGN0cmwucXVlcnkgPSBudWxsOwogICAgICAgICAgICAkc2NvcGUuJGV2YWxBc3luYygoKSA9PiB7CiAgICAgICAgICAgICAgY3RybC5vbkNsb3NlKCk7CiAgICAgICAgICAgIH0pOwogICAgICAgICAgfSwKICAgICAgICAgIG9uU2VsZWN0OiAoc2VsZWN0ZWQsIGV2ZW50KSA9PiB7CiAgICAgICAgICAgICRzY29wZS4kZXZhbEFzeW5jKCgpID0+IHsKICAgICAgICAgICAgICBjdHJsLm9uU2VsZWN0KHtzZWxlY3RlZCwgZXZlbnR9KTsKICAgICAgICAgICAgfSk7CiAgICAgICAgICB9LAogICAgICAgICAgb25EZXNlbGVjdDogKGRlc2VsZWN0ZWQsIGV2ZW50KSA9PiB7CiAgICAgICAgICAgICRzY29wZS4kZXZhbEFzeW5jKCgpID0+IHsKICAgICAgICAgICAgICBjdHJsLm9uRGVzZWxlY3Qoe2Rlc2VsZWN0ZWQsIGV2ZW50fSk7CiAgICAgICAgICAgIH0pOwogICAgICAgICAgfSwKICAgICAgICAgIG9uQ2hhbmdlOiAoc2VsZWN0ZWQsIGV2ZW50KSA9PiB7CiAgICAgICAgICAgIGN0cmwuc3luY1NlbGVjdFRvTmdNb2RlbChzZWxlY3RlZCk7CgogICAgICAgICAgICAkc2NvcGUuJGV2YWxBc3luYygoKSA9PiB7CiAgICAgICAgICAgICAgY3RybC5vbkNoYW5nZSh7c2VsZWN0ZWQsIGV2ZW50fSk7CiAgICAgICAgICAgIH0pOwogICAgICAgICAgfSwKICAgICAgICAgIG9uRmlsdGVyOiBxdWVyeSA9PiB7CiAgICAgICAgICAgICRzY29wZS4kZXZhbEFzeW5jKCgpID0+IHsKICAgICAgICAgICAgICBjdHJsLnF1ZXJ5ID0gcXVlcnk7CiAgICAgICAgICAgICAgaWYgKGN0cmwuZXh0ZXJuYWxGaWx0ZXIpIHsKICAgICAgICAgICAgICAgIGN0cmwubG9hZE9wdGlvbnNUb1NlbGVjdChxdWVyeSk7CiAgICAgICAgICAgICAgfQogICAgICAgICAgICAgIGlmIChjdHJsLm9uRmlsdGVyKSB7CiAgICAgICAgICAgICAgICBjdHJsLm9uRmlsdGVyKHF1ZXJ5KTsKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwogICAgICAgICAgfQogICAgICAgIH07CgogICAgICAgIGlmIChpbmZpbml0ZVNjcm9sbFBhY2tTaXplKSB7CiAgICAgICAgICBjdHJsLmRlZmF1bHRDb25maWcub25Mb2FkTW9yZSA9ICgpID0+IHsKICAgICAgICAgICAgaWYgKGluUHJvY2Vzc1F1ZXJpZXMgPT09IDApIHsKICAgICAgICAgICAgICAkc2NvcGUuJGV2YWxBc3luYygoKSA9PiB7CiAgICAgICAgICAgICAgICBjdHJsLmxvYWRPcHRpb25zVG9TZWxlY3QoY3RybC5xdWVyeSk7CiAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIH0KICAgICAgICAgIH07CiAgICAgICAgfQo=</text>
@@ -2540,9 +2540,9 @@
       </register>
     </registers>
     <search>
-      <last-search>createDefault</last-search>
+      <last-search>badge</last-search>
       <last-offset />
-      <last-pattern>createDefault</last-pattern>
+      <last-pattern>badge</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>);$</last-substitute>
       <last-dir>1</last-dir>
@@ -2550,7 +2550,6 @@
     </search>
     <history>
       <history-search>
-        <entry>reiniti</entry>
         <entry encoding="base64">XDxpbml0aWFsaXplUmVhY3RTZWxlY3RcPg==</entry>
         <entry>$onDestroy</entry>
         <entry encoding="base64">XDxkZWZhdWx0Q29uZmlnXD4=</entry>
@@ -2570,6 +2569,7 @@
         <entry>cleanup</entry>
         <entry>default</entry>
         <entry>createDefault</entry>
+        <entry>badge</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;\(Novosibirsk\)&quot;/&quot;${Location.\1}&quot;/gc</entry>
