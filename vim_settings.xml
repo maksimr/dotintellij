@@ -514,8 +514,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/icon.js" timestamp="1531658785855">
         <mark key="'" line="57" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/button-ng/button-ng.js" timestamp="1531906235852">
-        <mark key="'" line="88" column="34" />
+      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/button-ng/button-ng.js" timestamp="1531908335722">
+        <mark key="'" line="109" column="77" />
         <mark key="[" line="57" column="39" />
         <mark key="]" line="57" column="39" />
         <mark key="." line="57" column="44" />
@@ -732,8 +732,12 @@
         <mark key="." line="40" column="64" />
         <mark key="^" line="40" column="64" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/button-ng/button-ng.test.js" timestamp="1531902493267">
-        <mark key="'" line="50" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/button-ng/button-ng.test.js" timestamp="1531908475049">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="52" column="47" />
+        <mark key="]" line="52" column="45" />
+        <mark key="." line="52" column="45" />
+        <mark key="^" line="52" column="45" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-attachments.js" timestamp="1529313905659">
         <mark key="'" line="99" column="2" />
@@ -2458,13 +2462,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="4" filename="$USER_HOME$/www/jetbrains/ring-ui/components/button/button.css" />
-      <jump line="239" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/button/button.css" />
-      <jump line="309" column="1" filename="$USER_HOME$/www/jetbrains/ring-ui/components/button/button.css" />
-      <jump line="322" column="22" filename="$USER_HOME$/www/jetbrains/ring-ui/components/button/button.css" />
-      <jump line="323" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/button/button.css" />
-      <jump line="324" column="9" filename="$USER_HOME$/www/jetbrains/ring-ui/components/button/button.css" />
-      <jump line="332" column="5" filename="$USER_HOME$/www/jetbrains/ring-ui/components/button/button.css" />
       <jump line="341" column="5" filename="$USER_HOME$/www/jetbrains/ring-ui/components/button/button.css" />
       <jump line="342" column="11" filename="$USER_HOME$/www/jetbrains/ring-ui/components/button/button.css" />
       <jump line="346" column="20" filename="$USER_HOME$/www/jetbrains/ring-ui/components/button/button.css" />
@@ -2491,8 +2488,6 @@
       <jump line="94" column="29" filename="$USER_HOME$/www/jetbrains/ring-ui/components/button-ng/button-ng.js" />
       <jump line="86" column="21" filename="$USER_HOME$/www/jetbrains/ring-ui/components/button-ng/button-ng.js" />
       <jump line="108" column="30" filename="$USER_HOME$/www/jetbrains/ring-ui/components/button-ng/button-ng.js" />
-      <jump line="85" column="21" filename="$USER_HOME$/www/jetbrains/ring-ui/components/button-ng/button-ng.js" />
-      <jump line="109" column="49" filename="$USER_HOME$/www/jetbrains/ring-ui/components/button-ng/button-ng.js" />
       <jump line="114" column="9" filename="$USER_HOME$/www/jetbrains/ring-ui/components/button-ng/button-ng.js" />
       <jump line="39" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/button-ng/button-ng.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/node_modules/classnames/index.js" />
@@ -2558,25 +2553,34 @@
       <jump line="88" column="34" filename="$USER_HOME$/www/jetbrains/ring-ui/components/button-ng/button-ng.js" />
       <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/navigation/directive/yt-navigation.js" />
       <jump line="100" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/navigation/directive/yt-navigation-item.js" />
+      <jump line="97" column="8" filename="$USER_HOME$/www/jetbrains/ring-ui/components/button-ng/button-ng.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/button-ng/button-ng.js" />
+      <jump line="142" column="46" filename="$USER_HOME$/www/jetbrains/ring-ui/components/button-ng/button-ng.js" />
+      <jump line="157" column="4" filename="$USER_HOME$/www/jetbrains/ring-ui/components/button-ng/button-ng.js" />
+      <jump line="158" column="4" filename="$USER_HOME$/www/jetbrains/ring-ui/components/button-ng/button-ng.js" />
+      <jump line="85" column="21" filename="$USER_HOME$/www/jetbrains/ring-ui/components/button-ng/button-ng.js" />
+      <jump line="109" column="77" filename="$USER_HOME$/www/jetbrains/ring-ui/components/button-ng/button-ng.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/button-ng/button-ng.test.js" />
+      <jump line="45" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/button-ng/button-ng.test.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN5bmMtYm90dG9tPSJ5dC1mb290ZXI7LTQwIgogICAgICAgICAgICAgIDxkaXYK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJlcXVpcmU6IHsKICAgICAgbmF2aWdhdGlvbkN0cmw6ICdeeXROYXZpZ2F0aW9uJwogICAgfSwK</text>
+      <register name="&quot;" type="4">
+        <text>loader=&quot;loader&quot; active=&quot;active&quot;</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>narrow-right=&quot;true&quot;</text>
+        <text>loader=&quot;loader&quot; active=&quot;active&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>ctrl</text>
+        <text>mode</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlcXVpcmU6IHsKICAgICAgbmF2aWdhdGlvbkN0cmw6ICdeeXROYXZpZ2F0aW9uJwo=</text>
+        <text encoding="base64">ICBmdW5jdGlvbiByZW5kZXJCdXR0b24oc2NvcGUgPSAkcm9vdFNjb3BlLiRuZXcoKSkgewogICAgY29uc3QgaUVsZW1lbnQgPSAkY29tcGlsZSgnPHJnLWJ1dHRvbiBsb2FkZXI9ImxvYWRlciIgYWN0aXZlPSJhY3RpdmUiPkE8L3JnLWJ1dHRvbj4nKShzY29wZSk7CiAgICBzY29wZS4kZGlnZXN0KCk7CiAgICByZXR1cm4gaUVsZW1lbnRbMF07CiAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIG9uVGFwOiAoZGF0ZSkgPT4gcHJpbnQoZGF0ZSksCg==</text>
@@ -2616,9 +2620,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ctrl</last-search>
+      <last-search>mode</last-search>
       <last-offset />
-      <last-pattern>ctrl</last-pattern>
+      <last-pattern>mode</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>);$</last-substitute>
       <last-dir>1</last-dir>
@@ -2626,7 +2630,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDwnXD4=</entry>
         <entry>dark-grey</entry>
         <entry>dark-gray</entry>
         <entry>dark</entry>
@@ -2634,7 +2637,6 @@
         <entry>primary</entry>
         <entry>prim</entry>
         <entry encoding="base64">XDxyaW5nSWNvbkRlZmF1bHRDb2xvclw+</entry>
-        <entry>mode</entry>
         <entry>error</entry>
         <entry encoding="base64">XDxpbXBvcnRcPg==</entry>
         <entry>color</entry>
@@ -2646,6 +2648,8 @@
         <entry>updateTheme</entry>
         <entry encoding="base64">XDx1cGRhdGVUaGVtZVw+</entry>
         <entry>ctrl</entry>
+        <entry>template</entry>
+        <entry>mode</entry>
       </history-search>
       <history-cmd>
         <entry>%s/&quot;\(Novosibirsk\)&quot;/&quot;${Location.\1}&quot;/gc</entry>
