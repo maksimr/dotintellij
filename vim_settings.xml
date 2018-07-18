@@ -732,12 +732,12 @@
         <mark key="." line="40" column="64" />
         <mark key="^" line="40" column="64" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/button-ng/button-ng.test.js" timestamp="1531908475049">
-        <mark key="'" line="45" column="0" />
-        <mark key="[" line="52" column="47" />
-        <mark key="]" line="52" column="45" />
-        <mark key="." line="52" column="45" />
-        <mark key="^" line="52" column="45" />
+      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/button-ng/button-ng.test.js" timestamp="1531910231983">
+        <mark key="'" line="59" column="0" />
+        <mark key="[" line="25" column="51" />
+        <mark key="]" line="25" column="51" />
+        <mark key="^" line="25" column="51" />
+        <mark key="." line="25" column="51" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-attachments.js" timestamp="1529313905659">
         <mark key="'" line="99" column="2" />
@@ -2462,9 +2462,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="341" column="5" filename="$USER_HOME$/www/jetbrains/ring-ui/components/button/button.css" />
-      <jump line="342" column="11" filename="$USER_HOME$/www/jetbrains/ring-ui/components/button/button.css" />
-      <jump line="346" column="20" filename="$USER_HOME$/www/jetbrains/ring-ui/components/button/button.css" />
       <jump line="25" column="15" filename="$USER_HOME$/www/jetbrains/ring-ui/components/button/button.css" />
       <jump line="26" column="11" filename="$USER_HOME$/www/jetbrains/ring-ui/components/button/button.css" />
       <jump line="131" column="15" filename="$USER_HOME$/www/jetbrains/ring-ui/components/button/button.css" />
@@ -2562,58 +2559,61 @@
       <jump line="109" column="77" filename="$USER_HOME$/www/jetbrains/ring-ui/components/button-ng/button-ng.js" />
       <jump line="21" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/button-ng/button-ng.test.js" />
       <jump line="45" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/button-ng/button-ng.test.js" />
+      <jump line="40" column="19" filename="$USER_HOME$/www/jetbrains/ring-ui/components/button-ng/button-ng.test.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/button-ng/button-ng.test.js" />
+      <jump line="55" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/button-ng/button-ng.test.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN5bmMtYm90dG9tPSJ5dC1mb290ZXI7LTQwIgogICAgICAgICAgICAgIDxkaXYK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>loader=&quot;loader&quot; active=&quot;active&quot;</text>
+        <text>button</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>loader=&quot;loader&quot; active=&quot;active&quot;</text>
+        <text>button</text>
       </register>
       <register name="/" type="4">
         <text>mode</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBmdW5jdGlvbiByZW5kZXJCdXR0b24oc2NvcGUgPSAkcm9vdFNjb3BlLiRuZXcoKSkgewogICAgY29uc3QgaUVsZW1lbnQgPSAkY29tcGlsZSgnPHJnLWJ1dHRvbiBsb2FkZXI9ImxvYWRlciIgYWN0aXZlPSJhY3RpdmUiPkE8L3JnLWJ1dHRvbj4nKShzY29wZSk7CiAgICBzY29wZS4kZGlnZXN0KCk7CiAgICByZXR1cm4gaUVsZW1lbnRbMF07CiAgfQo=</text>
+        <text encoding="base64">CgogIGl0KCdzaG91bGQgcmVuZGVyIGJ1dHRvbicsICgpID0+IHsKICAgIGNvbnN0IGVsZW1lbnQgPSByZW5kZXJCdXR0b24oKTsKICAgIGVsZW1lbnQudGFnTmFtZS50b0xvd2VyQ2FzZSgpLnNob3VsZC5iZS5lcXVhbCgnYnV0dG9uJyk7CiAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9uVGFwOiAoZGF0ZSkgPT4gcHJpbnQoZGF0ZSksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIGRhdGUgPSBEYXRlVGltZS5ub3coKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRlOiBkYXRlLAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBmaW5hbCBEYXRlVGltZSBkYXRlOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIG9uVGFwOiAoZGF0ZSkgPT4gcHJpbnQoZGF0ZSksCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGZpbmFsIGRhdGUgPSBEYXRlVGltZS5ub3coKTsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBkYXRlOiBkYXRlLAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIF9zaG9ydFdlZWtkYXlzID0gWwogICAgICAnTU9OJywKICAgICAgJ1RVRScsCiAgICAgICdXRUQnLAogICAgICAnVEhVJywKICAgICAgJ0ZSSScsCiAgICAgICdTQVQnLAogICAgICAnU1VUJywKICAgIF07Cg==</text>
+        <text encoding="base64">ICBmaW5hbCBEYXRlVGltZSBkYXRlOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgc3RhdGljIGNvbnN0IExpc3Q8U3RyaW5nPiBfc2hvcnRXZWVrZGF5cyA9IGNvbnN0IDxTdHJpbmc+WwogICAgJ01vbicsCiAgICAnVHVlJywKICAgICdXZWQnLAogICAgJ1RodScsCiAgICAnRnJpJywKICAgICdTYXQnLAogICAgJ1N1bicsCiAgXTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CnN0YXRpYyBjb25zdCBMaXN0PFN0cmluZz4gX3Nob3J0V2Vla2RheXMgPSBjb25zdCA8U3RyaW5nPlsKICAnTW9uJywKICAnVHVlJywKICAnV2VkJywKICAnVGh1JywKICAnRnJpJywKICAnU2F0JywKICAnU3VuJywKXTsK</text>
+        <text encoding="base64">ICAgIGZpbmFsIF9zaG9ydFdlZWtkYXlzID0gWwogICAgICAnTU9OJywKICAgICAgJ1RVRScsCiAgICAgICdXRUQnLAogICAgICAnVEhVJywKICAgICAgJ0ZSSScsCiAgICAgICdTQVQnLAogICAgICAnU1VUJywKICAgIF07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgRGF0ZUZvcm1hdC5FKCkuZm9ybWF0KERhdGVUaW1lLmZyb21NaWxsaXNlY29uZHNTaW5jZUVwb2NoKDApKSwK</text>
+        <text encoding="base64">CiAgc3RhdGljIGNvbnN0IExpc3Q8U3RyaW5nPiBfc2hvcnRXZWVrZGF5cyA9IGNvbnN0IDxTdHJpbmc+WwogICAgJ01vbicsCiAgICAnVHVlJywKICAgICdXZWQnLAogICAgJ1RodScsCiAgICAnRnJpJywKICAgICdTYXQnLAogICAgJ1N1bicsCiAgXTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
