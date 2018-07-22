@@ -447,6 +447,10 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/loader/directive/yt-loader.js" timestamp="1529399501903">
         <mark key="'" line="10" column="14" />
       </file>
+      <file name="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/rendering/view.dart" timestamp="1532211247962">
+        <mark key="[" line="124" column="0" />
+        <mark key="]" line="125" column="3" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" timestamp="1531214055186">
         <mark key="'" line="323" column="0" />
       </file>
@@ -1665,6 +1669,9 @@
         <mark key="." line="410" column="4" />
         <mark key="^" line="410" column="4" />
       </file>
+      <file name="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/binding.dart" timestamp="1532211557795">
+        <mark key="'" line="647" column="35" />
+      </file>
       <file name="$USER_HOME$/www/dart/foo/lib/q/q.dart" timestamp="1527116147362">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="5" column="30" />
@@ -2566,9 +2573,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="28" filename="$USER_HOME$/www/dart/jetbooking/lib/main.dart" />
-      <jump line="95" column="2" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/material/app.dart" />
-      <jump line="114" column="9" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/material/app.dart" />
       <jump line="123" column="17" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/material/app.dart" />
       <jump line="133" column="10" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/material/app.dart" />
       <jump line="139" column="38" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/material/app.dart" />
@@ -2666,13 +2670,16 @@
       <jump line="3505" column="7" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/framework.dart" />
       <jump line="3494" column="4" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/framework.dart" />
       <jump line="4250" column="19" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/framework.dart" />
+      <jump line="657" column="4" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/binding.dart" />
+      <jump line="648" column="10" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/binding.dart" />
+      <jump line="647" column="35" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/binding.dart" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN5bmMtYm90dG9tPSJ5dC1mb290ZXI7LTQwIgogICAgICAgICAgICAgIDxkaXYK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZvciAodmFyIHZhbHVlIGluIGZvbykgewogICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgY2hpbGQubGF5b3V0KG5ldyBCb3hDb25zdHJhaW50cy50aWdodChfc2l6ZSkpOwogIH0K</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -2681,10 +2688,10 @@
         <text encoding="base64">bG9nIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwZXJmb3JtUmVidWlsZFw+</text>
+        <text encoding="base64">XDxfcmVuZGVyVmlld0VsZW1lbnRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>expect().toHaveBeenCalled()</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgY2hpbGQubGF5b3V0KG5ldyBCb3hDb25zdHJhaW50cy50aWdodChfc2l6ZSkpOwogIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGZvciAodmFyIHZhbHVlIGluIGZvbykgewogICAgICAKICAgIH0K</text>
@@ -2724,9 +2731,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwZXJmb3JtUmVidWlsZFw+</last-search>
+      <last-search encoding="base64">XDxfcmVuZGVyVmlld0VsZW1lbnRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwZXJmb3JtUmVidWlsZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxfcmVuZGVyVmlld0VsZW1lbnRcPg==</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>);$</last-substitute>
       <last-dir>-1</last-dir>
@@ -2734,7 +2741,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjaGlsZHJlblw+</entry>
         <entry>AccordionPane</entry>
         <entry encoding="base64">XDxFeHBhbmRBY2NvcmRpb25QYW5lTm90aWZpY2F0aW9uXD4=</entry>
         <entry>_State</entry>
@@ -2754,6 +2760,7 @@
         <entry>Equal</entry>
         <entry>toEqual</entry>
         <entry encoding="base64">XDxwZXJmb3JtUmVidWlsZFw+</entry>
+        <entry encoding="base64">XDxfcmVuZGVyVmlld0VsZW1lbnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>0,30s/,/;/gc</entry>
