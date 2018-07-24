@@ -33,6 +33,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Jump to Type Source">
+        <Item>
+          <IdeaActionID>Flutter.JumpToTypeSource</IdeaActionID>
+          <ShortCut>'⇧F4'</ShortCut>
+          <Description>Jump to Type Source</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Wallaby'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
