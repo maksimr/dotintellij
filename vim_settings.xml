@@ -388,6 +388,9 @@
       <file name="$USER_HOME$/www/jetbrains/ring-ui/components/auth/token-validator.js" timestamp="1531731492284">
         <mark key="'" line="177" column="0" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/com/intellij/codeInsight/template/postfix/templates/PostfixTemplateExpressionSelectorBase.class" timestamp="1532293856555">
+        <mark key="'" line="8" column="87" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/ring-ui/components/list/list__item.js" timestamp="1531928292738">
         <mark key="'" line="112" column="4" />
         <mark key="[" line="104" column="0" />
@@ -1113,9 +1116,6 @@
         <mark key="." line="25" column="13" />
         <mark key="^" line="25" column="13" />
       </file>
-      <file name="$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/com/intellij/codeInsight/template/postfix/templates/PostfixTemplateExpressionSelectorBase.class" timestamp="1532293856555">
-        <mark key="'" line="8" column="87" />
-      </file>
       <file name="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/framework.dart" timestamp="1532209472199">
         <mark key="'" line="3494" column="4" />
       </file>
@@ -1593,12 +1593,12 @@
         <mark key="." line="59" column="17" />
         <mark key="^" line="59" column="17" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/select/select__popup.js" timestamp="1532542742276">
-        <mark key="'" line="39" column="4" />
-        <mark key="[" line="316" column="17" />
-        <mark key="]" line="316" column="23" />
-        <mark key="." line="316" column="23" />
-        <mark key="^" line="316" column="23" />
+      <file name="$USER_HOME$/www/jetbrains/ring-ui/components/select/select__popup.js" timestamp="1532552567695">
+        <mark key="'" line="11" column="28" />
+        <mark key="[" line="316" column="14" />
+        <mark key="]" line="316" column="25" />
+        <mark key="." line="316" column="25" />
+        <mark key="^" line="316" column="25" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/_reports/edit/form.html" timestamp="1531664664356">
         <mark key="'" line="48" column="0" />
@@ -2765,7 +2765,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="196" column="75" filename="$USER_HOME$/www/jetbrains/ring-ui/components/popup/popup.js" />
       <jump line="279" column="29" filename="$USER_HOME$/www/jetbrains/ring-ui/components/popup/popup.js" />
       <jump line="334" column="22" filename="$USER_HOME$/www/jetbrains/ring-ui/components/popup/popup.js" />
       <jump line="178" column="2" filename="$USER_HOME$/www/jetbrains/ring-ui/components/popup/popup.js" />
@@ -2852,7 +2851,6 @@
       <jump line="316" column="56" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select__popup.js" />
       <jump line="338" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select__popup.js" />
       <jump line="396" column="16" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select__popup.js" />
-      <jump line="11" column="28" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select__popup.js" />
       <jump line="39" column="4" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select__popup.js" />
       <jump line="64" column="9" filename="$USER_HOME$/www/jetbrains/ring-ui/components/popup/position.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/popup/position.js" />
@@ -2865,22 +2863,24 @@
       <jump line="147" column="35" filename="$USER_HOME$/www/jetbrains/ring-ui/components/popup/position.js" />
       <jump line="68" column="7" filename="$USER_HOME$/www/jetbrains/ring-ui/components/popup/position.test.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/popup/position.test.js" />
+      <jump line="292" column="11" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select__popup.js" />
+      <jump line="11" column="28" filename="$USER_HOME$/www/jetbrains/ring-ui/components/select/select__popup.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN5bmMtYm90dG9tPSJ5dC1mb290ZXI7LTQwIgogICAgICAgICAgICAgIDxkaXYK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>100</text>
+        <text>owerBoundMaxHeight</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>100</text>
+        <text>owerBoundMaxHeight</text>
       </register>
       <register name="/" type="4">
-        <text>max</text>
+        <text encoding="base64">XDxtYXhIZWlnaHRGb3JEaXJlY3Rpb25cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LyogZXNsaW50LWRpc2FibGUgbm8tbWFnaWMtbnVtYmVycyAqLwo=</text>
@@ -2923,12 +2923,12 @@
       </register>
     </registers>
     <search>
-      <last-search>max</last-search>
+      <last-search encoding="base64">XDxtYXhIZWlnaHRGb3JEaXJlY3Rpb25cPg==</last-search>
       <last-offset />
-      <last-pattern>max</last-pattern>
+      <last-pattern encoding="base64">XDxtYXhIZWlnaHRGb3JEaXJlY3Rpb25cPg==</last-pattern>
       <last-replace>;</last-replace>
       <last-substitute>);$</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -2950,9 +2950,9 @@
         <entry>isVisible</entry>
         <entry>sccroll</entry>
         <entry>maxHeight</entry>
-        <entry encoding="base64">XDxtYXhIZWlnaHRGb3JEaXJlY3Rpb25cPg==</entry>
         <entry>target</entry>
         <entry>max</entry>
+        <entry encoding="base64">XDxtYXhIZWlnaHRGb3JEaXJlY3Rpb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>5,18s/,/;/gc</entry>
