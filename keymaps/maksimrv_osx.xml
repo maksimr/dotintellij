@@ -157,6 +157,10 @@
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+    <keyboard-shortcut first-keystroke="meta w" />
+  </action>
   <action id="EditorSplitLine" />
   <action id="ExportToTextFile" />
   <action id="FindUsages">
