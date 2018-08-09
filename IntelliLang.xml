@@ -377,6 +377,10 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("yt-focus-if")).withParent(xmlTag().withLocalName(string().equalTo("textarea")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>textarea/@yt-keystroke</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("yt-keystroke")).withParent(xmlTag().withLocalName(string().equalTo("textarea")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>textarea/@yt-paste-image</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("yt-paste-image")).withParent(xmlTag().withLocalName(string().equalTo("textarea")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
@@ -627,6 +631,10 @@
     <injection language="AngularJS" injector-id="xml">
       <display-name>yt-issue-tags/@on-remove-tag</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-remove-tag")).withParent(xmlTag().withLocalName(string().equalTo("yt-issue-tags")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-issue-text-custom-field-edit/@yt-keystroke</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("yt-keystroke")).withParent(xmlTag().withLocalName(string().equalTo("yt-issue-text-custom-field-edit")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
       <display-name>yt-issue-toolbar/@on-edit</display-name>
