@@ -169,6 +169,10 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on")).withParent(xmlTag().withLocalName(string().equalTo("ng-switch")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>project-list/@datasource</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("datasource")).withParent(xmlTag().withLocalName(string().equalTo("project-list")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>pw-project-card-team/@team</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("team")).withParent(xmlTag().withLocalName(string().equalTo("pw-project-card-team")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
