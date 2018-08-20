@@ -604,12 +604,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/hub/test/e2e/hub.spec.js" timestamp="1534333416930">
         <mark key="'" line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dart/JetBooking/test/api/vc.dart" timestamp="1534787611199">
+      <file name="$USER_HOME$/www/dart/JetBooking/test/api/vc.dart" timestamp="1534788485238">
         <mark key="'" line="42" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="22" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="1" column="0" />
+        <mark key="[" line="12" column="58" />
+        <mark key="]" line="12" column="63" />
+        <mark key="." line="12" column="63" />
+        <mark key="^" line="12" column="63" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/list/service/render-list-description.js" timestamp="1534754559178">
         <mark key="'" line="9" column="2" />
@@ -761,7 +761,7 @@
       <file name="$USER_HOME$/www/dart/foo/lib/screens/CalendarScreen.dart" timestamp="1530334096907">
         <mark key="'" line="26" column="2" />
       </file>
-      <file name="$USER_HOME$/www/dart/JetBooking/lib/api/vc.dart" timestamp="1534787601191">
+      <file name="$USER_HOME$/www/dart/JetBooking/lib/api/vc.dart" timestamp="1534788822800">
         <mark key="'" line="25" column="0" />
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -782,11 +782,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/button-toolbar-ng/button-toolbar-ng.js" timestamp="1530540747342">
         <mark key="'" line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dart/JetBooking/test/components/VacantRooms_test.dart" timestamp="1534787498975">
-        <mark key="'" line="5" column="0" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/www/dart/JetBooking/test/components/VacantRooms_test.dart" timestamp="1534788850574">
+        <mark key="'" line="31" column="9" />
+        <mark key="[" line="47" column="29" />
+        <mark key="]" line="47" column="32" />
+        <mark key="." line="47" column="32" />
+        <mark key="^" line="47" column="32" />
       </file>
       <file name="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/form.dart" timestamp="1530565295958">
         <mark key="'" line="317" column="7" />
@@ -1005,9 +1006,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/activities/service/create-activities-cursor.js" />
-      <jump line="7" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/activities/service/create-activities-cursor.js" />
-      <jump line="27" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/activities/service/create-activities-cursor.js" />
       <jump line="796" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-stream.js" />
       <jump line="1069" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-stream.js" />
       <jump line="4" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/service/create-query-assist-template.js" />
@@ -1105,75 +1103,77 @@
       <jump line="22" column="4" filename="$USER_HOME$/www/dart/JetBooking/test/api/vc_test.dart" />
       <jump line="25" column="0" filename="$USER_HOME$/www/dart/JetBooking/lib/api/vc.dart" />
       <jump line="42" column="0" filename="$USER_HOME$/www/dart/JetBooking/test/api/vc.dart" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/dart/JetBooking/test/components/VacantRooms_test.dart" />
+      <jump line="32" column="8" filename="$USER_HOME$/www/dart/JetBooking/test/components/VacantRooms_test.dart" />
+      <jump line="31" column="9" filename="$USER_HOME$/www/dart/JetBooking/test/components/VacantRooms_test.dart" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN5bmMtYm90dG9tPSJ5dC1mb290ZXI7LTQwIgogICAgICAgICAgICAgIDxkaXYK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBwcmludCgnPj4+Pj4+Pj4+Pj4+Pj4+Pj4nKTsK</text>
+      <register name="&quot;" type="4">
+        <text>zero</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>data</text>
+        <text>zero</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3ZGlmSHRtbFw+</text>
+        <text>awayt</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwcmludCgnPj4+Pj4+Pj4+Pj4+Pj4+Pj4nKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcmludCgnPj4+Pj4+Pj4+Pj4+Pj4+Pj4nKTsK</text>
+        <text encoding="base64">ICBwcmludCgiPj4+PiIpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBwcmludCgnPj4+Pj4+Pj4+Pj4+Pj4+Pj4nKTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgRW4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYXdhaXQgdGVzdGVyLnB1bXBBbmRTZXR0bGUoKTsK</text>
+        <text encoding="base64">ICAgICAgdGVzdGVyLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB0ZXN0V2lkZ2V0cygnc2hvdWxkIGNyZWF0ZSB3aWRnZXQnLCAoV2lkZ2V0VGVzdGVyIHRlc3RlcikgYXN5bmMgewogICAgYXdhaXQgdGVzdGVyLnB1bXBXaWRnZXQoQXBwVGhlbWUoCiAgICAgIGNoaWxkOiBWYWNhbnRSb29tcygKICAgICAgICBzdGFydFRpbWU6IHN0YXJ0VGltZSwKICAgICAgICBlbmRUaW1lOiBlbmRUaW1lLAogICAgICApLAogICAgKSk7CgogICAgZXhwZWN0KGZpbmQuYnlUeXBlKFZhY2FudFJvb21zKSwgZmluZHNPbmVXaWRnZXQpOwogIH0pOwo=</text>
+        <text encoding="base64">ICBwcmludCgnPj4+Pj4+Pj4+Pj4+Pj4+Pj4nKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdChkYXRhLmxlbmd0aCwgMSk7Cg==</text>
+        <text encoding="base64">ICBwcmludCgnPj4+Pj4+Pj4+Pj4+Pj4+Pj4nKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIExpc3QgZGF0YSA9IGF3YWl0IGdldFZhY2FudFJvb21zKAogICAgICBzdGFydFRpbWU6IHN0YXJ0VGltZSwKICAgICAgZW5kVGltZTogZW5kVGltZSwKICAgICk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIHN0YXJ0VGltZSA9IERhdGVUaW1lKDIwMTgsIDEsIDEsIDEsIDMwKTsKICAgIGZpbmFsIGVuZFRpbWUgPSBzdGFydFRpbWUuYWRkKER1cmF0aW9uKGhvdXJzOiAxKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgYXdhaXQgdGVzdGVyLnB1bXBBbmRTZXR0bGUoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydFRpbWU6IHN0YXJ0VGltZSwK</text>
+        <text encoding="base64">ICB0ZXN0V2lkZ2V0cygnc2hvdWxkIGNyZWF0ZSB3aWRnZXQnLCAoV2lkZ2V0VGVzdGVyIHRlc3RlcikgYXN5bmMgewogICAgYXdhaXQgdGVzdGVyLnB1bXBXaWRnZXQoQXBwVGhlbWUoCiAgICAgIGNoaWxkOiBWYWNhbnRSb29tcygKICAgICAgICBzdGFydFRpbWU6IHN0YXJ0VGltZSwKICAgICAgICBlbmRUaW1lOiBlbmRUaW1lLAogICAgICApLAogICAgKSk7CgogICAgZXhwZWN0KGZpbmQuYnlUeXBlKFZhY2FudFJvb21zKSwgZmluZHNPbmVXaWRnZXQpOwogIH0pOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx3ZGlmSHRtbFw+</last-search>
+      <last-search>awayt</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3ZGlmSHRtbFw+</last-pattern>
+      <last-pattern>awayt</last-pattern>
       <last-replace>Picker</last-replace>
       <last-substitute>before</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxfY2hlY2tCYWNrZW5kc1N0YXR1c2VzSWZFbmFibGVkXD4=</entry>
         <entry>expand</entry>
         <entry>cate</entry>
         <entry>distinct</entry>
@@ -1193,6 +1193,7 @@
         <entry>jetbrains</entry>
         <entry>icons</entry>
         <entry encoding="base64">XDx3ZGlmSHRtbFw+</entry>
+        <entry>awayt</entry>
       </history-search>
       <history-cmd>
         <entry>6,44/.*/\1;/gc</entry>
