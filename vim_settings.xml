@@ -182,8 +182,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/auth.js" timestamp="1534755888088">
         <mark key="'" line="65" column="8" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/report-types/service/charts/ganttLowerRuler.js" timestamp="1535097863879">
-        <mark key="'" line="239" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/report-types/service/charts/ganttLowerRuler.js" timestamp="1535108171392">
+        <mark key="'" line="265" column="0" />
       </file>
       <file name="$USER_HOME$/www/dart/JetBooking/test_driver/main_test.dart" timestamp="1532868152529">
         <mark key="'" line="17" column="0" />
@@ -764,8 +764,8 @@
       <file name="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/material/theme.dart" timestamp="1531831857276">
         <mark key="'" line="172" column="34" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/report-types/service/charts/ganttChart.js" timestamp="1535097769842">
-        <mark key="'" line="43" column="8" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/report-types/service/charts/ganttChart.js" timestamp="1535108341278">
+        <mark key="'" line="173" column="42" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/codemirror/service/XXXCodeMirror-patch.js" timestamp="1528971928430">
         <mark key="'" line="6" column="0" />
@@ -1041,13 +1041,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/admin.js" />
-      <jump line="551" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/admin.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/dashboard/test/service/dashboard-default-yt-widgets.js" />
-      <jump line="36" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/dashboard/test/service/dashboard-default-yt-widgets.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/service/multiple-request-processor-handler.js" />
-      <jump line="12" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/service/load-usage-retrospective.js" />
-      <jump line="22" column="1" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/service/load-usage-retrospective.js" />
       <jump line="16" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/service/load-usage-retrospective.js" />
       <jump line="32" column="1" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/service/load-usage-retrospective.js" />
       <jump line="7" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/resources/service/global-settings-resource.js" />
@@ -1141,6 +1134,13 @@
       <jump line="256" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/report-types/service/charts/ganttLowerRuler.js" />
       <jump line="255" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/report-types/service/charts/ganttLowerRuler.js" />
       <jump line="239" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/report-types/service/charts/ganttLowerRuler.js" />
+      <jump line="17" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/report-types/service/charts/ganttLowerRuler.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/report-types/service/charts/ganttLowerRuler.js" />
+      <jump line="265" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/report-types/service/charts/ganttLowerRuler.js" />
+      <jump line="9" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/report-types/service/charts/ganttChart.js" />
+      <jump line="272" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/report-types/service/charts/ganttChart.js" />
+      <jump line="174" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/report-types/service/charts/ganttChart.js" />
+      <jump line="173" column="42" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/report-types/service/charts/ganttChart.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1156,7 +1156,7 @@
         <text encoding="base64">PHN2ZyBjbGFzcz0iY2hhcnQiPjwvc3ZnPg==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxicnVzaFw+</text>
+        <text>rmeove</text>
       </register>
       <register name="0" type="4">
         <text>usageRetrospectiveChart</text>
@@ -1199,21 +1199,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxicnVzaFw+</last-search>
+      <last-search>rmeove</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxicnVzaFw+</last-pattern>
+      <last-pattern>rmeove</last-pattern>
       <last-replace>Picker</last-replace>
       <last-substitute>before</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>grey-border</entry>
-        <entry>app-grey</entry>
-        <entry>border</entry>
-        <entry encoding="base64">Pj4=</entry>
-        <entry encoding="base64">PDw=</entry>
         <entry>box-shadow</entry>
         <entry encoding="base64">XDxyaW5nUXVlcnlBc3Npc3RJbnB1dFw+</entry>
         <entry>ring-input</entry>
@@ -1229,6 +1224,11 @@
         <entry encoding="base64">XDxyZWN0YW5nbGVcPg==</entry>
         <entry encoding="base64">XDxvbkJydXNoXD4=</entry>
         <entry encoding="base64">XDxicnVzaFw+</entry>
+        <entry>update</entry>
+        <entry>exit</entry>
+        <entry>remove</entry>
+        <entry encoding="base64">XDxyZW1vdmVcPg==</entry>
+        <entry>rmeove</entry>
       </history-search>
       <history-cmd>
         <entry>6,44/.*/\1;/gc</entry>
