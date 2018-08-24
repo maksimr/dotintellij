@@ -486,8 +486,8 @@
       <file name="$USER_HOME$/www/dart/flutter/packages/flutter_tools/lib/src/vmservice.dart" timestamp="1529192262014">
         <mark key="'" line="1462" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/report-types/service/charts/groupedMultiBarChart.js" timestamp="1535141560651">
-        <mark key="'" line="2" column="0" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/report-types/service/charts/groupedMultiBarChart.js" timestamp="1535143417394">
+        <mark key="'" line="1012" column="0" />
         <mark key="[" line="601" column="10" />
         <mark key="]" line="601" column="10" />
         <mark key="." line="601" column="10" />
@@ -1056,11 +1056,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="138" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/yt-usage-retrospective-chart.js" />
-      <jump line="7" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/yt-usage-retrospective-chart.js" />
-      <jump line="32" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/yt-usage-retrospective-chart.js" />
-      <jump line="46" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/yt-usage-retrospective-chart.js" />
-      <jump line="47" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/yt-usage-retrospective-chart.js" />
       <jump line="89" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/yt-usage-retrospective-chart.js" />
       <jump line="90" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/yt-usage-retrospective-chart.js" />
       <jump line="112" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/yt-usage-retrospective-chart.js" />
@@ -1146,8 +1141,6 @@
       <jump line="595" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/report-types/service/charts/ganttBars.js" />
       <jump line="848" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/report-types/service/charts/groupedMultiBarChart.js" />
       <jump line="1009" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/report-types/service/charts/groupedMultiBarChart.js" />
-      <jump line="8" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/report-types/service/charts/groupedMultiBarChart.js" />
-      <jump line="1012" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/report-types/service/charts/groupedMultiBarChart.js" />
       <jump line="1060" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/report-types/service/charts/bobberChart.js" />
       <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/report-types/service/charts/bobberChart.js" />
       <jump line="7" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/report-types/service/charts/bobberChart.js" />
@@ -1156,6 +1149,13 @@
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/report-types/service/charts/groupedMultiBarChart.js" />
       <jump line="53" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/_reports/types/customDistribution/customDistribution.js" />
       <jump line="80" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/_reports/types/customDistribution/customDistribution.js" />
+      <jump line="601" column="29" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/report-types/service/charts/groupedMultiBarChart.js" />
+      <jump line="644" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/report-types/service/charts/groupedMultiBarChart.js" />
+      <jump line="607" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/report-types/service/charts/groupedMultiBarChart.js" />
+      <jump line="514" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/report-types/service/charts/groupedMultiBarChart.js" />
+      <jump line="8" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/report-types/service/charts/groupedMultiBarChart.js" />
+      <jump line="239" column="23" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/report-types/service/charts/groupedMultiBarChart.js" />
+      <jump line="1012" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/report-types/service/charts/groupedMultiBarChart.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1171,7 +1171,7 @@
         <text>g</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtdWx0aUJvYmJlclw+</text>
+        <text>bar</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Cg==</text>
@@ -1214,17 +1214,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtdWx0aUJvYmJlclw+</last-search>
+      <last-search>bar</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtdWx0aUJvYmJlclw+</last-pattern>
+      <last-pattern>bar</last-pattern>
       <last-replace>Picker</last-replace>
       <last-substitute>before</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx4U2NhbGVcPg==</entry>
         <entry>bottom</entry>
         <entry encoding="base64">XDxkM1w+</entry>
         <entry encoding="base64">XDx4QXhpc1w+</entry>
@@ -1244,6 +1243,7 @@
         <entry encoding="base64">XDx3b3JrRGF5c1w+</entry>
         <entry>chart</entry>
         <entry encoding="base64">XDxtdWx0aUJvYmJlclw+</entry>
+        <entry>bar</entry>
       </history-search>
       <history-cmd>
         <entry>6,44/.*/\1;/gc</entry>
