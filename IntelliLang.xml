@@ -765,6 +765,10 @@
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("on-change")).withParent(xmlTag().withLocalName(string().equalTo("yt-update-notifications")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="AngularJS" injector-id="xml">
+      <display-name>yt-usage-retrospective-chart/@usages</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("usages")).withParent(xmlTag().withLocalName(string().equalTo("yt-usage-retrospective-chart")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="AngularJS" injector-id="xml">
       <display-name>yt-user-notificaiton-container/@disabled</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("disabled")).withParent(xmlTag().withLocalName(string().equalTo("yt-user-notificaiton-container")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
