@@ -25,6 +25,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Delete">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'⌦' or '⌃⌥⌫'</ShortCut>
+          <Description>Delete</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Jump to Navigation Bar">
         <Item>
           <IdeaActionID>ShowNavBar</IdeaActionID>
@@ -71,6 +79,14 @@
           <ShortCut>'⇧F10'</ShortCut>
           <Description>Run 'main.dart'</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Shelve Changes...">
+        <Item>
+          <IdeaActionID>ChangesView.Shelve</IdeaActionID>
+          <ShortCut>'⌥,, S'</ShortCut>
+          <Description>Shelve Changes...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Tree Menu">
