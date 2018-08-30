@@ -290,8 +290,8 @@
       <file name="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/binding.dart" timestamp="1532211557795">
         <mark key="'" line="647" column="35" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/yt-usage-retrospective-chart.js" timestamp="1535628672691">
-        <mark key="'" line="8" column="24" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/yt-usage-retrospective-chart.js" timestamp="1535629907526">
+        <mark key="'" line="29" column="46" />
         <mark key="[" line="30" column="50" />
         <mark key="]" line="30" column="52" />
         <mark key="." line="30" column="52" />
@@ -1228,7 +1228,6 @@
       <jump line="7" column="95" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/yt-usage-retrospective-chart.js" />
       <jump line="249" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/service/render-usage-retrospective-chart.js" />
       <jump line="276" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/service/render-usage-retrospective-chart.js" />
-      <jump line="29" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/yt-usage-retrospective-chart.js" />
       <jump line="8" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/yt-usage-retrospective-chart.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/filters/test/filter/bytes-presentation.js" />
       <jump line="8" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/filters/test/filter/bytes-presentation.js" />
@@ -1244,6 +1243,7 @@
       <jump line="164" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/service/render-usage-retrospective-chart.js" />
       <jump line="198" column="32" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/service/render-usage-retrospective-chart.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/service/render-usage-retrospective-chart.js" />
+      <jump line="29" column="46" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/yt-usage-retrospective-chart.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1259,7 +1259,7 @@
         <text>$filter</text>
       </register>
       <register name="/" type="4">
-        <text>renderChart</text>
+        <text>console</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Cg==</text>
@@ -1302,9 +1302,9 @@
       </register>
     </registers>
     <search>
-      <last-search>renderChart</last-search>
+      <last-search>console</last-search>
       <last-offset />
-      <last-pattern>renderChart</last-pattern>
+      <last-pattern>console</last-pattern>
       <last-replace>Picker</last-replace>
       <last-substitute>before</last-substitute>
       <last-dir>1</last-dir>
@@ -1312,7 +1312,6 @@
     </search>
     <history>
       <history-search>
-        <entry>prepaid</entry>
         <entry encoding="base64">XDxpdGVtRXh0ZW50XD4=</entry>
         <entry>seed</entry>
         <entry>maxValue</entry>
@@ -1332,6 +1331,7 @@
         <entry>peak</entry>
         <entry>size</entry>
         <entry>renderChart</entry>
+        <entry>console</entry>
       </history-search>
       <history-cmd>
         <entry>6,44s/\(.*\);/\1;/gc</entry>
