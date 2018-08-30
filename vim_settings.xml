@@ -802,13 +802,13 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issue-assignee.js" timestamp="1534877611338">
         <mark key="'" line="12" column="37" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/service/render-usage-retrospective-chart.js" timestamp="1535622987594">
-        <mark key="a" line="88" column="0" />
-        <mark key="'" line="65" column="18" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="54" column="62" />
-        <mark key="^" line="56" column="37" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/service/render-usage-retrospective-chart.js" timestamp="1535623930822">
+        <mark key="a" line="90" column="0" />
+        <mark key="'" line="10" column="18" />
+        <mark key="[" line="67" column="41" />
+        <mark key="]" line="67" column="40" />
+        <mark key="." line="67" column="40" />
+        <mark key="^" line="67" column="40" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/yt-custom-field-bundle.js" timestamp="1535022516794">
         <mark key="'" line="104" column="29" />
@@ -1124,17 +1124,15 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/file-uploader/file-uploader.js" timestamp="1533812977284">
         <mark key="'" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/service/render-usage-retrospective-chart.js" timestamp="1535554189687">
-        <mark key="'" line="129" column="0" />
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="126" column="19" />
-        <mark key="^" line="126" column="12" />
-        <mark key="." line="126" column="12" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/test/service/render-usage-retrospective-chart.js" timestamp="1535623874757">
+        <mark key="'" line="140" column="0" />
+        <mark key="[" line="103" column="46" />
+        <mark key="]" line="103" column="46" />
+        <mark key="." line="103" column="46" />
+        <mark key="^" line="103" column="46" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="116" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/service/render-usage-retrospective-chart.js" />
-      <jump line="142" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/service/render-usage-retrospective-chart.js" />
       <jump line="44" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/service/render-usage-retrospective-chart.js" />
       <jump line="74" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/service/render-usage-retrospective-chart.js" />
       <jump line="247" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/service/render-usage-retrospective-chart.js" />
@@ -1233,67 +1231,77 @@
       <jump line="85" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/service/render-usage-retrospective-chart.js" />
       <jump line="262" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/service/render-usage-retrospective-chart.js" />
       <jump line="46" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/service/render-usage-retrospective-chart.js" />
+      <jump line="48" column="27" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/service/render-usage-retrospective-chart.js" />
+      <jump line="10" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/service/render-usage-retrospective-chart.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN5bmMtYm90dG9tPSJ5dC1mb290ZXI7LTQwIgogICAgICAgICAgICAgIDxkaXYK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">eVNjYWxlLCA=</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>item</text>
+        <text encoding="base64">eVNjYWxlLCA=</text>
       </register>
       <register name="/" type="4">
-        <text>maxValue</text>
+        <text>limit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdChmcm9tSmV0QnJhaW5zU3RvcmVEYXRlRm9ybWF0KCcwMi8wMi8yMDEyJykpLnRvQmUoMTMyODEzMDAwMDAwMCk7CiAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjcmVhdGVVc2FnZURhdGFNb2NrKCcxNS8wNy8yMDE4JywgMSwge3ByZXBhaWQ6IG1heFByZXBhaWQgLSAyfSksIC8vIDFzdCBsaW5lCiAgICAgICAgY3JlYXRlVXNhZ2VEYXRhTW9jaygnMTYvMDcvMjAxOCcsIDEsIHtwcmVwYWlkOiBtYXhQcmVwYWlkfSksIC8vIDJzdCBsaW5lCiAgICAgICAgY3JlYXRlVXNhZ2VEYXRhTW9jaygnMTcvMDcvMjAxOCcsIDEsIHtwcmVwYWlkOiBtYXhQcmVwYWlkfSksIC8vIDJzdCBsaW5lCiAgICAgICAgY3JlYXRlVXNhZ2VEYXRhTW9jaygnMTgvMDcvMjAxOCcsIDEsIHtwcmVwYWlkOiBtYXhQcmVwYWlkIC0gMX0pLCAvLzN0aCBsaW5lCiAgICAgICAgY3JlYXRlVXNhZ2VEYXRhTW9jaygnMTkvMDcvMjAxOCcsIDEsIHtwcmVwYWlkOiBtYXhQcmVwYWlkfSkgLy8gNHRoIGxpbmUK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text>prepaid
+prepaid
+prepaid
+prepaid
+prepaid</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpbWl0OiBkYXRhW2ZpZWxkTmFtZV0K</text>
+      <register name="2" type="8">
+        <text>maxPrepaid
+maxPrepaid
+maxPrepaid
+maxPrepaid
+maxPrepaid</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjcmVhdGVVc2FnZURhdGFNb2NrKCcxNS8wNy8yMDE4JywgMSwge2xpbWl0OiBtYXhMaW1pdCAtIDJ9KSwKICAgICAgICBjcmVhdGVVc2FnZURhdGFNb2NrKCcxNi8wNy8yMDE4JywgMSwge2xpbWl0OiBtYXhMaW1pdH0pLAogICAgICAgIGNyZWF0ZVVzYWdlRGF0YU1vY2soJzE3LzA3LzIwMTgnLCAxLCB7bGltaXQ6IG1heExpbWl0fSksCiAgICAgICAgY3JlYXRlVXNhZ2VEYXRhTW9jaygnMTgvMDcvMjAxOCcsIDEsIHtsaW1pdDogbWF4TGltaXQgLSAxfSksCiAgICAgICAgY3JlYXRlVXNhZ2VEYXRhTW9jaygnMTkvMDcvMjAxOCcsIDEsIHtsaW1pdDogbWF4TGltaXR9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZyb206IGRhdGEuZGF0ZSwKICAgICAgICAgICAgICAgIHRvOiBkYXRhLmRhdGUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjcmVhdGVVc2FnZURhdGFNb2NrKCcxOC8wNy8yMDE4JywgMSwge2xpbWl0OiBtYXhMaW1pdH0pLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcHJldkRhdGEgPSBydWxlRGF0YXNldFtydWxlRGF0YXNldC5sZW5ndGggLSAxXTsKCiAgICAgICAgICAgIGlmIChwcmV2RGF0YSAmJiBwcmV2RGF0YS5saW1pdCA9PT0gZGF0YS5saW1pdCkgewogICAgICAgICAgICAgIHByZXZEYXRhLnRvID0gZGF0YS5kYXRlOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgIHJ1bGVEYXRhc2V0LnB1c2goewogICAgICAgICAgICAgICAgbGltaXQ6IGRhdGEubGltaXQsCiAgICAgICAgICAgICAgICBmcm9tOiBkYXRhLmRhdGUsCiAgICAgICAgICAgICAgICB0bzogZGF0YS5kYXRlCiAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjb25zdCBuZXdEYXRhID0ge2Zyb206IGRhdGEuZGF0ZSwgdG86IGRhdGEuZGF0ZX07Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBuZXdEYXRhW2ZpZWxkTmFtZV0gPSBkYXRhW2ZpZWxkTmFtZV07Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAxMzI4MTMwMDAwMDAwCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBtYXhWYWx1ZSA9IGRhdGFzZXQucmVkdWNlKChtYXgsIGQpID0+IG1heCA+IGQucHJlcGFpZCA/IG1heCA6IGQucHJlcGFpZCwgMCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvdW50ZXJDdHJsLmFkZCgzKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBtYXhWYWx1ZSA9IGRhdGFzZXQucmVkdWNlKChtYXgsIGQpID0+IG1heCA+IGQubGltaXQgPyBtYXggOiBkLmxpbWl0LCAwKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>maxValue</last-search>
+      <last-search>limit</last-search>
       <last-offset />
-      <last-pattern>maxValue</last-pattern>
+      <last-pattern>limit</last-pattern>
       <last-replace>Picker</last-replace>
       <last-substitute>before</last-substitute>
       <last-dir>1</last-dir>
@@ -1308,7 +1316,6 @@
         <entry>renderLimit</entry>
         <entry>renderBar</entry>
         <entry>limitText</entry>
-        <entry>limit</entry>
         <entry encoding="base64">XDxyZW5kZXJSdWxlV2l0aFRleHRcPg==</entry>
         <entry>renderRUle</entry>
         <entry>renderRule</entry>
@@ -1321,6 +1328,7 @@
         <entry encoding="base64">XDxpdGVtRXh0ZW50XD4=</entry>
         <entry>seed</entry>
         <entry>maxValue</entry>
+        <entry>limit</entry>
       </history-search>
       <history-cmd>
         <entry>6,44s/\(.*\);/\1;/gc</entry>
