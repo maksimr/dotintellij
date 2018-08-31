@@ -583,11 +583,6 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue-custom-fields/directive/yt-issue-custom-field-complex.js" timestamp="1534773434489">
         <mark key="'" line="486" column="2" />
       </file>
-      <file name="$USER_HOME$/www/dart/JetBooking/pubspec.yaml" timestamp="1535575474795">
-        <mark key="[" line="19" column="30" />
-        <mark key="]" line="19" column="31" />
-        <mark key="." line="19" column="31" />
-      </file>
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_72.jdk/Contents/Home/src.zip!/javax/swing/JComponent.java" timestamp="1532288070345">
         <mark key="'" line="228" column="22" />
       </file>
@@ -740,8 +735,8 @@
       <file name="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/foundation/change_notifier.dart" timestamp="1530233629983">
         <mark key="'" line="210" column="18" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-watchers.js" timestamp="1530618634702">
-        <mark key="'" line="39" column="55" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-watchers.js" timestamp="1535706317828">
+        <mark key="'" line="54" column="59" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/select/select.css" timestamp="1534884410059">
         <mark key="'" line="0" column="0" />
@@ -1137,8 +1132,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="0" filename="$USER_HOME$/www/dart/JetBooking/test/components/TimePicker_test.dart" />
-      <jump line="14" column="0" filename="$USER_HOME$/www/dart/JetBooking/test/components/TimePicker_test.dart" />
       <jump line="76" column="0" filename="$USER_HOME$/www/dart/JetBooking/test/components/TimePicker_test.dart" />
       <jump line="223" column="15" filename="$USER_HOME$/www/dart/flutter/packages/flutter_test/lib/src/widget_tester.dart" />
       <jump line="195" column="6" filename="$USER_HOME$/www/dart/flutter/packages/flutter_test/lib/src/widget_tester.dart" />
@@ -1237,6 +1230,8 @@
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/settings/yt-hosted-subscription-info.js" />
       <jump line="62" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/settings/yt-hosted-subscription-info.js" />
       <jump line="12" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/settings/yt-hosted-subscription-info.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-watchers.js" />
+      <jump line="54" column="59" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-watchers.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1252,7 +1247,7 @@
         <text>const</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDwnXD4=</text>
+        <text>getNew</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBXaWRnZXRzQmluZGluZy5pbnN0YW5jZS5yZW5kZXJWaWV3LmNvbmZpZ3VyYXRpb24gPSBjb25maWd1cmF0aW9uOwp9Cg==</text>
@@ -1295,17 +1290,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDwnXD4=</last-search>
+      <last-search>getNew</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDwnXD4=</last-pattern>
+      <last-pattern>getNew</last-pattern>
       <last-replace>Picker</last-replace>
       <last-substitute>before</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>on</entry>
         <entry>popup</entry>
         <entry>Poup</entry>
         <entry>onOpen</entry>
@@ -1325,6 +1319,7 @@
         <entry>size</entry>
         <entry>usage</entry>
         <entry encoding="base64">XDwnXD4=</entry>
+        <entry>getNew</entry>
       </history-search>
       <history-cmd>
         <entry>6,44s/\(.*\);/\1;/gc</entry>
