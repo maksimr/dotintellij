@@ -188,12 +188,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/service/mention-helper.js" timestamp="1528301834149">
         <mark key="'" line="74" column="27" />
       </file>
-      <file name="$USER_HOME$/www/dart/foo/lib/main.dart" timestamp="1535717060501">
-        <mark key="'" line="2" column="33" />
-        <mark key="[" line="90" column="89" />
-        <mark key="]" line="90" column="88" />
-        <mark key="." line="90" column="88" />
-        <mark key="^" line="90" column="88" />
+      <file name="$USER_HOME$/www/dart/foo/lib/main.dart" timestamp="1535718658540">
+        <mark key="'" line="1" column="23" />
+        <mark key="[" line="97" column="22" />
+        <mark key="]" line="97" column="22" />
+        <mark key="." line="97" column="22" />
+        <mark key="^" line="97" column="22" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/attachments/service/upload-attachments-to.js" timestamp="1529875755370">
         <mark key="'" line="5" column="8" />
@@ -1141,8 +1141,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3163" column="30" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/framework.dart" />
-      <jump line="3164" column="15" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/framework.dart" />
       <jump line="3173" column="22" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/framework.dart" />
       <jump line="3174" column="15" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/framework.dart" />
       <jump line="3176" column="26" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/framework.dart" />
@@ -1236,24 +1234,26 @@
       <jump line="33" column="35" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="79" column="25" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="87" column="22" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
-      <jump line="1" column="17" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="89" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="91" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="92" column="4" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="2" column="33" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="67" column="16" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="64" column="31" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="1" column="23" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN5bmMtYm90dG9tPSJ5dC1mb290ZXI7LTQwIgogICAgICAgICAgICAgIDxkaXYK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>incrementCounterStreamCtrl.</text>
+        <text>await _countSubject.last + 1</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>incrementCounterStreamCtrl.</text>
+        <text>await _countSubject.last + 1</text>
       </register>
       <register name="/" type="4">
         <text>counter</text>
@@ -1262,37 +1262,37 @@
         <text encoding="base64">aW1wb3J0ICdkYXJ0OmFzeW5jJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkaXNwb3NlKCkgewogICAgaW5jamprawogIH0K</text>
+        <text encoding="base64">aW1wb3J0ICdkYXJ0OmFzeW5jJzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGZpbmFsIGNvdW50ZXIgPSB2bS5jb3VudGVyOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBBcHBQcmVzZW50ZXIoKSB7CiAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBjaGlsZDogbmV3IFRleHQoCiAgICAgICAgICAgICAgICAnJGNvdW50ZXInLAogICAgICAgICAgICAgICAgc3R5bGU6IFRoZW1lLm9mKGNvbnRleHQpLnRleHRUaGVtZS5kaXNwbGF5MSwKICAgICAgICAgICAgICApLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvdW50ZXIgPSBjdHJsLnN0cmVhbTsK</text>
+        <text encoding="base64">ICBmdW4gaW5jcmVtZW50Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBTdHJlYW08aW50PiBjb3VudGVyID0gU3RyZWFtLmVtcHR5KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICBpbmNyZW1lbnQoKSA9PiBpbmNyZW1lbnRDb3VudGVyU3RyZWFtQ3RybC5zaW5rLmFkZCgxKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBpbnQgX2NvdW50ZXIgPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1304,7 +1304,7 @@
       <last-pattern>counter</last-pattern>
       <last-replace>Picker</last-replace>
       <last-substitute>before</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
