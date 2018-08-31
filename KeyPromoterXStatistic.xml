@@ -33,6 +33,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Highlight current scope">
+        <Item>
+          <IdeaActionID>Rainbow.ScopeHighlightingAction</IdeaActionID>
+          <ShortCut>'⌃Button3 Click'</ShortCut>
+          <Description>Highlight current scope</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Jump to Navigation Bar">
         <Item>
           <IdeaActionID>ShowNavBar</IdeaActionID>
