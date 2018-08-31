@@ -67,6 +67,9 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/list/service/render-list-item-image.js" timestamp="1534931552094">
         <mark key="'" line="8" column="5" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-similar-issues.html" timestamp="1535707130747">
+        <mark key="'" line="18" column="18" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue-links-list/directive/yt-issue-links-list.js" timestamp="1527804834692">
         <mark key="'" line="257" column="2" />
       </file>
@@ -1132,9 +1135,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="0" filename="$USER_HOME$/www/dart/JetBooking/test/components/TimePicker_test.dart" />
-      <jump line="223" column="15" filename="$USER_HOME$/www/dart/flutter/packages/flutter_test/lib/src/widget_tester.dart" />
-      <jump line="195" column="6" filename="$USER_HOME$/www/dart/flutter/packages/flutter_test/lib/src/widget_tester.dart" />
       <jump line="197" column="6" filename="$USER_HOME$/www/dart/flutter/packages/flutter_test/lib/src/widget_tester.dart" />
       <jump line="694" column="14" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/binding.dart" />
       <jump line="695" column="28" filename="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/widgets/binding.dart" />
@@ -1232,6 +1232,9 @@
       <jump line="12" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/settings/yt-hosted-subscription-info.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-watchers.js" />
       <jump line="54" column="59" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-watchers.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-similar-issues.html" />
+      <jump line="19" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-similar-issues.html" />
+      <jump line="18" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-similar-issues.html" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1247,7 +1250,7 @@
         <text>const</text>
       </register>
       <register name="/" type="4">
-        <text>getNew</text>
+        <text>ana</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBXaWRnZXRzQmluZGluZy5pbnN0YW5jZS5yZW5kZXJWaWV3LmNvbmZpZ3VyYXRpb24gPSBjb25maWd1cmF0aW9uOwp9Cg==</text>
@@ -1290,9 +1293,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getNew</last-search>
+      <last-search>ana</last-search>
       <last-offset />
-      <last-pattern>getNew</last-pattern>
+      <last-pattern>ana</last-pattern>
       <last-replace>Picker</last-replace>
       <last-substitute>before</last-substitute>
       <last-dir>1</last-dir>
@@ -1300,7 +1303,6 @@
     </search>
     <history>
       <history-search>
-        <entry>popup</entry>
         <entry>Poup</entry>
         <entry>onOpen</entry>
         <entry>open</entry>
@@ -1320,6 +1322,7 @@
         <entry>usage</entry>
         <entry encoding="base64">XDwnXD4=</entry>
         <entry>getNew</entry>
+        <entry>ana</entry>
       </history-search>
       <history-cmd>
         <entry>6,44s/\(.*\);/\1;/gc</entry>
