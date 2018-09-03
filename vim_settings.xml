@@ -1336,7 +1336,7 @@
         <text>onlyVisibleArea</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRQb3NpdGlvblN0eWxlc1w+</text>
+        <text>conso</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIHRvcDogY29udGFpbmVyTm9kZS5nZXRCb3VuZGluZ0NsaWVudFJlY3QoKS50b3AgKyAxMCwKICAgICAgICAgIGxlZnQ6IGNvbnRhaW5lck5vZGUuZ2V0Qm91bmRpbmdDbGllbnRSZWN0KCkubGVmdCArIDEwLAo=</text>
@@ -1380,17 +1380,16 @@ ring-tabs__btn__counter</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRQb3NpdGlvblN0eWxlc1w+</last-search>
+      <last-search>conso</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRQb3NpdGlvblN0eWxlc1w+</last-pattern>
+      <last-pattern>conso</last-pattern>
       <last-replace>Picker</last-replace>
       <last-substitute>before</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpc0RyYWZ0XD4=</entry>
         <entry>similar</entry>
         <entry>showSimila</entry>
         <entry>sub</entry>
@@ -1410,6 +1409,7 @@ ring-tabs__btn__counter</text>
         <entry encoding="base64">XDx2ZXJ0aWNhbE92ZXJmbG93XD4=</entry>
         <entry>getPositi</entry>
         <entry encoding="base64">XDxnZXRQb3NpdGlvblN0eWxlc1w+</entry>
+        <entry>conso</entry>
       </history-search>
       <history-cmd>
         <entry>6,44s/\(.*\);/\1;/gc</entry>
