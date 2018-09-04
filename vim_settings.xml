@@ -1367,7 +1367,7 @@
         <text>null</text>
       </register>
       <register name="/" type="4">
-        <text>init</text>
+        <text>StreamBuilder</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0ICdwYWNrYWdlOmZsdXR0ZXJfdGVzdC9mbHV0dGVyX3Rlc3QuZGFydCc7CmltcG9ydCAncGFja2FnZTpqZXRib29raW5nL2NvbXBvbmVudHMvQXBwVGhlbWUuZGFydCc7Cgp2b2lkIG1haW4oKSB7CiAgdGVzdFdpZGdldHMoJ3Nob3VsZCBjcmVhdGUgd2lkZ2V0JywgKFdpZGdldFRlc3RlciB0ZXN0ZXIpIGFzeW5jIHsKICAgIGF3YWl0IHRlc3Rlci5wdW1wV2lkZ2V0KEFwcFRoZW1lKCkpOwogIH0pOwp9Cg==</text>
@@ -1410,9 +1410,9 @@
       </register>
     </registers>
     <search>
-      <last-search>init</last-search>
+      <last-search>StreamBuilder</last-search>
       <last-offset />
-      <last-pattern>init</last-pattern>
+      <last-pattern>StreamBuilder</last-pattern>
       <last-replace>Picker</last-replace>
       <last-substitute>before</last-substitute>
       <last-dir>1</last-dir>
@@ -1438,8 +1438,8 @@
         <entry>Strea</entry>
         <entry encoding="base64">XDxlbmREYXRlU3RyZWFtQ3RybFw+</entry>
         <entry>Stream</entry>
-        <entry>StreamBuilder</entry>
         <entry>init</entry>
+        <entry>StreamBuilder</entry>
       </history-search>
       <history-cmd>
         <entry>6,44s/\(.*\);/\1;/gc</entry>
