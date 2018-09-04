@@ -42,9 +42,9 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/style/command-dialog.scss" timestamp="1534881611873">
         <mark key="'" line="45" column="29" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1535113847134">
-        <mark key="'" line="123" column="32" />
-        <mark key="[" line="42" column="27" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1536037901807">
+        <mark key="'" line="203" column="0" />
+        <mark key="[" line="42" column="39" />
         <mark key="]" line="42" column="40" />
         <mark key="." line="42" column="40" />
         <mark key="^" line="42" column="40" />
@@ -681,7 +681,7 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue-links-list/template/yt-issue-links-list.html" timestamp="1529319694715">
         <mark key="'" line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dart/JetBooking/test/components/TimePicker_test.dart" timestamp="1535994470071">
+      <file name="$USER_HOME$/www/dart/JetBooking/test/components/TimePicker_test.dart" timestamp="1536037484305">
         <mark key="'" line="82" column="0" />
         <mark key="[" line="0" column="38" />
         <mark key="]" line="0" column="37" />
@@ -1213,12 +1213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/style/icon.scss" />
-      <jump line="48" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/style/icon.scss" />
-      <jump line="51" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/style/icon.scss" />
-      <jump line="62" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/icon.js" />
-      <jump line="65" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/icon.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/icon.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/style/icon.scss" />
       <jump line="449" column="3" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/app.scss" />
       <jump line="52" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/styles/app.scss" />
@@ -1310,25 +1304,31 @@
       <jump line="1135" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
       <jump line="0" column="37" filename="$USER_HOME$/www/dart/JetBooking/test/components/TimePicker_test.dart" />
       <jump line="1" column="0" filename="$USER_HOME$/www/dart/JetBooking/test/components/TimePicker_test.dart" />
-      <jump line="82" column="0" filename="$USER_HOME$/www/dart/JetBooking/test/components/TimePicker_test.dart" />
       <jump line="178" column="8" filename="$USER_HOME$/www/jetbrains/ring-ui/components/popup/position.js" />
       <jump line="241" column="56" filename="$USER_HOME$/www/jetbrains/ring-ui/components/popup/position.js" />
+      <jump line="21" column="51" filename="$USER_HOME$/www/dart/JetBooking/test/components/TimePicker_test.dart" />
+      <jump line="82" column="0" filename="$USER_HOME$/www/dart/JetBooking/test/components/TimePicker_test.dart" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="13" column="42" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="43" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="203" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN5bmMtYm90dG9tPSJ5dC1mb290ZXI7LTQwIgogICAgICAgICAgICAgIDxkaXYK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vICJjbGllbnRIZWlnaHQiIC0gaXMgYSB2aWV3cG9ydCBoZWlnaHQK</text>
+      <register name="&quot;" type="4">
+        <text>77</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>how many place element ocuppate on the screen</text>
+        <text>77</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb250YWluZXJSZWN0XD4=</text>
+        <text>ring-ui</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8vICJoZWlnaHQiIC0gaXMgaG93IG1hbnkgcGxhY2UgZWxlbWVudCBvY3VwcGF0ZSBvbiB0aGUgc2NyZWVuCiAgICAvLyAiY2xpZW50SGVpZ2h0IiAtIGlzIGEgdmlld3BvcnQgaGVpZ2h0Cg==</text>
@@ -1371,17 +1371,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb250YWluZXJSZWN0XD4=</last-search>
+      <last-search>ring-ui</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb250YWluZXJSZWN0XD4=</last-pattern>
+      <last-pattern>ring-ui</last-pattern>
       <last-replace>Picker</last-replace>
       <last-substitute>before</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>height</entry>
         <entry>clientHeight</entry>
         <entry>getPositi</entry>
         <entry>conso</entry>
@@ -1401,6 +1400,7 @@
         <entry encoding="base64">XDxtYXhIZWlnaHRGb3JEaXJlY3Rpb25cPg==</entry>
         <entry>only</entry>
         <entry encoding="base64">XDxjb250YWluZXJSZWN0XD4=</entry>
+        <entry>ring-ui</entry>
       </history-search>
       <history-cmd>
         <entry>6,44s/\(.*\);/\1;/gc</entry>
