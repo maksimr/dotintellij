@@ -74,12 +74,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/settings/yt-hosted-subscription-info.html" timestamp="1535634076273">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dart/JetBooking/test/screens/DetailsScreen_test.dart" timestamp="1536069860885">
-        <mark key="'" line="209" column="0" />
-        <mark key="[" line="168" column="23" />
-        <mark key="]" line="168" column="27" />
-        <mark key="." line="168" column="27" />
-        <mark key="^" line="168" column="27" />
+      <file name="$USER_HOME$/www/dart/JetBooking/test/screens/DetailsScreen_test.dart" timestamp="1536083247640">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="157" column="35" />
+        <mark key="]" line="157" column="34" />
+        <mark key="." line="157" column="34" />
+        <mark key="^" line="157" column="34" />
       </file>
       <file name="$USER_HOME$/www/dart/JetBooking/test/components/AppTheme_test.dart" timestamp="1536054903609">
         <mark key="'" line="0" column="0" />
@@ -417,8 +417,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/color-picker/style/color-fields.scss" timestamp="1528924302480">
         <mark key="'" line="32" column="15" />
       </file>
-      <file name="$USER_HOME$/www/dart/JetBooking/lib/components/InlineCalendar.dart" timestamp="1536078559736">
-        <mark key="'" line="67" column="23" />
+      <file name="$USER_HOME$/www/dart/JetBooking/lib/components/InlineCalendar.dart" timestamp="1536079801098">
+        <mark key="'" line="44" column="0" />
+        <mark key="[" line="45" column="55" />
+        <mark key="]" line="45" column="56" />
+        <mark key="." line="45" column="56" />
+        <mark key="^" line="46" column="41" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/ring-ui/components/query-assist/query-assist.js" timestamp="1532607140108">
         <mark key="'" line="858" column="68" />
@@ -1266,12 +1270,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/www/dart/JetBooking/test/components/BehaviorSubjectBuilder_test.dart" />
-      <jump line="6" column="4" filename="$USER_HOME$/www/dart/JetBooking/test/components/AppTheme_test.dart" />
-      <jump line="6" column="0" filename="$USER_HOME$/www/dart/JetBooking/test/components/BehaviorSubjectBuilder_test.dart" />
-      <jump line="8" column="15" filename="$USER_HOME$/www/dart/JetBooking/test/components/BehaviorSubjectBuilder_test.dart" />
-      <jump line="89" column="14" filename="$USER_HOME$/www/dart/JetBooking/lib/screens/DetailsScreen.dart" />
-      <jump line="138" column="23" filename="$USER_HOME$/www/dart/JetBooking/lib/screens/DetailsScreen.dart" />
       <jump line="4" column="0" filename="$USER_HOME$/www/dart/JetBooking/lib/screens/DetailsScreen.dart" />
       <jump line="207" column="0" filename="$USER_HOME$/www/dart/JetBooking/lib/screens/DetailsScreen.dart" />
       <jump line="47" column="16" filename="$USER_HOME$/www/dart/JetBooking/lib/screens/DetailsScreen.dart" />
@@ -1323,7 +1321,6 @@
       <jump line="41" column="8" filename="$USER_HOME$/www/dart/JetBooking/lib/screens/DetailsScreen.dart" />
       <jump line="31" column="0" filename="$USER_HOME$/www/dart/JetBooking/test/components/InlineCalendar_test.dart" />
       <jump line="25" column="9" filename="$USER_HOME$/www/dart/JetBooking/lib/components/InlineCalendar.dart" />
-      <jump line="40" column="14" filename="$USER_HOME$/www/dart/JetBooking/lib/components/InlineCalendar.dart" />
       <jump line="41" column="35" filename="$USER_HOME$/www/dart/JetBooking/lib/components/InlineCalendar.dart" />
       <jump line="7" column="17" filename="$USER_HOME$/www/dart/JetBooking/lib/components/InlineCalendar.dart" />
       <jump line="11" column="4" filename="$USER_HOME$/www/dart/JetBooking/lib/components/InlineCalendar.dart" />
@@ -1366,75 +1363,81 @@
       <jump line="48" column="27" filename="$USER_HOME$/www/dart/JetBooking/lib/components/CalendarMonth.dart" />
       <jump line="13" column="19" filename="$USER_HOME$/www/dart/JetBooking/lib/components/CalendarMonth.dart" />
       <jump line="7" column="26" filename="$USER_HOME$/www/dart/JetBooking/lib/components/CalendarMonth.dart" />
+      <jump line="40" column="20" filename="$USER_HOME$/www/dart/JetBooking/lib/components/InlineCalendar.dart" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/dart/JetBooking/lib/components/InlineCalendar.dart" />
+      <jump line="66" column="0" filename="$USER_HOME$/www/dart/JetBooking/lib/components/InlineCalendar.dart" />
+      <jump line="44" column="0" filename="$USER_HOME$/www/dart/JetBooking/lib/components/InlineCalendar.dart" />
+      <jump line="14" column="36" filename="$USER_HOME$/www/dart/JetBooking/test/screens/DetailsScreen_test.dart" />
+      <jump line="158" column="34" filename="$USER_HOME$/www/dart/JetBooking/test/screens/DetailsScreen_test.dart" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/dart/JetBooking/test/screens/DetailsScreen_test.dart" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN5bmMtYm90dG9tPSJ5dC1mb290ZXI7LTQwIgogICAgICAgICAgICAgIDxkaXYK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Current</text>
+        <text>Duration(milliseconds: 300)</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>Current</text>
+        <text>Duration(milliseconds: 300)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYXlCdWlsZGVyXD4=</text>
+        <text>Anim</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBDYWxlbmRhckRheShvblRhcDogb25UYXAsIGRhdGU6IGRheURhdGUsIHNlbGVjdGVkOiBzZWxlY3RlZCksCg==</text>
+        <text encoding="base64">ICAgIGF3YWl0IHRlc3Rlci5wdW1wQW5kU2V0dGxlKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhZzogX2lzRXF1YWwoZGF5RGF0ZSwgZGF0ZSkgPyAiQHNlbGVjdGVkIiA6IG51bGwsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlY29uZEN1cnZlOiBDdXJ2ZXMuZmFzdE91dFNsb3dJbiwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBEaXZpZGVyKGhlaWdodDogOC4wLCBjb2xvcjogQ29sb3JzLnRyYW5zcGFyZW50KSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgc2VsZWN0ZWQ6ICwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBQYWRkaW5nKHA6IDE2LjAsIGNvbG9yOiBDb2xvcnMudHJhbnNwYXJlbnQpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlY29uZENoaWxkOiAsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhZzogX2lzRXF1YWwoZGF5RGF0ZSwgZGF0ZSkgPyAiQHNlbGVjdGVkIiA6IG51bGwsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBEaXZpZGVyKGhlaWdodDogOC4wKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBEaXZpZGVyKGhlaWdodDogOC4wLCBjb2xvcjogQ29sb3JzLnRyYW5zcGFyZW50KSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBQYWRkaW5nKHBhZGRpbmc6IEVkZ2VJbnNldHMub25seSh0b3A6IDguMCkpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBQYWRkaW5nKHA6IDE2LjAsIGNvbG9yOiBDb2xvcnMudHJhbnNwYXJlbnQpLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBQYWRkaW5nKHBhZGRpbmc6IEVkZ2VJbnNldHMub25seSh0b3A6IDE2LjApKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcGFkZGluZzogY29uc3QgRWRnZUluc2V0cy5zeW1tZXRyaWMoaG9yaXpvbnRhbDogOC4wKSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBEaXZpZGVyKGhlaWdodDogOC4wKSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcGFkZGluZzogY29uc3QgRWRnZUluc2V0cy5hbGwoMTYuMCksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBQYWRkaW5nKHBhZGRpbmc6IEVkZ2VJbnNldHMub25seSh0b3A6IDguMCkpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkYXlCdWlsZGVyXD4=</last-search>
+      <last-search>Anim</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYXlCdWlsZGVyXD4=</last-pattern>
+      <last-pattern>Anim</last-pattern>
       <last-replace>Picker</last-replace>
       <last-substitute>before</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>merge</entry>
         <entry>Empty</entry>
         <entry>Inline</entry>
         <entry>startDate</entry>
@@ -1454,6 +1457,7 @@
         <entry>fon</entry>
         <entry>CalendarDay</entry>
         <entry encoding="base64">XDxkYXlCdWlsZGVyXD4=</entry>
+        <entry>Anim</entry>
       </history-search>
       <history-cmd>
         <entry>6,44s/static \(.*\);/static \1 = &quot;\1&quot;;/gc</entry>
