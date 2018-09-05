@@ -49,11 +49,11 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/command-dialog/style/command-dialog.scss" timestamp="1534881611873">
         <mark key="'" line="45" column="29" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1536037901807">
-        <mark key="'" line="203" column="0" />
-        <mark key="[" line="42" column="39" />
-        <mark key="]" line="42" column="40" />
-        <mark key="." line="42" column="40" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1536143449029">
+        <mark key="'" line="13" column="42" />
+        <mark key="[" line="42" column="32" />
+        <mark key="]" line="42" column="33" />
+        <mark key="." line="42" column="33" />
         <mark key="^" line="42" column="40" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/test/kotlin/jetbrains/youtrack/webdriver/fsi/IssueAttachmentsTest.kt" timestamp="1530617812588">
@@ -1277,8 +1277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/www/dart/JetBooking/test/screens/DetailsScreen_test.dart" />
-      <jump line="12" column="24" filename="$USER_HOME$/www/dart/JetBooking/test/components/InlineCalendar_test.dart" />
       <jump line="6" column="0" filename="$USER_HOME$/www/dart/JetBooking/test/components/InlineCalendar_test.dart" />
       <jump line="37" column="0" filename="$USER_HOME$/www/dart/JetBooking/test/components/InlineCalendar_test.dart" />
       <jump line="3" column="0" filename="$USER_HOME$/www/dart/JetBooking/test/components/InlineCalendar_test.dart" />
@@ -1377,6 +1375,8 @@
       <jump line="125" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/docked-panel-ng/docked-panel-ng.js" />
       <jump line="127" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/docked-panel-ng/docked-panel-ng.js" />
       <jump line="166" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/docked-panel-ng/docked-panel-ng.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="13" column="42" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1392,7 +1392,7 @@
         <text>init</text>
       </register>
       <register name="/" type="4">
-        <text>$parse</text>
+        <text>ring-ui</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdpbml0Jyk7Cg==</text>
@@ -1435,9 +1435,9 @@
       </register>
     </registers>
     <search>
-      <last-search>$parse</last-search>
+      <last-search>ring-ui</last-search>
       <last-offset />
-      <last-pattern>$parse</last-pattern>
+      <last-pattern>ring-ui</last-pattern>
       <last-replace>Picker</last-replace>
       <last-substitute>before</last-substitute>
       <last-dir>1</last-dir>
@@ -1445,7 +1445,6 @@
     </search>
     <history>
       <history-search>
-        <entry>data</entry>
         <entry>Title</entry>
         <entry>text</entry>
         <entry>label</entry>
@@ -1465,6 +1464,7 @@
         <entry encoding="base64">XDxzY3JvbGxMaXN0ZW5lclw+</entry>
         <entry encoding="base64">XDxwYXJzZVw+</entry>
         <entry>$parse</entry>
+        <entry>ring-ui</entry>
       </history-search>
       <history-cmd>
         <entry>6,44s/static \(.*\);/static \1 = &quot;\1&quot;;/gc</entry>
