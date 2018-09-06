@@ -160,10 +160,11 @@
         <mark key="'" line="16" column="5" />
       </file>
       <file name="/yt-issue-feed.html" timestamp="1536231170648" />
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/diff_match_patch/lib/diff_match_patch.js" timestamp="1536235408331">
-        <mark key="'" line="206" column="17" />
-        <mark key="[" line="281" column="0" />
-        <mark key="]" line="282" column="70" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/diff_match_patch/lib/diff_match_patch.js" timestamp="1536236592066">
+        <mark key="'" line="278" column="0" />
+        <mark key="[" line="341" column="0" />
+        <mark key="]" line="341" column="0" />
+        <mark key="." line="341" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/ring-ui/components/island/content.js" timestamp="1528970824239">
         <mark key="'" line="121" column="0" />
@@ -1088,12 +1089,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/dashboard/test/service/dashboard-default-yt-widgets.js" timestamp="1535018131823">
         <mark key="'" line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/service/diff.js" timestamp="1536235815903">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/service/diff.js" timestamp="1536237092872">
         <mark key="'" line="45" column="0" />
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="^" line="72" column="11" />
-        <mark key="." line="72" column="0" />
+        <mark key="[" line="61" column="12" />
+        <mark key="]" line="61" column="18" />
+        <mark key="." line="61" column="18" />
+        <mark key="^" line="61" column="18" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/@jetbrains/ring-ui/components/docked-panel-ng/docked-panel-ng.js" timestamp="1536141669822">
         <mark key="'" line="166" column="0" />
@@ -1343,7 +1344,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/settings/yt-hosted-subscription-info.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/settings/yt-hosted-subscription-info.js" />
       <jump line="111" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/settings/yt-hosted-subscription-info.js" />
       <jump line="43" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/settings/yt-hosted-subscription-info.js" />
@@ -1443,67 +1443,68 @@
       <jump line="99" column="71" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/diff_match_patch/lib/diff_match_patch.js" />
       <jump line="110" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/diff_match_patch/lib/diff_match_patch.js" />
       <jump line="206" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/diff_match_patch/lib/diff_match_patch.js" />
+      <jump line="278" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/diff_match_patch/lib/diff_match_patch.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN5bmMtYm90dG9tPSJ5dC1mb290ZXI7LTQwIgogICAgICAgICAgICAgIDxkaXYK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd29yZEhhc2hbd29yZF0gPSB3b3JkQXJyYXlMZW5ndGg7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>lastCharIndex</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>(wordHash[word] !== undefined)</text>
+        <text>lastCharIndex</text>
       </register>
       <register name="/" type="4">
-        <text>linesToWor</text>
+        <text>charsTo</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHdvcmRIYXNoW3dvcmRdID0gd29yZEFycmF5TGVuZ3RoOwo=</text>
+      <register name="0" type="4">
+        <text>text.length - 1</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd29yZEhhc2hbd29yZF0gPSB3b3JkQXJyYXlMZW5ndGg7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd29yZGtkSGFzaFt3b3JkXSA9IHdvcmRBcnJheUxlbmd0aDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGludWU7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2codGV4dFt5XSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjaGFycyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHdvcmRIYXNoW3dvcmRdID0gd29yZEFycmF5TGVuZ3RoOwogICAgICAgICAgd29yZEFycmF5W3dvcmRBcnJheUxlbmd0aCsrXSA9IHdvcmQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd29yZEhhc2hbd29yZF0gPSB3b3JkQXJyYXlMZW5ndGg7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNoYXJzICs9IFN0cmluZy5mcm9tQ2hhckNvZGUod29yZEFycmF5TGVuZ3RoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGludWU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2hhcnMgKz0gU3RyaW5nLmZyb21DaGFyQ29kZSh3b3JkSGFzaFt3b3JkXSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHdvcmRIYXNoW3dvcmRdID0gd29yZEFycmF5TGVuZ3RoOwogICAgICAgICAgd29yZEFycmF5W3dvcmRBcnJheUxlbmd0aCsrXSA9IHdvcmQ7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNoYXJzICs9IFN0cmluZy5mcm9tQ2hhckNvZGUod29yZEFycmF5TGVuZ3RoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hhcnMgKz0gU3RyaW5nLmZyb21DaGFyQ29kZSh3b3JkSGFzaFt3b3JkXSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>linesToWor</last-search>
+      <last-search>charsTo</last-search>
       <last-offset />
-      <last-pattern>linesToWor</last-pattern>
+      <last-pattern>charsTo</last-pattern>
       <last-replace>Picker</last-replace>
       <last-substitute>before</last-substitute>
       <last-dir>1</last-dir>
@@ -1511,7 +1512,6 @@
     </search>
     <history>
       <history-search>
-        <entry>when</entry>
         <entry>element</entry>
         <entry>utc</entry>
         <entry>Start</entry>
@@ -1531,6 +1531,7 @@
         <entry>linesToChar</entry>
         <entry encoding="base64">XDxkaWZmX2xpbmVzVG9DaGFyc1w+</entry>
         <entry>linesToWor</entry>
+        <entry>charsTo</entry>
       </history-search>
       <history-cmd>
         <entry>6,44s/static \(.*\);/static \1 = &quot;\1&quot;;/gc</entry>
