@@ -1115,12 +1115,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/mention/style/yt-mention.scss" timestamp="1530704020511">
         <mark key="'" line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/test/service/diff.js" timestamp="1536240355542">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/test/service/diff.js" timestamp="1536242628548">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="[" line="118" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="^" line="118" column="44" />
+        <mark key="." line="118" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/constants/color-mapping.js" timestamp="1529007459706">
         <mark key="'" line="58" column="5" />
@@ -1344,9 +1344,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/settings/yt-hosted-subscription-info.js" />
-      <jump line="3" column="7" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/template/yt-date-interval-input.html" />
-      <jump line="24" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/template/yt-date-interval-input.html" />
       <jump line="83" column="101" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/directive/settings/yt-hosted-subscription-info.js" />
       <jump line="145" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-interval-dropdown.js" />
       <jump line="12" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-interval-dropdown.js" />
@@ -1443,26 +1440,29 @@
       <jump line="29" column="3" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/test/service/diff.js" />
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/test/service/diff.js" />
       <jump line="105" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/test/service/diff.js" />
+      <jump line="115" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/test/service/diff.js" />
+      <jump line="119" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/test/service/diff.js" />
+      <jump line="41" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/test/service/diff.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/test/service/diff.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN5bmMtYm90dG9tPSJ5dC1mb290ZXI7LTQwIgogICAgICAgICAgICAgIDxkaXYK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>wordsToChars</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>wordsToChars</text>
+        <text encoding="base64">PGJyPg==</text>
       </register>
       <register name="/" type="4">
-        <text>charsTo</text>
+        <text>xit</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iZGlmZi1lcSI+IGZvbyA8L3NwYW4+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -1471,40 +1471,40 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZnVuY3Rpb24gaW5kZXhPZihzdHIsIHJlZ0V4cCwgZnJvbUluZGV4KSB7CiAgICAgICAgbGV0IGluZGV4ID0gZnJvbUluZGV4OwogICAgICAgIHdoaWxlIChpbmRleCA8IHN0ci5sZW5ndGgpIHsKICAgICAgICAgIGlmIChyZWdFeHAudGVzdChzdHJbaW5kZXhdKSkgewogICAgICAgICAgICByZXR1cm4gaW5kZXg7CiAgICAgICAgICB9CiAgICAgICAgICBpbmRleCsrOwogICAgICAgIH0KICAgICAgICByZXR1cm4gLTE7CiAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8aW5zIGNsYXNzPSJkaWZmLWlucyI+YmFyIDwvaW5zPgogICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJkaWZmLWVxIj5mb28gPC9zcGFuPgogICAgICAgICAgICAgIDxkZWwgY2xhc3M9ImRpZmYtZGVsIj5iYXI8L2RlbD4KICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iZGlmZi1lcSI+IHpvbzxicj48L3NwYW4+CgogICAgICAgICAgICAgIDxpbnMgY2xhc3M9ImRpZmYtaW5zIj56b288L2lucz4KICAgICAgICAgICAgICA8ZGVsIGNsYXNzPSJkaWZmLWRlbCI+YmFyPC9kZWw+CiAgICAgICAgICAgICAgPHNwYW4gY2xhc3M9ImRpZmYtZXEiPiBmb28gPC9zcGFuPgogICAgICAgICAgICAgIDxpbnMgY2xhc3M9ImRpZmYtaW5zIj5iYXI8L2lucz4KICAgICAgICAgICAgICA8ZGVsIGNsYXNzPSJkaWZmLWRlbCI+em9vPC9kZWw+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8aW5zIGNsYXNzPSJkaWZmLWlucyI+Zm9vPC9pbnM+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZyb21JbmRleAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8ZGVsIGNsYXNzPSJkaWZmLWRlbCI+Zm9vIDwvZGVsPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHN0cltmcm9tSW5kZXhdCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0iZGlmZi1lcSI+YmFyIDwvc3Bhbj4KICAgICAgICAgICAgICA8aW5zIGNsYXNzPSJkaWZmLWlucyI+Zm9vPC9pbnM+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8ZGVsIGNsYXNzPSJkaWZmLWRlbCI+Zm9vIDwvZGVsPgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8aW5zIGNsYXNzPSJkaWZmLWlucyI+YmFyPC9pbnM+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8aW5zIGNsYXNzPSJkaWZmLWlucyI+em9vPC9pbnM+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>charsTo</last-search>
+      <last-search>xit</last-search>
       <last-offset />
-      <last-pattern>charsTo</last-pattern>
+      <last-pattern>xit</last-pattern>
       <last-replace>Picker</last-replace>
       <last-substitute>before</last-substitute>
       <last-dir>1</last-dir>
@@ -1519,7 +1519,6 @@
         <entry>cancel</entry>
         <entry>cancelReq</entry>
         <entry>cit</entry>
-        <entry>xit</entry>
         <entry>fit</entry>
         <entry>404</entry>
         <entry encoding="base64">XDxoYW5kbGU0MDRFeGNlcHRpb25cPg==</entry>
@@ -1532,6 +1531,7 @@
         <entry encoding="base64">XDxkaWZmX2xpbmVzVG9DaGFyc1w+</entry>
         <entry>linesToWor</entry>
         <entry>charsTo</entry>
+        <entry>xit</entry>
       </history-search>
       <history-cmd>
         <entry>6,44s/static \(.*\);/static \1 = &quot;\1&quot;;/gc</entry>
