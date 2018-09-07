@@ -593,6 +593,9 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/user/service/get-current-user.js" timestamp="1531998992612">
         <mark key="'" line="52" column="16" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/load-user-permissions.js" timestamp="1536309959320">
+        <mark key="'" line="10" column="32" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/hub/mount/mount.js" timestamp="1532339747155">
         <mark key="'" line="44" column="0" />
       </file>
@@ -1088,8 +1091,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/dashboard/test/service/dashboard-default-yt-widgets.js" timestamp="1535018131823">
         <mark key="'" line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/service/diff.js" timestamp="1536302348858">
-        <mark key="'" line="60" column="12" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/service/diff.js" timestamp="1536309937768">
+        <mark key="'" line="82" column="28" />
         <mark key="[" line="80" column="35" />
         <mark key="]" line="80" column="44" />
         <mark key="." line="80" column="44" />
@@ -1252,8 +1255,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-body.js" timestamp="1533812631256">
         <mark key="'" line="101" column="42" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/permissions.js" timestamp="1534341769707">
-        <mark key="'" line="13" column="12" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/permissions.js" timestamp="1536309946495">
+        <mark key="'" line="14" column="16" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/watch-folder/test/service/tag-edit-dialog.js" timestamp="1532071713493">
         <mark key="'" line="83" column="0" />
@@ -1342,9 +1345,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="29" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/test/service/diff.js" />
-      <jump line="45" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/test/service/diff.js" />
-      <jump line="38" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/test/service/diff.js" />
       <jump line="50" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/test/service/diff.js" />
       <jump line="67" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/test/service/diff.js" />
       <jump line="34" column="33" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/test/service/diff.js" />
@@ -1442,6 +1442,9 @@
       <jump line="40" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/service/diff.js" />
       <jump line="41" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/service/diff.js" />
       <jump line="60" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/service/diff.js" />
+      <jump line="82" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/diff/service/diff.js" />
+      <jump line="14" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/permissions.js" />
+      <jump line="10" column="32" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/load-user-permissions.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1457,7 +1460,7 @@
         <text>error</text>
       </register>
       <register name="/" type="4">
-        <text>chars</text>
+        <text encoding="base64">XDx5dExvY2FsREJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgIGlmICghd29yZEhhc2guaGFzT3duUHJvcGVydHkod29yZCkpIHsKICAgICAgICAgICAgd29yZEhhc2hbd29yZF0gPSB3b3JkQXJyYXlMZW5ndGg7Cg==</text>
@@ -1501,18 +1504,16 @@ this</text>
       </register>
     </registers>
     <search>
-      <last-search>chars</last-search>
+      <last-search encoding="base64">XDx5dExvY2FsREJcPg==</last-search>
       <last-offset />
-      <last-pattern>chars</last-pattern>
+      <last-pattern encoding="base64">XDx5dExvY2FsREJcPg==</last-pattern>
       <last-replace>Picker</last-replace>
       <last-substitute>before</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjcmVhdGVEaWZmXD4=</entry>
-        <entry>lines</entry>
         <entry>lines_to</entry>
         <entry>linesToChar</entry>
         <entry encoding="base64">XDxkaWZmX2xpbmVzVG9DaGFyc1w+</entry>
@@ -1531,6 +1532,8 @@ this</text>
         <entry encoding="base64">XDxkaWZmX2NsZWFudXBFZmZpY2llbmN5XD4=</entry>
         <entry>hasOwn</entry>
         <entry>chars</entry>
+        <entry>local</entry>
+        <entry encoding="base64">XDx5dExvY2FsREJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>6,44s/static \(.*\);/static \1 = &quot;\1&quot;;/gc</entry>
