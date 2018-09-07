@@ -1362,12 +1362,12 @@
         <mark key="." line="77" column="0" />
         <mark key="^" line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/feature-flags/test/service/feature-flags-route-decorator.js" timestamp="1536324914301">
-        <mark key="'" line="49" column="19" />
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="49" column="39" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/feature-flags/test/service/feature-flags-route-decorator.js" timestamp="1536325197386">
+        <mark key="'" line="13" column="27" />
+        <mark key="[" line="60" column="11" />
+        <mark key="]" line="60" column="19" />
+        <mark key="." line="60" column="19" />
+        <mark key="^" line="60" column="19" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/bootstrap/bootstrap.js" timestamp="1528979444564">
         <mark key="'" line="9" column="0" />
@@ -1421,10 +1421,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="13" filename="$USER_HOME$/www/dart/JetBooking/lib/components/CalendarDay.dart" />
-      <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issues/issues.js" />
-      <jump line="11" column="42" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issues/issues.js" />
-      <jump line="15" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issues/issues.js" />
       <jump line="16" column="16" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issues/issues.js" />
       <jump line="20" column="3" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issues/issues.js" />
       <jump line="21" column="53" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/issues/issues.js" />
@@ -1521,58 +1517,62 @@
       <jump line="6" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/feature-flags/test/service/feature-flags-route-decorator.js" />
       <jump line="53" column="38" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/feature-flags/test/service/feature-flags-route-decorator.js" />
       <jump line="49" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/feature-flags/test/service/feature-flags-route-decorator.js" />
+      <jump line="38" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/feature-flags/test/service/feature-flags-route-decorator.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/feature-flags/test/service/feature-flags-route-decorator.js" />
+      <jump line="48" column="46" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/feature-flags/test/service/feature-flags-route-decorator.js" />
+      <jump line="13" column="27" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/feature-flags/test/service/feature-flags-route-decorator.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN5bmMtYm90dG9tPSJ5dC1mb290ZXI7LTQwIgogICAgICAgICAgICAgIDxkaXYK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>featureFlagsInitializer.getInitializationPromise</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cm91dGUucmVzb2x2ZSAmJiByb3V0ZS5yZXNvbHZlLmZlYXR1cmVGbGFnc1Jlc29sdmU=</text>
+        <text>featureFlagsInitializer.getInitializationPromise</text>
       </register>
       <register name="/" type="4">
         <text>invoke</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNweU9uKGZlYXR1cmVGbGFnc0luaXRpYWxpemVyLCAnZ2V0SW5pdGlhbGl6YXRpb25Qcm9taXNlJykuYW5kLnJldHVyblZhbHVlKCRxLmRlZmVyKCkucHJvbWlzZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbG9hZFVzZXJQZXJtaXNzaW9uczogY3JlYXRlVXNlclBlcm1pc3Npb25zTW9jaygpLAo=</text>
+        <text encoding="base64">ICAgIHNweU9uKGZlYXR1cmVGbGFnc0luaXRpYWxpemVyLCAnZ2V0SW5pdGlhbGl6YXRpb25Qcm9taXNlJykuYW5kLnJldHVyblZhbHVlKCRxLmRlZmVyKCkucHJvbWlzZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgbG9hZFVzZXJQZXJtaXNzaW9uczogdXNlclBlcm1pc3Npb25zTW9jawo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZlYXR1cmVGbGFnc1JvdXRlRGVjb3JhdG9yKHthY2Nlc3M6IHt9fSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB2YXIgJHE7Cg==</text>
+        <text encoding="base64">ICAgIGludm9rZVJvdXRlKHJvdXRlKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdChyb3V0ZS5yZXNvbHZlLmZlYXR1cmVGbGFnc1Jlc29sdmUpLnRvQmVEZWZpbmVkKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1aXJlZEZlYXR1cmVGbGFnczogJ2ZvbycK</text>
+        <text encoding="base64">ICAgICAgbG9hZFVzZXJQZXJtaXNzaW9uczogY3JlYXRlVXNlclBlcm1pc3Npb25zTW9jaygpLAo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByb3V0ZS5hY2Nlc3MgPSByb3V0ZS5hY2Nlc3MgfHwge307CiAgICAgICAgcmV0dXJuIG5vcm1hbGl6ZShyb3V0ZS5hY2Nlc3MucmVxdWlyZWRGZWF0dXJlRmxhZ3MpOwoKICAgICAgICBmdW5jdGlvbiBub3JtYWxpemUoZmxhZ3MpIHsKICAgICAgICAgIHJldHVybiBbXS5jb25jYXQoZmxhZ3MgfHwgW10pOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgbG9hZFVzZXJQZXJtaXNzaW9uczogdXNlclBlcm1pc3Npb25zTW9jawo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQm9vbGVhbihleHRyYWN0RmVhdHVyZUZsYWdzRnJvbVJvdXRlKHJvdXRlKSk7Cg==</text>
+        <text encoding="base64">ICAgIGZlYXR1cmVGbGFnc1JvdXRlRGVjb3JhdG9yKHthY2Nlc3M6IHt9fSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
