@@ -700,11 +700,11 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/event-source/service/yt-event-source.js" timestamp="1528892960555">
         <mark key="'" line="86" column="17" />
       </file>
-      <file name="$USER_HOME$/www/dart/JetBooking/lib/components/CalendarDay.dart" timestamp="1536394348055">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="23" column="56" />
-        <mark key="]" line="23" column="54" />
-        <mark key="." line="23" column="54" />
+      <file name="$USER_HOME$/www/dart/JetBooking/lib/components/CalendarDay.dart" timestamp="1536482889628">
+        <mark key="'" line="23" column="34" />
+        <mark key="[" line="23" column="52" />
+        <mark key="]" line="23" column="53" />
+        <mark key="." line="23" column="53" />
         <mark key="^" line="23" column="54" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/directive/yt-icon.js" timestamp="1536136996337">
@@ -939,8 +939,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/user/service/current-user-resolver.js" timestamp="1531999136970">
         <mark key="'" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dart/JetBooking/lib/screens/DetailsScreen.dart" timestamp="1536419587502">
-        <mark key="'" line="12" column="8" />
+      <file name="$USER_HOME$/www/dart/JetBooking/lib/screens/DetailsScreen.dart" timestamp="1536483370028">
+        <mark key="'" line="24" column="2" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/color-picker/style/color-fields.scss" timestamp="1528924302480">
         <mark key="'" line="32" column="15" />
@@ -1408,12 +1408,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/feature-flags/test/service/feature-flag-route-decorator.js" />
-      <jump line="48" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/feature-flags/test/service/feature-flag-route-decorator.js" />
-      <jump line="10" column="29" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/feature-flags/test/service/feature-flag-route-decorator.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/permission-route-decorator.js" />
-      <jump line="82" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/permission-route-decorator.js" />
-      <jump line="65" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/permission-route-decorator.js" />
       <jump line="24" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/feature-flags/test/service/feature-flag-route-decorator.js" />
       <jump line="65" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/feature-flags/test/service/feature-flag-route-decorator.js" />
       <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/permission-route-decorator.js" />
@@ -1508,76 +1502,80 @@
       <jump line="18" column="20" filename="$USER_HOME$/www/dart/JetBooking/lib/screens/DetailsScreen.dart" />
       <jump line="20" column="18" filename="$USER_HOME$/www/dart/JetBooking/lib/screens/DetailsScreen.dart" />
       <jump line="12" column="8" filename="$USER_HOME$/www/dart/JetBooking/lib/screens/DetailsScreen.dart" />
+      <jump line="4" column="2" filename="$USER_HOME$/www/dart/JetBooking/lib/components/CalendarDay.dart" />
+      <jump line="23" column="34" filename="$USER_HOME$/www/dart/JetBooking/lib/components/CalendarDay.dart" />
+      <jump line="41" column="30" filename="$USER_HOME$/www/dart/JetBooking/lib/screens/DetailsScreen.dart" />
+      <jump line="220" column="0" filename="$USER_HOME$/www/dart/JetBooking/lib/screens/DetailsScreen.dart" />
+      <jump line="126" column="40" filename="$USER_HOME$/www/dart/JetBooking/lib/screens/DetailsScreen.dart" />
+      <jump line="24" column="2" filename="$USER_HOME$/www/dart/JetBooking/lib/screens/DetailsScreen.dart" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN5bmMtYm90dG9tPSJ5dC1mb290ZXI7LTQwIgogICAgICAgICAgICAgIDxkaXYK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>featureFlagsInitializer.getInitializationPromise</text>
+        <text>_onChangeStartDate</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>featureFlagsInitializer.getInitializationPromise</text>
+        <text>_onChangeStartDate</text>
       </register>
       <register name="/" type="4">
-        <text>Behav</text>
+        <text encoding="base64">XDxvbkNoYW5nZVN0YXJ0RGF0ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNweU9uKGZlYXR1cmVGbGFnc0luaXRpYWxpemVyLCAnZ2V0SW5pdGlhbGl6YXRpb25Qcm9taXNlJykuYW5kLnJldHVyblZhbHVlKCRxLmRlZmVyKCkucHJvbWlzZSk7Cg==</text>
+        <text encoding="base64">ICAgIGZpbmFsIGVuZERhdGUgPSAkJGVuZERhdGUudmFsdWU7CiAgICBmaW5hbCBzdGFydERhdGUgPSAkJHN0YXJ0RGF0ZS52YWx1ZTsKICAgIGZpbmFsIGR1cmF0aW9uID0gZW5kRGF0ZS5kaWZmZXJlbmNlKHN0YXJ0RGF0ZSk7CiAgICAkJHN0YXJ0RGF0ZS5hZGQoZGF0ZSk7CiAgICAkJGVuZERhdGUuYWRkKGRhdGUuYWRkKGR1cmF0aW9uKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNweU9uKGZlYXR1cmVGbGFnc0luaXRpYWxpemVyLCAnZ2V0SW5pdGlhbGl6YXRpb25Qcm9taXNlJykuYW5kLnJldHVyblZhbHVlKCRxLmRlZmVyKCkucHJvbWlzZSk7Cg==</text>
+        <text encoding="base64">ICBfb25DaGFuZ2VTdGFydERhdGUoZGF0ZSkgewogICAgZmluYWwgZW5kRGF0ZSA9ICQkZW5kRGF0ZS52YWx1ZTsKICAgIGZpbmFsIHN0YXJ0RGF0ZSA9ICQkc3RhcnREYXRlLnZhbHVlOwogICAgZmluYWwgZHVyYXRpb24gPSBlbmREYXRlLmRpZmZlcmVuY2Uoc3RhcnREYXRlKTsKICAgICQkc3RhcnREYXRlLmFkZChkYXRlKTsKICAgICQkZW5kRGF0ZS5hZGQoZGF0ZS5hZGQoZHVyYXRpb24pKTsKICB9Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="8">
+        <text encoding="base64">IAogCiA=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VlZFZhbHVlOiBkYXRlLmFkZChEdXJhdGlvbihtaW51dGVzOiAzMCkpKSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGludm9rZVJvdXRlKHJvdXRlKTsK</text>
+        <text encoding="base64">ICAgICAgICAkJGhhc1R2ID0gQmVoYXZpb3JTdWJqZWN0PGJvb2w+KHNlZWRWYWx1ZTogZmFsc2UpLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBmaW5hbCBCZWhhdmlvclN1YmplY3Q8RGF0ZVRpbWU+ICQkc3RhcnREYXRlOwogIGZpbmFsIEJlaGF2aW9yU3ViamVjdDxEYXRlVGltZT4gJCRlbmREYXRlOwogIGZpbmFsIEJlaGF2aW9yU3ViamVjdDxib29sPiAkJGhhc1R2Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbG9hZFVzZXJQZXJtaXNzaW9uczogY3JlYXRlVXNlclBlcm1pc3Npb25zTW9jaygpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbG9hZFVzZXJQZXJtaXNzaW9uczogdXNlclBlcm1pc3Npb25zTW9jawo=</text>
+      <register name="8" type="8">
+        <text encoding="base64">ZmluYWwgCmZpbmFsIApmaW5hbCAKZmluYWwg</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZlYXR1cmVGbGFnc1JvdXRlRGVjb3JhdG9yKHthY2Nlc3M6IHt9fSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Behav</last-search>
+      <last-search encoding="base64">XDxvbkNoYW5nZVN0YXJ0RGF0ZVw+</last-search>
       <last-offset />
-      <last-pattern>Behav</last-pattern>
+      <last-pattern encoding="base64">XDxvbkNoYW5nZVN0YXJ0RGF0ZVw+</last-pattern>
       <last-replace>Picker</last-replace>
       <last-substitute>before</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>get</entry>
-        <entry>fla</entry>
         <entry>fea</entry>
         <entry encoding="base64">XDxmZWF0dXJlRmxhZ3NcPg==</entry>
         <entry>newFsi</entry>
@@ -1596,6 +1594,8 @@
         <entry>Be</entry>
         <entry>Beha</entry>
         <entry>Behav</entry>
+        <entry>Anima</entry>
+        <entry encoding="base64">XDxvbkNoYW5nZVN0YXJ0RGF0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>6,44s/static \(.*\);/static \1 = &quot;\1&quot;;/gc</entry>
