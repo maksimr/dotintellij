@@ -8,6 +8,12 @@
               <list>
                 <VFile>
                   <option name="enabled" value="true" />
+                  <option name="id" value="xylo.LazySeq" />
+                  <option name="url" value="https://raw.githubusercontent.com/xylo/intellij-postfix-templates/master/templates/java/LazySeq.postfixTemplates" />
+                  <option name="file" value="${PLUGIN}/java/xylo.LazySeq.postfixTemplates" />
+                </VFile>
+                <VFile>
+                  <option name="enabled" value="true" />
                   <option name="id" value="xylo.numbers" />
                   <option name="url" value="https://raw.githubusercontent.com/xylo/intellij-postfix-templates/master/templates/java/numbers.postfixTemplates" />
                   <option name="file" value="${PLUGIN}/java/xylo.numbers.postfixTemplates" />

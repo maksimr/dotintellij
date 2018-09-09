@@ -375,9 +375,6 @@
         <mark key="." line="8" column="15" />
         <mark key="^" line="8" column="15" />
       </file>
-      <file name="$USER_HOME$/www/dart/JetBooking/lib/screens/DetailsScreenController.dart" timestamp="1536516522223">
-        <mark key="'" line="17" column="45" />
-      </file>
       <file name="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/material/divider.dart" timestamp="1529246359435">
         <mark key="'" line="102" column="56" />
       </file>
@@ -759,8 +756,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/alert/service/yt-alert.js" timestamp="1533813820530">
         <mark key="'" line="78" column="20" />
       </file>
-      <file name="$USER_HOME$/www/dart/JetBooking/test/screens/DetailsScreen_test.dart" timestamp="1536484138688">
-        <mark key="'" line="204" column="4" />
+      <file name="$USER_HOME$/www/dart/JetBooking/test/screens/DetailsScreen_test.dart" timestamp="1536516732784">
+        <mark key="'" line="54" column="15" />
         <mark key="^" line="33" column="9" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-similar-issues.html" timestamp="1535708756475">
@@ -1405,12 +1402,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/feature-flags/service/feature-flags-route-decorator.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/feature-flags/service/feature-flags-route-decorator.js" />
-      <jump line="51" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/feature-flags/service/feature-flags-route-decorator.js" />
-      <jump line="59" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/feature-flags/service/feature-flags-route-decorator.js" />
-      <jump line="42" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/feature-flags/service/feature-flags-route-decorator.js" />
-      <jump line="17" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/feature-flags/service/feature-flags-route-decorator.js" />
       <jump line="60" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/feature-flags/service/feature-flags-route-decorator.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/feature-flags/service/feature-flags-route-decorator.js" />
       <jump line="49" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/feature-flags/service/feature-flags-route-decorator.js" />
@@ -1496,7 +1487,6 @@
       <jump line="1" column="0" filename="$USER_HOME$/www/dart/JetBooking/lib/screens/DetailsScreenController.dart" />
       <jump line="35" column="0" filename="$USER_HOME$/www/dart/JetBooking/lib/screens/DetailsScreenController.dart" />
       <jump line="29" column="48" filename="$USER_HOME$/www/dart/JetBooking/lib/screens/DetailsScreenController.dart" />
-      <jump line="18" column="7" filename="$USER_HOME$/www/dart/JetBooking/lib/screens/DetailsScreenController.dart" />
       <jump line="16" column="15" filename="$USER_HOME$/www/dart/JetBooking/lib/screens/DetailsScreenController.dart" />
       <jump line="14" column="0" filename="$USER_HOME$/www/dart/JetBooking/lib/screens/DetailsScreenController.dart" />
       <jump line="22" column="2" filename="$USER_HOME$/www/dart/JetBooking/lib/screens/DetailsScreenController.dart" />
@@ -1505,78 +1495,81 @@
       <jump line="7" column="28" filename="$USER_HOME$/www/dart/JetBooking/lib/screens/DetailsScreenController.dart" />
       <jump line="21" column="4" filename="$USER_HOME$/www/dart/JetBooking/lib/screens/DetailsScreenController.dart" />
       <jump line="17" column="45" filename="$USER_HOME$/www/dart/JetBooking/lib/screens/DetailsScreenController.dart" />
+      <jump line="12" column="0" filename="$USER_HOME$/www/dart/JetBooking/test/screens/DetailsScreen_test.dart" />
+      <jump line="46" column="31" filename="$USER_HOME$/www/dart/JetBooking/test/screens/DetailsScreen_test.dart" />
+      <jump line="54" column="15" filename="$USER_HOME$/www/dart/JetBooking/test/screens/DetailsScreen_test.dart" />
+      <jump line="18" column="6" filename="$USER_HOME$/www/dart/JetBooking/lib/screens/DetailsScreenController.dart" />
+      <jump line="25" column="6" filename="$USER_HOME$/www/dart/JetBooking/lib/screens/DetailsScreenController.dart" />
+      <jump line="26" column="20" filename="$USER_HOME$/www/dart/JetBooking/lib/screens/DetailsScreenController.dart" />
+      <jump line="27" column="14" filename="$USER_HOME$/www/dart/JetBooking/lib/screens/DetailsScreenController.dart" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN5bmMtYm90dG9tPSJ5dC1mb290ZXI7LTQwIgogICAgICAgICAgICAgIDxkaXYK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>endDate</text>
+        <text>DateTime</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>endDate</text>
+        <text>DateTime</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkdXJhdGlvblN1YmplY3RcPg==</text>
+        <text>endDate</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGVuZERhdGVTdWJqZWN0LmFkZFN0cmVhbSgKICAgICAgc3RhcnREYXRlU3ViamVjdC5zdHJlYW0ud2l0aExhdGVzdEZyb20oZHVyYXRpb25TdWJqZWN0LnN0cmVhbSwKICAgICAgICAgIChzdGFydERhdGUsIGR1cmF0aW9uKSA9PiBzdGFydERhdGUuYWRkKGR1cmF0aW9uKSksCiAgICApOwo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">QmVoYXZpb3JTdWJqZWN0PERhdGVUaW1lPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAuZm9yRWFjaCgoZGF0ZSkgPT4gZW5kRGF0ZSA9IGRhdGUpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGVuZERhdGVTdWJqZWN0LnN0cmVhbS5tYXAoKGVuZERhdGUpID0+ICkK</text>
+        <text encoding="base64">ICAgICk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBkdXJhdGlvbiA9IGVuZERhdGUuZGlmZmVyZW5jZShzdGFydERhdGUpOwo=</text>
+        <text encoding="base64">ICAgIGVuZERhdGVTdWJqZWN0LmFkZFN0cmVhbSgK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGVuZERhdGVTdWJqZWN0LmFkZCgKICAgICAgCiAgICApCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGhhc1R2U3ViamVjdCA9IEJlaGF2aW9yU3ViamVjdDxib29sPihzZWVkVmFsdWU6IGZhbHNlKTsK</text>
+        <text encoding="base64">ICAgIG5ldyBCZWhhdmlvclN1YmplY3QoKS4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEJlaGF2aW9yU3ViamVjdCgpLgo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc2VlZFZhbHVlOiBkYXRlLmFkZChEdXJhdGlvbihtaW51dGVzOiAzMCkpLAo=</text>
+        <text encoding="base64">ICAgIGZpbmFsIGZvbyA9IEJlaGF2aW9yU3ViamVjdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGR1cmF0aW9uU3ViamVjdCA9IEJlaGF2aW9yU3ViamVjdChzZWVkVmFsdWU6IER1cmF0aW9uKG1pbnV0ZXM6IDMwKSk7Cg==</text>
+        <text encoding="base64">ICAgIEJlaGF2aW9yU3ViamVjdCgpLndpdGhMYXRlc3RGcm9tKGxhdGVzdEZyb21TdHJlYW0sIGZuKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkdXJhdGlvblN1YmplY3RcPg==</last-search>
+      <last-search>endDate</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkdXJhdGlvblN1YmplY3RcPg==</last-pattern>
+      <last-pattern>endDate</last-pattern>
       <last-replace>Picker</last-replace>
       <last-substitute>before</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx2YWxpZGF0ZVBlcm1pc3Npb25cPg==</entry>
-        <entry>invoke</entry>
-        <entry encoding="base64">XDxzdHJlYW1cPg==</entry>
-        <entry encoding="base64">XDxfYnVpbGRUaXRsZVw+</entry>
         <entry>Vacant</entry>
         <entry>beha</entry>
         <entry>Beah</entry>
@@ -1593,9 +1586,12 @@
         <entry>startDate</entry>
         <entry>sca</entry>
         <entry encoding="base64">XDxkdXJhdGlvblN1YmplY3RcPg==</entry>
+        <entry>12:</entry>
+        <entry>should render</entry>
+        <entry>should change</entry>
+        <entry>endDate</entry>
       </history-search>
       <history-cmd>
-        <entry>6,44s/static \(.*\);/static \1 = &quot;\1&quot;;/gc</entry>
         <entry>41,57s/,\s*]/]/gc</entry>
         <entry>41,57s/);$/;/gc</entry>
         <entry>39</entry>
@@ -1614,6 +1610,7 @@
         <entry>we</entry>
         <entry>24</entry>
         <entry>action AceAction</entry>
+        <entry>38</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
