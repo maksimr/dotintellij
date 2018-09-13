@@ -277,6 +277,9 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" timestamp="1534776370520">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/test/directive/new-features-popup.js" timestamp="1536847198147">
+        <mark key="'" line="96" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/ring-ui/components/user-agreement/user-agreement.js" timestamp="1528218440075">
         <mark key="'" line="45" column="2" />
       </file>
@@ -434,6 +437,9 @@
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-attachments.js" timestamp="1529313905659">
         <mark key="'" line="99" column="2" />
+      </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/directive/new-features-popup.js" timestamp="1536847167150">
+        <mark key="'" line="3" column="4" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/ring-ui/components/icon/icon.js" timestamp="1531299883764">
         <mark key="'" line="100" column="0" />
@@ -1290,13 +1296,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="737" column="9" filename="$USER_HOME$/www/jetbrains/ring-ui/components/query-assist/query-assist.js" />
-      <jump line="758" column="35" filename="$USER_HOME$/www/jetbrains/ring-ui/components/query-assist/query-assist.js" />
-      <jump line="844" column="12" filename="$USER_HOME$/www/jetbrains/ring-ui/components/query-assist/query-assist.js" />
-      <jump line="651" column="74" filename="$USER_HOME$/www/jetbrains/ring-ui/components/auth/auth.js" />
-      <jump line="615" column="26" filename="$USER_HOME$/www/jetbrains/ring-ui/components/auth/auth.js" />
-      <jump line="602" column="19" filename="$USER_HOME$/www/jetbrains/ring-ui/components/auth/auth.js" />
-      <jump line="601" column="20" filename="$USER_HOME$/www/jetbrains/ring-ui/components/auth/auth.js" />
       <jump line="600" column="22" filename="$USER_HOME$/www/jetbrains/ring-ui/components/auth/auth.js" />
       <jump line="599" column="20" filename="$USER_HOME$/www/jetbrains/ring-ui/components/auth/auth.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/ring-ui/components/auth/auth.js" />
@@ -1390,6 +1389,13 @@
       <jump line="128" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/style/global-settings.scss" />
       <jump line="133" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/style/global-settings.scss" />
       <jump line="47" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/settings/license-plan-infographics.html" />
+      <jump line="66" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/test/directive/new-features-popup.js" />
+      <jump line="88" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/test/directive/new-features-popup.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/test/directive/new-features-popup.js" />
+      <jump line="24" column="12" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/directive/new-features-popup.js" />
+      <jump line="96" column="27" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/directive/new-features-popup.js" />
+      <jump line="3" column="4" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/directive/new-features-popup.js" />
+      <jump line="96" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/new-features-popup/test/directive/new-features-popup.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1405,7 +1411,7 @@
         <text>normal</text>
       </register>
       <register name="/" type="4">
-        <text>view</text>
+        <text>templa</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGZvbnQtd2VpZ2h0OiBub3JtYWw7Cg==</text>
@@ -1448,9 +1454,9 @@
       </register>
     </registers>
     <search>
-      <last-search>view</last-search>
+      <last-search>templa</last-search>
       <last-offset />
-      <last-pattern>view</last-pattern>
+      <last-pattern>templa</last-pattern>
       <last-replace>Picker</last-replace>
       <last-substitute>before</last-substitute>
       <last-dir>1</last-dir>
@@ -1458,7 +1464,6 @@
     </search>
     <history>
       <history-search>
-        <entry>outer</entry>
         <entry>d3</entry>
         <entry>tickValues</entry>
         <entry encoding="base64">XDx0aWNrQXJndW1lbnRzX1w+</entry>
@@ -1478,6 +1483,7 @@
         <entry>font</entry>
         <entry>View</entry>
         <entry>view</entry>
+        <entry>templa</entry>
       </history-search>
       <history-cmd>
         <entry>41,57s/);$/;/gc</entry>
