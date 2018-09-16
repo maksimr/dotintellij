@@ -180,12 +180,12 @@
       <file name="$USER_HOME$/www/dart/JetBooking/test/http_mock.dart" timestamp="1536664682125">
         <mark key="'" line="6" column="29" />
       </file>
-      <file name="$USER_HOME$/www/dart/foo/lib/main.dart" timestamp="1537090564487">
-        <mark key="'" line="24" column="11" />
-        <mark key="[" line="35" column="38" />
-        <mark key="]" line="36" column="18" />
-        <mark key="." line="36" column="18" />
-        <mark key="^" line="36" column="18" />
+      <file name="$USER_HOME$/www/dart/foo/lib/main.dart" timestamp="1537091515504">
+        <mark key="'" line="45" column="26" />
+        <mark key="[" line="79" column="0" />
+        <mark key="]" line="79" column="0" />
+        <mark key="." line="79" column="0" />
+        <mark key="^" line="75" column="13" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/attachments/service/upload-attachments-to.js" timestamp="1529875755370">
         <mark key="'" line="5" column="8" />
@@ -1126,8 +1126,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-interval-dropdown.js" />
-      <jump line="39" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-interval-dropdown.js" />
       <jump line="45" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-interval-dropdown.js" />
       <jump line="7" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/template/yt-date-interval-dropdown.html" />
       <jump line="15" column="29" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/template/yt-date-interval-dropdown.html" />
@@ -1226,70 +1224,69 @@
       <jump line="51" column="4" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="3" column="6" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="24" column="11" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="48" column="22" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="45" column="26" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN5bmMtYm90dG9tPSJ5dC1mb290ZXI7LTQwIgogICAgICAgICAgICAgIDxkaXYK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgXAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmVhbUJ1aWxkZXIoCiAgICAgICAgICAgICAgICAgIHN0cmVhbTogY291bnRlckN0cmwuc3RyZWFtLAogICAgICAgICAgICAgICAgICBpbml0aWFsRGF0YTogMCwKICAgICAgICAgICAgICAgICAgYnVpbGRlcjogKEJ1aWxkQ29udGV4dCBjb250ZXh0LCBBc3luY1NuYXBzaG90IHNuYXBzaG90KSB7CiAgICAgICAgICAgICAgICAgICAgZmluYWwgX2NvdW50ZXIgPSBzbmFwc2hvdC5kYXRhOwogICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgKSwK</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>add(2);</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
-        <text>counter</text>
+        <text>Stream</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBmaW5hbCBTdHJpbmcgdGl0bGU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgXAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmVhbUJ1aWxkZXIoCiAgICAgICAgICAgICAgICAgIHN0cmVhbTogY291bnRlckN0cmwuc3RyZWFtLAogICAgICAgICAgICAgICAgICBpbml0aWFsRGF0YTogMCwKICAgICAgICAgICAgICAgICAgYnVpbGRlcjogKEJ1aWxkQ29udGV4dCBjb250ZXh0LCBBc3luY1NuYXBzaG90IHNuYXBzaG90KSB7CiAgICAgICAgICAgICAgICAgICAgZmluYWwgX2NvdW50ZXIgPSBzbmFwc2hvdC5kYXRhOwogICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgKSwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gbmV3IFRleHQoCiAgICAgICAgICAgICAgICAgICAgICAnJF9jb3VudGVyJywKICAgICAgICAgICAgICAgICAgICAgIHN0eWxlOiBUaGVtZS5vZihjb250ZXh0KS50ZXh0VGhlbWUuZGlzcGxheTEsCiAgICAgICAgICAgICAgICAgICAgKTsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIF9jb3VudGVyID0gYXdhaXQgY291bnRlckN0cmwuc3RyZWFtLmxhc3Q7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">Y2hpbGQ6IG5ldyBTY2FmZm9sZCgKICAgICAgICBhcHBCYXI6IG5ldyBBcHBCYXIoCiAgICAgICAgICAvLyBIZXJlIHdlIHRha2UgdGhlIHZhbHVlIGZyb20gdGhlIE15SG9tZVBhZ2Ugb2JqZWN0IHRoYXQgd2FzIGNyZWF0ZWQgYnkKICAgICAgICAgIC8vIHRoZSBBcHAuYnVpbGQgbWV0aG9kLCBhbmQgdXNlIGl0IHRvIHNldCBvdXIgYXBwYmFyIHRpdGxlLgogICAgICAgICAgdGl0bGU6IG5ldyBUZXh0KHRpdGxlKSwKICAgICAgICApLAogICAgICAgIGJvZHk6IG5ldyBDZW50ZXIoCiAgICAgICAgICAvLyBDZW50ZXIgaXMgYSBsYXlvdXQgd2lkZ2V0LiBJdCB0YWtlcyBhIHNpbmdsZSBjaGlsZCBhbmQgcG9zaXRpb25zIGl0CiAgICAgICAgICAvLyBpbiB0aGUgbWlkZGxlIG9mIHRoZSBwYXJlbnQuCiAgICAgICAgICBjaGlsZDogbmV3IENvbHVtbigKICAgICAgICAgICAgLy8gQ29sdW1uIGlzIGFsc28gbGF5b3V0IHdpZGdldC4gSXQgdGFrZXMgYSBsaXN0IG9mIGNoaWxkcmVuIGFuZAogICAgICAgICAgICAvLyBhcnJhbmdlcyB0aGVtIHZlcnRpY2FsbHkuIEJ5IGRlZmF1bHQsIGl0IHNpemVzIGl0c2VsZiB0byBmaXQgaXRzCiAgICAgICAgICAgIC8vIGNoaWxkcmVuIGhvcml6b250YWxseSwgYW5kIHRyaWVzIHRvIGJlIGFzIHRhbGwgYXMgaXRzIHBhcmVudC4KICAgICAgICAgICAgLy8KICAgICAgICAgICAgLy8gSW52b2tlICJkZWJ1ZyBwYWludCIgKHByZXNzICJwIiBpbiB0aGUgY29uc29sZSB3aGVyZSB5b3UgcmFuCiAgICAgICAgICAgIC8vICJmbHV0dGVyIHJ1biIsIG9yIHNlbGVjdCAiVG9nZ2xlIERlYnVnIFBhaW50IiBmcm9tIHRoZSBGbHV0dGVyIHRvb2wKICAgICAgICAgICAgLy8gd2luZG93IGluIEludGVsbGlKKSB0byBzZWUgdGhlIHdpcmVmcmFtZSBmb3IgZWFjaCB3aWRnZXQuCiAgICAgICAgICAgIC8vCiAgICAgICAgICAgIC8vIENvbHVtbiBoYXMgdmFyaW91cyBwcm9wZXJ0aWVzIHRvIGNvbnRyb2wgaG93IGl0IHNpemVzIGl0c2VsZiBhbmQKICAgICAgICAgICAgLy8gaG93IGl0IHBvc2l0aW9ucyBpdHMgY2hpbGRyZW4uIEhlcmUgd2UgdXNlIG1haW5BeGlzQWxpZ25tZW50IHRvCiAgICAgICAgICAgIC8vIGNlbnRlciB0aGUgY2hpbGRyZW4gdmVydGljYWxseTsgdGhlIG1haW4gYXhpcyBoZXJlIGlzIHRoZSB2ZXJ0aWNhbAogICAgICAgICAgICAvLyBheGlzIGJlY2F1c2UgQ29sdW1ucyBhcmUgdmVydGljYWwgKHRoZSBjcm9zcyBheGlzIHdvdWxkIGJlCiAgICAgICAgICAgIC8vIGhvcml6b250YWwpLgogICAgICAgICAgICBtYWluQXhpc0FsaWdubWVudDogTWFpbkF4aXNBbGlnbm1lbnQuY2VudGVyLAogICAgICAgICAgICBjaGlsZHJlbjogPFdpZGdldD5bCiAgICAgICAgICAgICAgbmV3IFRleHQoCiAgICAgICAgICAgICAgICAnWW91IGhhdmUgcHVzaGVkIHRoZSBidXR0b24gdGhpcyBtYW55IHRpbWVzOicsCiAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICBTdHJlYW1CdWlsZGVyKAogICAgICAgICAgICAgICAgc3RyZWFtOiBjb3VudGVyQ3RybC5zdHJlYW0sCiAgICAgICAgICAgICAgICBpbml0aWFsRGF0YTogMCwKICAgICAgICAgICAgICAgIGJ1aWxkZXI6IChCdWlsZENvbnRleHQgY29udGV4dCwgQXN5bmNTbmFwc2hvdCBzbmFwc2hvdCkgewogICAgICAgICAgICAgICAgICBmaW5hbCBfY291bnRlciA9IHNuYXBzaG90LmRhdGE7CiAgICAgICAgICAgICAgICAgIHJldHVybiBuZXcgVGV4dCgKICAgICAgICAgICAgICAgICAgICAnJF9jb3VudGVyJywKICAgICAgICAgICAgICAgICAgICBzdHlsZTogVGhlbWUub2YoY29udGV4dCkudGV4dFRoZW1lLmRpc3BsYXkxLAogICAgICAgICAgICAgICAgICApOwogICAgICAgICAgICAgICAgfSwKICAgICAgICAgICAgICApLAogICAgICAgICAgICBdLAogICAgICAgICAgKSwKICAgICAgICApLAogICAgICAgIGZsb2F0aW5nQWN0aW9uQnV0dG9uOiBuZXcgRmxvYXRpbmdBY3Rpb25CdXR0b24oCiAgICAgICAgICBvblByZXNzZWQ6ICgpID0+IGNvdW50ZXJDdHJsLmFkZChfY291bnRlciArIDEpLAogICAgICAgICAgdG9vbHRpcDogJ0luY3JlbWVudCcsCiAgICAgICAgICBjaGlsZDogbmV3IEljb24oSWNvbnMuYWRkKSwKICAgICAgICApLCAvLyBUaGlzIHRyYWlsaW5nIGNvbW1hIG1ha2VzIGF1dG8tZm9ybWF0dGluZyBuaWNlciBmb3IgYnVpbGQgbWV0aG9kcy4KICAgICAgKQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvdW50ZXJDdHJsLmFkZChfY291bnRlciArIDEpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50KF9jb3VudGVyKTsK</text>
+        <text encoding="base64">ICB2b2lkIF9pbmNyZW1lbnRDb3VudGVyKCkgewogICAgY291bnRlckN0cmwuc3RyZWFtLmpramsKICB9Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>child: new Text(
-                '$_counter',
-                style: Theme.of(context).textTheme.display1,
-              ),</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBpbnQgX2NvdW50ZXIgPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHggKyB5Owo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNldFN0YXRlKCgpIHsKICAgICAgLy8gVGhpcyBjYWxsIHRvIHNldFN0YXRlIHRlbGxzIHRoZSBGbHV0dGVyIGZyYW1ld29yayB0aGF0IHNvbWV0aGluZyBoYXMKICAgICAgLy8gY2hhbmdlZCBpbiB0aGlzIFN0YXRlLCB3aGljaCBjYXVzZXMgaXQgdG8gcmVydW4gdGhlIGJ1aWxkIG1ldGhvZCBiZWxvdwogICAgICAvLyBzbyB0aGF0IHRoZSBkaXNwbGF5IGNhbiByZWZsZWN0IHRoZSB1cGRhdGVkIHZhbHVlcy4gSWYgd2UgY2hhbmdlZAogICAgICAvLyBfY291bnRlciB3aXRob3V0IGNhbGxpbmcgc2V0U3RhdGUoKSwgdGhlbiB0aGUgYnVpbGQgbWV0aG9kIHdvdWxkIG5vdCBiZQogICAgICAvLyBjYWxsZWQgYWdhaW4sIGFuZCBzbyBub3RoaW5nIHdvdWxkIGFwcGVhciB0byBoYXBwZW4uCiAgICAgIF9jb3VudGVyKys7CiAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgXAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>counter</last-search>
+      <last-search>Stream</last-search>
       <last-offset />
-      <last-pattern>counter</last-pattern>
+      <last-pattern>Stream</last-pattern>
       <last-replace>dateIntervalDropdownCtrl</last-replace>
       <last-substitute>$ctrl</last-substitute>
       <last-dir>1</last-dir>
@@ -1297,7 +1294,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZWRpcmVjdFw+</entry>
         <entry>issue</entry>
         <entry>newIssue</entry>
         <entry>reload</entry>
@@ -1317,6 +1313,7 @@
         <entry>then</entry>
         <entry encoding="base64">XDxjb3VudGVyQ3RybFw+</entry>
         <entry>counter</entry>
+        <entry>Stream</entry>
       </history-search>
       <history-cmd>
         <entry>39</entry>
