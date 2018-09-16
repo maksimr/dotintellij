@@ -180,13 +180,6 @@
       <file name="$USER_HOME$/www/dart/JetBooking/test/http_mock.dart" timestamp="1536664682125">
         <mark key="'" line="6" column="29" />
       </file>
-      <file name="$USER_HOME$/www/dart/foo/lib/main.dart" timestamp="1537128693933">
-        <mark key="'" line="104" column="25" />
-        <mark key="[" line="14" column="26" />
-        <mark key="]" line="14" column="26" />
-        <mark key="." line="14" column="26" />
-        <mark key="^" line="14" column="26" />
-      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/attachments/service/upload-attachments-to.js" timestamp="1529875755370">
         <mark key="'" line="5" column="8" />
       </file>
@@ -1142,10 +1135,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
-      <jump line="246" column="14" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
-      <jump line="338" column="43" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
       <jump line="69" column="24" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
       <jump line="323" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
       <jump line="244" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
@@ -1241,54 +1230,54 @@
       <jump line="2072" column="75" filename="$USER_HOME$/www/dart/flutter/bin/cache/pkg/sky_engine/lib/async/stream.dart" />
       <jump line="1117" column="48" filename="$USER_HOME$/www/dart/flutter/bin/cache/pkg/sky_engine/lib/async/stream.dart" />
       <jump line="23" column="26" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
-      <jump line="96" column="25" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="6" column="5" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="7" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="96" column="13" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="87" column="7" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN5bmMtYm90dG9tPSJ5dC1mb290ZXI7LTQwIgogICAgICAgICAgICAgIDxkaXYK</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">Y29uc3Qg</text>
+        <text>new</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uc3Qg</text>
+        <text>new</text>
       </register>
       <register name="/" type="4">
-        <text>next</text>
+        <text>reduce</text>
       </register>
       <register name="0" type="4">
-        <text>StreamTransformer.fromHandlers(handleData: (data, sink) {
-      sink.add(data);
-    })</text>
+        <text>peekValue = func(peekValue, data)</text>
       </register>
-      <register name="1" type="4">
-        <text>StreamTransformer.fromHandlers(handleData: (data, sink) {
-      sink.add(data);
-    })</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBNeUFwcCgpIHsKICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJlYW1UcmFuc2Zvcm1lci5mcm9tSGFuZGxlcnMoaGFuZGxlRGF0YTogKGRhdGEsIHNpbmspIHsKICAgICAgc2luay5hZGQoZGF0YSk7CiAgICB9KTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvdW50ZXJrCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvdW50ZXJFdmVudHMuZm9sZCgwLCAoY291bnRlciwgZXZlbnQpIHsKICAgICAgZmluYWwgbmV3Q291bnRlciA9IGV2ZW50KGNvdW50ZXIpOwogICAgICBjb3VudGVyQ3RybC5hZGQobmV3Q291bnRlcik7CiAgICAgIHJldHVybiBuZXdDb3VudGVyOwogICAgfSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZmluYWwgY291bnRlckN0cmwgPSBTdHJlYW1Db250cm9sbGVyKCk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZmluYWwgY291bnRlciA9IGNvdW50ZXJDdHJsLnN0cmVhbTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvdW50ZXJFdmVudHMKICAgICAgICAudHJhbnNmb3JtKFN0cmVhbVRyYW5zZm9ybWVyKChTdHJlYW0gaW5wdXQsIGJvb2wgY2FuY2VsT25FcnJvcikgewogICAgICBTdHJlYW1TdWJzY3JpcHRpb24gc3Vic2NyaXB0aW9uOwoKICAgICAgZmluYWwgY3RybCA9IFN0cmVhbUNvbnRyb2xsZXIoCiAgICAgICAgb25DYW5jZWw6ICgpID0+IHN1YnNjcmlwdGlvbi5jYW5jZWwoKSwKICAgICAgICBvblBhdXNlOiAoKSA9PiBzdWJzY3JpcHRpb24ucGF1c2UoKSwKICAgICAgICBvblJlc3VtZTogKCkgPT4gc3Vic2NyaXB0aW9uLnJlc3VtZSgpLAogICAgICApOwoKICAgICAgc3Vic2NyaXB0aW9uID0gaW5wdXQubGlzdGVuKAogICAgICAgIChkYXRhKSB7CiAgICAgICAgICBjdHJsLmFkZChkYXRhKTsKICAgICAgICB9LAogICAgICAgIG9uRXJyb3I6IGN0cmwuYWRkRXJyb3IsCiAgICAgICAgb25Eb25lOiBjdHJsLmNsb3NlLAogICAgICAgIGNhbmNlbE9uRXJyb3I6IGNhbmNlbE9uRXJyb3IsCiAgICAgICk7CgogICAgICByZXR1cm4gY3RybC5zdHJlYW0ubGlzdGVuKG51bGwpOwogICAgfSkpOwo=</text>
+        <text encoding="base64">ICAgIGNvdW50ZXIgPQogICAgICAgIGNvdW50ZXJFdmVudHMudHJhbnNmb3JtKHJlZHVjZSgoY291bnRlciwgZXZlbnQpID0+IGV2ZW50KGNvdW50ZXIpLCAwKSk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
@@ -1297,16 +1286,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb3VudGVyRXZlbnRzLmZvbGQoMCwgKGNvdW50ZXIsIGV2ZW50KSB7CiAgICBmaW5hbCBuZXdDb3VudGVyID0gZXZlbnQoY291bnRlcik7CiAgICBjb3VudGVyQ3RybC5hZGQobmV3Q291bnRlcik7CiAgICByZXR1cm4gbmV3Q291bnRlcjsKICB9KTsKCg==</text>
+        <text encoding="base64">ICAgIHppcChbCiAgICAgIGNvdW50ZXIsCiAgICAgIGNvdW50ZXJFdmVudHMsCiAgICBdLCAoemlwRGF0YSkgewogICAgICByZXR1cm4gbnVsbDsKICAgIH0pOwo=</text>
       </register>
       <register name=":" type="4">
-        <text encoding="base64">JzwsJz5hY3Rpb24gQWNlQWN0aW9u</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>next</last-search>
+      <last-search>reduce</last-search>
       <last-offset />
-      <last-pattern>next</last-pattern>
+      <last-pattern>reduce</last-pattern>
       <last-replace>dateIntervalDropdownCtrl</last-replace>
       <last-substitute>$ctrl</last-substitute>
       <last-dir>1</last-dir>
@@ -1314,7 +1303,6 @@
     </search>
     <history>
       <history-search>
-        <entry>devServer</entry>
         <entry encoding="base64">XDxwYXRoUmV3cml0ZVw+</entry>
         <entry>pathRewrite</entry>
         <entry>dev</entry>
@@ -1334,6 +1322,7 @@
         <entry>current</entry>
         <entry encoding="base64">XDxTdHJlYW1JdGVyYXRvclw+</entry>
         <entry>next</entry>
+        <entry>reduce</entry>
       </history-search>
       <history-cmd>
         <entry>39</entry>
@@ -1354,8 +1343,8 @@
         <entry>177</entry>
         <entry>%s/$ctrl/dateIntervalDropdownCtrl/gc</entry>
         <entry>27</entry>
-        <entry>w</entry>
         <entry encoding="base64">JzwsJz5hY3Rpb24gQWNlQWN0aW9u</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
