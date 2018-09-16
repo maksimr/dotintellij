@@ -180,6 +180,13 @@
       <file name="$USER_HOME$/www/dart/JetBooking/test/http_mock.dart" timestamp="1536664682125">
         <mark key="'" line="6" column="29" />
       </file>
+      <file name="$USER_HOME$/www/dart/foo/lib/main.dart" timestamp="1537090564487">
+        <mark key="'" line="24" column="11" />
+        <mark key="[" line="35" column="38" />
+        <mark key="]" line="36" column="18" />
+        <mark key="." line="36" column="18" />
+        <mark key="^" line="36" column="18" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/attachments/service/upload-attachments-to.js" timestamp="1529875755370">
         <mark key="'" line="5" column="8" />
       </file>
@@ -195,7 +202,7 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/auth/auth.js" timestamp="1534755888088">
         <mark key="'" line="65" column="8" />
       </file>
-      <file name="$USER_HOME$/www/dart/JetBooking/test_driver/main_test.dart" timestamp="1537050820876">
+      <file name="$USER_HOME$/www/dart/JetBooking/test_driver/main_test.dart" timestamp="1537080062145">
         <mark key="'" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/www/dart/JetBooking/lib/components/TimePicker.dart" timestamp="1535576442233">
@@ -569,6 +576,12 @@
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/form/directive/yt-form-input.js" timestamp="1536580478718">
         <mark key="'" line="122" column="2" />
+      </file>
+      <file name="$USER_HOME$/www/dart/foo/pubspec.yaml" timestamp="1537089575527">
+        <mark key="[" line="21" column="10" />
+        <mark key="]" line="21" column="12" />
+        <mark key="." line="21" column="12" />
+        <mark key="^" line="21" column="12" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue-custom-fields/directive/yt-issue-custom-field-complex.js" timestamp="1534773434489">
         <mark key="'" line="486" column="2" />
@@ -1113,14 +1126,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/template/yt-date-interval-dropdown.html" />
-      <jump line="8" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/template/yt-date-interval-dropdown.html" />
-      <jump line="196" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-picker.js" />
-      <jump line="30" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-picker.js" />
-      <jump line="41" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/template/yt-date-interval-dropdown.html" />
-      <jump line="7" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-interval-dropdown.js" />
-      <jump line="17" column="28" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-interval-dropdown.js" />
-      <jump line="29" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-interval-dropdown.js" />
       <jump line="33" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-interval-dropdown.js" />
       <jump line="39" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-interval-dropdown.js" />
       <jump line="45" column="11" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/directive/yt-date-interval-dropdown.js" />
@@ -1212,56 +1217,67 @@
       <jump line="12" column="0" filename="$USER_HOME$/www/dart/JetBooking/test_driver/main_test.dart" />
       <jump line="4" column="0" filename="$USER_HOME$/www/dart/JetBooking/test_driver/main_test.dart" />
       <jump line="1" column="0" filename="$USER_HOME$/www/dart/JetBooking/test_driver/main_test.dart" />
+      <jump line="13" column="0" filename="$USER_HOME$/www/dart/JetBooking/test_driver/main_test.dart" />
+      <jump line="3" column="12" filename="$USER_HOME$/www/dart/JetBooking/test_driver/main_test.dart" />
       <jump line="18" column="0" filename="$USER_HOME$/www/dart/JetBooking/test_driver/main_test.dart" />
+      <jump line="108" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="11" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="20" column="7" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="51" column="4" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="3" column="6" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="24" column="11" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN5bmMtYm90dG9tPSJ5dC1mb290ZXI7LTQwIgogICAgICAgICAgICAgIDxkaXYK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICRjdHJsID0gJGVsZW1lbnQuc2NvcGUoKS4kY3RybDsKICAgICRyb290U2NvcGUuJGFwcGx5KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgXAo=</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>rest</text>
+        <text>add(2);</text>
       </register>
       <register name="/" type="4">
-        <text>then</text>
+        <text>counter</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICRjdHJsID0gJGVsZW1lbnQuc2NvcGUoKS4kY3RybDsKICAgICRyb290U2NvcGUuJGFwcGx5KCk7Cg==</text>
+        <text encoding="base64">ICBmaW5hbCBTdHJpbmcgdGl0bGU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgXAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgaXNzdWVSZXNvdXJjZS5zaW1pbGFySXNzdWVzLnNhdmUoewogICAgICAgIGlkOiBpc3N1ZUlkCiAgICAgIH0pKQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmVxLiRwcm9taXNlOwo=</text>
+        <text encoding="base64">ICAgIGZpbmFsIF9jb3VudGVyID0gYXdhaXQgY291bnRlckN0cmwuc3RyZWFtLmxhc3Q7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCc+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+PicpOwogICAgICAgICAgY29uc29sZS5sb2cocmVxLnF1ZXJ5KTsKICAgICAgICAgIGNvbnNvbGUubG9nKCc+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+PicpOwo=</text>
+        <text encoding="base64">ICAgIGNvdW50ZXJDdHJsLmFkZChfY291bnRlciArIDEpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4nKTsKICAgICAgICBjb25zb2xlLmxvZygnPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4nKTsKICAgICAgICBjb25zb2xlLmxvZygnPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4nKTsKICAgICAgICBjb25zb2xlLmxvZygnPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4nKTsK</text>
+        <text encoding="base64">ICAgIHByaW50KF9jb3VudGVyKTsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4nKTsKICAgICAgICBjb25zb2xlLmxvZygnPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4nKTsKICAgICAgICBjb25zb2xlLmxvZygnPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4nKTsKICAgICAgICBjb25zb2xlLmxvZygnPj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4+Pj4nKTsK</text>
+      <register name="6" type="4">
+        <text>child: new Text(
+                '$_counter',
+                style: Theme.of(context).textTheme.display1,
+              ),</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnLyoqcmVkaXJlY3Q9dHJ1ZScsCg==</text>
+        <text encoding="base64">ICBpbnQgX2NvdW50ZXIgPSAwOwo=</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNldFN0YXRlKCgpIHsKICAgICAgLy8gVGhpcyBjYWxsIHRvIHNldFN0YXRlIHRlbGxzIHRoZSBGbHV0dGVyIGZyYW1ld29yayB0aGF0IHNvbWV0aGluZyBoYXMKICAgICAgLy8gY2hhbmdlZCBpbiB0aGlzIFN0YXRlLCB3aGljaCBjYXVzZXMgaXQgdG8gcmVydW4gdGhlIGJ1aWxkIG1ldGhvZCBiZWxvdwogICAgICAvLyBzbyB0aGF0IHRoZSBkaXNwbGF5IGNhbiByZWZsZWN0IHRoZSB1cGRhdGVkIHZhbHVlcy4gSWYgd2UgY2hhbmdlZAogICAgICAvLyBfY291bnRlciB3aXRob3V0IGNhbGxpbmcgc2V0U3RhdGUoKSwgdGhlbiB0aGUgYnVpbGQgbWV0aG9kIHdvdWxkIG5vdCBiZQogICAgICAvLyBjYWxsZWQgYWdhaW4sIGFuZCBzbyBub3RoaW5nIHdvdWxkIGFwcGVhciB0byBoYXBwZW4uCiAgICAgIF9jb3VudGVyKys7CiAgICB9KTsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1271,9 +1287,9 @@
       </register>
     </registers>
     <search>
-      <last-search>then</last-search>
+      <last-search>counter</last-search>
       <last-offset />
-      <last-pattern>then</last-pattern>
+      <last-pattern>counter</last-pattern>
       <last-replace>dateIntervalDropdownCtrl</last-replace>
       <last-substitute>$ctrl</last-substitute>
       <last-dir>1</last-dir>
@@ -1281,8 +1297,6 @@
     </search>
     <history>
       <history-search>
-        <entry>issues</entry>
-        <entry>cloud</entry>
         <entry encoding="base64">XDxyZWRpcmVjdFw+</entry>
         <entry>issue</entry>
         <entry>newIssue</entry>
@@ -1301,6 +1315,8 @@
         <entry>dev</entry>
         <entry>$qPro</entry>
         <entry>then</entry>
+        <entry encoding="base64">XDxjb3VudGVyQ3RybFw+</entry>
+        <entry>counter</entry>
       </history-search>
       <history-cmd>
         <entry>39</entry>
