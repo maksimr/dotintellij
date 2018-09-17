@@ -533,6 +533,12 @@
         <mark key="^" line="12" column="54" />
         <mark key="." line="13" column="6" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/mail-box/mailbox-form.html" timestamp="1537172862886">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="141" column="12" />
+        <mark key="." line="141" column="0" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/report-types/service/charts/ganttChart.js" timestamp="1535408374458">
         <mark key="'" line="166" column="34" />
       </file>
@@ -791,7 +797,7 @@
       <file name="$USER_HOME$/www/dart/flutter/packages/flutter_test/lib/src/finders.dart" timestamp="1534243319101">
         <mark key="'" line="395" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/theme/service/ring-ui-theme.js" timestamp="1535148672588">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/theme/service/ring-ui-theme.js" timestamp="1537172618736">
         <mark key="'" line="442" column="2" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/settings/license.html" timestamp="1536147289106">
@@ -1414,12 +1420,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/test/service/permission-route-decorator.js" />
-      <jump line="118" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/feature-flags/test/service/feature-flag-route-decorator.js" />
-      <jump line="189" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/feature-flags/test/service/feature-flag-route-decorator.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/feature-flags/test/service/feature-flag-route-decorator.js" />
-      <jump line="48" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/feature-flags/test/service/feature-flag-route-decorator.js" />
-      <jump line="10" column="29" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/feature-flags/test/service/feature-flag-route-decorator.js" />
       <jump line="1" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/permission-route-decorator.js" />
       <jump line="82" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/permission-route-decorator.js" />
       <jump line="65" column="9" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/permissions/service/permission-route-decorator.js" />
@@ -1514,67 +1514,73 @@
       <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/show-lists/test/directive/yt-show-more.js" />
       <jump line="12" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/show-lists/test/directive/yt-show-more.js" />
       <jump line="111" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/show-lists/test/directive/yt-show-more.js" />
+      <jump line="86" column="31" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/theme/service/ring-ui-theme.js" />
+      <jump line="29" column="32" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/theme/service/ring-ui-theme.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/theme/service/ring-ui-theme.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/theme/service/ring-ui-theme.js" />
+      <jump line="442" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/theme/service/ring-ui-theme.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/template/mail-box/mailbox-form.html" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN5bmMtYm90dG9tPSJ5dC1mb290ZXI7LTQwIgogICAgICAgICAgICAgIDxkaXYK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>featureFlagsInitializer.getInitializationPromise</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>featureFlagsInitializer.getInitializationPromise</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
-        <text>invoke</text>
+        <text>SSL</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNweU9uKGZlYXR1cmVGbGFnc0luaXRpYWxpemVyLCAnZ2V0SW5pdGlhbGl6YXRpb25Qcm9taXNlJykuYW5kLnJldHVyblZhbHVlKCRxLmRlZmVyKCkucHJvbWlzZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNweU9uKGZlYXR1cmVGbGFnc0luaXRpYWxpemVyLCAnZ2V0SW5pdGlhbGl6YXRpb25Qcm9taXNlJykuYW5kLnJldHVyblZhbHVlKCRxLmRlZmVyKCkucHJvbWlzZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGludm9rZVJvdXRlKHJvdXRlKTsK</text>
+        <text encoding="base64">ICAgIHNweU9uKGZlYXR1cmVGbGFnc0luaXRpYWxpemVyLCAnZ2V0SW5pdGlhbGl6YXRpb25Qcm9taXNlJykuYW5kLnJldHVyblZhbHVlKCRxLmRlZmVyKCkucHJvbWlzZSk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbG9hZFVzZXJQZXJtaXNzaW9uczogY3JlYXRlVXNlclBlcm1pc3Npb25zTW9jaygpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbG9hZFVzZXJQZXJtaXNzaW9uczogdXNlclBlcm1pc3Npb25zTW9jawo=</text>
+        <text encoding="base64">ICAgIGludm9rZVJvdXRlKHJvdXRlKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZlYXR1cmVGbGFnc1JvdXRlRGVjb3JhdG9yKHthY2Nlc3M6IHt9fSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>invoke</last-search>
+      <last-search>SSL</last-search>
       <last-offset />
-      <last-pattern>invoke</last-pattern>
+      <last-pattern>SSL</last-pattern>
       <last-replace>Picker</last-replace>
       <last-substitute>before</last-substitute>
       <last-dir>1</last-dir>
@@ -1582,7 +1588,6 @@
     </search>
     <history>
       <history-search>
-        <entry>try</entry>
         <entry>selected</entry>
         <entry>issues</entry>
         <entry>feature</entry>
@@ -1602,6 +1607,7 @@
         <entry>permis</entry>
         <entry encoding="base64">XDx2YWxpZGF0ZVBlcm1pc3Npb25cPg==</entry>
         <entry>invoke</entry>
+        <entry>SSL</entry>
       </history-search>
       <history-cmd>
         <entry>6,44s/static \(.*\);/static \1 = &quot;\1&quot;;/gc</entry>
