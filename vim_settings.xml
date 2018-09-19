@@ -857,8 +857,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issue-assignee.js" timestamp="1534877611338">
         <mark key="'" line="12" column="37" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/service/render-usage-retrospective-chart.js" timestamp="1537368908551">
-        <mark key="'" line="154" column="20" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/service/render-usage-retrospective-chart.js" timestamp="1537372073462">
+        <mark key="'" line="326" column="2" />
         <mark key="[" line="174" column="34" />
         <mark key="]" line="174" column="43" />
         <mark key="." line="174" column="43" />
@@ -1160,8 +1160,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2520" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/nvd3/nv.d3.js" />
-      <jump line="3009" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/nvd3/nv.d3.js" />
       <jump line="3058" column="13" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/nvd3/nv.d3.js" />
       <jump line="3631" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/nvd3/nv.d3.js" />
       <jump line="3819" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/node_modules/nvd3/nv.d3.js" />
@@ -1260,6 +1258,8 @@
       <jump line="154" column="20" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/service/render-usage-retrospective-chart.js" />
       <jump line="165" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/style/global-settings.scss" />
       <jump line="166" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/style/global-settings.scss" />
+      <jump line="178" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/service/render-usage-retrospective-chart.js" />
+      <jump line="326" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/admin/service/render-usage-retrospective-chart.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1275,7 +1275,7 @@
         <text>barWidth - padding</text>
       </register>
       <register name="/" type="4">
-        <text>bar</text>
+        <text>scale</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc3QgdyA9IGJhcldpZHRoIC0gcGFkZGluZzsK</text>
@@ -1318,9 +1318,9 @@
       </register>
     </registers>
     <search>
-      <last-search>bar</last-search>
+      <last-search>scale</last-search>
       <last-offset />
-      <last-pattern>bar</last-pattern>
+      <last-pattern>scale</last-pattern>
       <last-replace>mode=&quot;primary</last-replace>
       <last-substitute>mode=&quot;blue</last-substitute>
       <last-dir>1</last-dir>
@@ -1328,7 +1328,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxlbGVtZW50TW91c2VvdmVyXD4=</entry>
         <entry>off('mous</entry>
         <entry>off</entry>
         <entry>off\(</entry>
@@ -1348,6 +1347,7 @@
         <entry>ng-include</entry>
         <entry>plan</entry>
         <entry>bar</entry>
+        <entry>scale</entry>
       </history-search>
       <history-cmd>
         <entry>78</entry>
