@@ -195,11 +195,12 @@
       <file name="$USER_HOME$/www/dart/JetBooking/test/http_mock.dart" timestamp="1536664682125">
         <mark key="'" line="6" column="29" />
       </file>
-      <file name="$USER_HOME$/www/dart/foo/lib/main.dart" timestamp="1538057991865">
-        <mark key="'" line="8" column="2" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/www/dart/foo/lib/main.dart" timestamp="1538060515525">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="10" column="28" />
+        <mark key="." line="10" column="28" />
+        <mark key="^" line="10" column="28" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/attachments/service/upload-attachments-to.js" timestamp="1529875755370">
         <mark key="'" line="5" column="8" />
@@ -1294,7 +1295,6 @@
       <jump line="25" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="39" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="27" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
-      <jump line="15" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="45" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="33" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="42" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
@@ -1305,7 +1305,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="19" column="16" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="18" column="15" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
-      <jump line="10" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="13" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="22" column="15" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="14" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
@@ -1313,7 +1312,6 @@
       <jump line="43" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="40" column="7" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="30" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
-      <jump line="5" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="16" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="29" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="12" column="2" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
@@ -1326,19 +1324,22 @@
       <jump line="3" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="9" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
       <jump line="8" column="2" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="10" column="28" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="5" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
+      <jump line="15" column="0" filename="$USER_HOME$/www/dart/foo/lib/main.dart" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN5bmMtYm90dG9tPSJ5dC1mb290ZXI7LTQwIgogICAgICAgICAgICAgIDxkaXYK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIENvbnRhaW5lci5wcmludAo=</text>
+      <register name="&quot;" type="4">
+        <text>Container</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>EventSink</text>
+        <text>Container</text>
       </register>
       <register name="/" type="4">
         <text>wrap</text>
