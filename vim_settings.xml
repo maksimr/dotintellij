@@ -415,8 +415,8 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/user/service/current-user-resolver.js" timestamp="1531999136970">
         <mark key="'" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/www/dart/JetBooking/lib/screens/DetailsScreen.dart" timestamp="1537929348310">
-        <mark key="'" line="225" column="0" />
+      <file name="$USER_HOME$/www/dart/JetBooking/lib/screens/DetailsScreen.dart" timestamp="1538405284271">
+        <mark key="'" line="3" column="35" />
         <mark key="[" line="14" column="16" />
         <mark key="]" line="14" column="23" />
         <mark key="." line="14" column="23" />
@@ -729,6 +729,13 @@
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue-links-list/template/yt-issue-links-toolbar.html" timestamp="1527805004789">
         <mark key="'" line="33" column="31" />
+      </file>
+      <file name="$USER_HOME$/www/dart/JetBooking/.travis.yml" timestamp="1538405519029">
+        <mark key="'" line="36" column="4" />
+        <mark key="[" line="24" column="23" />
+        <mark key="]" line="24" column="22" />
+        <mark key="." line="24" column="22" />
+        <mark key="^" line="24" column="22" />
       </file>
       <file name="$USER_HOME$/www/dart/flutter/packages/flutter/lib/src/material/app_bar.dart" timestamp="1534252879266">
         <mark key="'" line="431" column="52" />
@@ -1234,11 +1241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="12" filename="$USER_HOME$/www/dart/JetBooking/lib/screens/DetailsScreen.dart" />
-      <jump line="4" column="54" filename="$USER_HOME$/www/dart/JetBooking/lib/screens/DetailsScreen.dart" />
-      <jump line="225" column="0" filename="$USER_HOME$/www/dart/JetBooking/lib/screens/DetailsScreen.dart" />
-      <jump line="23" column="17" filename="$USER_HOME$/www/dart/foo/test/screens/TodoList_test.dart" />
-      <jump line="13" column="0" filename="$USER_HOME$/www/dart/foo/lib/Dispatcher.dart" />
       <jump line="0" column="0" filename="$USER_HOME$/www/dart/foo/lib/Dispatcher.dart" />
       <jump line="21" column="1" filename="$USER_HOME$/www/dart/foo/lib/Dispatcher.dart" />
       <jump line="12" column="0" filename="$USER_HOME$/www/dart/foo/lib/Dispatcher.dart" />
@@ -1334,22 +1336,27 @@
       <jump line="39" column="0" filename="$USER_HOME$/www/dart/foo/test/components/TodoList_test.dart" />
       <jump line="25" column="0" filename="$USER_HOME$/www/dart/foo/test/components/TodoList_test.dart" />
       <jump line="16" column="0" filename="$USER_HOME$/www/dart/foo/test/components/TodoList_test.dart" />
+      <jump line="3" column="35" filename="$USER_HOME$/www/dart/JetBooking/lib/screens/DetailsScreen.dart" />
+      <jump line="23" column="29" filename="$USER_HOME$/www/dart/JetBooking/.travis.yml" />
+      <jump line="34" column="5" filename="$USER_HOME$/www/dart/JetBooking/.travis.yml" />
+      <jump line="1" column="0" filename="$USER_HOME$/www/dart/JetBooking/.travis.yml" />
+      <jump line="36" column="4" filename="$USER_HOME$/www/dart/JetBooking/.travis.yml" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN5bmMtYm90dG9tPSJ5dC1mb290ZXI7LTQwIgogICAgICAgICAgICAgIDxkaXYK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGlzcGF0Y2g8VD4oU2luazxUPiBjaGFubmVsLCBbVCBkYXRhXSkgPT4gY2hhbm5lbC5hZGQoZGF0YSk7Cgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">LS1IRUFEIA==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>Model</text>
+        <text encoding="base64">LS1IRUFEIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkaXNwYXRjaFw+</text>
+        <text>libmo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGlzcGF0Y2g8VD4oU2luazxUPiBjaGFubmVsLCBbVCBkYXRhXSkgPT4gY2hhbm5lbC5hZGQoZGF0YSk7Cgo=</text>
@@ -1392,17 +1399,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkaXNwYXRjaFw+</last-search>
+      <last-search>libmo</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkaXNwYXRjaFw+</last-pattern>
+      <last-pattern>libmo</last-pattern>
       <last-replace>mode=&quot;primary</last-replace>
       <last-substitute>mode=&quot;blue</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ticks =</entry>
         <entry encoding="base64">XDxkM19zY2FsZV9saW5lYXJUaWNrUmFuZ2VcPg==</entry>
         <entry>logTick</entry>
         <entry>Scale</entry>
@@ -1422,6 +1428,7 @@
         <entry>wrap</entry>
         <entry encoding="base64">XDxBZGRUb2RvXD4=</entry>
         <entry encoding="base64">XDxkaXNwYXRjaFw+</entry>
+        <entry>libmo</entry>
       </history-search>
       <history-cmd>
         <entry>78</entry>
