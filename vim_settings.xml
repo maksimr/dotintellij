@@ -1052,10 +1052,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/hub.config.js" timestamp="1532356259061">
         <mark key="'" line="79" column="23" />
       </file>
-      <file name="$USER_HOME$/www/dart/foo/test/components/TodoList_test.dart" timestamp="1538373879037">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/www/dart/foo/test/components/TodoList_test.dart" timestamp="1538402192798">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="13" column="16" />
+        <mark key="]" line="13" column="15" />
+        <mark key="." line="13" column="15" />
+        <mark key="^" line="13" column="15" />
       </file>
       <file name="$USER_HOME$/www/dart/JetBooking/lib/components/WeekDay.dart" timestamp="1533837817308">
         <mark key="'" line="26" column="0" />
@@ -1232,9 +1234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="24" filename="$USER_HOME$/www/dart/JetBooking/lib/screens/DetailsScreen.dart" />
-      <jump line="16" column="35" filename="$USER_HOME$/www/dart/JetBooking/test/screens/DetailsScreen_test.dart" />
-      <jump line="239" column="0" filename="$USER_HOME$/www/dart/JetBooking/test/screens/DetailsScreen_test.dart" />
       <jump line="64" column="12" filename="$USER_HOME$/www/dart/JetBooking/lib/screens/DetailsScreen.dart" />
       <jump line="4" column="54" filename="$USER_HOME$/www/dart/JetBooking/lib/screens/DetailsScreen.dart" />
       <jump line="225" column="0" filename="$USER_HOME$/www/dart/JetBooking/lib/screens/DetailsScreen.dart" />
@@ -1323,8 +1322,6 @@
       <jump line="124" column="0" filename="$USER_HOME$/www/dart/foo/test/components/TodoList_test.dart" />
       <jump line="40" column="17" filename="$USER_HOME$/www/dart/foo/test/components/TodoList_test.dart" />
       <jump line="13" column="12" filename="$USER_HOME$/www/dart/foo/test/components/TodoList_test.dart" />
-      <jump line="25" column="6" filename="$USER_HOME$/www/dart/foo/test/components/TodoList_test.dart" />
-      <jump line="28" column="0" filename="$USER_HOME$/www/dart/foo/test/components/TodoList_test.dart" />
       <jump line="5" column="0" filename="$USER_HOME$/www/dart/foo/test/components/TodoList_test.dart" />
       <jump line="27" column="0" filename="$USER_HOME$/www/dart/foo/test/components/TodoList_test.dart" />
       <jump line="46" column="21" filename="$USER_HOME$/www/dart/foo/test/components/TodoList_test.dart" />
@@ -1332,13 +1329,18 @@
       <jump line="29" column="0" filename="$USER_HOME$/www/dart/foo/test/components/TodoList_test.dart" />
       <jump line="7" column="38" filename="$USER_HOME$/www/dart/foo/test/components/TodoList_test.dart" />
       <jump line="33" column="3" filename="$USER_HOME$/www/dart/foo/test/components/TodoList_test.dart" />
+      <jump line="28" column="15" filename="$USER_HOME$/www/dart/foo/test/components/TodoList_test.dart" />
+      <jump line="42" column="0" filename="$USER_HOME$/www/dart/foo/test/components/TodoList_test.dart" />
+      <jump line="39" column="0" filename="$USER_HOME$/www/dart/foo/test/components/TodoList_test.dart" />
+      <jump line="25" column="0" filename="$USER_HOME$/www/dart/foo/test/components/TodoList_test.dart" />
+      <jump line="16" column="0" filename="$USER_HOME$/www/dart/foo/test/components/TodoList_test.dart" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN5bmMtYm90dG9tPSJ5dC1mb290ZXI7LTQwIgogICAgICAgICAgICAgIDxkaXYK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGlzcGF0Y2g8VD4oU2luazxUPiBjaGFubmVsLCBbVCBkYXRhXSkgPT4gY2hhbm5lbC5hZGQoZGF0YSk7CgphYnN0cmFjdCBjbGFzcyBDb3VudGVyVmlld1Byb3RvY29sIHsKICBTdHJlYW0gJCRjb3VudGVyOwogIFNpbms8aW50PiBpbmNyZW1lbnQkJDsKfQoKY2xhc3MgQ291bnRlclZpZXcgZXh0ZW5kcyBTdGF0ZWxlc3NXaWRnZXQgewogIENvdW50ZXJWaWV3KHRoaXMubW9kZWwpOwoKICBmaW5hbCBDb3VudGVyVmlld1Byb3RvY29sIG1vZGVsOwoKICBAb3ZlcnJpZGUKICBXaWRnZXQgYnVpbGQoQnVpbGRDb250ZXh0IGNvbnRleHQpIHsKICAgIHJldHVybiBTY2FmZm9sZCgKICAgICAgYm9keTogU3RyZWFtQnVpbGRlcigKICAgICAgICBzdHJlYW06IG1vZGVsLiQkY291bnRlciwKICAgICAgICBidWlsZGVyOiAoQnVpbGRDb250ZXh0IGNvbnRleHQsIEFzeW5jU25hcHNob3Qgc25hcHNob3QpIHsKICAgICAgICAgIGZpbmFsIGNvdW50ZXIgPSBzbmFwc2hvdC5kYXRhOwogICAgICAgICAgcmV0dXJuIFRleHQoIiRjb3VudGVyIik7CiAgICAgICAgfSwKICAgICAgKSwKICAgICAgZmxvYXRpbmdBY3Rpb25CdXR0b246IEZsb2F0aW5nQWN0aW9uQnV0dG9uKAogICAgICAgIG9uUHJlc3NlZDogKCkgPT4gZGlzcGF0Y2g8aW50Pihtb2RlbC5pbmNyZW1lbnQkJCwgMSksCiAgICAgICksCiAgICApOwogIH0KfQo=</text>
+        <text encoding="base64">ZGlzcGF0Y2g8VD4oU2luazxUPiBjaGFubmVsLCBbVCBkYXRhXSkgPT4gY2hhbm5lbC5hZGQoZGF0YSk7Cgo=</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -1350,7 +1352,7 @@
         <text encoding="base64">XDxkaXNwYXRjaFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGlzcGF0Y2g8VD4oU2luazxUPiBjaGFubmVsLCBbVCBkYXRhXSkgPT4gY2hhbm5lbC5hZGQoZGF0YSk7Cgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
