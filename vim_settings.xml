@@ -40,8 +40,10 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/externals/header/template/issues-menu-create-button.html" timestamp="1529957858393">
         <mark key="'" line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1538997912759">
-        <mark key="'" line="72" column="6" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" timestamp="1539005579065">
+        <mark key="'" line="170" column="35" />
+        <mark key="[" line="172" column="5" />
+        <mark key="]" line="172" column="19" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-webdriver-tests/src/test/kotlin/jetbrains/youtrack/webdriver/fsi/IssueAttachmentsTest.kt" timestamp="1530617812588">
         <mark key="'" line="26" column="19" />
@@ -976,8 +978,8 @@
       <file name="$USER_HOME$/.pub-cache/hosted/pub.dartlang.org/rxdart-0.17.0/lib/streams.dart" timestamp="1528715571868">
         <mark key="'" line="9" column="40" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-stream.js" timestamp="1539002942747">
-        <mark key="'" line="955" column="27" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-stream.js" timestamp="1539005536138">
+        <mark key="'" line="958" column="0" />
         <mark key="[" line="91" column="0" />
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
@@ -1322,10 +1324,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="997" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
-      <jump line="1142" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
-      <jump line="1161" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
-      <jump line="74" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
       <jump line="10" column="6" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
       <jump line="75" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
       <jump line="115" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
@@ -1413,7 +1411,6 @@
       <jump line="722" column="36" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
       <jump line="1042" column="41" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
       <jump line="789" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-stream.js" />
-      <jump line="954" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-stream.js" />
       <jump line="433" column="26" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
       <jump line="9" column="32" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issue-stream-types-map.js" />
       <jump line="83" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issue-stream-types-map.js" />
@@ -1422,13 +1419,18 @@
       <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-stream.js" />
       <jump line="946" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-stream.js" />
       <jump line="955" column="27" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-stream.js" />
+      <jump line="954" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-stream.js" />
+      <jump line="958" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/test/directive/yt-issue-stream.js" />
+      <jump line="26" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="200" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
+      <jump line="170" column="35" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/package.json" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN5bmMtYm90dG9tPSJ5dC1mb290ZXI7LTQwIgogICAgICAgICAgICAgIDxkaXYK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KHN0cmVhbUN0cmwuc3RyZWFtVGVtcGxhdGVzLmZpbmQoKGl0KSA9PiBpdC5rZXkgPT09IEFjdGl2aXR5LlNvdXJjZS5DT01NRU5UKSkK</text>
+      <register name="&quot;" type="4">
+        <text>test:e2e:server</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
@@ -1437,7 +1439,7 @@
         <text>WORK_ITEM</text>
       </register>
       <register name="/" type="4">
-        <text>find</text>
+        <text>e2e</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZXhwZWN0KGZpbmRUZW1wbGF0ZShzdHJlYW1DdHJsLnN0cmVhbVRlbXBsYXRlcywgQWN0aXZpdHkuU291cmNlLldPUktfSVRFTSkpCg==</text>
@@ -1480,9 +1482,9 @@
       </register>
     </registers>
     <search>
-      <last-search>find</last-search>
+      <last-search>e2e</last-search>
       <last-offset />
-      <last-pattern>find</last-pattern>
+      <last-pattern>e2e</last-pattern>
       <last-replace>mode=&quot;primary</last-replace>
       <last-substitute>mode=&quot;blue</last-substitute>
       <last-dir>1</last-dir>
@@ -1490,7 +1492,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdHJlYW1UZW1wbGF0ZXNcPg==</entry>
         <entry encoding="base64">XDxzdHJlYW1JdGVtVHlwZVw+</entry>
         <entry encoding="base64">XDxyZWFkUGVybWlzc2lvblw+</entry>
         <entry>isAss</entry>
@@ -1510,6 +1511,7 @@
         <entry>source</entry>
         <entry>toggleSourceAnimation</entry>
         <entry>find</entry>
+        <entry>e2e</entry>
       </history-search>
       <history-cmd>
         <entry>53</entry>
