@@ -249,6 +249,9 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/date/filter/yt-relative-date.js" timestamp="1529933513528">
         <mark key="'" line="79" column="0" />
       </file>
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" timestamp="1539083601161">
+        <mark key="'" line="66" column="5" />
+      </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/color-picker/service/color-dropdown.js" timestamp="1529928582972">
         <mark key="'" line="41" column="2" />
       </file>
@@ -1274,8 +1277,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="43" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issue-stream-types-map.js" />
-      <jump line="63" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issue-stream-types-map.js" />
       <jump line="52" column="43" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issue-stream-types-map.js" />
       <jump line="50" column="8" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issue-stream-types-map.js" />
       <jump line="39" column="43" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/service/issue-stream-types-map.js" />
@@ -1374,6 +1375,8 @@
       <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-overview.js" />
       <jump line="4" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-overview.js" />
       <jump line="77" column="2" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/projects/controller/projects-overview.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
+      <jump line="66" column="5" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -1389,7 +1392,7 @@
         <text>WORK_ITEM</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjaGVja0ZvclBlcm1pc3Npb25Mb3NzXD4=</text>
+        <text>other</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBhc3luYyBjaGVja0ZvclBlcm1pc3Npb25Mb3NzKGUsIHVybCwgbWV0aG9kLCBwYXJhbXMpIHsKICAgIGlmIChlcnJvckNvZGVzLmluZGV4T2YoZS5kYXRhLmVycm9yKSA+PSAwKSB7Cg==</text>
@@ -1432,17 +1435,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjaGVja0ZvclBlcm1pc3Npb25Mb3NzXD4=</last-search>
+      <last-search>other</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjaGVja0ZvclBlcm1pc3Npb25Mb3NzXD4=</last-pattern>
+      <last-pattern>other</last-pattern>
       <last-replace>mode=&quot;primary</last-replace>
       <last-substitute>mode=&quot;blue</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRTZWxlY3RlZFN0YXRlXD4=</entry>
         <entry>storag</entry>
         <entry encoding="base64">XDxpc3N1ZVN0cmVhbUZpbHRlcnNcPg==</entry>
         <entry>expect</entry>
@@ -1462,6 +1464,7 @@
         <entry>data.error</entry>
         <entry encoding="base64">XDxmYWlsT25QZXJtaXNzaW9uUmVkdWNlXD4=</entry>
         <entry encoding="base64">XDxjaGVja0ZvclBlcm1pc3Npb25Mb3NzXD4=</entry>
+        <entry>other</entry>
       </history-search>
       <history-cmd>
         <entry>53</entry>
