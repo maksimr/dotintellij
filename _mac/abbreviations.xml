@@ -9,9 +9,6 @@
         <abbreviation name="w" />
         <abbreviation name="wallaby" />
       </action>
-      <action id="ChooseRunConfiguration">
-        <abbreviation name="r" />
-      </action>
       <action id="Annotate">
         <abbreviation name="ga" />
       </action>
@@ -27,11 +24,17 @@
         <abbreviation name="w" />
         <abbreviation name="wallaby" />
       </action>
-      <action id="com.wallaby.javascript.actions.ShowFileUncoveredRangesAction">
+      <action id="ChooseRunConfiguration">
+        <abbreviation name="r" />
+      </action>
+      <action id="com.wallaby.javascript.actions.RunAllTestsAction">
         <abbreviation name="w" />
         <abbreviation name="wallaby" />
       </action>
-      <action id="com.wallaby.javascript.actions.RunAllTestsAction">
+      <action id="com.wallaby.javascript.actions.ShowValueAction">
+        <abbreviation name="wallaby" />
+      </action>
+      <action id="com.wallaby.javascript.actions.ShowFileUncoveredRangesAction">
         <abbreviation name="w" />
         <abbreviation name="wallaby" />
       </action>
