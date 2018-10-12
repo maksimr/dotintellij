@@ -294,12 +294,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sticky/directive/yt-sticky-panel.js" timestamp="1536137617288">
         <mark key="'" line="189" column="2" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" timestamp="1539349040258">
-        <mark key="'" line="256" column="27" />
-        <mark key="[" line="154" column="33" />
-        <mark key="]" line="155" column="9" />
-        <mark key="^" line="155" column="9" />
-        <mark key="." line="155" column="9" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" timestamp="1539349278780">
+        <mark key="'" line="155" column="10" />
+        <mark key="[" line="328" column="0" />
+        <mark key="]" line="328" column="0" />
+        <mark key="." line="328" column="0" />
+        <mark key="^" line="332" column="34" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/ring-ui/components/user-agreement/user-agreement.js" timestamp="1528218440075">
         <mark key="'" line="45" column="2" />
@@ -1433,8 +1433,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/service/yt-shortcuts.js" />
-      <jump line="10" column="21" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/service/yt-shortcuts.js" />
       <jump line="110" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/service/yt-shortcuts.js" />
       <jump line="8" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/service/yt-shortcuts.js" />
       <jump line="59" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/shortcuts/service/yt-shortcuts.js" />
@@ -1532,68 +1530,70 @@
       <jump line="161" column="18" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
       <jump line="0" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
       <jump line="170" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
-      <jump line="253" column="27" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
+      <jump line="173" column="30" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
+      <jump line="253" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
+      <jump line="155" column="10" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/webpack/development.config.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN5bmMtYm90dG9tPSJ5dC1mb290ZXI7LTQwIgogICAgICAgICAgICAgIDxkaXYK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICYm</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHByb3h5Q29uZmlnLmNoYW5nZU9yaWdpbiA9IHRydWU7Cg==</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICYm</text>
+        <text encoding="base64">ICE9PSAnL2h1Yic=</text>
       </register>
       <register name="/" type="4">
-        <text>redir</text>
+        <text>cloud</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNlY3VyZTogZmFsc2UK</text>
+        <text encoding="base64">ICAvL2NoZWNrIGZsYWcgZm9yIGhvc3RlZAogIGlmIChwYXRoICE9PSAnL2h1YicgfHwgIXBhcmFtcy5jbG91ZCkgewogICAgcGF0aCA9IGFkZENvbnRleHRUb1VybChwYXRoKTsKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBhdGhSZXdyaXRlOiB7J14vcmVkaXInOiAnLyd9LAo=</text>
+        <text encoding="base64">ICAgIHByb3h5Q29uZmlnLmNoYW5nZU9yaWdpbiA9IHRydWU7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAnL3JlZGlyJywK</text>
+        <text encoding="base64">ICBsZXQgcGF0aCA9IHByb3h5SXRlbTsKICBpZiAocHJveHlJdGVtLmNvbnN0cnVjdG9yID09PSBPYmplY3QpIHsKICAgIHByb3h5Q29uZmlnLnRpbWVvdXQgPSBwcm94eUl0ZW0udGltZW91dDsKICAgIHBhdGggPSBwcm94eUl0ZW0udXJsOwogIH0KICAvL2NoZWNrIGZsYWcgZm9yIGhvc3RlZAogIGlmIChwYXRoICE9PSAnL2h1YicgfHwgIXBhcmFtcy5jbG91ZCkgewogICAgcGF0aCA9IGFkZENvbnRleHRUb1VybChwYXRoKTsKICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzLnJlZGlyZWN0KCcvcmVkaXInICsgcmVxLnVybCk7Cg==</text>
+        <text encoding="base64">ICAgIC8vY2hlY2sgZmxhZyBmb3IgaG9zdGVkCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gZ2V0U2VydmVyVXJpKCkgewogIGxldCBzZXJ2ZXJVcmkgPSB1cmwuZm9ybWF0KHsKICAgIGhvc3RuYW1lOiBwYXJhbXMuc2VydmVyLmhvc3RuYW1lLAogICAgcG9ydDogcGFyYW1zLnNlcnZlci5wb3J0LAogICAgcHJvdG9jb2w6IHBhcmFtcy5zZXJ2ZXIucHJvdG9jb2wKICB9KTsKICByZXR1cm4gc2VydmVyVXJpOwp9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNoYW5nZU9yaWdpbjogcHJveHlJdGVtID09PSAnL3JlZGlyJwo=</text>
+        <text encoding="base64">ZnVuY3Rpb24gZ2V0UHJveHlVcmxGb3IodXJsKSB7CiAgcmV0dXJuIGdldFNlcnZlclVyaSgpICsgYWRkQ29udGV4dFRvVXJsKHVybCk7Cn0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>redir</last-search>
+      <last-search>cloud</last-search>
       <last-offset />
-      <last-pattern>redir</last-pattern>
+      <last-pattern>cloud</last-pattern>
       <last-replace>Picker</last-replace>
       <last-substitute>before</last-substitute>
       <last-dir>1</last-dir>
@@ -1601,7 +1601,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxvbkluaXRcPg==</entry>
         <entry encoding="base64">XDxvbkRlc3Ryb3lcPg==</entry>
         <entry>$onDes</entry>
         <entry encoding="base64">XDxjcmVhdGVOYXZUYXJnZXRcPg==</entry>
@@ -1621,6 +1620,7 @@
         <entry>context</entry>
         <entry>proxy</entry>
         <entry>redir</entry>
+        <entry>cloud</entry>
       </history-search>
       <history-cmd>
         <entry>6,44s/static \(.*\);/static \1 = &quot;\1&quot;;/gc</entry>
