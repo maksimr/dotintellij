@@ -25,7 +25,7 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="$main" value="main() {&#10;  $END$&#10;}" toReformat="true" toShortenFQNames="true">
+  <template name="$main" value="main() {&#10;  $END$&#10;}" description="" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="DART_TOPLEVEL" value="true" />
     </context>
