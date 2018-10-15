@@ -1009,8 +1009,11 @@
       <file name="$USER_HOME$/www/java/intellij-postfix-templates/test/src/de/endrullis/idea/postfixtemplates/templates/TemplateExtractionTestApp.java" timestamp="1532287751565">
         <mark key="'" line="17" column="32" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-stream.html" timestamp="1539355099806">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/template/yt-issue-stream.html" timestamp="1539611092023">
         <mark key="'" line="54" column="99" />
+        <mark key="[" line="221" column="18" />
+        <mark key="]" line="221" column="28" />
+        <mark key="." line="221" column="18" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/pages/reports/directive/yt-sharing-setting.js" timestamp="1531728192181">
         <mark key="'" line="45" column="2" />
@@ -1151,7 +1154,7 @@
       <file name="$USER_HOME$/.dvm/darts/2.0.0-dev.60.0/lib/collection/collection.dart" timestamp="1529095801165">
         <mark key="'" line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/test/icon.js" timestamp="1539605806507">
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/test/icon.js" timestamp="1539610547401">
         <mark key="'" line="28" column="0" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/feature-flags/test/service/feature-flag-route-decorator.js" timestamp="1536323026292">
@@ -1508,8 +1511,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1206" column="17" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
-      <jump line="1163" column="22" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
       <jump line="528" column="25" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
       <jump line="1081" column="19" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
       <jump line="1080" column="15" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/issue/directive/yt-issue-stream.js" />
@@ -1607,26 +1608,28 @@
       <jump line="24" column="42" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
       <jump line="3" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/test/icon.js" />
       <jump line="5" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/test/icon.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/test/icon.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/test/icon.js" />
       <jump line="28" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/icon/test/icon.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN5bmMtYm90dG9tPSJ5dC1mb290ZXI7LTQwIgogICAgICAgICAgICAgIDxkaXYK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Ctrl</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>fo</text>
+        <text>Ctrl</text>
       </register>
       <register name="/" type="4">
         <text>comment</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdChmaW5kLmJ5VHlwZShUb2RvSXRlbSksIGZpbmRzTldpZGdldHModG9kby5sZW5ndGgpKTsK</text>
+      <register name="0" type="4">
+        <text>streamCtrl</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
