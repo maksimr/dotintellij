@@ -210,7 +210,6 @@
         <option name="FOREGROUND" value="4646f1" />
       </value>
     </option>
-    <option name="DEFAULT_ATTRIBUTE" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_BLOCK_COMMENT">
       <value>
         <option name="FOREGROUND" value="a8a8a8" />
@@ -247,7 +246,6 @@
         <option name="FOREGROUND" value="77b767" />
       </value>
     </option>
-    <option name="DEFAULT_ENTITY" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_FUNCTION_CALL">
       <value>
         <option name="FOREGROUND" value="cc7833" />
@@ -281,7 +279,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="DEFAULT_LABEL" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="a8a8a8" />
@@ -297,7 +294,6 @@
         <option name="FOREGROUND" value="6897bb" />
       </value>
     </option>
-    <option name="DEFAULT_PREDEFINED_SYMBOL" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="DEFAULT_STATIC_FIELD">
       <value>
         <option name="FOREGROUND" value="9876aa" />
@@ -315,8 +311,6 @@
         <option name="FOREGROUND" value="78a7d7" />
       </value>
     </option>
-    <option name="DEFAULT_TAG" baseAttributes="TEXT" />
-    <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR" baseAttributes="TEXT" />
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="cc7832" />
@@ -476,6 +470,12 @@
         <option name="BACKGROUND" value="364135" />
       </value>
     </option>
+    <option name="INLINE_PARAMETER_HINT">
+      <value>
+        <option name="FOREGROUND" value="232323" />
+        <option name="BACKGROUND" value="acacac" />
+      </value>
+    </option>
     <option name="INSTANCE_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="9876aa" />
@@ -563,13 +563,11 @@
         <option name="FOREGROUND" value="ffa56e" />
       </value>
     </option>
-    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="JS.NUMBER">
       <value>
         <option name="FOREGROUND" value="a9b7c6" />
       </value>
     </option>
-    <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
     <option name="JS.SEMICOLON">
       <value>
         <option name="FOREGROUND" value="a9b7c6" />
