@@ -1451,12 +1451,12 @@
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/sortable/sortable.js" timestamp="1530524406555">
         <mark key="'" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/rtl/test/rtl.js" timestamp="1539619940250">
-        <mark key="'" line="3" column="18" />
-        <mark key="[" line="7" column="13" />
-        <mark key="]" line="7" column="22" />
-        <mark key="^" line="7" column="22" />
-        <mark key="." line="7" column="22" />
+      <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/rtl/test/rtl.js" timestamp="1539620313699">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="12" column="71" />
+        <mark key="]" line="12" column="75" />
+        <mark key="." line="12" column="75" />
+        <mark key="^" line="12" column="75" />
       </file>
       <file name="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/angular/angular.js" timestamp="1531659157969">
         <mark key="'" line="30" column="0" />
@@ -1558,8 +1558,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="0" filename="$USER_HOME$/www/dart/foo/test/components/TodoList_test.dart" />
-      <jump line="14" column="0" filename="$USER_HOME$/www/dart/foo/test/components/TodoList_test.dart" />
       <jump line="1" column="0" filename="$USER_HOME$/www/dart/foo/test/components/TodoList_test.dart" />
       <jump line="38" column="0" filename="$USER_HOME$/www/dart/foo/test/components/TodoList_test.dart" />
       <jump line="0" column="0" filename="$USER_HOME$/www/dart/foo/test/components/TodoList_test.dart" />
@@ -1658,58 +1656,60 @@
       <jump line="299" column="44" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
       <jump line="325" column="95" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
       <jump line="261" column="33" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/app.js" />
+      <jump line="17" column="80" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/rtl/test/rtl.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/www/jetbrains/youtrack/charisma/youtrack-frontend/app/components/rtl/test/rtl.js" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHN5bmMtYm90dG9tPSJ5dC1mb290ZXI7LTQwIgogICAgICAgICAgICAgIDxkaXYK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhjb25maWcpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>true</text>
       </register>
       <register name="c" type="4">
         <text>foo</text>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>body</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhjb25maWcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uKCRwcm92aWRlKSB7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgJHByb3ZpZGUudmFsdWUoJyRkb2N1bWVudCcsIGFuZ3VsYXIuZWxlbWVudCh7Ym9keTogYW5ndWxhci5lbGVtZW50KCdkaXYnKX0pKTsKICAgICAgJHByb3ZpZGUudmFsdWUoJ2NvbmZpZycsIHtsMTBuOiB7aXNSVEw6IHRydWV9fSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uZmlnTW9jayA9IHt9OwogICAgICBjb25maWdNb2NrLmJhY2tlbmQgPSB7CiAgICAgICAgcmluZzoge30sCiAgICAgICAgdmVyc2lvbjogJ2RldicKICAgICAgfTsKICAgICAgY29uZmlnTW9jay5iYWNrZW5kLnJpbmcudXJsID0gJy9odWInOwogICAgICBjb25maWdNb2NrLmJhY2tlbmQubG9nb1VybCA9ICd5b3V0cmFjay5wbmcnOwogICAgICBjb25maWdNb2NrLmJhY2tlbmQueW91dHJhY2tCYXNlVXJpID0gJyc7CgogICAgICAkcHJvdmlkZS52YWx1ZSgnY29uZmlnJywgY29uZmlnTW9jayk7CiAgICAgICRwcm92aWRlLnZhbHVlKCckYXR0cnMnLCB7fSk7Cg==</text>
+        <text encoding="base64">CgogIGJlZm9yZUVhY2goYW5ndWxhci5tb2NrLm1vZHVsZShmdW5jdGlvbigkcHJvdmlkZSkgewogICAgJHByb3ZpZGUuY29uc3RhbnQoJyRkb2N1bWVudCcsIGFuZ3VsYXIuZWxlbWVudCh7Ym9keTogYW5ndWxhci5lbGVtZW50KCc8ZGl2Lz4nKVswXX0pKTsKICAgICRwcm92aWRlLmNvbnN0YW50KCdjb25maWcnLCB7bDEwbjoge2lzUlRMOiB0cnVlfX0pOwogIH0pKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgJHByb3ZpZGUudmFsdWUoJ2NvbmZpZycsIGNvbmZpZ01vY2spOwo=</text>
+        <text encoding="base64">ICBpdCgnc2hvdWxkIHNldCBzcGVjaWFsIGNsYXNzIG9uIGJvZHkgaWYgdXNlciBlbmFibGVkIHJ0bCcsIGluamVjdChmdW5jdGlvbigkZG9jdW1lbnQpIHsKICAgIGV4cGVjdChhbmd1bGFyLmVsZW1lbnQoJGRvY3VtZW50WzBdLmJvZHkpLmhhc0NsYXNzKCdydGwnKSkudG9FcXVhbCh0cnVlKTsKICB9KSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0FBQScpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCRkb2N1bWVudFswXS5ib2R5KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text />
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhjb25maWcpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZ1bmN0aW9uKCRwcm92aWRlKSB7CiAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
